@@ -13,13 +13,13 @@ def generate_all_possible_count_pairs(C: int, Pr: float) -> list[Tuple[int, int]
     List of (rule_count, nonrule_count) tuples
     """
     
-    min_sum = int(C / 5)
-    max_sum = int(1.5 * C) + 1
+    min_sum = int(C / 4)
+    max_sum = min(20, int(3 * C))
     
     pairs = []
     
     for total in range(min_sum, max_sum + 1):
-        for rule_count in range(0, int(total * Pr) + 1):
+        for rule_count in range(0, min(total - 1, int(total * Pr) + 2)):
             nonrule_count = total - rule_count
             pairs.append((rule_count, nonrule_count))
     

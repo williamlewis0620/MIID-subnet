@@ -328,9 +328,12 @@ def bfs_layers(
     """
     if R <= 0:
         return []
-    seen: Set[str] = {seed}
+    # Remove all special characters from seed to normalize for BFS
+    import re
+    seed_ = re.sub(r'[^a-zA-Z]', 'a', seed)
+    seen: Set[str] = {seed_}
     layers: List[Set[str]] = [set()] * (R + 1)  # index 0 unused
-    prev = {seed}
+    prev = {seed_}
     seed_ph = seed_codes(seed)
     max_ld = 2
     vpool = [[[set() for p in range(8)] for o in range(4)] for ld in range(max_ld + 1)]
@@ -430,6 +433,7 @@ def expand_into_buckets(
     # Generate additional layer with same-length variations using only different characters
     used_chars = set(seed.lower())
     available_chars = [c for c in alphabet if c not in used_chars]
+    rng = random.Random()
     if available_chars:  # Only generate if we have available characters
         max_try = bucket_k * 10
         try_count = 0

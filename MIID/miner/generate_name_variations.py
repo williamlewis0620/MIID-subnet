@@ -822,25 +822,24 @@ def generate_name_variations(
             orthographic_similarity,
             logger
         )
-        if cand is None or cand.scores <= 0.00001:
-            continue
-        if best_cand is None or cand.scores > best_cand.scores:
-            # if abs(cand.scores - best_cand.scores) <= 0.00001:
-            #     if len(best_cand.cand_nonrule_varset) > len(cand.cand_nonrule_varset):
+        if not best_cand:
             best_cand = cand
-            #     else:
-            #         continue
-            # else:
-            #     best_cand = cand
-    logger.debug(f"-" * 100)
-    logger.debug(f"Best score achieved: {best_cand.scores}")
-    logger.debug(f"Best selected: {best_cand.rule_count}/{len(best_cand.cand_nonrule_varset[0]) if best_cand.cand_nonrule_varset else 1}")
-    logger.debug(f"Rule variations: {best_cand.cand_minrequired_rule_varset}")
-    logger.debug(f"Nonrule variations: {best_cand.cand_nonrule_varset}")
-    logger.debug(f"Additional rule variations: {best_cand.additional_rule_varset}")
-    logger.debug(f"Metric: \n{json.dumps(best_cand.metric, indent=4)}")
-    logger.debug(f"-" * 100)
-    
+        if not cand:
+            continue
+        if cand.scores > best_cand.scores:
+            best_cand = cand
+    if best_cand:
+        logger.debug(f"-" * 100)
+        logger.debug(f"Best score achieved: {best_cand.scores}")
+        logger.debug(f"Best selected: {best_cand.rule_count}/{len(best_cand.cand_nonrule_varset[0]) if best_cand.cand_nonrule_varset else 1}")
+        logger.debug(f"Rule variations: {best_cand.cand_minrequired_rule_varset}")
+        logger.debug(f"Nonrule variations: {best_cand.cand_nonrule_varset}")
+        logger.debug(f"Additional rule variations: {best_cand.additional_rule_varset}")
+        logger.debug(f"Metric: \n{json.dumps(best_cand.metric, indent=4)}")
+        best_cand.query_params = query_params
+        logger.debug(f"-" * 100)
+    else:
+        logger.debug(f"No best candidate found")
+        best_cand = None
     logger.flush()
-    best_cand.query_params = query_params
     return best_cand

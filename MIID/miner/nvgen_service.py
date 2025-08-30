@@ -71,13 +71,14 @@ def make_key(names: List[str], query_template: str) -> str:
     return hashlib.sha256(str(names).encode() + query_template.encode()).hexdigest()[:6]
 
 
-async def calculate_answer_candidate(names: List[str], query_template: str, timeout: Optional[float] = None) -> List[str]:
+async def calculate_answer_candidate(names: List[str], query_template: str, query_params: Optional[Dict] = None, timeout: Optional[float] = None) -> List[str]:
     """
     Calculate answer candidate from names and query template
     """
     from MIID.miner.parse_query import query_parser
     try:
-        query_params = await query_parser(query_template, max_retries=1)
+        if query_params is None:
+            query_params = await query_parser(query_template, max_retries=1)
         if query_params is None:
             print(f"Failed to parse query: {query_template}")
             return []
@@ -146,10 +147,9 @@ class AnswerCandidateForNoisy:
         if self.gen_idx < 5:
             reward, metric = self.calculate_reward(init_answer)
             fmt15 = f"{reward:.15f}"
-            if self.gen_idx == 0:
-                self.buckets_exact[fmt15] = [self.gen_idx]
-            else:
-                self.buckets_exact[fmt15].append(self.gen_idx)
+            if fmt15 not in self.buckets_exact:
+                self.buckets_exact[fmt15] = []
+            self.buckets_exact[fmt15].append(self.gen_idx)
             self.gen_idx += 1
             return init_answer, metric
         try_count = 1000
@@ -195,6 +195,7 @@ from pydantic import BaseModel
 class TaskRequest(BaseModel):
     names: List[str]
     query_template: str
+    query_params: Optional[Dict] = None
     timeout: Optional[float] = None
 
 @app.post("/task")
@@ -212,6 +213,7 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
     clear_cache()
     names = request.names
     query_template = request.query_template
+    query_params = request.query_params
     timeout = request.timeout
     key = make_key(names, query_template)
     if key in pending_requests:
@@ -223,7 +225,7 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
         print(f"Calculate answer candidate for {key} with timeout {timeout}")
         pending_requests[key] = asyncio.Event()
         try:
-            answer_candidate = await calculate_answer_candidate(names, query_template, timeout)
+            answer_candidate = await calculate_answer_candidate(names, query_template, query_params, timeout)
             answer_candidate = AnswerCandidateForNoisy(answer_candidate)
             answer_candidate_cache[key] = answer_candidate
             pending_requests[key].set()
