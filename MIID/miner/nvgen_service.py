@@ -188,9 +188,14 @@ class AnswerCandidateForNoisy:
                 self.gen_idx += 1
                 continue
 
+from pydantic import BaseModel
+class TaskRequest(BaseModel):
+    names: List[str]
+    query_template: str
+    timeout: Optional[float] = None
 
-@app.get("/task")
-async def solve_task(names: List[str], query_template: str, timeout: Optional[float] = None, background_tasks: BackgroundTasks = None):
+@app.post("/task")
+async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = None):
     """
     GET /task?names={names}&query_template={query_template}&timeout={seconds}: Solve task
     
@@ -202,6 +207,9 @@ async def solve_task(names: List[str], query_template: str, timeout: Optional[fl
         if len(answer_candidate_cache) > 100:
             del answer_candidate_cache[list(answer_candidate_cache.keys())[0]]
     clear_cache()
+    names = request.names
+    query_template = request.query_template
+    timeout = request.timeout
     key = make_key(names, query_template)
     if key in pending_requests:
         print(f"Pending request hit for {key}")

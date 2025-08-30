@@ -71,7 +71,8 @@ def _get_api_keys() -> List[str]:
     # If no API keys found, use default
     if not api_keys:
         # default_key = "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"
-        default_key = "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"
+        # default_key = "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"
+        default_key = "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"
         
         api_keys.append(default_key)
     

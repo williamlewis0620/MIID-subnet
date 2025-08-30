@@ -773,7 +773,7 @@ def generate_name_variations(
         import concurrent.futures
         from itertools import repeat
         with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
-            tasks = list(executor.map(gen_pool, [first_name, last_name], repeat(effective_rules), repeat(logger), repeat(timeout / 2)))
+            tasks = list(executor.map(gen_pool, [first_name, last_name], repeat(effective_rules), repeat(logger), repeat(timeout / 3 * 2)))
             name_pools = {first_name: tasks[0], last_name: tasks[1]}
     except Exception as e:
         logger.warning(f"Failed to generate variant pools for {original_name}: {e}")

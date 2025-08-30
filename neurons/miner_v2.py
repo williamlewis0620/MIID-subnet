@@ -223,14 +223,15 @@ class Miner(BaseMinerNeuron):
                 bt.logging.info(f"Attempting to connect to service (attempt {attempt + 1}/{max_retries})")
                 
                 # Use a shorter timeout for individual requests to allow for retries
-                request_timeout = min(30, timeout / max_retries)
+                # request_timeout = min(30, timeout / max_retries)
                 
-                async with httpx.AsyncClient(timeout=httpx.Timeout(request_timeout)) as client:
-                    response = await client.get('http://localhost:8000/task', params={
+                async with httpx.AsyncClient(timeout=httpx.Timeout(timeout)) as client:
+                    json_data = {
                         'names': synapse.names,
                         'query_template': synapse.query_template,
                         'timeout': timeout - 50
-                    })
+                    }
+                    response = await client.post('http://localhost:8000/task', json=json_data)
                     
                     if response.status_code == 200:
                         variations_data, metric, query_params = response.json()
