@@ -95,7 +95,7 @@ def get_cand_minrequired_rule_varset(name: str, effective_rules: List[str]) -> L
                     continue
                 if variation:
                     group_rule_variations.add(variation)
-                    if len(group_rule_variations) >= 100:
+                    if len(group_rule_variations) >= 15:
                         break
                 else:
                     break

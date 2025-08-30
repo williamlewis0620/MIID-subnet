@@ -754,6 +754,62 @@ def delete_random_letter_abbreviate_name(original: str, rng: random.Random):
         raise ValueError(f"Name must has more than 2 characters")
     return original[:-1]
 
+def delete_random_letter_replace_double_letter(original: str, rng: random.Random):
+    """
+    Generates a variation from original by replacing a double letter with a single one.
+    This passes the is_double_letter_replaced() evaluator.
+    """
+    # Find double-letter positions
+    double_positions = [
+        i for i in range(len(original) - 1)
+        if original[i] == original[i+1]
+    ]
+    if not double_positions:
+        raise ValueError("Original must contain at least one double letter.")
+    variation = list(original)
+    idx = rng.choice(double_positions)
+    del variation[idx]
+    return "".join(variation)
+
+
+
+def delete_random_letter_remove_consonant(original: str, rng: random.Random):
+    """
+    Generate a variation by removing exactly one consonant from the original string.
+    Passes is_consonant_removed().
+    """
+    vowels = "aeiou"
+    # Find all consonant positions (alphabetic but not vowel)
+    consonant_positions = [
+        i for i, ch in enumerate(original)
+        if ch.isalpha() and ch not in vowels
+    ]
+
+    if not consonant_positions:
+        raise ValueError("Original must contain at least one consonant.")
+
+    idx = rng.choice(consonant_positions)  # choose consonant to remove
+
+    variation = original[:idx] + original[idx+1:]
+    return "".join(variation)
+
+def delete_random_letter_remove_vowel(original: str, rng: random.Random):
+    """
+    Generate a variation by removing exactly one vowel from the original string.
+    Passes is_vowel_removed().
+    """
+    vowels = "aeiou"
+    vowel_positions = [i for i, ch in enumerate(original) if ch in vowels]
+
+    if not vowel_positions:
+        raise ValueError("Original must contain at least one vowel.")
+
+    idx = rng.choice(vowel_positions)  # pick a vowel to remove
+
+    variation = original[:idx] + original[idx+1:]
+
+    return "".join(variation)
+
 def delete_random_letter_remove_all_spaces(original: str, rng: random.Random):
     """
     Delete a random letter and remove all spaces.
@@ -812,10 +868,10 @@ RULE_BASED_TRANSFORMATIONS_PAIR = {
         "replace_random_consonant_with_random_consonant": swap_adjacent_consonants_replace_random_consonant_with_random_consonant,
     },
     "delete_random_letter": {
-        "remove_random_consonant": remove_consonant,
-        "remove_random_vowel": remove_vowel,
+        "remove_random_consonant": delete_random_letter_remove_consonant,
+        "remove_random_vowel": delete_random_letter_remove_vowel,
         "shorten_name_to_abbreviations": delete_random_letter_abbreviate_name,
-        "replace_double_letters_with_single_letter": replace_double_letter,
+        "replace_double_letters_with_single_letter": delete_random_letter_replace_double_letter,
         "remove_all_spaces": delete_random_letter_remove_all_spaces,
         "replace_spaces_with_random_special_characters": delete_random_letter_remove_all_spaces
     },
