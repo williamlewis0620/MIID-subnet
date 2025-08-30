@@ -696,9 +696,9 @@ def try_once(
     bt.logging.setLevel('CRITICAL')
     if (
         # (phonetic_similarity["Light"] < 0.5 and phonetic_similarity["Medium"] < 0.5 and phonetic_similarity["Far"] < 0.5) or
-        (phonetic_similarity["Light"] == 1.0) or
+        ("Light" in phonetic_similarity and phonetic_similarity["Light"] == 1.0) or
         # (phonetic_similarity["Medium"] == 1.0) or
-        (phonetic_similarity["Far"] == 1.0)
+        ("Far" in phonetic_similarity and phonetic_similarity["Far"] == 1.0)
         ):
         scores, metric = get_name_variation_rewards(
             None,
