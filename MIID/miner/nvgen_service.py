@@ -78,6 +78,9 @@ async def calculate_answer_candidate(names: List[str], query_template: str, time
     from MIID.miner.parse_query import query_parser
     try:
         query_params = await query_parser(query_template, max_retries=1)
+        if query_params is None:
+            print(f"Failed to parse query: {query_template}")
+            return []
     except Exception as e:
         print(f"Failed to parse query: {e}")
         return []
