@@ -97,7 +97,10 @@ class Miner(BaseMinerNeuron):
         "5GQqAhLKVHRLpdTqRg1yc3xu7y47DicJykSpggE2GuDbfs54": "Rizzo",
         "5GuPvuyKBJAWQbEGAkMbfRpG5qDqqhML8uDVSWoFjqcKKvDU": "Testnet_omar",
         "5CnkkjPdfsA6jJDHv2U6QuiKiivDuvQpECC13ffdmSDbkgtt": "Testnet_asem",
-        "5Hmypa1isVpEwrQTYkGGKga54C13XnUj3fBJPHxH2etZkCF7": "Local Test Validator"
+        "5Hmypa1isVpEwrQTYkGGKga54C13XnUj3fBJPHxH2etZkCF7": "Local Test Validator",
+        "5DLLwfW9vw3c5Yw6V7FTPojMrojPsZyrHqrf9keusGMXcBUF": "Local Test Validator2",
+        "5DZXBWkPedMDYoUrUNLA79naxrjZDCHseT5kfz9et3eeBMZU": "Local Test Validator3",
+        "5CZi3t7LBUEoUWTqtwQnbjTT2LYXtNpEmCerXS5ZagzMEj9d": "Local Test Validator4"
     }
 
     def __init__(self, config=None):
@@ -118,6 +121,8 @@ class Miner(BaseMinerNeuron):
         os.makedirs(self.output_path, exist_ok=True)
         bt.logging.info(f"Mining results will be saved to: {self.output_path}")
         self.axon.verify_fns[IdentitySynapse.__name__] = self._verify_validator_request
+        self.output_path = self.config.neuron.full_path
+        
 
     async def _verify_validator_request(self, synapse: IdentitySynapse) -> None:
         """
@@ -185,6 +190,7 @@ class Miner(BaseMinerNeuron):
         # Get timeout from synapse (default to 120s if not specified)
         timeout = getattr(synapse, 'timeout', 120.0)
         bt.logging.info(f"Request timeout: {timeout:.1f}s for {len(synapse.names)} names. Validator: {synapse.dendrite.hotkey}")
+        timeout = max(10, timeout - 50)
         validator_uid = self.metagraph.hotkeys.index(synapse.dendrite.hotkey)
         start_time = time.time()
         current_datetime = datetime.now().strftime("%Y-%m-%d-%H-%M")
@@ -198,22 +204,57 @@ class Miner(BaseMinerNeuron):
             output_path = os.path.abspath(output_path)
         run_dir = os.path.join(output_path, f"validator_{validator_uid}", f"run_{current_datetime}")
         os.makedirs(run_dir, exist_ok=True)
+        with open(os.path.join(run_dir, 'task.json'), 'w') as f:
+            json.dump(
+                {
+                    "names": synapse.names,
+                    "query_template": synapse.query_template,
+                    "timeout": timeout
+                }, f, indent=4)
         
-        from MIID.miner.generate_variations import generate_variations_using_params
-        from MIID.miner.parse_query import query_parser
-        try:
-            query_params = await query_parser(synapse.query_template, max_retries=1)
-        except Exception as e:
-            bt.logging.error(f"Failed to parse query: {e}")
-            synapse.variations = {}
-            return synapse
-        try:
-            variations, metrics = await generate_variations_using_params(synapse.names, query_params, run_dir)
-        except Exception as e:
-            bt.logging.error(f"Failed to generate variations: {e}")
-            synapse.variations = {}
-            return synapse
-        synapse.variations = variations
+        import httpx
+        import asyncio
+        
+        max_retries = 3
+        base_delay = 1.0
+        
+        for attempt in range(max_retries):
+            try:
+                bt.logging.info(f"Attempting to connect to service (attempt {attempt + 1}/{max_retries})")
+                
+                # Use a shorter timeout for individual requests to allow for retries
+                request_timeout = min(30, timeout / max_retries)
+                
+                async with httpx.AsyncClient(timeout=httpx.Timeout(request_timeout)) as client:
+                    response = await client.get('http://localhost:8000/task', params={
+                        'names': synapse.names,
+                        'query_template': synapse.query_template,
+                        'timeout': timeout - 50
+                    })
+                    
+                    if response.status_code == 200:
+                        variations_data, metric, query_params = response.json()
+                        bt.logging.info(f"Successfully retrieved variations data: {variations_data}")
+                        synapse.variations = variations_data
+                        with open(os.path.join(run_dir, 'query_params.json'), 'w') as f:
+                            json.dump(query_params, f, indent=4)
+                        with open(os.path.join(run_dir, 'metric.json'), 'w') as f:
+                            json.dump(metric, f, indent=4)
+                        break
+                    else:
+                        bt.logging.warning(f"Service returned status {response.status_code}")
+                        raise httpx.HTTPStatusError(f"HTTP {response.status_code}", request=response.request, response=response)
+            except (httpx.RequestError, httpx.HTTPStatusError, asyncio.TimeoutError) as e:
+                bt.logging.warning(f"Attempt {attempt + 1} failed: {e}")
+                
+                if attempt < max_retries - 1:
+                    # Exponential backoff with jitter
+                    delay = base_delay * (2 ** attempt) + np.random.uniform(0, 1)
+                    bt.logging.info(f"Waiting {delay:.2f}s before retry...")
+                    await asyncio.sleep(delay)
+                else:
+                    bt.logging.error(f"All {max_retries} attempts failed")
+                    raise e
         total_time = time.time() - start_time
         bt.logging.info(
             f"Request completed in {total_time:.2f}s of {timeout:.1f}s allowed. "

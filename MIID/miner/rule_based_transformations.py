@@ -11,11 +11,13 @@ import Levenshtein
 import jellyfish
 import string
 
+from MIID.miner.pool_generator import make_replacement_map
 # List of rules that can be checked algorithmically
 # These are basic heuristics to check if a variation follows a specific rule
 # More complex rules would need more sophisticated checking methods
+REPLACE_MAP = make_replacement_map
 
-def uppercasing(variation):
+def uppercasing(variation, rng: random.Random = random.Random()):
     variation = variation.lower()
     def toggle_case(s:str, idxs:List[int])->str:
         arr=list(s)
@@ -24,13 +26,34 @@ def uppercasing(variation):
             arr[i]= ch.upper() if ch.islower() else ch.lower()
         return ''.join(arr)
     maxm = 1 << len(variation)
-    mask = random.randint(1, maxm)
+    mask = rng.randint(1, maxm)
     idxs=[i for i in range(len(variation)) if (mask >> i) & 1]
     uppercased = toggle_case(variation, idxs)
     return uppercased
 
+def default_char_sampler(original: str, full_pool: str, rng: random.Random) -> str:
+    """
+    Sample any non-space character. Uses letters, digits, punctuation, and a few emojis.
+    You can swap this out with your own sampler if you want broader Unicode.
+    """
+    # Get replacement map to filter out characters that might cause phonetic collisions
+    repl_map = make_replacement_map(original.lower())
+    
+    # Build pool excluding characters that are phonetic replacements for each other
+    # to avoid unintended phonetic similarities
+    excluded_chars = set()
+    for char, replacements in repl_map.items():
+        excluded_chars.update(replacements)
+        excluded_chars.update(char)
+    # Create pool from ascii letters/digits/punctuation, excluding phonetic replacements
+    pool = ''.join(ch for ch in full_pool if ch.lower() not in excluded_chars)
+    
+    # Fallback to basic alphanumeric if pool becomes too small
+    if len(pool) < 3:
+        pool = full_pool
+    return pool
 
-def replace_space_with_special_chars(original: str):
+def replace_space_with_special_chars(original: str, rng: random.Random = random.Random()):
 
     """
     Returns a new string with:
@@ -44,27 +67,10 @@ def replace_space_with_special_chars(original: str):
     - Distance to original.replace(' ', '') == number_of_spaces (<= spaces+1)
     - Output != original (guaranteed if original contains spaces)
     """
-    def default_char_sampler(rng: random.Random) -> str:
-        """
-        Sample any non-space character. Uses letters, digits, punctuation, and a few emojis.
-        You can swap this out with your own sampler if you want broader Unicode.
-        """
-        pool = (
-            string.ascii_letters +
-            string.digits +
-            string.punctuation +
-            "🙂😂🔥★✓✦♠♣♥♦"   # add/remove any you like
-        )
-        pool = string.printable
-        ch = rng.choice(pool)
-        # Just in case: ensure no space
-        while ch == " ":
-            ch = rng.choice(pool)
-        return ch
     if ' ' not in original:
         raise ValueError("Original must contain at least one space.")
 
-    rng = random.Random()
+    sample_chars = default_char_sampler(original, [c for c in string.ascii_lowercase if is_consonant(c)], rng)
     no_spaces = list(original.replace(' ', ''))
     spaces = original.count(' ')
     spins = spaces + 1
@@ -80,7 +86,7 @@ def replace_space_with_special_chars(original: str):
                 pass
             elif op == "insert":
                 pos = rng.randrange(len(variation) + 1)
-                new_char = default_char_sampler(rng)
+                new_char = rng.choice(sample_chars)
                 variation.insert(pos, new_char)
             elif op == "delete":
                 pos = rng.randrange(len(variation))
@@ -88,14 +94,14 @@ def replace_space_with_special_chars(original: str):
             elif op == "substitute":
                 pos = rng.randrange(len(variation))
                 current = variation[pos]
-                new_char = default_char_sampler(rng)
+                new_char = rng.choice(sample_chars)
                 while new_char == current:
-                    new_char = default_char_sampler(rng)
+                    new_char = rng.choice(sample_chars)
                 variation[pos] = new_char
     return "".join(variation)
 
 
-def replace_double_letter(original: str):
+def replace_double_letter(original: str, rng: random.Random = random.Random()):
     """
     Generates a variation from original by replacing a double letter with a single one.
     This passes the is_double_letter_replaced() evaluator.
@@ -107,20 +113,18 @@ def replace_double_letter(original: str):
     ]
     if not double_positions:
         raise ValueError("Original must contain at least one double letter.")
-    rng = random.Random()
     variation = list(original)
     idx = rng.choice(double_positions)
     del variation[idx]
-    return uppercasing("".join(variation))
+    return uppercasing("".join(variation), rng)
 
-def replace_vowel(original: str):
+def replace_vowel(original: str, rng: random.Random = random.Random()):
 
     """
     Generate a variation of `original` where at least one vowel is replaced
     with a different vowel, and at most one non-vowel character is changed.
     """
     vowels = "aeiou"
-    rng = random.Random()
 
     # Find vowel positions in original
     vowel_positions = [i for i, ch in enumerate(original) if ch in vowels]
@@ -158,21 +162,20 @@ def replace_vowel(original: str):
             # take a random character that is not a vowel
             orig_char = variation[idx]
             if orig_char in vowels:
-                other_chars = [c for c in string.printable if c not in vowels and c != orig_char]
+                other_chars = [c for c in string.ascii_lowercase if c not in vowels and c != orig_char]
             else:
-                other_chars = [c for c in string.printable if c != orig_char]
+                other_chars = [c for c in string.ascii_lowercase if c != orig_char]
             variation[idx] = rng.choice(other_chars)
             changed[idx] = True
 
-    return uppercasing("".join(variation))
+    return uppercasing("".join(variation), rng)
 
-def replace_consonant(original: str):
+def replace_consonant(original: str, rng: random.Random = random.Random()):
 
     """
     Generate a variation of `original` where at least one consonant is replaced
     with a different consonant, and at most one vowel is changed.
     """
-    rng = random.Random()
 
     # Find consonant positions in original
     consonant_positions = [i for i, ch in enumerate(original) if is_consonant(ch)]
@@ -184,6 +187,11 @@ def replace_consonant(original: str):
     # Replace at least one vowel with a different vowel
     consonant_change_count = rng.randint(1, len(consonant_positions))
     consonant_change_pos = rng.sample(consonant_positions, consonant_change_count)
+    pool_consonants = default_char_sampler(
+        original,
+        [c for c in string.ascii_lowercase if is_consonant(c)],
+        rng )
+    vowels = "aeiou"
     for idx in consonant_change_pos:
         # allowed only substitute
         op = rng.choice(["substitute"])
@@ -191,7 +199,7 @@ def replace_consonant(original: str):
             # take a random vowel position that is not changed
             # idx = rng.choice([consonant_positions[i] for i in range(len(consonant_positions)) if not changed[consonant_positions[i]]])
             orig_consonant = variation[idx]
-            other_consonants = [c for c in string.printable if is_consonant(c) and c.lower() != orig_consonant.lower()]
+            other_consonants = [c for c in pool_consonants if c.lower() != orig_consonant.lower()]
             variation[idx] = rng.choice(other_consonants)
     if rng.random() < 0.5:
         other_change_pos = rng.choice([i for i in range(len(original)) if i not in consonant_change_pos])
@@ -203,14 +211,14 @@ def replace_consonant(original: str):
             # take a random character that is not a consonant
             orig_char = variation[other_change_pos]
             if is_consonant(orig_char):
-                other_chars = [c for c in string.printable if not is_consonant(c) and c.lower() != orig_char.lower()]
+                other_chars = [c for c in vowels if c.lower() != orig_char.lower()]
             else:
-                other_chars = [c for c in string.printable if c != orig_char]
+                other_chars = [c for c in pool_consonants + vowels if c != orig_char]
             variation[other_change_pos] = rng.choice(other_chars)
 
-    return uppercasing("".join(variation))
+    return uppercasing("".join(variation), rng)
 
-def swap_letters(original: str):
+def swap_letters(original: str, rng: random.Random = random.Random()):
 
     """
     Create a variation by swapping exactly one pair of adjacent letters,
@@ -225,7 +233,6 @@ def swap_letters(original: str):
     if not candidates:
         raise ValueError("All adjacent pairs are identical; any swap would be a no-op.")
 
-    rng = random.Random()
     idx = rng.choice(candidates)
 
     variation = list(original)
@@ -239,7 +246,7 @@ def is_consonant(char: str) -> bool:
     vowels = 'aeiou'
     return char.isalpha() and char.lower() not in vowels
 
-def swap_adjacent_consonants(original: str):
+def swap_adjacent_consonants(original: str, rng: random.Random = random.Random()):
     """Check if two adjacent consonants are swapped."""
     """
     Create a variation by swapping exactly one pair of adjacent consonants.
@@ -252,28 +259,26 @@ def swap_adjacent_consonants(original: str):
     if not consonant_pairs:
         raise ValueError("No adjacent consonants found to swap.")
     
-    rng = random.Random()
     variation = list(original)
     idx = rng.choice(consonant_pairs)
     variation[idx], variation[idx + 1] = variation[idx + 1], variation[idx]
     variation = "".join(variation)
-    return uppercasing("".join(variation))
+    return uppercasing("".join(variation), rng)
 
-def remove_letter(original: str):
+def remove_letter(original: str, rng: random.Random = random.Random()):
     """
     Generate a variation by deleting exactly one character from `original`.
     """
     if len(original) < 1:
         raise ValueError("Original must have at least 1 character.")
 
-    rng = random.Random()
     idx = rng.randrange(len(original))  # position to delete
 
     variation = original[:idx] + original[idx+1:]
 
     return variation
 
-def remove_vowel(original: str):
+def remove_vowel(original: str, rng: random.Random = random.Random()):
 
     """
     Generate a variation by removing exactly one vowel from the original string.
@@ -285,14 +290,13 @@ def remove_vowel(original: str):
     if not vowel_positions:
         raise ValueError("Original must contain at least one vowel.")
 
-    rng = random.Random()
     idx = rng.choice(vowel_positions)  # pick a vowel to remove
 
     variation = original[:idx] + original[idx+1:]
 
-    return uppercasing("".join(variation))
+    return uppercasing("".join(variation), rng)
 
-def remove_consonant(original: str):
+def remove_consonant(original: str, rng: random.Random = random.Random()):
     """
     Generate a variation by removing exactly one consonant from the original string.
     Passes is_consonant_removed().
@@ -307,14 +311,13 @@ def remove_consonant(original: str):
     if not consonant_positions:
         raise ValueError("Original must contain at least one consonant.")
 
-    rng = random.Random()
     idx = rng.choice(consonant_positions)  # choose consonant to remove
 
     variation = original[:idx] + original[idx+1:]
 
-    return uppercasing("".join(variation))
+    return uppercasing("".join(variation), rng)
 
-def replace_special_character(original: str):
+def replace_special_character(original: str, rng: random.Random = random.Random()):
     """Check if a special character is replaced with a different one"""
     """
     Replace at least one special character in `original` with a different special char,
@@ -322,7 +325,6 @@ def replace_special_character(original: str):
     Passes is_special_character_replaced().
     """
     special_chars = '!@#$%^&*()_+-=[]{}|;:,.<>?'
-    rng = random.Random()
 
     # Find special character positions in original
     special_positions = [i for i, ch in enumerate(original) if ch in special_chars]
@@ -360,15 +362,15 @@ def replace_special_character(original: str):
             # take a random character that is not a special character
             orig_char = variation[idx]
             if orig_char in special_chars:
-                other_chars = [c for c in string.printable if c not in special_chars and c != orig_char]
+                other_chars = [c for c in string.ascii_lowercase if c not in special_chars and c != orig_char]
             else:
-                other_chars = [c for c in string.printable if c != orig_char]
+                other_chars = [c for c in string.ascii_lowercase if c != orig_char]
             variation[idx] = rng.choice(other_chars)
             changed[idx] = True
 
     return "".join(variation)
 
-def remove_random_special(original: str):
+def remove_random_special(original: str, rng: random.Random = random.Random()):
     """
     Generate a variation by removing exactly one special character from the original string.
     Passes is_random_special_removed().
@@ -382,14 +384,13 @@ def remove_random_special(original: str):
     if not special_positions:
         raise ValueError("Original must contain at least one special character.")
 
-    rng = random.Random()
     idx = rng.choice(special_positions)  # choose a special char to remove
 
     variation = original[:idx] + original[idx+1:]
 
     return variation
 
-def remove_title(original: str):
+def remove_title(original: str, rng: random.Random = random.Random()):
     """Check if a title is removed from the name"""
     """
     Remove a leading title (from TITLES) and perform <=2 substitutions on the remainder.
@@ -408,7 +409,6 @@ def remove_title(original: str):
     title = max(matches, key=len)          # prefer longest match
     stripped = original[len(title) + 1:]   # after "<title><space>"
 
-    rng = random.Random()
     var = list(stripped)
     num_edits = rng.randint(0, min(2, len(var)))
     for _ in range(num_edits):
@@ -422,7 +422,7 @@ def remove_title(original: str):
             pass
         elif op == "insert":
             pos = rng.randrange(len(var) + 1)
-            new_char = rng.choice(string.printable)
+            new_char = rng.choice(string.ascii_lowercase)
             var.insert(pos, new_char)
         elif op == "delete":
             pos = rng.randrange(len(var))
@@ -430,14 +430,14 @@ def remove_title(original: str):
         elif op == "substitute":
             pos = rng.randrange(len(var))
             current = var[pos]
-            pool = string.printable
+            pool = string.ascii_lowercase
             choices = [c for c in pool if c != current]
             var[pos] = rng.choice(choices)
 
-    return uppercasing("".join(var))
+    return uppercasing("".join(var), rng)
 
 
-def abbreviate_name(original: str):
+def abbreviate_name(original: str, rng: random.Random = random.Random()):
     """
     Abbreviates each part of the name so that:
     - variation != original
@@ -446,11 +446,7 @@ def abbreviate_name(original: str):
     Passes is_name_abbreviated().
     """
     parts = original.split()
-    # if len(parts) == 1:
-        
-    #     raise ValueError("Original must contain at least two word.")
 
-    rng = random.Random()
     variation_parts = []
     changed = False
     min_cut = 1
@@ -476,11 +472,11 @@ def abbreviate_name(original: str):
     variation = " ".join(variation_parts)
 
     if len(variation_parts) == 1:
-        return uppercasing(variation)
-    return "".join(variation)
+        return uppercasing(variation, rng)
+    return variation
 
 
-def remove_all_spaces(original: str):
+def remove_all_spaces(original: str, rng: random.Random = random.Random()):
     """
     Generate a variation by removing all spaces from the original string.
     Passes is_all_spaces_removed().
@@ -492,7 +488,7 @@ def remove_all_spaces(original: str):
     return variation
 
 
-def duplicate_letter(original: str):
+def duplicate_letter(original: str, rng: random.Random = random.Random()):
     """
     Generate a variation by duplicating exactly one letter from the original string.
     Passes is_letter_duplicated().
@@ -500,26 +496,27 @@ def duplicate_letter(original: str):
     if len(original) < 1:
         raise ValueError("Original must have at least 1 character.")
 
-    rng = random.Random()
     idx = rng.randrange(len(original))  # pick a position to duplicate
 
     variation = original[:idx] + original[idx] + original[idx:]
     
     return variation
 
-def insert_random_letter(original: str):
+def insert_random_letter(original: str, rng: random.Random = random.Random()):
 
     """
     Insert exactly one random ASCII letter at a random position.
     Passes is_random_letter_inserted().
     """
-    rng = random.Random()
-    pos = rng.randrange(len(original) + 1)          # insertion index [0..len]
-    letter = rng.choice(string.printable)        #
+    # pos = rng.randrange(len(original) + 1)          # insertion index [0..len]
+    # letter = rng.choice(string.ascii_lowercase)
+    # variation = original[:pos] + letter + original[pos:]
+    pos = rng.randrange(len(original))
+    letter = rng.choice(string.ascii_lowercase)
     variation = original[:pos] + letter + original[pos:]
     return variation
 
-def add_title(original: str):
+def add_title(original: str, rng: random.Random = random.Random()):
     """
     Adds a title and performs up to `max_edits` random edit operations
     (insert, delete, substitute) on the name.
@@ -529,7 +526,6 @@ def add_title(original: str):
               "Prof.", "Prof", "Sir", "Lady", "Lord", "Dame", "Master", "Mistress",
               "Rev.", "Hon.", "Capt.", "Col.", "Lt.", "Sgt.", "Maj."]
 
-    rng = random.Random()
     title = rng.choice(titles)
 
     # Start with the base name (original)
@@ -548,7 +544,7 @@ def add_title(original: str):
             pass
         elif op == "insert":
             pos = rng.randrange(len(name_chars) + 1)
-            new_char = rng.choice(string.printable)
+            new_char = rng.choice(string.ascii_lowercase)
             name_chars.insert(pos, new_char)
         elif op == "delete":
             pos = rng.randrange(len(name_chars))
@@ -556,16 +552,16 @@ def add_title(original: str):
         elif op == "substitute":
             pos = rng.randrange(len(name_chars))
             current = name_chars[pos]
-            pool = string.printable
+            pool = string.ascii_lowercase
             choices = [c for c in pool if c != current]
             name_chars[pos] = rng.choice(choices)
 
     edited_name = "".join(name_chars)
     variation = f"{title} {edited_name}"
 
-    return uppercasing("".join(variation))
+    return uppercasing(variation, rng)
 
-def add_suffix(original: str):
+def add_suffix(original: str, rng: random.Random = random.Random()):
     """
     Adds a title and performs up to `max_edits` random edit operations
     (insert, delete, substitute) on the name.
@@ -573,7 +569,6 @@ def add_suffix(original: str):
     """
 
     suffixes = ["Jr.", "Sr.", "III", "IV", "V", "PhD", "MD", "Esq.", "Jr", "Sr"]
-    rng = random.Random()
     suffix = rng.choice(suffixes)
 
     # Start with the base name (original)
@@ -592,7 +587,7 @@ def add_suffix(original: str):
             pass
         elif op == "insert":
             pos = rng.randrange(len(name_chars) + 1)
-            new_char = rng.choice(string.printable)
+            new_char = rng.choice(string.ascii_lowercase)
             name_chars.insert(pos, new_char)
         elif op == "delete":
             pos = rng.randrange(len(name_chars))
@@ -600,16 +595,16 @@ def add_suffix(original: str):
         elif op == "substitute":
             pos = rng.randrange(len(name_chars))
             current = name_chars[pos]
-            pool = string.printable
+            pool = string.ascii_lowercase
             choices = [c for c in pool if c != current]
             name_chars[pos] = rng.choice(choices)
 
     edited_name = "".join(name_chars)
     variation = f"{edited_name} {suffix}"
 
-    return uppercasing("".join(variation))
+    return uppercasing(variation, rng)
 
-def only_initials(original: str):
+def only_initials(original: str, rng: random.Random = random.Random()):
 
     """
     Create an initials-only variation of `original` that passes is_initials_only().
@@ -622,8 +617,8 @@ def only_initials(original: str):
         raise ValueError("Original must contain at least two words for initials.")
 
     initials = [p[0] for p in parts]
-    style = random.choice(["dots", "spaced", "plain"])
-
+    style = rng.choice(["dots", "spaced", "plain"])
+    variation = ""
     if style == "dots":
         variation = ".".join(initials) + "."
     elif style == "spaced":
@@ -633,9 +628,9 @@ def only_initials(original: str):
     else:
         raise ValueError('style must be one of: "dots", "spaced", "plain"')
 
-    return uppercasing(variation)
+    return uppercasing(variation, rng)
 
-def name_parts_permutations(original: str):
+def name_parts_permutations(original: str, rng: random.Random = random.Random()):
     """
     Generate a variation where the name parts are permuted but not identical in order.
     Passes is_name_parts_permutation().
@@ -644,7 +639,6 @@ def name_parts_permutations(original: str):
     if len(parts) < 2:
         raise ValueError("Original must contain at least two parts to permute.")
 
-    rng = random.Random()
     variation_parts = parts[:]
     # Keep shuffling until order is different from original
     max_retry = 100
@@ -652,12 +646,12 @@ def name_parts_permutations(original: str):
         rng.shuffle(variation_parts)
         if variation_parts != parts:
             break
-    space_count = random.randint(0, 10)
-    variation = (" "*space_count).join(variation_parts)
+    space_count = rng.randint(1, 10)
+    variation = (" " * space_count).join(variation_parts)
 
     return variation
 
-def initial_first_name(original: str):
+def initial_first_name(original: str, rng: random.Random = random.Random()):
     """
     Generate a variation where the first name is reduced to its initial.
     Passes is_first_name_initial().
@@ -673,8 +667,8 @@ def initial_first_name(original: str):
     initial = parts[0][0]
     rest = " ".join(parts[1:])
 
-    style = random.choice(["spaced", "compact"])
-
+    style = rng.choice(["spaced", "compact"])
+    variation = ""
     if style == "spaced":
         variation = f"{initial}. {rest}"
     elif style == "compact":
@@ -682,7 +676,7 @@ def initial_first_name(original: str):
     else:
         raise ValueError('style must be either "spaced" or "compact"')
 
-    return uppercasing("".join(variation))
+    return uppercasing(variation, rng)
 
 # Map rule names to their evaluation functions
 RULE_BASED_TRANSFORMATIONS = {
@@ -711,7 +705,7 @@ RULE_BASED_TRANSFORMATIONS = {
 }
 
 
-def swap_random_letter_replace_random_vowel_with_random_vowel(original: str):
+def swap_random_letter_replace_random_vowel_with_random_vowel(original: str, rng: random.Random = random.Random()):
     """
     Swap a random pair of letters in the original string.
     """
@@ -722,7 +716,6 @@ def swap_random_letter_replace_random_vowel_with_random_vowel(original: str):
     if not candidates:
         raise ValueError("All adjacent pairs are identical or not vowels; any swap would be a no-op.")
 
-    rng = random.Random()
     idx = rng.choice(candidates)
 
     variation = list(original)
@@ -732,14 +725,13 @@ def swap_random_letter_replace_random_vowel_with_random_vowel(original: str):
     return variation
 
 
-def swap_random_letter_replace_random_consonant_with_random_consonant(original: str):
+def swap_random_letter_replace_random_consonant_with_random_consonant(original: str, rng: random.Random = random.Random()):
     # Only indices where swapping changes the string
     candidates = [i for i in range(len(original) - 1)
                 if original[i] != original[i + 1] and is_consonant(original[i])]
     if not candidates:
         raise ValueError("All adjacent pairs are identical or not consonants; any swap would be a no-op.")
 
-    rng = random.Random()
     idx = rng.choice(candidates)
 
     variation = list(original)
@@ -748,13 +740,13 @@ def swap_random_letter_replace_random_consonant_with_random_consonant(original: 
             
     return variation
 
-def swap_adjacent_consonants_replace_random_consonant_with_random_consonant(original: str):
+def swap_adjacent_consonants_replace_random_consonant_with_random_consonant(original: str, rng: random.Random = random.Random()):
     """
     Swap a random pair of consonants in the original string.
     """
-    return swap_adjacent_consonants(original)
+    return swap_adjacent_consonants(original, rng)
 
-def delete_random_letter_abbreviate_name(original: str):
+def delete_random_letter_abbreviate_name(original: str, rng: random.Random = random.Random()):
     """
     Delete a random letter and abbreviate the name.
     """
@@ -762,7 +754,7 @@ def delete_random_letter_abbreviate_name(original: str):
         raise ValueError(f"Name must has more than 2 characters")
     return original[:-1]
 
-def delete_random_letter_remove_all_spaces(original: str):
+def delete_random_letter_remove_all_spaces(original: str, rng: random.Random = random.Random()):
     """
     Delete a random letter and remove all spaces.
     """
@@ -770,34 +762,24 @@ def delete_random_letter_remove_all_spaces(original: str):
         raise ValueError("Original must contain only one space.")
     return original.replace(' ', '')
 
-def replace_spaces_with_random_special_characters(original: str):
+def replace_spaces_with_random_special_characters(original: str, rng: random.Random = random.Random()):
     """
     Replace all spaces with random special characters.
     """
-    return original.replace(' ', random.choice(string.printable))
+    return original.replace(' ', rng.choice(string.ascii_lowercase))
 
-
-def swap_adjacent_consonants_replace_random_consonant_with_random_consonant(original: str):
-    """
-    Swap a random pair of consonants in the original string.
-    """
-    return swap_adjacent_consonants(original)
-
-def remove_random_consonant_abbreviate_name(original: str):
+def remove_random_consonant_abbreviate_name(original: str, rng: random.Random = random.Random()):
     """
     Delete a random letter and abbreviate the name.
     """
     if len(original) < 1:
         raise ValueError(f"Name must has more than 2 characters")
 
-    vowels = "aeiou"
-
     if not is_consonant(original[-1]):
         raise ValueError("Original must end with a consonant.")
     return original[:-1]
 
-
-def remove_random_consonant_replace_double_letter(original: str):
+def remove_random_consonant_replace_double_letter(original: str, rng: random.Random = random.Random()):
     """
     Generates a variation from original by replacing a double letter with a single one.
     This passes the is_double_letter_replaced() evaluator.
@@ -809,72 +791,72 @@ def remove_random_consonant_replace_double_letter(original: str):
     ]
     if not double_positions:
         raise ValueError("Original must contain at least one double letter with consonants.")
-    rng = random.Random()
     variation = list(original)
     idx = rng.choice(double_positions)
     del variation[idx]
     return "".join(variation)
 
-
 RULE_BASED_TRANSFORMATIONS_PAIR = {
     "swap_random_letter": {
-        "swap_adjacent_consonants": lambda original:swap_adjacent_consonants(original),
-        "swap_adjacent_syllables": lambda original: swap_letters(original),
-        "replace_random_vowel_with_random_vowel": lambda original: swap_random_letter_replace_random_vowel_with_random_vowel(original),
-        "replace_random_consonant_with_random_consonant": lambda original: swap_random_letter_replace_random_consonant_with_random_consonant(original),
+        "swap_adjacent_consonants": swap_adjacent_consonants,
+        "swap_adjacent_syllables": swap_letters,
+        "replace_random_vowel_with_random_vowel": swap_random_letter_replace_random_vowel_with_random_vowel,
+        "replace_random_consonant_with_random_consonant": swap_random_letter_replace_random_consonant_with_random_consonant,
     },
     "swap_adjacent_syllables": {
-        "swap_adjacent_consonants": lambda original: swap_adjacent_consonants(original),
-        "replace_random_consonant_with_random_consonant": lambda original: swap_random_letter_replace_random_vowel_with_random_vowel("replace_random_vowel_with_random_vowel", original),
-        "replace_random_vowel_with_random_vowel": lambda original: swap_random_letter_replace_random_consonant_with_random_consonant("replace_random_consonant_with_random_consonant", original),
+        "swap_adjacent_consonants": swap_adjacent_consonants,
+        "replace_random_consonant_with_random_consonant": swap_random_letter_replace_random_vowel_with_random_vowel,
+        "replace_random_vowel_with_random_vowel": swap_random_letter_replace_random_consonant_with_random_consonant
     },
     "swap_adjacent_consonants": {
-        "replace_random_consonant_with_random_consonant": lambda original: swap_adjacent_consonants_replace_random_consonant_with_random_consonant(original),
+        "replace_random_consonant_with_random_consonant": swap_adjacent_consonants_replace_random_consonant_with_random_consonant,
     },
     "delete_random_letter": {
-        "remove_random_consonant": lambda original: remove_consonant(original),
-        "remove_random_vowel": lambda original: remove_vowel(original),
-        "shorten_name_to_abbreviations": lambda original: delete_random_letter_abbreviate_name(original),
-        "replace_double_letters_with_single_letter": lambda original: replace_double_letter(original),
-        "remove_all_spaces": lambda original: delete_random_letter_remove_all_spaces(original),
-        "replace_spaces_with_random_special_characters": lambda original: delete_random_letter_remove_all_spaces(original)
+        "remove_random_consonant": remove_consonant,
+        "remove_random_vowel": remove_vowel,
+        "shorten_name_to_abbreviations": delete_random_letter_abbreviate_name,
+        "replace_double_letters_with_single_letter": replace_double_letter,
+        "remove_all_spaces": delete_random_letter_remove_all_spaces,
+        "replace_spaces_with_random_special_characters": delete_random_letter_remove_all_spaces
     },
     "remove_random_consonant": {
-        "shorten_name_to_abbreviations": lambda original: remove_random_consonant_abbreviate_name(original),
-        "replace_double_letters_with_single_letter": lambda original: remove_random_consonant_replace_double_letter(original),
+        "shorten_name_to_abbreviations": remove_random_consonant_abbreviate_name,
+        "replace_double_letters_with_single_letter": remove_random_consonant_replace_double_letter,
     },
     "remove_all_spaces": {
-        "replace_spaces_with_random_special_characters": lambda original: remove_all_spaces(original)
+        "replace_spaces_with_random_special_characters": remove_all_spaces
     },
     "insert_random_letter": {
-        "duplicate_random_letter_as_double_letter": lambda original: duplicate_letter(original)
+        "duplicate_random_letter_as_double_letter": duplicate_letter
     }
 }
 
 RULE_BASED_TRANSFORMATIONS_PAIR3 = {
     "swap_random_letter": {
         "swap_adjacent_consonants": {
-            "replace_random_consonant_with_random_consonant": lambda original: swap_adjacent_consonants_replace_random_consonant_with_random_consonant(original),
+            "replace_random_consonant_with_random_consonant": swap_adjacent_consonants_replace_random_consonant_with_random_consonant,
         },
         "swap_adjacent_syllables": {
-            "swap_adjacent_consonants": lambda original: swap_adjacent_consonants(original),
-            "replace_random_consonant_with_random_consonant": lambda original: swap_random_letter_replace_random_vowel_with_random_vowel("replace_random_vowel_with_random_vowel", original),
-            "replace_random_vowel_with_random_vowel": lambda original: swap_random_letter_replace_random_consonant_with_random_consonant("replace_random_consonant_with_random_consonant", original),
+            "swap_adjacent_consonants": swap_adjacent_consonants,
+            "replace_random_consonant_with_random_consonant": swap_random_letter_replace_random_vowel_with_random_vowel,
+            "replace_random_vowel_with_random_vowel": swap_random_letter_replace_random_consonant_with_random_consonant
         },
         "swap_adjacent_consonants": {
-            "replace_random_consonant_with_random_consonant": lambda original: swap_adjacent_consonants_replace_random_consonant_with_random_consonant(original),
+            "replace_random_consonant_with_random_consonant": swap_adjacent_consonants_replace_random_consonant_with_random_consonant,
         },
     },
     "delete_random_letter": {   
         "remove_random_consonant": {
-            "shorten_name_to_abbreviations": lambda original: remove_random_consonant_abbreviate_name(original),
-            "replace_double_letters_with_single_letter": lambda original: remove_random_consonant_replace_double_letter(original),
+            "shorten_name_to_abbreviations": remove_random_consonant_abbreviate_name,
+            "replace_double_letters_with_single_letter": remove_random_consonant_replace_double_letter,
         },
         "remove_all_spaces": {
-            "replace_spaces_with_random_special_characters": lambda original: delete_random_letter_remove_all_spaces(original)
+            "replace_spaces_with_random_special_characters": delete_random_letter_remove_all_spaces
         },
    }
 }
+
+
 RULE_BASED_TRANSFORMATIONS_COMBINED = {}
 for first, rule in RULE_BASED_TRANSFORMATIONS.items():
     RULE_BASED_TRANSFORMATIONS_COMBINED[first] = rule

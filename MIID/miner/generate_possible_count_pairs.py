@@ -1,7 +1,7 @@
 import math
 from typing import Dict, Tuple
 
-def generate_all_possible_count_pairs(C: int) -> list[Tuple[int, int]]:
+def generate_all_possible_count_pairs(C: int, Pr: float) -> list[Tuple[int, int]]:
     """
     Generate all possible (rule_count, nonrule_count) pairs where the sum is in range [int(C/3), int(3*C)].
     
@@ -14,12 +14,12 @@ def generate_all_possible_count_pairs(C: int) -> list[Tuple[int, int]]:
     """
     
     min_sum = int(C / 5)
-    max_sum = int(2 * C)
+    max_sum = int(1.5 * C) + 1
     
     pairs = []
     
     for total in range(min_sum, max_sum + 1):
-        for rule_count in range(0, total + 1):
+        for rule_count in range(0, int(total * Pr) + 1):
             nonrule_count = total - rule_count
             pairs.append((rule_count, nonrule_count))
     

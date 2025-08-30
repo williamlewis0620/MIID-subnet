@@ -70,7 +70,9 @@ def _get_api_keys() -> List[str]:
     
     # If no API keys found, use default
     if not api_keys:
-        default_key = "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"
+        # default_key = "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"
+        default_key = "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"
+        
         api_keys.append(default_key)
     
     # Remove duplicates while preserving order
@@ -363,7 +365,7 @@ async def parse_query_with_llm(
 
 ## Regex-based parsing removed per instruction: LLM-only parsing now
 
-async def parse_query(
+async def query_parser(
     query_text: str,
     *,
     clients: Optional[List[AsyncOpenAI]] = None,
@@ -377,14 +379,14 @@ async def parse_query(
     )
     return result
 
-def parse_query_sync(
+def query_parser_sync(
     query_text: str,
     *,
     clients: Optional[List[AsyncOpenAI]] = None,
     max_retries: int = 1,
 ) -> Dict[str, Any]:
     """Synchronous wrapper for parse_query for backwards compatibility."""
-    return asyncio.run(parse_query(
+    return asyncio.run(query_parser(
         query_text,
         clients=clients,
         max_retries=max_retries,
@@ -392,6 +394,6 @@ def parse_query_sync(
 
 
 __all__ = [
-    "parse_query",
-    "parse_query_sync", 
+    "query_parser",
+    "query_parser_sync", 
 ]

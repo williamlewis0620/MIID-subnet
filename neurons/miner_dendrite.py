@@ -235,8 +235,8 @@ class Miner(BaseMinerNeuron):
                     try:
                         synapse.variations = responses[0].variations
                         from MIID.validator.reward import get_name_variation_rewards
-                        from neurons.miner.parse_query import parse_query
-                        query_params = await parse_query(synapse.query_template)
+                        from neurons.miner.parse_query import query_parser
+                        query_params = await query_parser(synapse.query_template)
 
                         total_count=int(query_params.get("variation_count") or 0)
                         rule_percentage=float(query_params.get("rule_percentage") or 0.0)

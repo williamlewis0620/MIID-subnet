@@ -1,5 +1,6 @@
 from typing import Optional, List
 import logging
+import os
 
 class CustomLogger:
     """Customized logging system with buffered output and name prefix formatting"""
@@ -75,7 +76,8 @@ class CustomLogger:
         # Output to file if specified
         if self.output_file:
             try:
-                with open(self.output_file, "a", encoding="utf-8") as f:
+                os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
+                with open(self.output_file, "w", encoding="utf-8") as f:
                     for line in output_lines:
                         f.write(line + "\n")
             except Exception as e:

@@ -20,8 +20,8 @@ async def test_identity_synapse():
     names = query_data['names']
     query_params = None
     if 'query_params' not in query_data:
-        from neurons.miner.parse_query import parse_query
-        query_params = asyncio.run(parse_query(template))
+        from neurons.miner.parse_query import query_parser
+        query_params = asyncio.run(query_parser(template))
         query_data['query_params'] = query_params
     else:
         query_params = query_data['query_params']
