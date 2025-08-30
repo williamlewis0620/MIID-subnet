@@ -395,3 +395,104 @@ def solve_integer_diverse(Max, O):
 
     row_sums = [sum(x[i][j] for j in range(C)) for i in range(R)]
     return trans_x(x), row_sums
+
+
+from typing import List, Tuple
+
+def maxflow_then_maxdisp_int(MaxU: List[List[int]], O: List[int]) -> Tuple[List[List[int]], int]:
+    """
+    Lexicographic objective with integer capacities:
+      1) maximize sum_{i,j} x_ij
+      2) among max-flow solutions, maximize sum_i (S_i - avg)^2,
+         where S_i = sum_j x_ij and avg = (sum_i S_i)/rows
+
+    Subject to:
+      0 <= x_ij <= MaxU[i][j]  (integers)
+      sum_i x_ij <= O[j]       (integers)
+
+    Inputs:
+      MaxU: matrix of size 1x4 or 3x4 with non-negative integers
+      O:    list of 4 non-negative integers (column caps)
+
+    Returns:
+      x: integer matrix same shape as MaxU (optimal under the lexicographic objective)
+      flow_value: integer total flow
+    """
+    # # ---- validate shapes and types ----
+    # if not isinstance(MaxU, list) or len(MaxU) not in (1, 3) or any(len(r) != 4 for r in MaxU):
+    #     raise ValueError("MaxU must be 1x4 or 3x4.")
+    # if not isinstance(O, list) or len(O) != 4:
+    #     raise ValueError("O must have length 4.")
+    # if any((not isinstance(v, int)) or v < 0 for r in MaxU for v in r):
+    #     raise ValueError("All MaxU entries must be non-negative integers.")
+    # if any((not isinstance(v, int)) or v < 0 for v in O):
+    #     raise ValueError("All O entries must be non-negative integers.")
+
+    MaxU = trans_x(MaxU)
+    rows, cols = len(MaxU), 4
+
+    # ---- Step 1: compute per-column max flow (max-flow) ----
+    col_from_rows = [sum(MaxU[i][j] for i in range(rows)) for j in range(cols)]
+    F = [min(O[j], col_from_rows[j]) for j in range(cols)]  # integer by construction
+    flow_value = sum(F)
+
+    # ---- Precompute row absorbable capacity given F (for dispersion tie-break) ----
+    # R[i] = sum_j min(MaxU[i][j], F[j])
+    R = [sum(min(MaxU[i][j], F[j]) for j in range(cols)) for i in range(rows)]
+
+    # Row order: most absorbable first (ties by row index for determinism)
+    row_order = sorted(range(rows), key=lambda i: (-R[i], i))
+
+    # ---- Step 2: allocate each column's F[j] concentrating mass by row_order ----
+    x = [[0 for _ in range(cols)] for _ in range(rows)]
+
+    for j in range(cols):
+        f = F[j]
+        if f == 0:
+            continue
+        for i in row_order:
+            if f == 0:
+                break
+            give = min(f, MaxU[i][j] - x[i][j])
+            if give > 0:
+                x[i][j] += give
+                f -= give
+        # Since F[j] <= sum_i MaxU[i][j], f must be 0 now.
+
+    # ---- sanity checks ----
+    # bounds
+    for i in range(rows):
+        for j in range(cols):
+            if not (0 <= x[i][j] <= MaxU[i][j]):
+                raise AssertionError("x out of bounds at (%d,%d)" % (i, j))
+    # column caps
+    for j in range(cols):
+        if sum(x[i][j] for i in range(rows)) > O[j]:
+            raise AssertionError("column cap violated at j=%d" % j)
+    # total flow
+    if sum(sum(row) for row in x) != flow_value:
+        raise AssertionError("flow value mismatch.")
+
+    return trans_x(x), flow_value
+
+# ---------- examples ----------
+if __name__ == "__main__":
+    # 3x4 example
+    MaxU_3x4 = [
+        [3, 2, 5, 4],
+        [2, 8, 1, 3],
+        [7, 1, 2, 6],
+    ]
+    O = [7, 6, 5, 8]
+    x, val = maxflow_then_maxdisp_int(trans_x(MaxU_3x4), O)
+    print("3x4 solution:")
+    for row in x: print(row)
+    print("flow_value:", val)
+
+    # 1x4 example
+    MaxU_1x4 = [[5, 0, 9, 2]]
+    O2 = [3, 7, 10, 1]
+    x2, val2 = maxflow_then_maxdisp_int(trans_x(MaxU_1x4), O2)
+    print("\n1x4 solution:")
+    for row in x2: print(row)
+    print("flow_value:", val2)

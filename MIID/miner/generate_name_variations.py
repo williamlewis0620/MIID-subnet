@@ -20,6 +20,7 @@ from MIID.miner.rule_based_transformations import RULE_BASED_TRANSFORMATIONS_COM
 from MIID.validator.reward import calculate_variation_quality, calculate_orthographic_similarity
 from MIID.validator.rule_evaluator import evaluate_rule_compliance
 from MIID.validator.rule_evaluator import RULE_EVALUATORS
+from MIID.validator.reward import get_name_variation_rewards
 
 
 def calculate_orthographic_level(name: str, variation: str) -> int:
@@ -85,6 +86,13 @@ def get_cand_minrequired_rule_varset(name: str, effective_rules: List[str]) -> L
             while max_attempts > 0:
                 max_attempts -= 1
                 variation = generate_one_rule_based_variation(comb, name, rng)
+                exists = False
+                for v in cand_minrequired_rule_varset:
+                    if variation in v:
+                        exists = True
+                        break
+                if exists:
+                    continue
                 if variation:
                     group_rule_variations.add(variation)
                     if len(group_rule_variations) >= 100:
@@ -394,8 +402,13 @@ def counts_in_matrix48(
             logger.debug(f"p_level: {p_level}, O: {O}")
             for row in MaxU:
                 logger.debug(f"{row}")
-            from MIID.miner.matrix_flow import solve_integer_diverse
-            xx, _ = solve_integer_diverse(MaxU, O)
+            # v2.0: normalize algorithm
+            from MIID.miner.matrix_flow import maxflow_then_maxdisp_int
+            xx, _ = maxflow_then_maxdisp_int(MaxU, O)
+            
+            # v1.0 : divergent algorithm
+            # from MIID.miner.matrix_flow import solve_integer_diverse
+            # xx, _ = solve_integer_diverse(MaxU, O)
             for o_level in range(4):
                 logger.debug(f"{xx[o_level]}")
             for o_level in range(4):
@@ -485,9 +498,9 @@ def get_name_variation_rewards_exclude_phonetic(
     rewards, detailed_metrics =  get_name_variation_rewards(
         None, seed_names, responses, uids, variation_count, phonetic_similarity, orthographic_similarity, rule_based)
     if not detailed_metrics:
-        return 0, None
+        return [0], [None]
     if not detailed_metrics[0]['name_metrics'].values():
-        return 0, None
+        return [0], [None]
     name_metrics = list(detailed_metrics[0]['name_metrics'].values())[0]
     
     try:
@@ -497,7 +510,7 @@ def get_name_variation_rewards_exclude_phonetic(
             rewards -= name_metrics['first_name']['metrics']['similarity']['phonetic'] * 0.24 * name_part_weights['first_name_weight']
     except Exception as e:
         # print(json.dumps(name_metrics, indent=4))
-        return 0, None
+        return [0], [None]
     return rewards, detailed_metrics
 
 class AnswerCandidate:
@@ -529,9 +542,13 @@ class AnswerCandidate:
         if len(self.cand_minrequired_rule_varset) > 0:
             for varset in self.cand_minrequired_rule_varset:
                 sample_variations.add(list(varset)[self.rng.randint(0, len(varset) - 1)])
-        if len(self.additional_rule_varset) > 0:
-            additionals = self.rng.sample(list(self.additional_rule_varset), self.rule_count - len(self.cand_minrequired_rule_varset))
-            sample_variations.update(additionals)
+        additionals = self.additional_rule_varset
+        if len(self.cand_minrequired_rule_varset) > 0:
+            for varset in self.cand_minrequired_rule_varset:
+                additionals.update(varset)
+        additionals.intersection_update(sample_variations)
+        if len(additionals) >= self.rule_count - len(self.cand_minrequired_rule_varset):
+            sample_variations.update(self.rng.sample(list(additionals), self.rule_count - len(self.cand_minrequired_rule_varset)))
         if len(self.cand_nonrule_varset) > 0:
             nonrule_varset = self.cand_nonrule_varset[self.rng.randint(0, len(self.cand_nonrule_varset) - 1)]
             sample_variations.update(nonrule_varset)
@@ -564,7 +581,10 @@ def try_once(
     if len(cand_minrequired_rule_varset) >= rule_count:
         cand_minrequired_rule_varset = cand_minrequired_rule_varset[:rule_count]
         additional_rule_varset = set()
-    if len(cand_minrequired_rule_varset) + len(additional_rule_varset) < rule_count:
+    if sum(len(v) for v in cand_minrequired_rule_varset) + len(additional_rule_varset) < rule_count:
+        logger.debug(f"Rule count is too large, returning None "
+                     f"cand_minrequired_rule_varset: {cand_minrequired_rule_varset}, "
+                     f"additional_rule_varset: {additional_rule_varset}")
         return None
     # # Adjust rule count based on actual generated variations
     # if len(cand_minrequired_rule_varset) + len(additional_rule_varset) < rule_count:
@@ -674,15 +694,32 @@ def try_once(
     rule_based = {"selected_rules": selected_rules, "rule_percentage": rule_percentage * 100}
     debug_level = bt.logging.get_level()
     bt.logging.setLevel('CRITICAL')
-    scores, metric = get_name_variation_rewards_exclude_phonetic(
-        seed_names=[original_name], 
-        responses=responses,
-        uids=[0],
-        variation_count=total_count,
-        phonetic_similarity=phonetic_similarity,
-        orthographic_similarity=orthographic_similarity,
-        rule_based=rule_based,
-    )
+    if (
+        # (phonetic_similarity["Light"] < 0.5 and phonetic_similarity["Medium"] < 0.5 and phonetic_similarity["Far"] < 0.5) or
+        (phonetic_similarity["Light"] == 1.0) or
+        # (phonetic_similarity["Medium"] == 1.0) or
+        (phonetic_similarity["Far"] == 1.0)
+        ):
+        scores, metric = get_name_variation_rewards(
+            None,
+            seed_names=[original_name], 
+            responses=responses,
+            uids=[0],
+            variation_count=total_count,
+            phonetic_similarity=phonetic_similarity,
+            orthographic_similarity=orthographic_similarity,
+            rule_based=rule_based,
+        )
+    else:
+        scores, metric = get_name_variation_rewards_exclude_phonetic(
+            seed_names=[original_name], 
+            responses=responses,
+            uids=[0],
+            variation_count=total_count,
+            phonetic_similarity=phonetic_similarity,
+            orthographic_similarity=orthographic_similarity,
+            rule_based=rule_based,
+        )
     bt.logging.setLevel(debug_level)
     logger.debug(f"scores: {scores}")
     cand.scores = scores[0]
