@@ -1,0 +1,260 @@
+[
+    [
+        {
+            "osama zawiya": [
+                "ousma zuweyo",
+                "OsaM zAwiYA",
+                "osghm zwoyiw",
+                "oSAm ZAwIya",
+                "osMa zAWIYA",
+                "OsaM zaWiyA",
+                "OsAm zawiYa",
+                "osamy zwwiya",
+                "ouozm ZWioyu",
+                "osymw zwiyuh",
+                "oSaMa zAwiy"
+            ]
+        },
+        {
+            "quality_scores": {},
+            "penalties": {
+                "extra_names": 0.0,
+                "missing_names": 0.0,
+                "total_penalty": 0.0,
+                "special_chars_ratio": 0.0,
+                "special_char_variations_count": 0,
+                "total_variations_count": 11
+            },
+            "completeness_multiplier": 1.0,
+            "name_metrics": {
+                "osama zawiya": {
+                    "first_name": {
+                        "score": 0.694,
+                        "metrics": {
+                            "similarity": {
+                                "phonetic": 0.0,
+                                "orthographic": 0.98,
+                                "combined": 0.49
+                            },
+                            "count": {
+                                "actual": 5,
+                                "expected": 5.6000000000000005,
+                                "score": 1.0
+                            },
+                            "uniqueness": {
+                                "unique_count": 5,
+                                "total_count": 5,
+                                "score": 1.0
+                            },
+                            "length": {
+                                "score": 1.0
+                            },
+                            "variations": [
+                                {
+                                    "variation": "ousma",
+                                    "phonetic_score": 0.9074010473440206,
+                                    "orthographic_score": 0.6,
+                                    "length_ratio": 1.0
+                                },
+                                {
+                                    "variation": "osghm",
+                                    "phonetic_score": 0.9074010473440206,
+                                    "orthographic_score": 0.4,
+                                    "length_ratio": 1.0
+                                },
+                                {
+                                    "variation": "osamy",
+                                    "phonetic_score": 0.9074010473440206,
+                                    "orthographic_score": 0.8,
+                                    "length_ratio": 1.0
+                                },
+                                {
+                                    "variation": "ouozm",
+                                    "phonetic_score": 0.9074010473440206,
+                                    "orthographic_score": 0.19999999999999996,
+                                    "length_ratio": 1.0
+                                },
+                                {
+                                    "variation": "osymw",
+                                    "phonetic_score": 0.9074010473440206,
+                                    "orthographic_score": 0.6,
+                                    "length_ratio": 1.0
+                                }
+                            ]
+                        }
+                    },
+                    "base_score": 0.694,
+                    "final_score": 0.7552000000000001,
+                    "variation_count": 11,
+                    "non_rule_compliant_variations_count": 5,
+                    "rule_compliant_variations_count": 6,
+                    "last_name": {
+                        "score": 0.694,
+                        "metrics": {
+                            "similarity": {
+                                "phonetic": 0.0,
+                                "orthographic": 0.98,
+                                "combined": 0.49
+                            },
+                            "count": {
+                                "actual": 5,
+                                "expected": 5.6000000000000005,
+                                "score": 1.0
+                            },
+                            "uniqueness": {
+                                "unique_count": 5,
+                                "total_count": 5,
+                                "score": 1.0
+                            },
+                            "length": {
+                                "score": 1.0
+                            },
+                            "variations": [
+                                {
+                                    "variation": "zuweyo",
+                                    "phonetic_score": 0.9190615470287533,
+                                    "orthographic_score": 0.5,
+                                    "length_ratio": 1.0
+                                },
+                                {
+                                    "variation": "zwoyiw",
+                                    "phonetic_score": 0.9190615470287533,
+                                    "orthographic_score": 0.33333333333333337,
+                                    "length_ratio": 1.0
+                                },
+                                {
+                                    "variation": "zwwiya",
+                                    "phonetic_score": 0.9190615470287533,
+                                    "orthographic_score": 0.8333333333333334,
+                                    "length_ratio": 1.0
+                                },
+                                {
+                                    "variation": "ZWioyu",
+                                    "phonetic_score": 0.9190615470287533,
+                                    "orthographic_score": 0.16666666666666663,
+                                    "length_ratio": 1.0
+                                },
+                                {
+                                    "variation": "zwiyuh",
+                                    "phonetic_score": 0.9190615470287533,
+                                    "orthographic_score": 0.5,
+                                    "length_ratio": 1.0
+                                }
+                            ]
+                        }
+                    },
+                    "rule_compliance": {
+                        "score": 1.0,
+                        "metrics": {
+                            "compliant_variations_by_rule": {
+                                "remove_random_vowel": [
+                                    "OsaM zAwiYA",
+                                    "oSAm ZAwIya",
+                                    "osMa zAWIYA",
+                                    "OsaM zaWiyA",
+                                    "OsAm zawiYa",
+                                    "oSaMa zAwiy"
+                                ]
+                            },
+                            "rules_satisfied_by_variation": {
+                                "OsaM zAwiYA": [
+                                    "remove_random_vowel"
+                                ],
+                                "oSAm ZAwIya": [
+                                    "remove_random_vowel"
+                                ],
+                                "osMa zAWIYA": [
+                                    "remove_random_vowel"
+                                ],
+                                "OsaM zaWiyA": [
+                                    "remove_random_vowel"
+                                ],
+                                "OsAm zawiYa": [
+                                    "remove_random_vowel"
+                                ],
+                                "oSaMa zAwiy": [
+                                    "remove_random_vowel"
+                                ]
+                            },
+                            "compliance_ratio_overall_variations": 0.5454545454545454,
+                            "overall_compliant_unique_variations_count": 6,
+                            "expected_compliant_variations_count": 6,
+                            "quantity_score": 1.0,
+                            "rule_diversity_factor": 1.0,
+                            "num_target_rules_met": 1,
+                            "total_target_rules": 1,
+                            "score": 1.0
+                        }
+                    }
+                }
+            },
+            "invalid_names": [],
+            "missing_names": [],
+            "rule_compliance": {
+                "overall_score": 1.0,
+                "by_name": {
+                    "osama zawiya": {
+                        "score": 1.0,
+                        "metrics": {
+                            "compliant_variations_by_rule": {
+                                "remove_random_vowel": [
+                                    "OsaM zAwiYA",
+                                    "oSAm ZAwIya",
+                                    "osMa zAWIYA",
+                                    "OsaM zaWiyA",
+                                    "OsAm zawiYa",
+                                    "oSaMa zAwiy"
+                                ]
+                            },
+                            "rules_satisfied_by_variation": {
+                                "OsaM zAwiYA": [
+                                    "remove_random_vowel"
+                                ],
+                                "oSAm ZAwIya": [
+                                    "remove_random_vowel"
+                                ],
+                                "osMa zAWIYA": [
+                                    "remove_random_vowel"
+                                ],
+                                "OsaM zaWiyA": [
+                                    "remove_random_vowel"
+                                ],
+                                "OsAm zawiYa": [
+                                    "remove_random_vowel"
+                                ],
+                                "oSaMa zAwiy": [
+                                    "remove_random_vowel"
+                                ]
+                            },
+                            "compliance_ratio_overall_variations": 0.5454545454545454,
+                            "overall_compliant_unique_variations_count": 6,
+                            "expected_compliant_variations_count": 6,
+                            "quantity_score": 1.0,
+                            "rule_diversity_factor": 1.0,
+                            "num_target_rules_met": 1,
+                            "total_target_rules": 1,
+                            "score": 1.0
+                        }
+                    }
+                }
+            },
+            "average_quality": 0.7552000000000001,
+            "final_reward": 0.7552000000000001
+        },
+        {
+            "variation_count": 14,
+            "phonetic_similarity": {
+                "Medium": 1.0
+            },
+            "orthographic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "rule_percentage": 0.6,
+            "selected_rules": [
+                "remove_random_vowel"
+            ]
+        }
+    ]
+]

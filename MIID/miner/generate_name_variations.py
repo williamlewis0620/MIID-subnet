@@ -546,7 +546,7 @@ class AnswerCandidate:
         if len(self.cand_minrequired_rule_varset) > 0:
             for varset in self.cand_minrequired_rule_varset:
                 additionals.update(varset)
-        additionals.intersection_update(sample_variations)
+        additionals -= sample_variations
         if len(additionals) >= self.rule_count - len(self.cand_minrequired_rule_varset):
             sample_variations.update(self.rng.sample(list(additionals), self.rule_count - len(self.cand_minrequired_rule_varset)))
         if len(self.cand_nonrule_varset) > 0:
@@ -824,8 +824,10 @@ def generate_name_variations(
         )
         if not best_cand:
             best_cand = cand
+            continue
         if not cand:
             continue
+        logger.debug(json.dumps(cand.metric, indent=4))
         if cand.scores > best_cand.scores:
             best_cand = cand
     if best_cand:

@@ -69,7 +69,7 @@ def _get_api_keys() -> List[str]:
     # If no API keys found, use default (you should set your own key)
     if not api_keys:
         # Replace with your actual Google API key
-        default_key = "AIzaSyB9UHlanXuy4AFnk7tNGwrNzR-5ZSHsMFI"
+        default_key = "AIzaSyCvo_Pjngu84CFtyeBaU4J3eR_tpbuaLOI"
         api_keys.append(default_key)
     
     # Remove duplicates while preserving order
