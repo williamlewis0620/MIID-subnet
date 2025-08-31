@@ -1,0 +1,2228 @@
+laura iqbal         : INFO: Generating variations for laura iqbal
+laura iqbal         : INFO: ----------------------------------------------------------------------------------------------------
+laura iqbal         : INFO: Effective rules: ['shorten_name_to_initials', 'name_parts_permutations', 'duplicate_random_letter_as_double_letter']
+laura iqbal         : INFO: ----------------------------------------------------------------------------------------------------
+laura iqbal         : INFO: Min Required Rule Variation Set: [{'li', 'L. i.', 'L. I.', 'Li', 'L.I.', 'L.i.', 'l. I.', 'l.i.', 'l.I.', 'lI', 'LI', 'l. i.'}, {'iqbal       laura', 'iqbal    laura', 'iqbal laura', 'iqbal     laura', 'iqbal        laura', 'iqbal         laura', 'iqbal  laura', 'iqbal          laura', 'iqbal      laura', 'iqbal   laura'}, {'llaura iqbal', 'laura  iqbal', 'laura iqqbal', 'laurra iqbal', 'lauura iqbal', 'laura iiqbal', 'laura iqbbal', 'laura iqbaal', 'lauraa iqbal', 'laura iqball', 'laaura iqbal'}]
+laura iqbal         : INFO: ----------------------------------------------------------------------------------------------------
+laura iqbal         : INFO: First name: laura
+laura iqbal         : INFO: Last name: iqbal
+laura iqbal         : INFO: ----------------------------------------------------------------------------------------------------
+laura iqbal         : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8)]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 1 / 21: rule_count/nonrule_count: 0/1------------------------------
+laura iqbal         : DEBUG: O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: P: [0, 0, 0, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: P: [0, 0, 0, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.26818561]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 2 / 21: rule_count/nonrule_count: 0/2------------------------------
+laura iqbal         : DEBUG: O: [0, 1, 0, 1]
+laura iqbal         : DEBUG: P: [0, 0, 1, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [0, 1, 0, 1]
+laura iqbal         : DEBUG: P: [0, 0, 1, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.41822631]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 3 / 21: rule_count/nonrule_count: 0/3------------------------------
+laura iqbal         : DEBUG: O: [0, 1, 0, 2]
+laura iqbal         : DEBUG: P: [0, 0, 1, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [0, 1, 0, 2]
+laura iqbal         : DEBUG: P: [0, 0, 1, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.43704025]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 4 / 21: rule_count/nonrule_count: 0/4------------------------------
+laura iqbal         : DEBUG: O: [0, 2, 0, 2]
+laura iqbal         : DEBUG: P: [0, 1, 2, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [0, 2, 0, 2]
+laura iqbal         : DEBUG: P: [0, 1, 2, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.452]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 5 / 21: rule_count/nonrule_count: 1/3------------------------------
+laura iqbal         : DEBUG: O: [0, 1, 0, 2]
+laura iqbal         : DEBUG: P: [0, 0, 1, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [0, 1, 0, 2]
+laura iqbal         : DEBUG: P: [0, 0, 1, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.50370692]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 6 / 21: rule_count/nonrule_count: 0/5------------------------------
+laura iqbal         : DEBUG: O: [1, 3, 1, 0]
+laura iqbal         : DEBUG: P: [0, 1, 3, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 3, 1, 0]
+laura iqbal         : DEBUG: P: [0, 1, 3, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.56]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 7 / 21: rule_count/nonrule_count: 1/4------------------------------
+laura iqbal         : DEBUG: O: [0, 2, 0, 2]
+laura iqbal         : DEBUG: P: [0, 1, 2, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [0, 2, 0, 2]
+laura iqbal         : DEBUG: P: [0, 1, 2, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.51866667]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 8 / 21: rule_count/nonrule_count: 0/6------------------------------
+laura iqbal         : DEBUG: O: [1, 3, 1, 1]
+laura iqbal         : DEBUG: P: [0, 1, 3, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 3, 1, 1]
+laura iqbal         : DEBUG: P: [0, 1, 3, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.53342093]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 9 / 21: rule_count/nonrule_count: 1/5------------------------------
+laura iqbal         : DEBUG: O: [1, 3, 1, 0]
+laura iqbal         : DEBUG: P: [0, 1, 3, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 3, 1, 0]
+laura iqbal         : DEBUG: P: [0, 1, 3, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.62666667]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 10 / 21: rule_count/nonrule_count: 0/7------------------------------
+laura iqbal         : DEBUG: O: [1, 4, 1, 1]
+laura iqbal         : DEBUG: P: [0, 2, 4, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 4, 1, 1]
+laura iqbal         : DEBUG: P: [0, 2, 4, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.51360946]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 11 / 21: rule_count/nonrule_count: 1/6------------------------------
+laura iqbal         : DEBUG: O: [1, 3, 1, 1]
+laura iqbal         : DEBUG: P: [0, 1, 3, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 3, 1, 1]
+laura iqbal         : DEBUG: P: [0, 1, 3, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.56675426]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 12 / 21: rule_count/nonrule_count: 2/5------------------------------
+laura iqbal         : DEBUG: O: [1, 3, 1, 0]
+laura iqbal         : DEBUG: P: [0, 1, 3, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 3, 1, 0]
+laura iqbal         : DEBUG: P: [0, 1, 3, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.69333333]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 13 / 21: rule_count/nonrule_count: 0/8------------------------------
+laura iqbal         : DEBUG: O: [1, 4, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 4, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 4, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 4, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.49491975]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 14 / 21: rule_count/nonrule_count: 1/7------------------------------
+laura iqbal         : DEBUG: O: [1, 4, 1, 1]
+laura iqbal         : DEBUG: P: [0, 2, 4, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 4, 1, 1]
+laura iqbal         : DEBUG: P: [0, 2, 4, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.5469428]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 15 / 21: rule_count/nonrule_count: 2/6------------------------------
+laura iqbal         : DEBUG: O: [1, 3, 1, 1]
+laura iqbal         : DEBUG: P: [0, 1, 3, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 3, 1, 1]
+laura iqbal         : DEBUG: P: [0, 1, 3, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.66675426]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 16 / 21: rule_count/nonrule_count: 0/9------------------------------
+laura iqbal         : DEBUG: O: [1, 5, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 5, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [4, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 5, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 5, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [4, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.48284049]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 17 / 21: rule_count/nonrule_count: 1/8------------------------------
+laura iqbal         : DEBUG: O: [1, 4, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 4, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 4, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 4, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.52825309]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 18 / 21: rule_count/nonrule_count: 2/7------------------------------
+laura iqbal         : DEBUG: O: [1, 4, 1, 1]
+laura iqbal         : DEBUG: P: [0, 2, 4, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 4, 1, 1]
+laura iqbal         : DEBUG: P: [0, 2, 4, 1]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.6469428]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 19 / 21: rule_count/nonrule_count: 0/10------------------------------
+laura iqbal         : DEBUG: O: [2, 6, 2, 0]
+laura iqbal         : DEBUG: P: [1, 3, 6, 0]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [4, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [17]
+laura iqbal         : DEBUG: [125]
+laura iqbal         : DEBUG: [309]
+laura iqbal         : DEBUG: [130]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [2, 6, 2, 0]
+laura iqbal         : DEBUG: P: [1, 3, 6, 0]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [4, 0, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+laura iqbal         : DEBUG: [7]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [1]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.47809465]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 20 / 21: rule_count/nonrule_count: 1/9------------------------------
+laura iqbal         : DEBUG: O: [1, 5, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 5, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [4, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 5, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 5, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [4, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.51617382]
+laura iqbal         : INFO: ------------------------------Trying rule_count_pair 21 / 21: rule_count/nonrule_count: 2/8------------------------------
+laura iqbal         : DEBUG: O: [1, 4, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 4, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [3, 2, 0]
+laura iqbal         : DEBUG: [60, 26, 0]
+laura iqbal         : DEBUG: [360, 86, 0]
+laura iqbal         : DEBUG: [403, 38, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [2, 0, 0]
+laura iqbal         : DEBUG: [49, 18, 0]
+laura iqbal         : DEBUG: [364, 84, 0]
+laura iqbal         : DEBUG: [500, 406, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [20]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: laura, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: laura, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: laura, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: O: [1, 4, 1, 2]
+laura iqbal         : DEBUG: P: [0, 2, 4, 2]
+laura iqbal         : WARNING: Remains: 0
+laura iqbal         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+laura iqbal         : DEBUG: [5, 0, 0]
+laura iqbal         : DEBUG: [39, 0, 0]
+laura iqbal         : DEBUG: [60, 0, 0]
+laura iqbal         : DEBUG: [20, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+laura iqbal         : DEBUG: [11, 0, 0]
+laura iqbal         : DEBUG: [175, 0, 0]
+laura iqbal         : DEBUG: [500, 0, 0]
+laura iqbal         : DEBUG: [168, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: [3, 0, 0]
+laura iqbal         : DEBUG: [1, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0]
+laura iqbal         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+laura iqbal         : DEBUG: [51]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [500]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [0]
+laura iqbal         : DEBUG: [2]
+laura iqbal         : DEBUG: final:
+laura iqbal         : DEBUG: name: iqbal, l_level: 0
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+laura iqbal         : DEBUG: name: iqbal, l_level: 1
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: name: iqbal, l_level: 2
+laura iqbal         : DEBUG: --------------------------------------------------
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+laura iqbal         : DEBUG: scores: [0.62825309]
+laura iqbal         : DEBUG: ----------------------------------------------------------------------------------------------------
+laura iqbal         : DEBUG: Best score achieved: 0.6933333333333334
+laura iqbal         : DEBUG: Best selected: 2/5
+laura iqbal         : DEBUG: Rule variations: [{'li', 'L. i.', 'L. I.', 'Li', 'L.I.', 'L.i.', 'l. I.', 'l.i.', 'l.I.', 'lI', 'LI', 'l. i.'}, {'iqbal       laura', 'iqbal    laura', 'iqbal laura', 'iqbal     laura', 'iqbal        laura', 'iqbal         laura', 'iqbal  laura', 'iqbal          laura', 'iqbal      laura', 'iqbal   laura'}]
+laura iqbal         : DEBUG: Nonrule variations: [{'lyera ijbil', 'lwoya isbeh', 'llhra iqwfl', 'laurw iqbbl', 'lyuri iqfwl'}, {'laurw iqbyl', 'wauwu acbah', 'layrh ikqbl', 'lruha ixbil', 'llhra iqxvl'}, {'lahur ixbpl', 'lruha isbil', 'wuera wibhl', 'layra iqbyl', 'lwara ixbwl'}, {'lwara ixpal', 'wahrw hqble', 'lyaur ijbul', 'layra iqbbl', 'lwurh iqovl'}, {'lwera iqcvl', 'lyuri icbfl', 'lyurh iqkbl', 'layra iqbyl', 'layyh hqpel'}, {'lyury icpal', 'layra icbal', 'lhury iqpyl', 'lhlra iqyvl', 'luhya qibul'}, {'haroa iyabl', 'lhyra iqphl', 'lyaur iqpol', 'layra icbal', 'lurya isbfl'}, {'hawya hqble', 'laury icbal', 'lhurw iqgpl', 'lyurr igbhl', 'lruya izval'}, {'laurw iqbyl', 'lwure iqppl', 'lwurw iqvul', 'lhrra izbol', 'loaha akfal'}, {'yuuwa wjbhl', 'lyaur iqvel', 'lyury iqfol', 'laury ikbal', 'lwurr ijqbl'}, {'llhra iqzbl', 'waoha iyyyl', 'laury ikbal', 'lyuru iqphl', 'layur iqqfl'}, {'lwurr izpal', 'luuyo hhpal', 'lyurw iqvil', 'lwaur ijbol', 'layra iqbyl'}, {'laury iqbwl', 'lyury iqful', 'lwurr iqkvl', 'wahha hqbha', 'larwa ijpal'}, {'lwurr icbhl', 'lwuri ijqbl', 'lurya iqvhl', 'ulora iqhle', 'layra iqbbl'}, {'laury iqbwl', 'lwera iqvfl', 'lhyra izval', 'lyira izqbl', 'yuuwa yqfah'}, {'lhhra iqjpl', 'laury iqbwl', 'lyuro izbyl', 'luuyy hibwl', 'lwira igpal'}, {'lwhra iqpvl', 'laywe eqwil', 'laury iqbyl', 'lwuri ixbfl', 'lyora iqjpl'}, {'lyurw iqxfl', 'lyurh ixbel', 'laurw icbal', 'heara ihwbl', 'larya ijfal'}, {'laury ikbal', 'lhhra ikbvl', 'hauyw iyyyl', 'lyuri iqefl', 'lyuro iqvel'}, {'layra icbal', 'lwurr iqofl', 'laeww yxbah', 'lwlra iqcbl', 'lhyra igfal'}, {'lwuro iqafl', 'wiuru aqabl', 'lrwra iqblh', 'lwora iqvwl', 'laury iqbbl'}, {'lhury iqjfl', 'layra icbal', 'layur iqhpl', 'lurwa iqzbl', 'yaero ycpal'}, {'lwoya ojbol', 'lhyra ixbol', 'lwuri iqefl', 'lwurw isfal', 'laurw iqbwl'}, {'laeyw hqbha', 'lwure izqbl', 'layra iqbbl', 'layrh iqhvl', 'lwurw ikval'}, {'laury icbal', 'leowa yxbah', 'lhyra igfal', 'lyaur iqqvl', 'lwhra iqvfl'}, {'laurw ikbal', 'lhlra iqupl', 'lwure iqxfl', 'lyuru isqbl', 'lowya aqble'}, {'lyurw iqsbl', 'lruwa iqwfl', 'laurw icbal', 'lewya wxbah', 'lwurh ixbyl'}, {'laurw iqbyl', 'lyera isbbl', 'layrh iqfbl', 'lwera ixqbl', 'lhowa wqwah'}, {'hahua iyyyl', 'laury icbal', 'lwuru iqavl', 'lwuri iqgbl', 'lyure iqpul'}, {'laurw ikbal', 'lyurh ixbol', 'layur isbol', 'yauhw qipal', 'lyaur iqqvl'}, {'lwera ixval', 'laury iqbwl', 'larya iqivl', 'lhwra isfal', 'ulhra hzbah'}, {'lruya ijbyl', 'lwure iqipl', 'loawa hqwah', 'layra iqbbl', 'lyurh ixbpl'}, {'layrh iqfhl', 'layra icbal', 'lhwra iqblh', 'larwa ixbel', 'luuyy hjpal'}, {'lyira iquvl', 'layra icbal', 'lhurw iqphl', 'yahro hibul', 'lwhra iqzfl'}, {'lwurh ixbpl', 'lyury ijbpl', 'loaha ihapl', 'lruha iqypl', 'layra iqbwl'}, {'wuwra ikyah', 'layra ikbal', 'lyure ijbvl', 'lyhra iqhfl', 'lwara iqcfl'}, {'layyi qabah', 'lwuru icbhl', 'lurya igbpl', 'larwa ikval', 'laury iqbbl'}, {'hluha qibah', 'layur ijqbl', 'lhlra iqzbl', 'lyaur iqpul', 'layra iqbyl'}, {'layrh izbel', 'wwira aqpah', 'laurw icbal', 'lwera izqbl', 'lahur iqvel'}, {'lwuru ijbvl', 'aluro iqyle', 'layra iqbbl', 'lwora izpal', 'lwuri iqjvl'}, {'lurya icbvl', 'layra icbal', 'lwurw ikqbl', 'lwurr iqupl', 'yluwa hybah'}, {'lrwra iqvil', 'lyuru iquvl', 'lwhra izbpl', 'hhuya yqhay', 'laurw iqbwl'}, {'lwurr ixbil', 'laurw icbal', 'lyury iqvol', 'lyurh ijbvl', 'hhuru ycbhl'}, {'lwora isbil', 'lahur ixbol', 'layra iqbbl', 'wauhw iqyhh', 'lyuru izbel'}, {'lwuru iqapl', 'yuwra wybah', 'lwurr iqppl', 'lhrra iqpel', 'laurw iqbwl'}, {'waerw ycbhl', 'lurwa iqjbl', 'lwuri iqpil', 'lyurr iqfel', 'layra iqbbl'}, {'wyurh aqbuh', 'lrhra iqkvl', 'lyurh iqqvl', 'lyera iqcpl', 'laurw iqbwl'}, {'lyury icqbl', 'lwaur isbil', 'lwury iqavl', 'laahw izvay', 'laury iqbyl'}, {'lyora iqefl', 'lyury izbpl', 'alyra aqboh', 'llhra iqcvl', 'laury iqbbl'}, {'lrhra iqzbl', 'lruwa ixbul', 'layra iqbyl', 'harwa hybel', 'lyora iqevl'}, {'lruwa ixbvl', 'larwa iqfbl', 'hawre hqbih', 'laurw iqbbl', 'layrh iqqpl'}, {'laurw ikbal', 'lhhra isbbl', 'lruha ijbvl', 'lyaur iqfil', 'laauh ojbaw'}, {'yhira hyyal', 'lwurr igqbl', 'lwuro ijbpl', 'laurw ikbal', 'lurya ixbbl'}, {'lyurw iqpvl', 'yawya yxhal', 'lwure isbil', 'lhlra ijbwl', 'layra iqbwl'}, {'lhhra iqjpl', 'laurw ikbal', 'lurya ijbbl', 'lhrra icfal', 'haoro eqyah'}, {'lwhra iqffl', 'ahuya iyyyl', 'layra iqbbl', 'lwurh isqbl', 'lyuru isbyl'}, {'haowa hihal', 'lurwa iqpvl', 'lwora isval', 'laury ikbal', 'lhyra ixbpl'}, {'lurya iqsfl', 'lyera ikbfl', 'yarua ihobl', 'laury iqbyl', 'lyuru icbpl'}, {'lwurr iqfpl', 'lrhra izqbl', 'laowy iahbl', 'lyira icfal', 'layra iqbbl'}, {'lyurw ispal', 'lyora iqepl', 'lwuyu wyyal', 'lyure icbfl', 'laurw iqbwl'}, {'lwlra ijbil', 'lyara iqgpl', 'layra iqbbl', 'lrhra iqfwl', 'hauyh iwfay'}, {'lhurw izbil', 'laury iqbwl', 'lyhra iqfpl', 'lohwa wibhl', 'lyury iqvbl'}, {'lyara iqivl', 'layra ikbal', 'lurwa iqjfl', 'yarua qifal', 'lruwa iqpyl'}, {'layra icbal', 'lyurw ijbvl', 'hyurh uqhol', 'lrwra iqyfl', 'lyurr iqfvl'}, {'layra ikbal', 'lruha igval', 'loaha yqfay', 'lyuri isval', 'lyira isqbl'}, {'lwuay isbew', 'laury iqbyl', 'lyurw icbfl', 'lyora ijbfl', 'lhlra izbfl'}, {'lyera icqbl', 'lwurr ixbil', 'laurw ikbal', 'lwera icbfl', 'leiha eqbli'}, {'layrh iqfvl', 'lyuri ixbil', 'lwuru icbhl', 'laoyy aqfah', 'laurw iqbwl'}, {'lhuhu yqboh', 'laury icbal', 'lwhra isbel', 'lurwa izbhl', 'lurya ixval'}, {'lwera iqfvl', 'laowe hibel', 'laurw iqbbl', 'lyuri iqcfl', 'lyuro izbul'}, {'lyurr iqcfl', 'lwure iqvwl', 'wahru oqyah', 'laury iqbyl', 'lwuro iqpvl'}, {'llhra iqpol', 'lhurw ixval', 'lywya ycval', 'layra iqbyl', 'lwlra izbvl'}, {'lyhra ijbhl', 'lyora iqxfl', 'laury icbal', 'leiwa iybla', 'lwurw icbpl'}, {'ywhra hsbel', 'lruha iqvol', 'lurya iqwpl', 'lyure ijval', 'laury ikbal'}, {'laurw iqbyl', 'lwora iqjbl', 'lruya iqzpl', 'lyuro icbfl', 'waerw ikfaw'}, {'lyurw igqbl', 'laury icbal', 'lhlra izfal', 'lrwra izbhl', 'ahhra ycfal'}, {'lyera iqvfl', 'whuru wybah', 'lhury ixbfl', 'laury iqbyl', 'lyuro iqvvl'}, {'harua iqaby', 'llhra isbol', 'lrwra isbwl', 'lyurr ijqbl', 'laurw iqbbl'}, {'hehra cibol', 'lrwra ikbvl', 'lwara icval', 'laurw iqbbl', 'lyuru ijqbl'}, {'lwurw isbvl', 'lhyra isval', 'layra icbal', 'lhury iqgvl', 'hauir wkfal'}, {'yaywa uqabl', 'layra icbal', 'lwure ikval', 'lwurr iqjfl', 'lyira ikqbl'}, {'larwa isbel', 'yoara eybil', 'laury iqbyl', 'lhyra igqbl', 'lhhra iqjvl'}, {'layra icbal', 'lyora isbol', 'whhra acbah', 'lrhra iqvol', 'larwa iqsvl'}, {'lruwa iqvil', 'lwlra ixbbl', 'lhyra ijbpl', 'awuru iwpay', 'laurw iqbwl'}, {'lwury iqfbl', 'lyure ijbwl', 'luuhh eqbla', 'laury iqbyl', 'lahur isval'}, {'lyhra iqffl', 'laurw ikbal', 'lwaur isbil', 'lwury ixbpl', 'hahya akwal'}, {'laury icbal', 'haaya ikfay', 'lwora ikbhl', 'lwuru iqpbl', 'lyurh ikfal'}, {'lyhra iqvvl', 'lwure iqvul', 'laury ikbal', 'wawru wqabl', 'lwurw ispal'}, {'lurwa iqkfl', 'lwurr isqbl', 'lhwra izbyl', 'yeara eqbiy', 'layra iqbyl'}, {'laurw icbal', 'lwowa hyyal', 'lhlra izbel', 'lhyra ijbyl', 'lwira ijbfl'}, {'lwurw iqofl', 'laury iqbwl', 'lyuru iqvvl', 'waowa iyyol', 'lwuru iqcfl'}, {'youro hcpal', 'laurw ikbal', 'lyure iqevl', 'lwurh izbol', 'lwlra izpal'}, {'layra ikbal', 'lwure ijbwl', 'lruya isbul', 'lurya iqvul', 'harea wqboh'}, {'laurw iqbyl', 'lyira iqpbl', 'lwora ijbol', 'lyera iqcfl', 'hawua yxfal'}, {'lwury iqcfl', 'lwurw ixqbl', 'lyuru ixpal', 'laurw iqbbl', 'yuara oqhol'}, {'lhyra iquvl', 'lwlra isbfl', 'harwa ihobl', 'layra iqbyl', 'lyurw izbbl'}, {'laurw iqbyl', 'lawyw iqhlo', 'lyurh iqavl', 'lyhra isbil', 'lyera iqpbl'}, {'lyurr ijbbl', 'lurwa iqfwl', 'laurw iqbbl', 'lwuyu qbihl', 'layrh isbpl'}, {'wyuru iyyah', 'lurya ijbhl', 'lurwa izbbl', 'layra iqbbl', 'lwara iqjfl'}, {'laury iqbwl', 'lyara igfal', 'lwhha eyyal', 'lyurr ijbpl', 'lwurh izbfl'}, {'yauwi ojbul', 'layra icbal', 'lahur iqpbl', 'lrwra ixpal', 'lruha igbpl'}, {'waaru hybah', 'layra icbal', 'lyara icqbl', 'lyaur iqpel', 'lhurw iqfvl'}, {'laurw ikbal', 'awhra ycbel', 'lurya izbhl', 'lhrra iqzbl', 'lwlra igbpl'}, {'layur iqvvl', 'wahre hibel', 'laurw ikbal', 'lurwa igbfl', 'lurya izbyl'}, {'lruwa iqhfl', 'lhury ijpal', 'yaywa ecbil', 'laury iqbyl', 'lwira iqjfl'}, {'layur iqcbl', 'laury icbal', 'lwhra ispal', 'wauyu hqbew', 'llhra iqxpl'}, {'lwury isbpl', 'wauah hibay', 'lwara iqgvl', 'lyara ixbyl', 'layra iqbyl'}, {'lyurw isbol', 'laauh sibhl', 'lruya iqwfl', 'lhury ixbul', 'laurw iqbwl'}, {'lyury ijbil', 'laurw ikbal', 'lwurw iqgvl', 'llhra igbvl', 'lueya hwbah'}, {'huora yjbay', 'layra ikbal', 'lyara icfal', 'lyira ixbfl', 'lwuri ixbel'}, {'yauah qibah', 'lyora ixfal', 'lhrra icbpl', 'llhra isbel', 'laury iqbyl'}, {'lyure iqwpl', 'yyuro ycbaw', 'lhurw izbvl', 'laury iqbyl', 'lwuro iqxbl'}, {'lurya iqpbl', 'laury icbal', 'lwuro iqqpl', 'lwhra iqfpl', 'lyuhh ecbil'}, {'ayhra ospal', 'lyuri iqsbl', 'lwera ijbil', 'lahur ijbul', 'laurw iqbwl'}, {'lyuro iqqfl', 'luyha wibhl', 'lruwa iqblh', 'laurw iqbbl', 'lwuri iqjvl'}, {'layra ikbal', 'lyera igfal', 'weurh hzpal', 'lruya iqafl', 'lhlra iqfel'}, {'lyuru iqufl', 'layrh iqvil', 'layur ijbfl', 'luuyy qabhl', 'laury ikbal'}, {'lurya iqhpl', 'wauah kibhl', 'lwure izbol', 'lyira ijval', 'laury iqbbl'}, {'lwurw ijbol', 'lyaur ixbbl', 'lrhra ixbpl', 'wuara hxpal', 'laurw iqbwl'}, {'lhrra iqofl', 'larya isbbl', 'laurw icbal', 'lhhra iqyfl', 'yaerw qival'}, {'laurw iqbyl', 'lwara iqpbl', 'lyurr iqvwl', 'lwurw izpal', 'aluru yxbil'}, {'laurw iqbyl', 'lrhra izbyl', 'lwuru iqvhl', 'hawua hiyal', 'lhlra iqblh'}, {'lwurh ijfal', 'laurw iqbwl', 'hoira esbil', 'lwhra iqhfl', 'lwure igfal'}, {'lwuri igqbl', 'wwure eqyil', 'lwara iqfvl', 'layra iqbyl', 'lwurh iqvel'}, {'lyurw icbvl', 'olurw hqfel', 'lwure iqcpl', 'layra iqbwl', 'lurwa iqvvl'}, {'lyurw iqxfl', 'lwlra isbhl', 'layra iqbwl', 'wuara yxhal', 'lhury ijqbl'}, {'laurw iqbyl', 'lyuro ikqbl', 'wiora hqyel', 'lwira ixbil', 'lwuro igval'}, {'lurwa izfal', 'lwuri isbol', 'laury ikbal', 'yyure hival', 'layrh isbwl'}, {'wauhu iwvay', 'lurya iqgbl', 'lyure ixqbl', 'laurw iqbbl', 'lwurh iqupl'}, {'lyora icval', 'lwure iqxpl', 'laiwe ekbil', 'layur izbil', 'layra iqbwl'}, {'luuah ikawl', 'lhrra iqkpl', 'lhyra iqqfl', 'lurwa isbwl', 'laurw iqbwl'}, {'liyya qival', 'lruwa iqvol', 'lwora iqfel', 'lrhra ijbul', 'laury iqbyl'}, {'laurw iqbyl', 'lrwra iqvyl', 'lhlra iqvul', 'lhwra isbul', 'lwuah yqbiy'}, {'lhwra ixqbl', 'laury icbal', 'llhra icbhl', 'lewya sibhl', 'lwora iqffl'}, {'lwuru iqafl', 'lwaur ijbyl', 'wauhu ojbhl', 'layra iqbwl', 'lwurr iqvul'}, {'lwurw izbbl', 'luuyu whbah', 'laurw iqbbl', 'lyera icpal', 'lwara iqwpl'}, {'layur ixbvl', 'laurw ikbal', 'wahru iqyhh', 'lyurr iqwpl', 'lwure iqcbl'}, {'harha wqpah', 'laury iqbwl', 'lyuri ikbpl', 'lahur iqsvl', 'lwhra iqsbl'}, {'lwure ixbol', 'lhurw isbyl', 'laurw iqbwl', 'lruha ijpal', 'lyuhy iqhoh'}, {'lhury iqgpl', 'lyuro iqyvl', 'waory wqboh', 'laury iqbyl', 'lhhra ijbbl'}, {'lyuro iqivl', 'laury ikbal', 'hlwra qhbhl', 'lwuru iqhpl', 'layur iqvbl'}, {'laurw iqbyl', 'hayya iqyih', 'lahur ijfal', 'lwira iqvol', 'lruha iqhfl'}, {'lurya iqcfl', 'lyara iqwpl', 'laurw iqbbl', 'laohw ozval', 'lwara ijbfl'}, {'waerw yqhah', 'lrhra iqpfl', 'lwurr ijbhl', 'lurwa iqzbl', 'laurw iqbwl'}, {'lwury iqfwl', 'lawaw yjbah', 'lrwra iqpyl', 'lwera iqspl', 'laurw iqbwl'}, {'laury iqbwl', 'wiuru iyyel', 'larya icbhl', 'lwaur iqsvl', 'lyira iqzvl'}, {'hauye esbil', 'lhury isbwl', 'larwa iqblh', 'lyurr iqwvl', 'laury iqbyl'}, {'lwhya yybah', 'lwuru isbbl', 'lyury iqafl', 'laury iqbyl', 'lwhra iqvyl'}, {'alarw eqbla', 'lwlra iqvfl', 'lwira iqkbl', 'lyira iqvhl', 'layra iqbbl'}, {'lrwra iqkvl', 'lruya iqivl', 'laury icbal', 'larwa isbol', 'luiya ajbhl'}, {'layra ikbal', 'lyara iquvl', 'yiuwa yqboh', 'lwira iqjbl', 'llhra ixbyl'}, {'lruha ikpal', 'lhrra iqyfl', 'laurw iqbbl', 'yawya yqwah', 'lwera iqcbl'}, {'lwara ijbyl', 'laurw ikbal', 'lwora ikbpl', 'lhurw iqavl', 'laahw zival'}, {'laury iqbwl', 'lyure izbbl', 'lwuri ikbfl', 'larya ixbol', 'wuuya iyywl'}, {'laurw iqbyl', 'lruha iqzvl', 'layur ixbvl', 'yayya azbah', 'lyhra izval'}, {'lwurw iqwpl', 'lhyra ixbol', 'leiwa qybhl', 'layra iqbbl', 'lruya iqkbl'}, {'lyuro iqpyl', 'lwuri ikqbl', 'ulurh ikwaw', 'lyuru iqvel', 'laurw iqbwl'}, {'weuya qibaw', 'lhurw iqqvl', 'lyira iqhpl', 'layra iqbwl', 'lyora iqhfl'}, {'lwuru ixbvl', 'lruwa igbfl', 'lhhra iqvbl', 'yauho eqbli', 'layra iqbyl'}, {'lhlra isbpl', 'lyira ijbil', 'laury ikbal', 'lwira ikbfl', 'yaaro iyyhl'}, {'hlora hihal', 'lwuri ijbhl', 'lwurw isbvl', 'laurw ikbal', 'lhhra iqvel'}, {'laury iqbwl', 'lhhra izbul', 'lwaur iqvhl', 'wwuya ecbil', 'lyury igbpl'}, {'lyhra izbwl', 'lwuru iqpyl', 'laurw icbal', 'lyaur iqgpl', 'louwe wqwah'}, {'lyurh iqpul', 'haori kifal', 'lyuru iqjvl', 'lhwra iqypl', 'laurw iqbbl'}, {'laurw iqbyl', 'lwurh ixbbl', 'yauyo hqhel', 'lruwa iqpyl', 'lwurr iqipl'}, {'lowya iqyih', 'lyure igbvl', 'larya isbhl', 'lurya ikbpl', 'laurw icbal'}, {'lyaur iqqpl', 'layyy ojbul', 'lyara iiqbl', 'layra iqbwl', 'lyhra isbwl'}, {'lyuru ijbpl', 'lyaur iqipl', 'luuwh ykfal', 'laury ikbal', 'lwuro iqfel'}, {'laury icbal', 'layur iqpbl', 'hehra wqbwh', 'lyury iqhfl', 'lyuro igbvl'}, {'lurwa iqifl', 'leyya ehbil', 'lwera iqxvl', 'lyira iqwvl', 'layra iqbbl'}, {'laurw iqbyl', 'lyira iqcbl', 'lruha ixbbl', 'lhury iqjbl', 'lwuhw oqabl'}, {'laowi qwbhl', 'lurwa iqapl', 'lyuri isbbl', 'lwure iqevl', 'laury iqbbl'}, {'lyera iqvpl', 'layra icbal', 'lhlra iqpfl', 'lhrra iqyfl', 'luyua qubhl'}, {'ulaha hjbah', 'lwhra igfal', 'layra iqbwl', 'lyaur izbwl', 'lhyra iqevl'}, {'lyuru iqvol', 'laurw ikbal', 'weurh wyyal', 'lwurw iqopl', 'lahur iqpol'}, {'wyure uwbay', 'layra ikbal', 'lruya iqupl', 'lahur ijbhl', 'lwaur izbul'}, {'lruwa iqjbl', 'larwa izbil', 'laury icbal', 'larya iqwvl', 'layah ekbil'}, {'lhlra izbwl', 'lwuro ijfal', 'lyuro iqpwl', 'lawwe hibah', 'laury iqbbl'}, {'wahry hgbel', 'lurwa iqafl', 'lwuro isbel', 'layra iqbbl', 'lhrra iqkbl'}, {'laurw ikbal', 'lruwa ijbyl', 'lwera ikqbl', 'lyara ispal', 'wuwra hqpul'}, {'laurw iqbyl', 'lwaur iiqbl', 'lyira iqcbl', 'lwuyh iyayl', 'lyara iqifl'}, {'wwuro hkbel', 'lhurw iqsfl', 'lyhra izbvl', 'lhyra iqfhl', 'laury ikbal'}, {'lwuri isbpl', 'luiya qibhl', 'lyira iqgfl', 'laury ikbal', 'lwora iqpel'}, {'lwuyu yqfah', 'lyuru ijbwl', 'larwa icpal', 'laurw icbal', 'lwera iqopl'}, {'lwuyu icyol', 'lwuri iqpwl', 'lwurw iquvl', 'layra iqbwl', 'lwira iqjvl'}, {'layra ikbal', 'lwora ixbyl', 'alrua yqvah', 'lhrra ijbfl', 'lwurh iqxfl'}, {'yayro qebil', 'lyurr iqapl', 'layra iqbbl', 'lyora iqvol', 'lyhra iqfel'}, {'lyure iqyfl', 'lwara ispal', 'lyurh ijfal', 'yauyr wqhah', 'layra iqbwl'}, {'lrwra ikval', 'lyurh izbwl', 'awhra wqble', 'layur isbel', 'laury iqbbl'}, {'laury iqbwl', 'lwuri izbfl', 'lyora isbyl', 'lwurh iqepl', 'wahya iyayl'}, {'haowa aqfah', 'lwhra iqfel', 'lhhra iqhvl', 'layra iqbwl', 'lwora ijqbl'}, {'lwury izbol', 'haoya yqbyy', 'llhra iqsvl', 'laury iqbbl', 'lhury izbbl'}, {'harya jibhl', 'lurwa iqvwl', 'lwurw izbil', 'laury iqbyl', 'lwlra iqcpl'}, {'yauwy hyyal', 'lwure iqzfl', 'laurw icbal', 'lyuri iquvl', 'lwurh icbfl'}, {'laury icbal', 'wwurh ygbay', 'layrh isqbl', 'lwurh isbfl', 'lwuru isbhl'}, {'lhrra isbyl', 'yuhra hiwal', 'layra iqbwl', 'lhwra iqqfl', 'lyira iqffl'}, {'lhrra ixbil', 'laurw icbal', 'lyuro iqfwl', 'yauwh ojfal', 'lhyra ijbfl'}, {'lawyi ejbhl', 'lwlra ijbwl', 'lruha iqvel', 'layra iqbbl', 'lhrra izbyl'}, {'lyhra iqvil', 'lyurh iqphl', 'lyira ixpal', 'layra iqbyl', 'laowo hqbhh'}, {'ayuwa hkfal', 'lyuru izbil', 'lahur ikbvl', 'lrhra iqfhl', 'laurw iqbwl'}, {'laurw ikbal', 'lwhra iqfpl', 'lhury iqufl', 'lrwra izfal', 'laiwe yqway'}, {'lhhra izbbl', 'waroa ysbah', 'lwira isbbl', 'lhlra ijbel', 'layra iqbyl'}, {'weurh ihavl', 'laurw icbal', 'lahur iqfil', 'layur iqfhl', 'lurwa icbvl'}, {'larwa iqfwl', 'layra ikbal', 'llhra ijbfl', 'wehra ysbah', 'lwara iqhbl'}, {'hayua iwyah', 'lyera ijbvl', 'lwlra izqbl', 'lyara iqgfl', 'laurw iqbwl'}, {'lahhw qbihl', 'layra ikbal', 'lruya iqvil', 'lhlra icbfl', 'lwurh igbvl'}, {'lyara iqzfl', 'lyure ikpal', 'layra iqbbl', 'wahya aqyah', 'lyera izbhl'}, {'lhrra iqvyl', 'laurw iqbbl', 'luuhh ysbay', 'lyuru igbfl', 'lyuro iqwvl'}, {'layra iqbyl', 'lyara iqpfl', 'lurya igqbl', 'wouru isyah', 'lwaur iqhfl'}, {'laoho ysbah', 'lyaur ikbpl', 'layra iqbwl', 'lruya iqzfl', 'layrh igval'}, {'laury iqbwl', 'lrhra icbfl', 'lhyra iqvul', 'wahya eqhol', 'lyuro iqifl'}, {'hauay yqbuy', 'lyora izfal', 'lyira iqfwl', 'lyure ijpal', 'laurw iqbwl'}, {'lwuro iqjbl', 'layra icbal', 'wayru yxbil', 'lyhra iqapl', 'lwira ikbhl'}, {'lwurr ixbvl', 'yauar eqvil', 'laurw ikbal', 'lruya izqbl', 'lwhra icbvl'}, {'llhra iqufl', 'wauyu hqhol', 'lwurh iqfpl', 'lrwra iqfyl', 'laurw iqbwl'}, {'larwa iqvil', 'hyurh ejbil', 'lrwra iqxpl', 'laury ikbal', 'lyhra iqcbl'}, {'laury iqbwl', 'lrwra iqpfl', 'lwuru iqopl', 'whara ywbay', 'lhlra ixpal'}, {'layur isbpl', 'layra ikbal', 'lwira izpal', 'lhlra igpal', 'wehra ycval'}, {'lwlra iqspl', 'lyaur iqofl', 'wuuya cibhl', 'larwa iqzvl', 'laury iqbbl'}, {'lhyra iqvhl', 'larya ixbol', 'lwuro isbbl', 'layra iqbwl', 'wawre hqboh'}, {'laurw iqbyl', 'lwora iqkvl', 'lyhra iqkpl', 'lhyra iqgvl', 'aluri yxbil'}, {'lwurw ixbyl', 'wayru eqfil', 'lurwa iqqfl', 'laurw icbal', 'lruya iqypl'}, {'yuurh yqabl', 'lwera ijbil', 'laury ikbal', 'lhhra ixbyl', 'lyurw iqjpl'}, {'lwara ijqbl', 'yauah eqbli', 'lwurh igbhl', 'laury iqbyl', 'lwaur icbpl'}, {'laurw ikbal', 'lwurh ikbhl', 'loiwa aqbhh', 'lwara ixbvl', 'lwury izpal'}, {'yauwy xibhl', 'layur ixval', 'lyure iqvil', 'lhwra ixbwl', 'layra iqbwl'}, {'yaewa iyyel', 'lwure iqzbl', 'lwuru iqgfl', 'lhyra iqful', 'laurw iqbwl'}, {'lyuhe hibul', 'layra icbal', 'lhury icqbl', 'lyurr ijbyl', 'llhra iqhfl'}, {'laurw ikbal', 'lwuru icfal', 'yawwa wibhl', 'lyara ijval', 'lyuru iqpol'}, {'lyora izbvl', 'lwira iqwfl', 'laurw iqbbl', 'layhw hqyel', 'lwora izbil'}, {'lyury iqfol', 'lrwra iqjpl', 'yuhra hqhol', 'layra iqbbl', 'layrh ixbvl'}, {'laury iqbwl', 'lrwra iqvul', 'lahur iqpul', 'yauaw hwpal', 'lyera iqvol'}, {'waore hqpah', 'laury icbal', 'lyara izbfl', 'lyhra icbvl', 'lyuri iqxpl'}, {'lhury ijfal', 'wayya hqpul', 'lyera iqfwl', 'laury iqbyl', 'llhra izbul'}, {'wayya wkbah', 'lhyra iqovl', 'lwara ixbul', 'laurw iqbbl', 'lwurh iqfyl'}, {'laurw iqbyl', 'lahur ispal', 'lyury izval', 'wyora ikwul', 'lwora iqblh'}, {'lwwya ihafl', 'laury icbal', 'lyora icbhl', 'lhurw iqsbl', 'lwlra iqxpl'}, {'yauaw ysbah', 'laury icbal', 'lhyra iqupl', 'lyhra icval', 'lhurw isbel'}, {'laurw ikbal', 'laywe ywbay', 'lhhra iqfil', 'lwury iqvfl', 'lurya iqvwl'}, {'wauyu yqbuy', 'lwuri icbpl', 'laury icbal', 'lyurh iqepl', 'lwury iqvel'}, {'laywe eqhol', 'lwuri isbfl', 'lwurr iqfol', 'layra iqbbl', 'lyurr izbel'}, {'lahur igbvl', 'lyaur izbel', 'hluro hibaw', 'laurw iqbbl', 'lyuri ijbyl'}, {'hluro oqhol', 'lahur iqepl', 'lwira isbhl', 'lwurh iqjbl', 'laury iqbbl'}, {'llhra iqpwl', 'wahya yxyal', 'layrh izpal', 'layra iqbyl', 'lyure igqbl'}, {'laury iqbwl', 'lwuro ijbyl', 'lyuri iqafl', 'lhuhw qipal', 'lwurw ikbvl'}, {'layra icbal', 'lhlra ijbbl', 'lahur iqffl', 'luuah aqbuh', 'llhra ixbwl'}, {'lruwa izbfl', 'lrhra iqupl', 'layur iquvl', 'lhuyu hiabl', 'laurw iqbbl'}, {'laurw ikbal', 'lhhra iqipl', 'ywuwa ejbil', 'layur isbhl', 'lrwra ispal'}, {'lahur iqcvl', 'hauar wqbhh', 'laury iqbwl', 'lyurw isbel', 'lwure isbvl'}, {'lwurr igqbl', 'leiya yzbay', 'lhyra ixbwl', 'laury iqbyl', 'layrh izbyl'}, {'lwera ixbol', 'lyuro iqjvl', 'lruya iqapl', 'lahhw iqaby', 'laurw iqbwl'}, {'layra icbal', 'lwira iqgbl', 'lawaw hqbeh', 'layur iqafl', 'lwuru iqjbl'}, {'lyurh ikqbl', 'lawhw eqbli', 'laurw iqbbl', 'lyhra iqifl', 'lyara ixbhl'}, {'leowa zival', 'laury iqbwl', 'lrhra isbvl', 'lyuru igfal', 'lwera isbbl'}, {'yawya yxbul', 'lwaur iqvfl', 'lyuri ikpal', 'lwira iqsbl', 'laury iqbbl'}, {'ahhra ykfal', 'lrhra iqvyl', 'lhhra igqbl', 'lyurh iqhbl', 'laury iqbyl'}, {'laurw ikbal', 'lurya iqpel', 'lyira iqvil', 'laiwe ojpal', 'lwaur izbyl'}, {'layra icbal', 'lwara iqufl', 'lwlra izfal', 'laiwe ecbol', 'lyara igqbl'}, {'hauay ahbah', 'lwaur iqfyl', 'lhury izbfl', 'lyuro izbwl', 'laury iqbbl'}, {'layra icbal', 'lyara iquvl', 'yaaro hqbeh', 'lyuru ixpal', 'lwurh iqvel'}, {'lyara icqbl', 'larya iqupl', 'lhwra ijbbl', 'olhra axbah', 'laury iqbbl'}, {'lruha isbul', 'lurwa iqqpl', 'lwuru isbol', 'lwuyo hqvel', 'layra iqbwl'}, {'llhra iqphl', 'laury icbal', 'lwhra iqvwl', 'hiuya aqvah', 'lwurr igbpl'}, {'lwurr igval', 'lrhra isbil', 'layra iqbbl', 'layur ijpal', 'lawhw hqphl'}, {'layur iqgpl', 'yhira ojbel', 'lhyra iqafl', 'laurw iqbbl', 'lhwra icpal'}, {'laurw iqbyl', 'lyure iqifl', 'lwuro izbpl', 'wahri hybel', 'lurya iqevl'}, {'lwurr isbvl', 'lwara ijbol', 'weuro qwbhl', 'layra iqbbl', 'lahur izval'}, {'lyhra iqvul', 'lurwa ijbil', 'lahur iqvpl', 'laury ikbal', 'liuah cibhl'}, {'laury iqbwl', 'lyurr icbfl', 'lhury iqsbl', 'awuru yqbey', 'lwora iqevl'}, {'laury icbal', 'lhurw iqvyl', 'whara yyyal', 'lwera ikbvl', 'lwuro iqxfl'}, {'lurwa iqcpl', 'layra icbal', 'laoah yjbah', 'lwaur iqjbl', 'lhlra icbhl'}, {'lruya iqvol', 'lyera iqpil', 'yaewa aqbyh', 'layra iqbwl', 'lwuri iqfwl'}, {'laury icbal', 'lwira iqvvl', 'lyuru iqsvl', 'lwuru iqkpl', 'wwuha ojval'}, {'lwure iqjpl', 'lyure ixbbl', 'alyra yqwah', 'lruha ixval', 'layra iqbyl'}, {'lyira ixbvl', 'laurw ikbal', 'lyurh izval', 'lruya iqfpl', 'yaaro oqabl'}, {'laurw ikbal', 'lyuwh wibay', 'lwury iqblh', 'lhyra iqzfl', 'lyuri iqjvl'}, {'lyira iqfbl', 'hiurw ojyal', 'laury icbal', 'lwurr izbvl', 'lhwra iqfwl'}, {'lyira iqufl', 'lahur icqbl', 'lwurw iqypl', 'layra iqbwl', 'lohya yqbey'}, {'lawyw ycbwl', 'laurw ikbal', 'lyera iqavl', 'lhlra iqffl', 'lwury iqufl'}, {'layra ikbal', 'layur izval', 'lhwra iqgpl', 'elira hwpal', 'lyora icbfl'}, {'lyara iqofl', 'larya iqqfl', 'layra icbal', 'lyury igval', 'wyuru yqhay'}, {'laury icbal', 'wauhw hzbah', 'lwlra ijbfl', 'lruwa iqyvl', 'lwure isbul'}, {'layra icbal', 'lhlra iqjpl', 'lhury ixbhl', 'lyora izbpl', 'wuora hzpal'}, {'layra ikbal', 'alurh hypal', 'lwurw ixbil', 'lwara isbol', 'lwurr izbul'}, {'harau gibhl', 'lwurw iqvfl', 'lwure ijbhl', 'laury ikbal', 'lwera ixbvl'}, {'lyara iqivl', 'lyure isfal', 'lruha iqepl', 'yyuwa hibol', 'laurw iqbwl'}, {'haiya yxbaw', 'laurw icbal', 'lyurr iquvl', 'lurya iqsbl', 'lhrra ikbvl'}, {'lwuri iqxfl', 'hiurw ikwaw', 'laury ikbal', 'lwuro iqfel', 'lurwa icval'}, {'lyhra izpal', 'lyuhw izbwa', 'lwuru iqvel', 'lyury iqfvl', 'layra iqbyl'}, {'lyuri iqvfl', 'larya iqhvl', 'layra iqbyl', 'whora hcpal', 'lyira igqbl'}, {'laury iqbwl', 'larya iqfyl', 'aulrw yqway', 'layrh iqpel', 'lyuru izbil'}, {'laury icbal', 'lwurw icbhl', 'lhurw ijbul', 'lwurh iqxfl', 'luuwh iqyyh'}, {'lurya izbul', 'layra icbal', 'lahur iqxpl', 'lwurw iqpwl', 'yawya qabah'}, {'laurw iqbyl', 'waroa oqhol', 'lwuru igbpl', 'lhlra ijbyl', 'larwa iqwvl'}, {'laurw ikbal', 'layur izbfl', 'lhyra iqivl', 'lawhe qiyal', 'lwurr ixfal'}, {'layra ikbal', 'wauah wqbeh', 'lyure isbfl', 'lwuri iqjpl', 'lyuro iqopl'}, {'lwurw iqafl', 'laurw icbal', 'layrh ixbwl', 'yauwi iqyih', 'lyury igfal'}, {'lurya iqkpl', 'lrwra icbhl', 'layyy hqbey', 'laury iqbyl', 'lrhra ixval'}, {'lyara isbbl', 'lhyra iqpbl', 'lhhra ijbfl', 'hahya aqbhh', 'laury iqbyl'}, {'lwera izbul', 'lyira izbbl', 'lwure iqvpl', 'laury ikbal', 'elhra wyyal'}, {'laury iqbwl', 'larwa icval', 'lyhra ikval', 'lurwa ixbbl', 'lyuwe wsbel'}, {'laurw ikbal', 'lwurw isbyl', 'lhwya ywbah', 'layrh iqpfl', 'lwuri iqjvl'}, {'lruya iqxfl', 'lyuru iqxvl', 'ywhra iswel', 'lrhra icval', 'layra iqbwl'}, {'laurw iqbyl', 'lhurw icbfl', 'leowa ojbil', 'lyuri iqfwl', 'lyera iqsvl'}, {'yauwe yqbhh', 'lyira ijbfl', 'laurw iqbbl', 'lrwra iqffl', 'lhwra iqivl'}, {'layra ikbal', 'lurwa ixbul', 'lrhra isbwl', 'wuora ihyah', 'lwhra iqopl'}, {'lwhra ijbvl', 'lyury iqpol', 'leyya ihebl', 'lhyra isbpl', 'laury iqbbl'}, {'laurw iqbyl', 'lwara ijqbl', 'lyuyy ecbol', 'larwa iqfbl', 'lwure iqcvl'}, {'lruya iqpel', 'lwure igbfl', 'lurwa iqhfl', 'laury ikbal', 'haoya hkbah'}, {'hauyr izyah', 'lrwra isbwl', 'lhury iqgfl', 'lwora iqgpl', 'layra iqbwl'}, {'lwurw iqvhl', 'llhra iqful', 'lyaur ijbel', 'laurw icbal', 'laywe qiyal'}, {'lwury igpal', 'lyyya hkpal', 'lyora iqcvl', 'lyuro ijbvl', 'layra iqbyl'}, {'lwera iqzbl', 'uluya ixyah', 'lyuri iqivl', 'lwurh ikbpl', 'laury iqbyl'}, {'lruha iqipl', 'lyurw igbfl', 'laury icbal', 'yhuru yhbay', 'lwure isbel'}, {'llhra iqzbl', 'hauay hjbah', 'lhhra icqbl', 'lwira iqvul', 'layra iqbyl'}, {'laury iqbwl', 'lruya izbul', 'lhwya ojbil', 'lwurh ixval', 'lwure iqyvl'}, {'weora yzbay', 'llhra iqpfl', 'laury ikbal', 'lhhra iqhbl', 'lyara iqcpl'}, {'lyaur iqcpl', 'layay iwble', 'lhurw iqsbl', 'layra iqbbl', 'lwhra iqqvl'}, {'ilhra hqwel', 'lyurh ijfal', 'laury ikbal', 'lhrra ijbol', 'llhra iqcvl'}, {'lwara isqbl', 'yawro iyble', 'laury ikbal', 'lwuro ispal', 'lurya iqgvl'}, {'lwaur iqxpl', 'yaory iqaby', 'layra iqbbl', 'lwhra igpal', 'lyure icbhl'}, {'lyurr iqzvl', 'larya igbvl', 'layra iqbwl', 'yeuro iqhlo', 'lwury icqbl'}, {'layra icbal', 'lwure iqefl', 'waoya hqebl', 'lyaur ixbol', 'lruwa iqvhl'}, {'lyhra iqvul', 'layra ikbal', 'lrwra izbfl', 'llhra iqspl', 'wahru ojwal'}, {'lrwra ixbil', 'hulra ycval', 'llhra iqcbl', 'lwira ijbwl', 'layra iqbbl'}, {'laurw iqbyl', 'lhurw ijbwl', 'lyira iqvil', 'hlyra wqyah', 'lruya iqjbl'}, {'lyuro iqffl', 'hlurh eqbla', 'laury iqbbl', 'lyira iqvhl', 'lwurh iqvpl'}, {'lyurh iqovl', 'lwuwe cibol', 'lurwa isqbl', 'laury icbal', 'lruha iqcbl'}, {'lwurr isbwl', 'lyurr izbil', 'youwa yqyah', 'layra iqbyl', 'lruya iqhfl'}, {'lwury iqpyl', 'weuro iqyha', 'lurya izbfl', 'lhury iqipl', 'layra iqbbl'}, {'lhhra iqgpl', 'lyaur iqfyl', 'layra iqbbl', 'haeya aqble', 'lyera iqpfl'}, {'lohha ikwol', 'lyora isbpl', 'lrhra ijval', 'laurw icbal', 'lyurr iqofl'}, {'hyure ukfal', 'laury icbal', 'lhurw izval', 'lyurw iqgbl', 'lhury icval'}, {'lyira iqpol', 'lyera izbol', 'lyuwh iyyah', 'lyury iqyvl', 'layra iqbwl'}, {'ylhra hwbah', 'lyure iqevl', 'lhrra iqafl', 'laury ikbal', 'lwuro iqopl'}, {'lrwra ijbel', 'laury iqbwl', 'lhwra igbfl', 'luhha iyyul', 'lwhra iqjpl'}, {'lhwra ijfal', 'lhury iqqvl', 'layra iqbbl', 'hlhra ezval', 'lyurh ikbfl'}, {'laurw iqbyl', 'lawyy oqbla', 'lwurr iqvhl', 'lahur iqfyl', 'lrhra ixbil'}, {'yaewa iyywl', 'lyara iqpyl', 'lyurh icqbl', 'lurya iqofl', 'layra iqbyl'}, {'wiurw hqwah', 'laurw icbal', 'lyara ijval', 'lhyra iqful', 'lyuri ijfal'}, {'laurw iqbyl', 'lwurh ixval', 'lwuru iqypl', 'lhlra isbol', 'whora ikway'}, {'lyure iqqpl', 'lyera icfal', 'lwira iqkbl', 'yoara hibwl', 'laury iqbyl'}, {'lwurw iqovl', 'lwuwe hqbey', 'lyuri izbol', 'laury iqbyl', 'lhwra iqevl'}, {'lyurh iqphl', 'llhra iqivl', 'laury icbal', 'lyaur iqvol', 'wiuru ihawl'}, {'lhury ikval', 'laurw ikbal', 'lruya iqipl', 'hlurw asbah', 'lwurh iqpvl'}, {'lyora iqpol', 'leowa yxbol', 'lurwa iqpil', 'lwira iqpul', 'layra iqbwl'}, {'laury iqbwl', 'lyuri ixpal', 'lyara ixbul', 'wawru yqhol', 'lruwa ikbfl'}, {'lruwa iqkvl', 'laury icbal', 'lhury iqblh', 'hluru ewbay', 'lyera ijfal'}, {'layra icbal', 'lruha iqafl', 'lyaur ijbel', 'lyurh iqavl', 'lhuah hwbah'}, {'lyury izbhl', 'lyira isbul', 'laurw ikbal', 'yarua ujbhl', 'lhwra iqful'}, {'lhhra iqovl', 'laury iqbwl', 'lhwra iqvel', 'lurwa icval', 'hwhra ihhol'}, {'lwaur iqxpl', 'lurwa iqspl', 'yauhw ojwal', 'laurw icbal', 'lwlra iqphl'}, {'laury icbal', 'lyora igqbl', 'larya icval', 'lyuro iqjfl', 'layyh ezval'}, {'yeara hqabl', 'lahur ijpal', 'lwhra ijbvl', 'laurw iqbbl', 'lyuro iqgpl'}, {'haowa hjbel', 'lyure ijbhl', 'lwurw igqbl', 'layra iqbbl', 'lwora ixbpl'}, {'wawya qifal', 'lurya ixbul', 'lyuru ijbvl', 'laurw icbal', 'lurwa iqxbl'}, {'lyhra izfal', 'yawya hqyel', 'llhra iqpol', 'lrwra iqjpl', 'laury iqbyl'}, {'lwhra iqfol', 'llhra icbhl', 'layra iqbbl', 'lyhra isbyl', 'hohra ojbul'}, {'lyhra iqzfl', 'lwira icbhl', 'laurw iqbbl', 'lyaur izbhl', 'luowa kiwal'}, {'lurya igbvl', 'layra ikbal', 'lhwra icbfl', 'weuya qiyal', 'lyurw ixbhl'}, {'lyora iqcpl', 'lwaur izval', 'lyuri iqfol', 'laeww ikfaw', 'laury ikbal'}, {'laurw iqbyl', 'lahur isbul', 'lhwra isbvl', 'heuya aqble', 'lurwa iqhpl'}, {'lyuro iqffl', 'laurw ikbal', 'heara hzbah', 'lruha iqfyl', 'lyuru iqspl'}, {'laurw iqbyl', 'laeye hxbah', 'lwuri iqfyl', 'lyury ispal', 'lwira izbel'}, {'layra ikbal', 'lyora icbvl', 'lwira iqvil', 'lwuro izbbl', 'weuro owbay'}, {'layur ixbwl', 'layra icbal', 'huurh iahbl', 'lwira iqfpl', 'lyira ikqbl'}, {'lyora igval', 'layra iqbbl', 'lawaw oqabl', 'lyera iqsvl', 'lwurw iqyvl'}, {'yeira akfal', 'lruha izbil', 'laurw ikbal', 'llhra iqhvl', 'lhurw ixpal'}, {'liuhw hypal', 'lrhra ijbil', 'lwurr ixbpl', 'lhyra isbpl', 'laury iqbbl'}, {'lwera iqypl', 'larya igbpl', 'laurw icbal', 'lruwa icqbl', 'hauar zibhl'}, {'laurw iqbyl', 'lyhra iqvfl', 'lyure iqovl', 'lyurh iqgpl', 'ulurh wqbha'}, {'lyurw iqfwl', 'lwure icval', 'laurw icbal', 'lwurh iqivl', 'alera wybah'}, {'laurw iqbyl', 'lwuay ukwal', 'lhhra ijbil', 'lyera isqbl', 'lwera ijbel'}, {'lwuri iqvfl', 'lwury ijpal', 'laury iqbwl', 'llhra ixqbl', 'yhara ojyal'}, {'laurw iqbyl', 'layrh iqgpl', 'lyure iqcfl', 'ywhra iswel', 'lyhra iqpwl'}, {'laoho yxbah', 'lwira iqvvl', 'lyara iqevl', 'lruha iqifl', 'laurw iqbwl'}, {'layra icbal', 'loawa hjbah', 'lyuro icfal', 'lrhra izbhl', 'lwaur ikbvl'}, {'layra ikbal', 'lwira iqvel', 'llhra iqzpl', 'lurya iqcbl', 'lhowa iqyyh'}, {'lrhra izbul', 'lrwra ijbwl', 'lyuye ajbah', 'layra iqbwl', 'lhury iqspl'}, {'hluya yiyal', 'lyure ijqbl', 'layur ixbyl', 'lurwa icbfl', 'layra iqbbl'}, {'lyurr iqpvl', 'luowa wwbah', 'lhrra icqbl', 'lhhra ixfal', 'laury iqbyl'}, {'lahah hqpel', 'lyuru iqzvl', 'lwira icbfl', 'laury ikbal', 'lwora iqpfl'}, {'lyury iqvel', 'lwira ixqbl', 'yairo uqabl', 'laury iqbyl', 'layur isbbl'}, {'larya iqipl', 'lhwra iqzvl', 'laurw icbal', 'hahua ojbul', 'lyurr iqpyl'}, {'lyuru iqgfl', 'laury iqbwl', 'liuwe hqpay', 'lwurh iquvl', 'lwhra iqhbl'}, {'llhra iqcfl', 'layra iqbbl', 'lyira ikpal', 'hawre iyble', 'lwure iqvhl'}, {'laurw iqbyl', 'lwera iqhfl', 'lyaur ijbhl', 'lwury iqjfl', 'aluwa iqyyh'}, {'lwurr ijbel', 'wewra ikwyl', 'lwira isbbl', 'laurw iqbbl', 'lyury ikqbl'}, {'lohha hibhl', 'lyora iqovl', 'layra icbal', 'lwurh iqvbl', 'lyhra ijbol'}, {'lwurr ixbol', 'lhury iqsvl', 'laurw iqbbl', 'hurua esbil', 'lyaur iqblh'}, {'aluri ijwhl', 'lwurw ixfal', 'layra ikbal', 'lwira isbhl', 'layrh iqsbl'}, {'harua wqbwh', 'laurw icbal', 'lrwra iqepl', 'lhury iqxbl', 'larya iqufl'}, {'layra ikbal', 'lyuri iqivl', 'lwora iqyvl', 'lhyya yspal', 'lhhra izfal'}, {'laurw ikbal', 'lhury iqpwl', 'lyuru ixbhl', 'lyhra isbpl', 'alhra wwbay'}, {'weuya wkbah', 'lwlra izbfl', 'lwurr iqyvl', 'lwaur iqxbl', 'laurw iqbwl'}, {'laehe sibhl', 'lyurw iqffl', 'layrh izbil', 'lwera ijbul', 'layra iqbyl'}, {'lwora isbwl', 'laury icbal', 'lurwa iqpol', 'wahro hiyal', 'lhwra igqbl'}, {'laury iqbwl', 'lyuri iqjbl', 'lyurr iqppl', 'hlyra hqbwh', 'lwure isbul'}, {'layur ixbvl', 'laurw iqbwl', 'lyury ikbhl', 'lhwra iqvfl', 'awurw hqpul'}, {'lyury isbvl', 'lhury ixbil', 'laohw ycpal', 'laury ikbal', 'lyora iqpbl'}, {'hluya oqyah', 'lyuri ixbbl', 'lyara isval', 'larya ixval', 'laury iqbbl'}, {'lwuri igfal', 'waowa ojbyl', 'laury iqbyl', 'lyera izbhl', 'lruwa iqopl'}, {'lhury ijbel', 'lwuro izpal', 'yaewa iwpay', 'layra iqbyl', 'lwira ixfal'}, {'lhhra iqpil', 'luuyh azbah', 'lurwa iqvul', 'lyurw iqovl', 'laury iqbbl'}, {'yauhw wqbha', 'layra ikbal', 'lwora iqafl', 'lruwa iqzpl', 'lruha ispal'}, {'lhrra iqxbl', 'laury icbal', 'yuara ekfal', 'larya iqkfl', 'lwurh iqcpl'}, {'laury icbal', 'lyury icfal', 'lwora ixbfl', 'lhlra iqpul', 'hhira qival'}, {'lhyra izbfl', 'lahuw izvay', 'lyury iqwfl', 'laurw iqbbl', 'larya iqphl'}, {'layra icbal', 'lruwa igbfl', 'layyy ihawl', 'lruha iqupl', 'lyurh ikbhl'}, {'lhrra iqapl', 'lwhra isbvl', 'laury iqbbl', 'lyury iqwfl', 'hlora axbah'}, {'laurw iqbyl', 'lyhra iqkvl', 'lahur ikqbl', 'leiwa ajbah', 'lhlra isbyl'}, {'wewra uwbay', 'laury icbal', 'lwury iqcpl', 'lruya iqfyl', 'lyuri iqvhl'}, {'lhyra iqhbl', 'laury iqbwl', 'larya isbel', 'lruya isqbl', 'yauwi ispay'}, {'lhwra iqfhl', 'lrwra iqvvl', 'lwuri iqfwl', 'yaiwa ojpal', 'laury iqbbl'}, {'lhwra iqphl', 'lwlra iqifl', 'laury iqbyl', 'lyuah iwfay', 'lwira isbpl'}, {'laury iqbwl', 'weurh izvaw', 'lhurw izfal', 'lhury ikqbl', 'lrhra izbfl'}, {'lyuri iqpel', 'harua aqpah', 'laurw iqbbl', 'lhwra ixpal', 'lhrra ixfal'}, {'lruha iqqpl', 'lruya iqepl', 'laury iqbyl', 'lhurw ijval', 'laohy kiwal'}, {'lyera iqsfl', 'lhwra iqxvl', 'laury ikbal', 'lahur iqfyl', 'lahwe wgbah'}, {'lhlra icbfl', 'lehya asbah', 'laury iqbyl', 'lwuru ijbyl', 'lwara iqjfl'}, {'lyurw iqxfl', 'layra icbal', 'lwira icbhl', 'hauar isbey', 'lwurr ixbhl'}, {'lrwra iqkvl', 'lwhwa wqbuh', 'lwlra icbfl', 'laury iqbyl', 'lyaur ikfal'}, {'laury iqbwl', 'lyara iqqvl', 'layur iqkbl', 'lrwra izfal', 'laohi iwbyy'}, {'lwuri ijbhl', 'lyuhy ayyal', 'lwurr iqgpl', 'lhlra izqbl', 'laury iqbyl'}, {'layur isval', 'lhrra isbvl', 'lwhra izbol', 'ywuya yybay', 'laurw iqbwl'}, {'layur isval', 'huora yjbhl', 'laury iqbyl', 'lyure iqkbl', 'lyuru iiqbl'}, {'laurw ikbal', 'lhlra iqkfl', 'lruwa ijbpl', 'yuurh yzbay', 'lwurw izqbl'}, {'lyuro ixbvl', 'laurw icbal', 'lhhra ixbel', 'laoyi qabah', 'lruya ikbfl'}, {'lwuri iqhbl', 'laurw icbal', 'layur iqcvl', 'lhlra ikval', 'yyure eqbiy'}, {'laury iqbwl', 'lhwra izbpl', 'lyuro iqwpl', 'layhw iwbla', 'lwurh iqfyl'}, {'lyuri ixbil', 'laury iqbbl', 'yhara ikfah', 'lyurr ikfal', 'lwuro ikbhl'}, {'lyury ijbul', 'lyora iqkfl', 'laury ikbal', 'yaowa ijbhy', 'lhyra iqful'}, {'laurw iqbwl', 'lhrra izpal', 'yhara yxval', 'lwuru iqpfl', 'lhlra icbhl'}, {'weora yqhay', 'lhury icbhl', 'laurw icbal', 'lurya icbpl', 'lyara iqhvl'}, {'yawwa yqboh', 'layrh ikbvl', 'lyure iqgvl', 'layra iqbbl', 'larya icfal'}, {'hauay ihobl', 'lwuru igval', 'larwa isbyl', 'lwira isbfl', 'laury iqbbl'}, {'lwurr iqpil', 'lwure izbul', 'layra iqbbl', 'hhuya ikwaw', 'lwury iqcvl'}, {'layra ikbal', 'laowi iqwla', 'lhyra ijbwl', 'lwira ijbhl', 'lwuro iqhfl'}, {'lwurw iqavl', 'laurw icbal', 'lyurw ijbfl', 'laaah ajbhl', 'lruha iqfhl'}, {'lwurr ixbol', 'lruwa ixbyl', 'layra icbal', 'lurwa izbol', 'hawua oqabl'}, {'lyaur iqvpl', 'laurw icbal', 'lwora iqvbl', 'lyurh iqjpl', 'wyurh hqhel'}, {'lyhra iqvul', 'lyure iqvbl', 'lwara ixbyl', 'laehw eybil', 'laury iqbyl'}, {'lrwra iqfbl', 'yeuro hspal', 'lwlra ijqbl', 'lwuro iqvvl', 'laury iqbbl'}, {'lwurr ixbfl', 'layra icbal', 'lyurr igval', 'lwera iqjpl', 'waerw ycbil'}, {'layra ikbal', 'wahrh ojyal', 'lyora ijbel', 'lhwra ikqbl', 'lyuro iqpvl'}, {'lyaur icbfl', 'lyaya iyayl', 'lwuri iqcvl', 'lhyra iqypl', 'layra iqbyl'}, {'yauww axbah', 'lhury isbyl', 'lhrra ixbbl', 'laury iqbbl', 'lwlra iqjvl'}, {'lyury iqvfl', 'lwaur igbhl', 'laury ikbal', 'larya iqufl', 'wauur hqpyl'}, {'laury iqbwl', 'loyya yqbiy', 'lyurh isfal', 'larya igval', 'lyaur iqupl'}, {'weurh aybah', 'layra iqbbl', 'lruha iqvil', 'lyurr isbol', 'lwlra iqwfl'}, {'laurw iqbyl', 'loawa wgbah', 'lwure iqupl', 'lyuri iqyvl', 'lyaur igbfl'}, {'lyuri ikfal', 'lruha igbhl', 'lurya ijbbl', 'layra iqbwl', 'yluha qibul'}, {'lrwra iqapl', 'hluya ojbah', 'layra iqbbl', 'lyara igbpl', 'lyurh iqopl'}, {'lruha isbil', 'weure ywbay', 'lwhra iqblh', 'layra iqbwl', 'lyure izbil'}, {'luiha yqbyy', 'lhlra iqfil', 'laurw iqbbl', 'lruya izbil', 'larwa iqofl'}, {'lruwa iqpol', 'layra iqbbl', 'liuah qebhl', 'lyurw isbhl', 'lhwra icfal'}, {'lyhra ijbyl', 'ulhra iqabw', 'laury ikbal', 'llhra iqsfl', 'lhwra iqzbl'}, {'lyhra ijbyl', 'lwuro iqful', 'lyurw izbpl', 'laury iqbbl', 'lwhwa hqfel'}, {'lruya ixpal', 'lruha iqppl', 'layrh izbpl', 'laurw iqbbl', 'waere ojbel'}, {'lyara isfal', 'lruwa ikbfl', 'laeah ehbil', 'lyury iqkpl', 'laurw iqbwl'}, {'lwurw iqfel', 'layra ikbal', 'lurya isbpl', 'lwwya yjbah', 'lwhra izpal'}, {'loaha eqhil', 'laury icbal', 'lwira icpal', 'larwa iqifl', 'lyuri ijbol'}, {'lwaur iqphl', 'larwa izbyl', 'wauah yqbhh', 'laury iqbbl', 'lhhra izbhl'}, {'llhra ikval', 'lwira iqgpl', 'wahry ihavl', 'lyhra iqevl', 'laury ikbal'}, {'yluya aqbhh', 'lrhra isbyl', 'lruya iqphl', 'layra iqbwl', 'lahur icbfl'}, {'lruya iqxfl', 'lyora ikfal', 'wwuya yqbwh', 'layra iqbwl', 'llhra igbvl'}, {'lyurw ixfal', 'yhuro uyyal', 'lurwa iqipl', 'laurw iqbbl', 'lyuru ixbyl'}, {'lyuru iqkvl', 'lyure iqhpl', 'wuera hqpwl', 'layra iqbwl', 'layur ijbel'}, {'laurw iqbyl', 'lyure iqwfl', 'larwa izbil', 'lwera iqkbl', 'luuyh hkbah'}, {'hiurw hqbeh', 'lrhra iqpel', 'laurw icbal', 'lwure izbul', 'lyuru ixqbl'}, {'lwury iqpyl', 'lwuah yxwal', 'lhrra izval', 'lyara ijbpl', 'layra iqbbl'}, {'laurw ikbal', 'lwurr iqjvl', 'lyhra iqovl', 'warua uqyah', 'lyurr ixbel'}, {'lhurw iqyvl', 'lhyra iqfyl', 'leawa iwbwy', 'laury iqbyl', 'lwuru iqful'}, {'laoyi ojfal', 'lyera ixbel', 'lrhra isbil', 'layra iqbwl', 'larya iqvvl'}, {'weara ikwwl', 'lyurw iqvwl', 'lyurh iqxfl', 'lyera ixbvl', 'laurw iqbbl'}, {'layra icbal', 'yaero ezval', 'lwuru iqzfl', 'lhhra ijbbl', 'lyurr ikfal'}, {'laurw iqbyl', 'lruwa iqfvl', 'lurwa izbbl', 'yuraa hkbah', 'llhra iqjbl'}, {'llhra izbpl', 'leiwa wqvah', 'lwaur ijbhl', 'lhhra ixbbl', 'laury iqbbl'}, {'alrua awbay', 'lrhra ixbwl', 'lhrra iqgpl', 'laury iqbyl', 'lyira ikbfl'}, {'liwya ycfal', 'lyurr igbvl', 'laurw ikbal', 'lhrra iqcvl', 'lwurh icbhl'}, {'lyuro iqblh', 'lwurr iqwpl', 'yluwa axbah', 'lyara iqifl', 'laury iqbbl'}, {'layur iqzpl', 'layye wqbeh', 'lyuri iqvvl', 'lyora iqpbl', 'laurw iqbwl'}, {'lhyra izbvl', 'lhury ikbvl', 'lwurr ikbpl', 'layra iqbbl', 'aluro yqfah'}, {'yauwi wyyal', 'lwuri igfal', 'laurw icbal', 'larwa ixbfl', 'larya iqkpl'}, {'lwira iqepl', 'llhra izbol', 'laurw icbal', 'wyurh hibwl', 'lwurw iqufl'}, {'lwurr izbwl', 'laurw ikbal', 'lrhra ixpal', 'layrh iqzfl', 'wahri ujbhl'}, {'lruha ikbhl', 'lwury ijbvl', 'layra iqbwl', 'hlure yxbyl', 'lwlra iqjvl'}, {'aluru icbow', 'lhlra iqpyl', 'lwuro igbhl', 'lyuru iqxpl', 'layra iqbyl'}, {'larya izfal', 'laury icbal', 'lyhra ijbyl', 'alure yxbul', 'lurwa ixbil'}, {'lahur ikfal', 'yairo ujbhl', 'lyure iqzfl', 'lrwra ijbul', 'laury iqbbl'}, {'waere ijyhl', 'lwaur iqqfl', 'lwuro iqyfl', 'lwlra iqpul', 'laurw iqbwl'}, {'lurwa ijbhl', 'layra ikbal', 'lwera ijbbl', 'lwurw iqufl', 'yauwo icyah'}, {'ywara ayyal', 'lahur izbel', 'lwera isbpl', 'laury iqbyl', 'lhrra iqpyl'}, {'laurw iqbyl', 'lyurr icval', 'lwurw iqypl', 'lwhha uqyah', 'lhlra iquvl'}, {'lyira iqpol', 'yyure ighol', 'lyuru izbvl', 'lrhra ikbfl', 'layra iqbyl'}, {'lwury iqopl', 'ahurw iwfay', 'lyara ixbil', 'lyora iqvyl', 'layra iqbwl'}, {'lwhra iqvul', 'laurw ikbal', 'yauww aybah', 'lhhra ikval', 'lwera iqjvl'}, {'lyuru iqsfl', 'lruya ijbol', 'lwurw iqvbl', 'lhuhw ukfal', 'layra iqbyl'}, {'ayhra wqwah', 'lwira iqhfl', 'layrh ixbbl', 'layra iqbwl', 'lwara ixbwl'}, {'lyure iqhfl', 'lruha ixbwl', 'layra icbal', 'lwhha yxbel', 'lwaur iqzbl'}, {'lhrra iqvpl', 'lhwra iqffl', 'yauwy hqbyh', 'lyaur isbfl', 'layra iqbyl'}, {'layrh izbel', 'lwure iqevl', 'yauir iwabl', 'lyure izqbl', 'laurw iqbwl'}, {'laurw iqbyl', 'lyuro izbyl', 'lwira iqpul', 'wahro izvah', 'lwhra iqpfl'}, {'lyurr iqafl', 'lwuro iqwpl', 'hahya yqyay', 'lyara iqovl', 'laurw iqbbl'}, {'lwira iqsfl', 'aluru iyywl', 'lyuro izbbl', 'lyurh isbel', 'layra iqbyl'}, {'lrwra isqbl', 'lwaya aybah', 'lyera iqjbl', 'layra iqbyl', 'lhhra isbul'}, {'aluro ecbol', 'layra iqbwl', 'lruya iqhpl', 'lwaur igval', 'lyaur ijbyl'}, {'layrh iqfbl', 'laurw iqbbl', 'yahwa qwbhl', 'lhrra igbvl', 'lwure isbbl'}, {'laurw iqbyl', 'lyuru iqfyl', 'yaoro ejbil', 'layur iqvol', 'lyora iqqvl'}, {'lyurr iqvul', 'alury ycbwl', 'laurw ikbal', 'lyury iqsfl', 'lwara ixqbl'}, {'lwurw iqspl', 'lwuri izbyl', 'hauyh uspal', 'laury iqbyl', 'lhhra iqpvl'}, {'laurw ikbal', 'lyora igval', 'lyurw iqpul', 'lwury iqfol', 'louwe icboy'}, {'lyara iqjbl', 'laury ikbal', 'lwurh ijbyl', 'lahah yxbol', 'lyora ispal'}, {'lruha izbel', 'lwurh isbyl', 'layra iqbbl', 'lruya iqjbl', 'lhaha hcbol'}, {'lyuro iqavl', 'luuyi hqbyh', 'lhlra iqzfl', 'layra iqbbl', 'lwhra iqkbl'}, {'yauir hqhel', 'lwurr iqvel', 'laurw ikbal', 'lyuru ijbvl', 'lruwa iqpwl'}, {'lyira iqwpl', 'hauyo wibhl', 'lyury ijval', 'lhurw izbhl', 'laurw iqbwl'}, {'laurw iqbyl', 'lyure iqwpl', 'luuyo hzbah', 'larwa iqvvl', 'lyuri isval'}, {'larya ixbwl', 'lyaur ixbul', 'lhuwu ycbwl', 'lyurr iqyvl', 'laurw iqbwl'}, {'lyuru iqvbl', 'layra ikbal', 'lawyh aqfah', 'lyurh ijbfl', 'llhra ijbol'}, {'luuhw iqhoh', 'lyora izbfl', 'laury icbal', 'lruha iqwpl', 'larwa iqivl'}, {'layyw ysbel', 'lhhra icbfl', 'lwury ijbwl', 'lyury ijbbl', 'laury iqbbl'}, {'lhuwe ikwaw', 'lyuro iqwfl', 'laurw icbal', 'lruha iqfwl', 'lrwra ijbwl'}, {'lurya ixpal', 'waoha qybhl', 'lwira iqwvl', 'lruya icbfl', 'laurw iqbwl'}, {'lwure ijbol', 'layra icbal', 'lhurw iqyfl', 'lhyra ijbyl', 'lewya ihhol'}, {'laurw iqbyl', 'yluya ihyah', 'lwlra iqvvl', 'layrh iqpol', 'lhwra izbbl'}, {'layra ikbal', 'lwurw iqpel', 'lruya isbol', 'lwhra ixbfl', 'hluwa ospal'}, {'lwira izval', 'laury ikbal', 'lueha ajbah', 'lwurh iqqpl', 'lwlra ijbhl'}, {'laury iqbwl', 'weure aqbhh', 'lwhra ijbfl', 'lhurw ikqbl', 'lurwa izbol'}, {'lyurh ikqbl', 'weurh ighol', 'lwurw iqful', 'laury iqbbl', 'lyurr ixbhl'}, {'laurw iqbyl', 'lyira iqpel', 'layur ixbyl', 'lyara iqjbl', 'layue yspal'}, {'lwaur iqcfl', 'layra icbal', 'lhwra izfal', 'wauwe qihal', 'lwira iqkfl'}, {'alhra aqbla', 'laury iqbwl', 'lwora iqgvl', 'lwurw iqvyl', 'lyurr iqfbl'}, {'lyora iqwfl', 'lyuro ixfal', 'lyuru iqffl', 'laurw iqbbl', 'lyaya qifal'}, {'lyhra iqpyl', 'laury iqbwl', 'wouru ikwhl', 'llhra igbfl', 'lyira iqvyl'}, {'wwurh yxval', 'laurw ikbal', 'lyurr iqhfl', 'lyara ijbol', 'lyuro iqvel'}, {'lhury ixbil', 'lyurr isval', 'lurwa iqpvl', 'laaah yqpah', 'layra iqbwl'}, {'lyaur isbwl', 'yuira iwyay', 'layrh ixbfl', 'layra iqbbl', 'lwure iqvhl'}, {'leuwe hjbah', 'lyera isbvl', 'layra icbal', 'lyhra isbol', 'layur iqevl'}, {'lwira isbul', 'larya ixbol', 'lwuro iqafl', 'layra iqbbl', 'yawro iqyih'}, {'lwuro iqvbl', 'layur icpal', 'wuara icyol', 'lrwra iqffl', 'laury iqbbl'}, {'lurwa iqpvl', 'lwara igqbl', 'luiha qabah', 'lyara iqepl', 'layra iqbyl'}, {'lwira izbhl', 'luuyy izvay', 'lhyra iqfol', 'laury ikbal', 'layrh ijbol'}, {'yauyr jibhl', 'lurya ixbhl', 'laurw iqbbl', 'lyury izqbl', 'lyurh iqvwl'}, {'laurw ikbal', 'lyuro iqxfl', 'yaerw eyyal', 'lhrra ijpal', 'lwera iqfpl'}, {'lyuro isval', 'laurw iqbbl', 'lwlra iqofl', 'hauhw yqabl', 'lyurr iqpbl'}, {'lyuwh isbeh', 'lrwra ikfal', 'lyurr iqqvl', 'lwurr izbul', 'laurw iqbwl'}, {'luuhw icboy', 'lhhra iqfil', 'lwhra iqovl', 'lyuri igfal', 'laurw icbal'}, {'lwuri iqsbl', 'layra icbal', 'lwaur iqfbl', 'aulrw hybah', 'lwhra izbhl'}, {'layur iqsfl', 'lwurh iqpel', 'hluha eqbla', 'laury iqbyl', 'layrh iqipl'}, {'laurw ikbal', 'larwa iqfel', 'lwlra iqspl', 'yuera ekfal', 'lyurw izbyl'}, {'layra icbal', 'lyure iqvel', 'layrh iqxvl', 'yahro wzval', 'lhwra iqyvl'}, {'luaha ycbel', 'laurw ikbal', 'lwira izbpl', 'lwaur iqvpl', 'lwlra isbvl'}, {'lhhra izbfl', 'huara yybah', 'lhwra iqzvl', 'lhyra iqofl', 'laury iqbyl'}, {'laurw ikbal', 'lhhra iqvyl', 'ilurw qibah', 'lwora iqkpl', 'lwuri iqypl'}, {'lyuri ijval', 'layrh iqyvl', 'layra iqbbl', 'lyaur ixbol', 'yawya wsbel'}, {'laurw iqbyl', 'lruwa icbvl', 'heara wcbah', 'lhury iqfbl', 'lrhra ixbol'}, {'lhurw iqvel', 'lewya eqwil', 'laurw ikbal', 'lrhra iqzbl', 'lrwra ikbvl'}, {'lwuri iqopl', 'lyure ikbpl', 'lyurr ijbfl', 'laury iqbyl', 'waore iyyil'}, {'lwury iqwpl', 'layra icbal', 'lhurw izbwl', 'lwara iqifl', 'lwuyi iwfay'}, {'lyuyy ycfal', 'lhury icbhl', 'lhurw iqgvl', 'lwhra iqxfl', 'laurw iqbwl'}, {'lyhra iqhbl', 'wehra isyel', 'lwuro izqbl', 'lwuri icval', 'layra iqbbl'}, {'lruha iqufl', 'lhurw iqwpl', 'laowy hqpah', 'layrh ijbol', 'laury iqbbl'}, {'lrwra ijfal', 'ayuwa yhbay', 'lwaur iqopl', 'laurw iqbbl', 'lyury icbvl'}, {'lrhra iqful', 'lurwa iqufl', 'luyya hipal', 'llhra ixbpl', 'layra iqbwl'}, {'laurw iqbyl', 'lurya ijqbl', 'lyury iqufl', 'lyuri igqbl', 'wawre hibwl'}, {'laury iqbwl', 'lhrra iqffl', 'lurwa ixfal', 'loowa eqvil', 'lwera ijfal'}, {'laurw iqbyl', 'lwora iqjfl', 'lyhra iqpwl', 'laowy qiabl', 'lyuru iqpol'}, {'laury icbal', 'lhlra izbpl', 'layyo hqapl', 'lyaur iqjbl', 'lhury iqvfl'}, {'lhury ixbhl', 'lyira iqpfl', 'yaywa qipal', 'lrwra iqyvl', 'layra iqbbl'}, {'laurw iqbyl', 'lyera iqgbl', 'huuya uzval', 'lwira iqpel', 'lhrra iqvbl'}, {'lwira iqvel', 'lrhra iqpbl', 'weuha hqpah', 'laury ikbal', 'lhlra iqvil'}, {'lwury ixbbl', 'layur igbvl', 'laurw icbal', 'wlhra yxval', 'lwuru izbpl'}, {'lyurh iqcvl', 'lyuru izbol', 'wwyra eqbih', 'laurw ikbal', 'lwhra iqgvl'}, {'lyyya wqbhh', 'lwira icfal', 'lyury iqofl', 'lrwra iqxpl', 'laury iqbbl'}, {'lyira ijfal', 'whora yqwah', 'lwira iqgfl', 'layra iqbbl', 'lrhra ikbpl'}, {'lurwa iqspl', 'lhhra iqgvl', 'layrh iqsvl', 'laury ikbal', 'yuyra ikwil'}, {'lwuru izval', 'lrhra ikpal', 'lhury igfal', 'layra iqbwl', 'wuera iyywl'}, {'lurwa isbol', 'laaah iswel', 'lwlra ijbul', 'lhlra iqzvl', 'layra iqbwl'}, {'lwara iqgpl', 'lyhra ikval', 'yyurh wqhol', 'lwury ikfal', 'laury iqbyl'}, {'layra icbal', 'weuha ekfal', 'lhurw ijbol', 'lhrra ijval', 'lwurh isfal'}, {'laway ihwbl', 'lhlra ixbvl', 'llhra icbhl', 'laury ikbal', 'lwury ixbyl'}, {'laurw iqbyl', 'wahry yybah', 'lyurr izbhl', 'lwhra ixbvl', 'lyhra iqxfl'}, {'hauyu ojbay', 'larwa iqapl', 'lhyra iqefl', 'layra iqbwl', 'lyurh ikfal'}, {'lwuyw iqhlo', 'lruha ixbfl', 'lyhra iqfel', 'laury iqbyl', 'layrh iqjbl'}, {'louhw izvay', 'lyurr iqufl', 'laury ikbal', 'lwora iqhpl', 'lwuri icbfl'}, {'lyara iqphl', 'aluya aqvah', 'lyurw ikbpl', 'layur izbol', 'laury iqbbl'}, {'lyure iqfvl', 'lruya icbfl', 'laury ikbal', 'hauyo ihavl', 'lurya iqkvl'}, {'laurw iqbyl', 'lyara ijbhl', 'lwuri ijqbl', 'lyira iqblh', 'ywara qibhl'}, {'laury iqbbl', 'waorw ihawl', 'lurwa iqzvl', 'lhyra izbil', 'lwlra izpal'}, {'laury icbal', 'lwuro isbyl', 'hwhra ihahl', 'lyurr iiqbl', 'lyuro izbil'}, {'lhyra iqxpl', 'laurw ikbal', 'wwury wqbhh', 'lwaur ikbvl', 'lhwra ijbul'}, {'layrh iqkfl', 'lyuru ixval', 'laury ikbal', 'weuro wqbla', 'lurwa icfal'}, {'layra icbal', 'lyora izval', 'layrh ijbbl', 'hiuya icboh', 'lyurw iqzvl'}, {'lrwra iqhpl', 'yeuro hqbeh', 'lyurr ijbyl', 'lhyra icqbl', 'laurw iqbwl'}, {'liyya aybah', 'lyurr iqavl', 'lhrra icbhl', 'laurw ikbal', 'lyury iqzpl'}, {'lrwra icval', 'aluro ewbil', 'laurw iqbbl', 'lyuri ijbfl', 'lyurw iqhfl'}, {'layrh iqpel', 'laurw ikbal', 'lwhra ijbfl', 'wyora yybay', 'lyuro iqvfl'}, {'llhra izbyl', 'lwera isbhl', 'layur ijval', 'louah wcbol', 'layra iqbwl'}, {'lhlra iqcpl', 'lurya izbhl', 'lyuro iqfil', 'ywara ocbol', 'laurw iqbwl'}, {'layur ikfal', 'lawyh ekfal', 'lurya ixfal', 'lwera isbpl', 'layra iqbwl'}, {'laurw iqbyl', 'lwure iqjpl', 'yhara iqhow', 'lyera iqevl', 'lwara ikbpl'}, {'lyuri ijqbl', 'lwuro iqavl', 'laurw icbal', 'yhira yxbil', 'lyaur iqhbl'}, {'laury iqbwl', 'larwa iqfvl', 'lruwa iqufl', 'weyra yqbhh', 'lwlra iqkpl'}, {'woora ekwal', 'lyaur iqcfl', 'llhra ixbil', 'lurya izbel', 'laury iqbbl'}, {'lyuri iqupl', 'lwira ixbel', 'loiwa iqyha', 'lruha iqgvl', 'laury iqbyl'}, {'laury icbal', 'lwurh icqbl', 'lwhra iiqbl', 'lahuw iyble', 'lyira iqvyl'}, {'aluha iwfay', 'lwurh iqpwl', 'laurw icbal', 'lruwa izqbl', 'lwuro iqypl'}, {'laowi yqfay', 'layra icbal', 'lahur ispal', 'lwuri iqhvl', 'lwuro iqypl'}, {'laurw iqbyl', 'wahrh hiwal', 'larwa ixbul', 'lwara iqqvl', 'lyure iqopl'}, {'larya iqgvl', 'lyury iqvwl', 'wihra ywbay', 'lwhra izfal', 'laury iqbbl'}, {'lyora izpal', 'lwuye ojbel', 'lurya iqcvl', 'lwhra iqofl', 'layra iqbbl'}, {'lwurr iqwvl', 'layra icbal', 'lyuru iqcvl', 'lyera iqyvl', 'wuwra ukwal'}, {'hhuru isbew', 'laurw ikbal', 'lruha iqhvl', 'lyora ikval', 'lruwa iqvol'}, {'layra ikbal', 'lwury iqpol', 'lhury iqxvl', 'youro ijyhl', 'lwuri ikbvl'}, {'lwora iqwfl', 'layra icbal', 'lwhra iiqbl', 'larwa izbpl', 'loaha iqyhh'}, {'layrh iqfbl', 'laury ikbal', 'lrwra iquvl', 'lyuro iqgvl', 'yuera aspal'}, {'laury iqbwl', 'hlure hibaw', 'lurwa iqhvl', 'lruwa iqqvl', 'lwaur ixbol'}, {'layur iqsfl', 'lruya icbhl', 'lruwa iqkfl', 'wihra isbeh', 'laury iqbyl'}, {'layue iqyoh', 'lurya ikval', 'layra iqbbl', 'lwera isbyl', 'lurwa ijfal'}, {'lhurw ijpal', 'whara aqbhh', 'laurw iqbwl', 'lhwra iqzfl', 'lrhra iqfvl'}, {'luaha hybel', 'laury icbal', 'lhlra iqgvl', 'lwurw iqpul', 'lhhra ikfal'}, {'loiya hzval', 'lyara ispal', 'lwury isval', 'layur igbfl', 'layra iqbwl'}, {'laury iqbwl', 'larwa icval', 'lyurw izbhl', 'laewe azval', 'lyhra ijbel'}, {'larya izbel', 'layrh ixpal', 'lurya iqvol', 'heara esbel', 'laury ikbal'}, {'llhra iqxbl', 'lyera ijbol', 'alury isbey', 'lwora iqjpl', 'laurw iqbwl'}, {'lyera izbwl', 'lehwa aqvah', 'lhwra iqhvl', 'laury iqbbl', 'lwurw iqpwl'}, {'lruha isval', 'lwlra igfal', 'layrh ijbul', 'laury ikbal', 'lhuyu qabhl'}, {'laurw iqbyl', 'lhwra iqspl', 'lyyya hqbla', 'lhury igqbl', 'lyury iqwfl'}, {'lruha iqfil', 'lhlra ijbpl', 'laurw icbal', 'laowe yqyah', 'lyara ijbil'}, {'lyuri iqvwl', 'lyera ixbol', 'yaowa aqabl', 'laury iqbyl', 'lyurh iqxpl'}, {'lwuri iqjvl', 'lwlra isbwl', 'wauwe ojbwl', 'lruwa izbwl', 'laurw iqbwl'}, {'lwera iqwvl', 'laury icbal', 'luuwe akwal', 'lyaur izbyl', 'lyora iqevl'}, {'laurw iqbyl', 'lhrra iqgbl', 'lhurw iqvel', 'larwa icfal', 'yauaw ihibl'}, {'layra icbal', 'lohya hcbol', 'lhwra iqfyl', 'lyuro izbpl', 'lwuro ijbhl'}, {'layra icbal', 'waroa hkwal', 'lyurw ixbwl', 'lyure ijpal', 'lwurr ijbil'}, {'lwaur ijbil', 'lewya wqbla', 'laurw iqbbl', 'larwa izbul', 'lwurh iqafl'}, {'laury iqbwl', 'lwurr isbol', 'wawru isbey', 'lwurh iqwfl', 'lhury ijqbl'}, {'laurw iqbwl', 'lyurh isbvl', 'lruwa icbpl', 'alyra wqvah', 'layur ijbel'}, {'lwury izqbl', 'layra ikbal', 'hauah hybel', 'lwurw ikbvl', 'lyury ixbul'}, {'yaero eqbiy', 'lyara ikval', 'lyira iqvbl', 'laurw ikbal', 'lyuro iqvol'}, {'laurw iqbyl', 'lruha iqvhl', 'lyurw iqxpl', 'lahur iqhfl', 'yaerw icyah'}, {'laury iqbwl', 'lyuro iqjpl', 'lyure ixbel', 'lhurw isval', 'lawyo ikwwl'}, {'lurya icbfl', 'lwaur icbpl', 'larya iqofl', 'hauye yxbay', 'layra iqbyl'}, {'laurw iqbyl', 'luyya yqboh', 'lyhra ikbhl', 'lyora iqwfl', 'lwlra ixbfl'}, {'lhyra isfal', 'hlure ihbla', 'lwuri izbhl', 'lrwra iqpel', 'laurw iqbwl'}, {'lrhra iqifl', 'lhwra iqsbl', 'lwuru isbol', 'laury ikbal', 'liuah oqble'}, {'lruwa ijbbl', 'lyurw iqgpl', 'lrwra iqopl', 'laurw icbal', 'layyh hybah'}, {'lyurh iqhvl', 'lwira iqxbl', 'laurw icbal', 'lwuyi ojbaw', 'lrwra iqjfl'}, {'hluro qibhl', 'lwora izbhl', 'lyera iqkfl', 'layra iqbbl', 'lrwra iqpvl'}, {'laury icbal', 'laeah iyywl', 'lahur isbbl', 'layur iqufl', 'lhurw iqivl'}, {'hauir hibwl', 'layra ikbal', 'lyuro ikfal', 'lyera iquvl', 'lurwa icbfl'}, {'lurwa ikbvl', 'laury ikbal', 'lwaur iqsfl', 'larya iqpvl', 'harua zibhl'}, {'lwora iqgvl', 'lruya icfal', 'laury iqbbl', 'lhyra ixbfl', 'ayhra hqbew'}, {'lyora iqblh', 'lhyra iqgvl', 'layra iqbbl', 'lawyw iyyul', 'lwlra izbol'}, {'laury icbal', 'lyara izfal', 'lwlra ikqbl', 'yaowa zibhl', 'lrwra igqbl'}, {'layrh iqfwl', 'lhrra iqyvl', 'layur ikqbl', 'laury iqbyl', 'hauyo wqabl'}, {'lurwa iqhbl', 'lyurr ijbol', 'laury icbal', 'lwurw izval', 'wyuru yiyal'}, {'lhwya ihhol', 'lyure iqjvl', 'lhwra isbul', 'layra iqbbl', 'lyaur iqpbl'}, {'lyurh iqsbl', 'wwara qebil', 'lwhra ikpal', 'laurw iqbbl', 'lwurr iqapl'}, {'lwora iqkpl', 'lyara ixbfl', 'lyhra isbhl', 'yuwra yqvah', 'laury iqbbl'}, {'lyury igbvl', 'wahre yxbhl', 'llhra izbvl', 'layra iqbwl', 'lurwa igbpl'}, {'luowa ojfal', 'larya ikbvl', 'lyira iqxbl', 'layra iqbwl', 'lwuru icbvl'}, {'lhhra isbol', 'layra iqbyl', 'luwha ikwhl', 'lyurh iqsvl', 'lyuru iqhbl'}, {'laurw iqbyl', 'lahur isbwl', 'lrhra iqpfl', 'lurwa iqhpl', 'waerw qabah'}, {'laury icbal', 'lahur iqwpl', 'lwora isbel', 'lhurw ijbhl', 'lyaya ucbol'}, {'lurya igbpl', 'lyuyh qbihl', 'lwury iqvel', 'lwure icbvl', 'layra iqbbl'}, {'laury iqbwl', 'wuora ijyhl', 'lhury iqcpl', 'lyira iqwvl', 'lwuru isbhl'}, {'laury icbal', 'lwuru iqfyl', 'lhhra isqbl', 'lwurr iqgpl', 'hluro hcbol'}, {'lwhra iqcpl', 'waowa ejbhl', 'layrh ijbpl', 'lyurh ixval', 'layra iqbyl'}, {'lrwra iqopl', 'lhrra iqqfl', 'lwurh ikpal', 'laury iqbyl', 'yuara ycbyl'}, {'larya ikbpl', 'loaha iwhay', 'laurw ikbal', 'lwuri iqblh', 'lyury ijqbl'}, {'laury icbal', 'lwera ijbfl', 'lhhra iqpwl', 'lwuru iqepl', 'hlwra uqbla'}, {'luuyo wqfah', 'layra ikbal', 'lyuro iqfvl', 'lruya iqgfl', 'lhlra iqful'}, {'larya ijbel', 'lahuw yxhal', 'lhhra ixbil', 'lwhra iqfwl', 'laury iqbyl'}, {'lwaur izbil', 'lurya ixbyl', 'laury ikbal', 'wyury isbew', 'lyuri iqvhl'}, {'lrhra iqxbl', 'lrwra iqwpl', 'yayro yiyal', 'laury ikbal', 'lwurh iqafl'}, {'laohw hgbah', 'lhhra izbfl', 'layra ikbal', 'lyuri iqafl', 'lyhra ixbil'}, {'lhurw iqafl', 'lwurr iiqbl', 'lyure ijbul', 'lhuyu kibhl', 'layra iqbbl'}, {'yauyr qifal', 'lhlra iqkfl', 'laury ikbal', 'lyurh izpal', 'lwurh iqzpl'}, {'lwaur iqsbl', 'layra icbal', 'lyurw isbfl', 'lhyra iqblh', 'luuyi hibel'}, {'lyurw iqsfl', 'lyara iqfhl', 'lwury iqxfl', 'elira ojbul', 'layra iqbbl'}, {'lwira iqjbl', 'lyuru iqvpl', 'laurw iqbbl', 'lwora iqvfl', 'lehya wqpah'}, {'lhyra iqphl', 'lruwa ixbvl', 'laurw icbal', 'lhhra izbyl', 'luuyw ihbla'}, {'lyhra iqgfl', 'lwora isbul', 'lyera ijbpl', 'layra iqbbl', 'hlrua ojfal'}, {'alyra uwbay', 'layra icbal', 'lyure iqvfl', 'lurya iqgpl', 'lwaur izbel'}, {'lwera iqofl', 'lyera iqjbl', 'layra iqbbl', 'weera uwbay', 'lwaur isbpl'}, {'lwuay iyabl', 'lwaur iqgpl', 'laurw icbal', 'lyurr ixbfl', 'lhury iqxvl'}, {'laury iqbwl', 'lyure iqjvl', 'lwlra iqsfl', 'lyara iqfwl', 'ylurh yxbah'}, {'lwuru isbel', 'lyury iqvvl', 'laury ikbal', 'lyure iqffl', 'laaah wqyah'}, {'lyaur iqpfl', 'yluya aqyah', 'lyara iqefl', 'laury iqbyl', 'lyurh iqpel'}, {'lyuri iqkfl', 'laury icbal', 'lwaur ixbbl', 'lawyo yqyay', 'lwurh iqvpl'}, {'laowo icyah', 'lhwra iqjbl', 'layra icbal', 'lyuru iqupl', 'lyera icfal'}, {'luuyh hjbel', 'lwira iqopl', 'laurw ikbal', 'lyuro igfal', 'lyure iqjfl'}, {'ulurh wxbah', 'laury icbal', 'lwuru iqpel', 'lyira iqwvl', 'lwora iqgfl'}, {'luiha ykbay', 'larya izbfl', 'lyora iqvul', 'lwhra iqqfl', 'laurw iqbbl'}, {'laury iqbwl', 'lwurr iqvbl', 'lurwa iqypl', 'lyuah ycbol', 'lwhra iqvfl'}, {'layra ikbal', 'whhra iwhay', 'lwuro ijbbl', 'lyury iqefl', 'lyhra ijbol'}, {'layra ikbal', 'lyira iqvbl', 'lyara iqful', 'lwuru isval', 'lwaya hybah'}, {'larya iqwpl', 'lohwa yxbah', 'lyury iqjpl', 'layra iqbyl', 'lurwa izpal'}, {'lruha izbel', 'lwhra ixbpl', 'laurw icbal', 'lwurw iqpil', 'hauyr hkpal'}, {'hauye yqble', 'lwera izbyl', 'lyuri isbvl', 'lwlra izbvl', 'laurw iqbwl'}, {'haori sibel', 'lwuru isqbl', 'lwhra iqvel', 'lwurr iqppl', 'layra iqbbl'}, {'lawah yqbuh', 'lwera igpal', 'lwurh ijbfl', 'lruwa igbvl', 'layra iqbyl'}, {'larwa iqffl', 'lyure iqpol', 'lwera ixbul', 'youwa ihybl', 'layra iqbwl'}, {'lhhra iqkvl', 'lyuyh ycbil', 'lhurw iqfpl', 'layrh iqsbl', 'layra iqbwl'}, {'lhrra ijbil', 'lawyo ikfah', 'lyora ixpal', 'laurw iqbbl', 'lhwra iqcpl'}, {'lruwa iqpul', 'layra ikbal', 'hhuru hjbel', 'lwira iqxpl', 'lwurr iqvpl'}, {'laurw iqbyl', 'lyurr izbul', 'wwurh iwbhy', 'lhurw iqkbl', 'lhyra izbel'}, {'layra ikbal', 'lwaur iqful', 'lyira izbwl', 'lawyi iwhol', 'lyera iqfyl'}, {'layur iqzbl', 'lwurr ijbel', 'lwurh iqkbl', 'liuwe iyyhl', 'laurw iqbwl'}, {'lyora izbil', 'lyurr icfal', 'wwury kiwal', 'layra iqbbl', 'lyury iqevl'}, {'lyera igqbl', 'lwuyu iqyha', 'lwurw iqqfl', 'lruwa iqofl', 'laury iqbbl'}, {'laurw icbal', 'lyuri ijbel', 'lyora ixval', 'alera iyyol', 'llhra iqhpl'}, {'lwuye yxval', 'lwuro igbfl', 'layrh iqpyl', 'lruwa isqbl', 'laury iqbbl'}, {'lwaur iqkfl', 'lyurw icval', 'haroa wzbah', 'lwury iqcpl', 'laurw iqbwl'}, {'laury icbal', 'lhrra icbfl', 'larya iqhpl', 'luuhh iqywh', 'lruha iqspl'}, {'laury iqbbl', 'larya icfal', 'lahur iqyvl', 'lhwra iqkpl', 'wwure yqpah'}, {'lhwra iqfil', 'lwira isbhl', 'lhlra isbpl', 'laury ikbal', 'hyurh ucbol'}, {'lwara ijbil', 'laury icbal', 'lruha izbhl', 'lwury izbwl', 'weurw icboh'}, {'laurw ikbal', 'lwuru ikfal', 'lrhra isbil', 'alury yqbyh', 'lwury iqufl'}, {'llhra iqpul', 'lwlra ikpal', 'lahur iqjbl', 'wyora yibhl', 'laurw iqbwl'}, {'lyuru ijbyl', 'lyurh iqufl', 'lyuro iqypl', 'layra iqbbl', 'luuwh ukfal'}, {'lyury iqpel', 'lwurr iqwfl', 'lwuyi iqyhh', 'lhwra igfal', 'layra iqbyl'}, {'laurw ikbal', 'lwuru ixval', 'ywara wqboh', 'lyera ixbul', 'layur isbfl'}, {'lwaur iqkfl', 'layra ikbal', 'lwuro iqgvl', 'larya iqyvl', 'wahry aqpah'}, {'laurw iqbyl', 'hluha ikawl', 'lyira igpal', 'lyera ixqbl', 'layur iqsvl'}, {'layra ikbal', 'lwurw iqzvl', 'lhlra isfal', 'lrwra iqyvl', 'ulurw ycbaw'}, {'laurw iqbyl', 'laowh wqwah', 'lhhra izbbl', 'lyira izbul', 'lyhra ixbol'}, {'lurya iqjvl', 'laurw ikbal', 'larwa icbpl', 'lahur iqphl', 'layyu yyyal'}, {'lruwa isval', 'lyuru iqkvl', 'luuwe esbel', 'lhyra izbel', 'laurw iqbwl'}, {'laury iqbwl', 'lwurw iqvul', 'huara qiyal', 'lhrra ijpal', 'lwaur ixval'}, {'laurw iqbyl', 'lwuro iqvel', 'ahurw iqyih', 'layur iqspl', 'larwa ijbpl'}, {'laurw iqbyl', 'alure hqhel', 'lrhra iqypl', 'lwuru isbwl', 'lyhra iqfel'}, {'laury iqbwl', 'lyera iqhvl', 'lyurr isbbl', 'lahur iqvol', 'wwurh hkwal'}, {'laury icbal', 'lyuru iqpwl', 'lhyra izval', 'ywara ijhhl', 'lyara iqvyl'}, {'larwa iqspl', 'lhlra ijqbl', 'alyra iqyih', 'lurwa iqkpl', 'laurw iqbwl'}, {'lurwa isval', 'laurw iqbbl', 'lruwa icval', 'lhuah iqhow', 'layur isbul'}, {'hauhw iyyel', 'lyora icpal', 'lyurr iqvel', 'lwure ikqbl', 'layra iqbbl'}, {'lwuro iqzvl', 'lruha iqkpl', 'haere hqbhh', 'layra iqbyl', 'layur iqxfl'}, {'lawyi hcbel', 'lwurw igbfl', 'lwurh ijbol', 'laurw iqbbl', 'lyora iqkbl'}, {'layur iqcbl', 'layrh iqfvl', 'llhra igbfl', 'laurw iqbbl', 'yauar ikwwl'}, {'laurw iqbyl', 'alurw ygbay', 'lyara ispal', 'lwlra iqyvl', 'lwuro ijfal'}, {'lyurr ikbhl', 'laury iqbwl', 'weara ekfal', 'lhhra iqgpl', 'lrhra ixbbl'}, {'lrwra iqvvl', 'hlure ojbel', 'layrh iqspl', 'lyury iqfwl', 'laurw iqbwl'}, {'lurwa iiqbl', 'layra ikbal', 'huurh hqboh', 'lwuru iqhfl', 'layrh isbol'}, {'lruwa ixbyl', 'lhlra ixbol', 'laury icbal', 'lwera isbhl', 'yawre iwpay'}, {'ahuya ikwil', 'lwurw iqqvl', 'lwlra igbvl', 'laury ikbal', 'lwira izbfl'}, {'llhra iqpfl', 'hawya iwbyy', 'lyora iqpil', 'lruwa izbvl', 'laury iqbbl'}, {'laurw iqbyl', 'lhury ixbil', 'lwuyw iqwla', 'lwure ixpal', 'lwara isbol'}, {'layra ikbal', 'weera wxbah', 'lruya ijqbl', 'lhyra iqkvl', 'larya iqkbl'}, {'lhury izbfl', 'lyora iqepl', 'haria ejbil', 'lwhra iqvwl', 'layra iqbwl'}, {'laury iqbwl', 'lyuro ixbel', 'lyhra ijbil', 'wwuya aspal', 'lwaur iqapl'}, {'huora aqpah', 'lruha iqvul', 'larwa isbwl', 'laurw icbal', 'lyhra iqpel'}, {'laury icbal', 'llhra izval', 'weuwa izbha', 'lyhra isbpl', 'lrwra igval'}, {'wwurw hiyal', 'lahur isbyl', 'lurya igpal', 'layra iqbyl', 'lhury icbpl'}, {'laury icbal', 'lhwra izfal', 'lyuri iqvil', 'luuwh iqyhh', 'lwuru iqwvl'}, {'lyuri iqxfl', 'liyya iwfay', 'lwurr isbyl', 'laury ikbal', 'llhra ijbul'}, {'lwurh ixbbl', 'laurw ikbal', 'wewra yqwah', 'lwhra ixbol', 'lhrra iqpbl'}, {'lyuru iqqpl', 'yauaw qibaw', 'lhwra iqpyl', 'lwuro iqcbl', 'laurw iqbwl'}, {'lhury igpal', 'layra ikbal', 'lwury isbil', 'lruha iqwpl', 'yaere ejbil'}, {'laurw iqbyl', 'lhlra icbvl', 'lwuri iqxpl', 'lyira izbfl', 'leawa wsbel'}, {'wwwra ycbah', 'lhyra ijfal', 'laurw ikbal', 'lhury isbpl', 'lrhra izbwl'}, {'alure hybah', 'lwuro iqhpl', 'lwlra isbil', 'lruwa iqcbl', 'laurw iqbwl'}, {'wehra iqyyh', 'llhra isbfl', 'lyera ijqbl', 'lyury iqefl', 'layra iqbwl'}, {'weuro yxhal', 'lwora iqcpl', 'lyera isbel', 'layra iqbyl', 'lwuru ikbhl'}, {'lhyra isbul', 'lhrra iqzpl', 'lohwa iqyle', 'larwa iqvpl', 'laury iqbbl'}, {'laurw iqbyl', 'yuuro wqbyh', 'lwora isbpl', 'lwurh iqgfl', 'lyuru izbpl'}, {'lwlra iqfvl', 'lhury igbvl', 'laoho hqpil', 'laury ikbal', 'lwurw izbul'}, {'layra icbal', 'lruya isfal', 'hiuya wwbay', 'lyure iqzbl', 'lyara izfal'}, {'layra icbal', 'larwa iqfbl', 'lwurw iqpel', 'lwera isqbl', 'lueya aqpah'}, {'laury icbal', 'lwuri ikval', 'harua wqhol', 'lwurr iqzfl', 'lwhra izbwl'}, {'lwora igfal', 'lwure icbpl', 'laowy ikwel', 'laurw iqbbl', 'lyora iqqvl'}, {'lhyra ijval', 'laurw ikbal', 'laahw espal', 'lyuru ijbel', 'lyure iqqfl'}, {'lwurh ijbel', 'haoro ycbah', 'laury ikbal', 'larya iqpbl', 'lurwa icval'}, {'lwuri icpal', 'waorw iyyul', 'lhurw iqpil', 'layra iqbyl', 'lwaur iqpfl'}, {'llhra ixval', 'larya iqifl', 'aluro hipal', 'lyurr ijbyl', 'layra iqbyl'}, {'laury icbal', 'lhrra izbil', 'lwaur iqgpl', 'lwure icbfl', 'alira ihayl'}, {'lruwa iqjpl', 'lyuro iqpol', 'laurw icbal', 'olira wkfal', 'lwurr ixfal'}, {'layra icbal', 'layye iwbey', 'lwaur ixbpl', 'lhwra ixpal', 'lwira ikbfl'}, {'lruha iqqvl', 'lyury iqvel', 'laurw iqbbl', 'wohra yxbil', 'lyera ijbel'}, {'wouru oyyal', 'lyera igbfl', 'lwera iqvvl', 'lwlra ijbfl', 'laury ikbal'}, {'lrhra igbfl', 'yaewa aqhol', 'larwa iqfhl', 'layra iqbwl', 'lhurw iqavl'}, {'yuora ozval', 'layra ikbal', 'lwera iqgpl', 'lyera iqavl', 'lwure iqfvl'}, {'laury iqbwl', 'lwuri igbfl', 'wayru iwbyy', 'lruwa iqhbl', 'lwurh iqfbl'}, {'lyera ixbel', 'heara ichol', 'lyhra iqsfl', 'lhwra iqfpl', 'laury iqbbl'}, {'layra ikbal', 'llhra icqbl', 'lyurw icbfl', 'yuurh ojbul', 'lyera iqkpl'}, {'lhurw ixbul', 'lwurh isbbl', 'yairo hqpel', 'larya iqzvl', 'layra iqbyl'}, {'lhhra izbvl', 'laurw icbal', 'lyuri ikval', 'lwurh iqzpl', 'weora ijyah'}, {'lyurr ijval', 'lyara iqifl', 'awuru yqbiy', 'laury iqbyl', 'lyora iqphl'}, {'laurw iqbyl', 'lahur iqepl', 'lwuro isbul', 'laoho iwbiy', 'larya icbpl'}, {'yeira hhpal', 'laurw ikbal', 'lyuro iqvol', 'layrh ijfal', 'lahur isbpl'}, {'lyaur igbpl', 'laurw ikbal', 'lyuru isbhl', 'lyhra ixpal', 'luuyw cibhl'}, {'laury iqbwl', 'lrhra isbyl', 'lwuro isbwl', 'lyury ikfal', 'yuora hqpil'}, {'lwlra iqpwl', 'luuay ihubl', 'laurw icbal', 'lwuro icval', 'lruwa icpal'}, {'lwurr iqavl', 'lwuwe iyyol', 'lhury iqofl', 'layra iqbbl', 'lyurw ixpal'}, {'lhyra izval', 'layra iqbbl', 'lwuro iqqfl', 'lyuru iqgvl', 'hhuru ecbil'}, {'laurw iqbyl', 'lrwra ikval', 'hhira ikawl', 'lhlra iqefl', 'lhwra iqkpl'}, {'layur iqofl', 'lehwa iqyuh', 'lhrra iqqfl', 'laurw iqbbl', 'lyera isbel'}, {'laurw icbal', 'lyera iqkvl', 'lyuro iqfwl', 'hlira ihbla', 'lwurr iqqfl'}, {'lyora iqpel', 'lwurr icbfl', 'larwa iqefl', 'wauyr yyyal', 'laury iqbyl'}, {'lyhra iqzpl', 'layue ojbay', 'laury iqbwl', 'lhwra iqvvl', 'lhyra iqzvl'}, {'leaya wqhah', 'lwira iqxvl', 'lwuru iqsbl', 'lhrra ijpal', 'laury iqbbl'}, {'lurya iqvyl', 'lwuro ijbwl', 'lohwa aqbwh', 'lwurr iqvol', 'laury iqbbl'}, {'lyara iqupl', 'laurw ikbal', 'lyurr icqbl', 'laeah eqyil', 'lwuri iiqbl'}, {'laoyi ikfaw', 'lruya iqcfl', 'lyara izbyl', 'laurw iqbbl', 'lyuru ikbfl'}, {'lhury ijbwl', 'wuurh wkfal', 'laury ikbal', 'lwaur izbhl', 'lruwa iqpwl'}, {'lwara isbwl', 'lruha igqbl', 'layyh izbha', 'laurw icbal', 'layrh iqapl'}, {'lyurw iqxfl', 'yawwa wqbla', 'lahur icval', 'larwa ixbvl', 'layra iqbbl'}, {'lhurw iqsfl', 'larya ixbbl', 'laurw icbal', 'hluya ixhol', 'lwlra iqefl'}, {'laurw iqbyl', 'lwuri iqqfl', 'lyora iqhvl', 'yyurh ykfal', 'lahur ijqbl'}, {'llhra icbhl', 'larwa iqxvl', 'luuyi ojbhl', 'layra iqbwl', 'lwuru iqvpl'}, {'laurw iqbyl', 'layur iqvel', 'lwurh ijfal', 'yuyra iqyeh', 'lhury iqwfl'}, {'lahur iqzvl', 'lrhra iqpol', 'hwhra hwbah', 'lwira ijbfl', 'laurw iqbwl'}, {'layra icbal', 'lyurr izfal', 'lyora iqffl', 'luoya hqwah', 'larya iqqpl'}, {'lruya iqavl', 'laury icbal', 'lyurr iqblh', 'lwora iqsfl', 'wwuri hiyal'}, {'lwure iqufl', 'llhra iqovl', 'laurw icbal', 'yauwh ihavl', 'lwuru izbpl'}, {'lyaur izbul', 'laiah iqabw', 'laury icbal', 'larwa iqgbl', 'lyora iqfyl'}, {'lwuye ikwol', 'lwurh ijbel', 'lhhra iqyvl', 'laury iqbyl', 'lhyra iqvvl'}, {'lwury iqkfl', 'lhlra isfal', 'lwlra ikval', 'laury iqbyl', 'lawyi cibhl'}, {'yoira yzbay', 'lruha iqhbl', 'lwurh iqhpl', 'layra iqbyl', 'lwira iqfwl'}, {'laury iqbwl', 'lwera isbvl', 'lyuru iqblh', 'leowa ycbel', 'lwira iqpyl'}, {'laurw icbal', 'lwera iqzpl', 'lyuri icval', 'waoro yxbhl', 'lurwa isbvl'}, {'aulrw ycval', 'lwurr iqcvl', 'laury iqbyl', 'layrh iqjbl', 'lyuru iqyvl'}, {'aluya hibul', 'larwa iqwvl', 'lhyra iqofl', 'lwhra iqvwl', 'laury iqbyl'}, {'layra ikbal', 'yyuro iqyoh', 'lhhra iqphl', 'lyure iqvfl', 'lruha ixbol'}, {'leyya wqbyh', 'lwhra isbpl', 'lwuri igval', 'lhhra iqepl', 'layra iqbbl'}, {'lhyra isbwl', 'laury icbal', 'ywuwa uqhol', 'lyuri icbpl', 'lyara iqhvl'}, {'lruwa ikbhl', 'larwa iquvl', 'lwuro izpal', 'hlira eyyal', 'layra iqbwl'}, {'lyara iqzfl', 'laurw icbal', 'liuyw hiwal', 'lyora iqhfl', 'lruya iqjbl'}, {'lhlra iqvel', 'lyuri iqqfl', 'lywya ycbah', 'lyera iqkbl', 'laury iqbyl'}, {'lruya izbfl', 'lurya isbpl', 'llhra iqvwl', 'weuru ispay', 'laury iqbbl'}, {'lurwa iqcpl', 'leyya hibwl', 'lyara icbpl', 'laurw iqbbl', 'lwara iqzvl'}, {'lhlra iqppl', 'waaru hzbah', 'laurw iqbbl', 'lyara igqbl', 'lwurh iqgvl'}, {'lwure iqsbl', 'laoyo iwble', 'lyuru isval', 'lyury icbvl', 'laury iqbbl'}, {'lwurr ijbul', 'lruya iqfbl', 'laurw iqbwl', 'lurya izbyl', 'liowa hqpaw'}, {'ahuya wxbah', 'laurw ikbal', 'lyuri iqphl', 'lhrra isbvl', 'lhurw igval'}, {'hhuru eqbih', 'lwurr ikqbl', 'lyuro iqvul', 'layra iqbwl', 'lwurw isbhl'}, {'lwury ikbpl', 'lyuri iqipl', 'wauah aqabl', 'lhurw iqgfl', 'laury iqbbl'}, {'lwira izbhl', 'lwurr iqzvl', 'laurw iqbbl', 'lyora iqkbl', 'haere kibhl'}, {'lwhya iswel', 'lwurr iqhvl', 'layra icbal', 'larya iqjbl', 'lhyra icbhl'}, {'lyera iqpyl', 'lwury icpal', 'lwlra icbvl', 'yyuro uzval', 'layra iqbwl'}, {'lwury izfal', 'lyuye wwbah', 'lhyra ikval', 'layra iqbbl', 'lwuri isbbl'}, {'hoira qebhl', 'layra icbal', 'lwora ixbhl', 'lrhra iqvfl', 'layur icqbl'}, {'layur isbpl', 'laury icbal', 'lyhra iqppl', 'yeira yybah', 'lwury iqevl'}, {'lwuri ikpal', 'lyora ixbul', 'laurw icbal', 'larya iqhpl', 'hauyh izvah'}, {'lyuri iqphl', 'lyurw iqyfl', 'lahur ijqbl', 'laury iqbbl', 'weira ihyah'}, {'laury iqbwl', 'leawa qabah', 'lwuri iqcpl', 'lhlra iqphl', 'lwlra iqefl'}, {'lyuro icbvl', 'laurw ikbal', 'wyure hibwl', 'lyara icbhl', 'lhurw iqefl'}, {'lhyra iqfel', 'lyurr iqivl', 'alrua hybel', 'lyara iqgfl', 'laurw iqbwl'}, {'llhra iqofl', 'lyaur iqqfl', 'laurw ikbal', 'lyurh izbwl', 'lawue eqyil'}, {'lhyra iqjpl', 'lwuri izqbl', 'wwurh wqbuh', 'laurw ikbal', 'lyurw iqcvl'}, {'lwuri ikpal', 'lwlra ixbul', 'lwury igpal', 'lawyw ysbah', 'layra iqbwl'}, {'lyury iqfhl', 'lyera iqxfl', 'layra iqbbl', 'lwlra ikbfl', 'leawa ihbla'}, {'wiurw yxhal', 'lurwa izbol', 'lhyra ixbel', 'lyurw ixbul', 'laurw iqbwl'}, {'layrh ixval', 'lyurh izqbl', 'lwurr izbyl', 'ywuwa eqhol', 'laury iqbyl'}, {'lruwa isfal', 'yayro qibol', 'lwara ikfal', 'laurw ikbal', 'lyaur iqfil'}, {'lwurr igqbl', 'layra iqbbl', 'haowa iwfay', 'lwurh ixqbl', 'larya icfal'}, {'lwure iqsbl', 'lwurr iqgfl', 'laowe wqhah', 'lyurr ijbfl', 'layra iqbwl'}, {'olurw hcbah', 'laurw ikbal', 'lrhra izbfl', 'lruwa icbhl', 'lhrra ixfal'}, {'lwlra ixfal', 'lwuri icqbl', 'lhwra iqpfl', 'laury iqbyl', 'yiurw iwbuy'}, {'lwurr igfal', 'lwlra ixpal', 'lyuro iqyfl', 'laury iqbbl', 'uluya iqhlo'}, {'lwure iqvyl', 'lyurw iqppl', 'laurw icbal', 'leuwe isyah', 'lruya iqafl'}, {'lhurw izbbl', 'yhuru ezbil', 'llhra izval', 'lyora igbhl', 'layra iqbyl'}, {'lhwra iqifl', 'lruha iqgpl', 'lhlra icqbl', 'laurw iqbbl', 'lwuyh hiwal'}, {'laury iqbwl', 'lawah hgbah', 'larya ikfal', 'lyuri igfal', 'lyira iqfel'}, {'laurw iqbyl', 'lyera iqphl', 'lurya iqwfl', 'lwlra iqapl', 'wiora uqhol'}, {'laurw iqbyl', 'lwara ispal', 'lhlra iqphl', 'lyora icbhl', 'houya ojfal'}, {'lwuri izbvl', 'lwuro isbfl', 'lyaya azval', 'lwara iqfvl', 'laury iqbbl'}, {'layrh iqxfl', 'lyuro iqxpl', 'laury ikbal', 'wairu izvaw', 'lyara ixbbl'}, {'lwuri iqcbl', 'lwure iqgpl', 'lurwa iqppl', 'lehha ahbah', 'laury iqbyl'}, {'lwuru iqavl', 'lyuro iqvul', 'layra iqbwl', 'lyaur iqhpl', 'yaiwa hjbah'}, {'laurw ikbal', 'lruwa iqypl', 'lyuwy hqwel', 'larya ixbel', 'lwlra ixbil'}, {'lwuro ixbwl', 'laury iqbyl', 'lhury isbbl', 'larwa iqpil', 'loowa iqaby'}, {'lwurh ixbbl', 'layra ikbal', 'laeah zibhl', 'lwure iqcpl', 'lwuri ixbyl'}, {'laurw iqbyl', 'luawa wcbol', 'lhyra ijbul', 'lhrra iqzbl', 'lurwa iqvvl'}, {'waeru yqbey', 'lwora iqpel', 'lyurh iquvl', 'laury ikbal', 'lhlra iqful'}, {'layyh yqboy', 'lyuru iqkbl', 'lwuru ijbyl', 'laury iqbbl', 'lruha iqfol'}, {'lhhra iqxbl', 'wehra aqbwh', 'laury iqbyl', 'lruya isbil', 'lwera iqspl'}, {'lhyra isval', 'harea yqbyh', 'lwurw iqhbl', 'lruwa iqvpl', 'laury iqbyl'}, {'lwara izbhl', 'lwuyo wqyah', 'lwlra ixbwl', 'lyurh iqvfl', 'layra iqbyl'}, {'haerw ojbhl', 'lwurw ijbil', 'lwera iqvul', 'lhhra iqhpl', 'laury iqbyl'}, {'lyuro iqblh', 'lhury izbpl', 'wairu yqbeh', 'laury iqbbl', 'lhwra iqfwl'}, {'lruha iqwfl', 'layra iqbbl', 'lruya ixbul', 'lyurw ijbil', 'awhra qebhl'}, {'lwlra ixval', 'layra icbal', 'yyara yxfal', 'lyury isfal', 'lwora iqfbl'}, {'llhra ikbfl', 'lwlra iqvfl', 'laury ikbal', 'hawua hibel', 'lwuru iqpol'}, {'haaya ajbah', 'lhwra iqpel', 'lwora iqffl', 'lyurh ijbol', 'laury iqbyl'}, {'layra ikbal', 'lyuri iqovl', 'lhhra ixbul', 'lyuru iqhbl', 'laoww iqhlo'}, {'lhrra iqyvl', 'laurw ikbal', 'lwurw ijfal', 'wiora eqbiw', 'lwira ijbfl'}, {'lyurw icqbl', 'lyurh iqful', 'yehra oyyal', 'lruwa iqcfl', 'layra iqbyl'}, {'wwuro iqhow', 'lahur igbpl', 'laurw icbal', 'lhwra iqvwl', 'lyury izbul'}, {'laurw iqbyl', 'lwurr igval', 'lwhya iyyyl', 'lyera iqjpl', 'larwa iqyvl'}, {'lyuri ijbvl', 'laurw icbal', 'hahua acbol', 'lwira ixbyl', 'lrhra isval'}, {'hauye ojbah', 'lwaur isbbl', 'lahur ixbol', 'layra iqbbl', 'lwurh iqqpl'}, {'laurw ikbal', 'yohra yqbyh', 'lwaur izbil', 'lwlra izpal', 'lyaur ijpal'}, {'lyure igbpl', 'lhury ikval', 'laury icbal', 'lyhra iqwvl', 'wiurw ocbol'}, {'yauar iyyul', 'lyuru ikqbl', 'layra iqbwl', 'layrh izval', 'lwuro iqzbl'}, {'lyuro isbvl', 'lwora ixbyl', 'wahrw wkwal', 'laury iqbbl', 'lwlra iqjvl'}, {'laurw iqbyl', 'lhury izval', 'lyuri isbfl', 'lhlra iqpbl', 'heara ycyal'}, {'lyurw igbhl', 'lhwra iqavl', 'larya iqzbl', 'layra iqbwl', 'yaywa ywbay'}, {'lrhra iqpwl', 'lhhra isbbl', 'lhrra iqvyl', 'wyure ewbay', 'layra iqbyl'}, {'lruwa ixbyl', 'olhra yhbay', 'lwhra iqzbl', 'lyure iqcvl', 'laury iqbbl'}, {'lhwra iqgpl', 'ilhra hibhl', 'lwuri ijqbl', 'lhlra iqefl', 'laury iqbbl'}, {'layra ikbal', 'larwa iqwfl', 'laywe iqyla', 'lwera iqufl', 'lyera iqfol'}, {'laurw iqbyl', 'lhury iqvil', 'lhurw iqkbl', 'laoah yqboh', 'lruwa izbyl'}, {'lyure ixbyl', 'lwury ijbyl', 'yaiwa aqpah', 'laurw iqbbl', 'lwaur icbvl'}, {'laurw ikbal', 'lwury iqgbl', 'lyure iqqfl', 'lwuri igbpl', 'lwuay yqbiy'}, {'lyuro iqvil', 'laury icbal', 'ilhra hipal', 'lwaur icbfl', 'lyaur ixbul'}, {'lwlra iqxbl', 'laury icbal', 'lyora iiqbl', 'larwa iqcvl', 'waaru hxpal'}, {'layra ikbal', 'lhurw ixbul', 'lwara iqpel', 'hlira ihapl', 'lyara iqfol'}, {'lwlra ixval', 'lhuwu ishol', 'lyurw iqipl', 'layra iqbyl', 'lwaur iqovl'}, {'lrhra iqvvl', 'lyurh isval', 'lruya iqipl', 'lhuyu iwbey', 'layra iqbwl'}, {'layra ikbal', 'lyora icbvl', 'lyure iqzvl', 'yhuro ycpal', 'lwora icpal'}, {'laowe iqwla', 'lwera iqcvl', 'lrhra isbvl', 'lyuri iqzbl', 'laurw iqbwl'}, {'lhyra iqhbl', 'whhra icboh', 'lyurh iqvil', 'lurwa ijfal', 'laury iqbbl'}, {'lyuru iqfyl', 'layra ikbal', 'lyurr igqbl', 'lwury iqkbl', 'haaya oyyal'}, {'lurwa icbhl', 'haoya iyyel', 'lruha izbfl', 'laury iqbyl', 'lahur isbpl'}, {'layrh iqavl', 'laury ikbal', 'lyurr iqepl', 'lwuro igpal', 'laihw hival'}, {'lurya iqffl', 'laury iqbwl', 'lyuru iqpwl', 'lhlra iqpel', 'lwuah kifal'}, {'laury iqbbl', 'hayua aqabl', 'lruya icbfl', 'lyaur izpal', 'lwurw iqfol'}, {'lyara ikval', 'layra icbal', 'lyurw ixbel', 'lyurr ijbhl', 'yhuru eqbla'}, {'lyuri izbfl', 'larwa iqpyl', 'laury iqbyl', 'lwuro iqhfl', 'yauhw hibel'}, {'lhyra iqphl', 'lurya iqpel', 'larya ijqbl', 'laurw icbal', 'haere ikawl'}, {'laurw ikbal', 'lyure iqyvl', 'lhurw ijbil', 'lyuhe yqbuh', 'larya isval'}, {'lwurr iqavl', 'lhlra izbwl', 'lyaha uqble', 'lwera iqqvl', 'laurw iqbwl'}, {'lyera ijbhl', 'laury icbal', 'lyurr igqbl', 'luuwh yybay', 'lhwra iqvyl'}, {'lyuru iqevl', 'lyara iqyfl', 'laurw iqbbl', 'lyaur iqfil', 'haori hjbhl'}, {'lwuyo isbeh', 'layra icbal', 'larya iqpol', 'lwurw icpal', 'lwara icbpl'}, {'lhyra isbfl', 'waoha yqfah', 'larya izbwl', 'lhhra ixbel', 'layra iqbwl'}, {'lyora ixbfl', 'lwera iiqbl', 'laurw icbal', 'lhlra iqsvl', 'hauyh aqabl'}, {'laury iqbwl', 'lruha iqfvl', 'lhlra iqzvl', 'lhury igfal', 'waorh iwboy'}, {'lwira iqhfl', 'lyera igqbl', 'haroa ycbyl', 'lyurr ijbel', 'laury iqbbl'}, {'layur isval', 'larwa igbfl', 'lahur icval', 'hluro iqhle', 'laury iqbyl'}, {'laurw iqbyl', 'lwurw iqcfl', 'lwure ikbpl', 'llhra izbfl', 'weuya eqwil'}, {'laury iqbwl', 'lyurw igval', 'lyury igbfl', 'ilurw aqboh', 'lhyra icbhl'}, {'lruha ixbwl', 'laeye hiyal', 'layra iqbbl', 'lyurh iqvfl', 'lyera iqfhl'}, {'lhyra iqxpl', 'laury icbal', 'lhrra isbbl', 'wahri wzval', 'lhlra iqjbl'}, {'lruya icval', 'layyu ykwal', 'lwuru iqzfl', 'lwora iqfbl', 'laurw iqbbl'}, {'layra ikbal', 'lhwra isbol', 'lahur iiqbl', 'lyera isbyl', 'heara hibol'}, {'hulra yxbah', 'lyhra icbvl', 'lyara iqvul', 'lwure isbpl', 'layra iqbbl'}, {'lruha izbyl', 'lruwa iqqpl', 'layra icbal', 'lyurr iqpil', 'leuhw iwbuy'}, {'lueya uwbay', 'lwhra iquvl', 'lyera ijbfl', 'laurw iqbbl', 'lhyra iqfwl'}, {'layra ikbal', 'lyhra icbfl', 'woora hibil', 'lrwra icval', 'lhwra iqfbl'}, {'lahur iqopl', 'hurua iwvay', 'lyera isqbl', 'layra iqbwl', 'lwaur ijbvl'}, {'harha wgbah', 'lyera iqofl', 'lyhra iqhpl', 'lyora ijval', 'layra iqbyl'}, {'lhury iqpil', 'aluro wqhol', 'laurw iqbbl', 'lhwra ixqbl', 'lruwa iqvel'}, {'layra ikbal', 'lruya ixpal', 'lyurr igbfl', 'wuora ewbay', 'lahur ijbel'}, {'wwuri hgbah', 'lwury igbvl', 'lurwa iqspl', 'lhlra iqepl', 'layra iqbyl'}, {'layra ikbal', 'lyaur isbwl', 'lwurr iqpwl', 'lyury iqjfl', 'wlhra hkbah'}, {'lrhra izbwl', 'layur icbpl', 'layra iqbbl', 'heara hcpal', 'lruya isbhl'}, {'lahur iqcvl', 'lyuri iqffl', 'lwaur igbhl', 'yehra iqabw', 'laurw iqbwl'}, {'lyuri iqvwl', 'laurw iqbbl', 'lyhra ijval', 'laewe yxbaw', 'lhlra igfal'}, {'harha qiyal', 'layra icbal', 'lyuro igpal', 'lyurh iqevl', 'lyurw iqypl'}, {'lehwa icyol', 'lrhra ixqbl', 'lurya ijbfl', 'lhlra iqyvl', 'layra iqbwl'}, {'laurw iqbyl', 'lyara isfal', 'lruwa iqffl', 'laawe ihhol', 'lwera iqkpl'}, {'waeru hjbel', 'lwurw iqfel', 'lruya iqvol', 'laury ikbal', 'lyhra iqpil'}, {'laurw ikbal', 'luaah hwbay', 'lhlra izval', 'lruya ixbwl', 'lwhra iqxvl'}, {'lwure isbol', 'leyya hqyel', 'lyure iqcfl', 'layra iqbwl', 'lahur iqvfl'}, {'lyuri ixbhl', 'lwlra izbbl', 'harea qifal', 'lwurh ijbol', 'layra iqbyl'}, {'liuhw hjbah', 'larya iqwfl', 'laurw iqbbl', 'layur iqblh', 'lwara iqvol'}, {'lyaur iqyfl', 'layur izqbl', 'lhwra iqupl', 'wiora eqfil', 'laurw iqbwl'}, {'lyure izval', 'laury iqbwl', 'youwa ojbul', 'lwuru iqblh', 'lahur ikval'}, {'lhlra iqwpl', 'laury iqbwl', 'luuyh akfal', 'lwuri iqevl', 'lyuru iqipl'}, {'lwora iqfil', 'alera ihhbl', 'layra iqbbl', 'lhhra iqyfl', 'lyuru iqxbl'}, {'lyurr iqyfl', 'layra ikbal', 'lwuru iqwvl', 'lyaya xibhl', 'lwurh ixbul'}, {'ayurw iwbla', 'lyera igpal', 'lhyra iqafl', 'laurw iqbbl', 'lurya iqhfl'}, {'lyera iqupl', 'layrh iqpwl', 'lhuyu hibah', 'laury iqbyl', 'lyurr izbpl'}, {'lwury izqbl', 'laurw ikbal', 'yahro aqvah', 'lhlra ixqbl', 'lhrra igqbl'}, {'lruwa isbul', 'lurwa iqxpl', 'lhurw iqhbl', 'aluri ycbul', 'laury iqbyl'}, {'hahya hqboh', 'larwa iqqvl', 'lwara ikval', 'lwurh iqivl', 'laury iqbbl'}, {'lrhra ijbel', 'laury icbal', 'wairu iwbey', 'lurya ixbyl', 'lhury isbel'}, {'laury icbal', 'lwure iqpyl', 'lyera isbul', 'heara yzval', 'lyira isbol'}, {'lwurr iquvl', 'laurw iqbbl', 'lwira isfal', 'lahur ixbhl', 'luwha iyyhl'}, {'lyuru iqvhl', 'lhrra iqqpl', 'waorh iqhle', 'lruwa icbhl', 'laurw iqbwl'}, {'lwora ikpal', 'lruwa ixbvl', 'laury icbal', 'lwure iquvl', 'wuera iqhle'}, {'layra ikbal', 'lwira izfal', 'lahur iqvyl', 'lyuro iqkbl', 'yuara hyyal'}, {'laurw iqbyl', 'luiya ikawl', 'lruya isbfl', 'lurya icval', 'larwa iqhfl'}, {'whuru wqvah', 'lahur isbel', 'lwera izbel', 'laurw iqbbl', 'lyara ijval'}, {'lyuro iqvyl', 'hoira oqyah', 'lwara iqfwl', 'laurw iqbbl', 'lhury iqepl'}, {'lhlra ikbpl', 'laeah ihibl', 'layur iqavl', 'layra iqbwl', 'lyera iqpbl'}, {'lrhra iqcvl', 'lwuru iqvil', 'yuera egbil', 'layra iqbwl', 'lwera ijbol'}, {'layra ikbal', 'lrwra iqupl', 'laowh hihal', 'lwhra isbil', 'lyury izbvl'}, {'lwuru izbyl', 'laurw iqbwl', 'lwurw iqapl', 'lrhra ikbpl', 'wuara hcbol'}, {'lyaur iqfwl', 'lurwa iqfel', 'laurw ikbal', 'waroa eqbli', 'lwuru iqpwl'}, {'lhurw icbpl', 'lhwra iqpil', 'lhury iqjbl', 'ayuro eqble', 'laury iqbbl'}, {'lruha icbpl', 'layra icbal', 'weuwa yxbay', 'lwlra iqepl', 'lwira iqfvl'}, {'layur icpal', 'lhuyu iqhoy', 'lyurw iqpul', 'lwure iqwfl', 'laury iqbbl'}, {'laury iqbwl', 'lruha iqipl', 'lyera izbil', 'lhlra iqfyl', 'luhya hjbhl'}, {'lwira icbvl', 'wauyu ewbay', 'lwure iqkbl', 'laury iqbyl', 'lwury ijqbl'}, {'lrhra icfal', 'lruya iqpwl', 'layrh isbol', 'wwyra ywbay', 'laurw iqbwl'}, {'yiara ikwaw', 'laury icbal', 'lwara isfal', 'lwurw iqhfl', 'lurya ikbhl'}, {'lwuri izbhl', 'yawwa yjbhl', 'laurw iqbbl', 'lwurr iqfwl', 'larwa iqgvl'}, {'laury iqbwl', 'lruha icbfl', 'layur ijqbl', 'lyurr iqyvl', 'hlrua ojbol'}, {'lwaur ixbbl', 'waoya iwbya', 'lhwra iqpyl', 'lwara iqvfl', 'laury iqbbl'}, {'lyurr iqphl', 'lyera iqvwl', 'layrh iqapl', 'haria iqaby', 'laurw iqbwl'}, {'laury icbal', 'lwera igbvl', 'lwure ixval', 'lwhra iqgfl', 'lawyu ysbel'}, {'lhhra ijbel', 'lwira icbpl', 'lrwra iqvol', 'layra icbal', 'wauhu hhpal'}, {'lwhra iqwfl', 'lyurw izqbl', 'lwera iqyvl', 'ahurw hjbah', 'laurw iqbbl'}, {'lrhra izbel', 'waerw wibhl', 'lwlra icfal', 'lwira iqifl', 'laurw iqbwl'}, {'lyara ijqbl', 'laurw ikbal', 'lahur iqhbl', 'lwora iqxvl', 'lwuhw iwvay'}]
+laura iqbal         : DEBUG: Additional rule variations: {'iqbal        laura', 'l.i.'}
+laura iqbal         : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.14285714285714285,
+        "special_char_variations_count": 1,
+        "total_variations_count": 7
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "laura iqbal": {
+            "first_name": {
+                "score": 0.7658198245087048,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.2193994150290162,
+                        "orthographic": 1.0,
+                        "combined": 0.6096997075145081
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "lhyra",
+                            "phonetic_score": 0.6871089973073087,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "laury",
+                            "phonetic_score": 0.8314598075526001,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "larya",
+                            "phonetic_score": 0.6871089973073087,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "lruya",
+                            "phonetic_score": 0.6871089973073087,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "yauwi",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.8176895661387896,
+            "final_score": 0.787484986244365,
+            "variation_count": 7,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 2,
+            "last_name": {
+                "score": 0.868,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.5599999999999999,
+                        "orthographic": 1.0,
+                        "combined": 0.78
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "iqhbl",
+                            "phonetic_score": 0.34935414670989534,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "iqbwl",
+                            "phonetic_score": 0.839106574287791,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "isbel",
+                            "phonetic_score": 0.34935414670989534,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "isqbl",
+                            "phonetic_score": 0.34935414670989534,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ispay",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "l.i."
+                        ],
+                        "name_parts_permutations": [
+                            "iqbal        laura"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "l.i.": [
+                            "shorten_name_to_initials"
+                        ],
+                        "iqbal        laura": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.6666666666666666,
+        "by_name": {
+            "laura iqbal": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "l.i."
+                        ],
+                        "name_parts_permutations": [
+                            "iqbal        laura"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "l.i.": [
+                            "shorten_name_to_initials"
+                        ],
+                        "iqbal        laura": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "average_quality": 0.787484986244365,
+    "final_reward": 0.787484986244365
+}
+laura iqbal         : DEBUG: ----------------------------------------------------------------------------------------------------

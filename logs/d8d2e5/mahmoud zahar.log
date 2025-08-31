@@ -1,0 +1,2302 @@
+mahmoud zahar       : INFO: Generating variations for mahmoud zahar
+mahmoud zahar       : INFO: ----------------------------------------------------------------------------------------------------
+mahmoud zahar       : INFO: Effective rules: ['swap_random_letter']
+mahmoud zahar       : INFO: ----------------------------------------------------------------------------------------------------
+mahmoud zahar       : INFO: Min Required Rule Variation Set: [{'mahmoud zhaar', 'amhmoud zahar', 'mahomud zahar', 'mahmoud zaahr', 'mhamoud zahar', 'mahmoud azhar', 'mahmodu zahar', 'mahmoud zahra', 'mamhoud zahar', 'mahmoudz ahar', 'mahmuod zahar', 'mahmou dzahar'}]
+mahmoud zahar       : INFO: ----------------------------------------------------------------------------------------------------
+mahmoud zahar       : INFO: First name: mahmoud
+mahmoud zahar       : INFO: Last name: zahar
+mahmoud zahar       : INFO: ----------------------------------------------------------------------------------------------------
+mahmoud zahar       : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8), (3, 7)]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 1 / 22: rule_count/nonrule_count: 0/1------------------------------
+mahmoud zahar       : DEBUG: O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: P: [0, 0, 0, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: P: [0, 0, 0, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.26889543]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 2 / 22: rule_count/nonrule_count: 0/2------------------------------
+mahmoud zahar       : DEBUG: O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: P: [0, 0, 1, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: P: [0, 0, 1, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.28803089]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 3 / 22: rule_count/nonrule_count: 0/3------------------------------
+mahmoud zahar       : DEBUG: O: [0, 1, 0, 2]
+mahmoud zahar       : DEBUG: P: [0, 0, 1, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [0, 1, 0, 2]
+mahmoud zahar       : DEBUG: P: [0, 0, 1, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.32048117]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 4 / 22: rule_count/nonrule_count: 0/4------------------------------
+mahmoud zahar       : DEBUG: O: [1, 1, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 2, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [1, 1, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 2, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.554]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 5 / 22: rule_count/nonrule_count: 1/3------------------------------
+mahmoud zahar       : DEBUG: O: [0, 1, 0, 2]
+mahmoud zahar       : DEBUG: P: [0, 0, 1, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [0, 1, 0, 2]
+mahmoud zahar       : DEBUG: P: [0, 0, 1, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.52048117]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 6 / 22: rule_count/nonrule_count: 0/5------------------------------
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.55217983]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 7 / 22: rule_count/nonrule_count: 1/4------------------------------
+mahmoud zahar       : DEBUG: O: [1, 1, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 2, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [1, 1, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 2, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.754]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 8 / 22: rule_count/nonrule_count: 0/6------------------------------
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 2]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 2]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.52355167]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 9 / 22: rule_count/nonrule_count: 1/5------------------------------
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.75217983]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 10 / 22: rule_count/nonrule_count: 0/7------------------------------
+mahmoud zahar       : DEBUG: O: [2, 2, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [2, 2, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.50822231]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 11 / 22: rule_count/nonrule_count: 1/6------------------------------
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 2]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 2]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.62355167]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 12 / 22: rule_count/nonrule_count: 2/5------------------------------
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 1]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.75217983]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 13 / 22: rule_count/nonrule_count: 0/8------------------------------
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.49307597]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 14 / 22: rule_count/nonrule_count: 1/7------------------------------
+mahmoud zahar       : DEBUG: O: [2, 2, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [2, 2, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.60822231]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 15 / 22: rule_count/nonrule_count: 2/6------------------------------
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 2]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [1, 2, 1, 2]
+mahmoud zahar       : DEBUG: P: [0, 1, 3, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.62355167]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 16 / 22: rule_count/nonrule_count: 0/9------------------------------
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 2]
+mahmoud zahar       : DEBUG: P: [0, 2, 5, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 2]
+mahmoud zahar       : DEBUG: P: [0, 2, 5, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.47855328]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 17 / 22: rule_count/nonrule_count: 1/8------------------------------
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.59307597]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 18 / 22: rule_count/nonrule_count: 2/7------------------------------
+mahmoud zahar       : DEBUG: O: [2, 2, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [2, 2, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.60822231]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 19 / 22: rule_count/nonrule_count: 0/10------------------------------
+mahmoud zahar       : DEBUG: O: [3, 4, 3, 0]
+mahmoud zahar       : DEBUG: P: [1, 3, 6, 0]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 1, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 3, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [236]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [264]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [1, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [3, 4, 3, 0]
+mahmoud zahar       : DEBUG: P: [1, 3, 6, 0]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 1, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 3, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+mahmoud zahar       : DEBUG: [8]
+mahmoud zahar       : DEBUG: [20]
+mahmoud zahar       : DEBUG: [20]
+mahmoud zahar       : DEBUG: [20]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [1, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.47434689]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 20 / 22: rule_count/nonrule_count: 1/9------------------------------
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 2]
+mahmoud zahar       : DEBUG: P: [0, 2, 5, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 2]
+mahmoud zahar       : DEBUG: P: [0, 2, 5, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [2]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.54521995]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 21 / 22: rule_count/nonrule_count: 2/8------------------------------
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [2, 3, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 2]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [3, 0, 0]
+mahmoud zahar       : DEBUG: [1, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.59307597]
+mahmoud zahar       : INFO: ------------------------------Trying rule_count_pair 22 / 22: rule_count/nonrule_count: 3/7------------------------------
+mahmoud zahar       : DEBUG: O: [2, 2, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [139, 79, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [500, 500, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+mahmoud zahar       : DEBUG: [215, 15, 20]
+mahmoud zahar       : DEBUG: [500, 171, 140]
+mahmoud zahar       : DEBUG: [500, 500, 500]
+mahmoud zahar       : DEBUG: [500, 500, 307]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: mahmoud, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: O: [2, 2, 2, 1]
+mahmoud zahar       : DEBUG: P: [0, 2, 4, 1]
+mahmoud zahar       : WARNING: Remains: 0
+mahmoud zahar       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [5, 0, 0]
+mahmoud zahar       : DEBUG: [57, 0, 0]
+mahmoud zahar       : DEBUG: [138, 0, 0]
+mahmoud zahar       : DEBUG: [36, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+mahmoud zahar       : DEBUG: [17, 4, 0]
+mahmoud zahar       : DEBUG: [279, 27, 0]
+mahmoud zahar       : DEBUG: [500, 115, 0]
+mahmoud zahar       : DEBUG: [500, 93, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [2, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0]
+mahmoud zahar       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+mahmoud zahar       : DEBUG: [30]
+mahmoud zahar       : DEBUG: [499]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [500]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [0]
+mahmoud zahar       : DEBUG: [1]
+mahmoud zahar       : DEBUG: final:
+mahmoud zahar       : DEBUG: name: zahar, l_level: 0
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 1
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: name: zahar, l_level: 2
+mahmoud zahar       : DEBUG: --------------------------------------------------
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+mahmoud zahar       : DEBUG: scores: [0.60822231]
+mahmoud zahar       : DEBUG: ----------------------------------------------------------------------------------------------------
+mahmoud zahar       : DEBUG: Best score achieved: 0.7539999999999999
+mahmoud zahar       : DEBUG: Best selected: 1/4
+mahmoud zahar       : DEBUG: Rule variations: [{'mahmoud zhaar', 'amhmoud zahar', 'mahomud zahar', 'mahmoud zaahr', 'mhamoud zahar', 'mahmoud azhar', 'mahmodu zahar', 'mahmoud zahra', 'mamhoud zahar', 'mahmoudz ahar', 'mahmuod zahar', 'mahmou dzahar'}]
+mahmoud zahar       : DEBUG: Nonrule variations: [{'hwyomdu juhra', 'mahamyd zauwr', 'mhamhut ziiir', 'mahmody zzhar'}, {'mihmwad zxhor', 'mymmoud zyhar', 'nhamuow jhaay', 'myamuod zarwy'}, {'mehomed zweur', 'mahmdui zzhar', 'hymuodw yawra', 'mymoudh zwzar'}, {'mohomod zairr', 'imhomih azhwy', 'mmahmud zwhar', 'momayud zawre'}, {'nhawodu cyhoh', 'mwhonid zewor', 'mahmwwd zwhar', 'myhomud zihyr'}, {'mhomout zouar', 'nhanodu azyur', 'mhamuwd ziuor', 'mahmywd zahhr'}, {'emwnodu chhra', 'mihomdu zoarw', 'maymiud zyhar', 'myhmodu zjuar'}, {'mahmudw zyhar', 'amhwuoy jeaur', 'mwyemud zzwor', 'mwamohd zxhyr'}, {'mahemid zehrr', 'whanoyu gaahh', 'mwumodu zuhre', 'mahmudw zwhar'}, {'yhamhdu wuyyr', 'maymoyd zahhr', 'mhumout zahrw', 'muyomud zjaur'}, {'mihmdyu ziuur', 'umymhdu ashyy', 'maymodd zahhr', 'mamuhud zehrr'}, {'mimhuwd zxayr', 'mahmhit zwgar', 'amhymey jhaih', 'mehmowd zahhr'}, {'myhmiod zaior', 'maimout zahhr', 'mawnyad zuarh', 'ymhwwdu yuahh'}, {'ayhomey gyara', 'mahmyot zqahr', 'mwanoad ziwwr', 'mwymoud zyhar'}, {'mahomad zeahr', 'muhomed zearo', 'meymoud zzhar', 'amwnodh hwhrw'}, {'mahmywd zwhar', 'amhemih yuhyh', 'mamohid ziwar', 'muymwod zhrha'}, {'myhmuid zxyar', 'maymaud zyhar', 'mwymodh zearw', 'amywodu yuhuh'}, {'mohomwd zwyyr', 'muymhud zaoir', 'amhwuot zuyyw', 'mahmmut zahhr'}, {'mwamout zkher', 'wmwmuoy awhyy', 'myomuod zzara', 'mahmudw zahhr'}, {'imhyhdu jihra', 'maymuud zyhar', 'mymheud zraoa', 'mahomdo zeoar'}, {'miwomad zzaur', 'ymhomih quhuh', 'mahmtuu zahhr', 'mamhoad zaerr'}, {'maynwud zqher', 'myamiwd zwohr', 'whanowu jhaay', 'mahmuwd zhhar'}, {'wwamuot yuyah', 'mahmduo zyhar', 'mahemad zwcar', 'mayomhd zuawr'}, {'mwyomud zwhrh', 'mahwmod zhhar', 'mumhoud zwoar', 'whamwdu gyyur'}, {'mahmtuh zhhar', 'amhomeh qaahy', 'memohud zeear', 'muymhod zehru'}, {'mhemout ziahr', 'muhomwd zzihr', 'mahmuut zahhr', 'nhamhyu hihra'}, {'weamhdu qyyur', 'meamhud zwqar', 'myhmwdu zzwur', 'mmahmud zahhr'}, {'mhamwhd zairh', 'maimowd zwhar', 'mamhaud zuiar', 'amhomey kehra'}, {'mywmhwd zwiur', 'mihmhyd zeuar', 'hymuodw zeayh', 'maymout zzhar'}, {'mahmduu zhhar', 'mehomut zuyur', 'miwmyud zarha', 'nhwmhdu qwhww'}, {'manoyud zuuar', 'mhamyad ziwer', 'amhomey xhyra', 'mahmwyd zzhar'}, {'muhnuyd zzuur', 'mawmwid zawrr', 'mahmewd zahhr', 'yemodiu sawra'}, {'mhymyud zxhor', 'moymoud zhhar', 'mhaomwd ziwyr', 'muwyidu kaaow'}, {'mahwmod zahhr', 'mhamoet zawre', 'mahmwot zaerr', 'amwmydu azhwy'}, {'mohomot ziarh', 'whamayu jawra', 'maymoad zzhar', 'mamyuwd zauor'}, {'mohnoht zwior', 'mahmott zhhar', 'ayhwwdu choor', 'mehnout zihyr'}, {'mahmtua zyhar', 'mehmhdu zaroo', 'whamuyt zzayh', 'mohmwid zahro'}, {'maymood zwhar', 'umymhdu akhyy', 'mehmwad zeyar', 'myhmydo zyewr'}, {'mahmote zwhar', 'whamada azwaw', 'mihnyyd zuarh', 'mhyomud zqhwr'}, {'mahmout zahhr', 'myamiwd zewur', 'myhmyod zaiur', 'amhnedu haahh'}, {'mahmmyd zzhar', 'mihmwit zhwur', 'whanodh gaahw', 'mahumwd zauir'}, {'maynodu zuoer', 'mawmyid zaiur', 'muywuot wxaur', 'mahmdou zwhar'}, {'mahemde zaory', 'mahnoat zaray', 'whumuot uzyyr', 'maymout zhhar'}, {'amhwuoh caayh', 'mohmoyd zwhar', 'myhomud zwsar', 'mayimad zyyyr'}, {'mahwmud zyhar', 'mahnotu zeyar', 'yamydyu yayrh', 'meahumd ziewr'}, {'wmmaehd azwer', 'mhamwdu zraae', 'mahmote zahhr', 'mamhohd zoear'}, {'mhhymud zaarh', 'mihoumt zhrha', 'hhanawd siyah', 'mahmtuw zwhar'}, {'myhmoyt zaraw', 'mahymud zyhar', 'mhamiut zihri', 'emwmidu wzyra'}, {'mahmoti zwhar', 'mhamhud zqher', 'moynoad zhyer', 'yhamuoy azyor'}, {'manuodw ziary', 'amymhdo qwhwa', 'maymoid zzhar', 'mahnoot zairr'}, {'mayemud zrhah', 'mahmowt zzhar', 'muwnodu zywer', 'whamdau kaahy'}, {'mwwomay ozhra', 'mhhonid zeeer', 'muwmhud zkear', 'mahmyyd zyhar'}, {'mhamhhd zewor', 'maumoyd zyhar', 'mamwiud zhjar', 'whanowu ashyw'}, {'mihoumt zyaro', 'mahmduy zhhar', 'maymhod zwkar', 'whamwot jaurh'}, {'mahnowt zguar', 'mhamuot zioer', 'maymoed zwhar', 'amhwmih kwhrw'}, {'maymoyd zahhr', 'mahhmhd zrhay', 'mhomoht zaury', 'anhyhdu jheir'}, {'mwwomad zwaer', 'mahmiwd zahhr', 'mwmuyot azhra', 'mahumid zkyar'}, {'mhhumud zzwar', 'mahmoto zhhar', 'myanwud zehrw', 'amhamey sohyw'}, {'manohhd ziyur', 'mahumut ziaar', 'yhanodu wuhra', 'maymohd zhhar'}, {'whanodi joaer', 'mawimwd zweyr', 'mahmduh zhhar', 'mahmyot zsher'}, {'mhamhut zoeyr', 'mohmwed zjhir', 'mahmott zwhar', 'amhyhdo chaoh'}, {'myhmuod zwxar', 'amhemey jaira', 'mawomdu zuaur', 'maomout zahhr'}, {'myhnout zahry', 'mowmoud zhhar', 'amhumih siyir', 'mihomat zearh'}, {'mamydhu zyuhr', 'maymeud zzhar', 'mhhomud zxhur', 'nhumhdu shayw'}, {'myohmid zeewr', 'mihmoyd zahhr', 'wyymedu qhaaw', 'mehmhod zkahr'}, {'maimout zyhar', 'mawmyad zaeir', 'amhomhh suhra', 'mhimdou zcayr'}, {'mahmtui zwhar', 'whanody ozhra', 'muhomwt zaure', 'momhoud zoear'}, {'hmhomey yuyyr', 'mahomtu zywar', 'mawimwd zuwir', 'mammout zwhar'}, {'nhamuow suhyw', 'mehomyd zywer', 'mahimad zxhyr', 'mahmaut zhhar'}, {'mamuhud zeahr', 'moyneud zoewr', 'hmumydu qhauh', 'mahmdou zahhr'}, {'meymwud zswar', 'maymoed zhhar', 'whanahd siyor', 'myhmwdu zoaer'}, {'mahimda zwair', 'maemout zyhar', 'mehmhad zauwr', 'amhyuoy zyyuh'}, {'nhomhdu gaahh', 'mwamhud zzahr', 'mahmtui zyhar', 'mamhodw zhwor'}, {'amwnodi xoaer', 'mohmowd zyhar', 'momhoud zauer', 'myamwid zraya'}, {'mhanahw zeayh', 'mahmdui zahhr', 'mahmwit zeyar', 'mwyneud zerai'}, {'amhomye xhywr', 'myyomod zyarh', 'mohmhut zahro', 'mahmudy zyhar'}, {'mamhiud zaeer', 'mahmmyd zhhar', 'nhamydu yehra', 'mawomat zoyer'}, {'mhumout zxoar', 'mwymoud zwhar', 'mhamwut zouhr', 'amwnoyu ghhra'}, {'mehumud zshyr', 'maimoyd zwhar', 'amhowey chaoy', 'mohmhdu zorae'}, {'myhmwid zgear', 'nuwmidu yzeur', 'muymoud zwhar', 'muymyid zohri'}, {'maymyut zxahr', 'mamoudw zhhar', 'hhemidu goaer', 'mhamhyd zoaur'}, {'hmimadu waahy', 'maymood zahhr', 'mhaomut zoewr', 'mamhoid zgahr'}, {'amhimih ajhra', 'maymout zwhar', 'mhaomyd zyiwr', 'mahamdu zhqar'}, {'amhohey wzayh', 'mahmmmd zyhar', 'mewmyud zuuar', 'mhamwid zariy'}, {'mahmmmd zwhar', 'whanadu whaah', 'mawmwed zaoer', 'mhumuyd zeier'}, {'nhamhdw xeaur', 'mahwmud zyhar', 'mowomad zuaor', 'manouwd zrhao'}, {'mohomht zoray', 'amhimey xyohr', 'mywmoud zhhar', 'maymyad zwuar'}, {'amhomyh cyyur', 'mahmeut zzhar', 'mhamody zwwir', 'mwamout zuaar'}, {'mahmtuo zwhar', 'myhomed zzehr', 'hwyomdu azhoh', 'mwhumud zeear'}, {'mamhuud zoiar', 'nwyomdu yehra', 'maemout zzhar', 'mewmhwd zeiyr'}, {'amhwwwu zyyuw', 'mamhuwd zaary', 'mahmduy zzhar', 'mawmhwt zuayr'}, {'mahnowt zohyr', 'mhhomhd zwuhr', 'maomout zyhar', 'whayodu chhru'}, {'amwmhdu yuyah', 'mawimwd zwiur', 'myamout zchur', 'mahmduu zzhar'}, {'mahamyd zjhor', 'nhayhdu zwayy', 'muhmowd zwhar', 'myynood zeyor'}, {'wyanodu wohra', 'mahmhwt zaeir', 'mahmddd zyhar', 'mhhomut zaeru'}, {'mehomhd zohrh', 'mimhoud zahre', 'amymadu xhhru', 'mammoyd zyhar'}, {'mahomet zarwy', 'maumoyd zahhr', 'amhwwtu azhhw', 'mamhhud zyyar'}, {'amwomih aghyy', 'mahmoto zwhar', 'mewumod zuwer', 'mahamut zwear'}, {'muymoud zyhar', 'myamydu zaoru', 'anhwwdu yuhha', 'mhymyud zyahr'}, {'mhamwut zeuhr', 'mohmwad zkhhr', 'maemout zahhr', 'amhumih zyayh'}, {'amhyhde sihyw', 'mahnowt zuhwr', 'mhomoht ziara', 'maymoyd zhhar'}, {'mwymhdu zaora', 'mahmwyd zwhar', 'ywwomad qhhuh', 'myhnood zwzar'}, {'muwmoud zyhar', 'myhmwid zchyr', 'amymhdw gihra', 'mowneud zwyyr'}, {'whimuot guyyr', 'mwamuod zoeir', 'mmahmod zzhar', 'mhemout zhxar'}, {'mahmotw zhhar', 'mohomhd zzuhr', 'muyyuot kiaor', 'mhhimud zghir'}, {'mhumyud zeiar', 'amhnydu xxaur', 'mwomudy zoara', 'mahmowd zwhar'}, {'mowomad ziihr', 'maymoyd zzhar', 'mamyiud zauwr', 'amhwwtu juhra'}, {'maymiud zwhar', 'mawmyid zaaru', 'maaomhd zehri', 'whanotu caawh'}, {'amwnode yuhuh', 'mahmhot zrhae', 'mahmoat zwhar', 'myhmedu zsaur'}, {'mwumodu zuhri', 'maemoyd zyhar', 'umhomih jjaur', 'mahnotu zxhur'}, {'maomowd zwhar', 'yymuodw jehra', 'mayemud zgyar', 'muhimad zurae'}, {'mahmoit zahhr', 'mahnyut zeiar', 'manuodw ziehr', 'amhwwdh ghaay'}, {'mamoudy zzhar', 'muymwod zraae', 'emhwwdu zoaeh', 'mamahud zxyar'}, {'mihomhd zweir', 'whimuot xaahw', 'maamout zwhar', 'mohomud zohyr'}, {'amhyhyu cuahh', 'mihmhut zawyr', 'maimout zahhr', 'miyumud zwyur'}, {'imhomey caihh', 'mhimwyd zearu', 'maomowd zyhar', 'myhmeut zawor'}, {'miwmhud zawir', 'muhmoyd zzhar', 'amhoyih siyer', 'mhimoit ziyor'}, {'mamyuhd zwear', 'amwwidu qyohr', 'mahmodw zyhar', 'muhomhd zeuer'}, {'maumoyd zyhar', 'whamdau ayzra', 'mayomhd zoara', 'mamihud zshwr'}, {'mwwomud zuwwr', 'mahimhd zuoar', 'wewmuot zwayh', 'muymoud zahhr'}, {'muhmowd zahhr', 'mawnoyd zahro', 'ymmaodu kihra', 'mamuyod zerha'}, {'mhamoht zwehr', 'muhmwed zjear', 'mahmtui zhhar', 'ymmaoot wehra'}, {'amwmwdu cwhrw', 'mahimdu zawwr', 'myhmhdu zwohr', 'mahmdue zzhar'}, {'miymoud zyhar', 'muyomud zhyor', 'myaomud zwiar', 'anhomih caihh'}, {'amwmdiu uzhra', 'mhamout zgwar', 'mahmdua zhhar', 'mihomot zeyer'}, {'mahmduu zahhr', 'mwyomud zairh', 'ywwomad gaahh', 'myhmhod zraha'}, {'mawnoat ziaor', 'maymwed zjear', 'mamouwd zahhr', 'mhanahy zzayh'}, {'mihimut ziuyr', 'yyymedu azwah', 'maymoad zzhar', 'mhemhud zchur'}, {'mohmwhd zaeer', 'muywuot suhra', 'miwomad ziary', 'mahmowd zyhar'}, {'amwnotu yayrh', 'myhomed zyare', 'myanoud zhkar', 'mwymoud zahhr'}, {'miwomut zariw', 'mhamowd zharh', 'yeamhdu xhhra', 'maemout zwhar'}, {'mihmyut zaarr', 'umymhdu azhww', 'mihmout zhhar', 'muwnoad zzwwr'}, {'mohnwad zeyir', 'amhomye cyaor', 'mahmydd zahhr', 'mawmwod zkhhr'}, {'muwomud zywer', 'mihmoyd zyhar', 'mamoyhd zqher', 'umwmidu yzhyy'}, {'mamwudy zjyar', 'mehmowd zyhar', 'mhamhut ziuir', 'amhymey jyohr'}, {'emhomey ezhyy', 'maomoyd zahhr', 'myhmead zxhir', 'mhamwyd zeyur'}, {'amwmuoy haahw', 'maynoad zuaar', 'mohmout zzhar', 'myomudy zxaur'}, {'myhomwd zerai', 'mahmoto zyhar', 'mamhoyd zewar', 'nhamuot gihra'}, {'whanahd qhaaw', 'mihmhdo zoyyr', 'mmamoud zzhar', 'mihimud zaihr'}, {'mahmduo zhhar', 'mwyemud zweyr', 'amhomet cihra', 'mahonut zywar'}, {'mwamied zawri', 'mehmwid zxiar', 'mahmwdd zahhr', 'amwnohu kuaor'}, {'mihmowd zahhr', 'mihomyt zaoro', 'amwwodu yiayr', 'mehemud zyahr'}, {'mamouyd zzhar', 'mamohed zwsar', 'amhwadu wuhra', 'meamyut zoaor'}, {'emhomih xhyhr', 'mhamoyd zaehr', 'mahmtuh zyhar', 'mhwomad zwihr'}, {'hhamuot azhuw', 'mahmuut zyhar', 'mohonad ziwur', 'mawnoyd zuoar'}, {'mohneyd zeray', 'maemowd zhhar', 'mayumud zaoyr', 'mwmuwot qohra'}, {'mhamiwd zwuor', 'amymhyu shhyw', 'maymuud zhhar', 'memhoud zaarr'}, {'mihmout zwhar', 'whimuot uzhyy', 'manohud zwcar', 'mwhomut zeuwr'}, {'amymido xheor', 'mahwmud zhhar', 'mamwowd zuaar', 'muhomhd zuhry'}, {'mahmhde zrhay', 'omhomih hhaay', 'myomuyd zaerh', 'mahmote zhhar'}, {'mihmhad zeear', 'amwomih jhaay', 'mamydhu zayro', 'maymeud zyhar'}, {'mahmotw zzhar', 'amhwwdi koaor', 'momayud zehry', 'mwaomud zhcar'}, {'mhwomud zoyar', 'wymuodw azior', 'mhwomad zouur', 'maemout zwhar'}, {'mawmyhd zaoir', 'meamhad zuoer', 'mmamoud zwhar', 'mwwomaw xhyhr'}, {'mahmota zzhar', 'emwmuot qhauh', 'myhmidu zuier', 'miwmhud zwsar'}, {'mahmdue zyhar', 'myhmewd zsahr', 'nhawodu kaaoh', 'mwohmid ziihr'}, {'mhimwud zyuar', 'amhyhdu yyhra', 'mhhomed ziyur', 'mywmoud zzhar'}, {'mhamiyd zwuhr', 'mahmtui zhhar', 'mamwuod zawrr', 'wyanodu xeaur'}, {'maimowd zzhar', 'amhomyh jaurh', 'momohud zqhur', 'mimhuud zarya'}, {'yhemidu yaura', 'mamhoed ziiar', 'meamhid zarea', 'mmahmod zhhar'}, {'mahnyut zarwr', 'mhamwhd zaure', 'mahmdui zahhr', 'wyamidu qhaaw'}, {'amhomet azhih', 'mahmmwd zhhar', 'mwaomud zarha', 'mahnwht zuaru'}, {'mahmtuh zwhar', 'mhimyyd zaury', 'mamyuod zehyr', 'amwmadu zwayh'}, {'mhimwyd zyiir', 'amymuot qwhow', 'mahniut zgher', 'maymeud zhhar'}, {'mhamhod zuuyr', 'mahmddd zzhar', 'emymhdu xohra', 'mahnaut zjhor'}, {'myyyedu cyohr', 'muhmout zahhr', 'mawnyud zarai', 'mihnoit zeari'}, {'mhhomyd zeaur', 'muwwidu yuhra', 'mahomdu zeoar', 'mehmowd zahhr'}, {'muhmhid zaiur', 'omhwwdu jyyur', 'mahomit zuarh', 'mmimoud zhhar'}, {'mwmuwot azewr', 'mihmwod zaurr', 'maymood zzhar', 'mhamwad zaorw'}, {'mhhomid zaere', 'mehmhwd zjhhr', 'ymymhdu ywhrw', 'mahwmod zyhar'}, {'whynodu cehra', 'mehmhod zaare', 'mymhudh ziwor', 'mahmduo zahhr'}, {'manowhd zsaur', 'mahmddd zzhar', 'wmwmuow sohyw', 'maymhut zuhwr'}, {'nhumhdu saahh', 'maymaud zhhar', 'myamiid zaeru', 'mamhiud zehyr'}, {'myhmwed zehrr', 'mawomhd zehre', 'mmahmud zwhar', 'amwnoda hhaaw'}, {'mehmoyd zahhr', 'wyamadu guhra', 'maynodu zwaur', 'mahnwed zjhur'}, {'mehamed zoayr', 'mahmduy zhhar', 'amhwwdw cwary', 'mahnwed zuhwr'}, {'myhmodu zywar', 'mamouyd zahhr', 'amymhdu woaer', 'mymheud zaurh'}, {'awymhdu gawra', 'mhhonud zarwr', 'mhamwyd zkayr', 'mehmowd zwhar'}, {'amwmwdu azhri', 'mhymiid zywyr', 'maymout zwhar', 'mamyowd zarhr'}, {'mohmhot zaeru', 'mahniut zehwr', 'mahmtou zzhar', 'amhemih xhyhr'}, {'mowomad zuwwr', 'amhwhdu hhaay', 'meymyud zkhhr', 'maymuud zhhar'}, {'mahmoit zhhar', 'mewwuot guyyr', 'mihoumd zkhor', 'myomudh zairh'}, {'manuodw zyiwr', 'mwaomud zauor', 'hmwmidu cwary', 'mahmdue zzhar'}, {'wwamidu izhra', 'mmimoud zyhar', 'mohnewd zarew', 'memowud zaaur'}, {'mahmduw zyhar', 'hwyomdu gwhra', 'mahnydu zuuwr', 'mhhimud zhcar'}, {'mhamwyd ziuyr', 'mahmoht zyhar', 'mamohod zaoyr', 'umhomih jhaaw'}, {'mohomot ziuer', 'mwamoad zqwar', 'muwmoud zwhar', 'yhamuot xehow'}, {'mahmtue zhhar', 'mmaodae wohra', 'maymyut zxher', 'mhamuyd zewwr'}, {'mamowdh zoear', 'amwmuoy caahy', 'mhhomhd zxaur', 'maymiud zyhar'}, {'imhyhdu shhra', 'mymmoud zyhar', 'maymwut zgoar', 'mihomtu zaory'}, {'mhimwyd zeywr', 'momhoud zauwr', 'whamdau jjaur', 'maamowd zhhar'}, {'meymoud zyhar', 'memhoud zqoar', 'wmwmuoy qwhew', 'mhamhdu zuraw'}, {'mmahmod zzhar', 'muhumyd ziowr', 'amymadu xhyra', 'mhyomud zhsar'}, {'mhamhad zyior', 'mmymoud zhhar', 'wwymedu whhra', 'mimwoud zayir'}, {'amwwidu cwaor', 'mahmwdd zhhar', 'mwemuod zerau', 'mwamhud zwzar'}, {'mahmmmd zahhr', 'muymyut zaira', 'amyomih azhew', 'mihmwhd zqear'}, {'mamouyd zyhar', 'meamhad ziair', 'mwamuud zuhrr', 'nuymuot azewr'}, {'amwnidu xeyor', 'mawyumd zywyr', 'mahemdu zyahr', 'mahmoat zahhr'}, {'neamhdu azhry', 'mahmaut zzhar', 'mahomid zghyr', 'mhaomdu zyihr'}, {'mywomud zuuer', 'mahnoet zwcar', 'wmmaodo kwhra', 'mahmoet zwhar'}, {'whamuit yjaur', 'mhimhud zgaar', 'mamhydu zeuhr', 'mwymoud zahhr'}, {'amhomit kuaor', 'mmemoud zzhar', 'muhomwd zyiur', 'mahomtu zxyar'}, {'anhomih kohra', 'maymuud zyhar', 'mwamydu zeawr', 'mumohud zaier'}, {'meamhud zjear', 'myamodu zhyer', 'maumowd zhhar', 'emwnodu yohra'}, {'mihmowd zwhar', 'mhaomdu ziair', 'amhwuot caohh', 'maymwhd zjhyr'}, {'myhmwed zxahr', 'myamwut zoior', 'amymydu zyyuw', 'maumowd zyhar'}, {'maemowd zhhar', 'amhomyw yuheh', 'mahmhde zeahr', 'mwynodu zeier'}, {'mihomud zswar', 'mahmaut zahhr', 'mayomwd zzaru', 'nwyomdu shayw'}, {'ymymhdu ahhyy', 'maohimd zooer', 'mahmtuu zhhar', 'muhmhyd zhzar'}, {'mawymhd zuhry', 'mawnoyd zehrr', 'mahmowt zhhar', 'amhyhdo yhaaw'}, {'mihmdhu zkaor', 'hmymhdu siyaw', 'mahmoti zhhar', 'mymohud zcear'}, {'mahmyyd zwhar', 'mhimhyd zohrw', 'mihmhid zcwar', 'amhwwda kaaoy'}, {'hhamedu goaer', 'mhwomud zwiar', 'mahmmut zyhar', 'mohomwd zzuur'}, {'amwmadu jhhra', 'moymyud zqhhr', 'mahmywd zhhar', 'mahnhdu zaryu'}, {'mamodyu zwoir', 'mamuhud zkhur', 'amhwwyu xhyur', 'maumoyd zhhar'}, {'amhomew jhwir', 'mohumyd zoeer', 'mimowud zjear', 'mahmott zwhar'}, {'amwmidh kaahy', 'mhamwed ziyer', 'muhmoyd zahhr', 'mhhymud zciar'}, {'mahmeut zahhr', 'amhwwdi johra', 'myamwyd zoihr', 'muymyud zuhwr'}, {'whanwdu azyur', 'mamoyhd zchor', 'myhmedy zwray', 'mmymoud zzhar'}, {'ymmaodu sawyw', 'mihmdyu zkawr', 'mahmtuy zyhar', 'maymwod zkwar'}, {'amwyidu kaaow', 'mhamwdu zyuhr', 'maymiud zahhr', 'mwhomud zeear'}, {'whomadu xhywr', 'mhanout zyyir', 'mhyomud zhjar', 'maomout zahhr'}, {'muhnowd zharh', 'myamwod zyier', 'amhomwt azayw', 'mohmoyd zyhar'}, {'mwynodu zaura', 'ymhwwdu khaay', 'mahnuut ziiar', 'mahmmdd zahhr'}, {'maemowd zzhar', 'mohmhht zeyor', 'maymwod zrhae', 'ywyomdu kayra'}, {'myhmwdu zkawr', 'mahnoyt zsiar', 'wmymhdu haahy', 'mmemoud zwhar'}, {'mahmduo zyhar', 'mwamuud zaraw', 'mhumowt zhwer', 'ymhwwdu azhiw'}, {'mahmdui zzhar', 'amwnohu syohr', 'maynoad zeoar', 'muhomwt zyeir'}, {'muhomyd zaery', 'amhomay azwaw', 'mamhoyd zjiar', 'mahmtuy zyhar'}, {'meanyud zoiwr', 'mahmwyd zahhr', 'whamuwt wzyra', 'mhomyud zwyar'}, {'mawmyid zaari', 'wmhyhdu siyyr', 'miwomud ziarw', 'mahmtuh zyhar'}, {'mahonad zehwr', 'whamaot wyhra', 'mhamyut zsaur', 'mahmuut zzhar'}, {'maimowd zzhar', 'amwmidu jaahw', 'mhemwud zaorr', 'mumoyed zouyr'}, {'mahomdi zqear', 'meamhyd zqaur', 'mahmoyt zahhr', 'whamuoy azwur'}, {'mohumyd zoawr', 'mawmyut zjahr', 'wmwmuoy aqhyy', 'mahmdui zahhr'}, {'mohmoyd zzhar', 'maymyhd zwoar', 'amymhdi xyohr', 'mhhomid zarwe'}, {'mihmhit zhwir', 'mohmyed zjhur', 'yhanodu jwhrw', 'mahmdua zwhar'}, {'mmahmud zzhar', 'mhamyed ziraa', 'amhoyih siayr', 'mahnwhd zxear'}, {'mahmeut zahhr', 'muhmwad zraha', 'ymhomih azhhy', 'mamyhdu zhrha'}, {'mohomyd zeehr', 'mamyowd zaowr', 'wwamuot yzeur', 'mahmmwd zwhar'}, {'mihmhdo zaore', 'whamawu cyhow', 'maymmud zzhar', 'mahimut zcwar'}, {'meamhyd zuarw', 'amhomit waahh', 'myhnout zuiar', 'mahmout zyhar'}, {'amhomet goaer', 'mahamad zqear', 'mawmowd zhhar', 'mahumde ziihr'}, {'mammout zyhar', 'emwwodu wayra', 'myhmhut zaara', 'mumoyed zirae'}, {'mahmtou zwhar', 'muhmwad zsoar', 'myhmydu zwoir', 'wamydyu jaury'}, {'mahmotu zyhar', 'mahemyd zayrr', 'imwnodu cyyur', 'myomuyd zzeur'}, {'mwywedu cywor', 'muymoud zwhar', 'mhomoot zzwyr', 'mamhyud zxoar'}, {'memohud zhkar', 'manohhd zyuer', 'emwmuot coaer', 'mahwmod zyhar'}, {'maemowd zzhar', 'myhmetu zuuor', 'whumuot xaahy', 'mamheud zeear'}, {'mahomwd ziear', 'maemout zhhar', 'omymhdu kaaow', 'mownoad zoiwr'}, {'maymoad zahhr', 'omhomey siywr', 'muymyad zyara', 'maymyod zarhr'}, {'amhomye azyir', 'muhonid ziary', 'mamohed zjiar', 'maomout zahhr'}, {'maomowd zahhr', 'mamyudw zawyr', 'mohomed zqayr', 'whanodo hzhra'}, {'mahmoyd zhhar', 'nhamuot ywayr', 'mawymhd zoewr', 'mamohid zxher'}, {'mihomat zuior', 'amymadu cayhh', 'mmamoud zwhar', 'mihmhed zawrr'}, {'mihomht zayro', 'nhanahd xaira', 'mihmwut zaiir', 'maymeud zyhar'}, {'ymwnodu cwhrw', 'meamhwd zarrw', 'mahymud zwhar', 'mamayud zawer'}, {'nhamhyu jhaah', 'maymuud zwhar', 'mamohad zuahr', 'mihomat zyuer'}, {'mahmowt zzhar', 'emhwwdu xawra', 'mhamhyd zarew', 'mhomoyd zuahr'}, {'mihumut zwiwr', 'myameud zyahr', 'amymhyu koaor', 'mahmtua zahhr'}, {'ymmaodu hohra', 'mahmtuw zahhr', 'mayomdu zwyir', 'mwamhud zyear'}, {'nhamhwu jhaay', 'mihhmud zwiar', 'mhwomad zohro', 'maymaud zahhr'}, {'wemodiu caehh', 'mehmout zhhar', 'mamwodu zyair', 'mhemowd zehyr'}, {'maumoyd zyhar', 'mamuhud zwjar', 'mhaomhd zzour', 'whamydu qwary'}, {'amhumey hyayr', 'memyoud zuaar', 'muhmoyd zyhar', 'mahnwht zerah'}, {'whayadu yoaer', 'mahmiyd zahhr', 'maymhed zeaar', 'meamyed zuewr'}, {'mmahmud zzhar', 'ymmaiad caayh', 'manuodw zywyr', 'mamhoid zauur'}, {'memyoud zhsar', 'wnamidu hyhra', 'myhmedo zeeer', 'maymout zyhar'}, {'myhmudo zyaar', 'mahmmdd zyhar', 'nhanahd suyyr', 'myhonid ziuur'}, {'mahwmhd zwqar', 'muhnuyd zewwr', 'mahmiwd zwhar', 'yewmuot koaor'}, {'amhymih azway', 'mamwodw zuiir', 'mamuhud zoear', 'mahmuut zzhar'}, {'myanoud zeear', 'mohmout zahhr', 'amhyhdu hzhra', 'muymyed zeiir'}, {'amwnead azyah', 'mumhued zioyr', 'mahmody zhhar', 'mahimid zghir'}, {'mahamid zsuar', 'wmhwwdu azwor', 'mahmtui zyhar', 'mymheud zioor'}, {'myhmwut zzoar', 'mehmoyd zhhar', 'mhamwut zuuwr', 'ywymedu ywhra'}, {'mhymuod ziaer', 'mhhoumd zhwar', 'mwmuwot hzhyy', 'mahmout zyhar'}, {'mehomdu zuyer', 'mahmhtu zaraw', 'amymedu khhra', 'mahwmod zwhar'}, {'mahmdui zhhar', 'mhimoit zerao', 'ayhomey zyyuw', 'mahmwet zjhhr'}, {'hmhomih azyay', 'mamhowd zxear', 'maymaud zwhar', 'mwhomyd zieyr'}, {'mywmoud zyhar', 'mawimwd zyoyr', 'mahmhdu zeoar', 'amhyhdh qohra'}, {'maomowd zhhar', 'omhwwdu cwary', 'miwmyud zjhir', 'mhamayd zyowr'}, {'manouht zyeir', 'myohmud zxhor', 'mahmiyd zwhar', 'umhwwdu sohra'}, {'yhamadu siyah', 'mahmoti zwhar', 'mhamydu zywer', 'mihomod zgher'}, {'mahmiwd zahhr', 'moyneud zaurh', 'emwmuot azhru', 'mahomdh zguar'}, {'mayoumd zoear', 'wuwmidu azhow', 'maimout zahhr', 'mewmyod zewer'}, {'mahomyt zaree', 'mahmhwt zjhhr', 'maumout zwhar', 'amymhtu yiayr'}, {'wyanodu kuaor', 'mhaomyd zyyor', 'mhymiud ziaar', 'mahmmdd zwhar'}, {'memwoud zqhwr', 'mawomat zuwer', 'mahwmud zwhar', 'amhwmey wxaur'}, {'mihnyyd zeyor', 'umhyhdu chaaw', 'mahmtui zyhar', 'mhamwud zciar'}, {'wmmaehd jyyur', 'mwhomut zooor', 'mahmydd zahhr', 'mohimud zghur'}, {'meamhad zuior', 'mihimud zaewr', 'whomadu wawra', 'mahymud zwhar'}, {'meamhhd zwiyr', 'mahomyd zeuar', 'wamydyu swary', 'mammout zzhar'}, {'mumhuud zeaer', 'mamwudy zhjar', 'amwnodu azhwa', 'mahmmut zyhar'}, {'mahmduy zwhar', 'whumuot xewor', 'muyumod zearo', 'myamoyd zairr'}, {'ymmaaad yuheh', 'mahmuut zyhar', 'mhhymud zxhyr', 'mewnoad zurah'}, {'mahmduw zwhar', 'myhmuot zyehr', 'amymido keaor', 'maymhod zehyr'}, {'whemidu quhuh', 'myamydu zweur', 'mayemud zwzar', 'moymoud zyhar'}, {'mawmhut zxhyr', 'whamuto cwary', 'muhomid zwiur', 'maymowd zyhar'}, {'mhaomdu zeoyr', 'myhnowd zgear', 'mmemoud zwhar', 'nhamhdi xhyir'}, {'mumohed ziara', 'mawnowd zghur', 'mahmddd zhhar', 'ymmaoot azewr'}, {'maymowd zahhr', 'wyymedu jaira', 'myamiid zehra', 'mhhoumd zauir'}, {'amwmdiu zyyuy', 'mehomyd zwyor', 'mahmodw zhhar', 'mamwiud zgwar'}, {'whamayu aghra', 'mihomht zraaw', 'mymhoud zwjar', 'mahymud zwhar'}, {'mhimoit zuior', 'amymhdh yaahw', 'maymiud zahhr', 'mahimut zawor'}, {'mmaehdh yoayr', 'mamuyod zouor', 'mahomhd zkhyr', 'mmimoud zahhr'}, {'ymwnodu jjaur', 'mahmiwd zahhr', 'mhamoot zaerw', 'mhamout zqear'}, {'mahnayd zxhur', 'mahmduo zzhar', 'amhowih ahhyy', 'mayimad zwraw'}, {'mahmaut zzhar', 'mihmdwu zyuyr', 'wmmaowt yaahh', 'mahnwid zayir'}, {'nhamuot jyhra', 'maymoed zhhar', 'mawymhd zawru', 'mawmwid zgher'}, {'muhnwud zsher', 'mhamoht zarrw', 'whamiot xeyor', 'mahmuut zahhr'}, {'mahumwd zaiur', 'whomadu qaahy', 'mhamydo zewir', 'maymohd zwhar'}, {'muymyod zoier', 'mehmoyd zahhr', 'mahmhdo zjhor', 'anhomih wjaur'}, {'anhyhdu yuhhh', 'muynoud zioar', 'mehmout zwhar', 'myamiid zewer'}, {'myamied zhyhr', 'muyyuot koaor', 'mihmhed zqhir', 'mamouwd zhhar'}, {'mhimhyd zuyyr', 'maymmud zyhar', 'mihmwed zwoar', 'mhanawy yhhra'}, {'mahmoti zahhr', 'amhwwdh azhuw', 'muhomhd zarww', 'mohmwid zaoyr'}, {'anhwwdu caahy', 'mahnyhd zawyr', 'myamwod zayre', 'mmahmud zyhar'}, {'muwnoad zwuwr', 'mehmyhd zohwr', 'whemidu xeyor', 'mihmoyd zwhar'}, {'mywmhwd zhwor', 'mahomot zaray', 'maymuud zzhar', 'amhumih wohra'}, {'mawmhwd zxaar', 'mamouyd zahhr', 'whamwot yohra', 'mamhodu zxaur'}, {'mahmduo zyhar', 'whanodi hyayr', 'memhuod zsayr', 'myamhud zchhr'}, {'mahndou zshur', 'mymweud zerau', 'mammout zhhar', 'amwmidy suhra'}, {'whanode sayra', 'mohmwed zkuar', 'myamuwd zwywr', 'mahmmdd zzhar'}, {'myhmede zouur', 'mohomud zeuar', 'mamoudy zahhr', 'amywodu azyer'}, {'yhamuoh ijhra', 'maymeud zzhar', 'mhimdou zairy', 'mawnoyd zaeyr'}, {'muhnyud zgaar', 'mawmout zahhr', 'nhamwdu acahh', 'mihomdu zoyur'}, {'muwmoud zahhr', 'myamuwd zwray', 'mahmwit zgiar', 'amhwuow xewor'}, {'mwhumud zjhyr', 'amymidu axhra', 'myamiwd zzour', 'mahmuwd zyhar'}, {'mwamydu zkaur', 'mahamdu zaowr', 'ymmaaad kuhra', 'mahymud zahhr'}, {'amwnodh yuhhh', 'mihomat zhwor', 'mahmuut zahhr', 'mahomed zhzar'}, {'mhomudy zuhre', 'maymoed zhhar', 'yuamedu azayw', 'mahumut zahre'}, {'miwmhyd zaroa', 'huymuot guhra', 'mammout zzhar', 'myhmoot zyyar'}, {'nhamidu hjaur', 'mhhomud zhcar', 'mahmoyt zahhr', 'myhmetu zkaer'}, {'mahemad zqhyr', 'aywmidu azhuy', 'maymoyd zyhar', 'mynoeud zxayr'}, {'mimhuod zaery', 'amymydu huyyr', 'mahmaut zahhr', 'mahnwut zahru'}, {'mamyudh zoahr', 'mymmoud zahhr', 'mimhuod zhwir', 'ymymhdu ywary'}, {'mohmwad zawrr', 'myomudy zueir', 'mahmduu zyhar', 'whanydu zwayy'}, {'maamout zzhar', 'miymhud zouar', 'yyymedu coahh', 'myamuwd zyyir'}, {'whamidu yzeur', 'mahemut zaayr', 'mymmoud zzhar', 'mohneyd zywyr'}, {'mwyneud zzyyr', 'myhmwhd zqiar', 'ywymedu achyy', 'mahmwyd zzhar'}, {'mywnoad zowyr', 'maomout zzhar', 'mhhoumd zarah', 'anhyhdu wwhrw'}, {'myhmeda zaerh', 'mahmiyd zahhr', 'mohmhad zsahr', 'amymhdw siyah'}, {'mhymuod zihre', 'maymwod zeaar', 'maomout zhhar', 'amymuot xaira'}, {'nhamhdu kyohr', 'muhmhod zywar', 'mamhodw zeyyr', 'mmomoud zahhr'}, {'mahumdo zayra', 'mihumud zaior', 'mahmtua zzhar', 'amhwwtu xxaur'}, {'maimowd zzhar', 'myamwid zoraw', 'ymhomey azhwy', 'mamhuud zqhyr'}, {'mwamiwd zoiyr', 'mahamyd zxyar', 'anhwwdu qaahh', 'mahmewd zhhar'}, {'mwamoid zauir', 'amymedu sohra', 'mhamotu zyrha', 'mahmoty zhhar'}, {'emhomih aizha', 'mwhomwd zaero', 'miymwud zauer', 'mahmydd zwhar'}, {'wamydyu ajhra', 'mihamud zjhor', 'maamout zahhr', 'mihmhit ziehr'}, {'mahmduy zahhr', 'wmwmuoh azyah', 'mwamhud zauer', 'mowmhwd zoeyr'}, {'mwhumud zyoar', 'myamuid zauru', 'wwmuody qwhow', 'mammoyd zwhar'}, {'mihmoyd zzhar', 'mahamid zihwr', 'amwnody yuhih', 'mwhomyd zziur'}, {'maohumd zowwr', 'mahymod zhhar', 'muhmwhd zwear', 'amhwwdo azior'}, {'myhnowd zahry', 'amwnoda azior', 'mahmduu zyhar', 'mwanoad zuair'}, {'ywyomdu siyra', 'mahmoht zzhar', 'muhnwud zjhor', 'meamhhd zoyor'}, {'mohmowd zwhar', 'mihnoit zsaer', 'wewmuot jaahw', 'mahomdh zaeer'}, {'mywmyud zcaar', 'maomoyd zhhar', 'mhameyd zzyyr', 'whanuot azhre'}, {'whamydu azhrh', 'mawmowd zhhar', 'mawomyd zoraw', 'myamoed ziiar'}, {'muhmoyd zhhar', 'mahimad zaarr', 'mohomhd zeyyr', 'amhomew hzhyy'}, {'mahmoti zwhar', 'myhmeod zahrw', 'mihnoit ziari', 'amymhdu xhyhr'}, {'miwmoud zahhr', 'mwhimad zyari', 'mayoumd zhwar', 'mewodiu xhywr'}, {'whamadi yzayh', 'mihmwut zquar', 'mahmwwd zzhar', 'miwmhwd zyyyr'}, {'mayemud zghyr', 'mahmuyd zwhar', 'myamuhd zihro', 'whamayu zoaew'}, {'mahmewd zzhar', 'mhomoyd zqoar', 'mwwomah azhuy', 'mhymuod zaoro'}, {'momohud zarai', 'mahmoet zhhar', 'hmhyhdu xheor', 'myamiwd zwwyr'}, {'mhemwud zaier', 'yhawodu ashra', 'mhanout zeehr', 'mahmoti zzhar'}, {'mamohed zaawr', 'mohnoht zkayr', 'mahmoht zzhar', 'ymmaiad gwhrw'}, {'mamohut zuear', 'mhamywd zawrw', 'amhonih quhuh', 'mwymoud zahhr'}, {'mewodiu kuyyr', 'mahmdui zzhar', 'mhimwud zarae', 'mahimda zoaer'}, {'mhemhud zsear', 'mohmhdu zayra', 'mahmoht zhhar', 'hhemidu wxaur'}, {'meamhud zaraa', 'whamady siyer', 'mahmtuu zzhar', 'mwemuod zeara'}, {'mihnhyd zhyer', 'maemoyd zzhar', 'mmaodae qawuh', 'myhmoit zyaar'}, {'mawoamd ziaer', 'mahonhd zshyr', 'mahmout zzhar', 'nhamhtu zeayh'}, {'meamyod zohrw', 'mahmote zzhar', 'myhmiyd zchwr', 'amhomyw yuhyh'}, {'mahymod zhhar', 'mohonid zjaur', 'emwmidu coahh', 'mawmwhd zjhwr'}, {'mahmdui zhhar', 'mahumdu zaawr', 'whawuot chaah', 'mihnoit zkawr'}, {'mamohod zrhaa', 'whanidu xaahh', 'mahimat zwyor', 'mahmuut zwhar'}, {'muhmhwt zsara', 'myamyud zaihr', 'amhyhhu xehoy', 'mahmote zahhr'}, {'maymood zyhar', 'ayhomih gwhrw', 'mhamydo zwier', 'mamoyed zjhhr'}, {'mahmwyd zyhar', 'myhmued zxiar', 'mamhydu zoarw', 'whamwot khaah'}, {'wmwmuoy xaahw', 'myhmedw zuary', 'mamhudy zawyr', 'mohmoyd zwhar'}, {'mihomod zshir', 'amhomyy ashra', 'mmimoud zahhr', 'myamwwd zohri'}, {'amhwwda cyaor', 'mawomut zzyyr', 'mahmdua zhhar', 'mamhood zeiar'}, {'mhhomut zyair', 'myamowd zcuar', 'mhanawh joaer', 'muhmowd zzhar'}, {'amhonih jiaur', 'muymwod zzwwr', 'mahmoet zhhar', 'mahnhut zxhwr'}, {'mahomwt zsaur', 'nhamhhu jhhra', 'mahymud zahhr', 'maohmhd zaaer'}, {'mihmout zzhar', 'muwomud zeowr', 'myhmuwd zawer', 'omhwwdu siayr'}, {'manyuhd zeohr', 'whamwdu qhhra', 'myhmeyd zaohr', 'mahmoot zyhar'}, {'mmumoud zhhar', 'mawmhed zaaer', 'hhamuot kwaor', 'meamhid zyare'}, {'mamyhdu zeoyr', 'mahmydd zhhar', 'mayomud zqhir', 'myywedu awhra'}, {'mhomoot zieor', 'mahamid zewar', 'mahmotw zahhr', 'amymhdi chior'}, {'mywnoad zsaur', 'meymyud zoaar', 'wmhomih azwra', 'maumowd zzhar'}, {'mewmhwd zohre', 'mahmmut zwhar', 'mamihud zaeyr', 'hwymedu jhaah'}, {'mahemid zxhwr', 'whanuot caawh', 'mhamiwd zyiir', 'mamouwd zhhar'}, {'mamuhud zxear', 'mihmowd zhhar', 'amywhdu yzhyy', 'mamwodu zoior'}, {'mhumhud zaurr', 'nhamuow kyhra', 'mamoudy zahhr', 'mawnydu zweir'}, {'myhmydo zwarw', 'muhomud zxyar', 'mohmoyd zyhar', 'whamuat yayrw'}, {'whanoyu caahh', 'mawmout zahhr', 'mwamied ziowr', 'mahnoot zqwar'}, {'mhamhdu zyuer', 'mawmoyd zhhar', 'mahomde zgahr', 'whamiot wzhyy'}, {'mahmtuh zhhar', 'ayhomih khaay', 'mahemdu zkahr', 'muhomdu zaoru'}, {'mahmmyd zzhar', 'whemuot shaah', 'myamiut zwior', 'muhnyud zxear'}, {'mahmwit zaeor', 'amhomhw azwir', 'mammoyd zyhar', 'mamyody zeaor'}, {'mhamuwd zwier', 'maimout zyhar', 'omhomih haahy', 'mahnyut zahro'}, {'mewmwod zewir', 'mhymoyd zyaar', 'mahmoto zyhar', 'mmeodiu yhaay'}, {'ayhwwdu hhaay', 'myamiod zioer', 'mahmmut zhhar', 'mhhumud zuaar'}, {'hymuodw achyy', 'mahmtua zyhar', 'manohhd zueyr', 'mamoyod zaeur'}, {'mahmott zahhr', 'myhmuod zohwr', 'hwmuody xhyyr', 'mawnyad zweyr'}, {'mehomad zzaer', 'mamoudy zahhr', 'mohmwod zaeyr', 'wwyomdu ghhru'}, {'myamuhd zyihr', 'mohmwid zaiwr', 'maymohd zzhar', 'whanidu azior'}, {'amhwwdi azhuw', 'mahmwdd zhhar', 'mihnowd zghwr', 'mhamwht zorha'}, {'nhamhdy khhru', 'moymoud zhhar', 'mumoyed zaory', 'memwoud zrhae'}, {'mahmtuo zyhar', 'mhimhud zqhur', 'myhnedu ziiyr', 'hhamhdu wyhra'}, {'muwwidu azyra', 'mowmoud zhhar', 'mahnaut zshur', 'mumhuud zwrae'}, {'mawoamd zywor', 'mahmotw zwhar', 'whamuoh azyir', 'mahomdo zqoar'}, {'mamwiud zarhr', 'mahmtuy zwhar', 'mhamydu ziari', 'ywyomdu ajhra'}, {'myhmuwd zaiyr', 'hamydyu jaahh', 'mohnyad zywyr', 'mawmout zwhar'}, {'amhimey jwary', 'mhamoot zohru', 'mahmudy zhhar', 'mehmwid zaraw'}, {'momhuud ziiyr', 'mahonut zchor', 'maymeud zahhr', 'amhyhtu xhyhr'}, {'mehmowd zyhar', 'myamuhd zihri', 'whwmadu xayra', 'memwoud zuuar'}, {'maymwed zshwr', 'mehomhd zehrh', 'mahmiut zhhar', 'amwnotu yyayr'}, {'mayimud zaeer', 'mahmduy zahhr', 'mwhomid zayri', 'hhamuoh sawra'}, {'amhyhwu wwary', 'mohmwad zshwr', 'mahmddd zwhar', 'muymhod zaria'}, {'anwmidu gehra', 'mahymod zwhar', 'mehmwhd ziaar', 'myhomed zuior'}, {'whamayu kwary', 'mamahud zshur', 'mammout zhhar', 'mwyomud zyour'}, {'mihemud zuiar', 'hmymwdu jhaah', 'muwnodu zwuer', 'mahmodw zhhar'}, {'maymwht zcaur', 'amhomhh caahy', 'mamyiud zayir', 'mahmoat zzhar'}, {'yhanawd yuyah', 'mayonud zarha', 'meynaud zoiwr', 'mahmodw zahhr'}, {'muymoud zyhar', 'mamhwud ziwar', 'ammydyu uzyyr', 'mhhomut zohro'}, {'mihhmut zware', 'mamohid zawyr', 'maymoud zzhar', 'wwanodu wwary'}, {'maimowd zwhar', 'mawmhhd zzyar', 'myamwod ziior', 'amwnedu xehow'}, {'amhwadu sawyw', 'mahmoto zzhar', 'maymhod zqaar', 'mohmhot zwiur'}, {'mammowd zwhar', 'mowmhwd zweor', 'mhhimud zeaar', 'wwwomad aezwr'}, {'myywedu whaaw', 'mwhomhd zowyr', 'mahmhat zauor', 'maimowd zyhar'}, {'myamoad zchur', 'wwymedu keaor', 'mewmoud zzhar', 'mhamhad ziuyr'}, {'ymwnodu qwary', 'mawnout zaoer', 'myamwut zyyer', 'maymout zyhar'}, {'mhhomid zuaer', 'muhnwud zauer', 'mmomoud zwhar', 'nhymhdu yyayr'}, {'mhamiyd ziiir', 'amhomew yyayr', 'mahmdui zahhr', 'myaomud zgher'}, {'meamhhd zyiur', 'momhoud zeahr', 'amymhdo wwary', 'mahmewd zahhr'}, {'mihomhd zoaer', 'maimowd zwhar', 'mymwoud zhgar', 'whamwot yuhoh'}, {'maymhdu zyuyr', 'hhanahd axhyy', 'mehmout zyhar', 'mhomout zgyar'}, {'nhamhdo yuayr', 'myhnuod zowur', 'mahmodw zhhar', 'myamyud zwcar'}, {'maymhdu zowir', 'amymhdi juaur', 'mahmout zyhar', 'mahwmhd zkoar'}, {'miamyud zaaer', 'yhamedu azhow', 'myhmede zihri', 'maumoyd zzhar'}, {'mohomod zaair', 'mewnoad zoara', 'emhwwdu azhiw', 'mahmtuo zzhar'}, {'whamedu chuor', 'mamyuwd zeoar', 'moymoud zzhar', 'mawymhd zzwur'}, {'whanuot gaahw', 'mamwudy zaehr', 'maimowd zyhar', 'mamwody zgayr'}, {'yhamuoh zoaeh', 'mahmowt zhhar', 'mhaomdu zjaur', 'maynoed ziwar'}, {'manouwd zewar', 'amhomet xhhru', 'mahmtuh zzhar', 'mehmwht ziaur'}, {'mwynodu zaero', 'mmomoud zzhar', 'myamoid zaarr', 'amhwwdh shhru'}, {'mahmott zzhar', 'amhnuot xhaah', 'mwanoad zywer', 'mymohud zihrr'}, {'amhwwdy zwayh', 'mhamuyd zehrh', 'maumoyd zahhr', 'mahwmhd zzaar'}, {'mahmewd zzhar', 'muhmhwt zyare', 'amhemih qayra', 'mahamut zoear'}, {'mihomhd zaryo', 'maymmud zyhar', 'omwwodu yyhra', 'myamhud zrhaa'}, {'mahmoit zahhr', 'wwymedu chior', 'mhomhud zwear', 'myamwad zohri'}, {'wmwmuow jaurh', 'manowhd zayri', 'muhmhhd zaara', 'maymiud zyhar'}, {'mamodwu zohra', 'muhmhhd zjhwr', 'wwwomad caahw', 'muhmowd zhhar'}, {'amhyhyu huyyr', 'mahwmud zahhr', 'mahnydu zerai', 'muhnwud zqoar'}, {'myamuwd zoywr', 'mmomoud zyhar', 'amhnwdu yhaah', 'mawmhut zwaar'}, {'myamout zxaar', 'mhhomhd zuuhr', 'ayhwwdu azhiy', 'maamowd zwhar'}, {'maomoyd zzhar', 'nwmuody sohyw', 'mhumwud zwear', 'miyomud zkaer'}, {'myhomed zoiwr', 'mmamoud zyhar', 'maymwhd zaair', 'whanawd hxaur'}, {'maymoud zhhar', 'momhoud zhcar', 'mymweud zzaru', 'whanoda wohra'}, {'mhhoumd zaarh', 'yhawodu uzhyy', 'mwymoud zyhar', 'meyomud zewyr'}, {'hwymedu azwwr', 'mohmout zahhr', 'mohomut zaorw', 'myhmowt zeahr'}, {'mihomyd zraae', 'mahmmmd zzhar', 'mhhumud zaiwr', 'amhyhdu waahy'}, {'amhwwdy azhru', 'miwomut zwawr', 'mamowut zgaar', 'mahmoyt zwhar'}, {'amwmihu azhry', 'mahwmud zzhar', 'mwaomad zehri', 'muhmwhd zihrr'}, {'muyumod ziohr', 'mohmout zwhar', 'mhomyud zaewr', 'amhwwda hxaur'}, {'mhhimad zuyyr', 'mahamad zjoar', 'amwnode wyayr', 'mahmoti zzhar'}, {'mhanawy azhww', 'myhmidu zhyor', 'muhnyud zaiyr', 'myymoud zhhar'}, {'whawuot qhhra', 'mhamyhd zhwir', 'mihmhod zaeer', 'mahmmdd zzhar'}, {'mahonut zahre', 'mahmtui zzhar', 'meanyud zawro', 'whamady ushra'}, {'mahnydo zzyyr', 'amwomih gyohr', 'mhamoyd zxyar', 'mmymoud zwhar'}, {'myamoid zywar', 'mwhimad zyaru', 'hymuodw jaahw', 'mahymud zzhar'}, {'mohmout zwhar', 'mahamdu zyahr', 'hhamuot waahy', 'mhhomid ziewr'}, {'mahmwdd zwhar', 'mawnyad zeiyr', 'amymhdh yayra', 'myhmewd zeyar'}, {'mahmowt zwhar', 'mihmyit zarua', 'myhnowd zkhur', 'whinodu azwah'}, {'amhyydu ashra', 'mahomdy zqyar', 'mmamoud zyhar', 'mhimyyd zwiur'}, {'mymmoud zyhar', 'myhmoit zaarw', 'mhamyhd zayru', 'nuymuot acahh'}, {'maymoyd zahhr', 'whamady azhwa', 'mamyyud zaour', 'meamyad zohro'}, {'mahmduw zyhar', 'amwwodu kyaor', 'moyneud zeaur', 'mahimid zayir'}, {'mehomhd zraaw', 'mamouyd zahhr', 'wyamidu jhhra', 'mhemoyd zchyr'}, {'mawmhdu zayra', 'mehemud zcaar', 'mahmdua zahhr', 'whwnodu ghaaw'}, {'mawmhed zxiar', 'maumoyd zwhar', 'amhnhdu xaury', 'myhmedu zwrae'}, {'amhwwwu hwhra', 'meahumd zzaur', 'miwmhud zeear', 'maamoyd zwhar'}, {'mahmtuu zyhar', 'yhayodu azywr', 'muhmhhd zwcar', 'muhomad zewir'}, {'mhomyud zarao', 'mawmout zyhar', 'awhomih xhaaw', 'myamihd zwiwr'}, {'amhomih syhyw', 'maymood zahhr', 'muyumod zaorw', 'mamhhud zxhor'}, {'mawmhhd zgaar', 'mahmdua zyhar', 'myhomid zariy', 'hhemidu quhuh'}, {'mwmydyu yyhra', 'muhnowt zerha', 'mihmyut zwgar', 'mmimoud zahhr'}, {'mhemoyd zxahr', 'mahmotu zzhar', 'myhomid zuaru', 'wmmaiwd gyhra'}, {'amymhda cuyyr', 'mahumed zqahr', 'mihmyit zzuyr', 'mahmotw zyhar'}, {'mywmoud zahhr', 'amymhdi jihra', 'mhomwud zewar', 'maonudy zuyyr'}, {'mahomwd zkyar', 'myomodu zuywr', 'mahmmwd zyhar', 'whomadu wxaur'}, {'mhamayd ziarw', 'mahnoot zkiar', 'miymoud zwhar', 'whamaot gyara'}, {'myhmwut zjhwr', 'mohmyot zueor', 'mahmydd zyhar', 'mhanahh chhru'}, {'mahimda zhwir', 'whanidu kehra', 'mahmdue zwhar', 'mihmhad zauer'}, {'mewomud zoare', 'amhwadu azwur', 'mahmyyd zhhar', 'muhmhhd zwqar'}, {'muhmhyd zuahr', 'whamawu shaah', 'mahmaut zahhr', 'mayomad zurah'}, {'mamyhud zoahr', 'miymoud zahhr', 'amymhde yyyur', 'maynuod zaerh'}, {'amhwuoy ajhra', 'maumout zzhar', 'mihnowd zawer', 'mawomut zwior'}, {'miamwud zrhao', 'mahmddd zzhar', 'nhomhdu cyhoy', 'mwumuod zuywr'}, {'whamuat xyyur', 'mayomut zarwe', 'mahmote zhhar', 'mahmhde zaarr'}, {'maymoed zhhar', 'amhohih aghyy', 'meamhdu zsara', 'myymwud zawwr'}, {'aywnodu ziayh', 'maomhdy zower', 'mamoudw zzhar', 'myhmowt zohrr'}, {'mahmduu zahhr', 'mhumout zhqar', 'mohmwot zsayr', 'amhomiw wzyra'}, {'wwamadu yeayr', 'mahwmud zahhr', 'mamhodu zzarw', 'maynoad zjher'}, {'mhaomyd zuhro', 'mahmwht zoiar', 'yewmuot qhauh', 'maemowd zahhr'}, {'mymmoud zhhar', 'mehamed zuuor', 'amhomat ashra', 'miamyud zcuar'}, {'mayomod zxhor', 'myhonid zuior', 'amymidu shaaw', 'mahwmod zzhar'}, {'maynohd zaray', 'maomoyd zhhar', 'amhamey gwhra', 'mihamut zyyir'}, {'whemidu jyaur', 'momhuud zyaur', 'maymood zzhar', 'mahmwat zgyar'}, {'mymoudh zahro', 'mwyemud zeoyr', 'amhwwdu cawhh', 'mahmyyd zyhar'}, {'momhoud zhqar', 'amyomih gyhra', 'mahnydu zyohr', 'mwymoud zahhr'}, {'myhomdu zaree', 'amwmidh qhauh', 'maamoyd zhhar', 'myhmyod zrhae'}, {'mymyeud zywur', 'miwmoud zyhar', 'mahmhtu zgoar', 'nhawhdu shaaw'}, {'mahumwd zaaer', 'mihhmut zaura', 'amhomhy chuor', 'maymuud zhhar'}, {'amymuot aghyy', 'mhimout zzahr', 'mahmyyd zwhar', 'maymwht zarea'}, {'mehmoyd zahhr', 'emwwodu kihra', 'myhmedi zewyr', 'myhmwid zyear'}, {'mhamwyd zyaro', 'mihimud zkhwr', 'maomowd zyhar', 'amhwuoy qhaay'}, {'mahmwyd zwhar', 'memahud zeyyr', 'mahmhit zoaar', 'wwamidu siyay'}, {'mahoamd zaiwr', 'mihomyt zaorw', 'mohmoyd zyhar', 'omhomih ciahh'}, {'maonudy zcaur', 'mamwhud zhqar', 'wmhomey jaahw', 'mahmmut zahhr'}, {'mahmwyd zhhar', 'mymhuud zzior', 'wuwmidu zeayh', 'mahoimd zzear'}, {'maymoad zahhr', 'ymwnodu qyyur', 'muhmwht zywer', 'mohimud zyyar'}, {'amhomhh xuaur', 'maamout zzhar', 'mahnwad zairr', 'mihomdu zarue'}, {'mhamhid zzaer', 'mimowud zjoar', 'amhonih xhyir', 'mowmoud zyhar'}, {'amhwmda ksaur', 'mahmtui zahhr', 'maymyid zkyar', 'myamied zware'}, {'mihmwad zauyr', 'whanotu kwhrw', 'maamout zahhr', 'mimwuwd zzeir'}, {'amymuoy jaury', 'mhymoyd zxhhr', 'mihoumt zoary', 'mahmtou zahhr'}, {'mwamood zoaar', 'mahmiwd zahhr', 'mamewad zaroh', 'amymhdh jwhrw'}, {'mwumodu ziaro', 'amhwuot jeaur', 'maymmud zzhar', 'mawmhhd zehyr'}, {'miwmoud zhhar', 'whimuot huhra', 'mamyiud zarae', 'mhymuod zawra'}, {'whunodu gyara', 'maynwud zarah', 'maonudy zueyr', 'maymeud zyhar'}, {'mamwuyd zrhah', 'amhywdu sihra', 'mahmody zyhar', 'mwohmid zeeir'}, {'maymuud zzhar', 'mahnwed zrhau', 'amwmidi cyhoy', 'mihumdo zzwyr'}, {'myhmyut ziiar', 'amwmido qwhrw', 'meamyod zayru', 'miymoud zhhar'}, {'mwynodu zuihr', 'amhamey azyra', 'mamoudw zyhar', 'mehumud zsear'}, {'mahmoot zzhar', 'yhamadu hohra', 'mwhimad zuaru', 'mhomwud zaywr'}, {'amhomiw xhyhr', 'mahmduw zwhar', 'myhmhad zgaar', 'mymhuud zhwor'}, {'mahomet zyiyr', 'mahamhd zcear', 'amhomhh cihra', 'mahmuwd zhhar'}, {'mahmmmd zahhr', 'miyumud zuair', 'mawmyed zehrr', 'ymhomih juhra'}, {'mimhuwd zohry', 'imymhdu cwaor', 'miymoud zwhar', 'mahamut zioar'}, {'mmahmod zyhar', 'mowomad zyawr', 'mhanaww ghaay', 'mamheud zgaar'}, {'maonudy zzara', 'mahmwit zaoir', 'mahmtuo zahhr', 'whamadi jyohr'}, {'mamwiud zchyr', 'muymyod zyyyr', 'mahmduo zzhar', 'amymhdu cheor'}, {'mamyhud zwiar', 'amhwwwu ajhyy', 'mymweud zzarw', 'muwmoud zhhar'}, {'myhmawd zwqar', 'mahmmut zwhar', 'amhyhhu kuyyr', 'mawomhd zeari'}, {'mihmhut ziear', 'mymweud zaroh', 'imhwwdu kwary', 'meymoud zahhr'}, {'mahmyot zchyr', 'wmmaowt yuhhh', 'mahmddd zyhar', 'mhaomyd zaoro'}, {'hhamwdu chaaw', 'mihmwid zzyar', 'mahmuut zyhar', 'myomodu zoare'}, {'ymmaotu juhra', 'mammowd zwhar', 'mehemud ziuar', 'mhamyut zwair'}, {'whamwdu azhew', 'muhmowd zyhar', 'mihmhut zcuar', 'mihmwit zwary'}, {'muwnodu zoara', 'mahnwhd zwwar', 'nhumhdu azheh', 'miymoud zhhar'}, {'mihmoyd zhhar', 'mhhomud zaair', 'amhwwdo sayra', 'myamwdu zuier'}, {'mahmwdd zyhar', 'mywmyud zguar', 'maymhdu zuayr', 'wmmaodo ksaur'}, {'mahmyyd zzhar', 'mhamiyd zuuur', 'mawmhad zaraw', 'wewmuot yuayr'}, {'mhhomdu zyayr', 'mamhoyd zahrw', 'amwmuow awhyy', 'mawmout zhhar'}, {'muymoud zyhar', 'mohmhot zaryo', 'nhamwdu saahh', 'mumowud zeaar'}, {'myhomid zuwer', 'mahmoto zyhar', 'mmeodiu qehra', 'myamood zaurr'}, {'mahnotu zahru', 'amhnydu azhwa', 'mahmowd zwhar', 'mohomad zyary'}, {'myamydu zoawr', 'amhomhw azewr', 'mahmduw zhhar', 'muhmhid zqiar'}, {'mammout zyhar', 'mohmwod zohrr', 'mhamyid zaoro', 'hwwomad xehoy'}, {'amhwmda siyyr', 'mahmayd zahhr', 'mayonud zwuar', 'muhonid zyraw'}, {'myhmhdu zawri', 'nhamydu coaer', 'maymiud zyhar', 'mahmwht zxear'}, {'meamhed zaryi', 'emhyhdu kuyyr', 'maomout zyhar', 'mahimhd zaorr'}, {'mamhudy zkhur', 'mamouyd zahhr', 'mimyuwd zouir', 'muwyidu gaahw'}, {'mahonid zsahr', 'yhamhdu yuhih', 'mhhomwd zehri', 'mahmoot zwhar'}, {'mamwiud zjhyr', 'wmwmuoy aqhyy', 'maamoyd zahhr', 'mhamyhd zearw'}, {'mahmewd zwhar', 'meamyhd zaroi', 'amhyuow azhey', 'mhhamud zaawr'}, {'mahmtui zwhar', 'amwnidu xaira', 'maymwad zohwr', 'miwomad zwaor'}, {'mehomwd zerau', 'mymmoud zahhr', 'yuwmidu gohra', 'mahonid ziuar'}, {'amhyhdw yayrh', 'mehamed zeaer', 'mawmowd zahhr', 'mehmhad zoyar'}, {'hwyomdu kohra', 'muhmout zahhr', 'mhamwad ziuor', 'mayomod zwaar'}, {'moymoud zwhar', 'mhamyed zaroi', 'myamiud zahrh', 'umymhdu gohra'}, {'mayimad zwihr', 'mhumwud zjhwr', 'amhwwdy xaury', 'mahymod zahhr'}, {'maymoad zyhar', 'whamidu azhyh', 'meynaud zaure', 'mwhumud zqhwr'}, {'amhnadu azhwy', 'mhamhod zyoyr', 'maymodd zzhar', 'miwmhud zswar'}, {'mahmmwd zahhr', 'mhhomut zaree', 'hhanodu azwur', 'mawmwed zkahr'}, {'emymhdu qihuh', 'mihhmut zraaw', 'manouwd zqoar', 'mahmduy zzhar'}, {'wmmaodo yayra', 'mohmhot zyiur', 'maymiud zahhr', 'mahnaut zxear'}, {'meamhed zwarw', 'muymoud zzhar', 'myyyedu qhaah', 'mahumut zeear'}, {'mamihud zkher', 'mwmuhot qhauh', 'mohomht zwehr', 'maemout zwhar'}, {'mayemud zwoar', 'amhwwda ayhyy', 'mahmayd zyhar', 'mehomed ziawr'}, {'whumuot jiaur', 'mihomat zyiwr', 'muhmwhd zshyr', 'mahmmdd zzhar'}, {'manuody zwyyr', 'mohmhed zaehr', 'mwmuhot quhra', 'mahmwyd zzhar'}, {'nuymuot cayra', 'myhmuot zraae', 'mehmowd zahhr', 'mwamowd zcher'}, {'mmahmud zzhar', 'mahnoat zrhaw', 'mwumodu zeyer', 'nhemhdu ghhra'}, {'muhmhid zohwr', 'amwmhdu jwaur', 'maimowd zyhar', 'meamhyd zarew'}, {'muhmhid zxhyr', 'mayniid zoeir', 'yhamhdu gyohr', 'mahmtuo zahhr'}, {'miwmhyd zwaur', 'nhamydu ahhyy', 'mamhiud zcoar', 'maumoyd zzhar'}, {'nhanhdu hzhra', 'mehmhut zaoir', 'mehomhd zoior', 'mmumoud zzhar'}, {'emwwodu wjaur', 'mihmdyu zuhry', 'maemout zhhar', 'myhmeyd zwzar'}, {'mahmtui zwhar', 'mihmwad zrhay', 'mihomdu zyyur', 'whomuot ezhyy'}, {'amymhdu whhru', 'mowneud zarua', 'mmamoud zyhar', 'mahnoot zjhur'}, {'mwamhud zshor', 'mahwmud zwhar', 'mamuyod zouur', 'whymuot khaay'}, {'mohmhht zyyir', 'mmanoud zxaar', 'mmemoud zwhar', 'amwnodo caahy'}, {'whamuoh ashyy', 'mawmyod zquar', 'muwnodu zewor', 'mahmdui zahhr'}, {'amhyhwu ywhra', 'mayomwd zzuhr', 'mahmtuo zhhar', 'mawnout zhqar'}, {'maimout zwhar', 'muhmhid zarhr', 'hmhyhdu gaahy', 'mhamydu zearh'}, {'maymood zahhr', 'mahmhyt zwuar', 'amymhdy joaer', 'mumohed zeuir'}, {'mamohut zcuar', 'amyomih azhww', 'maymoed zyhar', 'mewmhod zehru'}, {'mahmhat zxhhr', 'mhhomed ziihr', 'mahmotu zwhar', 'yewmuot jaurh'}, {'myamoyd zkhur', 'moynoad zeara', 'mahmtuh zzhar', 'amwmadu hwhra'}, {'mahmiut zhhar', 'mihmhdo zyywr', 'mamowdh zxhhr', 'wmwmuoy azhra'}, {'whemidu yaahy', 'mmemoud zhhar', 'mahnyyd zqhir', 'mamyodu zyiwr'}, {'mhymout zrhay', 'mahmtuh zzhar', 'amhyedu sohra', 'mihomht zieir'}, {'mamouyd zyhar', 'amhwuoh sehyw', 'muhomed zcaur', 'myhmiut zehyr'}, {'yyymedu guhra', 'momhuud zuhro', 'mahmtou zahhr', 'mahomot zzaar'}, {'amyomih hyyur', 'myhmewd zxhhr', 'maomhdy zioir', 'maimoyd zahhr'}, {'mawmhed zchwr', 'nwamhdu aqhyy', 'momahud zzawr', 'mewmoud zwhar'}, {'mahmoty zahhr', 'mawmydh zuare', 'muwyidu azewr', 'mhamwud zchwr'}, {'maynuod zyawr', 'amhomht yoaer', 'maymodd zahhr', 'mawmwhd zjhur'}, {'mhamhud zqiar', 'mihmwht zawrw', 'amwnody qwyaw', 'mahmout zyhar'}, {'mmemoud zhhar', 'mihmwit zwior', 'awhyhdu ezhra', 'mhhymud zwuar'}, {'myhmhdu zwary', 'maymwut zghur', 'amwyhdu siywr', 'mahmmdd zwhar'}, {'mahmwet zcaar', 'mhanahh zoaew', 'mmahmud zahhr', 'mhamoht zyraw'}, {'miymhud zayor', 'myhomhd zwuwr', 'mohmowd zahhr', 'nhanodu azhuy'}, {'mahmtua zhhar', 'mahomot zaaer', 'mehomut zhwor', 'amhimey yhhru'}, {'muhomwd zqaur', 'nuwmidu yaura', 'manouwd zsher', 'mammowd zzhar'}, {'myhomwd ziraa', 'amhnhdu kiaor', 'mhhimud zxuar', 'mahmmwd zwhar'}, {'muhomid zewer', 'mahnoet zhwar', 'amymydu azhiw', 'mahmewd zahhr'}, {'mahmtue zahhr', 'mamohhd zghur', 'anhomey jhaih', 'mhomoht zzior'}, {'mahmdou zhhar', 'mahnhhd zhgar', 'emhwwdu xaurw', 'mihomhd zwehr'}, {'amhamih ozhyy', 'mihnwyd zwuhr', 'mhimowd zaorr', 'mahmott zyhar'}, {'mahhmdu ziwar', 'whanedu chhra', 'miymhyd zzoyr', 'muhmoyd zyhar'}, {'mmemoud zhhar', 'memhoud zjear', 'amwnodi qyhuh', 'mwyomud ziari'}, {'myhmotu zyear', 'hhanahd xaurh', 'mamouyd zhhar', 'mynoeud zywer'}, {'maemoyd zyhar', 'momohud zcahr', 'amhwuot khhra', 'mhamowt zaero'}, {'myhomyd zeara', 'amhnydu quyyr', 'mahmduw zzhar', 'myhmiwd zjwar'}, {'amymhdy jwhra', 'mahwmud zahhr', 'myhmoda zahri', 'mihmhdu zywir'}, {'mohmowd zwhar', 'mawomut zowyr', 'maymyed zgahr', 'whamuoh zyayh'}, {'mihmoyd zhhar', 'awhwwdu azyir', 'miamwud zyuar', 'mwamied zoeir'}, {'moymwud zrhay', 'whamuat yayrh', 'mahmoto zzhar', 'mhamwad zzeyr'}, {'muhmout zwhar', 'mohomod zaorr', 'myhnuod zwaor', 'whayadu jaahw'}, {'mahmody zwhar', 'mamyyud zuear', 'amhwwyu yuhha', 'meamhut zuour'}, {'mahnhhd zaayr', 'maemowd zhhar', 'myamiad zyuyr', 'anwnodu qyohr'}, {'hmwmidu sawyw', 'mehmoyd zhhar', 'mahhmid zqhur', 'meamyad zcayr'}, {'yamydyu whaah', 'maymeud zzhar', 'mihmdhu zoohr', 'mawmyut zaaur'}, {'myamwud zaewr', 'myhemdu zuuwr', 'maomout zyhar', 'amhwmda yuhra'}, {'mawnwad zwaru', 'mymmoud zhhar', 'mamyohd zehrr', 'wmymhdu ushra'}, {'mawmhdu zjayr', 'mahmtuy zwhar', 'amhoemy kwhrw', 'myhnood zaier'}, {'mahmoti zwhar', 'umymuot caohh', 'memwoud zahrw', 'mihoumt zawro'}, {'whimuot azyor', 'maymowd zahhr', 'mayneud zjwar', 'meamyhd zuhrh'}, {'mahimdu ziaar', 'amhemih jhaiw', 'mahymud zwhar', 'muhomid zerah'}, {'maymodd zhhar', 'mumhuod ziehr', 'whanody ayhra', 'mymoudh zxaar'}, {'myymwod zwyir', 'myhmwed zzear', 'yhamuoy caehh', 'maymoyd zwhar'}, {'mammowd zahhr', 'yhamadu azhoy', 'myhmedi zaira', 'mahmhda zeiar'}, {'nhymhdu cihra', 'myhomhd zywur', 'mahmtuw zahhr', 'mayomud zwsar'}, {'amhamey hehra', 'muyumod zuarh', 'mehmwed zeear', 'muhmout zzhar'}, {'maymoad zyhar', 'amhomiw jaahh', 'muhomwd zoeer', 'mhymwud zqhhr'}, {'mohomed zuour', 'whanoda ayzra', 'mihhmud zkaar', 'mowmoud zwhar'}, {'mwamyud zwqar', 'mahmowt zzhar', 'muymyhd zuyyr', 'ymmaoot yuhhh'}, {'wmwmuoy chuor', 'mahmtue zhhar', 'mwomudy zzwwr', 'momhoud zxhur'}, {'myamuhd zuhri', 'mhamout zkher', 'mahmdua zwhar', 'hhamuow suyyr'}, {'mywomad zehry', 'wyamidu siyor', 'mahnwut zauor', 'maymout zyhar'}, {'muhmhad zyahr', 'wyanodu koaer', 'manohhd zariw', 'mahmtuw zzhar'}, {'maymwid zrhau', 'muymoud zzhar', 'mwhomwd zewur', 'imhomey kaahy'}, {'myhmyyd zehwr', 'maumowd zzhar', 'whanhdu azwor', 'mewomad zzaor'}, {'mahomdh zaoir', 'nhemidu chaay', 'mihonid zariy', 'mahymod zyhar'}, {'mimhuud zuoyr', 'amhamih yxaur', 'mahmhyt zchyr', 'mawmout zzhar'}, {'mahmoit zwhar', 'mihhmut zehrw', 'mawmwod zaaur', 'amhnwht azhry'}, {'mahumad zauir', 'myhomyd zeihr', 'amhyhdu aqhuh', 'mahmtuo zzhar'}, {'mihmwht zewir', 'omhomey azhoh', 'mawmout zahhr', 'mihnout zgyar'}, {'myamwid zuhrh', 'mahmoti zwhar', 'maynwud zyiar', 'whanhdu wjaur'}, {'amhyhhu cwaor', 'maymaud zhhar', 'mahonhd zzaar', 'momhuod zuara'}, {'mamhout zaary', 'mohmoyd zwhar', 'amwmidy akhyy', 'mamwodw zwwwr'}, {'mewmoud zyhar', 'mehmhod zkaar', 'muhmhdu zzeyr', 'amyyhdu yoayr'}, {'mamhydu zyawr', 'mmahmod zzhar', 'hmhomey jyhra', 'mhimwud zcher'}, {'mahmtuh zhhar', 'amhwwdw ajhra', 'mamhiud zaeur', 'mihnoit zzwor'}, {'mhanyud zihri', 'mehmyhd zgaar', 'meymoud zzhar', 'wmmaodo wihra'}, {'mahmmdd zhhar', 'mahnwdu zaura', 'mewodiu yuyyr', 'mehmhed zrhae'}, {'omhomih chahh', 'moynoad zaryi', 'mahmwht zshyr', 'mahmtuo zzhar'}, {'mahomhd zahry', 'mohnoat zaroh', 'mwymoud zzhar', 'amhnwdu saahh'}, {'mhymyud zkyar', 'mihmoyd zyhar', 'myamiod zyayr', 'hhamydu guyyr'}, {'ayhyhdu cihra', 'maomowd zahhr', 'meamyhd zsayr', 'mahmhdu zrhao'}, {'mhimowd zrhai', 'mwhomed zyary', 'mahmduh zyhar', 'wmhomih azhhh'}, {'whamhdu xheor', 'mahhmut zhjar', 'mmimoud zhhar', 'mhaomdu zherh'}, {'myhmoda zaerr', 'wyamuot wwhrw', 'mahmoto zhhar', 'myhmedh zwyor'}, {'whamadh qehra', 'mahmewd zwhar', 'mumhuud zyair', 'mhymoed zihwr'}, {'mamouwd zzhar', 'miwmhwd zyiwr', 'whanhdu wwary', 'mahomdu zcyar'}, {'whimuot yyhra', 'mahmydd zyhar', 'mihamut zwuwr', 'mahnhut zeahr'}, {'mwymodh zzair', 'maymwod zwkar', 'mahmmwd zyhar', 'whamadi zzayh'}, {'amymhda zuyyy', 'mahmmmd zyhar', 'myamyud zaurr', 'mamyhdu zhyor'}, {'mihmwid zzuar', 'mahmduo zyhar', 'mayomid zeyir', 'amymido xaira'}, {'mmomoud zyhar', 'mohomod zuear', 'memhuud zearw', 'amhwuot xoaer'}, {'maymood zahhr', 'amwmiyu qwwaw', 'mawomdu zarea', 'mahmhtu zsaar'}, {'amhwwdi gwhrw', 'mawmout zahhr', 'myynood zouwr', 'mahimyd zzaar'}, {'muhmhhd zaara', 'mmahmud zwhar', 'amhyhdi xuyyr', 'myamiid zioir'}, {'mmymoud zhhar', 'amymhdh azhwa', 'mahomyd zoiar', 'mwamhwd zhyhr'}, {'mihomat zaroh', 'mihmwod zqhir', 'mmaodae ksaur', 'miymoud zwhar'}, {'muhmhed zqear', 'mhamywd zwuor', 'amymadu cheor', 'maamowd zwhar'}, {'mmumoud zyhar', 'mayimud zsiar', 'amhomhw cohra', 'maohumd zyiir'}, {'myamuid zxaur', 'mwhumud zrhae', 'muhmoyd zzhar', 'amhohey ywary'}, {'mamowod zarau', 'mahmudw zzhar', 'hwwomad yyyur', 'mohmhht zuyur'}, {'wwwomad yzayh', 'mawmoyd zhhar', 'mawomwd zioir', 'myhmayd zwqar'}, {'mahmota zzhar', 'mwamyud zaeur', 'weamhdu xxaur', 'meamhut zaurh'}, {'whamhdu yuhoh', 'mmamoud zwhar', 'mhamyud zihwr', 'mhamody zxayr'}, {'muhmoyd zhhar', 'muhomud zwjar', 'mhamyad zehre', 'hmhomey aqhuh'}, {'maymyed zyoar', 'mhymuod zxayr', 'myyyedu goaer', 'muhmoyd zyhar'}, {'mahymhd zrhau', 'whanwdu qwary', 'muymyod zihra', 'mammout zzhar'}, {'emymhdu cwary', 'mhhomyd zkawr', 'mahwmhd zkhir', 'mahmotw zyhar'}, {'mamowod zarau', 'mahmtui zhhar', 'amwnodi sihra', 'mwyneud zaurw'}, {'mahmote zwhar', 'yhamwdu choor', 'muhomdu zewyr', 'maymyod zshur'}, {'awwmidu haahh', 'mayomdu zewur', 'maymmud zhhar', 'myhmoyt zjoar'}, {'ymmaoit akhyy', 'mhhamud zohrr', 'mahmota zyhar', 'myhmydu zaroy'}, {'hmhomih qyyur', 'myamwdu ziwer', 'momohud zayrr', 'maymout zhhar'}, {'mahmmyd zzhar', 'mohmhed zyoar', 'nhamedu sohra', 'mhamwyd zwarw'}, {'memhoud zxear', 'mihomwt zawru', 'maimoyd zwhar', 'nhamhdi saahh'}, {'amhyhdi awhyy', 'mahmtuh zahhr', 'mamyaud zayrr', 'muhumyd zowor'}, {'myanoud zxahr', 'mahmtue zyhar', 'whimuot wwary', 'mehomyd zeare'}, {'mahmtuh zzhar', 'mawmhwt zeeor', 'mawmyid zkhor', 'hmwmidu chior'}, {'emwnodu ayhyy', 'mohmhad zxyar', 'mamhuut zyiur', 'maamoyd zzhar'}, {'mahmeut zyhar', 'mamuwod zewur', 'whamuit hhhru', 'myamhud zahru'}, {'miwmoud zahhr', 'whamahu yuhha', 'mhhomid zwuir', 'muhnoyd zwgar'}, {'mwwomay cohra', 'miwmoud zzhar', 'mewmwod zearo', 'mahnwut zxoar'}, {'imwwodu xuaur', 'mawmyid zxahr', 'muhomhd zwoir', 'maymaud zahhr'}, {'mahmoyt zahhr', 'whamuto qehuh', 'myamwid ziair', 'muhmwad zaaru'}, {'mahumwd zaawr', 'maumout zwhar', 'muhomid zwiyr', 'whanodi wwary'}, {'mohomod zziar', 'amwmido ghaaw', 'mohomad zhwhr', 'mmahmod zhhar'}, {'momhuud zzehr', 'myhnout zoaar', 'maomout zzhar', 'amhyhdw khaaw'}, {'wyanodu wehra', 'mahmwwd zzhar', 'mihonud zeear', 'maaomhd zarrw'}, {'maynwud zoear', 'whamhot kohra', 'mamewad zaero', 'maamowd zahhr'}, {'maymwad zaari', 'mahmoyd zahhr', 'mhanout zeoyr', 'amhwuow swary'}, {'mahmydh zarao', 'maimowd zwhar', 'myamuwd zoarw', 'amhwwde ghhra'}, {'mhamdou zoayr', 'mohomud zaerr', 'mahmtui zyhar', 'whamuoy cauhh'}, {'mhaomut zaora', 'mahmduw zhhar', 'mayoumd zshur', 'nhawhdu ywary'}, {'myhmwut zjyar', 'myomudy zwary', 'newmuot yuhoh', 'mahymod zahhr'}, {'mhamotu zeowr', 'muymoud zzhar', 'amhomht gyohr', 'muhmhwd zaior'}, {'neamhdu cywor', 'mahnoet zghwr', 'moymoud zzhar', 'mawomda zayrw'}, {'mamoyhd zuwar', 'muwwidu chahh', 'mahnydu zuhra', 'maymoud zwhar'}, {'yhanawd chior', 'mhamuot zueyr', 'mamhuyd zkhur', 'mahmtou zyhar'}, {'whamadh yyayr', 'mehmoyd zyhar', 'mihomht zarwy', 'mahymhd zuoar'}, {'mhamaut zuara', 'mahuumd zwzar', 'mmahmud zwhar', 'amhyhdw kyohr'}, {'myamwod zyaur', 'maynoed zoahr', 'amymhdw azhew', 'miymoud zhhar'}, {'mhamwhd zoyir', 'mewodiu ghhru', 'muhmoyd zzhar', 'myhmhed zrhah'}, {'myhmwut zaoer', 'mahmdua zyhar', 'myomuyd zuuir', 'hhamydu gyara'}, {'mahmeyd zahhr', 'mawomut zuiyr', 'ymmaaad jwaur', 'mahmhdu zaarr'}, {'mahmtui zwhar', 'amhomih cuahh', 'mhhomwd zyoyr', 'mwamout zkahr'}, {'mmimoud zzhar', 'yhamuot xaahw', 'mamwudy zxhur', 'myymhod zuoyr'}, {'mhamwdu zearh', 'mamyaud zauor', 'mahmoto zahhr', 'amhwwhu hjaur'}, {'whanodu ghaah', 'mahmmdd zhhar', 'mymhuwd zywur', 'maymwed zqahr'}, {'amhwwdi caawh', 'myamwed ziuyr', 'mihnowd zyahr', 'mahmoyd zzhar'}, {'meyomud zyywr', 'whamwdu wuhra', 'mamayud zsyar', 'maamout zahhr'}, {'mahumhd zjhwr', 'mahmdue zyhar', 'myhmede zcayr', 'hhamwdu shaaw'}, {'maynohd zrhao', 'hhamuoh yuwah', 'mawnydu zihri', 'mahmmdd zahhr'}, {'wmmaehd axhyy', 'mwhomyd ziyyr', 'mahmwwd zzhar', 'myamoad zjuar'}, {'mihomed zarwh', 'muywuot azhuh', 'mahonad zarah', 'mmemoud zyhar'}, {'muymyut zwoer', 'awhyhdu xaahy', 'mahmuyd zahhr', 'myhmhod zohrr'}, {'mhymoyd zarha', 'manohhd zuhre', 'maimowd zyhar', 'whamawu cwhrw'}, {'mahnoet zayyr', 'amhowey qyohr', 'mowmoud zhhar', 'mohmhdu zwier'}, {'mwhumud zkear', 'myhmuot zearh', 'mahmoto zzhar', 'hhamhdu xhywr'}, {'muhmowd zyhar', 'mewmyod zuwer', 'mamihud zhyar', 'ymmaotu siyra'}, {'myhmidu zouir', 'amymhdo qaahh', 'maymoed zyhar', 'mawmwed zaray'}, {'mamhuod zeyar', 'mhamuot zwoyr', 'amwnoyu ayhyy', 'mihmoyd zwhar'}, {'mwamodu zyrae', 'mmaodae hayra', 'mahmdua zahhr', 'mhemoyd zqyar'}, {'nwwomad syohr', 'mymoudh zcuar', 'mahmdui zahhr', 'mwemuod ziare'}, {'mewmoud zyhar', 'mhymoed zshor', 'myhmwht zayrh', 'amwnohu yayrh'}, {'mahmduu zhhar', 'mahonut zshhr', 'mehomhd zauro', 'whamado azyer'}, {'yhamidu ywayr', 'mahymod zzhar', 'mahnyyd zeuar', 'mehomad zueyr'}, {'mahnwdu zawri', 'imhomih azhuh', 'mahmduy zzhar', 'mhimhud zzwar'}, {'mamhyud zshur', 'nwmuody kehra', 'mewmoud zhhar', 'mihmyit zwyer'}, {'mahmoet zzhar', 'mahomdw zaowr', 'memhuod zsaur', 'whamiot kawra'}, {'mahnoit zwxar', 'mymhuud zaoru', 'whamedu koaer', 'mahmodw zahhr'}, {'ymmaaad xehro', 'mmamhud zeoar', 'myamwwd zwehr', 'mmimoud zahhr'}, {'whamadu azewr', 'mahmduo zzhar', 'mayomdu zzara', 'myhmued zhxar'}, {'mahmyyd zzhar', 'whawodu kaahw', 'mayomwd zaera', 'mohmyed zwxar'}, {'mahwmod zahhr', 'muhumyd zyiir', 'mihimud zghur', 'wmmaiwd yayry'}, {'myhmedh zearh', 'mahmduo zyhar', 'muhnwud zjyar', 'amwnead whaaw'}, {'mhamhid zwuer', 'mamyhud zooar', 'amynhdu johra', 'mahmdui zyhar'}, {'whamady xuaur', 'mahomdh zwahr', 'muhomdu zzeur', 'mahwmod zzhar'}, {'myhomed zewir', 'muhmowd zahhr', 'mamohod zrhao', 'hmmaodu kohra'}, {'mahmowd zzhar', 'amwmido zuyyw', 'mihmhyt zwyur', 'muwmhud zowar'}, {'mahmoet zzhar', 'mihhmud zshhr', 'myomudh zyyer', 'nhumhdu xehoh'}, {'myamyud zchyr', 'mahmotw zzhar', 'mayomad zeoyr', 'amhwwdo wzayh'}, {'nhamuot xaurh', 'manohud zaiir', 'mahmoti zhhar', 'mhamhod zwhrh'}, {'mahmeyd zahhr', 'whwnodu qhaay', 'mahemyd zouar', 'mhamhyd zyari'}, {'mahnyhd zaair', 'myohmid zayry', 'hmwmidu ajhra', 'mohmoyd zahhr'}, {'mawmhwd zshur', 'nhamhdo coahh', 'myumuod ziuor', 'mahmddd zahhr'}, {'miwmoud zahhr', 'mahimda zyiur', 'mayumud zwahr', 'whynodu azyra'}, {'manowhd zooer', 'mahmduw zwhar', 'meymwud zzwar', 'imhyhdu qyohr'}, {'mayomhd zerah', 'muhmowd zyhar', 'mhimhud zaywr', 'amhomat cywor'}, {'mahmddd zwhar', 'mimyuwd zeair', 'miwmhud zuoar', 'whamatu qwhuh'}, {'mahmhet zsoar', 'ywymedu awhra', 'moyomud zwyer', 'mahmtuu zhhar'}, {'miamhud zaara', 'mimyuwd zeiir', 'wmwmuoy ywayr', 'mahwmod zzhar'}, {'whamadi xyyur', 'mahmdue zahhr', 'meamhod zzehr', 'mhemout zaarw'}, {'mwwomah siyaw', 'mahmiut zhhar', 'mhamhid zzuur', 'myohmud zxhur'}, {'muwmyud zaior', 'maymoed zhhar', 'myhmidu ziior', 'amwmidy jaahh'}, {'myamoyd zgher', 'mahmeut zhhar', 'weamhdu jhhra', 'mehomhd zewyr'}, {'myamiod ziwor', 'maymhod zzwar', 'ymwnodu xhyaw', 'mahmdui zyhar'}, {'meamyhd zyair', 'mehmhhd zghir', 'amhyydu azhew', 'mahmewd zhhar'}, {'meymoud zhhar', 'wwamadu jwhra', 'mihmhdu zzwor', 'mamayud zeear'}, {'miwomut zowyr', 'mahamyd zjher', 'maymodd zzhar', 'nhamhdy siyyr'}, {'mamohut zawir', 'amhomew xehow', 'mihemut ziarh', 'mamouyd zhhar'}, {'amymydu choor', 'mwyomud zawra', 'muhmoyd zzhar', 'mahmwht zaraw'}, {'mohmwot zaerw', 'amwmitu coahh', 'mahumut zjyar', 'mahymud zahhr'}, {'amhyhhu wzayh', 'maemoyd zzhar', 'mwhomed zwwer', 'mamwudy zcear'}, {'mammowd zyhar', 'myhmued zqiar', 'yamydyu khhru', 'mohmwht zawra'}, {'meamhut ziaur', 'nhamuow qhhuh', 'muhmout zzhar', 'mwymyud zaiyr'}, {'mohomed zehre', 'mahmyyd zwhar', 'amhwedu yuhra', 'mahnuut zqahr'}, {'mayimid ziour', 'mewyuot zuayh', 'mamoudw zhhar', 'muhmhwd zkuar'}, {'whanidu siyay', 'maymohd zahhr', 'myhmoht zairr', 'mihomed ziowr'}, {'mewmoud zyhar', 'mahomed zwoar', 'mihoumt zyaer', 'amhwwdi uzyyr'}, {'mynoeud zyrha', 'moymwud zarah', 'whymadu cwhra', 'maymeud zhhar'}, {'amhnuot uzhra', 'mahmywd zhhar', 'mahumid zxyar', 'mohonad zeuer'}, {'mamyeod zuyer', 'myamwud zghor', 'mmahmod zahhr', 'nyymedu cuhra'}, {'miwmoud zhhar', 'myamiyd zwhrh', 'mwmydyu gaahh', 'mamyiud zarwr'}, {'mayomod zaeir', 'mihimut zuier', 'amwnode xhyur', 'mahmeyd zzhar'}, {'mamoudy zwhar', 'wwymedu ayzra', 'mihnoit zouir', 'mahhmut zaraw'}, {'mahmoit zahhr', 'mhamhdu zuaro', 'mahmwet zuwar', 'whameot gyyur'}, {'meahumd zwhrh', 'mawmhwd zgoar', 'amymhhu saahh', 'maumoyd zhhar'}, {'mymmoud zahhr', 'mihmwed zohyr', 'myhomid zaerh', 'nhanahd cuhra'}, {'mahwmhd zxhyr', 'mwhomad zerau', 'whamyot xyaur', 'mahmydd zwhar'}, {'mahimyd zuiar', 'maomout zzhar', 'myhmwht zzour', 'whamuot whaah'}, {'mahonid zarai', 'wmmaowt chaah', 'maymowd zyhar', 'mwhomid zehrw'}, {'muhmhad zaara', 'whamuat qwhyw', 'muhomwd zuraw', 'muymoud zhhar'}, {'mamhuut zooor', 'maynoed zauor', 'hhanahd kiaor', 'mahmoot zahhr'}, {'mahmott zzhar', 'amymwdu jhwir', 'myamoid zehrr', 'mawomdu zzeir'}, {'mawmhdu zeaor', 'mamouyd zahhr', 'mahnuut zwaar', 'nhymhdu qwahw'}, {'amynhdu xxaur', 'mhomout zauyr', 'mahmmdd zhhar', 'momhuod zuour'}, {'mahmyyd zzhar', 'mahmhtu zkyar', 'mewwuot chior', 'mihmdwu ziywr'}, {'nhayhdu suhra', 'mhhomut ziiir', 'mahmuyd zhhar', 'myhmhad zxhur'}, {'mahmoit zwhar', 'mwohmud zshir', 'yhamuoy xhyra', 'miyomut ziawr'}, {'mohmhed zoaar', 'maymuud zyhar', 'nhamhyu wyhra', 'mayimid zerao'}, {'anwmidu quhra', 'mymyeud zyhrh', 'maymoid zhhar', 'mhomoyd zawur'}, {'mhhomid zaryw', 'anwnodu yaura', 'mahmduy zahhr', 'mehomud zkoar'}, {'mehmhut zaehr', 'amhamih ayzra', 'mhamwhd zeuir', 'mahmoet zahhr'}, {'yhamidu cawra', 'mahnyut zwuar', 'mamhody zaroh', 'mahmwyd zzhar'}, {'mahmote zwhar', 'nuwmidu aghyy', 'myamiad zyraw', 'manouwd zgher'}, {'mayneud zchir', 'mhamyod ziaru', 'mahmwyd zwhar', 'amwnead gohra'}, {'awwnodu qwary', 'mmimoud zzhar', 'maynyud zkaar', 'mehmhdu zyaer'}, {'amhwwhu yzayh', 'mymohud zaoer', 'myamuod zyraw', 'maumowd zyhar'}, {'mihmwut zjhyr', 'mhaomyd zyior', 'mohmoyd zyhar', 'whamado yuhwh'}, {'mahomdw zjahr', 'whamatu gyyur', 'maymwht zuhro', 'mewmoud zwhar'}, {'mohmwhd zauyr', 'amhomew gwhra', 'maemoyd zyhar', 'mamhodw zewor'}, {'amhowih hyhra', 'myamuid zzuyr', 'mahemad zohwr', 'mmomoud zahhr'}, {'mamouyd zzhar', 'mimhoud zaeer', 'mimhuud zwawr', 'imhomey azhhy'}, {'mihomwt zziir', 'mihamud zxear', 'mahmiyd zahhr', 'muwyidu xyaur'}, {'hhemidu azhhw', 'myamiad zzarw', 'mihhmud zuyar', 'mohmout zyhar'}, {'myamwut zwiyr', 'amwmiyu xeaur', 'mihmhod zrhae', 'maumoyd zhhar'}, {'yamydyu xyaur', 'mahniut zarha', 'mamodyu zuihr', 'mahmmwd zwhar'}, {'mhomwud zxuar', 'mahmmyd zyhar', 'whanahd caawh', 'mwamhwd zarww'}, {'myhmwhd zsaar', 'maamout zzhar', 'whamadw azyaw', 'muymyed zyuur'}, {'nhamhdy cyohr', 'myhmhad zoyar', 'maemout zzhar', 'mwyemud zaroo'}, {'maymood zyhar', 'mihumud zjaar', 'nwymedu gaahw', 'mahimda zuhru'}, {'mahmwit ziaar', 'imwnodu azhww', 'mahmduw zhhar', 'maonudy zuary'}, {'mhimwud zihwr', 'mahmtuy zwhar', 'wmwmuoy cwhra', 'muwnoad zeewr'}, {'mamohut zzwar', 'anwmidu azhwy', 'mahmuut zahhr', 'mwamodu zwiir'}, {'mwamhud zchir', 'wmmaiwd chwor', 'mammout zwhar', 'manowhd zairw'}, {'mamohod zeuar', 'manuodw zehrw', 'maemowd zhhar', 'amhwwdo shaaw'}, {'mowmyud zowar', 'whamadh caehh', 'mahimda zeraw', 'mmymoud zyhar'}, {'mumyued zayre', 'mahmywd zwhar', 'amwmiyu whaah', 'maynohd zghwr'}, {'maynout zkiar', 'amhwidu waahh', 'maymuud zahhr', 'muwmhdu ziuer'}, {'mahomet zzior', 'mehmhod zarha', 'mahmdua zzhar', 'amwnead hwhra'}, {'muhmhwd zgher', 'hmumydu shaay', 'mihnhyd ziare', 'mmomoud zzhar'}, {'amhyhdh zwawy', 'myanoud zqhor', 'muhimad zerao', 'mahmyyd zahhr'}, {'mamhoad zqoar', 'mhamydu zuwir', 'mahmduo zahhr', 'yhamadu cwaor'}, {'mahmydh zkoar', 'mynouhd zuuyr', 'maymoyd zwhar', 'hwwomad zwawy'}, {'maimowd zwhar', 'myamuwd zhyer', 'amynhdu zuayh', 'mmamwud zkhyr'}, {'amwmidi aizha', 'mamoyed zwxar', 'mammoyd zhhar', 'myhmwht zarou'}, {'amhyhwu azhrh', 'mhamydu zwoyr', 'mmomoud zwhar', 'maynohd zhxar'}, {'mahmtui zahhr', 'mimyuwd zoyyr', 'nuwmidu xeyor', 'mwamout zywar'}, {'muymhud zxhwr', 'memahud zearh', 'mahmodw zhhar', 'yyymedu chaay'}, {'maumout zahhr', 'myamwed zwaor', 'amhomhi azwwr', 'maymyid zhgar'}, {'mihmoyd zzhar', 'wmmaidu waahh', 'muhnowt zwwir', 'myhmoot zzyar'}, {'mayemud zwkar', 'amhwhdu siyra', 'maimout zhhar', 'mehmhdu zowur'}, {'mahmmyd zyhar', 'maymhut zaaer', 'myhmhdu zawra', 'ymmaodu hxaur'}, {'myhmedu zouer', 'mawmout zyhar', 'mohmwhd zshhr', 'hmwnodu jhaaw'}, {'mmaodae xuhra', 'mahmdui zahhr', 'mehmhhd zjhur', 'muhomad ziarh'}, {'mahnwdu zzoyr', 'mihoumd zoahr', 'mahmtuy zhhar', 'imhyhdu azyay'}, {'mahimad zaeur', 'amhemey hzhyy', 'meamyid zyeor', 'maymoud zwhar'}, {'muynuod zoray', 'mahmuyd zwhar', 'awymhdu gyara', 'mahimid zahrh'}, {'mhomyud zkhir', 'mahomwt zyihr', 'maimout zzhar', 'amwyodu siayr'}, {'nhemidu jaurw', 'mehimad zuour', 'myhmayd zqaar', 'maimout zahhr'}, {'manwuhd zaure', 'hhamuoh shaay', 'memowud zeuar', 'maymoad zwhar'}, {'wmwnodu shaah', 'mamyaud zjwar', 'mahmoat zwhar', 'mowmhwd zarhe'}, {'mahmotw zhhar', 'mahomht zweir', 'myhmued zaaor', 'wewmuot azhrh'}, {'myhmiut zwoar', 'amhyedu jhhru', 'mammout zahhr', 'mewmhod zeaer'}, {'whamatu qwahw', 'mihomet zyuyr', 'maohmhd zaair', 'mahmoat zahhr'}, {'mahnwut zaowr', 'muwmhwd zeaur', 'mwywedu hzayh', 'mahmiyd zwhar'}, {'mumwued zuarw', 'mamhyud zjhhr', 'maymeud zwhar', 'amwmidi yayry'}, {'moynoad zeiwr', 'mahimdu zayir', 'hhamuoh aqhra', 'mahmywd zahhr'}, {'mahmoty zwhar', 'mhimoyd zaehr', 'wmmaodo izhra', 'mewnoad zarra'}, {'maymoad zyhar', 'mhymoid zshir', 'neamhdu azyur', 'mwamhwd zwour'}, {'ymwnodu siywr', 'mawomwd zyraa', 'miymoud zahhr', 'mamhoad zxuar'}, {'maymood zyhar', 'mhamayd ziiwr', 'whwmuot yuhha', 'mimwoud zauir'}, {'myhmwid zcyar', 'amwomey siayr', 'meamhid zewir', 'mahmudy zwhar'}, {'muhomed ziiir', 'mmymoud zhhar', 'mihomod zwuar', 'whamidu quhuh'}, {'mumyued zyyur', 'hewmuot aghyy', 'maemout zahhr', 'myhmaut zshyr'}, {'mohnewd zxaur', 'nwyomdu azwaw', 'mehmout zahhr', 'mhhonud zahry'}, {'myhmwwd zwuar', 'maumowd zwhar', 'amymuoy kihra', 'mihimad zohro'}, {'wyamidu kyyur', 'mamhood zkhir', 'mywnoad ziior', 'mahmaut zhhar'}, {'amhwwdw zuyyw', 'mihmoyd zyhar', 'mahnayd zchor', 'mihomat zirae'}, {'mammowd zyhar', 'wmmaodu yuayr', 'mehomad zaria', 'mwamoad zqhwr'}, {'mihonut zziwr', 'mamoudy zzhar', 'mamowut zehwr', 'whanodu yhuah'}, {'mamwodw zuohr', 'maimoyd zzhar', 'nhanhdu kwaor', 'mamwhud zawur'}, {'manouht zywyr', 'mahmiyd zhhar', 'amwwwdu hayra', 'myamoad zawyr'}, {'mahmtue zyhar', 'memayud zwray', 'mahnayd zarao', 'whanydu saahh'}, {'wamydyu aghra', 'mahmwyd zahhr', 'mihemud zeaar', 'mamhodu zhwhr'}, {'mahnoot zqhwr', 'amhomat kyyur', 'muymoud zwhar', 'meamhod zhwhr'}, {'mihomad zweor', 'wmhwwdu achyy', 'mamouwd zahhr', 'mihoumd zaray'}, {'mihomht zarou', 'mehmwhd zrhah', 'nyymedu kaaoy', 'mahmoit zzhar'}, {'hewmuot kyaor', 'mhaomyd zuior', 'mwamoid zwaar', 'mahmott zyhar'}, {'mihmhod zaara', 'mihmhdo zoare', 'whamwot awhra', 'mowmoud zwhar'}, {'mahnuot zaira', 'mamhwud zqhyr', 'ymmaoot wwhrw', 'mmahmod zhhar'}, {'huymuot ashyw', 'mhimdou zyyyr', 'mahemut zrhaa', 'mahmtua zwhar'}, {'yyymedu yyayr', 'myhomwd zarue', 'mhymoad zahrw', 'mahmody zzhar'}, {'mamhodw zeier', 'ymmaotu xeaur', 'mwhumud zshwr', 'mahmdua zahhr'}, {'mawniwd zyiyr', 'amymidu quyyr', 'mhymoed zawwr', 'maymaud zwhar'}, {'muwmhud zjher', 'nhamadu kohra', 'mahomht zarhe', 'mahymud zzhar'}, {'myomuyd zxaur', 'amhyuow wayra', 'maimoyd zwhar', 'mahnodw zzwar'}, {'mayumod zqaar', 'amhoyih chhra', 'mahimda zwwwr', 'mahmotw zyhar'}, {'maymyut zwahr', 'maymohd zahhr', 'nhamhtu jhaiy', 'myhnuod zwyur'}, {'maymyed zaeur', 'wmwmuow zoaeh', 'muhmhwt ziayr', 'mahmout zyhar'}, {'mahnoat zeyar', 'maemowd zwhar', 'amhomat azyor', 'myhmdeu zewur'}, {'mayomhd zwawr', 'mahnwhd zuahr', 'awhomey whaah', 'mahmody zhhar'}, {'mahmyyd zzhar', 'mhumuyd zziwr', 'mmamyud zcher', 'hwyomdu azhuh'}, {'mohmwed zaaer', 'mahmywd zyhar', 'mhamdou zyeir', 'amwnedu jhhru'}, {'mahmyyd zzhar', 'mwmuwot sihra', 'mwameud zohrr', 'mihmhdu zoeor'}, {'mahmudy zahhr', 'muhomhd zeyur', 'miynoud zcher', 'hhanawd gyara'}, {'mwumodu zwawr', 'mahmoat zwhar', 'mihmwid zuhwr', 'amhwwyu xwary'}, {'mwwomud zeyor', 'mamouyd zyhar', 'yuwmidu gyohr', 'mahumdu zxear'}, {'mhimoit zeyir', 'yuwmidu shaay', 'myhmoht zaywr', 'mmomoud zwhar'}, {'maymyut zioar', 'amwnody hoaer', 'mahmiyd zyhar', 'mwyemud zawra'}, {'mamhood zhxar', 'mahmdui zzhar', 'hmymwdu wihra', 'muhimad zyyyr'}, {'hmwmuot azhhh', 'mahmtuh zzhar', 'mynoeud ziuir', 'maymwod zyear'}, {'amhywdu zwayy', 'mohnuyd zyewr', 'maamoyd zahhr', 'mahmhda zxaar'}, {'muymyad zoarh', 'mahmtuy zzhar', 'wmhwwdu qwwaw', 'mhymout zaerr'}, {'hymuodw sehyw', 'mwymoud zhhar', 'mahamid zrhay', 'mihmhdo zaerw'}, {'whanidu xoaer', 'mhamoyd ziear', 'mumoyed zihre', 'maymuud zzhar'}, {'mawnydu zauro', 'mahmowd zyhar', 'emwmidu jwhra', 'mhhomud zhyar'}, {'mwhomud zxear', 'mahmtuh zzhar', 'mwhomid zaire', 'nhamhdo ezhyy'}, {'whanhdu chaay', 'mohnewd zwyyr', 'myhmued zsyar', 'mmamoud zzhar'}, {'mahnoit zkhyr', 'maimout zhhar', 'meamhyd zeuir', 'amhomye azwer'}, {'muymoud zyhar', 'myhmiwd zrhao', 'mihmhit zyywr', 'mwyyedu azhuw'}, {'myhmuut zaaor', 'amhimih cyhoy', 'mayomed zeehr', 'mahmtuo zzhar'}, {'muhmowd zyhar', 'mynoeud zyayr', 'mwmuyot xiaur', 'mihmhed zaare'}, {'maymwid zrhah', 'maomowd zhhar', 'mewmhwd zeihr', 'yhamuoy syohr'}, {'mwamoyd zouar', 'mawyumd zxaur', 'ymhomey qwary', 'maemoyd zhhar'}, {'hmmaodu cwhrw', 'mahniyd zarhr', 'maymoyd zyhar', 'mohmwht zaroo'}, {'mhamhud zgiar', 'whamuoy siyay', 'momhuod zqayr', 'mahmtou zahhr'}, {'whanodh shaay', 'mahnhut zziar', 'mowmhwd zarra', 'mahmayd zhhar'}, {'mawmhad zaayr', 'ymhomey xaira', 'moymoud zahhr', 'mhameyd zwwor'}, {'myhomed zaerh', 'maimout zzhar', 'mohmhed zauer', 'amhomat xhaay'}, {'mawomdu zauri', 'maimoyd zzhar', 'maynyud zqahr', 'wyamuot xhyer'}, {'maymiud zzhar', 'mehomdu zehri', 'mahneyd zayur', 'ymmaaad ywhra'}, {'mahmota zzhar', 'mahnaut zaerr', 'whamada qwhew', 'manoyhd zehri'}, {'mehomyd ziwor', 'amhowey zuyyw', 'mahmout zzhar', 'myamwud zewar'}, {'mamhaud zehyr', 'myamwid zawri', 'amymhdo haahw', 'mawmout zwhar'}, {'maymhed ziear', 'mahmotw zhhar', 'ayhomih hxaur', 'myhnedu zhyhr'}, {'mahmoyt zyhar', 'mwwomaw gaahh', 'myhmhed zshhr', 'mhamhhd zearu'}, {'maemoyd zzhar', 'mhanoyd zayrh', 'mahmhht zcahr', 'omhyhdu qwary'}, {'whamada jiaur', 'mamhout zshur', 'maymoud zyhar', 'mhhomyd zauri'}, {'mahmout zhhar', 'mhiomut zyraa', 'amhyhdi kyohr', 'mahnoet zcyar'}, {'mhhomed zuhro', 'mahmduy zyhar', 'mamohed zkhur', 'mwwomaw jaahh'}, {'maymmud zyhar', 'mawmhdu zaroe', 'whanwdu suhra', 'mymoudh zgahr'}, {'mahmdou zyhar', 'mhhimad zwiyr', 'whanody coahh', 'mhemout zxhur'}, {'whimadu xeyor', 'mahmoti zwhar', 'mahemut zaaur', 'myamwhd zewur'}, {'muhmoyd zhhar', 'miwmyud zgoar', 'wmhyhdu xhhra', 'mohomdu zuair'}, {'mahmudw zhhar', 'yhanodu whhra', 'myhonid zzoyr', 'mhomyud zaurr'}, {'mwwomad zuaur', 'awhomey qwhow', 'maymmud zyhar', 'myamaud zsuar'}, {'hwyomdu azwaw', 'mhhimad zyraw', 'mmymoud zyhar', 'mwamiud zoiar'}, {'muhmout zahhr', 'mihomad zyarw', 'mahonad zhkar', 'wmmaiwd jwhrw'}, {'mwamout zjahr', 'mawnwad ziuur', 'amymedu qehuh', 'mmemoud zyhar'}, {'myyomud zieyr', 'mahmotw zzhar', 'whamyot ezhyy', 'myhmuwd zzahr'}, {'mwwomud zhwer', 'mamoyed ziaar', 'mowmoud zzhar', 'yymuodw saahh'}, {'mhamiwd zarue', 'mahmeyd zhhar', 'amyyhdu qhhuh', 'mwamiud zeaar'}, {'amwmadu wwhrw', 'mhameyd zowir', 'mwymoud zwhar', 'mahimut zaywr'}, {'mhhomhd zwwor', 'mahmoti zyhar', 'meymwud zuhrr', 'amhoemy jhaiw'}, {'myynood ziwur', 'awymhdu jaury', 'mahymud zahhr', 'mamwiud zkiar'}, {'mehomhd zarrw', 'maymyod zghur', 'mahmtuu zzhar', 'mwwomay kawra'}, {'maymwid zcaar', 'mamodwu ziihr', 'mahymud zwhar', 'nuwmidu qwary'}, {'mamouwd zzhar', 'mimhuwd zziyr', 'amymhde xaurh', 'mahamad zaior'}, {'mawmyod zgaar', 'amymuoy zyayh', 'myumuod zyari', 'mahmtou zhhar'}, {'ymhomih ceahh', 'mihomid zyaer', 'mamhwud zxher', 'mmamoud zahhr'}, {'mmanoud zaihr', 'mewnuod zeuir', 'maumowd zwhar', 'nhamhdi hawra'}, {'mahmout zahhr', 'whamadw yhuah', 'mhamwyd zeari', 'maymyut zeyar'}, {'myymwod ziaor', 'mahnayd zrhaa', 'mamouwd zwhar', 'neamhdu ziayh'}, {'muhmwed zaoir', 'yhanawd cyhoy', 'mahmoot zhhar', 'mimhuwd zwyur'}, {'maymoud zhhar', 'mhanaww kiaor', 'mihomwd zariy', 'mihmhad ziyar'}, {'amhomeh azhry', 'mywmoud zwhar', 'mamohod zawwr', 'mhamoat zzohr'}, {'mhamwut zihre', 'mahumdu zayir', 'maemout zzhar', 'hmwnodu achra'}, {'muhomwd ziuwr', 'mahwmhd zkwar', 'awymhdu azwah', 'mwymoud zahhr'}, {'amwmihu ghaah', 'mahmaut zyhar', 'myamoed zwiar', 'meamyod zhwer'}, {'mhamwed zwayr', 'mohomud zxhyr', 'maomout zyhar', 'amhowey azhre'}, {'muhmhed zxhyr', 'meamyut zwiir', 'hhanahd qyhuh', 'mammoyd zyhar'}, {'amymhhu qhhuh', 'mymmoud zahhr', 'mohmyot zoeer', 'mohmhad zaarw'}, {'mihimud zahru', 'miwmhyd zoior', 'mahmout zyhar', 'amwmdiu azhuw'}, {'myhomid zsaer', 'mahumid zrhaw', 'mahmdou zzhar', 'whanahd yayry'}, {'mihmwut zchir', 'amhwwwu yyayr', 'mahmuwd zahhr', 'memahud zuuhr'}, {'mahmoto zwhar', 'myamodu zwuhr', 'amhwmda ghhru', 'maohmhd zuaar'}, {'mahmoyt zyhar', 'amwmidw zoaey', 'mwymyud zeahr', 'mihmdhu zowir'}, {'mawnoyd zxhyr', 'mohnoht zioor', 'mohmowd zahhr', 'nhamhhu jhaih'}, {'mahmmmd zwhar', 'mehamed zeraw', 'umwnodu azhyy', 'myamoyd zhsar'}, {'mahwmud zzhar', 'amhyhtu azhro', 'mhymoid ziuar', 'myhmwht zyyer'}, {'mamouyd zyhar', 'amwmidw wuhra', 'mamydhu zuair', 'myameud zrhah'}, {'mymmoud zyhar', 'mawmyut zooar', 'whamydu zyayh', 'myomuyd zyehr'}, {'amymhhu jyhra', 'mhamyad zarwh', 'mahmody zahhr', 'myhmaod zwoar'}, {'muhmoyd zhhar', 'nhanhdu kyaor', 'mihhmud zawrr', 'mamhydu zihry'}]
+mahmoud zahar       : DEBUG: Additional rule variations: {'mahmuod zahar'}
+mahmoud zahar       : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "mahmoud zahar": {
+            "first_name": {
+                "score": 0.7628198245087048,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.2343994150290162,
+                        "orthographic": 0.975,
+                        "combined": 0.6046997075145081
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.08,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "mahmduw",
+                            "phonetic_score": 0.7584348667911744,
+                            "orthographic_score": 0.7142857142857143,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hwyomdu",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.1428571428571429,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "mhhimud",
+                            "phonetic_score": 0.6097761194968906,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "mahnydu",
+                            "phonetic_score": 0.6097761194968906,
+                            "orthographic_score": 0.4285714285714286,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.7628198245087048,
+            "final_score": 0.8102558596069638,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 4,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.7628198245087048,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.2343994150290162,
+                        "orthographic": 0.975,
+                        "combined": 0.6046997075145081
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.08,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "zyhar",
+                            "phonetic_score": 0.6713490524044744,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "gwhra",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "zhcar",
+                            "phonetic_score": 0.6294611601209527,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "zuuwr",
+                            "phonetic_score": 0.6294611601209527,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "mahmuod zahar"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "mahmuod zahar": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "mahmoud zahar": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "mahmuod zahar"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "mahmuod zahar": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.8102558596069638,
+    "final_reward": 0.8102558596069638
+}
+mahmoud zahar       : DEBUG: ----------------------------------------------------------------------------------------------------

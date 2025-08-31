@@ -1,0 +1,2718 @@
+max lee             : INFO: Generating variations for max lee
+max lee             : INFO: ----------------------------------------------------------------------------------------------------
+max lee             : INFO: Effective rules: ['name_parts_permutations']
+max lee             : INFO: ----------------------------------------------------------------------------------------------------
+max lee             : INFO: Min Required Rule Variation Set: [{'lee max', 'lee   max', 'lee         max', 'lee  max', 'lee      max', 'lee          max', 'lee     max', 'lee        max', 'lee    max', 'lee       max'}]
+max lee             : INFO: ----------------------------------------------------------------------------------------------------
+max lee             : INFO: First name: max
+max lee             : INFO: Last name: lee
+max lee             : INFO: ----------------------------------------------------------------------------------------------------
+max lee             : INFO: Rule count pairs: [(0, 1), (0, 2), (1, 1), (0, 3), (1, 2), (0, 4), (1, 3), (2, 2), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (3, 3), (0, 7), (1, 6), (2, 5), (3, 4), (0, 8), (1, 7), (2, 6), (3, 5), (4, 4)]
+max lee             : INFO: ------------------------------Trying rule_count_pair 1 / 24: rule_count/nonrule_count: 0/1------------------------------
+max lee             : DEBUG: O: [0, 0, 0, 1]
+max lee             : DEBUG: P: [0, 0, 0, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [0, 0, 0, 1]
+max lee             : DEBUG: P: [0, 0, 0, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.28179028]
+max lee             : INFO: ------------------------------Trying rule_count_pair 2 / 24: rule_count/nonrule_count: 0/2------------------------------
+max lee             : DEBUG: O: [0, 0, 0, 2]
+max lee             : DEBUG: P: [0, 0, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [0, 0, 0, 2]
+max lee             : DEBUG: P: [0, 0, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.32]
+max lee             : INFO: ------------------------------Trying rule_count_pair 3 / 24: rule_count/nonrule_count: 1/1------------------------------
+max lee             : DEBUG: O: [0, 0, 0, 1]
+max lee             : DEBUG: P: [0, 0, 0, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [0, 0, 0, 1]
+max lee             : DEBUG: P: [0, 0, 0, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.48179028]
+max lee             : INFO: ------------------------------Trying rule_count_pair 4 / 24: rule_count/nonrule_count: 0/3------------------------------
+max lee             : DEBUG: O: [0, 1, 0, 2]
+max lee             : DEBUG: P: [0, 1, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [0, 1, 0, 2]
+max lee             : DEBUG: P: [0, 1, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.39414753]
+max lee             : INFO: ------------------------------Trying rule_count_pair 5 / 24: rule_count/nonrule_count: 1/2------------------------------
+max lee             : DEBUG: O: [0, 0, 0, 2]
+max lee             : DEBUG: P: [0, 0, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [0, 0, 0, 2]
+max lee             : DEBUG: P: [0, 0, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.52]
+max lee             : INFO: ------------------------------Trying rule_count_pair 6 / 24: rule_count/nonrule_count: 0/4------------------------------
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.49425069]
+max lee             : INFO: ------------------------------Trying rule_count_pair 7 / 24: rule_count/nonrule_count: 1/3------------------------------
+max lee             : DEBUG: O: [0, 1, 0, 2]
+max lee             : DEBUG: P: [0, 1, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [0, 1, 0, 2]
+max lee             : DEBUG: P: [0, 1, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.49414753]
+max lee             : INFO: ------------------------------Trying rule_count_pair 8 / 24: rule_count/nonrule_count: 2/2------------------------------
+max lee             : DEBUG: O: [0, 0, 0, 2]
+max lee             : DEBUG: P: [0, 0, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [0, 0, 0, 2]
+max lee             : DEBUG: P: [0, 0, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.52]
+max lee             : INFO: ------------------------------Trying rule_count_pair 9 / 24: rule_count/nonrule_count: 0/5------------------------------
+max lee             : DEBUG: O: [1, 2, 1, 1]
+max lee             : DEBUG: P: [1, 2, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 2, 1, 1]
+max lee             : DEBUG: P: [1, 2, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.47280831]
+max lee             : INFO: ------------------------------Trying rule_count_pair 10 / 24: rule_count/nonrule_count: 1/4------------------------------
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.59425069]
+max lee             : INFO: ------------------------------Trying rule_count_pair 11 / 24: rule_count/nonrule_count: 2/3------------------------------
+max lee             : DEBUG: O: [0, 1, 0, 2]
+max lee             : DEBUG: P: [0, 1, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [0, 1, 0, 2]
+max lee             : DEBUG: P: [0, 1, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.49414753]
+max lee             : INFO: ------------------------------Trying rule_count_pair 12 / 24: rule_count/nonrule_count: 0/6------------------------------
+max lee             : DEBUG: O: [1, 2, 1, 2]
+max lee             : DEBUG: P: [1, 2, 1, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 2, 1, 2]
+max lee             : DEBUG: P: [1, 2, 1, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.45470382]
+max lee             : INFO: ------------------------------Trying rule_count_pair 13 / 24: rule_count/nonrule_count: 1/5------------------------------
+max lee             : DEBUG: O: [1, 2, 1, 1]
+max lee             : DEBUG: P: [1, 2, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 2, 1, 1]
+max lee             : DEBUG: P: [1, 2, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.53947498]
+max lee             : INFO: ------------------------------Trying rule_count_pair 14 / 24: rule_count/nonrule_count: 2/4------------------------------
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.59425069]
+max lee             : INFO: ------------------------------Trying rule_count_pair 15 / 24: rule_count/nonrule_count: 3/3------------------------------
+max lee             : DEBUG: O: [0, 1, 0, 2]
+max lee             : DEBUG: P: [0, 1, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [0, 1, 0, 2]
+max lee             : DEBUG: P: [0, 1, 0, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.49414753]
+max lee             : INFO: ------------------------------Trying rule_count_pair 16 / 24: rule_count/nonrule_count: 0/7------------------------------
+max lee             : DEBUG: O: [2, 2, 2, 1]
+max lee             : DEBUG: P: [2, 2, 2, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 2, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [2, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+max lee             : DEBUG: [15, 4, 0]
+max lee             : DEBUG: [500, 25, 0]
+max lee             : DEBUG: [500, 66, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [2, 2, 2, 1]
+max lee             : DEBUG: P: [2, 2, 2, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 2, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [2, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+max lee             : DEBUG: [4, 4, 0]
+max lee             : DEBUG: [58, 27, 0]
+max lee             : DEBUG: [188, 104, 0]
+max lee             : DEBUG: [20, 94, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.44098826]
+max lee             : INFO: ------------------------------Trying rule_count_pair 17 / 24: rule_count/nonrule_count: 1/6------------------------------
+max lee             : DEBUG: O: [1, 2, 1, 2]
+max lee             : DEBUG: P: [1, 2, 1, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 2, 1, 2]
+max lee             : DEBUG: P: [1, 2, 1, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.52137048]
+max lee             : INFO: ------------------------------Trying rule_count_pair 18 / 24: rule_count/nonrule_count: 2/5------------------------------
+max lee             : DEBUG: O: [1, 2, 1, 1]
+max lee             : DEBUG: P: [1, 2, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 2, 1, 1]
+max lee             : DEBUG: P: [1, 2, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.53947498]
+max lee             : INFO: ------------------------------Trying rule_count_pair 19 / 24: rule_count/nonrule_count: 3/4------------------------------
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.59425069]
+max lee             : INFO: ------------------------------Trying rule_count_pair 20 / 24: rule_count/nonrule_count: 0/8------------------------------
+max lee             : DEBUG: O: [2, 3, 2, 1]
+max lee             : DEBUG: P: [2, 3, 2, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 2, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [2, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+max lee             : DEBUG: [15, 4, 0]
+max lee             : DEBUG: [500, 25, 0]
+max lee             : DEBUG: [500, 66, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [2, 3, 2, 1]
+max lee             : DEBUG: P: [2, 3, 2, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 2, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [2, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+max lee             : DEBUG: [4, 4, 0]
+max lee             : DEBUG: [58, 27, 0]
+max lee             : DEBUG: [188, 104, 0]
+max lee             : DEBUG: [20, 94, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.43621302]
+max lee             : INFO: ------------------------------Trying rule_count_pair 21 / 24: rule_count/nonrule_count: 1/7------------------------------
+max lee             : DEBUG: O: [2, 2, 2, 1]
+max lee             : DEBUG: P: [2, 2, 2, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 2, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [2, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+max lee             : DEBUG: [15, 4, 0]
+max lee             : DEBUG: [500, 25, 0]
+max lee             : DEBUG: [500, 66, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [2, 2, 2, 1]
+max lee             : DEBUG: P: [2, 2, 2, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 2, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [2, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [2]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+max lee             : DEBUG: [4, 4, 0]
+max lee             : DEBUG: [58, 27, 0]
+max lee             : DEBUG: [188, 104, 0]
+max lee             : DEBUG: [20, 94, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.49098826]
+max lee             : INFO: ------------------------------Trying rule_count_pair 22 / 24: rule_count/nonrule_count: 2/6------------------------------
+max lee             : DEBUG: O: [1, 2, 1, 2]
+max lee             : DEBUG: P: [1, 2, 1, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [27]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 2, 1, 2]
+max lee             : DEBUG: P: [1, 2, 1, 2]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [130]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.52137048]
+max lee             : INFO: ------------------------------Trying rule_count_pair 23 / 24: rule_count/nonrule_count: 3/5------------------------------
+max lee             : DEBUG: O: [1, 2, 1, 1]
+max lee             : DEBUG: P: [1, 2, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 2, 1, 1]
+max lee             : DEBUG: P: [1, 2, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.53947498]
+max lee             : INFO: ------------------------------Trying rule_count_pair 24 / 24: rule_count/nonrule_count: 4/4------------------------------
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [20, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [16, 0, 0]
+max lee             : DEBUG: [168, 8, 0]
+max lee             : DEBUG: [20, 8, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [16]
+max lee             : DEBUG: [8]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: max, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: max, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: O: [1, 1, 1, 1]
+max lee             : DEBUG: P: [1, 1, 1, 1]
+max lee             : WARNING: Remains: 0
+max lee             : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [10, 2, 0]
+max lee             : DEBUG: [33, 10, 0]
+max lee             : DEBUG: [20, 20, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [4, 0, 0]
+max lee             : DEBUG: [20, 10, 0]
+max lee             : DEBUG: [20, 22, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [0, 0, 0]
+max lee             : DEBUG: [1, 0, 0]
+max lee             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [4]
+max lee             : DEBUG: [11]
+max lee             : DEBUG: [20]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+max lee             : DEBUG: [14]
+max lee             : DEBUG: [322]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [500]
+max lee             : DEBUG: [1]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: [0]
+max lee             : DEBUG: final:
+max lee             : DEBUG: name: lee, l_level: 0
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 1
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: name: lee, l_level: 2
+max lee             : DEBUG: --------------------------------------------------
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+max lee             : DEBUG: scores: [0.59425069]
+max lee             : DEBUG: ----------------------------------------------------------------------------------------------------
+max lee             : DEBUG: Best score achieved: 0.5942506902327667
+max lee             : DEBUG: Best selected: 1/4
+max lee             : DEBUG: Rule variations: [{'lee max', 'lee   max', 'lee         max', 'lee  max', 'lee      max', 'lee          max', 'lee     max', 'lee        max', 'lee    max', 'lee       max'}]
+max lee             : DEBUG: Nonrule variations: [{'mOx lie', 'hmax alee', 'MAg Lhh', 'mcz lll'}, {'mux leY', 'mqax Olee', 'mxa lyw', 'MNX LHh'}, {'mxi lui', 'imax Hlee', 'mUx leY', 'MAk LHL'}, {'Amax Hlee', 'mox ley', 'MHX LHE', 'mks lah'}, {'mOx ley', 'MZX Lwu', 'mcs lli', 'Nmax Olee'}, {'mxe lww', 'mkax hlee', 'mix lie', 'MAg Lhi'}, {'mIx lIe', 'omax lele', 'mxe lai', 'MQX Lhi'}, {'mcax alee', 'mgs lao', 'mox lie', 'MNX Lwi'}, {'mix ley', 'mxu loh', 'MAk LWI', 'imax elee'}, {'mUx lIe', 'mkax Ilee', 'MAz Lwo', 'mcs laa'}, {'MQX Lhl', 'mIx lIe', 'mcax Olee', 'mcs lww'}, {'MAJ LWI', 'mIx lIe', 'mxw loo', 'mjax Olee'}, {'mux ley', 'imax Ilee', 'MAq Lhi', 'mxi lao'}, {'Mmx loo', 'MNX LHl', 'mix lIe', 'mgax elee'}, {'MAZ Lhh', 'mxa laa', 'msax leel', 'mEx lie'}, {'mcax leel', 'MQX LHH', 'mqs llw', 'mIx lie'}, {'mjax lele', 'MAJ LHi', 'mUx ley', 'MWx loh'}, {'mxo lui', 'mOx leY', 'MAs LHh', 'mqax ulee'}, {'mux lIe', 'mxo loa', 'MAS LHH', 'mxax hlee'}, {'mux leY', 'MWx lwy', 'MAq LHl', 'mgax ulee'}, {'mux ley', 'MAC LHH', 'mxe lih', 'mzax elee'}, {'mcz lio', 'mcax ilee', 'MAZ LWE', 'mEx leY'}, {'mxi lau', 'Hmax alee', 'mix leY', 'MQX Lhh'}, {'Mmx lau', 'mamx Ilee', 'MAQ LHH', 'mIx ley'}, {'MNX LHh', 'mxu lla', 'mIx ley', 'umax hlee'}, {'mxi lii', 'mox ley', 'MAj LHl', 'Hmax Hlee'}, {'hmax hlee', 'MAZ LWI', 'mEx lIe', 'mxy llo'}, {'MKX LWi', 'mkz lwy', 'mUx ley', 'Amax Ulee'}, {'Amax Olee', 'MAQ LWi', 'mix lie', 'mgs loh'}, {'mqs lui', 'hmax hlee', 'mox ley', 'MQX Lwi'}, {'mex lie', 'mks luh', 'MAg LHE', 'umax Olee'}, {'mux lIe', 'omax lele', 'MAS LHH', 'mkz loo'}, {'mOx ley', 'MAZ Lhh', 'Mmx low', 'Amax Ilee'}, {'mix ley', 'mqz luo', 'MKX Lwo', 'emax lele'}, {'mux ley', 'MWx luu', 'MAj Lhl', 'umax alee'}, {'mxu law', 'mqax lele', 'MAq LHE', 'mIx lie'}, {'mqs lui', 'MAS LHI', 'mcax Olee', 'mUx leY'}, {'MAz LWu', 'mxw luu', 'mix lIe', 'mkax Ulee'}, {'MGX LHL', 'mxy luw', 'nmax Elee', 'mOx lIe'}, {'mOx lie', 'MAs LHI', 'mxax elee', 'mxo low'}, {'MAQ LWi', 'mcax Hlee', 'mox lie', 'mxe loh'}, {'mgax lele', 'mqz lua', 'mUx ley', 'MAJ LHI'}, {'MAc Lwo', 'mxu loa', 'mix lie', 'Nmax Ilee'}, {'mxu law', 'umax Ulee', 'mEx lIe', 'MZX Lwi'}, {'mux leY', 'mcax Elee', 'mkz luh', 'MAj Lwi'}, {'mOx ley', 'mkax olee', 'Mmx laa', 'MAq LWE'}, {'MWx luh', 'MAj Lhh', 'emax olee', 'mox lie'}, {'MAQ LWo', 'mgz lah', 'hmax Alee', 'mix leY'}, {'mUx lIe', 'mcax Ulee', 'mxa llu', 'MAs LWo'}, {'MAG LHi', 'mgs lll', 'mUx leY', 'omax alee'}, {'MAG LWO', 'mxa lou', 'Hmax ilee', 'mUx ley'}, {'mkz law', 'mEx ley', 'MAC LHE', 'hmax Elee'}, {'MHX LWE', 'mex lie', 'mcs luw', 'Nmax Alee'}, {'mzax olee', 'mxe loo', 'MAC Lwo', 'mIx leY'}, {'MKX LWo', 'Hmax ilee', 'mqs lio', 'mox lie'}, {'MWx lwy', 'umax Ulee', 'MAG Lwo', 'mOx lIe'}, {'mux lie', 'mxa loo', 'amax lele', 'MAS LHE'}, {'MAj LWI', 'mzax Ilee', 'mix lie', 'mks liu'}, {'amax leel', 'MAS LHh', 'mix leY', 'MMx loa'}, {'mks law', 'mzax olee', 'MAq Lwu', 'mix lie'}, {'mxo lau', 'hmax Ilee', 'mix lIe', 'MAQ LWE'}, {'mxu lah', 'MAk LWU', 'mix lie', 'mgax ulee'}, {'mex lIe', 'mqz liw', 'mkax Ulee', 'MAC LWu'}, {'MAZ Lhh', 'mcax Olee', 'mxu lai', 'mix leY'}, {'nmax Alee', 'mIx leY', 'mxw liw', 'MAC Lwi'}, {'MNX LWI', 'msax lele', 'mcz loo', 'mOx leY'}, {'mox leY', 'MAg Lwi', 'Hmax alee', 'mks lao'}, {'Hmax Alee', 'mqz loo', 'mex lie', 'MAQ LHl'}, {'mxe lui', 'umax leel', 'mix lie', 'MAJ Lhh'}, {'mqax alee', 'MHX Lhl', 'MMx lih', 'mOx leY'}, {'Amax Hlee', 'mkz lih', 'mox leY', 'MAs LHE'}, {'MAC Lhl', 'nmax Ilee', 'mEx lie', 'mxe law'}, {'MAq LHI', 'mux lie', 'nmax Hlee', 'mxa lau'}, {'mqz lau', 'manx Olee', 'MAZ LWo', 'mex ley'}, {'mOx lie', 'MAQ Lwo', 'mxy llu', 'Hmax alee'}, {'mgz lih', 'MHX LHE', 'mox lie', 'mqax elee'}, {'MQX LHI', 'mox leY', 'MMx low', 'mxax Olee'}, {'mux leY', 'hmax Hlee', 'MAQ Lwo', 'MMx lio'}, {'mIx lIe', 'mamx alee', 'MAq Lhh', 'mcz liu'}, {'MAS LWI', 'Mmx loo', 'mamx leel', 'mOx lIe'}, {'mgs lah', 'MAg Lhh', 'mix leY', 'omax elee'}, {'mkax leel', 'MMx llw', 'mOx leY', 'MAq LWu'}, {'MAc LWU', 'mxax elee', 'Mwx lli', 'mEx lie'}, {'omax hlee', 'mxo laa', 'mox lIe', 'MAs LWo'}, {'mxu loh', 'MNX LWI', 'mqax Ulee', 'mUx leY'}, {'mix ley', 'MAQ LHH', 'nmax alee', 'Mmx luw'}, {'MAQ LWI', 'mxax leel', 'mox leY', 'mxi loa'}, {'mcs luu', 'MAz LWI', 'mjax Olee', 'mIx lie'}, {'mxa loi', 'msax ilee', 'mox lie', 'MKX Lwu'}, {'MGX LWi', 'mzax Elee', 'mxe lww', 'mox lie'}, {'MSX LHI', 'mqax ilee', 'mxw lah', 'mox lie'}, {'mxo lli', 'MHX LWO', 'mix lIe', 'Amax Ulee'}, {'mgax leel', 'MWx luw', 'MAj LWo', 'mox lIe'}, {'mxw llo', 'MAz LHI', 'mex ley', 'mxax hlee'}, {'mxax leel', 'mIx lIe', 'mcz luo', 'MHX Lwi'}, {'mux ley', 'MGX LWu', 'mjax hlee', 'mxe low'}, {'mamx elee', 'Myx lai', 'MAz LWI', 'mUx ley'}, {'nmax olee', 'mkz liu', 'MAc Lhi', 'mUx ley'}, {'mOx lie', 'MAg LHi', 'mcz lww', 'Amax olee'}, {'emax olee', 'mOx ley', 'MAg LWO', 'mxo luo'}, {'imax Elee', 'MAg LWi', 'mox leY', 'mxy laa'}, {'mix ley', 'MAS LWI', 'emax Alee', 'mks lai'}, {'MNX LHI', 'mex lIe', 'hmax ulee', 'mqz lll'}, {'mOx ley', 'msax alee', 'MAc LHL', 'mqs luh'}, {'mjax Hlee', 'mux lie', 'MAQ LHi', 'mcs liu'}, {'mxi lui', 'mUx lie', 'MHX Lhh', 'mkax ilee'}, {'mxe lah', 'mxax Hlee', 'mOx leY', 'MAs LHI'}, {'mcz lua', 'mOx lIe', 'emax elee', 'MAC Lhi'}, {'mex lIe', 'hmax Olee', 'MAZ LWE', 'mkz lio'}, {'MNX Lhh', 'Nmax ilee', 'mxi lua', 'mix lIe'}, {'mamx hlee', 'MHX Lwu', 'mxw lwy', 'mox lIe'}, {'MNX Lwo', 'emax hlee', 'mox leY', 'Myx lii'}, {'MAk LWI', 'mjax elee', 'mUx lie', 'Myx lah'}, {'mcz lwy', 'mex lIe', 'umax alee', 'MGX Lhi'}, {'mix ley', 'MAS LWE', 'mxw lyw', 'hmax Elee'}, {'MSX LWE', 'mIx leY', 'mxo luo', 'mxax ulee'}, {'mgs lio', 'mex lIe', 'amax Hlee', 'MAq LHh'}, {'MAJ LWo', 'mcax ulee', 'mOx lIe', 'mxu lia'}, {'mOx ley', 'MAQ LHE', 'msax Ulee', 'Mmx lua'}, {'mgs lla', 'mIx lIe', 'mjax Ulee', 'MAq LHL'}, {'MAz LWI', 'mUx leY', 'mcz lww', 'omax alee'}, {'mOx lie', 'omax Ilee', 'MKX Lhi', 'mgs llo'}, {'mux ley', 'MSX LWi', 'mkz lww', 'mcax Alee'}, {'mix ley', 'hmax Ilee', 'mxe lia', 'MZX LHl'}, {'Amax Ulee', 'MAz LWU', 'mxw llu', 'mIx lie'}, {'mOx lie', 'mkax olee', 'MAj LWU', 'mxe lyw'}, {'mzax lele', 'mox ley', 'MAj Lwi', 'mxy lii'}, {'mOx ley', 'amax Hlee', 'Mmx low', 'MAC LWu'}, {'MAg LWE', 'mux lie', 'mqs lll', 'nmax elee'}, {'mex lIe', 'Myx lai', 'MAZ Lwu', 'mkax hlee'}, {'mgax Alee', 'mex lIe', 'MAz LHI', 'MMx lah'}, {'MQX LHI', 'mox ley', 'mxo llu', 'mjax ilee'}, {'hmax Alee', 'mks llu', 'mix leY', 'MAg LWU'}, {'mux lIe', 'MMx lua', 'MAj LWo', 'mkax hlee'}, {'mxy lao', 'imax olee', 'mEx lIe', 'MAc LHL'}, {'MQX LHH', 'Myx lua', 'Nmax hlee', 'mUx leY'}, {'mix ley', 'mxi luw', 'MAQ Lwu', 'mgax Hlee'}, {'MAC Lhi', 'mIx leY', 'emax Hlee', 'Mwx lww'}, {'mux ley', 'mqax ilee', 'MAs LHE', 'MWx lla'}, {'mUx lIe', 'mcs law', 'MAS Lwo', 'mqax lele'}, {'mxi llu', 'mxax elee', 'mex ley', 'MAj LHI'}, {'mgz lia', 'mOx ley', 'mzax ilee', 'MAs LWu'}, {'MAQ LWu', 'mxax olee', 'mks lio', 'mEx lie'}, {'mux ley', 'MAS Lwi', 'imax hlee', 'MWx lih'}, {'mxu lah', 'hmax olee', 'mEx ley', 'MAC LHL'}, {'emax Olee', 'MAs LHE', 'mOx lIe', 'mxa lll'}, {'manx Elee', 'MAc Lhh', 'mxw loi', 'mIx lie'}, {'Mwx lio', 'mix lie', 'MSX LWu', 'omax Elee'}, {'mgax Ulee', 'mEx ley', 'mcz lii', 'MAz Lwu'}, {'Myx laa', 'MAz LHI', 'imax hlee', 'mIx ley'}, {'Mwx loh', 'MHX Lwo', 'mox ley', 'imax Olee'}, {'MMx lio', 'MAg LWi', 'msax leel', 'mEx lie'}, {'mjax hlee', 'mix lIe', 'MAq LWU', 'Myx lww'}, {'mix ley', 'mqs lua', 'MAz LWI', 'mxax Olee'}, {'MAJ LHI', 'msax lele', 'Mwx lll', 'mIx lie'}, {'MAz Lhl', 'mqz lua', 'mEx lIe', 'mgax ulee'}, {'mux lie', 'omax ulee', 'MAC LWo', 'mxw lah'}, {'mgs loa', 'Amax Alee', 'MAG LWE', 'mUx leY'}, {'Hmax Alee', 'mxu lou', 'MAQ Lwu', 'mOx leY'}, {'mux ley', 'mgz loi', 'MAQ LWI', 'emax Hlee'}, {'MKX LWI', 'mxo lla', 'mex leY', 'mjax Olee'}, {'mxo luw', 'mOx ley', 'mcax leel', 'MAG LWU'}, {'mxu lii', 'manx olee', 'MQX Lhh', 'mIx lie'}, {'mqz lou', 'mUx leY', 'MAZ Lwo', 'hmax Elee'}, {'MAZ LHE', 'mamx alee', 'mEx lIe', 'Mmx loh'}, {'mOx lie', 'Amax lele', 'MGX LHI', 'Mwx lua'}, {'mcs law', 'MAC LHL', 'mex lie', 'Amax ulee'}, {'mIx lIe', 'MAZ LWo', 'Myx lia', 'mxax ulee'}, {'MAS Lhl', 'mxy lou', 'mgax ulee', 'mIx lie'}, {'mqz loa', 'emax Ulee', 'MAQ LWu', 'mIx lie'}, {'mUx lIe', 'MAs LHl', 'nmax elee', 'Myx luo'}, {'mix ley', 'mkz llo', 'manx Ilee', 'MKX Lwi'}, {'mqs lua', 'mcax Alee', 'mEx ley', 'MAS LWU'}, {'mcax Ilee', 'mxw lih', 'MAz Lwo', 'mOx leY'}, {'MAg Lhl', 'mks lih', 'mamx olee', 'mEx ley'}, {'mix ley', 'omax lele', 'MAZ LHE', 'MWx liw'}, {'mix ley', 'manx Ilee', 'Myx lah', 'MHX Lhl'}, {'mzax ulee', 'MAj LWO', 'mUx leY', 'MMx lio'}, {'MAs LWI', 'Hmax Elee', 'Myx lah', 'mIx leY'}, {'MKX LWI', 'emax leel', 'mEx lie', 'MWx lai'}, {'mOx lie', 'MAg LWi', 'umax hlee', 'Myx lww'}, {'MAq Lwi', 'mks low', 'mamx elee', 'mEx ley'}, {'Amax lele', 'MAz LWu', 'Mwx lio', 'mix leY'}, {'msax Hlee', 'mxw loa', 'mEx lie', 'MAJ Lwu'}, {'mux lie', 'mxi lyw', 'MZX LHE', 'mcax leel'}, {'mkz low', 'mox leY', 'mqax ilee', 'MAs LHI'}, {'Nmax leel', 'MSX LHl', 'MWx llu', 'mox lie'}, {'MAJ LWE', 'mxi lio', 'mix lIe', 'amax Ilee'}, {'MAk LHl', 'Amax ilee', 'mIx ley', 'MMx laa'}, {'mqax hlee', 'MAc LWO', 'mix lie', 'mkz lll'}, {'mIx lIe', 'mxo lua', 'emax hlee', 'MSX LWi'}, {'mIx lIe', 'MAJ LWE', 'mamx elee', 'mgs lia'}, {'mux leY', 'mcax Hlee', 'mxy luw', 'MAq LHh'}, {'mgz liw', 'MAs LWi', 'amax alee', 'mix leY'}, {'mxe llu', 'hmax Hlee', 'mex lie', 'MAz Lwo'}, {'mqz loi', 'mUx leY', 'emax elee', 'MAg LWU'}, {'MAQ LWO', 'amax ulee', 'mox lIe', 'mgs lli'}, {'MAc Lhl', 'msax Ulee', 'mix leY', 'mxa lih'}, {'mkax Olee', 'mOx ley', 'MAQ LHH', 'mxo lla'}, {'nmax olee', 'mxu lio', 'MNX LHl', 'mIx leY'}, {'mgax Ilee', 'mcz loa', 'mOx lIe', 'MKX LHh'}, {'mcs loh', 'MAG Lwu', 'mamx Ulee', 'mex ley'}, {'mxa lla', 'manx lele', 'MKX Lwu', 'mEx lIe'}, {'mxe lla', 'Hmax elee', 'MAj LWO', 'mOx lIe'}, {'amax Alee', 'mgs lao', 'mUx lie', 'MAC LWu'}, {'mkz loh', 'MAs LHH', 'mEx lIe', 'mjax ulee'}, {'mxi lyw', 'mcax ilee', 'MSX LHh', 'mEx lie'}, {'Hmax Hlee', 'MAC LHl', 'mxi lua', 'mUx leY'}, {'msax Hlee', 'Myx loo', 'mox lie', 'MAg Lwo'}, {'MAc LWi', 'mgax ulee', 'Myx laa', 'mIx lie'}, {'MKX LHI', 'mOx lIe', 'Mwx llw', 'emax Ulee'}, {'mex lIe', 'mamx elee', 'mgz luw', 'MAS Lhh'}, {'imax Olee', 'MAg LHE', 'mEx ley', 'Mmx liw'}, {'MGX Lwi', 'mqs laa', 'mEx lie', 'mxax ilee'}, {'mux lIe', 'mkax hlee', 'mqs low', 'MAJ Lhh'}, {'MZX Lhh', 'MMx lui', 'umax ulee', 'mIx leY'}, {'MAG LHl', 'MMx lau', 'umax Olee', 'mUx ley'}, {'mcz luw', 'Nmax olee', 'mix leY', 'MNX Lhi'}, {'mxa law', 'mIx leY', 'Amax alee', 'MAk LHH'}, {'mUx lIe', 'Mmx lla', 'MAc LHH', 'manx Elee'}, {'mxw loa', 'mox ley', 'mamx Ulee', 'MAj LWU'}, {'mqs lyw', 'MAS LHl', 'mOx leY', 'manx Hlee'}, {'mxi luo', 'MKX LHH', 'mUx leY', 'mgax Olee'}, {'MHX Lwu', 'Nmax leel', 'mEx lIe', 'Mwx liw'}, {'mcax Ulee', 'MAs Lhi', 'mex leY', 'mcs lih'}, {'MWx lww', 'mox ley', 'Amax ilee', 'MAG LHL'}, {'mqz luh', 'mIx lIe', 'amax ilee', 'MAk Lwi'}, {'emax Elee', 'mox ley', 'MAC Lhh', 'mcz lui'}, {'Hmax elee', 'MAC LWi', 'mxi lla', 'mUx leY'}, {'MGX Lhh', 'mix lie', 'mqz liu', 'amax Ilee'}, {'mqs lai', 'hmax Ilee', 'mox lIe', 'MKX LHI'}, {'mzax Elee', 'mUx lie', 'mxi lia', 'MGX Lhl'}, {'mux lIe', 'mxi lah', 'Nmax Hlee', 'MAc LHL'}, {'mix ley', 'MAG LHh', 'mxi luw', 'omax Hlee'}, {'MQX LHH', 'mqax Alee', 'Mwx lah', 'mex ley'}, {'MAg LHH', 'mzax hlee', 'mox lIe', 'mgs lli'}, {'mix ley', 'MAQ Lhi', 'mqax Elee', 'mgz low'}, {'mxu lio', 'mox ley', 'mzax alee', 'MAC Lwi'}, {'mux ley', 'Myx lau', 'MAz LWO', 'Hmax Ulee'}, {'mks liw', 'mex lie', 'umax leel', 'MAc LHH'}, {'mex lIe', 'Myx lwy', 'mxax ulee', 'MAz Lwu'}, {'MNX LHI', 'msax Alee', 'mox ley', 'Mmx lai'}, {'mqs lai', 'mqax ilee', 'mOx leY', 'MAq LWU'}, {'MAq LHi', 'mqax ulee', 'mks lui', 'mex ley'}, {'mux ley', 'mkz law', 'mqax alee', 'MAk LHI'}, {'mOx ley', 'MZX LWu', 'imax Hlee', 'mgz llw'}, {'mux lie', 'omax hlee', 'MAQ LHi', 'Myx lou'}, {'mOx lie', 'mxy luw', 'Hmax Hlee', 'MAg Lwi'}, {'mux leY', 'amax Elee', 'mcs lli', 'MGX LWO'}, {'mOx lie', 'MAj Lhl', 'mqz llu', 'Hmax Hlee'}, {'MZX LHL', 'mxax Elee', 'mqs lli', 'mix lie'}, {'mcs lwy', 'amax elee', 'MAc LWU', 'mIx ley'}, {'mkz lui', 'omax alee', 'mex ley', 'MAJ LWu'}, {'MAQ LHi', 'omax lele', 'mqs lwy', 'mEx lie'}, {'mxo loh', 'emax hlee', 'MAj Lhl', 'mix lie'}, {'MAs LWi', 'mgax lele', 'mox lIe', 'mks lau'}, {'MAj LWi', 'mamx Alee', 'mIx leY', 'Mmx lll'}, {'mxa luo', 'MAS LHh', 'mIx leY', 'hmax Ulee'}, {'mxo lao', 'mzax Ulee', 'MSX LHi', 'mIx lie'}, {'mkz llo', 'msax leel', 'mix leY', 'MAS LWU'}, {'mxu llu', 'mex lie', 'mqax elee', 'MAz Lhi'}, {'hmax hlee', 'mcz lah', 'mEx ley', 'MAg LWU'}, {'mUx lie', 'MHX LWi', 'MWx llo', 'mqax lele'}, {'MAZ LWU', 'mux lie', 'mks lui', 'mzax alee'}, {'MAS LWu', 'MMx luo', 'amax Ilee', 'mOx lIe'}, {'Nmax olee', 'mxa law', 'MGX Lwu', 'mix lie'}, {'manx ilee', 'MNX LWi', 'Mmx low', 'mUx leY'}, {'nmax leel', 'Mmx lio', 'mix lie', 'MNX Lwu'}, {'mux lIe', 'hmax hlee', 'mgz lwy', 'MAC LHI'}, {'amax elee', 'MAk LWE', 'mEx lIe', 'mxu lww'}, {'mUx lIe', 'Mmx llw', 'MAG LWu', 'manx alee'}, {'mxe luo', 'MAq LHl', 'mEx lie', 'amax Ilee'}, {'mqax Hlee', 'MAk Lhh', 'mox leY', 'mcz lii'}, {'mxa lla', 'Hmax Hlee', 'mEx lIe', 'MAG LHL'}, {'MGX Lwi', 'mxi lai', 'nmax leel', 'mEx leY'}, {'nmax olee', 'mux lie', 'mcs lau', 'MAZ LWE'}, {'mxo liu', 'mxax Elee', 'MKX Lwo', 'mEx leY'}, {'msax Hlee', 'MAG LWu', 'mOx lIe', 'mxe lli'}, {'mxa low', 'hmax Ilee', 'mUx lie', 'MAq LHE'}, {'mcax Ulee', 'Mwx lia', 'mIx leY', 'MAs LHh'}, {'MAQ LWI', 'mgax hlee', 'mUx lie', 'mxe lai'}, {'mUx lIe', 'msax Elee', 'MWx lla', 'MNX LWE'}, {'mxu luh', 'MAj Lwu', 'mex lie', 'emax Alee'}, {'mxo lao', 'MAg LWO', 'mzax ilee', 'mix lIe'}, {'mux ley', 'mxo luw', 'MSX Lwu', 'msax olee'}, {'mux lIe', 'mxa luo', 'MAz LHL', 'hmax elee'}, {'mcax elee', 'mxw llo', 'MAG LWE', 'mix lIe'}, {'MAQ Lhl', 'mex lIe', 'imax olee', 'mqz luw'}, {'amax hlee', 'MAc LHl', 'mks lww', 'mUx leY'}, {'imax lele', 'mxa loo', 'mIx leY', 'MAC LWu'}, {'mxe lww', 'MNX LWI', 'mIx leY', 'mgax lele'}, {'MWx lyw', 'umax Elee', 'mUx lie', 'MAC LWu'}, {'mks lai', 'MAQ Lwu', 'mUx ley', 'mqax lele'}, {'mux leY', 'MAG LHh', 'mamx Ilee', 'mxi llw'}, {'MZX LWE', 'emax olee', 'MMx lyw', 'mEx leY'}, {'mux lIe', 'umax Ilee', 'MHX LHH', 'mxe loa'}, {'mkz liu', 'mjax hlee', 'mUx leY', 'MAZ Lhl'}, {'mux lIe', 'mkz low', 'MAc LWi', 'Nmax elee'}, {'mOx lie', 'mgz loi', 'MQX LWi', 'mamx Ilee'}, {'mOx lie', 'mgz loa', 'mqax Hlee', 'MAC LHH'}, {'mux lie', 'MHX Lhi', 'mxy lww', 'Hmax Ulee'}, {'mux lie', 'Mmx lou', 'amax elee', 'MAJ LHl'}, {'mgz lio', 'Nmax ulee', 'mEx ley', 'MGX Lhi'}, {'mjax Hlee', 'MNX LWU', 'mxu liw', 'mEx leY'}, {'MSX Lhl', 'mzax alee', 'mix lie', 'mxw lii'}, {'mjax Elee', 'mqs laa', 'MQX LWu', 'mUx ley'}, {'nmax alee', 'mIx leY', 'Mwx llw', 'MHX LWI'}, {'MAq LHE', 'mxax Alee', 'mox lie', 'mxu luo'}, {'MAj Lwu', 'mox ley', 'emax Olee', 'mcz luh'}, {'mqax Olee', 'mIx lIe', 'mxo lyw', 'MAs LWE'}, {'mix ley', 'mamx olee', 'MAj LHl', 'mxe lio'}, {'mqs lua', 'MAc LHl', 'umax Elee', 'mEx lIe'}, {'MMx llu', 'MAz LWo', 'umax elee', 'mEx leY'}, {'MNX LWo', 'mex lie', 'manx Ulee', 'Mmx lua'}, {'mxax ilee', 'mxo lli', 'mEx lIe', 'MAZ LHI'}, {'msax leel', 'mex lIe', 'mxy loo', 'MGX LHh'}, {'mxax leel', 'mxw loo', 'MAj Lhl', 'mOx leY'}, {'mqax ulee', 'mex lie', 'MAc LWE', 'Mmx lua'}, {'MAg Lwu', 'mex lie', 'Myx loo', 'imax leel'}, {'mkax ulee', 'mgz lau', 'mox lie', 'MNX LWE'}, {'MNX LWE', 'mix lIe', 'Nmax Alee', 'mks loa'}, {'nmax elee', 'MQX LHh', 'mOx leY', 'MMx lio'}, {'nmax Hlee', 'mcs loo', 'MHX Lwi', 'mIx lie'}, {'mjax elee', 'mox ley', 'Mwx lia', 'MAg LHL'}, {'mxax Ilee', 'mox ley', 'MAg LHl', 'mqz loh'}, {'umax Ulee', 'Mmx lau', 'mox ley', 'MAg LHL'}, {'MAs Lhi', 'Myx lih', 'mix leY', 'Hmax olee'}, {'manx hlee', 'MSX LHL', 'mOx lIe', 'mcs lih'}, {'MAQ Lhl', 'imax Alee', 'mcz loo', 'mOx lIe'}, {'msax Hlee', 'mxi llo', 'mex lie', 'MGX LWo'}, {'mUx lIe', 'imax Olee', 'mxi lla', 'MAz LWI'}, {'mjax leel', 'mIx leY', 'MZX LWi', 'Mwx lww'}, {'mks luu', 'amax elee', 'MAG LHi', 'mEx leY'}, {'MAz LHl', 'mIx lIe', 'imax hlee', 'mxu lau'}, {'mux lIe', 'mgs low', 'msax ulee', 'MAg LHi'}, {'mcs lao', 'MAS LHh', 'mox leY', 'mcax olee'}, {'MAZ LHE', 'mks lio', 'mex ley', 'mkax Ilee'}, {'MAc Lhh', 'MWx lau', 'mqax olee', 'mEx leY'}, {'omax lele', 'mex lIe', 'MAJ LHi', 'mxu loo'}, {'MAc LHI', 'mgs lih', 'emax Alee', 'mex leY'}, {'mix ley', 'mcax Ulee', 'mks low', 'MGX LHI'}, {'mkz lao', 'MAg Lwu', 'imax Hlee', 'mEx lie'}, {'umax Elee', 'MAc Lwo', 'mUx lie', 'MMx low'}, {'MZX LHi', 'manx Ilee', 'mcs luh', 'mex leY'}, {'mux lIe', 'mxo lih', 'Amax lele', 'MAc LWi'}, {'mxy luw', 'mcax Ulee', 'mUx lie', 'MAZ LHI'}, {'MNX LHi', 'mkz llu', 'amax ulee', 'mUx leY'}, {'mUx lIe', 'mgs loa', 'MGX LWu', 'mgax Ilee'}, {'mks llu', 'mOx leY', 'MAc LWU', 'nmax alee'}, {'mkax ulee', 'mqs llo', 'mOx leY', 'MAQ LWE'}, {'MAQ Lhl', 'Hmax alee', 'mix lIe', 'mgs loh'}, {'MAc LWi', 'mzax ilee', 'mcs lau', 'mUx ley'}, {'mgs loa', 'mxax ulee', 'MAg LHE', 'mEx leY'}, {'mIx lIe', 'MWx luw', 'MAg LHE', 'amax lele'}, {'mix ley', 'amax Elee', 'mgs laa', 'MSX Lwu'}, {'mgax olee', 'MAj Lwi', 'mxi lao', 'mex ley'}, {'Nmax leel', 'Mwx luo', 'MAk Lhl', 'mEx lie'}, {'MZX Lwo', 'mxax ilee', 'mUx lie', 'mgz lyw'}, {'MAj Lhh', 'mox ley', 'MMx lih', 'mqax Alee'}, {'manx Ulee', 'mxw loa', 'MAG Lwo', 'mEx leY'}, {'mzax olee', 'mcz llo', 'MAC Lwo', 'mEx ley'}, {'mux leY', 'manx lele', 'MHX LHI', 'mkz liw'}, {'MAz LWO', 'mUx lie', 'Mmx lww', 'umax ilee'}, {'MAZ LHi', 'Mwx law', 'mex lie', 'mxax Ulee'}, {'mux lIe', 'emax Olee', 'MAg LHi', 'Myx laa'}, {'mOx lie', 'emax leel', 'MSX LWI', 'Myx luh'}, {'mamx leel', 'MQX LHl', 'mxw liu', 'mIx ley'}, {'mamx Elee', 'MAG LWo', 'mex lIe', 'MMx low'}, {'mgs lou', 'MAJ LHL', 'mix leY', 'omax elee'}, {'mgax Elee', 'mqz luh', 'mix lIe', 'MQX LWU'}, {'mix ley', 'MAc LHl', 'mxu lll', 'mqax olee'}, {'mjax Olee', 'mxo lua', 'MAg LWU', 'mox lie'}, {'mcax Olee', 'mIx lIe', 'mkz lua', 'MAc Lwo'}, {'mxo loh', 'mamx ilee', 'MAk Lhh', 'mix leY'}, {'MAz LWi', 'mIx leY', 'mqs luo', 'emax elee'}, {'mIx lIe', 'mgz loh', 'MAc Lwi', 'emax Ulee'}, {'mxa lao', 'mgax lele', 'mex ley', 'MAg LHl'}, {'MQX LWI', 'mxw luo', 'umax Elee', 'mix leY'}, {'MZX LHi', 'mqax leel', 'mox lie', 'mgz lii'}, {'mxw low', 'MAQ Lhi', 'mqax Elee', 'mIx lie'}, {'mcz lao', 'umax ilee', 'mix lIe', 'MQX LWE'}, {'manx elee', 'mcz lli', 'MAj LHl', 'mIx leY'}, {'mix ley', 'mkz lia', 'mcax ulee', 'MAZ Lwi'}, {'mUx lIe', 'mcax Alee', 'MNX LWo', 'mgz lll'}, {'MZX Lhh', 'Nmax olee', 'mxw loh', 'mex ley'}, {'mux lIe', 'mxu loh', 'mkax elee', 'MAk Lhi'}, {'mxy lla', 'mex lie', 'MGX Lwi', 'Nmax Alee'}, {'Myx lui', 'MAj LHl', 'manx leel', 'mIx lie'}, {'MAQ LHH', 'emax hlee', 'mix lIe', 'mqs luo'}, {'MSX LHH', 'mqax hlee', 'Mmx lui', 'mix leY'}, {'mjax elee', 'mxa laa', 'MQX LHh', 'mix leY'}, {'MAG LHi', 'mqax alee', 'mox ley', 'mxo laa'}, {'MAC LHh', 'Hmax hlee', 'mex leY', 'mkz liw'}, {'umax olee', 'mxw liu', 'mEx ley', 'MAs LWO'}, {'Hmax elee', 'MSX LWi', 'mix lIe', 'MWx lia'}, {'nmax Ilee', 'MWx law', 'MHX LWO', 'mIx leY'}, {'mkz loh', 'msax alee', 'MAg LWI', 'mix lie'}, {'mUx lIe', 'mqz loo', 'MKX Lhi', 'emax Elee'}, {'mks lia', 'Amax Alee', 'MZX Lwu', 'mIx lie'}, {'mqs lui', 'MAz LWO', 'mIx lIe', 'manx hlee'}, {'mUx lIe', 'MAs Lhh', 'manx olee', 'mxo liu'}, {'amax Hlee', 'mix lIe', 'MHX LWI', 'mkz loo'}, {'mxe luu', 'MAk LWO', 'Hmax Hlee', 'mOx lIe'}, {'hmax Ilee', 'mqs lla', 'mUx lie', 'MAC Lwo'}, {'MAc LWu', 'mgax ulee', 'mEx lie', 'mxa loh'}, {'mux leY', 'mgax Ilee', 'MKX LHL', 'mqs loi'}, {'MWx lao', 'MAz LWE', 'mOx leY', 'mqax Ilee'}, {'mux lIe', 'mxax Olee', 'MAc LWO', 'mqz lwy'}, {'mux ley', 'mxy low', 'mamx alee', 'MAs Lhi'}, {'mxo lww', 'mzax leel', 'MAk LWu', 'mix leY'}, {'mux leY', 'mxa liu', 'mzax ulee', 'MAS LHI'}, {'MQX Lwu', 'msax olee', 'mex leY', 'mgs llo'}, {'mux lIe', 'MAC Lhl', 'mkz lah', 'imax Elee'}, {'MAG LHl', 'mxu llo', 'mix leY', 'mkax lele'}, {'mqs lui', 'omax ilee', 'mex leY', 'MGX Lhh'}, {'MAG LWu', 'mxu laa', 'mix lie', 'Hmax olee'}, {'imax Ilee', 'MAk LWu', 'mks laa', 'mIx ley'}, {'mcz llw', 'Hmax Ilee', 'MAC LWE', 'mex ley'}, {'mux leY', 'mkax alee', 'Myx liu', 'MSX Lwu'}, {'mcax Alee', 'Mmx lia', 'mUx leY', 'MSX LWE'}, {'MAZ LHh', 'msax Ulee', 'mex ley', 'mkz loa'}, {'MAC LWo', 'amax ulee', 'mEx lie', 'mxu lwy'}, {'mxy law', 'umax Elee', 'mEx lie', 'MSX LWo'}, {'mamx leel', 'Mwx loi', 'mEx lIe', 'MGX Lwo'}, {'MQX LWI', 'omax ulee', 'Mwx lui', 'mEx lie'}, {'mxa liu', 'nmax leel', 'mex lie', 'MAs LHE'}, {'mks liw', 'mkax ulee', 'mex ley', 'MAq LHH'}, {'mamx lele', 'mOx lIe', 'MAc LWi', 'mcs liw'}, {'Mmx lah', 'mex leY', 'MHX LWE', 'emax ulee'}, {'mxax ilee', 'MAs LWI', 'mxa llu', 'mix lie'}, {'mxi laa', 'mox leY', 'umax ilee', 'MGX LHh'}, {'MAJ Lhl', 'umax alee', 'mix lie', 'mxi lli'}, {'manx hlee', 'Myx lai', 'mox lIe', 'MGX Lhl'}, {'mcz lla', 'imax Alee', 'mUx lie', 'MAJ LWi'}, {'mux leY', 'MAS Lwi', 'mxax elee', 'mxw liw'}, {'MSX LHi', 'mux lie', 'omax lele', 'MWx lah'}, {'mxo lih', 'MAc Lhh', 'mxax olee', 'mix lie'}, {'imax hlee', 'mIx lIe', 'mks luh', 'MAz Lhi'}, {'mcax Ilee', 'mux lie', 'MAQ LWu', 'mxw lia'}, {'mux lIe', 'MAs Lhh', 'mcax lele', 'mxy lww'}, {'MGX LWU', 'mxu lah', 'msax lele', 'mox leY'}, {'manx hlee', 'mqz llu', 'mix leY', 'MAj Lwo'}, {'MAz LHL', 'mkz lll', 'mxax Elee', 'mIx ley'}, {'mxu lyw', 'Amax Ulee', 'mix leY', 'MAk Lhi'}, {'mux ley', 'Nmax Ulee', 'MAc LHH', 'mgs luh'}, {'Myx llu', 'mex lIe', 'mgax Ilee', 'MGX Lhl'}, {'mOx lie', 'MAJ LHh', 'Mwx lao', 'mqax ilee'}, {'MAq LWI', 'mxu luw', 'mEx lie', 'amax ilee'}, {'mox ley', 'MAc LHh', 'mkax Alee', 'Mwx lla'}, {'Hmax elee', 'mxw lih', 'MAj LWU', 'mUx leY'}, {'mgax ulee', 'MAg Lwi', 'mox lie', 'mxe laa'}, {'MZX LWE', 'mIx lIe', 'msax Alee', 'mqz llo'}, {'mux leY', 'mxo loa', 'nmax Alee', 'MKX Lhh'}, {'MAQ LWI', 'Myx llu', 'nmax lele', 'mIx leY'}, {'mxa liu', 'MAq LWo', 'mkax Elee', 'mIx ley'}, {'mxa lao', 'mex lIe', 'msax ulee', 'MGX Lhi'}, {'mqz loa', 'Hmax ulee', 'mEx ley', 'MAS LWi'}, {'mOx ley', 'mxw luw', 'umax alee', 'MAq Lwu'}, {'MAJ LWI', 'mkz lau', 'amax Elee', 'mEx ley'}, {'mox ley', 'emax alee', 'MZX LHI', 'Mmx lii'}, {'Mmx loo', 'MAC Lwo', 'mEx ley', 'hmax leel'}, {'mgs laa', 'MAG LWu', 'mUx ley', 'manx leel'}, {'mcax Olee', 'MAJ LWi', 'mEx lIe', 'mxo lou'}, {'mgs lio', 'nmax Alee', 'MZX Lwo', 'mOx lIe'}, {'mgs lla', 'omax ulee', 'mox leY', 'MAk Lhi'}, {'mcz laa', 'MKX LWu', 'mox lIe', 'Hmax lele'}, {'hmax lele', 'MNX LWu', 'MWx low', 'mEx leY'}, {'mxy lao', 'MSX LHI', 'mqax alee', 'mox lIe'}, {'mOx lie', 'MAk LWO', 'mcs liu', 'amax ilee'}, {'MAS Lhl', 'mux lie', 'mks lio', 'nmax Olee'}, {'MAQ LHL', 'mxax olee', 'mix leY', 'mcs lah'}, {'mix ley', 'mkax ilee', 'Mwx lih', 'MAk LHH'}, {'MAQ LWo', 'mxo luh', 'mex lie', 'umax Olee'}, {'mxu law', 'mOx ley', 'MAG LHi', 'Amax ilee'}, {'MAQ LWI', 'mqs lai', 'mqax Ulee', 'mEx leY'}, {'Amax Ilee', 'MQX Lhl', 'mex leY', 'mxw liw'}, {'mgs lah', 'mex leY', 'imax ulee', 'MAJ LWu'}, {'MAC LHh', 'mcax elee', 'mEx lIe', 'Mwx liw'}, {'mamx ulee', 'mix lie', 'mqs low', 'MHX LWU'}, {'amax leel', 'mcs loa', 'MHX Lhh', 'mEx lIe'}, {'mxe liw', 'Hmax alee', 'MAz LWO', 'mUx ley'}, {'mux leY', 'nmax Olee', 'MAs Lhh', 'mcs low'}, {'mIx lIe', 'imax Hlee', 'mxe low', 'MAk LHH'}, {'mqz lia', 'umax elee', 'MKX LHi', 'mEx ley'}, {'mux ley', 'Nmax olee', 'mkz lww', 'MHX LHH'}, {'MAJ Lwo', 'mIx lIe', 'amax Hlee', 'mcs liw'}, {'MAQ Lhl', 'Nmax hlee', 'mOx leY', 'mqs llu'}, {'MGX LHI', 'mIx lIe', 'nmax Ilee', 'Mwx liw'}, {'MAZ Lhh', 'mamx alee', 'mOx lIe', 'mgz lll'}, {'MAz LHE', 'manx alee', 'mix leY', 'mgs luh'}, {'nmax leel', 'mgs lyw', 'mIx leY', 'MAq Lwu'}, {'MAg LHH', 'mxe loo', 'mox lIe', 'umax elee'}, {'MSX LHi', 'mxw laa', 'mIx ley', 'mamx Ilee'}, {'mkax leel', 'MAj Lhl', 'mex leY', 'mxw llu'}, {'Amax Elee', 'mex leY', 'mxw lii', 'MQX Lhi'}, {'mOx lie', 'omax olee', 'mgz lww', 'MAk Lwi'}, {'umax Alee', 'mgz law', 'mOx leY', 'MAs LWU'}, {'MSX LHl', 'mxo law', 'mox lie', 'emax Hlee'}, {'MGX LHI', 'umax Elee', 'mex ley', 'Myx loa'}, {'hmax leel', 'mks luo', 'mix lie', 'MZX Lhi'}, {'mxo lao', 'MAZ LHi', 'Amax Hlee', 'mex leY'}, {'mxw lao', 'MZX Lwu', 'omax Ulee', 'mIx leY'}, {'MSX Lwu', 'MWx law', 'msax olee', 'mIx lie'}, {'mxi llo', 'nmax lele', 'mex leY', 'MAq LHL'}, {'mOx lie', 'MAq Lwu', 'mgs lia', 'amax leel'}, {'mUx lIe', 'mgs lou', 'MHX LHH', 'omax Hlee'}, {'mcax hlee', 'MHX LHH', 'mex ley', 'mxy lii'}, {'mOx lie', 'mxa low', 'MAQ LWo', 'Hmax elee'}, {'mxu luh', 'MNX LHH', 'mex ley', 'umax ilee'}, {'MGX LWi', 'mxu lih', 'mix leY', 'mgax Hlee'}, {'mOx ley', 'mcz lao', 'MAz LWE', 'Hmax ilee'}, {'mUx lIe', 'mxu llw', 'MAG LHE', 'hmax elee'}, {'mix ley', 'MAG LWu', 'imax leel', 'mxa loh'}, {'amax Ulee', 'MQX LWI', 'mks laa', 'mox lIe'}, {'mjax Ilee', 'mxo lui', 'MZX Lwi', 'mIx lie'}, {'Mmx lau', 'MAC Lhh', 'mix lIe', 'mjax Ilee'}, {'amax leel', 'MAS LWI', 'mgz loh', 'mIx lie'}, {'MQX Lhl', 'mxu liw', 'mgax Olee', 'mEx leY'}, {'MAq LWE', 'mOx ley', 'omax hlee', 'mxu lww'}, {'MAq LHi', 'mqax Hlee', 'mox lIe', 'mxe lao'}, {'mxu lua', 'MAS LHi', 'mOx leY', 'nmax lele'}, {'mOx lie', 'mcax Elee', 'MAC LHL', 'Mmx luh'}, {'imax olee', 'MAq Lhh', 'Myx lui', 'mUx lie'}, {'imax olee', 'mcz lww', 'mox lie', 'MAg Lwo'}, {'mks luu', 'MAj LHL', 'nmax Ulee', 'mIx ley'}, {'Myx lui', 'mamx olee', 'MZX LHH', 'mIx ley'}, {'MAz LHE', 'mgax Ilee', 'mex ley', 'mqs loi'}, {'Nmax Ulee', 'MZX LHH', 'mxo luo', 'mIx lie'}, {'MAQ LWo', 'mxax elee', 'mex ley', 'mxu lli'}, {'manx Elee', 'MGX LWU', 'mkz lua', 'mEx lIe'}, {'mix ley', 'msax Hlee', 'MWx loo', 'MQX Lhh'}, {'mux lie', 'mgax alee', 'MGX LWo', 'MMx laa'}, {'Hmax elee', 'MZX LHE', 'mox ley', 'Mwx low'}, {'mix ley', 'hmax Hlee', 'mgz lww', 'MAZ LWE'}, {'manx Elee', 'MAC LHh', 'mxy luu', 'mix lie'}, {'MQX Lwi', 'mqz lli', 'mOx leY', 'mzax elee'}, {'MAz LHl', 'mex lie', 'manx elee', 'mks luw'}, {'Nmax leel', 'mcs lai', 'mIx ley', 'MAg LWU'}, {'mOx ley', 'Amax Ulee', 'mxo lyw', 'MAJ Lhh'}, {'mUx lIe', 'MWx lio', 'mjax Olee', 'MSX Lhh'}, {'mkz liu', 'Nmax Elee', 'mIx leY', 'MAq LWi'}, {'mix ley', 'umax Ulee', 'MZX LHh', 'mkz luu'}, {'mxa lua', 'mex lIe', 'MZX LWU', 'nmax leel'}, {'emax Ulee', 'mox lIe', 'mxu loo', 'MSX LWO'}, {'mux lie', 'MSX LHl', 'mgax Hlee', 'mkz lll'}, {'MAc LWI', 'mxo lui', 'msax Alee', 'mEx ley'}, {'mamx Elee', 'mex lIe', 'mcz liw', 'MAS LWo'}, {'MAz Lwu', 'mox lIe', 'Amax alee', 'Myx lli'}, {'MKX LHl', 'Nmax Hlee', 'mcz low', 'mex ley'}, {'mgs lli', 'MNX LHH', 'imax hlee', 'mIx lie'}, {'mux lIe', 'msax lele', 'MMx lao', 'MAG LHL'}, {'mix ley', 'mcax Elee', 'MAC Lhl', 'mgs lll'}, {'mkz low', 'Hmax ilee', 'mEx lie', 'MQX Lhi'}, {'mOx ley', 'mgz lwy', 'MKX LWI', 'mzax elee'}, {'Hmax elee', 'Mwx loo', 'MNX LHH', 'mex leY'}, {'mux leY', 'MZX LHi', 'mxi lou', 'mkax Olee'}, {'MAG LWE', 'mOx lIe', 'MWx lli', 'mjax olee'}, {'mxu loi', 'mamx leel', 'mix lie', 'MQX LHl'}, {'mOx ley', 'Myx liu', 'msax alee', 'MNX LWE'}, {'mgax Alee', 'mxi llu', 'MAc Lwo', 'mex leY'}, {'MAZ Lhh', 'hmax Ilee', 'mks lou', 'mex leY'}, {'MHX Lwu', 'umax Ulee', 'Mmx low', 'mEx ley'}, {'MMx lli', 'MZX LWi', 'nmax ilee', 'mex ley'}, {'mkz lww', 'MAs LHE', 'Amax olee', 'mIx lie'}, {'mqax Hlee', 'mqs lah', 'MZX LHL', 'mex leY'}, {'mgz llo', 'mjax leel', 'MAJ LHi', 'mIx lie'}, {'umax Ilee', 'MAq LWE', 'mUx leY', 'Mwx lla'}, {'MAg LHI', 'MWx lao', 'mUx lie', 'mqax ulee'}, {'omax hlee', 'mxo llw', 'mUx ley', 'MAz Lhi'}, {'mix ley', 'mxy lui', 'mgax ulee', 'MZX Lhi'}, {'MAS LHL', 'mgs lwy', 'mox lIe', 'amax Ilee'}, {'amax Olee', 'MNX LHH', 'mox leY', 'mxe loh'}, {'mzax alee', 'MAc LHE', 'mox leY', 'MWx lih'}, {'mux lIe', 'MAk LHE', 'Mwx liw', 'manx leel'}, {'MAC Lwu', 'mzax hlee', 'mOx lIe', 'mkz lll'}, {'mgs low', 'hmax Elee', 'mOx lIe', 'MZX LWu'}, {'mxo loi', 'mqax hlee', 'mix lIe', 'MAs LHI'}, {'amax elee', 'MMx lau', 'mox lie', 'MAk Lwu'}, {'mqz luh', 'nmax hlee', 'mox lIe', 'MAz LHh'}, {'amax leel', 'MKX LHH', 'mIx ley', 'mxu lau'}, {'MMx lii', 'manx elee', 'MZX LHh', 'mex ley'}, {'mxo luh', 'MAc Lwo', 'mEx lie', 'mcax Elee'}, {'MAQ LHL', 'mjax lele', 'mox lie', 'Mwx llu'}, {'mxi lui', 'Hmax Ulee', 'mIx leY', 'MAc LWE'}, {'MMx llu', 'mux lie', 'mcax hlee', 'MAj LHI'}, {'MQX Lwu', 'mqz llu', 'mix leY', 'mjax olee'}, {'MAC LHH', 'mzax ilee', 'mix lIe', 'mgs liu'}, {'mOx lie', 'MAC LHL', 'imax leel', 'mcs loi'}, {'Amax ilee', 'mUx lie', 'mxa liw', 'MAc Lhi'}, {'mgz laa', 'omax ulee', 'MAg LWu', 'mEx leY'}, {'MAg Lwi', 'Mmx law', 'mEx ley', 'Hmax olee'}, {'MAg LHH', 'mxax Alee', 'mox lie', 'mgs loh'}, {'nmax Ulee', 'MAj LHi', 'mxa loo', 'mix lIe'}, {'MAG LHh', 'mox ley', 'mcz loh', 'omax alee'}, {'umax Elee', 'mgz luu', 'MZX Lwo', 'mEx leY'}, {'mux leY', 'MZX LWI', 'amax lele', 'Mwx lla'}, {'Mmx loi', 'mamx Olee', 'mix lie', 'MZX Lwi'}, {'mcz llw', 'mox leY', 'Amax hlee', 'MAq LWu'}, {'mOx lie', 'umax elee', 'Mmx low', 'MAk LHH'}, {'mOx lie', 'Amax Ilee', 'mxy lio', 'MHX LWU'}, {'mix ley', 'mcax Olee', 'MAc LHE', 'mkz lww'}, {'amax hlee', 'MNX LWU', 'mEx ley', 'mxo lll'}, {'MAG Lhl', 'nmax ilee', 'mxw lww', 'mEx leY'}, {'mgs lwy', 'MAj Lwi', 'mxax hlee', 'mIx lie'}, {'mgs llw', 'MAS LHH', 'mUx lie', 'umax leel'}, {'mkax lele', 'mxw luh', 'mEx lIe', 'MAq LWE'}, {'MZX Lhh', 'mgz llu', 'mgax Hlee', 'mIx ley'}, {'mux leY', 'MAG LHh', 'mxw laa', 'Nmax leel'}, {'mgz law', 'mix lIe', 'mqax olee', 'MHX Lhh'}, {'mxw lau', 'MAq Lhl', 'omax Ulee', 'mix lie'}, {'mux ley', 'mgax elee', 'mxw loa', 'MAs LHh'}, {'MQX LHL', 'mcz lui', 'mIx ley', 'Hmax olee'}, {'mux lIe', 'mxe lih', 'mcax elee', 'MAk LHL'}, {'mix ley', 'mcs luo', 'mzax hlee', 'MAk Lwo'}, {'MAG LHh', 'mOx leY', 'mxu lia', 'Nmax Olee'}, {'mkz lua', 'MAs LHH', 'umax ilee', 'mIx lie'}, {'MGX LHl', 'Hmax hlee', 'mex lie', 'Mwx lou'}, {'mks llw', 'mEx ley', 'mcax alee', 'MAQ LHl'}, {'MAj LWI', 'mcz loa', 'mzax Hlee', 'mIx ley'}, {'MAz LWo', 'mcs luo', 'amax Hlee', 'mox lIe'}, {'MWx luo', 'MAS LWi', 'mqax Hlee', 'mUx leY'}, {'mjax Hlee', 'mUx leY', 'mcs lua', 'MAC LWu'}, {'Mwx law', 'MAz LHI', 'mEx lIe', 'Hmax olee'}, {'mxa luu', 'Nmax leel', 'MNX Lhi', 'mIx lie'}, {'mgs laa', 'mox leY', 'MZX LHH', 'imax Elee'}, {'MMx lua', 'MAG Lhh', 'mzax Olee', 'mUx leY'}, {'amax elee', 'MAG Lhh', 'mOx lIe', 'mxy lai'}, {'mqax Olee', 'mxw loa', 'mox leY', 'MAc LHL'}, {'MHX LHh', 'mxi lau', 'nmax elee', 'mEx leY'}, {'mUx lIe', 'mcz lui', 'MGX Lhh', 'mzax Alee'}, {'mOx ley', 'mqs lli', 'mamx Ulee', 'MAZ LWi'}, {'mqz luu', 'mzax lele', 'MAg Lhl', 'mex ley'}, {'mzax ilee', 'MNX LWi', 'mgs lyw', 'mex leY'}, {'MGX Lwi', 'Nmax Elee', 'mox leY', 'Myx law'}, {'MAq LWO', 'mex lie', 'mzax Hlee', 'MWx lua'}, {'mxax leel', 'mex lIe', 'MMx lla', 'MGX Lhl'}, {'amax Alee', 'mxu lii', 'MHX Lhh', 'mEx lIe'}, {'Amax Ilee', 'mqs law', 'mIx ley', 'MAs LHl'}, {'mxy loh', 'mex leY', 'MZX LHI', 'mcax leel'}, {'mxu lyw', 'mex leY', 'omax Hlee', 'MAq LWu'}, {'MAq Lhl', 'mxi luh', 'mox leY', 'mamx Elee'}, {'mOx lie', 'MAc Lhh', 'Myx luh', 'Amax Ulee'}, {'mxo loi', 'omax lele', 'mEx ley', 'MNX Lwu'}, {'mux lIe', 'mcz lla', 'MQX LHI', 'mzax alee'}, {'mux leY', 'mzax Elee', 'mqs loh', 'MAs LHl'}, {'imax olee', 'mux lie', 'Mwx lai', 'MGX LWu'}, {'MHX LHh', 'mxax Hlee', 'mUx lie', 'Myx lah'}, {'mxi luh', 'MHX Lwu', 'mEx lIe', 'Nmax ulee'}, {'mix ley', 'mgs liw', 'MAj LHh', 'mkax lele'}, {'MAk LHE', 'Nmax ilee', 'mox lIe', 'mxy laa'}, {'MAC LHl', 'mqax ilee', 'mxo lyw', 'mIx lie'}, {'hmax leel', 'MAC LWi', 'mex leY', 'MMx lao'}, {'mex lIe', 'MAs LHI', 'mqax alee', 'Mwx llw'}, {'MWx luo', 'MNX LWO', 'imax ilee', 'mEx lIe'}, {'MQX LWE', 'mgax olee', 'mEx lIe', 'Mmx lao'}, {'mex lIe', 'MGX LWI', 'MMx lio', 'mjax olee'}, {'mxe liu', 'MQX LWi', 'mex lie', 'omax ulee'}, {'manx ulee', 'mks llu', 'mUx ley', 'MAC LWu'}, {'MGX LWO', 'nmax hlee', 'mEx lie', 'mxe law'}, {'MHX LHh', 'MWx law', 'mex leY', 'amax Ilee'}, {'amax Olee', 'MAz Lwi', 'mex leY', 'mxo low'}, {'mOx lie', 'manx Ulee', 'MGX LHE', 'mks lio'}, {'MAZ Lhi', 'mex lie', 'mgax Ulee', 'mxa lai'}, {'amax Olee', 'MAj LWi', 'mix lie', 'mxy loi'}, {'MAQ LHH', 'amax elee', 'mEx lie', 'Mwx llu'}, {'omax olee', 'mxi loi', 'mox leY', 'MKX LWo'}, {'Amax Ilee', 'mox lIe', 'mxy loi', 'MAZ Lwi'}, {'mxw lui', 'MZX Lhl', 'mox ley', 'mxax alee'}, {'mOx lie', 'mzax ilee', 'mgs lww', 'MAs LHE'}, {'mxe loo', 'Hmax Hlee', 'MAc Lhl', 'mIx ley'}, {'MAQ LHh', 'MWx loo', 'mamx ilee', 'mex leY'}, {'mux leY', 'msax elee', 'MWx lll', 'MAs LWE'}, {'mqs lua', 'MAG LWO', 'omax Olee', 'mEx leY'}, {'MAq Lhl', 'mxu lou', 'mox ley', 'mxax Elee'}, {'mcax Hlee', 'MSX LWU', 'mUx ley', 'Mmx lii'}, {'mqz loa', 'hmax Olee', 'mOx leY', 'MAc LHH'}, {'imax olee', 'MAJ LWE', 'mex lie', 'mks laa'}, {'emax lele', 'mxu luu', 'mex lie', 'MAZ LHE'}, {'mxu lyw', 'hmax Hlee', 'mOx leY', 'MAk Lwo'}, {'MAQ LWu', 'mIx lIe', 'MWx lio', 'mkax Ilee'}, {'MAJ Lwo', 'mcax ulee', 'mEx lIe', 'mgz lai'}, {'umax Olee', 'mix lie', 'mgz luo', 'MAJ LWu'}, {'mOx lie', 'MAG LHE', 'MWx lua', 'mkax Ilee'}, {'MAk LHh', 'mex lIe', 'mks lou', 'mqax Olee'}, {'mux ley', 'mqs lla', 'MAS Lhl', 'umax hlee'}, {'mxi llo', 'mex lIe', 'MQX Lwi', 'Hmax hlee'}, {'Mmx lia', 'mamx alee', 'MAj LWu', 'mIx lie'}, {'Hmax Alee', 'mex lIe', 'Mmx lai', 'MAJ LWu'}, {'mxi luh', 'mIx lIe', 'MAZ Lhh', 'nmax leel'}, {'mux lie', 'Myx lla', 'MAQ LWu', 'mjax elee'}, {'Hmax elee', 'mxo laa', 'MAC LWU', 'mIx lie'}, {'mux ley', 'emax olee', 'MWx lia', 'MAq Lwo'}, {'MAz LWU', 'mkax Elee', 'mks lou', 'mIx ley'}, {'omax olee', 'MQX LHI', 'mex lie', 'MMx loa'}, {'MAc Lhl', 'mEx lIe', 'imax ulee', 'MWx lio'}, {'mxe lah', 'MAZ LHh', 'umax olee', 'mox lie'}, {'MAs Lwo', 'mcax hlee', 'mIx leY', 'Mmx lli'}, {'mxa luh', 'Nmax Ulee', 'MKX Lwu', 'mix leY'}, {'mux leY', 'manx Ilee', 'mcz lwy', 'MQX Lhh'}, {'MAz LHh', 'mox ley', 'Nmax Elee', 'mgs llo'}, {'mcz lou', 'mzax Olee', 'mOx lIe', 'MAk Lwu'}, {'MAz Lhl', 'mqax alee', 'mIx leY', 'MWx lah'}, {'imax elee', 'mxe loo', 'mix leY', 'MAs LHI'}, {'MAS LHH', 'mxo loo', 'mUx lie', 'Amax olee'}, {'mix ley', 'emax Alee', 'MAS LHl', 'MWx lua'}, {'mqax leel', 'MMx loo', 'MKX LHH', 'mEx leY'}, {'mcz llw', 'mex lie', 'mcax ilee', 'MAg Lhi'}, {'mxax Hlee', 'MAq Lhi', 'mOx lIe', 'mkz llw'}, {'mcs loa', 'mamx alee', 'MAG LHE', 'mEx leY'}, {'MAz Lwi', 'mOx lIe', 'Hmax ulee', 'Mwx llu'}, {'MAg Lhl', 'Mwx lah', 'mEx lie', 'emax Ulee'}, {'mOx ley', 'mcz loa', 'msax ulee', 'MAj LWE'}, {'MNX LHi', 'manx Hlee', 'mox ley', 'mqz llw'}, {'MAZ Lhi', 'imax leel', 'mox leY', 'mxo luo'}, {'MAz LWo', 'MWx lou', 'mIx leY', 'omax Hlee'}, {'mzax ulee', 'mux lie', 'mgz llu', 'MAq LHH'}, {'mux lIe', 'omax Olee', 'MMx llu', 'MAG LWE'}, {'mux lie', 'MAj LWi', 'mcs luw', 'emax Ulee'}, {'MSX LWi', 'mix leY', 'Amax alee', 'mcs liw'}, {'imax olee', 'mux lie', 'mxu lii', 'MKX LHE'}, {'MAC LHh', 'mqz lao', 'mix leY', 'mzax elee'}, {'mkax ulee', 'Mwx lau', 'MAZ Lwi', 'mUx ley'}, {'mux leY', 'MAQ LWi', 'emax elee', 'mxo lao'}, {'Nmax Hlee', 'mxy loh', 'MAS LHH', 'mUx ley'}, {'MAJ Lhl', 'mux lie', 'msax olee', 'mqs loi'}, {'mgs laa', 'nmax Hlee', 'MAg LWI', 'mox lIe'}, {'imax alee', 'MAj LHL', 'MWx lyw', 'mix leY'}, {'MAQ Lwi', 'mox ley', 'msax leel', 'mqz liu'}, {'Nmax ulee', 'mqs laa', 'mIx leY', 'MAs Lwi'}, {'mgz liw', 'mqax Alee', 'mUx ley', 'MAJ Lhh'}, {'mcz lah', 'mxax elee', 'mEx ley', 'MAk LHH'}, {'omax ulee', 'mgz lua', 'mix lIe', 'MAG LHH'}, {'MAS LHE', 'mxw llo', 'mEx lIe', 'Amax hlee'}, {'mUx lIe', 'Amax Elee', 'MAq LHI', 'Mmx luw'}, {'mux ley', 'MAC LHh', 'hmax Ulee', 'mqz loh'}, {'mex lIe', 'mxe loo', 'MAG LHI', 'emax Olee'}, {'MAG Lwi', 'mIx lIe', 'mqax Ulee', 'MWx liw'}, {'mjax leel', 'mxi lyw', 'MAQ LHi', 'mox lie'}, {'MAk LWI', 'mgax Alee', 'mUx lie', 'mgs loh'}, {'mcax Ilee', 'mxo lla', 'mEx ley', 'MAj LWE'}, {'hmax Hlee', 'mcz luu', 'mix leY', 'MKX Lwo'}, {'MAQ LHL', 'mEx ley', 'msax Olee', 'mxu lli'}, {'mxo llo', 'mIx lIe', 'mkax elee', 'MSX LWO'}, {'MSX LWi', 'mxo loo', 'mix lie', 'Amax ilee'}, {'Mmx loi', 'Nmax lele', 'mUx lie', 'MNX LHi'}, {'msax Hlee', 'mxu luu', 'mEx lIe', 'MAJ LHl'}, {'mOx lie', 'MAZ Lhh', 'Nmax Elee', 'mxa llw'}, {'MZX Lhh', 'mIx lIe', 'mgs lwy', 'emax Olee'}, {'MAz LWu', 'Mmx luo', 'mIx ley', 'mjax alee'}, {'mix ley', 'Mmx lau', 'mjax Elee', 'MAk Lhi'}, {'MAz LHE', 'mxax olee', 'mex lie', 'mxw lai'}, {'MAJ LHL', 'Mwx lii', 'omax Hlee', 'mex ley'}, {'MAZ LHi', 'mxi lai', 'mex lie', 'mamx Hlee'}, {'mxe lll', 'MGX LWo', 'omax hlee', 'mEx ley'}, {'mUx lIe', 'mkz lau', 'MQX Lwu', 'manx elee'}, {'mxi luh', 'MAk LHE', 'mEx ley', 'msax Elee'}, {'mxw luw', 'mjax lele', 'MAs Lwi', 'mex ley'}, {'mamx Olee', 'mIx lIe', 'MAJ Lhh', 'mxy llw'}, {'mOx lie', 'nmax alee', 'MGX Lhi', 'mcs llo'}, {'mgs loa', 'mamx ilee', 'mEx lIe', 'MAC Lwi'}, {'mkz lah', 'MAk LHl', 'amax Alee', 'mix lIe'}, {'mux lIe', 'mxax olee', 'MAg Lwo', 'mgs lli'}, {'MAG Lhh', 'mxw laa', 'mUx leY', 'mamx Alee'}, {'Myx low', 'MAG LHl', 'umax Alee', 'mIx ley'}, {'mox leY', 'mgz lll', 'mqax ilee', 'MAj LWE'}, {'hmax hlee', 'MAs Lhh', 'mgz luu', 'mix lIe'}, {'mxy low', 'mex leY', 'MAC LHi', 'mkax ilee'}, {'Amax Olee', 'MAg LWu', 'mox lie', 'mqs loi'}, {'mix ley', 'mcax Alee', 'Mmx liu', 'MZX LWi'}, {'MSX LHi', 'mqz lao', 'mix lIe', 'mjax lele'}, {'mks lah', 'MAS LWE', 'emax Alee', 'mEx lie'}, {'mIx lIe', 'mks luw', 'MAJ LWE', 'imax ulee'}, {'mcs lww', 'mamx ilee', 'MQX Lwo', 'mOx lIe'}, {'MNX LHI', 'mcz lyw', 'mUx lie', 'hmax ilee'}, {'MAQ LWO', 'mxu lih', 'nmax alee', 'mEx lie'}, {'mxo loi', 'mOx ley', 'mgax elee', 'MAC Lhi'}, {'mux ley', 'MAC LWO', 'mqs lll', 'Amax ilee'}, {'mxy lyw', 'mcax Olee', 'mox lIe', 'MAZ LWu'}, {'MAs LHL', 'mox ley', 'mqz llu', 'msax ulee'}, {'MAJ LWI', 'mux lie', 'Mwx luh', 'msax Olee'}, {'mUx lIe', 'mgax alee', 'MAz LWE', 'Myx lyw'}, {'mxax Ilee', 'mxw luw', 'mex leY', 'MZX LHh'}, {'mqs lua', 'MHX LWE', 'imax Olee', 'mUx leY'}, {'mcax Ilee', 'mxe lww', 'mEx lIe', 'MGX LWO'}, {'nmax olee', 'mgs lih', 'MNX LHl', 'mix leY'}, {'MAZ Lhh', 'mxa lau', 'mUx leY', 'emax ulee'}, {'mxu loi', 'MAJ LHl', 'mgax alee', 'mox lie'}, {'mxo luw', 'MAc Lhh', 'mEx lIe', 'Amax hlee'}, {'mxi lww', 'MGX Lwu', 'mox leY', 'mqax Ulee'}, {'mux leY', 'amax Hlee', 'MSX Lwo', 'Myx loo'}, {'MAq LHh', 'Amax elee', 'mks lui', 'mEx ley'}, {'mex lie', 'msax Ulee', 'mxo law', 'MAg Lhh'}, {'mxu lao', 'mux lie', 'MAs LHE', 'omax leel'}, {'umax leel', 'mqz lao', 'MAQ Lwu', 'mOx lIe'}, {'mex lie', 'mks luh', 'manx elee', 'MAs LWo'}, {'mgz lua', 'MNX LHl', 'mEx ley', 'mjax Alee'}, {'mOx ley', 'Nmax Hlee', 'MSX LHE', 'mxy lwy'}, {'mUx lIe', 'mxe luw', 'mgax Ilee', 'MAk Lwo'}, {'mamx leel', 'mgs lwy', 'mUx lie', 'MAZ LHH'}, {'mzax olee', 'mox ley', 'mkz lwy', 'MAC Lhi'}, {'emax hlee', 'mks llu', 'mUx ley', 'MZX Lhi'}, {'mqz lau', 'mzax Alee', 'mIx ley', 'MSX Lhh'}, {'Myx lui', 'emax Ilee', 'mIx ley', 'MAs LWE'}, {'mux ley', 'MAJ Lwo', 'hmax hlee', 'mxw lah'}, {'mix ley', 'MAq LWI', 'imax alee', 'mxo lao'}, {'mcz lwy', 'MAc LHE', 'omax lele', 'mIx leY'}, {'MAG Lhl', 'omax lele', 'mix lIe', 'mcz liu'}, {'mkz lyw', 'mEx ley', 'Nmax Alee', 'MAq LWu'}, {'mix ley', 'MAq LWo', 'mzax alee', 'mxu lia'}, {'mux ley', 'MZX Lhh', 'omax Ilee', 'mxa lou'}, {'mOx ley', 'Hmax Olee', 'MAC LHE', 'mgz lii'}, {'mux lIe', 'MAq LHl', 'mamx olee', 'mgs lla'}, {'omax ulee', 'MWx lla', 'mex ley', 'MAC Lwo'}, {'mux ley', 'MAJ LWo', 'mcax Hlee', 'mqs loo'}, {'MHX LWo', 'manx elee', 'mOx lIe', 'mqz llw'}, {'MAS LWI', 'mkax Ilee', 'mix lie', 'mxo lou'}, {'MAS LHL', 'manx Hlee', 'mUx leY', 'mkz llw'}, {'mux lie', 'MAS LHh', 'MMx lah', 'manx lele'}, {'mex lie', 'MAQ LHl', 'umax olee', 'Myx lyw'}, {'mix ley', 'mxw llo', 'mzax hlee', 'MKX Lwu'}, {'manx Ulee', 'mox ley', 'MMx loi', 'MAc LWu'}, {'mqs law', 'Nmax olee', 'mix lIe', 'MQX LWU'}, {'MAG Lwi', 'MWx luw', 'umax alee', 'mix leY'}, {'mix ley', 'mxu lll', 'MAJ Lwi', 'nmax lele'}, {'mux lie', 'MAz LHl', 'msax elee', 'mqs lao'}, {'MAC LHI', 'omax elee', 'mEx lie', 'mxw lua'}, {'mxi laa', 'mox ley', 'msax olee', 'MAq LWu'}, {'mOx lie', 'MAq LWi', 'Amax leel', 'Mmx luo'}, {'MAG Lhl', 'mxi loi', 'mix leY', 'mxax ilee'}, {'mOx ley', 'mgax hlee', 'MAs LHE', 'mxo llo'}, {'MAg LHi', 'mIx lIe', 'nmax alee', 'mxu lia'}, {'mqax leel', 'mxw lao', 'mox ley', 'MAj Lhh'}, {'MAZ LWI', 'mEx ley', 'MWx lli', 'mgax Elee'}, {'imax alee', 'MKX Lhi', 'mOx lIe', 'mgz liu'}, {'MAG LHh', 'Nmax hlee', 'mxi liu', 'mUx leY'}, {'mgs lui', 'omax Ulee', 'MZX Lwo', 'mox lie'}, {'MNX LWO', 'mgax Olee', 'mex ley', 'MWx llo'}, {'mkz luo', 'mcax leel', 'MKX LWo', 'mIx lie'}, {'MGX LWO', 'Amax Elee', 'mUx ley', 'mxu luo'}, {'mux lIe', 'MMx lia', 'omax Hlee', 'MAG LWi'}, {'MQX Lwu', 'mjax Ulee', 'mix lie', 'mxa lll'}, {'MAz LHL', 'nmax Elee', 'mxo luo', 'mEx leY'}, {'MNX Lwo', 'mxw lia', 'mUx lie', 'mamx Elee'}, {'mjax Hlee', 'MAk LWE', 'mex leY', 'mcz llu'}, {'omax Elee', 'mIx leY', 'MMx lwy', 'MZX Lhi'}, {'mOx lie', 'mzax olee', 'MAc LHE', 'Myx lwy'}, {'Mmx llo', 'MAc LHi', 'mOx leY', 'amax olee'}, {'mex lie', 'MMx lih', 'MAQ LHi', 'imax Elee'}, {'mxa lla', 'msax leel', 'MAk LWu', 'mox lIe'}, {'mux lie', 'Mwx loo', 'MAS Lwi', 'mqax lele'}, {'mxa lll', 'MGX LWE', 'mex ley', 'omax Olee'}, {'mux lIe', 'mkz loh', 'amax Elee', 'MAJ LHl'}, {'amax Hlee', 'mcz loi', 'MKX Lhh', 'mEx lie'}, {'mux leY', 'emax Ulee', 'MAC LWu', 'mgs luh'}, {'Mwx loa', 'MAJ Lhi', 'hmax olee', 'mUx leY'}, {'omax hlee', 'mgz luh', 'MAk LWU', 'mix leY'}, {'mix ley', 'mgs lah', 'MAJ LWi', 'Hmax Ilee'}, {'umax elee', 'mxo llw', 'MGX LHE', 'mix leY'}, {'mxe llw', 'MAq Lhi', 'mUx leY', 'Amax hlee'}, {'MKX Lhi', 'mzax lele', 'mex lIe', 'mxo lli'}, {'mxi laa', 'imax elee', 'MZX LHI', 'mIx lie'}, {'MAG Lwi', 'MWx lui', 'mox lIe', 'emax Olee'}, {'MKX LWI', 'mxax Hlee', 'mox lIe', 'mxw lua'}, {'mOx lie', 'amax elee', 'mcs liu', 'MAj LHI'}, {'MAJ LWo', 'Mwx lll', 'mqax ilee', 'mIx ley'}, {'mcax olee', 'Mmx loo', 'mUx leY', 'MAG LHh'}, {'MWx luh', 'MAq LWI', 'mcax elee', 'mEx lIe'}, {'mux leY', 'MSX Lwo', 'mxo liu', 'mxax ilee'}, {'mxo luu', 'MAj LHl', 'mUx leY', 'Nmax Ilee'}, {'mix ley', 'MAG LHh', 'mks luu', 'mcax leel'}, {'mux lIe', 'Hmax ilee', 'MGX LHH', 'Mmx loi'}, {'mgz lao', 'hmax Ilee', 'mox lIe', 'MAG LHL'}, {'mkax Hlee', 'mgz lyw', 'MZX LHL', 'mIx lie'}, {'mix ley', 'MKX Lwo', 'mgax ulee', 'Myx loa'}, {'MGX LWO', 'mks lli', 'umax Ulee', 'mox lie'}, {'MAz LHI', 'mox ley', 'mgax Alee', 'mqz lui'}, {'mgz lio', 'mUx lie', 'Hmax alee', 'MAC Lhi'}, {'mcz lla', 'mex lIe', 'MAq LWi', 'mkax lele'}, {'Nmax Ulee', 'Myx loi', 'mex leY', 'MAJ Lwi'}, {'mOx lie', 'mqs lua', 'MAG LWu', 'emax alee'}, {'mux lIe', 'MAs Lhh', 'MMx lih', 'mzax ulee'}, {'MAq Lhl', 'mxy lyw', 'Amax alee', 'mex ley'}, {'mUx lIe', 'umax Elee', 'MAC Lwo', 'mxu lui'}, {'mUx lIe', 'mks lll', 'MAJ Lhi', 'mjax Hlee'}, {'mqz lli', 'mUx lie', 'MAc Lhl', 'msax olee'}, {'MQX LWI', 'mgz loi', 'mUx leY', 'emax lele'}, {'mxi lih', 'MAJ LWo', 'mkax Hlee', 'mox lie'}, {'Mwx lyw', 'mamx elee', 'MAz Lwu', 'mIx lie'}, {'mex lIe', 'MAQ Lwo', 'mgz loh', 'nmax alee'}, {'MWx llu', 'mUx lie', 'nmax leel', 'MHX LHL'}, {'MAj LHE', 'umax ulee', 'mqs llu', 'mIx ley'}, {'mux lie', 'mgax Hlee', 'MAs LHh', 'mkz loo'}, {'mcs loa', 'amax Elee', 'mIx ley', 'MAk LHH'}, {'mxa lii', 'nmax Hlee', 'MAc Lwu', 'mox lie'}, {'mOx ley', 'MAG LHi', 'mqz liu', 'manx leel'}, {'MAS LWI', 'mks lla', 'mkax elee', 'mix leY'}, {'mux ley', 'MAk LHh', 'mxy lui', 'mxax alee'}, {'msax alee', 'Mmx lio', 'mUx leY', 'MAc LWi'}, {'MGX LHh', 'mix leY', 'mzax Ilee', 'mqs luh'}, {'mxa llo', 'Nmax ulee', 'MAs Lwu', 'mox lie'}, {'omax leel', 'MAC LWi', 'mkz luh', 'mIx leY'}, {'Hmax Ilee', 'MAj LHH', 'mEx lIe', 'mks lah'}, {'MGX Lwu', 'mxu loa', 'mox lIe', 'Hmax Olee'}, {'mex lIe', 'MGX LWE', 'mks lii', 'mkax Alee'}, {'Nmax leel', 'MAq LHl', 'mcz loo', 'mIx lie'}, {'mIx lIe', 'mqs lia', 'MAs LWU', 'imax Hlee'}, {'mux lIe', 'MZX Lhl', 'MMx law', 'amax Alee'}, {'mux lie', 'MAC LHl', 'mxy loh', 'msax Olee'}, {'mux lIe', 'MQX Lwi', 'mamx Ulee', 'mxo lao'}, {'imax Elee', 'mix lIe', 'mkz liw', 'MAq LHH'}, {'MGX Lhi', 'mxe loo', 'imax hlee', 'mex ley'}, {'msax elee', 'mxe loo', 'MHX LHI', 'mUx leY'}, {'MAj LHi', 'mxu luu', 'mix leY', 'imax elee'}, {'hmax Ilee', 'MAc LWE', 'mex leY', 'mqz liu'}, {'mux leY', 'mcs luo', 'MZX Lwu', 'mgax olee'}, {'omax leel', 'MAJ Lwu', 'mxi lou', 'mEx leY'}, {'mcs lao', 'mox leY', 'mgax Olee', 'MHX LHE'}, {'Amax elee', 'mgs lll', 'mOx leY', 'MAS Lhi'}, {'MQX LHH', 'imax Ilee', 'Mwx lli', 'mEx leY'}, {'mqz law', 'MKX LWi', 'mex leY', 'nmax ilee'}, {'mkax Hlee', 'mxo lih', 'MAj Lwi', 'mEx lIe'}, {'MSX LHI', 'mox ley', 'Hmax Ulee', 'MMx laa'}, {'mxw lih', 'amax Ilee', 'mex leY', 'MKX LHE'}, {'MMx lll', 'MAQ LHE', 'mUx leY', 'nmax ilee'}, {'mux ley', 'MAS LHE', 'mgs loa', 'mjax lele'}, {'mks liw', 'mEx ley', 'mkax Ulee', 'MNX Lwi'}, {'omax leel', 'MAQ Lwu', 'mUx ley', 'mxi low'}, {'mOx lie', 'amax elee', 'MAs LWi', 'mks law'}, {'omax leel', 'mxi lll', 'mOx leY', 'MAk Lwi'}, {'hmax Alee', 'MZX LHH', 'mUx ley', 'mcz luh'}, {'Myx luo', 'mamx ilee', 'mox lIe', 'MGX Lhl'}, {'amax leel', 'mqs llo', 'MGX LWI', 'mUx ley'}, {'msax Ilee', 'mox ley', 'MZX LHl', 'mxo luo'}, {'nmax leel', 'MAS LHl', 'mex leY', 'mxi lli'}, {'nmax leel', 'mqz lih', 'mIx leY', 'MAq LHh'}, {'mxa lao', 'MGX LWO', 'umax Elee', 'mEx lie'}, {'MMx lui', 'Hmax lele', 'mix lIe', 'MNX Lhl'}, {'mxa lua', 'MAJ LHL', 'msax ilee', 'mIx ley'}, {'Amax Alee', 'MAg LWO', 'mOx leY', 'mxo lou'}, {'omax Ulee', 'MKX LHi', 'mqz lui', 'mEx leY'}, {'hmax hlee', 'mOx ley', 'MMx loh', 'MAc LWo'}, {'MAg LWE', 'mgs luo', 'mox lIe', 'hmax lele'}, {'MAS Lhl', 'mjax lele', 'mOx leY', 'mxo low'}, {'mxe lla', 'manx Ulee', 'mox lIe', 'MZX LWu'}, {'mqax leel', 'MAC LHl', 'Mwx luw', 'mUx ley'}, {'mqax Elee', 'MAq LWi', 'mex lie', 'Mmx lua'}, {'MGX Lwi', 'msax ulee', 'Mmx luo', 'mex ley'}, {'msax lele', 'MGX LHH', 'mOx leY', 'Mmx luu'}, {'mOx ley', 'MAj Lhl', 'Hmax Hlee', 'mxw lah'}, {'mUx lIe', 'imax Elee', 'MAJ Lhl', 'mcz loh'}, {'mix ley', 'MHX LWE', 'mxe loi', 'mamx leel'}, {'MAg LHi', 'mcax ilee', 'mxa lwy', 'mEx lie'}, {'MAk LWO', 'mox leY', 'imax elee', 'Myx lyw'}, {'mqax Elee', 'mIx leY', 'MAq LWU', 'MWx liu'}, {'mOx lie', 'Hmax ilee', 'mks loh', 'MGX Lwo'}, {'mxe llu', 'mgax lele', 'MAQ LWo', 'mex ley'}, {'Myx lia', 'MGX LWE', 'mIx ley', 'mxax Olee'}, {'nmax hlee', 'mOx lIe', 'mgz lau', 'MAj Lhi'}, {'mgz lao', 'umax alee', 'MAq Lhh', 'mex leY'}, {'mxw lli', 'mIx lIe', 'nmax elee', 'MAc LWO'}, {'mgz loa', 'umax Elee', 'mox ley', 'MGX LHH'}, {'MAS LWE', 'mex lie', 'mzax ilee', 'mqs luo'}, {'mqax ulee', 'mUx lie', 'mqs lih', 'MAC LWU'}, {'MWx low', 'MAj LWo', 'mix leY', 'Amax Olee'}, {'MAz LHh', 'mxax olee', 'Mwx law', 'mex ley'}, {'mcax Alee', 'MAk Lhh', 'mEx ley', 'mxe loh'}, {'mux ley', 'MZX Lhh', 'Mwx lii', 'mzax alee'}, {'mex lie', 'umax hlee', 'Mwx lah', 'MAc LWU'}, {'mix ley', 'MAc LHi', 'Mmx loh', 'Amax elee'}, {'amax hlee', 'mxy lou', 'mex leY', 'MAG LHH'}, {'MWx law', 'MGX LHH', 'mox lIe', 'umax hlee'}, {'MWx luo', 'MSX LHH', 'imax alee', 'mex leY'}, {'mxu loi', 'mzax Olee', 'mIx leY', 'MZX LWi'}, {'imax Alee', 'mox leY', 'mcs llw', 'MKX LWo'}, {'MMx llu', 'MAG Lhi', 'mamx olee', 'mix lie'}, {'manx Olee', 'mex lIe', 'mqs loa', 'MAc LHL'}, {'mxe lah', 'mex lie', 'MAG LHE', 'emax elee'}, {'mUx lIe', 'mxe lui', 'MGX Lwi', 'mxax alee'}, {'mqz lao', 'MNX LHl', 'mix lIe', 'umax Olee'}, {'MAs LWi', 'mux lie', 'msax Hlee', 'mxe laa'}, {'MNX LWi', 'mxax Elee', 'mix lie', 'MWx lua'}, {'mxax Ulee', 'mox leY', 'mgz lll', 'MKX Lwi'}, {'MAz LWO', 'Hmax olee', 'mIx leY', 'Myx loa'}, {'MAJ LWI', 'umax olee', 'mox leY', 'mcs lll'}, {'MAG LWo', 'mcz lah', 'mOx lIe', 'manx Ulee'}, {'MAG LWo', 'hmax Alee', 'mex leY', 'mgs lii'}, {'mux lIe', 'mgax elee', 'MAg Lwo', 'mxy lui'}, {'Nmax lele', 'MAs Lhl', 'mUx leY', 'Mmx lii'}, {'mex lie', 'mcs lai', 'MAZ Lhl', 'Amax Olee'}, {'Nmax Ulee', 'mqz llw', 'MAG Lwo', 'mex ley'}, {'MSX LHl', 'hmax alee', 'mEx ley', 'mqs lww'}, {'manx Olee', 'mxa lia', 'MAJ LWi', 'mEx lIe'}, {'MQX LWI', 'mzax leel', 'mxi lao', 'mox lie'}, {'mex lIe', 'MAZ LHL', 'nmax elee', 'mxy lio'}, {'mxe luo', 'MNX LHH', 'amax leel', 'mEx leY'}, {'MHX LHH', 'mxw loa', 'mUx leY', 'mamx lele'}, {'MNX LWi', 'mxw luh', 'emax elee', 'mEx leY'}, {'MZX LWo', 'mgs loo', 'mex lie', 'imax ilee'}, {'manx ilee', 'mUx lie', 'mxw lah', 'MHX LWO'}, {'mxy lyw', 'mxax Alee', 'mOx lIe', 'MAk Lwo'}]
+max lee             : DEBUG: Additional rule variations: {'lee      max'}
+max lee             : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "max lee": {
+            "first_name": {
+                "score": 0.9103133627909583,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.975,
+                        "orthographic": 0.975,
+                        "combined": 0.975
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 2.4,
+                        "score": 0.6270890852730561
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 0.875
+                    },
+                    "variations": [
+                        {
+                            "variation": "mUx",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "MAs",
+                            "phonetic_score": 0.43997649451449766,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "Myx",
+                            "phonetic_score": 0.7081772833247026,
+                            "orthographic_score": 0.33333333333333337,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "nmax",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.3333333333333333
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.859179452710297,
+            "final_score": 0.7873435621682376,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 4,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.8128133627909584,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.6499999999999999,
+                        "orthographic": 0.975,
+                        "combined": 0.8125
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 2.4,
+                        "score": 0.6270890852730561
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 0.875
+                    },
+                    "variations": [
+                        {
+                            "variation": "lIe",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "LHl",
+                            "phonetic_score": 0.20476698532505716,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "luo",
+                            "phonetic_score": 0.6557237931671185,
+                            "orthographic_score": 0.33333333333333337,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "elee",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.3333333333333333
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "name_parts_permutations": [
+                            "lee      max"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "lee      max": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 0.5,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.5,
+        "by_name": {
+            "max lee": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "name_parts_permutations": [
+                            "lee      max"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "lee      max": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 0.5,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "average_quality": 0.7873435621682376,
+    "final_reward": 0.7873435621682376
+}
+max lee             : DEBUG: ----------------------------------------------------------------------------------------------------

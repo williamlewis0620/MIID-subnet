@@ -1,0 +1,2940 @@
+nicola santos       : INFO: Generating variations for nicola santos
+nicola santos       : INFO: ----------------------------------------------------------------------------------------------------
+nicola santos       : INFO: Effective rules: ['remove_all_spaces', 'replace_spaces_with_random_special_characters']
+nicola santos       : INFO: ----------------------------------------------------------------------------------------------------
+nicola santos       : INFO: Min Required Rule Variation Set: [{'nicolasantos'}]
+nicola santos       : INFO: ----------------------------------------------------------------------------------------------------
+nicola santos       : INFO: First name: nicola
+nicola santos       : INFO: Last name: santos
+nicola santos       : INFO: ----------------------------------------------------------------------------------------------------
+nicola santos       : INFO: Rule count pairs: [(0, 1), (0, 2), (1, 1), (0, 3), (1, 2), (0, 4), (1, 3), (2, 2), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (3, 3), (0, 7), (1, 6), (2, 5), (3, 4), (0, 8), (1, 7), (2, 6), (3, 5), (4, 4), (0, 9), (1, 8), (2, 7), (3, 6), (4, 5), (0, 10), (1, 9), (2, 8), (3, 7), (4, 6), (5, 5), (0, 11), (1, 10), (2, 9), (3, 8), (4, 7), (5, 6), (6, 5)]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 1 / 42: rule_count/nonrule_count: 0/1------------------------------
+nicola santos       : DEBUG: O: [0, 0, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 0, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 0, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 0, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.27406566]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 2 / 42: rule_count/nonrule_count: 0/2------------------------------
+nicola santos       : DEBUG: O: [0, 1, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 1, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 1, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 1, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.43373917]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 3 / 42: rule_count/nonrule_count: 1/1------------------------------
+nicola santos       : DEBUG: O: [0, 0, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 0, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 0, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 0, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.47406566]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 4 / 42: rule_count/nonrule_count: 0/3------------------------------
+nicola santos       : DEBUG: O: [0, 1, 0, 2]
+nicola santos       : DEBUG: P: [0, 0, 1, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 1, 0, 2]
+nicola santos       : DEBUG: P: [0, 0, 1, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.448]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 5 / 42: rule_count/nonrule_count: 1/2------------------------------
+nicola santos       : DEBUG: O: [0, 1, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 1, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 1, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 1, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.63373917]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 6 / 42: rule_count/nonrule_count: 0/4------------------------------
+nicola santos       : DEBUG: O: [0, 2, 0, 2]
+nicola santos       : DEBUG: P: [0, 1, 2, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 2, 0, 2]
+nicola santos       : DEBUG: P: [0, 1, 2, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.44390502]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 7 / 42: rule_count/nonrule_count: 1/3------------------------------
+nicola santos       : DEBUG: O: [0, 1, 0, 2]
+nicola santos       : DEBUG: P: [0, 0, 1, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 1, 0, 2]
+nicola santos       : DEBUG: P: [0, 0, 1, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.548]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 8 / 42: rule_count/nonrule_count: 2/2------------------------------
+nicola santos       : DEBUG: O: [0, 1, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 1, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 1, 0, 1]
+nicola santos       : DEBUG: P: [0, 0, 1, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.63373917]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 9 / 42: rule_count/nonrule_count: 0/5------------------------------
+nicola santos       : DEBUG: O: [1, 3, 1, 0]
+nicola santos       : DEBUG: P: [0, 1, 3, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 3, 1, 0]
+nicola santos       : DEBUG: P: [0, 1, 3, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.52146636]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 10 / 42: rule_count/nonrule_count: 1/4------------------------------
+nicola santos       : DEBUG: O: [0, 2, 0, 2]
+nicola santos       : DEBUG: P: [0, 1, 2, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 2, 0, 2]
+nicola santos       : DEBUG: P: [0, 1, 2, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.54390502]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 11 / 42: rule_count/nonrule_count: 2/3------------------------------
+nicola santos       : DEBUG: O: [0, 1, 0, 2]
+nicola santos       : DEBUG: P: [0, 0, 1, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 1, 0, 2]
+nicola santos       : DEBUG: P: [0, 0, 1, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.548]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 12 / 42: rule_count/nonrule_count: 0/6------------------------------
+nicola santos       : DEBUG: O: [1, 3, 1, 1]
+nicola santos       : DEBUG: P: [0, 1, 3, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 3, 1, 1]
+nicola santos       : DEBUG: P: [0, 1, 3, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.49530715]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 13 / 42: rule_count/nonrule_count: 1/5------------------------------
+nicola santos       : DEBUG: O: [1, 3, 1, 0]
+nicola santos       : DEBUG: P: [0, 1, 3, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 3, 1, 0]
+nicola santos       : DEBUG: P: [0, 1, 3, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.58813303]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 14 / 42: rule_count/nonrule_count: 2/4------------------------------
+nicola santos       : DEBUG: O: [0, 2, 0, 2]
+nicola santos       : DEBUG: P: [0, 1, 2, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [0, 2, 0, 2]
+nicola santos       : DEBUG: P: [0, 1, 2, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.54390502]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 15 / 42: rule_count/nonrule_count: 3/3------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 16 / 42: rule_count/nonrule_count: 0/7------------------------------
+nicola santos       : DEBUG: O: [1, 4, 1, 1]
+nicola santos       : DEBUG: P: [0, 2, 4, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 4, 1, 1]
+nicola santos       : DEBUG: P: [0, 2, 4, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.47974677]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 17 / 42: rule_count/nonrule_count: 1/6------------------------------
+nicola santos       : DEBUG: O: [1, 3, 1, 1]
+nicola santos       : DEBUG: P: [0, 1, 3, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 3, 1, 1]
+nicola santos       : DEBUG: P: [0, 1, 3, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.56197381]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 18 / 42: rule_count/nonrule_count: 2/5------------------------------
+nicola santos       : DEBUG: O: [1, 3, 1, 0]
+nicola santos       : DEBUG: P: [0, 1, 3, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 3, 1, 0]
+nicola santos       : DEBUG: P: [0, 1, 3, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.58813303]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 19 / 42: rule_count/nonrule_count: 3/4------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 20 / 42: rule_count/nonrule_count: 0/8------------------------------
+nicola santos       : DEBUG: O: [1, 4, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 4, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 4, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 4, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.46543146]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 21 / 42: rule_count/nonrule_count: 1/7------------------------------
+nicola santos       : DEBUG: O: [1, 4, 1, 1]
+nicola santos       : DEBUG: P: [0, 2, 4, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 4, 1, 1]
+nicola santos       : DEBUG: P: [0, 2, 4, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.52974677]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 22 / 42: rule_count/nonrule_count: 2/6------------------------------
+nicola santos       : DEBUG: O: [1, 3, 1, 1]
+nicola santos       : DEBUG: P: [0, 1, 3, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 3, 1, 1]
+nicola santos       : DEBUG: P: [0, 1, 3, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.56197381]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 23 / 42: rule_count/nonrule_count: 3/5------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 24 / 42: rule_count/nonrule_count: 4/4------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 25 / 42: rule_count/nonrule_count: 0/9------------------------------
+nicola santos       : DEBUG: O: [1, 5, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 5, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 5, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 5, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.45754863]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 26 / 42: rule_count/nonrule_count: 1/8------------------------------
+nicola santos       : DEBUG: O: [1, 4, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 4, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 4, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 4, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.51543146]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 27 / 42: rule_count/nonrule_count: 2/7------------------------------
+nicola santos       : DEBUG: O: [1, 4, 1, 1]
+nicola santos       : DEBUG: P: [0, 2, 4, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 4, 1, 1]
+nicola santos       : DEBUG: P: [0, 2, 4, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.52974677]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 28 / 42: rule_count/nonrule_count: 3/6------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 29 / 42: rule_count/nonrule_count: 4/5------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 30 / 42: rule_count/nonrule_count: 0/10------------------------------
+nicola santos       : DEBUG: O: [2, 6, 2, 0]
+nicola santos       : DEBUG: P: [1, 3, 6, 0]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [12]
+nicola santos       : DEBUG: [288]
+nicola santos       : DEBUG: [332]
+nicola santos       : DEBUG: [195]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [2, 6, 2, 0]
+nicola santos       : DEBUG: P: [1, 3, 6, 0]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [11]
+nicola santos       : DEBUG: [109]
+nicola santos       : DEBUG: [27]
+nicola santos       : DEBUG: [20]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.45665797]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 31 / 42: rule_count/nonrule_count: 1/9------------------------------
+nicola santos       : DEBUG: O: [1, 5, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 5, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 5, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 5, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.49754863]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 32 / 42: rule_count/nonrule_count: 2/8------------------------------
+nicola santos       : DEBUG: O: [1, 4, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 4, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 4, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 4, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [3, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.51543146]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 33 / 42: rule_count/nonrule_count: 3/7------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 34 / 42: rule_count/nonrule_count: 4/6------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 35 / 42: rule_count/nonrule_count: 5/5------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 36 / 42: rule_count/nonrule_count: 0/11------------------------------
+nicola santos       : DEBUG: O: [2, 6, 2, 1]
+nicola santos       : DEBUG: P: [1, 3, 6, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [12]
+nicola santos       : DEBUG: [288]
+nicola santos       : DEBUG: [332]
+nicola santos       : DEBUG: [195]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [2, 6, 2, 1]
+nicola santos       : DEBUG: P: [1, 3, 6, 1]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [11]
+nicola santos       : DEBUG: [109]
+nicola santos       : DEBUG: [27]
+nicola santos       : DEBUG: [20]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.44994511]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 37 / 42: rule_count/nonrule_count: 1/10------------------------------
+nicola santos       : DEBUG: O: [2, 6, 2, 0]
+nicola santos       : DEBUG: P: [1, 3, 6, 0]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [12]
+nicola santos       : DEBUG: [288]
+nicola santos       : DEBUG: [332]
+nicola santos       : DEBUG: [195]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [2, 6, 2, 0]
+nicola santos       : DEBUG: P: [1, 3, 6, 0]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [2, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+nicola santos       : DEBUG: [11]
+nicola santos       : DEBUG: [109]
+nicola santos       : DEBUG: [27]
+nicola santos       : DEBUG: [20]
+nicola santos       : DEBUG: [1]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.4899913]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 38 / 42: rule_count/nonrule_count: 2/9------------------------------
+nicola santos       : DEBUG: O: [1, 5, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 5, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [10, 3, 0]
+nicola santos       : DEBUG: [500, 180, 0]
+nicola santos       : DEBUG: [500, 204, 0]
+nicola santos       : DEBUG: [500, 30, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+nicola santos       : DEBUG: [23, 0, 0]
+nicola santos       : DEBUG: [500, 89, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [500, 500, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [25]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: nicola, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: nicola, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: nicola, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: O: [1, 5, 1, 2]
+nicola santos       : DEBUG: P: [0, 2, 5, 2]
+nicola santos       : WARNING: Remains: 0
+nicola santos       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+nicola santos       : DEBUG: [7, 3, 0]
+nicola santos       : DEBUG: [500, 129, 0]
+nicola santos       : DEBUG: [500, 108, 0]
+nicola santos       : DEBUG: [433, 36, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+nicola santos       : DEBUG: [22, 4, 6]
+nicola santos       : DEBUG: [500, 446, 465]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [500, 500, 500]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: [4, 0, 0]
+nicola santos       : DEBUG: [1, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0]
+nicola santos       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+nicola santos       : DEBUG: [37]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [500]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [0]
+nicola santos       : DEBUG: [2]
+nicola santos       : DEBUG: final:
+nicola santos       : DEBUG: name: santos, l_level: 0
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+nicola santos       : DEBUG: name: santos, l_level: 1
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: name: santos, l_level: 2
+nicola santos       : DEBUG: --------------------------------------------------
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+nicola santos       : DEBUG: scores: [0.49754863]
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 39 / 42: rule_count/nonrule_count: 3/8------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 40 / 42: rule_count/nonrule_count: 4/7------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 41 / 42: rule_count/nonrule_count: 5/6------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : INFO: ------------------------------Trying rule_count_pair 42 / 42: rule_count/nonrule_count: 6/5------------------------------
+nicola santos       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'nicolasantos'}], additional_rule_varset: {'nicolasantos'}
+nicola santos       : DEBUG: ----------------------------------------------------------------------------------------------------
+nicola santos       : DEBUG: Best score achieved: 0.6337391696328508
+nicola santos       : DEBUG: Best selected: 1/2
+nicola santos       : DEBUG: Rule variations: [{'nicolasantos'}]
+nicola santos       : DEBUG: Nonrule variations: [{'hhoclo jawyso', 'nsiolo sontoc'}, {'yycwal zwnoty', 'nyocla swnteg'}, {'mizaal isnotx', 'nuxyla smatox'}, {'yacloh asndaz', 'nijlia syntoc'}, {'nijhlu sontyq', 'miwial usnoth'}, {'nyjhla suntoj', 'mciulw qenyso'}, {'nioklh shntoj', 'mhocle asnotk'}, {'yyoclh xawdso', 'nicyly sandwq'}, {'nixole sandic', 'wwchal ynatak'}, {'inhhle qenyso', 'nislua shntes'}, {'noxolh suntyk', 'wiqeal osnotx'}, {'inzoel suyoth', 'nijwla santec'}, {'hnqoal aswtso', 'nwcely shnthg'}, {'nixila shntyj', 'miqeal qunwso'}, {'husoal znatey', 'ncyula smatox'}, {'inklou asnytx', 'nicyli sunteg'}, {'nwzela samtgo', 'yciowl asmtaz'}, {'wciule aynoty', 'nizala swntiq'}, {'nijilh swntko', 'wciulw asnutc'}, {'inzoww asythc', 'nejila sntosh'}, {'nsiolu synteg', 'imwoal gnatyg'}, {'nuxila swndoq', 'inhaly zwnotw'}, {'inqial cnayys', 'nichlh shnthg'}, {'hhocha znaoty', 'nzeola sanhtj'}, {'nziola swntux', 'unsoal wnatyg'}, {'nighla sontoj', 'nyochh snahak'}, {'wwcyal zonyso', 'nhxhla santaj'}, {'insoal znadok', 'nichlo sintgo'}, {'inqiha isnotx', 'nyocla sinthg'}, {'nicyle sandhs', 'wciulw asydhs'}, {'nuzula smatus', 'ihclou gumtso'}, {'nhcule smatoc', 'ingeal cnayoc'}, {'inzilw asmdhs', 'nislao swnteg'}, {'wyocha jnawoy', 'nwsola santeg'}, {'inkilh knadoq', 'nixala santyx'}, {'nawlou yunwso', 'noxolh sandex'}, {'ingoul asnowy', 'nizoly santug'}, {'nhxoli snwtox', 'yhoclh snayak'}, {'nhcole santgo', 'hyocha xnateq'}, {'nasola swntoq', 'wwcual gohtso'}, {'ingial yhnhso', 'nicely sandyc'}, {'ywcwal usnotc', 'nicelw syntac'}, {'inhaly cinotq', 'nwicla sandhk'}, {'ncyole somtoj', 'inzohe asnowy'}, {'yecloh asnotg', 'nicelw samthj'}, {'nechlu sumtox', 'inqohe osnoty'}, {'yiochh axndso', 'nioxlh symtos'}, {'nwcila snyths', 'wayoal axnotq'}, {'nsiwla santxu', 'inkeli ciwots'}, {'nhkola sandej', 'inzyle qamyso'}, {'nucyly sanodc', 'inghal gumtso'}, {'wwgoal jnateq', 'nwzoli santga'}, {'nijolo santyc', 'wwcaal znadhs'}, {'ycioul znadog', 'nujila swntoq'}, {'nichlu sentgo', 'yciial wsnotx'}, {'inqohl xawotq', 'nijolh snwots'}, {'nixaly sontgo', 'wwgoal asnetc'}, {'mwcloo asyhhs', 'nychli sandhg'}, {'ingohl gawyso', 'nijhlu swntuk'}, {'nhcoly sindoc', 'mizaal znatek'}, {'nixlao snatoj', 'musoal gwmots'}, {'nhxole samtiq', 'yeoclh zonhso'}, {'nechla sontuk', 'insaly asnutc'}, {'unqoal snahyg', 'nachla shmtox'}, {'inylou znadoj', 'nixoly shntoc'}, {'hiqlou asndac', 'nixilu shntiq'}, {'huxloa axnoty', 'nqyola shntsa'}, {'nciolw suntgo', 'ingoaw snahak'}, {'inwhle ynatak', 'nijolw swndoq'}, {'nyochu znadoy', 'nhqola santag'}, {'nujila shnths', 'hwcloo asnyaq'}, {'mwcwal ajnoty', 'nikhla sumtoq'}, {'nwzila swnteq', 'hhcloo knatyj'}, {'nwxolh suntoj', 'yiwwal knawys'}, {'necyli snotoq', 'miwhal asnohx'}, {'injile jnatyo', 'nqhola shntzo'}, {'nuzola suntoq', 'inwlou hnatso'}, {'nasola samtoc', 'imgoal awnoty'}, {'nwzila synthg', 'inkele acnotx'}, {'nceila smatoj', 'yayoal jnatyo'}, {'mowoal zwnotj', 'nwzhla santge'}, {'nixylh samthj', 'yijwal asndax'}, {'injhle znateg', 'nicylw smatys'}, {'mywoal zaydso', 'nysola swants'}, {'nwchlu sandex', 'ihqoal qynyso'}, {'nwzoly swndog', 'incleu knatyg'}, {'nciole somtog', 'mciulw jnayoc'}, {'nqiolh sonthg', 'mhoclo hunwso'}, {'incuah asndaq', 'nwzolh snwots'}, {'mwcloo suyoth', 'nichlu syntok'}, {'nixlaa sanutj', 'nwhwal kunoth'}, {'nizloa sinthg', 'inqoay sywyso'}, {'nysole synthc', 'inyoal acnotc'}, {'inzhlw cinotq', 'nixilw sunthg'}, {'nixelh sintwg', 'ywcwal qunoth'}, {'nhjola santac', 'incloo asmtsa'}, {'imwoal gnatyg', 'nizaly syntox'}, {'nixlea swntyk', 'inslou knatso'}, {'nijila swntiq', 'naywal gihtso'}, {'nichwl sentyj', 'inkeli asnohc'}, {'husoal suywso', 'nisyla samtys'}, {'ycieal sumwso', 'nisela santej'}, {'inqhha zahdso', 'nysoly santwx'}, {'nawlou aswotc', 'nicylh sondoj'}, {'yciyal zhhtso', 'naxola sintoq'}, {'ncyolw sontoj', 'wwceal asndac'}, {'ywcloo zomtso', 'ncyoli swntko'}, {'imwoal asnoyc', 'nizwla sandhg'}, {'nyheal asythg', 'nisela santuc'}, {'nizoly suntoc', 'inqoah awnotc'}, {'yusoal isnotx', 'nisloa sunthk'}, {'nhkola somtoq', 'miqlou zwnotc'}, {'niclha snoths', 'ingoul knaoty'}, {'nugyla sentoc', 'miwaal zihtso'}, {'hyceal asmtaw', 'nachlu samtys'}, {'nxiloa sanetj', 'yhoclo asnatq'}, {'nejila sintwx', 'incuhi qwmots'}, {'nhculy sanotk', 'miweal zihtso'}, {'nixylh suntyx', 'hixloo xaydso'}, {'nwzoly sontgo', 'yigloh snahak'}, {'imgoal zhndso', 'nicyle samtoc'}, {'yciwal awnoty', 'nizoly sontug'}, {'inkaly asndso', 'nwjola smatus'}, {'yyceal xnayoc', 'ncwola suntwx'}, {'wiqeal jnawoy', 'nhsula sontwj'}, {'niclyh santaq', 'hwcwal gunyso'}, {'ysioal suhoth', 'nwzolu santko'}, {'inclwu jnatay', 'nozola smotos'}, {'nqhola sandog', 'yizaal aznoty'}, {'nwcyla samtij', 'yixwal hwmots'}, {'hiochi cnatak', 'noxola swmdos'}, {'inxuha qnayoc', 'nysolu swndoq'}, {'nsiolh swndok', 'mhwoal esnotc'}, {'nqhola suntwj', 'yigloh jnathy'}, {'noxola shntsa', 'inxoal zawyso'}, {'inxelh knatyj', 'ncyala shndoc'}, {'wwocal yhmtso', 'nxiolh samtjo'}, {'nwjila santyq', 'yiqloh gahhso'}, {'hijloo zwnotx', 'nichlh sandic'}, {'ncyloa sontoq', 'wcioye cinotx'}, {'inwhle gahwso', 'nixolw suntko'}, {'nyochy gnaoty', 'nhculi synths'}, {'niclya swntgo', 'wcioel asmtaw'}, {'necyli syndox', 'husoal cawyso'}, {'nwcolh somtog', 'inchwe jawyso'}, {'nhcyla swntuq', 'inchal suhoth'}, {'inqohl asythw', 'nojila shntoc'}, {'naxolh santjo', 'inyuha knatyz'}, {'nijilo shntws', 'mizual xamdso'}, {'ncwola samtok', 'miqhal znatak'}, {'nichli santex', 'mciuly asmtij'}, {'incleu yhwtso', 'nixyli sontux'}, {'wciele aswyhs', 'nixilh samtys'}, {'nuzula snyths', 'nciuww hnatso'}, {'nqyola samtiq', 'nwwwal asmtsa'}, {'nsoola snatog', 'hciulw zwwots'}, {'nujyla swmtos', 'incawy asndaw'}, {'nuzula santgo', 'inqyal zonhso'}, {'nyzola samdus', 'inqohe aynotx'}, {'imclou xnaotq', 'nchola santxy'}, {'incuhi jnatwy', 'nyjhla swntux'}, {'imqoal asmtij', 'nisoli santhj'}, {'nwywal guytso', 'nocyli swnteg'}, {'nochlu santec', 'mewoal asnohc'}, {'mhoclu asnowc', 'nigila samdus'}, {'inqaal jnayoy', 'nicely shntwj'}, {'unclou usnwso', 'ncyyla smatok'}, {'nchola sentoq', 'yigloh znadok'}, {'ywcloo aynotc', 'nuqhla shmtes'}, {'inkowe osnoty', 'nikhlu sanutj'}, {'nizaly sundhs', 'incloo zhndso'}, {'yizaal acnoty', 'nwzwla syntco'}, {'nuzola santge', 'yiywal xnateq'}, {'newloi snaheq', 'nizolh shnteg'}, {'nhcela swndoj', 'injlou zaydso'}, {'nigely syntyk', 'wwhoal cnatyq'}, {'imwoal isnoty', 'nhculi suntxo'}, {'inzoal kynhso', 'nozola sandex'}, {'nechlu swntoc', 'muwoal xahotq'}, {'insaly zonhso', 'nixylh santge'}, {'miwhal awnoty', 'nswola sumtog'}, {'ingyal kymtso', 'nhkula snwtox'}, {'ncyela samtiq', 'wciyle asmdhs'}, {'nioxlh sentgo', 'insoal hsnotc'}, {'inxoal asyotx', 'nizowl santwq'}, {'mwwoal ynateq', 'nisolu snwtoq'}, {'injlou asnitx', 'nizula shmdos'}, {'nwcele syntic', 'hhcloo asnetc'}, {'nychly santhq', 'mayoal aswdas'}, {'nsoila sinthg', 'yixloh asnyhj'}, {'ingaly guwtso', 'nwzolh sentok'}, {'nizyla sntyos', 'inqlou usnotc'}, {'nwcele shntzo', 'hiochu asnwty'}, {'nwceli suntyj', 'nayial suyoth'}, {'ycioay asythx', 'nioclh sandwg'}, {'yikloh hnadoq', 'nuzola swntwq'}, {'nawlou isnotx', 'niclye sentyj'}, {'nigela samtij', 'injoal jnatyy'}, {'nixulh smatos', 'ingoil qnadoq'}, {'nuxula sontax', 'inqohi znateg'}, {'inwhle aqnoty', 'nciyla samtoj'}, {'ncyoli sunthg', 'incloe gnadoq'}, {'nhcwla santgo', 'wuxloa zahhso'}, {'nislaa sntwos', 'wciale snahak'}, {'nshola syntuc', 'incliu jnatuy'}, {'nixili sandhk', 'inzele xnaotq'}, {'inwlou kynyso', 'nicyli swndoj'}, {'wciyle gumtso', 'nceola syntoj'}, {'nwzwla sanwtj', 'yiqeal swwyso'}, {'inzoww wnayoc', 'niclye shntic'}, {'nwcyli sontuc', 'inqhha zehtso'}, {'hizaal asmdhs', 'nysole samtaq'}, {'nijala snyots', 'inzoyw qawyso'}, {'nejola samtyq', 'ingial cihots'}, {'yasloa znatek', 'nhsola shntso'}, {'nhjola swntuq', 'wciohe knatyk'}, {'nceolh shmtoz', 'yjioal jnatey'}, {'ncioly shntoq', 'hizloo xnatak'}, {'nijilu sontag', 'inxhlu znadoh'}, {'niqhlu smotos', 'wasloa kywtso'}, {'mciuly jnadoy', 'nhcela syntok'}, {'nhxwla sanotk', 'mizual qwmots'}, {'niclwh swmdos', 'hwcwal asythc'}, {'nexila shndes', 'yciual aswdas'}, {'incloy aknotx', 'nicily sanduc'}, {'inxelh awnotx', 'nwzola snutoj'}, {'nhxoly snhots', 'wcihle xahotq'}, {'yijloh knawys', 'nyocla somtoj'}, {'nichlw saontj', 'incuhw asnodx'}, {'nixula sandug', 'miwial snahyg'}, {'nijilw samtiq', 'wwwoal kymtso'}, {'nwcelo shntko', 'inqoho ashdas'}, {'inqohw xnatyg', 'nhculy sonthg'}, {'yizwal asnitz', 'nhxyla snhdos'}, {'hiqloo zuhtso', 'nighly sanetg'}, {'nizula somtoq', 'nyyeal asnotz'}, {'wwwoal zwyots', 'ncyolu samtwz'}, {'nuzola santhx', 'inclyu asnotx'}, {'inxhle asnyhy', 'nujila samtij'}, {'inzyle hnatso', 'nswola sandwj'}, {'yyoclh snayuc', 'nciyla samtys'}, {'nixoal samtgo', 'inzowe asmtac'}, {'nhjola sentgo', 'nayial suhoth'}, {'niclwa shntse', 'inzoye cnayoc'}, {'nwcelh suntek', 'mwwoal qunoth'}, {'nayaal qnayoc', 'nychli santgo'}, {'inqohu kwmots', 'nzyola swndoq'}, {'ingohl qahyso', 'nyzola santec'}, {'inzoww gihtso', 'nuzula sumtoj'}, {'yciwal qnatyg', 'nwceli sontwj'}, {'inzyle hunoth', 'niqhlh sumtoq'}, {'inxhlu qnateq', 'nizyla santqu'}, {'nijilu snoths', 'incial cnayys'}, {'nucylu shndws', 'insuha hunoth'}, {'nizoly snutok', 'yuxloa cnawys'}, {'nwsela sintyk', 'mayoal znadoj'}, {'nysolw swnteq', 'inkowe kawyso'}, {'inzohe shwyso', 'nqhola samtox'}, {'inslou znadoh', 'nixyla snhdos'}, {'yigwal qawyso', 'nucyla swntiq'}, {'yiywal asndso', 'nwjola swndoc'}, {'inzuha asyyhs', 'nwzhla santyc'}, {'nacyla swmtos', 'injily aynotx'}, {'unsoal gumtso', 'nhcoal samtox'}, {'inkeli ynayoc', 'nichly samtsy'}, {'nislua sundox', 'incluo isnoty'}, {'nijily sintoc', 'hizual zwnoty'}, {'ingaly cinotk', 'nachlu smatoc'}, {'nijoly sandyk', 'hnqoal kymtso'}, {'nhxyla santgu', 'mhocli asnoyx'}, {'nicely sintwx', 'ycuoal asmtah'}, {'muxloa acnotx', 'nhcyli swntax'}, {'nuxola samtyj', 'inhoal zwnotw'}, {'nwsola smados', 'inxelh kunoth'}, {'inclow guhtso', 'nixole smatos'}, {'nasola shntws', 'inqwal xunwso'}, {'wciloe kymtso', 'ncyhla sontuq'}, {'nhxwla smetos', 'ykioal asndak'}, {'nhgola santhj', 'yciial qnayso'}, {'nigily shntco', 'miwaal asythy'}, {'inylou knahys', 'nychlh shntiz'}, {'nzyola suntik', 'mecloi asndso'}, {'wciule knayoc', 'nsiole sindhs'}, {'nigila sandco', 'inkowe zihtso'}, {'niclyh santjo', 'nwhloo asmtax'}, {'yiocyh aznotc', 'nixlya shndws'}, {'nsioli swntek', 'inkile jnateq'}, {'hyocha gnutso', 'nyokla sanduc'}, {'nsiola sandoq', 'mizual asnotx'}, {'nusula sniths', 'mhocha kunoth'}, {'nisala santqu', 'nayaal kywtso'}, {'nsiolw suntog', 'incuhw zwnotw'}, {'nqwola santuj', 'ingohl jnatyo'}, {'nesola sandac', 'inghal ajnotx'}, {'nucylo sentwj', 'inchwe asnaty'}, {'njyola sandhx', 'ingoah asnyaq'}, {'inqaal kynwso', 'nixole sontyk'}, {'nixily santku', 'yijloh kyndso'}, {'inqohw znatec', 'nceolw sontoj'}, {'niqhlu samdoq', 'yyceal snayec'}, {'nwxolh smwtos', 'miqhal guhtso'}, {'inchou aswotc', 'nciala santky'}, {'inqyha gahwso', 'nwzolu snhtys'}, {'ncyolw sanotj', 'ywoclh gnateq'}, {'nixwla shntix', 'incial asnutx'}, {'nixile sanotx', 'yocwal hnadoq'}, {'nislua sontij', 'yihloh xunotq'}, {'inclow asnitz', 'nyokla suntux'}, {'niqhle sintwg', 'nyyeal junwso'}, {'injiwa cnatyx', 'ncyloa swnths'}, {'nzyola santwx', 'yiwloh cinotx'}, {'nyjola sondoq', 'mawoal asythj'}, {'ncyole santqu', 'inhlou ciyots'}, {'yiqeal jnatso', 'nigila santyg'}, {'nozola santxu', 'mhocal cunoth'}, {'wwxoal ashotx', 'nhcolw sentyj'}, {'inhuha yhnyso', 'nojola sondoj'}, {'nucylu synthg', 'mhoclo aswdas'}, {'nixila sanotq', 'yeoclh znatek'}, {'injilh asnyhj', 'nhqhla snwths'}, {'nysolw suntyj', 'hiqloo hsnotx'}, {'wwchal zhhtso', 'nwjela sanodc'}, {'nysolo samtwj', 'miwhal zoytso'}, {'inkowe znadox', 'nceolo sandyk'}, {'nijilo syntac', 'inqoul asnotz'}, {'nixolu shmtis', 'inkilo xayotq'}, {'nhkola synteg', 'inchye xhnotq'}, {'enclou asnhtx', 'nycyla swntwk'}, {'imclou jnayoy', 'nuzyla shntsw'}, {'yyoclh zwnotq', 'ncyela santcu'}, {'inzulw jnatey', 'nsaola sunthx'}, {'nyweal knatyk', 'nychlw shmtoz'}, {'ncyila swntuq', 'iwgoal zhhtso'}, {'wecloi zhhtso', 'nisyla samteq'}, {'myocha qnayso', 'nisole shmtos'}, {'anqoal asytaq', 'nyzola santek'}, {'inslou qnatso', 'nechla snutoc'}, {'nizila snwtoc', 'inqiha asnotg'}, {'ywcloo zwnotq', 'njiila symtoq'}, {'nhcyli sontac', 'inhhle wsnoty'}, {'nizoal snatox', 'enqoal yhnhso'}, {'injoal xnaoty', 'nixhla suntix'}, {'nisolw smetos', 'inzlow qnatak'}, {'nyocho aswdas', 'nislwa shntog'}, {'ywcloh knayys', 'nexolh sandec'}, {'nhqhla santxy', 'hiochh xnadoq'}, {'nycyli santwk', 'incahy asmotx'}, {'myocha asnatc', 'nciela smaots'}, {'nhocwo jnadoq', 'nhxoli syntog'}, {'nislha santwj', 'imclou xynotq'}, {'hoocha xawotq', 'nicyal swndhs'}, {'nceolw snhtes', 'yusoal ysnoty'}, {'inzale asythh', 'nigyli sontyk'}, {'inqual asytaq', 'nijole syndog'}, {'niijla santhc', 'mecloi xunwso'}, {'inxhlu asnohy', 'nioklh sntwos'}, {'inzaal hunwso', 'nycolh smatas'}, {'nizole swants', 'inxhlu aswyso'}, {'unqoal wnatso', 'ncywla symtoj'}, {'nichlw smutos', 'yaoclh asmtac'}, {'incluo cnatyk', 'nwxolh santgy'}, {'nceola santej', 'yhioal znatak'}, {'nhqhla santgi', 'unqoal jnatyo'}, {'nhqhla simtoq', 'yciial xenotq'}, {'hhocha asndsa', 'nwecla swntik'}, {'ingaly jnatyo', 'nhocla sintwx'}, {'nyxolh santhg', 'yhcloh knatso'}, {'ncyolh santac', 'ycioay asnetx'}, {'hihloo snawyg', 'noxola shmtis'}, {'nciyla symtos', 'yihloh qamyso'}, {'yuoclh xawotq', 'ncihla shmtas'}, {'inzoyw wsnotc', 'nisoli sintwg'}, {'inzuha gunwso', 'nuxola shntyk'}, {'niqhla shnots', 'nayyal ashtso'}, {'nwucla shnthg', 'ingwal asnitc'}, {'waqloa knatak', 'nozola syntyj'}, {'nizhla sandhj', 'incuah asnyhx'}, {'wwcloo xunoth', 'nwicla sneths'}, {'nyjola sandhz', 'inzoal znayes'}, {'nicyle sanduc', 'wwcwal asndaj'}, {'inqoil gihtso', 'nixlwa sumtoj'}, {'hiochu ysnotc', 'nwzula suntwx'}, {'nwjela syntgo', 'ihclou gnatso'}, {'yizaal asnhaq', 'ncihla snhtes'}, {'nhxula sandyj', 'myceal zamdso'}, {'ycioil wnatyg', 'nwzole swmdos'}, {'najola smhtos', 'mhoclu qunyso'}, {'nychli sandac', 'yixloh asnyhj'}, {'nzyola swntko', 'neyloi agnotx'}, {'niqhly sentwj', 'inzloe asnyhg'}, {'nicywl santxy', 'wwzoal jawyso'}, {'mhoclh asythx', 'nigila shmtox'}, {'nceolo shnthg', 'yijwal xawdso'}, {'injaly wnayoc', 'nceolu shntso'}, {'nychle shmtus', 'incloi xhndso'}, {'mciohy snayyc', 'nijoly swndoj'}, {'nixlia smwtos', 'mcioal asnytx'}, {'nwwloo jnahoy', 'necyli sunthg'}, {'inqwha aswoty', 'njiila sontqo'}, {'wwxoal cinotc', 'nyjola shmtes'}, {'nuxula santaj', 'inzlou knatyw'}, {'nsiala santex', 'inzaly asytaq'}, {'mcioyy asythx', 'nsiloa santyk'}, {'wcihle gunwso', 'nhculy samteq'}, {'niclyh snwtoq', 'wcihle ajnoty'}, {'mowoal asndax', 'nwzela sinteg'}, {'nciloa santge', 'yyioal xwmots'}, {'nixlaa smitos', 'ycioaw cnayys'}, {'mciohy snaywc', 'njiila sandhq'}, {'nichli smaths', 'nwywal asnutc'}, {'nycolh smhtos', 'inghle asythy'}, {'mwcloo zwyots', 'nexola sundok'}, {'inqaha cunwso', 'nixlaa shmtas'}, {'inqoyl gnutso', 'nuxula santwx'}, {'injiwa sumoth', 'nichlw shntig'}, {'nceoly snwths', 'inwhle znateg'}, {'nhcolh synthg', 'nayual zwnotk'}, {'nhqula suntwk', 'yixloh zwmots'}, {'mciowy gahwso', 'nwcelh swntox'}, {'nioxla sentok', 'inwuha jnatey'}, {'nixlia sonthq', 'injilw znadog'}, {'nisula santco', 'injilw xwnotq'}, {'yuoclh cinoth', 'nucylw shndhs'}, {'yxioal asmdhs', 'nezola sunthx'}, {'nizhlu smatys', 'ycioil asnhtc'}, {'nceoli sandwq', 'inzlou asnyhc'}, {'ncyloa somtoj', 'inkuha jnatay'}, {'injiya snayak', 'nikhlu santxo'}, {'yucloh asythg', 'nhxyla shndus'}, {'inzohe aswyso', 'nhcoly shmtes'}, {'incyou knatso', 'nizolo swntwq'}, {'nwxola swmtoq', 'inquha znatew'}, {'nayaal guytso', 'nwcelo shnots'}, {'yiocwh xinotq', 'nixhlh sanotx'}, {'nisoli smaots', 'nayyal knaoty'}, {'injilh gunwso', 'nsiolo synteg'}, {'incayy qnateq', 'ncyola sandhk'}, {'nwcelh suntok', 'nyocho ynateq'}, {'inzhle cnaoty', 'nhsola syntic'}, {'nicelw shntqo', 'inzlou zwyots'}, {'yizloh jnatak', 'nixulh swntyq'}, {'ingial suwwso', 'nsiloa symtoq'}, {'nciila sandwq', 'insuha cinoth'}, {'nikhla sintwj', 'inqaha zahyso'}, {'nwcelw shntso', 'inzoal gumtso'}, {'nhokla swndoc', 'iyqoal zahdso'}, {'nceyla shntis', 'inhhle xnatyg'}, {'wciulw axnotq', 'nixowl sontax'}, {'ingaal asmoty', 'nwzoli shntko'}, {'nyjola syntyj', 'ycioel asnowc'}, {'nixelh shmtoc', 'inkuha asnhtx'}, {'nychlh sanotj', 'nehloi gnateq'}, {'ncyolo swntox', 'inkohe znatec'}, {'nisyla sentoq', 'ycioil hnayoc'}, {'nicywl snhths', 'miqhal hwmots'}, {'inkohe zwnotq', 'niclwe suntwx'}, {'inkoal qonyso', 'niqhlu sondhs'}, {'hucloo asmhas', 'nixhlu snutox'}, {'inhuha cnatyg', 'nexila smetos'}, {'inzylw asmtac', 'niujla simtoj'}, {'inzalw asnoyx', 'nuxola suntex'}, {'nizolh shntwz', 'injili cnatyj'}, {'nqhola synteg', 'hizaal asndwg'}, {'nkyola syntoj', 'yhcwal qwnyso'}, {'nizoal snhtys', 'inqeal snayic'}, {'haocha cinoty', 'nuzola smatos'}, {'nceoli snwtok', 'wwhoal asmtac'}, {'nijilh shntyj', 'inquha asmoty'}, {'inyoal usnotx', 'nhcaly sanutj'}, {'nizoly santac', 'incawy hnateq'}, {'nwsela swnthq', 'ingaly zoytso'}, {'inclhu znadow', 'nizowl swmths'}, {'nioxlh somtog', 'inzoye agnotc'}, {'mciwly asmtah', 'nycela shntsh'}, {'nsaola samtsy', 'miqeal hsnotx'}, {'nwcolh samdoq', 'hijloo asmtay'}, {'ycihal suwyso', 'nicily suntoq'}, {'hwcwal guwtso', 'nyucla swntaq'}, {'yayoal shwyso', 'nixhlu shntas'}, {'nhcolo suntok', 'iygoal asythw'}, {'nceolh shntik', 'inkohl kawyso'}, {'inqyal zahwso', 'nhjola sondoj'}, {'nsaola sntwos', 'wcioye cnatak'}, {'nusula swntxo', 'yciulw zihtso'}, {'nujola symtoq', 'yyoclh cimots'}, {'nayhal znadoj', 'nhxula snhtos'}, {'anqoal usnotc', 'nhcolo santuq'}, {'wwocal swmotw', 'nhzula swntuq'}, {'nwozla santyc', 'incuhw asnyhj'}, {'incluo osnotx', 'nciwla sinteg'}, {'nicwal shntgo', 'inqiha xunoth'}, {'incial xamotq', 'nsiwla sontaj'}, {'nicylw shmtox', 'wiqeal kynhso'}, {'inqoel qamyso', 'nwzolu swmtog'}, {'inxhle xonotq', 'nizela santky'}, {'nhcaly suntux', 'wwwoal qhnyso'}, {'yiqlou xenotq', 'nhchla swnthz'}, {'inzale snawyg', 'nichly swmtoq'}, {'inyoal cnatyq', 'nhqhla sontok'}, {'yciowl asndac', 'nwjela santuk'}, {'nawlou aynoty', 'nicily sontuq'}, {'inqlou cnayoc', 'njeola shntyj'}, {'nicyly shntox', 'yiqeal ynayoc'}, {'nyshla sontuq', 'yyocha aynoty'}, {'ncyole sandoj', 'inzwle suhoth'}, {'injilh axnoty', 'nyxila samdus'}, {'yixwal agnotx', 'ncyolo samtwj'}, {'nciuhw asnowy', 'nizyla snatoc'}, {'nixilw shndos', 'hecloi qnatso'}, {'wciale yhmtso', 'nhxwla suntoc'}, {'inqeal zunwso', 'nichlo smhtos'}, {'mcioal usnoth', 'nceolh santig'}, {'niuxla suntko', 'inqlou asmtax'}, {'ychoal xwmots', 'nioklh smitos'}, {'nixala shmtox', 'ingwal aqnyso'}, {'inqeha aswoty', 'nsoila shntjo'}, {'niclye smatoz', 'inzuha kyytso'}, {'hecloi asnatq', 'nucyla sandyk'}, {'nwcolh sindhs', 'ycuoal knatyw'}, {'inqoil yhmtso', 'niclye sandic'}, {'nosola syntog', 'yyioal zyhtso'}, {'inqwha agnoty', 'nijowl santyk'}, {'nhocla swndhs', 'inzlow zwnoth'}, {'yaqloa aswyhs', 'nislha shntso'}, {'nhxolw santqu', 'inqohl swwyso'}, {'incwou asndeq', 'nicelw smatws'}, {'nhcwla simtws', 'myocha wnatso'}, {'ihcloo cinoth', 'nhcela suntak'}, {'nhchlu simtoj', 'wcioal yhmtso'}, {'nwzolw samdes', 'nyweal usnoth'}, {'noqhla swnths', 'inwaly snayhc'}, {'nixwla sanutj', 'miwial asnoty'}, {'nehloi axnotq', 'nizolo santak'}, {'nhxoly snoths', 'ihqoal hnatyg'}, {'nwyloo jnayoc', 'nixoal shntgo'}, {'nceila shmtes', 'hecloo asythx'}, {'nwcelw shntic', 'iycwal znatex'}, {'wwcyal esnotx', 'nhgoly sanduc'}, {'incwou knayys', 'nijaly snatog'}, {'inzowe hnateq', 'nucyle santwg'}, {'inxoal znateq', 'nizole santug'}, {'njiola smates', 'inzoel asnoty'}, {'niciwl semtog', 'nciuhw asnotk'}, {'inkwle znateq', 'nsuola shmtoc'}, {'nysyla shndws', 'mciily xinotq'}, {'ncyoli santxy', 'inxaly asmyhs'}, {'njyola smatws', 'nwhwal asmtaw'}, {'inzulw agnotx', 'nizhlu swntek'}, {'mhocli knatyk', 'nisila sondoq'}, {'iyclou asndso', 'niclye symtos'}, {'nciuhw asnyhy', 'nucylu sneths'}, {'hijloo znatec', 'nicyly santek'}, {'niqhli sandgo', 'ycioay asmtso'}, {'niclha shndes', 'yiochh shwyso'}, {'nijolu suntyj', 'inshle znadoc'}, {'incuhw asndaw', 'nicwlh swntoj'}, {'wusoal asydhs', 'ncyoly smutos'}, {'inceal jnahoy', 'nixhlh sontux'}, {'nciolh suntyk', 'mhocha ghhtso'}, {'nwxolh swnths', 'yceoal agnoty'}, {'nyochi xawotq', 'nixelh snhths'}, {'nicyle sonthq', 'mciyly yhnwso'}, {'nwwloo aqnoty', 'nciolh santwx'}, {'nwzolh sontej', 'iwqoal hnatyg'}, {'nsihla sandeq', 'nayyal ynayoc'}, {'nyocla samdus', 'ingeal qnatyg'}, {'nichlh swndog', 'inkilh asythh'}, {'incyil sowyso', 'nixily swndoc'}, {'wayoal aynoty', 'ncyole santyc'}, {'nijala sintog', 'yiqwal cnawys'}, {'njeola shntoj', 'inzoyw hsnotx'}, {'nychli samtoj', 'wciale zehtso'}, {'wwgoal ashotc', 'nhxwla snutoc'}, {'nixala swntoc', 'injaly knahys'}, {'nigila suntax', 'hngoal kawyso'}, {'encloi agnotc', 'nizoli syndok'}, {'nacyli sendoc', 'mciily gawyso'}, {'inqeal knatyz', 'nijwla santgo'}, {'nwcele samtoq', 'wciale agnotx'}, {'wwzoal zihtso', 'nwcela santak'}, {'nochla suntwk', 'muxloa aqnyso'}, {'nigyla syntyj', 'inzowe asnotw'}, {'nwzola sumtok', 'hiochh sewyso'}, {'nixala snutok', 'yuxloa cinoty'}, {'nyyeal asyotc', 'nizyli smatis'}, {'nhxola santko', 'injhle suwwso'}, {'nsiolo samtsy', 'ycioyl junwso'}, {'wizual asmtaw', 'nceela sandek'}, {'nayual snayak', 'nisala shntog'}, {'inkohl agnoty', 'ncyolw swntyk'}, {'nkyola sandox', 'yycwal asmtac'}, {'ingyal qnayoc', 'noxola santij'}, {'ihcloo aknoty', 'nuzula shmtoz'}, {'yacwal cnatyy', 'nixila sandoq'}, {'inxhle aswyso', 'nizhla santxo'}, {'hiqloo yunoth', 'nhculo synthg'}, {'nceela sontij', 'incuho xayotq'}, {'nizoal suntux', 'nwywal asnatx'}, {'nayaal cinoth', 'nocyli snutoq'}, {'nuqhla symdos', 'inchhe kunwso'}, {'nizaly santqy', 'wizaal xynotq'}, {'inkilh qonyso', 'nighly suntyj'}, {'nwzala smatoc', 'iyclou zwnotq'}, {'ingowl suwoth', 'nceolo sintoc'}, {'nciloa sontoq', 'wwcaal kunoth'}, {'hiochy xahdso', 'nsiola snatok'}, {'nizhla smatis', 'inkoal jwmots'}, {'nwqhla saontj', 'inzilw qonyso'}, {'nshola samtqo', 'yiwwal asndah'}, {'wciowe osnotx', 'niqhly shmtws'}, {'nsioly santhx', 'hucloo cinoty'}, {'nohloh xnatak', 'nizolw sundok'}, {'nixlea sintoq', 'inqual qnayoc'}, {'nicyli shmtox', 'ingwal asythy'}, {'nwzwla snatoj', 'yizloh xnayoc'}, {'inchou asnyso', 'nwzolo swntxo'}, {'inzual aqnotc', 'nizole synthg'}, {'nizyla sundox', 'ycuoal aznotx'}, {'miqhal swmoth', 'nsiala samdws'}, {'nioclh syntoc', 'ingoil ynatso'}, {'wuxloa kyndso', 'nwecla smatox'}, {'miqeal asydas', 'nwzyla snhtys'}, {'hhocha kawyso', 'nichwl shntsh'}, {'inqiha asmtah', 'nixyla swntuq'}, {'nhjula shntoq', 'wwkoal asythx'}, {'mhoclh jnatso', 'niclhh swnthz'}, {'injlou cihots', 'ncyoly sintox'}, {'inzule aswotc', 'nuchla syntoq'}, {'ncyolw swndox', 'hnclou usnotx'}, {'najila swnthg', 'wwceal gahyso'}, {'nsiwla sanodc', 'inzohw asmotc'}, {'inqoul zwnotw', 'niclhh smaots'}, {'miqlou ajnotc', 'nixula shntik'}, {'ycioil yawyso', 'niuzla sandwq'}, {'incuhh gumtso', 'niclya sandhx'}, {'ycyoal junoth', 'nwzolu samtaq'}, {'nixilu sanduq', 'injilh jnatay'}, {'inxelh xonotq', 'nixula suntik'}, {'yaoclh asnwtc', 'nixolw swmtoq'}, {'hngoal znadow', 'nuzula swmtoq'}, {'ingohl knatyz', 'nciila samtwj'}, {'inqaal knatyg', 'nychla samtij'}, {'nixoly shntsy', 'inqyal suhwso'}, {'incuhe asnety', 'nceolh sandhz'}, {'inglou yhytso', 'nasola swntoj'}, {'niuzla sentoj', 'wwgoal zamdso'}, {'inkaly asnodx', 'nqiolh shntoq'}, {'niijla sanotg', 'haocha gwhtso'}, {'inxuha knayys', 'niclwe shntox'}, {'nhculw sanodc', 'inqoel cnaoty'}, {'nhcole syndog', 'inqoil snayeq'}, {'nizhlu shntok', 'yisloh cnatyx'}, {'inkoye asnotq', 'nxiola sontak'}, {'nezola swnthk', 'inqhal cnadys'}, {'nsiola sundox', 'neyloi cnatyq'}, {'ycioaw ynadoq', 'nicyle sintwc'}, {'ihclou qinyso', 'nhucla swntyx'}, {'niqhli swntyk', 'mciyly yunwso'}, {'injili asmhas', 'nhcoli sontiq'}, {'nixilw samtuq', 'injiha znadhs'}, {'ncyolo swnthc', 'haqloa knatak'}, {'inceal asythw', 'nwcila shntiq'}, {'yhcloh zahyso', 'nixula snatoc'}, {'imwoal knatak', 'nigela sntyos'}, {'nisula samtog', 'ysioal asnatc'}, {'ycioay zwwots', 'nisolu snutoj'}, {'naywal asnotg', 'nsiula sentyj'}, {'inyoal znadox', 'ncyolu samtqo'}, {'nizila santhg', 'yaqloa xenotq'}, {'yacwal asyotx', 'nsiila swnteg'}, {'incayy knahys', 'nicewl smitos'}, {'miwwal knatyy', 'nhxhla santyc'}, {'yocloh aswyhs', 'niuclh syntoq'}, {'inghle gnatso', 'nichlh shndos'}, {'nixhlu syndoc', 'mhocya swmoty'}, {'mcihly qinyso', 'nysole shntxo'}, {'wciale znatak', 'najila sandhj'}, {'niclwh syndog', 'hacloo ahnotx'}, {'miqeal aswotx', 'nixylh swntex'}, {'nyswla santhx', 'wwzoal jnatwy'}, {'inhlou xawdso', 'nusola samtgo'}, {'hoocha qnayoc', 'nwcila syntgo'}, {'nyyeal hnayoc', 'nwgela sontug'}, {'yocloh asnotg', 'nexola sandwk'}, {'niqhly sanotx', 'hyceal aznoty'}, {'miqeal yhnhso', 'nojola sanotk'}, {'inchye zehtso', 'nqwola shntws'}, {'wwxoal zwmots', 'nqhola samtwj'}, {'nichlw suntko', 'anclou cnatyy'}, {'nicyal snutoq', 'inqoil suwwso'}, {'inzhlw xawdso', 'nizoli sandhs'}, {'inzilw azhtso', 'nugyla smatoj'}, {'naqolh shnthg', 'yceoal zwnotq'}, {'nixulh suntux', 'hiwloo kwmots'}, {'ncyela shntjo', 'inzhlw asydas'}, {'inquha gnatso', 'nixolu shntus'}, {'yijwal asywhs', 'neqhla sandux'}, {'niclhe synteg', 'yhoclh xamotq'}, {'mywoal jnatak', 'nhxolu sandox'}, {'wyocha ashyhs', 'nhxolw shntco'}, {'nicily sanduk', 'yikwal snayuc'}, {'inzelw isnotx', 'nciolw shmtws'}, {'nixala sonteg', 'yyceal asnotx'}, {'inhaly snayyc', 'nychla snuths'}, {'injilh asyotx', 'nochla sandyk'}, {'nsihla smhtos', 'iwclou jnaoty'}, {'nwxela smatws', 'yjioal gahhso'}, {'nixilh sintox', 'mhocwa kyytso'}, {'nixoly santwk', 'hiochw cnatyz'}, {'niqhlh sontok', 'inkoal snayhc'}, {'hiqeal suwwso', 'nxiloa suntog'}, {'nceolh sontaq', 'myceal cnatyh'}, {'nysula shntgo', 'huxloa asnyhj'}, {'naxolh santig', 'inglou zonhso'}, {'nizoal somtoj', 'yiyloh asnyhh'}, {'nyjhla suntoq', 'ingoel qnatso'}, {'nixhlu snatog', 'inzoal knatak'}, {'yiocyh asmtaw', 'nqiolh samtoj'}, {'nhcole snhtes', 'mhoclu wunwso'}, {'nizala swntwj', 'ingaal asndeq'}, {'wcioye asnwty', 'ngiola sanetg'}, {'nhcela sontyj', 'hhocha cnatak'}, {'yxioal gnutso', 'nixolu shntqo'}, {'ungoal suyoth', 'nceola shmtoz'}, {'inqohl asnoth', 'nsiola santyg'}, {'yigwal xnayoc', 'nizyli sanitj'}, {'inhaly asmdas', 'nizolu shntes'}, {'ywcloh hnatak', 'nijoal synteg'}, {'inhaly asnyhz', 'nhxole smytos'}, {'yijloh knatyg', 'ncehla swndox'}, {'wizaal cnayys', 'nhcole sandok'}, {'inkale knaoty', 'nwsela shntzo'}, {'niswla snwths', 'yucwal usnoth'}, {'yusoal snahyg', 'nceolh syntok'}, {'yacwal agnotx', 'nwzoly sandeg'}, {'imwoal jnawoy', 'nujola shmtok'}, {'nceolo sandog', 'inqoah ynadoq'}, {'nhsula sintoc', 'hciulw kyhtso'}, {'nijili smutos', 'maqloa ynatso'}, {'niozla sntwos', 'yecloi gumtso'}, {'inchel zuhtso', 'nijoal swndog'}, {'nugyla snhdos', 'yasloa znadoy'}, {'yiwloh zawdso', 'nisyli sandhc'}, {'niclha snatoq', 'ycuoal xwnotq'}, {'yiqloh yhndso', 'niqhlh samtwq'}, {'niclye sindoc', 'inchel esnotc'}, {'nyochi asyoty', 'nixulh smatws'}, {'nsuola sentgo', 'inzlow asndaw'}, {'hhocha snayic', 'nciloa sandoj'}, {'inhlou kywtso', 'nichlh sntosh'}, {'nixwla sentox', 'mhocha qonyso'}, {'incuhy snayak', 'nujila swntux'}, {'wwcyal qwnyso', 'nizwla smatoz'}, {'nciolu sontiq', 'insoal cnateq'}, {'niqhlu shmtis', 'yciloh jnawoy'}, {'nsiela santhg', 'injilh axnotx'}, {'yuxloa wawyso', 'nwxila sanotc'}, {'myocha knayys', 'niclwh sntios'}, {'nixile santco', 'nhocho jnawoy'}, {'nayual qenyso', 'nciolh syntec'}, {'incual gahwso', 'nizolw sanhtj'}, {'yucwal asmtak', 'nhxula snwtoj'}, {'nwxela samtuj', 'ingoil wwmots'}, {'nisolh sanotk', 'hiochw asnitz'}, {'nochla simtog', 'nawlou cimots'}, {'ingowl kyhtso', 'nysoly samtqo'}, {'nysula swndoc', 'inzhle jnatay'}, {'nhxyla shntiz', 'inqial zwyots'}, {'mciloy znatew', 'nwzolu sentok'}, {'mayoal znatyg', 'nicylu sontax'}, {'hhoclo ashyhs', 'nucylw sandhz'}, {'nixlaa sandhx', 'incyou xonotq'}, {'nachla shntox', 'inwoal gohtso'}, {'nujola santek', 'inqeha znateg'}, {'nycila sontux', 'yikloh asmtag'}, {'nyxola shmdos', 'inzele ghatso'}, {'miwaal jnadoy', 'nychlw santyc'}, {'nychla sandoj', 'inchel jnatyy'}, {'nizolu samtgo', 'inyhle gahyso'}, {'unclou snayac', 'nhcolu shmtoc'}, {'inwhle asnoth', 'nixily snutok'}, {'inkoye asywhs', 'nacyli syntac'}, {'anclou cawyso', 'nixilu shntic'}, {'niclho syntic', 'yceoal ahnotc'}, {'nisolu shmtes', 'mciuly snayhc'}, {'injile knatyc', 'nwchla suntwx'}, {'mciily asmtag', 'nycyli smatoc'}, {'hiochy cimots', 'nyxolh suntyj'}, {'miwyal znadhs', 'nciolo syntyk'}, {'nijolo shntyk', 'inqelo awnoty'}, {'wiqlou aynoty', 'nwcelo swmtos'}, {'anyoal xhnotq', 'nyosla shntox'}, {'yizaal suywso', 'nycela smatys'}, {'nijhlu syntok', 'yiqeal axnoty'}, {'inzulw qnatak', 'njiila swntix'}, {'nhcoli suntxo', 'injiha kynyso'}, {'inqoaw jnatiy', 'nhqhla samdws'}, {'myceal qawyso', 'nceolu samtaq'}, {'inzoel wnatyg', 'nwcely santky'}, {'newloi asnhtz', 'nijolh shntix'}, {'iwqoal swmotw', 'nziola shmtos'}, {'yiocyh asnday', 'nezola sanodj'}, {'incial asnodx', 'nijoly santaq'}, {'hixloo asnowx', 'ncioly syntyc'}, {'ncyoli shntko', 'ingual asmtsa'}, {'niuclh sinthg', 'mowoal asnhso'}, {'incyal ynatyg', 'nocyla shntus'}, {'inkilo znatey', 'nycolh santhx'}, {'hnclou wawyso', 'nojila sonteq'}, {'nishla santgo', 'wwgoal asmtah'}, {'ingaly zwhots', 'nwzyla samtoc'}, {'inzoye asmtaq', 'nucylo shndis'}, {'nhcole shntko', 'wwzoal cnatyc'}, {'nijoli shntok', 'yijwal asmtsa'}, {'nsioly swndhs', 'wusoal kyytso'}, {'nciuhw knatyq', 'nioxlh sanhtj'}, {'nicely shmtys', 'hecloo asndaz'}, {'nijily shmths', 'inclhu jnateq'}, {'yciial xwnotq', 'nysila sandeq'}, {'yiyloh yunwso', 'nizoly suntog'}, {'hizloo znadoc', 'niclwe sontej'}, {'yiqlou aghtso', 'ngeola sintoc'}, {'yiocyh kynyso', 'nycela swnthc'}, {'nijile suntwx', 'yikloh znadoh'}, {'hhoclo asythq', 'nislya shmtas'}, {'nisolu santac', 'mhoclu zomtso'}, {'huocha gnutso', 'nysoly smytos'}, {'hiyloo cnatyh', 'nychlh swndoc'}, {'nwchla swmtok', 'ycuoal kymtso'}, {'nciloa sendhs', 'huocha asnuty'}, {'incyou asmdhs', 'nixylh sandwg'}, {'wwceal aswtaq', 'nisolo syntec'}, {'nexola shntsw', 'ihgoal hnateq'}, {'nswola simtoj', 'wayoal suywso'}, {'incuah znateq', 'nixilh sintwx'}, {'niciwl santgy', 'ycaoal jawyso'}, {'imgoal gahyso', 'nhcoly sontac'}, {'hocloo zohtso', 'njeola snatoc'}, {'nisole suntoj', 'husoal cnadys'}, {'inzwle zawyso', 'niozla saontj'}, {'yyceal yhmtso', 'nwzala shntoq'}, {'wciowe znadox', 'nachlu sontaj'}, {'nijila sontuk', 'nwhloo asmtah'}, {'nishla syntic', 'inhoal esnoty'}, {'nwcyli santgy', 'yocwal asmwas'}, {'nichwl sintoj', 'hocloo cinotq'}, {'ingaal zwnoty', 'nijolo shntus'}, {'iwgoal zhatso', 'nixaly samtiq'}, {'inzalw asndso', 'nhxolu swntak'}, {'iwclou snaheq', 'nysela sentyk'}, {'hayoal asnoyy', 'nizolw sandhg'}, {'niqhlo shntco', 'nwhwal zahhso'}, {'inyoal jnatiy', 'nuxula samtgo'}, {'ycioah hsnotc', 'nijloa samtwz'}, {'hngoal hnatyg', 'noxolh smatoc'}, {'unclou znaoty', 'nwzela sondoq'}, {'inklou isnotc', 'nhcolo sandhc'}, {'ihcloo qnateq', 'nhcyli swndog'}, {'niclyh swntix', 'inxoal aknotx'}, {'nhzula sanitj', 'miwual hnateq'}, {'yasloa gawyso', 'nachlu sontux'}, {'hisloo swmotw', 'nhqola smatok'}, {'nhxolw sontuk', 'injial wnatyg'}, {'hiyloo xawyso', 'niclha santic'}, {'ngyola sneths', 'inzual asyotx'}, {'nxeola sonthq', 'inqowl cawyso'}, {'mewoal asnwtx', 'nhucla santju'}, {'nwzoly sontgo', 'yiocwh cnatyw'}, {'nisoly symtoc', 'wusoal wnayoc'}, {'nucyla shntse', 'nwhloo asnetc'}, {'nixlia samteq', 'yciwal acnotc'}, {'ncyela shntqo', 'yihloh gwhtso'}, {'incwal asydhs', 'nuzola sanhtj'}, {'myocha xamotq', 'nqhola sandhz'}, {'nizoal shntic', 'inxaly asnatq'}, {'nwcelu santgh', 'hixloo qhnyso'}, {'miwial snaywc', 'niijla sendoc'}, {'nisloa santgo', 'mawoal kyytso'}, {'nhcolw shntok', 'mhocya asythc'}, {'wwcual asnotq', 'niqolh shntez'}, {'nijolw shntis', 'wayoal asmtac'}, {'nislao syndog', 'whoclo asnutx'}, {'yiwwal knatak', 'nhsola snuths'}, {'nicywl sintwx', 'nyochi znateh'}, {'nsiula santhq', 'injilo snaweq'}, {'inzwle qnateq', 'nciolh syntwj'}, {'yciloh hnateq', 'nioxla santaq'}, {'nceoli swntex', 'inzele znadoj'}, {'inqohi snayak', 'nikhla shndus'}, {'nikhla suntyj', 'ingeal qnaoty'}, {'nislia sonteg', 'yciohl sywyso'}, {'wwyoal sowyso', 'nixlua swntwx'}, {'nezola syntoj', 'inqeal aghtso'}, {'wciale asythh', 'nislya sandco'}, {'nuxola snuths', 'hocloo zwwots'}, {'nwozla snyths', 'yiqeal aqnoty'}, {'injlou kyytso', 'ncwola swmtok'}, {'inqohe xnayoc', 'nychla samtqo'}, {'nijilw smatog', 'yhoclh usnotx'}, {'injiwa znatec', 'nijowl shntxo'}, {'nciyla samtox', 'yycwal asnhtc'}, {'nuchlu syndok', 'wwkoal aswoty'}, {'nicyle suntyj', 'yuxloa xawotq'}, {'inzulw cnatyj', 'nhcila swntik'}, {'wuxloa xunwso', 'nujula sontwj'}, {'nsoila samtso', 'inzwle ajnoty'}, {'ngyola sundok', 'myceal jnadoq'}, {'ncyolo samdoj', 'inslou suyoth'}, {'nwcyla santgi', 'inzaal asythc'}, {'nijoli suntix', 'yijwal zamdso'}, {'nisula sandej', 'husoal zwwots'}, {'nixala samtuj', 'yyocha cnatyk'}, {'inkohl knatyj', 'nwzela sintwg'}, {'ihclou gunyso', 'nhcule shndos'}, {'hiochw ahnotc', 'nicylh snwtok'}, {'hwcwal wnateq', 'nhcila sniths'}, {'wizaal xnatyg', 'nixylh smatws'}, {'wwocal asnwtz', 'nosola samthq'}, {'wciale xnaotq', 'nychlu sanotx'}, {'inzoel gnayoc', 'naqolh smatok'}, {'hecloo kynhso', 'nixloa shntox'}, {'iycloh kwmots', 'nijoly sontij'}, {'yizual asmtsa', 'nhxoli smhtos'}, {'incuhy jawyso', 'nqiolh santuk'}, {'nijilw sanotc', 'inkele knaoty'}, {'nhcolh samtso', 'insoal qhnyso'}, {'angoal asnety', 'ncioli santec'}, {'niclha swndhs', 'nayaal xamdso'}, {'nwocla swntok', 'haocha gihtso'}, {'inchou zehtso', 'nhsola shmtes'}, {'nizolu syntco', 'nayial asnwtc'}, {'nyokla swntyj', 'hikloo ynatso'}, {'nicywl sontyq', 'mciohy gnatyg'}, {'nuxyla samtwz', 'miwaal zomtso'}, {'injilu zwnotk', 'nychla santax'}, {'nsiela samtaj', 'hasloa ynateq'}, {'mhocly asnwtz', 'nicwal shntoq'}, {'nwhwal aswoty', 'nychli suntwj'}, {'nuxola santhc', 'neyloi wunoth'}, {'nsiolu snatox', 'imwoal xunwso'}, {'huocha snaywc', 'noxila samots'}, {'nixylh sonteg', 'yucwal asnwaq'}, {'nisoal sontog', 'iwqoal gnaoty'}, {'nixolw sonteg', 'iyclou hnadoq'}, {'yizaal kynwso', 'nicyly sontox'}, {'niijla sumtoq', 'mwcloo asnutx'}, {'nisyli santuj', 'anqoal xinotq'}, {'inzele znayes', 'nciolw suntox'}, {'inxlou asnotj', 'nyzhla suntyx'}, {'nhcaly sontox', 'wwcwal zwnotq'}, {'najila sonteq', 'inqaly asythk'}, {'mhocle cnatyq', 'noqhla smetos'}, {'nozola santaq', 'imwoal xunwso'}, {'nishlu santco', 'ycwoal asnotx'}, {'ncyoli santwg', 'wwceal hsnotc'}, {'mciily ajnotx', 'nychlw santcu'}, {'yiqloh zwmots', 'nochlu santgi'}, {'nazola sandyc', 'nyochw wnatak'}, {'nuzola snutox', 'nehloi acnotx'}, {'hiochu asythj', 'naxolh shmtok'}, {'myocha cnatyy', 'niqhli sintwx'}, {'nziola santix', 'wciwle knateq'}, {'inqwal cnatak', 'nsiyla santaj'}, {'nixoly sandog', 'anclou kunoth'}, {'inqhle xahotq', 'ncyoli swntwk'}, {'mhocly yhnhso', 'nsiwla santek'}, {'wcioal zunoth', 'nojila samtso'}, {'nshola sintwj', 'nyocho knatyq'}, {'nixalh sandej', 'inkoal zhndso'}, {'nixylh snuths', 'injiya xawdso'}, {'naqhla sntwos', 'yaoclh snawak'}, {'wwhoal gnatak', 'nijhla snhtes'}, {'injaly asmyas', 'nixlua sandhz'}, {'ingwal hunoth', 'nijolo santge'}, {'nceila swntuq', 'wciowe asnatc'}, {'inzhle asmtso', 'nwsela samtws'}, {'nijloa santuk', 'wciyle suyoth'}, {'incliu zwnotc', 'nixole sandwq'}, {'nijile swmtox', 'inzlou gawyso'}, {'inchal cnaoty', 'niclha swntwj'}, {'nijilw sintog', 'yacwal znaoty'}, {'nhcela samtwq', 'haocha xnatak'}, {'incloh zahyso', 'ngiola sanotg'}, {'yhoclh zwhtso', 'nigila shntoz'}, {'nycela sandhx', 'inslou knatak'}, {'inzowe wawyso', 'nisoli sandyj'}, {'nixoli suntxo', 'hecloi asnoyx'}, {'wcioal xawyso', 'noxolh samtok'}, {'nkyola swntoc', 'mciuly asythc'}, {'inqohu snaheq', 'njeola suntoq'}, {'imgoal zahhso', 'nhcala samtej'}, {'inkoel yhnyso', 'nychla sumtox'}, {'nixhla shntoq', 'inkoel asythx'}, {'inkule hsnoty', 'nyshla santyj'}, {'nucylo sontjo', 'incuho wnadoq'}, {'nizloa sanhtj', 'inkeli cunwso'}, {'ingoah usnoty', 'nojola snhdos'}, {'nwqhla sontox', 'incloi ynateq'}, {'nishla shmtog', 'yciowl zwnoth'}, {'inzaly asndaw', 'ncyila suntyj'}]
+nicola santos       : DEBUG: Additional rule variations: {'nicolasantos'}
+nicola santos       : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 3
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "nicola santos": {
+            "first_name": {
+                "score": 0.5421739620410635,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 0.5499999999999999,
+                        "combined": 0.27499999999999997
+                    },
+                    "count": {
+                        "actual": 2,
+                        "expected": 3.1499999999999995,
+                        "score": 0.8478264136070903
+                    },
+                    "uniqueness": {
+                        "unique_count": 2,
+                        "total_count": 2,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "nixila",
+                            "phonetic_score": 0.6901392074346517,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "yeoclh",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.16666666666666663,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.5421739620410635,
+            "final_score": 0.6337391696328508,
+            "variation_count": 3,
+            "non_rule_compliant_variations_count": 2,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.5421739620410635,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 0.5499999999999999,
+                        "combined": 0.27499999999999997
+                    },
+                    "count": {
+                        "actual": 2,
+                        "expected": 3.1499999999999995,
+                        "score": 0.8478264136070903
+                    },
+                    "uniqueness": {
+                        "unique_count": 2,
+                        "total_count": 2,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "sanotq",
+                            "phonetic_score": 0.26424604483379877,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "znatek",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.16666666666666663,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_all_spaces": [
+                            "nicolasantos"
+                        ],
+                        "replace_spaces_with_random_special_characters": [
+                            "nicolasantos"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "nicolasantos": [
+                            "remove_all_spaces",
+                            "replace_spaces_with_random_special_characters"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.3333333333333333,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 2,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "nicola santos": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_all_spaces": [
+                            "nicolasantos"
+                        ],
+                        "replace_spaces_with_random_special_characters": [
+                            "nicolasantos"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "nicolasantos": [
+                            "remove_all_spaces",
+                            "replace_spaces_with_random_special_characters"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.3333333333333333,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 2,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.6337391696328508,
+    "final_reward": 0.6337391696328508
+}
+nicola santos       : DEBUG: ----------------------------------------------------------------------------------------------------

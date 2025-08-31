@@ -1,0 +1,876 @@
+arthur hughes       : INFO: Generating variations for arthur hughes
+arthur hughes       : INFO: ----------------------------------------------------------------------------------------------------
+arthur hughes       : INFO: Effective rules: ['insert_random_letter', 'remove_random_consonant', 'delete_random_letter']
+arthur hughes       : INFO: ----------------------------------------------------------------------------------------------------
+arthur hughes       : INFO: Min Required Rule Variation Set: [{'arthur huges'}, {'artlhur hughes', 'aarthur hughes', 'arthur hughyes', 'asrthur hughes', 'alrthur hughes', 'parthur hughes', 'arthuhr hughes', 'arthumr hughes', 'arthuur hughes', 'arthuru hughes', 'arthur fhughes', 'artwhur hughes', 'arthury hughes', 'arthur hughqes', 'arthur lhughes', 'arthdur hughes', 'arthur humghes', 'artdhur hughes', 'earthur hughes', 'arthrur hughes', 'arthbur hughes', 'arthur huzghes', 'arthusr hughes', 'arthur nhughes', 'arthur hughers', 'arthuro hughes', 'arthulr hughes', 'arthur hughues', 'arthur husghes', 'arthaur hughes', 'arbthur hughes', 'arthudr hughes', 'aurthur hughes', 'arvthur hughes', 'marthur hughes', 'arthur mhughes', 'arithur hughes', 'aprthur hughes', 'arthur hughdes', 'arthurk hughes', 'arthur huxghes', 'arthur hxughes', 'barthur hughes', 'arthurj hughes', 'arthugr hughes', 'varthur hughes', 'arthur hugrhes', 'arkthur hughes', 'arthur huaghes', 'arthukr hughes', 'arathur hughes', 'artthur hughes', 'arlthur hughes', 'arthur hugshes', 'arthur hugheks', 'acrthur hughes', 'arthur hugahes', 'arthur hughses', 'arzthur hughes', 'artyhur hughes', 'arthur hughbes', 'airthur hughes', 'arthur heughes', 'arthurb hughes', 'arthur hughkes', 'arcthur hughes', 'arthur hbughes', 'arthur zhughes', 'arthucr hughes', 'arthurr hughes', 'arsthur hughes', 'qarthur hughes', 'arthura hughes', 'arthur hughres', 'arthur hughebs', 'artxhur hughes', 'arthur dhughes', 'arthur rhughes', 'arthur houghes', 'abrthur hughes', 'arthurs hughes', 'arthur hdughes', 'arthuar hughes', 'arthurh hughes', 'arthur hughess', 'arthur htughes', 'arthufr hughes', 'arjthur hughes', 'armthur hughes', 'arthur huyghes', 'arthur hnughes', 'arthur hughexs', 'arthur huvghes', 'ardthur hughes', 'carthur hughes', 'arthur hugheqs', 'artzhur hughes', 'arthur hughegs', 'arthurd hughes', 'aerthur hughes'}]
+arthur hughes       : INFO: ----------------------------------------------------------------------------------------------------
+arthur hughes       : INFO: First name: arthur
+arthur hughes       : INFO: Last name: hughes
+arthur hughes       : INFO: ----------------------------------------------------------------------------------------------------
+arthur hughes       : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (0, 7), (0, 8)]
+arthur hughes       : INFO: ------------------------------Trying rule_count_pair 1 / 8: rule_count/nonrule_count: 0/1------------------------------
+arthur hughes       : DEBUG: O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: P: [0, 0, 0, 1]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [35]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: arthur, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: P: [0, 0, 0, 1]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [32]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: hughes, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: scores: [0.50767822]
+arthur hughes       : INFO: ------------------------------Trying rule_count_pair 2 / 8: rule_count/nonrule_count: 0/2------------------------------
+arthur hughes       : DEBUG: O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: P: [1, 1, 0, 0]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [3, 6, 0]
+arthur hughes       : DEBUG: [22, 110, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [1, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [5]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [18]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: arthur, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: P: [1, 1, 0, 0]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [6, 7, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [211, 372, 0]
+arthur hughes       : DEBUG: [1, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [9]
+arthur hughes       : DEBUG: [40]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: hughes, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: scores: [0.52494782]
+arthur hughes       : INFO: ------------------------------Trying rule_count_pair 3 / 8: rule_count/nonrule_count: 0/3------------------------------
+arthur hughes       : DEBUG: O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: P: [1, 1, 0, 1]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [3, 6, 0]
+arthur hughes       : DEBUG: [22, 110, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [1, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [5]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [18]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [35]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: arthur, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 1]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: P: [1, 1, 0, 1]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [6, 7, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [211, 372, 0]
+arthur hughes       : DEBUG: [1, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [9]
+arthur hughes       : DEBUG: [40]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [32]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: hughes, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 1]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: scores: [0.54662414]
+arthur hughes       : INFO: ------------------------------Trying rule_count_pair 4 / 8: rule_count/nonrule_count: 0/4------------------------------
+arthur hughes       : DEBUG: O: [4, 0, 0, 0]
+arthur hughes       : DEBUG: P: [2, 2, 0, 0]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: [3, 6, 0]
+arthur hughes       : DEBUG: [22, 110, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [2, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: [5]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [18]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [2]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: arthur, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [2, 2, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: O: [4, 0, 0, 0]
+arthur hughes       : DEBUG: P: [2, 2, 0, 0]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: [6, 7, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [211, 372, 0]
+arthur hughes       : DEBUG: [2, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: [9]
+arthur hughes       : DEBUG: [40]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [2]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: hughes, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [2, 2, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: scores: [0.56]
+arthur hughes       : INFO: ------------------------------Trying rule_count_pair 5 / 8: rule_count/nonrule_count: 0/5------------------------------
+arthur hughes       : DEBUG: O: [5, 0, 0, 0]
+arthur hughes       : DEBUG: P: [2, 2, 0, 1]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: [3, 6, 0]
+arthur hughes       : DEBUG: [22, 110, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [2, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: [5]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [18]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [2]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [35]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: arthur, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [2, 2, 0, 0, 0, 0, 0, 1]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: O: [5, 0, 0, 0]
+arthur hughes       : DEBUG: P: [2, 2, 0, 1]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: [6, 7, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [211, 372, 0]
+arthur hughes       : DEBUG: [2, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+arthur hughes       : DEBUG: [9]
+arthur hughes       : DEBUG: [40]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [2]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [32]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: hughes, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [2, 2, 0, 0, 0, 0, 0, 1]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: scores: [0.56]
+arthur hughes       : INFO: ------------------------------Trying rule_count_pair 6 / 8: rule_count/nonrule_count: 0/6------------------------------
+arthur hughes       : DEBUG: O: [6, 0, 0, 0]
+arthur hughes       : DEBUG: P: [3, 3, 0, 0]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: [3, 6, 0]
+arthur hughes       : DEBUG: [22, 110, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [3, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: [5]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [18]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [3]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: arthur, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [3, 3, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: O: [6, 0, 0, 0]
+arthur hughes       : DEBUG: P: [3, 3, 0, 0]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: [6, 7, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [211, 372, 0]
+arthur hughes       : DEBUG: [3, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: [9]
+arthur hughes       : DEBUG: [40]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [3]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: hughes, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [3, 3, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: scores: [0.54188609]
+arthur hughes       : INFO: ------------------------------Trying rule_count_pair 7 / 8: rule_count/nonrule_count: 0/7------------------------------
+arthur hughes       : DEBUG: O: [7, 0, 0, 0]
+arthur hughes       : DEBUG: P: [3, 3, 0, 1]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: [3, 6, 0]
+arthur hughes       : DEBUG: [22, 110, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [3, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: [5]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [18]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [3]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [35]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: arthur, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [3, 3, 0, 0, 0, 0, 0, 1]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: O: [7, 0, 0, 0]
+arthur hughes       : DEBUG: P: [3, 3, 0, 1]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: [6, 7, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [211, 372, 0]
+arthur hughes       : DEBUG: [3, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+arthur hughes       : DEBUG: [9]
+arthur hughes       : DEBUG: [40]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [3]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+arthur hughes       : DEBUG: [32]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [500]
+arthur hughes       : DEBUG: [1]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: hughes, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [3, 3, 0, 0, 0, 0, 0, 1]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: scores: [0.521173]
+arthur hughes       : INFO: ------------------------------Trying rule_count_pair 8 / 8: rule_count/nonrule_count: 0/8------------------------------
+arthur hughes       : DEBUG: O: [8, 0, 0, 0]
+arthur hughes       : DEBUG: P: [4, 4, 0, 0]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [4, 0, 0, 0]
+arthur hughes       : DEBUG: [3, 6, 0]
+arthur hughes       : DEBUG: [22, 110, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [20, 20, 0]
+arthur hughes       : DEBUG: [0, 4, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [4, 0, 0, 0]
+arthur hughes       : DEBUG: [5]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [18]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [4]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: arthur, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [4, 0, 4, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: arthur, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: O: [8, 0, 0, 0]
+arthur hughes       : DEBUG: P: [4, 4, 0, 0]
+arthur hughes       : WARNING: Remains: 0
+arthur hughes       : DEBUG: p_level: 1, O: [4, 0, 0, 0]
+arthur hughes       : DEBUG: [6, 7, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [500, 500, 0]
+arthur hughes       : DEBUG: [211, 372, 0]
+arthur hughes       : DEBUG: [4, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0]
+arthur hughes       : DEBUG: p_level: 0, O: [4, 0, 0, 0]
+arthur hughes       : DEBUG: [9]
+arthur hughes       : DEBUG: [40]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [20]
+arthur hughes       : DEBUG: [4]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: [0]
+arthur hughes       : DEBUG: final:
+arthur hughes       : DEBUG: name: hughes, l_level: 0
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [4, 4, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 1
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: name: hughes, l_level: 2
+arthur hughes       : DEBUG: --------------------------------------------------
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+arthur hughes       : DEBUG: scores: [0.50467081]
+arthur hughes       : DEBUG: ----------------------------------------------------------------------------------------------------
+arthur hughes       : DEBUG: Best score achieved: 0.56
+arthur hughes       : DEBUG: Best selected: 0/4
+arthur hughes       : DEBUG: Rule variations: []
+arthur hughes       : DEBUG: Nonrule variations: [{'arthrr hgghes', 'arthIr hoghes', 'arthwr hukhes', 'arthor hughus'}, {'arthrr hyghes', 'arthwr hwghes', 'arther hughis', 'arthir hughos'}, {'arthwr hukhes', 'arthor hughos', 'arthir hughas', 'arthrr hgghes'}, {'arthwr hgghes', 'arthor hughos', 'arthir hughez', 'arthrr huqhes'}, {'arthIr hoghes', 'arthrr hukhes', 'arthir hughez', 'arthwr huqhes'}, {'arthyr huqhes', 'arthir hughis', 'arthwr hhghes', 'arthar highes'}, {'arther hughas', 'arthwr hwghes', 'arthrr hukhes', 'arthIr haghes'}, {'arthyr hwghes', 'arther hughos', 'arthwr hhghes', 'arthir hughas'}, {'arthyr hukhes', 'arthIr hughas', 'arthor highes', 'arthrr hhghes'}, {'arthrr huqhes', 'arthir hughis', 'arthIr hughos', 'arthwr hukhes'}, {'arthwr hukhes', 'arthIr highes', 'arthrr huqhes', 'arthor haghes'}, {'arthyr hgghes', 'arthIr hoghes', 'arthwr hukhes', 'arthar haghes'}, {'arthIr heghes', 'arthyr hyghes', 'arthir hughus', 'arthrr hhghes'}, {'arther heghes', 'arthyr hukhes', 'arthrr hyghes', 'arthar hughis'}, {'arthyr hhghes', 'arthwr hyghes', 'arthor highes', 'arthar hughis'}, {'arthor hughez', 'arther hughas', 'arthwr hhghes', 'arthyr hgghes'}, {'arther highes', 'arthwr hhghes', 'arthyr hgghes', 'arthar hughis'}, {'arthwr hgghes', 'arthar hughez', 'arthIr hughos', 'arthyr hyghes'}, {'arthor hoghes', 'arthar hughos', 'arthyr huqhes', 'arthwr hyghes'}, {'arthrr huqhes', 'arthar hughas', 'arthIr heghes', 'arthyr hgghes'}, {'arthor hughis', 'arthir haghes', 'arthyr hyghes', 'arthrr hhghes'}, {'arthrr hgghes', 'arthir haghes', 'arthyr hyghes', 'arthor hughus'}, {'arthar hoghes', 'arthrr hgghes', 'arthwr hwghes', 'arthor hughis'}, {'arthir hughis', 'arthwr hwghes', 'arthrr hukhes', 'arther hoghes'}, {'arthar hughus', 'arthrr hgghes', 'arthwr hhghes', 'arthor hughas'}, {'arthIr hughis', 'arthwr hyghes', 'arthor highes', 'arthrr hhghes'}, {'arthyr huqhes', 'arthrr hwghes', 'arther hughas', 'arthar hughos'}, {'arthir hoghes', 'arthyr hhghes', 'arther hughas', 'arthwr hgghes'}, {'arthyr hwghes', 'arthrr hhghes', 'arthor hughis', 'arthar haghes'}, {'arthIr hoghes', 'arthyr hyghes', 'arthir hughez', 'arthwr hhghes'}, {'arthrr huqhes', 'arthIr heghes', 'arthar highes', 'arthyr hhghes'}, {'arthyr hwghes', 'arthor hughas', 'arther haghes', 'arthrr hukhes'}, {'arthwr hgghes', 'arthyr hhghes', 'arthIr hughas', 'arthar hughis'}, {'arthyr hwghes', 'arthar heghes', 'arthIr hughis', 'arthrr hukhes'}, {'arthor hoghes', 'arther highes', 'arthrr hukhes', 'arthyr hwghes'}, {'arthrr hgghes', 'arthor heghes', 'arthyr hyghes', 'arthir hughus'}, {'arthrr hwghes', 'arthwr huqhes', 'arthir hughos', 'arthor haghes'}, {'arthwr hukhes', 'arthyr hyghes', 'arthir hughas', 'arthar hughis'}, {'arthyr hukhes', 'arthrr hhghes', 'arthIr hughus', 'arther hughis'}, {'arthwr hgghes', 'arthrr hukhes', 'arthIr hughez', 'arther hughus'}, {'arthrr hwghes', 'arthIr hughas', 'arthwr huqhes', 'arthir hughos'}, {'arther heghes', 'arthrr hgghes', 'arthyr hwghes', 'arthIr haghes'}, {'arthor hoghes', 'arther hughos', 'arthyr huqhes', 'arthrr hhghes'}, {'arthwr hukhes', 'arthIr hughos', 'arthar highes', 'arthrr hyghes'}, {'arthar hughus', 'arthyr hukhes', 'arthrr hwghes', 'arthor hughas'}, {'arthir hughis', 'arther hughas', 'arthyr hyghes', 'arthrr hwghes'}, {'arther hughos', 'arthrr hukhes', 'arthwr hyghes', 'arthor haghes'}, {'arthyr hgghes', 'arthar hughez', 'arthir heghes', 'arthrr hhghes'}, {'arthor hughez', 'arthwr hwghes', 'arthrr hyghes', 'arthar hughis'}, {'arthrr huqhes', 'arthIr heghes', 'arthwr hyghes', 'arthir hughez'}, {'arthor hughez', 'arthrr hwghes', 'arthwr hyghes', 'arther hughis'}, {'arthar hoghes', 'arthyr hgghes', 'arthwr hukhes', 'arthir hughos'}, {'arther heghes', 'arthar hughas', 'arthyr huqhes', 'arthwr hyghes'}, {'arthrr hwghes', 'arthyr hyghes', 'arthir hughez', 'arthIr haghes'}, {'arthwr hgghes', 'arther hughos', 'arthor highes', 'arthrr hhghes'}, {'arthrr hwghes', 'arthyr hukhes', 'arthir hughez', 'arthIr haghes'}, {'arthyr huqhes', 'arthor hughis', 'arthar hughos', 'arthrr hhghes'}, {'arthwr hgghes', 'arthIr hughos', 'arthrr hukhes', 'arthar hughis'}, {'arthor hoghes', 'arthar hughez', 'arthyr hhghes', 'arthwr hgghes'}, {'arther hughas', 'arthyr hwghes', 'arthor heghes', 'arthwr hhghes'}, {'arthrr huqhes', 'arthwr hukhes', 'arthir heghes', 'arthIr haghes'}, {'arthar hughas', 'arthyr hukhes', 'arthwr huqhes', 'arthir hughos'}, {'arther highes', 'arthrr hukhes', 'arthwr hyghes', 'arthor hughus'}, {'arthar hughez', 'arthwr hwghes', 'arthir haghes', 'arthrr hgghes'}, {'arthyr hukhes', 'arthir highes', 'arthwr hyghes', 'arthIr hughez'}, {'arthwr hgghes', 'arthIr heghes', 'arthyr huqhes', 'arthar hughis'}, {'arthor heghes', 'arthyr hukhes', 'arthir hughus', 'arthwr hhghes'}, {'arther hughas', 'arthyr hukhes', 'arthIr hughez', 'arthwr hhghes'}, {'arthyr huqhes', 'arther hughas', 'arthor highes', 'arthrr hyghes'}, {'arthar hoghes', 'arthrr hwghes', 'arthir highes', 'arthwr huqhes'}, {'arther heghes', 'arthwr hwghes', 'arthrr huqhes', 'arthar haghes'}, {'arthor hoghes', 'arther hughas', 'arthwr hyghes', 'arthrr hhghes'}, {'arthir hoghes', 'arthar hughez', 'arthwr hwghes', 'arthrr hgghes'}, {'arthwr hgghes', 'arther hoghes', 'arthir hughus', 'arthrr hyghes'}, {'arthyr hwghes', 'arthIr heghes', 'arthor hughis', 'arthwr hyghes'}, {'arthyr huqhes', 'arthIr highes', 'arther hughez', 'arthrr hukhes'}, {'arthwr hgghes', 'arthir hughis', 'arthIr hughus', 'arthrr hwghes'}, {'arthyr hhghes', 'arther haghes', 'arthrr hukhes', 'arthar hughis'}, {'arthwr hgghes', 'arthIr hughos', 'arthyr hyghes', 'arthar hughus'}, {'arthwr hukhes', 'arthor hughas', 'arthyr hyghes', 'arthar highes'}, {'arthyr hwghes', 'arthir hughas', 'arthIr hughez', 'arthwr hhghes'}, {'arthar hoghes', 'arthyr hwghes', 'arthir highes', 'arthwr hukhes'}, {'arthrr hgghes', 'arther hughus', 'arthyr hyghes', 'arthar haghes'}, {'arther hughez', 'arthwr hhghes', 'arthrr hukhes', 'arthir hughus'}, {'arthor hoghes', 'arthwr hukhes', 'arthir hughas', 'arthrr huqhes'}, {'arthor hoghes', 'arthyr hwghes', 'arthwr hyghes', 'arthir heghes'}, {'arthor hoghes', 'arthrr hhghes', 'arthwr hukhes', 'arthar haghes'}, {'arthor hughas', 'arthar heghes', 'arthyr hyghes', 'arthrr hgghes'}, {'arthwr hyghes', 'arthar hughus', 'arthIr highes', 'arthrr hgghes'}, {'arthor hoghes', 'arthar heghes', 'arthrr hukhes', 'arthwr hgghes'}, {'arther highes', 'arthyr hukhes', 'arthir heghes', 'arthrr hhghes'}, {'arthyr hwghes', 'arthor heghes', 'arthir highes', 'arthwr huqhes'}, {'arthar hoghes', 'arthir hughis', 'arthyr huqhes', 'arthrr hyghes'}, {'arthrr hwghes', 'arthwr hyghes', 'arthar highes', 'arthir hughos'}, {'arthrr hyghes', 'arther haghes', 'arthwr hhghes', 'arthIr hughas'}, {'arthrr hyghes', 'arthyr hukhes', 'arthor hughis', 'arthIr haghes'}, {'arthrr hwghes', 'arthIr hughis', 'arthwr hyghes', 'arthor hughus'}, {'arthrr hyghes', 'arthIr hughez', 'arthir hughus', 'arthwr huqhes'}, {'arthyr huqhes', 'arther hughez', 'arthwr hhghes', 'arthor hughus'}, {'arthwr hgghes', 'arthar hughez', 'arthrr hukhes', 'arthIr hughas'}, {'arther highes', 'arthyr hukhes', 'arthIr haghes', 'arthwr hgghes'}, {'arthir hoghes', 'arthor hughos', 'arthyr hukhes', 'arthwr hgghes'}, {'arthor hughos', 'arthyr hukhes', 'arthrr hwghes', 'arther hughis'}, {'arthor hoghes', 'arthrr hwghes', 'arthyr hukhes', 'arthIr haghes'}, {'arthyr hhghes', 'arthrr hukhes', 'arthir hughus', 'arther hughis'}, {'arthyr huqhes', 'arther hughez', 'arthwr hyghes', 'arthir hughus'}, {'arthor hoghes', 'arthIr heghes', 'arthyr hyghes', 'arthwr hukhes'}, {'arthwr hwghes', 'arthrr hukhes', 'arthar highes', 'arther hoghes'}, {'arthrr hyghes', 'arthar highes', 'arthIr hughez', 'arthwr hhghes'}, {'arthir hughis', 'arther hughas', 'arthrr hukhes', 'arthwr huqhes'}, {'arther highes', 'arthyr hukhes', 'arthIr hughus', 'arthrr huqhes'}, {'arthar hughez', 'arthwr hhghes', 'arthyr hyghes', 'arthir hughas'}, {'arther highes', 'arthyr hhghes', 'arthor heghes', 'arthrr huqhes'}, {'arthar hughos', 'arthir haghes', 'arthwr huqhes', 'arthrr hhghes'}, {'arthar hoghes', 'arthrr hwghes', 'arthyr hyghes', 'arthir heghes'}, {'arthIr heghes', 'arther hughez', 'arthwr hyghes', 'arthyr hgghes'}, {'arthrr huqhes', 'arthar hughus', 'arthwr hukhes', 'arthir hughis'}, {'arther hughos', 'arthIr hughis', 'arthyr hyghes', 'arthwr hhghes'}, {'arthir hoghes', 'arthIr hughis', 'arthyr hyghes', 'arthwr hhghes'}, {'arthyr huqhes', 'arthIr hughis', 'arthwr hukhes', 'arther hoghes'}, {'arthwr hgghes', 'arthIr hoghes', 'arthor highes', 'arthrr hhghes'}, {'arthyr hwghes', 'arthar hughus', 'arther hughez', 'arthrr huqhes'}, {'arthwr hgghes', 'arther hughez', 'arthyr hyghes', 'arthar hughis'}, {'arthrr hwghes', 'arthir highes', 'arthyr hgghes', 'arthor hughus'}, {'arthIr hughos', 'arthwr hhghes', 'arthrr hukhes', 'arthar haghes'}, {'arthar hoghes', 'arthIr highes', 'arthyr hukhes', 'arthrr hhghes'}, {'arthyr huqhes', 'arthrr hgghes', 'arthIr hughez', 'arther hughis'}, {'arthar heghes', 'arthrr hgghes', 'arthIr hughez', 'arthyr hhghes'}, {'arthar heghes', 'arthyr hukhes', 'arthIr hughis', 'arthwr huqhes'}, {'arthyr huqhes', 'arther hughez', 'arthrr hyghes', 'arthir hughos'}, {'arthor hughas', 'arthwr hyghes', 'arthyr hgghes', 'arthar hughis'}, {'arther highes', 'arthrr hhghes', 'arthyr hgghes', 'arthor hughez'}, {'arthar hughas', 'arthir haghes', 'arthwr hukhes', 'arthyr hhghes'}, {'arthar hughas', 'arther haghes', 'arthwr hukhes', 'arthrr hgghes'}, {'arthyr hwghes', 'arthar hughez', 'arthir hughas', 'arthrr hgghes'}, {'arthwr hgghes', 'arthrr huqhes', 'arthIr haghes', 'arther hughus'}, {'arthrr hgghes', 'arthwr hukhes', 'arthar haghes', 'arthir hughos'}, {'arthyr huqhes', 'arthar hughas', 'arther hughos', 'arthwr hhghes'}, {'arthwr hukhes', 'arther hughez', 'arthor highes', 'arthrr huqhes'}, {'arthwr hwghes', 'arthrr hhghes', 'arthIr hughis', 'arthar haghes'}, {'arthrr hwghes', 'arthwr huqhes', 'arther hoghes', 'arthir hughos'}, {'arther haghes', 'arthyr hyghes', 'arthar highes', 'arthwr huqhes'}, {'arthor hoghes', 'arthIr hughos', 'arthwr huqhes', 'arthyr hhghes'}, {'arthyr hwghes', 'arthar hughus', 'arthir hughez', 'arthwr huqhes'}, {'arthrr huqhes', 'arther hughez', 'arthwr hwghes', 'arthir heghes'}, {'arthir hoghes', 'arthwr hwghes', 'arthar hughos', 'arthrr hhghes'}, {'arthor highes', 'arthIr hughez', 'arthwr hyghes', 'arthrr hhghes'}, {'arthor hughez', 'arther hughos', 'arthwr hyghes', 'arthyr hwghes'}, {'arther heghes', 'arthrr hwghes', 'arthwr hyghes', 'arthIr haghes'}, {'arthrr hhghes', 'arthwr hukhes', 'arthir hughos', 'arther hughis'}, {'arthyr huqhes', 'arthIr heghes', 'arthir hughas', 'arthrr hhghes'}, {'arthyr huqhes', 'arthrr hukhes', 'arthIr hughez', 'arthor haghes'}, {'arthwr hgghes', 'arthyr hhghes', 'arthor hughus', 'arthar haghes'}, {'arthor heghes', 'arthwr hhghes', 'arthrr huqhes', 'arthir hughus'}, {'arthwr hukhes', 'arther haghes', 'arthor highes', 'arthrr huqhes'}, {'arthyr hwghes', 'arthir highes', 'arthrr huqhes', 'arthor haghes'}, {'arther highes', 'arthrr hwghes', 'arthir heghes', 'arthyr hgghes'}, {'arthrr hyghes', 'arthir highes', 'arthyr huqhes', 'arthor hughus'}, {'arther hughos', 'arthar hughez', 'arthwr huqhes', 'arthyr hhghes'}, {'arther heghes', 'arthyr hwghes', 'arthIr hoghes', 'arthrr hhghes'}, {'arther heghes', 'arthrr hwghes', 'arthIr hughis', 'arthwr huqhes'}, {'arthwr hukhes', 'arthar highes', 'arthir hughus', 'arthyr hgghes'}, {'arthar hughus', 'arther haghes', 'arthyr hyghes', 'arthrr hukhes'}, {'arthyr hwghes', 'arther haghes', 'arthwr hukhes', 'arthar hughis'}, {'arthar hoghes', 'arthor hughis', 'arthwr hukhes', 'arthrr hhghes'}, {'arthor hughos', 'arthwr hwghes', 'arthyr hhghes', 'arther hughus'}, {'arther highes', 'arthar hughas', 'arthyr hukhes', 'arthrr hgghes'}, {'arthwr hgghes', 'arthyr hukhes', 'arthir hughez', 'arther hoghes'}, {'arthIr heghes', 'arthyr hyghes', 'arthrr huqhes', 'arther hoghes'}, {'arthor hoghes', 'arthIr hughos', 'arthyr huqhes', 'arthrr hhghes'}, {'arthrr hwghes', 'arthIr hughis', 'arthyr hgghes', 'arthar haghes'}, {'arthor hughez', 'arthrr hgghes', 'arther haghes', 'arthwr hyghes'}, {'arthor hughos', 'arthir highes', 'arthrr hgghes', 'arthwr hhghes'}, {'arthyr huqhes', 'arthrr hwghes', 'arther hughez', 'arthIr hughus'}, {'arthar hoghes', 'arthyr hgghes', 'arthrr huqhes', 'arthor hughus'}, {'arthor hughez', 'arthyr hhghes', 'arthwr hgghes', 'arthar hughis'}, {'arthyr huqhes', 'arthor heghes', 'arthIr hughas', 'arthwr hyghes'}, {'arthrr hukhes', 'arthwr hhghes', 'arthIr hughus', 'arthor haghes'}, {'arthir hoghes', 'arthyr hwghes', 'arthor highes', 'arthrr huqhes'}, {'arthwr hgghes', 'arthor heghes', 'arthyr hukhes', 'arthir hughus'}, {'arthor hughez', 'arthwr hhghes', 'arthIr hughas', 'arthrr hyghes'}, {'arther heghes', 'arthrr hgghes', 'arthIr hughez', 'arthwr huqhes'}, {'arthir hoghes', 'arthar hughas', 'arthyr hwghes', 'arthrr huqhes'}, {'arther heghes', 'arthyr hyghes', 'arthor highes', 'arthwr huqhes'}, {'arthyr hwghes', 'arthIr hughis', 'arthwr hyghes', 'arther hoghes'}, {'arther heghes', 'arthar hoghes', 'arthrr hyghes', 'arthwr hgghes'}, {'arthor heghes', 'arthyr hukhes', 'arther hoghes', 'arthrr hhghes'}, {'arthor hughos', 'arthir hughez', 'arthyr hhghes', 'arthwr huqhes'}, {'arthor hughos', 'arthwr hhghes', 'arthyr hyghes', 'arthir hughus'}, {'arthwr hukhes', 'arthyr hyghes', 'arthir heghes', 'arthIr hughez'}, {'arthwr hwghes', 'arther hughas', 'arthrr hhghes', 'arthor haghes'}, {'arthor hughez', 'arthwr hukhes', 'arthrr huqhes', 'arthir hughos'}, {'arthir hoghes', 'arthyr hwghes', 'arther hughas', 'arthrr hyghes'}, {'arthyr hwghes', 'arthar hughas', 'arther haghes', 'arthrr hukhes'}, {'arthar hoghes', 'arthwr hwghes', 'arthir haghes', 'arthrr hyghes'}, {'arthyr hhghes', 'arthor hughus', 'arthwr hyghes', 'arther hughis'}, {'arthyr huqhes', 'arthir hughis', 'arthrr hyghes', 'arthar haghes'}, {'arthor hughez', 'arthyr hwghes', 'arthir heghes', 'arthrr hyghes'}, {'arthor hoghes', 'arthIr hughis', 'arthrr hyghes', 'arthyr hgghes'}, {'arthIr heghes', 'arthwr hwghes', 'arthyr hukhes', 'arthor highes'}, {'arthrr hgghes', 'arthwr hukhes', 'arthir hughus', 'arthor haghes'}, {'arthor hughos', 'arthrr hgghes', 'arthwr huqhes', 'arthir hughus'}, {'arthwr hwghes', 'arthyr hukhes', 'arthar highes', 'arthIr haghes'}, {'arthyr hwghes', 'arthor heghes', 'arthrr hyghes', 'arthar hughis'}, {'arthwr hgghes', 'arthor heghes', 'arthrr huqhes', 'arther hughis'}, {'arthor hughas', 'arther haghes', 'arthyr hhghes', 'arthrr hwghes'}, {'arthar hoghes', 'arthyr hwghes', 'arthwr hyghes', 'arthir hughez'}, {'arthor hoghes', 'arthwr hwghes', 'arthyr hukhes', 'arther hughis'}, {'arther highes', 'arthyr hwghes', 'arthir heghes', 'arthrr hyghes'}, {'arthIr heghes', 'arthor hughis', 'arthwr hukhes', 'arthyr hgghes'}, {'arthar hoghes', 'arther heghes', 'arthyr hyghes', 'arthwr hgghes'}, {'arther highes', 'arthyr hwghes', 'arthIr hoghes', 'arthrr hyghes'}, {'arthwr hukhes', 'arthyr hwghes', 'arther hoghes', 'arthir hughus'}, {'arthIr hughos', 'arthyr hukhes', 'arthar highes', 'arthwr huqhes'}, {'arthyr hwghes', 'arthor hughos', 'arthrr huqhes', 'arthar haghes'}, {'arthar hughas', 'arthwr hhghes', 'arthyr hyghes', 'arthor hughus'}, {'arthrr hhghes', 'arthir haghes', 'arthyr hgghes', 'arther hughis'}, {'arthyr hwghes', 'arthar hughos', 'arthIr haghes', 'arthwr hgghes'}, {'arther heghes', 'arthyr hukhes', 'arthIr hughez', 'arthwr hgghes'}, {'arthrr hyghes', 'arthIr heghes', 'arthwr hwghes', 'arthir hughas'}, {'arthyr hwghes', 'arthir hughis', 'arther hughez', 'arthrr hhghes'}, {'arther hughos', 'arthyr hhghes', 'arthwr hukhes', 'arthir hughus'}, {'arthor hoghes', 'arthrr hwghes', 'arthyr huqhes', 'arthir hughez'}, {'arthor hughos', 'arthwr hwghes', 'arthir heghes', 'arthyr hhghes'}, {'arthwr hwghes', 'arthyr hgghes', 'arthar haghes', 'arthir hughos'}, {'arther hughos', 'arthrr hwghes', 'arthwr hukhes', 'arthir hughus'}, {'arthrr huqhes', 'arther haghes', 'arthwr hyghes', 'arthir heghes'}, {'arthor hughez', 'arther highes', 'arthyr hyghes', 'arthwr hukhes'}, {'arther heghes', 'arthrr hukhes', 'arthwr huqhes', 'arthar haghes'}, {'arthar hughez', 'arthwr hwghes', 'arthIr hughas', 'arthyr hyghes'}, {'arther highes', 'arthyr hyghes', 'arthwr huqhes', 'arthor hughus'}, {'arthar hughos', 'arthrr hukhes', 'arthIr hoghes', 'arthwr huqhes'}, {'arthwr hgghes', 'arthar hughus', 'arthyr huqhes', 'arthor haghes'}, {'arthyr hwghes', 'arthrr hukhes', 'arthIr hughas', 'arther hughis'}, {'arthar hughez', 'arthrr hhghes', 'arthyr hyghes', 'arther hughus'}, {'arther highes', 'arthyr hhghes', 'arthrr hukhes', 'arthir hughus'}, {'arthyr hwghes', 'arthwr hhghes', 'arthor highes', 'arthIr haghes'}, {'arthwr hukhes', 'arthar hughas', 'arthyr hyghes', 'arthIr hughez'}, {'arthrr hyghes', 'arthar heghes', 'arthIr highes', 'arthyr hwghes'}, {'arthir hughis', 'arthIr hughus', 'arthwr hyghes', 'arthyr hgghes'}, {'arthar heghes', 'arthor hughos', 'arthwr huqhes', 'arthrr hwghes'}, {'arthwr hgghes', 'arthor hughos', 'arthyr hukhes', 'arthar highes'}, {'arthyr hhghes', 'arther haghes', 'arthrr hukhes', 'arthor highes'}, {'arthar hughez', 'arthwr hwghes', 'arthyr hgghes', 'arthor haghes'}, {'arthyr huqhes', 'arther hughos', 'arthwr hukhes', 'arthIr haghes'}, {'arthyr hgghes', 'arthrr hukhes', 'arthIr hughez', 'arthar haghes'}, {'arthor hughos', 'arther haghes', 'arthwr hwghes', 'arthrr hhghes'}, {'arthyr hwghes', 'arthar hughus', 'arthwr hhghes', 'arthir hughos'}, {'arthor hughez', 'arthyr hyghes', 'arthir heghes', 'arthwr hgghes'}, {'arthyr hhghes', 'arthor highes', 'arthrr hwghes', 'arther hughis'}, {'arther heghes', 'arthyr hukhes', 'arthar hughos', 'arthwr hhghes'}, {'arthIr highes', 'arthor hughis', 'arthyr hyghes', 'arthwr huqhes'}, {'arthwr hwghes', 'arthyr hhghes', 'arther hughez', 'arthor hughis'}, {'arthyr hwghes', 'arthar heghes', 'arthir haghes', 'arthrr hhghes'}, {'arthrr hgghes', 'arthyr hukhes', 'arthir hughus', 'arther hughis'}, {'arther highes', 'arthyr hukhes', 'arthwr huqhes', 'arthIr haghes'}, {'arther haghes', 'arthrr hhghes', 'arthIr hughas', 'arthyr hgghes'}, {'arthwr hgghes', 'arthor hughos', 'arthIr hughus', 'arthyr hhghes'}, {'arther hughez', 'arthIr hughis', 'arthrr huqhes', 'arthyr hgghes'}, {'arthwr hgghes', 'arthar hughos', 'arthor highes', 'arthrr hyghes'}, {'arthyr huqhes', 'arthIr hughas', 'arthir hughus', 'arthrr hhghes'}, {'arthor hoghes', 'arthyr hwghes', 'arthwr hyghes', 'arthir hughos'}, {'arthrr hyghes', 'arthwr hwghes', 'arthIr hughis', 'arthar haghes'}, {'arthar hoghes', 'arther hughas', 'arthwr hhghes', 'arthrr huqhes'}, {'arthwr hukhes', 'arther hughos', 'arthyr hyghes', 'arthir hughas'}, {'arther hughez', 'arthwr hyghes', 'arthrr huqhes', 'arthor hughus'}, {'arthor hughos', 'arthir highes', 'arthyr hyghes', 'arthrr hhghes'}, {'arthor hughos', 'arthrr hhghes', 'arthir heghes', 'arthyr hgghes'}, {'arthwr hgghes', 'arthyr hukhes', 'arthir heghes', 'arthor haghes'}, {'arthor hughez', 'arthrr hwghes', 'arthyr huqhes', 'arther hughis'}, {'arthyr huqhes', 'arthir hughis', 'arthwr hyghes', 'arthor hughus'}, {'arthyr hhghes', 'arther hughas', 'arthrr huqhes', 'arthir hughos'}, {'arthor hoghes', 'arther hughez', 'arthyr hukhes', 'arthwr huqhes'}, {'arthrr hwghes', 'arthor heghes', 'arthyr hyghes', 'arthar highes'}, {'arthwr hgghes', 'arthar hughez', 'arther hughas', 'arthrr huqhes'}, {'arthor hughez', 'arthar hughas', 'arthwr hwghes', 'arthyr hukhes'}, {'arthar hoghes', 'arthrr hgghes', 'arthyr hwghes', 'arthor hughus'}, {'arthor heghes', 'arthwr hhghes', 'arthyr hgghes', 'arther hughis'}, {'arthar heghes', 'arther hughez', 'arthwr hhghes', 'arthrr huqhes'}, {'arthor hughos', 'arther haghes', 'arthyr hyghes', 'arthwr huqhes'}, {'arthor hoghes', 'arthrr hhghes', 'arthir haghes', 'arthyr hgghes'}, {'arthyr hukhes', 'arthIr hughas', 'arthwr huqhes', 'arthir hughus'}, {'arthyr huqhes', 'arthrr hwghes', 'arthor heghes', 'arthir haghes'}, {'arthor hoghes', 'arthar hughos', 'arthyr hyghes', 'arthwr huqhes'}, {'arthIr highes', 'arthyr hukhes', 'arthrr hhghes', 'arthar hughis'}, {'arthyr hwghes', 'arthar hughas', 'arthIr hughos', 'arthrr hyghes'}, {'arthrr hgghes', 'arthwr hwghes', 'arthIr hughus', 'arthir hughez'}, {'arther hughos', 'arthwr hukhes', 'arthrr hgghes', 'arthar haghes'}, {'arthor hoghes', 'arthwr hwghes', 'arthIr hughez', 'arthyr hgghes'}, {'arthIr hughos', 'arthyr hukhes', 'arthir hughez', 'arthwr huqhes'}, {'arthor heghes', 'arthrr hhghes', 'arthyr hukhes', 'arthir hughos'}, {'arthrr huqhes', 'arthar heghes', 'arthyr hgghes', 'arthir hughos'}, {'arthir hughis', 'arthor heghes', 'arthwr hwghes', 'arthyr hhghes'}, {'arthor hughas', 'arthIr hughis', 'arthrr hukhes', 'arthyr hgghes'}, {'arthIr highes', 'arther haghes', 'arthwr hukhes', 'arthyr hgghes'}, {'arthyr hukhes', 'arthrr hhghes', 'arthir hughas', 'arthar haghes'}, {'arthwr hwghes', 'arthyr hukhes', 'arthor highes', 'arthar haghes'}, {'arthwr hgghes', 'arther hughez', 'arthyr hukhes', 'arthor heghes'}, {'arthrr huqhes', 'arthwr hhghes', 'arthar highes', 'arthor haghes'}, {'arthwr hukhes', 'arthIr hughas', 'arthor highes', 'arthyr hgghes'}, {'arthor hughez', 'arthyr hwghes', 'arthwr hukhes', 'arthir hughos'}, {'arthrr hgghes', 'arthor heghes', 'arthyr hukhes', 'arthIr hughus'}, {'arther heghes', 'arthrr hgghes', 'arthyr hyghes', 'arthar hughis'}, {'arthyr hwghes', 'arther hughas', 'arthrr huqhes', 'arthir hughos'}, {'arthor hughez', 'arthar hughas', 'arthwr hyghes', 'arthrr hwghes'}, {'arthor heghes', 'arthwr hhghes', 'arthIr hughus', 'arthrr hukhes'}, {'arthrr hgghes', 'arthor heghes', 'arthwr hyghes', 'arther hoghes'}, {'arthrr hyghes', 'arthwr hwghes', 'arthIr hughez', 'arthor haghes'}, {'arthrr hyghes', 'arthor hughos', 'arthyr hwghes', 'arthar haghes'}, {'arthor hoghes', 'arthar hughus', 'arthwr hyghes', 'arthyr huqhes'}, {'arthyr hgghes', 'arthrr hwghes', 'arthir hughas', 'arthar hughis'}, {'arther hughez', 'arthwr hwghes', 'arthir haghes', 'arthrr hhghes'}, {'arthrr huqhes', 'arthar heghes', 'arthwr hhghes', 'arthor highes'}, {'arthyr huqhes', 'arthar hughas', 'arthrr hukhes', 'arther hoghes'}, {'arthar hoghes', 'arthyr hwghes', 'arther hughas', 'arthwr huqhes'}, {'arthIr heghes', 'arther hughas', 'arthrr hukhes', 'arthwr huqhes'}, {'arthor hughez', 'arthir hoghes', 'arthrr hukhes', 'arthwr hgghes'}, {'arther highes', 'arthrr hgghes', 'arthwr hhghes', 'arthIr hughus'}, {'arthar hughus', 'arther hughos', 'arthrr hukhes', 'arthwr huqhes'}, {'arthyr hukhes', 'arthor hughis', 'arthwr hyghes', 'arthir heghes'}, {'arthrr hwghes', 'arthyr hukhes', 'arthor hughis', 'arthir hughas'}, {'arthwr hukhes', 'arthar hughus', 'arthir hughez', 'arthyr hgghes'}, {'arthar heghes', 'arthIr hughas', 'arthwr huqhes', 'arthyr hhghes'}, {'arthwr hhghes', 'arthir heghes', 'arther hoghes', 'arthyr hgghes'}, {'arthwr hukhes', 'arthor highes', 'arthir hughus', 'arthyr hgghes'}, {'arther highes', 'arthir hughis', 'arthyr hukhes', 'arthrr hyghes'}, {'arthor hoghes', 'arthIr heghes', 'arthyr hyghes', 'arthwr hgghes'}, {'arthar heghes', 'arthor hughis', 'arthwr hhghes', 'arthyr hgghes'}, {'arthor hughez', 'arther hughos', 'arthyr hukhes', 'arthwr huqhes'}, {'arthor hughos', 'arthar hughez', 'arthwr hukhes', 'arthyr hhghes'}, {'arthar hoghes', 'arthwr hwghes', 'arthir hughus', 'arthyr hgghes'}, {'arthor hoghes', 'arther haghes', 'arthwr hyghes', 'arthyr hgghes'}, {'arthar hoghes', 'arther hughas', 'arthyr huqhes', 'arthrr hukhes'}, {'arthwr hukhes', 'arthIr heghes', 'arthir hughas', 'arthrr hwghes'}, {'arthor hoghes', 'arthrr hwghes', 'arthir haghes', 'arthyr hgghes'}, {'arthor hughos', 'arthir haghes', 'arthyr hyghes', 'arthrr hgghes'}, {'arther hughos', 'arthwr hwghes', 'arthIr hoghes', 'arthyr hgghes'}, {'arther heghes', 'arthyr hhghes', 'arthIr hughas', 'arthrr hyghes'}, {'arthrr hyghes', 'arthor hughis', 'arther hoghes', 'arthyr hgghes'}, {'arther highes', 'arthIr hughos', 'arthwr hwghes', 'arthyr hyghes'}, {'arthyr huqhes', 'arthor hughos', 'arthrr hgghes', 'arther hoghes'}, {'arthrr hyghes', 'arthyr huqhes', 'arthor highes', 'arthir hughos'}, {'arthrr hyghes', 'arthor hughos', 'arthir heghes', 'arthwr hgghes'}, {'arthwr hgghes', 'arthyr hhghes', 'arthor hughus', 'arther hughis'}, {'arthrr hgghes', 'arthwr hhghes', 'arthir hughos', 'arther hughis'}, {'arthwr hwghes', 'arthyr hyghes', 'arthIr hughez', 'arthor haghes'}, {'arthyr hhghes', 'arther hughez', 'arthwr hyghes', 'arthor hughus'}, {'arther heghes', 'arthyr hhghes', 'arthIr hughus', 'arthwr hukhes'}, {'arthrr hgghes', 'arthor heghes', 'arthIr hughas', 'arthyr hyghes'}, {'arthyr huqhes', 'arthwr hwghes', 'arthor highes', 'arther hoghes'}, {'arthir hughis', 'arthar hughez', 'arthrr hwghes', 'arthyr hgghes'}, {'arthIr hughos', 'arthwr hyghes', 'arthyr hhghes', 'arthor hughus'}, {'arther hughas', 'arthwr hhghes', 'arthIr hughus', 'arthyr hyghes'}, {'arther hughus', 'arthwr hhghes', 'arthrr huqhes', 'arthar haghes'}, {'arthyr huqhes', 'arthrr hhghes', 'arthir hughez', 'arthor haghes'}, {'arther haghes', 'arthIr hughis', 'arthyr hyghes', 'arthrr hhghes'}, {'arthyr huqhes', 'arther hughos', 'arthrr hhghes', 'arthor hughus'}, {'arthrr hyghes', 'arthor hughas', 'arthar hughos', 'arthwr hgghes'}, {'arthyr hhghes', 'arthor hughis', 'arthir hughas', 'arthwr huqhes'}, {'arthir hoghes', 'arther highes', 'arthwr hwghes', 'arthrr hhghes'}, {'arther hughos', 'arthor hughis', 'arthrr huqhes', 'arthyr hhghes'}, {'arther hughos', 'arthrr hukhes', 'arthwr hyghes', 'arthir hughez'}, {'arthar heghes', 'arthIr highes', 'arthwr hukhes', 'arthrr hhghes'}, {'arthyr hhghes', 'arther hughez', 'arthar highes', 'arthrr hgghes'}, {'arthar hughez', 'arthor hughis', 'arthwr hyghes', 'arthyr hhghes'}, {'arther highes', 'arthir haghes', 'arthwr hukhes', 'arthrr hyghes'}, {'arthwr hgghes', 'arthyr hhghes', 'arthor highes', 'arther hughus'}, {'arther heghes', 'arthIr hughos', 'arthyr hwghes', 'arthrr huqhes'}, {'arthyr hwghes', 'arthar hughos', 'arthrr hukhes', 'arthor hughus'}, {'arthor hoghes', 'arthar hughus', 'arthrr hukhes', 'arthyr huqhes'}, {'arthwr hgghes', 'arthIr hughos', 'arthar hughus', 'arthrr hyghes'}, {'arthor haghes', 'arthrr hwghes', 'arthwr hhghes', 'arther hughus'}, {'arthyr hwghes', 'arther hughas', 'arthwr hukhes', 'arthar haghes'}, {'arthyr huqhes', 'arthrr hhghes', 'arthir hughas', 'arthar haghes'}, {'arthor hughez', 'arthrr hwghes', 'arthwr hyghes', 'arthir hughos'}, {'arthor hughez', 'arthIr highes', 'arthrr hhghes', 'arthwr hgghes'}, {'arthyr huqhes', 'arthwr hgghes', 'arthir highes', 'arthor haghes'}, {'arthrr hgghes', 'arthar hughos', 'arthIr hughus', 'arthwr hhghes'}, {'arthrr hyghes', 'arthar hughez', 'arthwr hhghes', 'arthir haghes'}, {'arthar hughez', 'arthyr hukhes', 'arthIr hughis', 'arthwr hyghes'}, {'arthIr heghes', 'arther haghes', 'arthwr hhghes', 'arthrr huqhes'}, {'arthwr hgghes', 'arthIr hughos', 'arthyr hukhes', 'arthir hughis'}, {'arthrr hyghes', 'arthIr hughos', 'arthyr hukhes', 'arthar hughis'}, {'arthar hoghes', 'arthyr hhghes', 'arthir heghes', 'arthwr huqhes'}, {'arthir hughis', 'arthar hughos', 'arthyr hyghes', 'arthrr hwghes'}, {'arthor heghes', 'arthar hughos', 'arthrr huqhes', 'arthyr hgghes'}, {'arthrr hyghes', 'arthor hughis', 'arthar hughos', 'arthwr huqhes'}, {'arthrr hgghes', 'arther hughas', 'arthor hughis', 'arthyr hyghes'}, {'arthor heghes', 'arthrr hhghes', 'arthyr hgghes', 'arthar hughis'}, {'arthyr huqhes', 'arthrr hwghes', 'arthar hughis', 'arthor hughus'}, {'arther haghes', 'arthrr hukhes', 'arthwr hyghes', 'arthIr hughez'}, {'arthor hoghes', 'arthwr hwghes', 'arthir highes', 'arthyr huqhes'}, {'arthar heghes', 'arthwr huqhes', 'arthrr hgghes', 'arther hughis'}, {'arthrr hgghes', 'arthyr hukhes', 'arthir highes', 'arthIr hughus'}, {'arthrr hyghes', 'arthIr hughos', 'arther haghes', 'arthyr hukhes'}, {'arthar hoghes', 'arthrr hwghes', 'arthIr hughus', 'arthyr hyghes'}, {'arthrr hgghes', 'arthIr hughis', 'arthyr hhghes', 'arthor haghes'}, {'arthor hughez', 'arthar hughas', 'arthyr hgghes', 'arthrr hhghes'}, {'arthwr hwghes', 'arthIr hughas', 'arthir hughez', 'arthrr hhghes'}, {'arther highes', 'arthyr huqhes', 'arthir hughus', 'arthrr hhghes'}, {'arthyr huqhes', 'arthar hughus', 'arthIr highes', 'arthrr hgghes'}, {'arthwr hwghes', 'arthor hughis', 'arthyr hyghes', 'arther hughus'}, {'arther hughos', 'arthar heghes', 'arthwr hhghes', 'arthyr hgghes'}, {'arthar hoghes', 'arthrr hwghes', 'arthir highes', 'arthyr hyghes'}, {'arthrr hwghes', 'arthir hughas', 'arthyr hhghes', 'arthor hughus'}, {'arthor hughez', 'arthwr hgghes', 'arthrr hukhes', 'arthar haghes'}, {'arthyr huqhes', 'arthir hughis', 'arthar highes', 'arthrr hwghes'}, {'arthor hughas', 'arthIr hughis', 'arthyr hyghes', 'arthrr hhghes'}, {'arthwr hgghes', 'arther hughus', 'arthrr huqhes', 'arthor haghes'}, {'arthor hughez', 'arthrr hwghes', 'arthwr huqhes', 'arthar haghes'}, {'arthrr hukhes', 'arthir hughas', 'arthwr hyghes', 'arthar haghes'}, {'arthir hughis', 'arther haghes', 'arthrr hukhes', 'arthyr hhghes'}, {'arthar hoghes', 'arthwr hukhes', 'arthir hughas', 'arthrr huqhes'}, {'arthor heghes', 'arthwr hhghes', 'arthrr huqhes', 'arther hughus'}, {'arthwr hgghes', 'arthyr hhghes', 'arthIr hughez', 'arthir hughus'}, {'arthyr huqhes', 'arthIr highes', 'arther hughas', 'arthrr hyghes'}, {'arthrr hukhes', 'arthir highes', 'arthIr hughus', 'arthwr huqhes'}, {'arthar hoghes', 'arthwr hukhes', 'arthIr haghes', 'arthyr hgghes'}, {'arthrr hhghes', 'arthir highes', 'arthwr huqhes', 'arthar haghes'}, {'arthyr hgghes', 'arther haghes', 'arthwr huqhes', 'arthar hughis'}, {'arthyr hukhes', 'arthIr hoghes', 'arthir hughus', 'arthrr hhghes'}, {'arthor hughez', 'arthyr hwghes', 'arthrr hhghes', 'arthar hughis'}, {'arthir hoghes', 'arthyr hhghes', 'arthIr hughez', 'arthrr huqhes'}, {'arther highes', 'arthwr hwghes', 'arthIr hoghes', 'arthrr hukhes'}, {'arthrr hwghes', 'arthyr hukhes', 'arthIr hughez', 'arthar haghes'}, {'arthyr hhghes', 'arthwr hwghes', 'arthIr hoghes', 'arthar hughis'}, {'arthar hoghes', 'arther hughos', 'arthwr hhghes', 'arthyr hgghes'}, {'arthyr hukhes', 'arthIr hughas', 'arthir hughez', 'arthwr huqhes'}, {'arther highes', 'arthar heghes', 'arthrr hukhes', 'arthyr hgghes'}, {'arthar heghes', 'arthrr hgghes', 'arthIr hughis', 'arthyr hhghes'}, {'arthor heghes', 'arthar hughos', 'arthwr hyghes', 'arthrr hhghes'}, {'arthar hughez', 'arthor heghes', 'arthyr hyghes', 'arthrr hhghes'}, {'arthwr hgghes', 'arthar hughas', 'arthyr hyghes', 'arthir heghes'}, {'arthir hoghes', 'arthor hughos', 'arthwr hwghes', 'arthyr hyghes'}, {'arthyr huqhes', 'arthIr highes', 'arthwr hwghes', 'arthar hughis'}, {'arthor hughis', 'arthyr hyghes', 'arthar hughos', 'arthwr huqhes'}, {'arthor hughas', 'arther hughos', 'arthrr hukhes', 'arthyr hgghes'}, {'arthrr hyghes', 'arthIr highes', 'arthar heghes', 'arthyr hukhes'}, {'arthyr hwghes', 'arthar hughos', 'arthir haghes', 'arthwr hgghes'}, {'arthwr hgghes', 'arthir hughis', 'arther haghes', 'arthrr hwghes'}, {'arthrr hyghes', 'arther hughas', 'arthwr hwghes', 'arthir hughez'}, {'arthyr hukhes', 'arthir highes', 'arthwr huqhes', 'arther hughus'}, {'arthor hoghes', 'arthyr hhghes', 'arther haghes', 'arthwr hyghes'}, {'arthor hughis', 'arthrr huqhes', 'arthwr hhghes', 'arthar haghes'}, {'arthyr hhghes', 'arther hughas', 'arthwr huqhes', 'arthor haghes'}, {'arthar hughas', 'arthyr hyghes', 'arthwr hukhes', 'arther hoghes'}, {'arthyr huqhes', 'arthrr hwghes', 'arther hughas', 'arthir heghes'}, {'arther hughos', 'arthrr hukhes', 'arthwr huqhes', 'arthar haghes'}, {'arthyr hgghes', 'arthor hughis', 'arthrr huqhes', 'arthar haghes'}, {'arthor hughas', 'arthar hughos', 'arthrr hukhes', 'arthyr hyghes'}, {'arthwr hukhes', 'arthor hughos', 'arthyr hwghes', 'arthIr hughez'}, {'arthyr hwghes', 'arthir hughis', 'arthIr hughos', 'arthrr hukhes'}, {'arthyr hwghes', 'arthor hughos', 'arthwr hgghes', 'arthar haghes'}, {'arthIr heghes', 'arthwr huqhes', 'arthrr hgghes', 'arther hughis'}, {'arthar hoghes', 'arthIr hughos', 'arthyr hukhes', 'arthrr hgghes'}, {'arthor hoghes', 'arthrr hgghes', 'arthwr hukhes', 'arther hughis'}, {'arthrr hyghes', 'arthar heghes', 'arthwr hwghes', 'arther hughus'}, {'arthwr hgghes', 'arthir highes', 'arthrr hyghes', 'arthor haghes'}, {'arthyr hwghes', 'arthrr hhghes', 'arthir hughus', 'arther hughis'}, {'arthwr hgghes', 'arther hughez', 'arthyr hyghes', 'arthIr haghes'}, {'arther hughez', 'arthrr hhghes', 'arthwr hyghes', 'arthor hughus'}, {'arthrr huqhes', 'arthwr hwghes', 'arthir hughez', 'arthar haghes'}, {'arthwr hgghes', 'arther haghes', 'arthyr hyghes', 'arthir heghes'}, {'arthar heghes', 'arthrr hukhes', 'arthIr hughez', 'arthyr hgghes'}, {'arthyr huqhes', 'arthrr hgghes', 'arthir hughas', 'arthar haghes'}, {'arthyr huqhes', 'arthir hughis', 'arther haghes', 'arthrr hgghes'}, {'arthar hughus', 'arthyr hukhes', 'arthor hughis', 'arthwr hyghes'}, {'arthyr hukhes', 'arthor hughus', 'arthrr huqhes', 'arther hughis'}, {'arthyr hhghes', 'arthor heghes', 'arthwr hwghes', 'arthir hughos'}, {'arthrr hgghes', 'arthar hughos', 'arthir hughas', 'arthyr hhghes'}, {'arthrr hyghes', 'arther haghes', 'arthyr hukhes', 'arthar hughis'}, {'arthrr huqhes', 'arthyr hukhes', 'arthir heghes', 'arthIr haghes'}, {'arthwr hwghes', 'arthrr hgghes', 'arther hughez', 'arthIr hoghes'}, {'arthar hoghes', 'arthyr hhghes', 'arthwr hyghes', 'arthir hughas'}, {'arther hughos', 'arthyr hyghes', 'arthwr hukhes', 'arthar haghes'}, {'arthIr hughos', 'arthwr hyghes', 'arthar highes', 'arthrr hgghes'}, {'arthyr huqhes', 'arthar hughez', 'arthwr hhghes', 'arthor hughus'}, {'arthar hughas', 'arthwr hhghes', 'arthrr hukhes', 'arthor haghes'}, {'arthar hughas', 'arthIr highes', 'arthyr hyghes', 'arthrr hwghes'}, {'arthir hoghes', 'arthyr hyghes', 'arther heghes', 'arthwr huqhes'}, {'arthwr hgghes', 'arthIr hughis', 'arthyr hyghes', 'arthar highes'}, {'arthrr hukhes', 'arthor hughis', 'arthir haghes', 'arthwr huqhes'}, {'arthyr hhghes', 'arthor hughis', 'arthwr huqhes', 'arthIr haghes'}, {'arthar hughez', 'arthIr hughos', 'arthwr hukhes', 'arthrr hwghes'}, {'arthwr hukhes', 'arthrr hgghes', 'arthir hughez', 'arthor hughus'}, {'arthwr hgghes', 'arthar heghes', 'arther hughez', 'arthrr hwghes'}, {'arther heghes', 'arthyr hukhes', 'arthIr hughas', 'arthwr hhghes'}, {'arther hughas', 'arthyr hyghes', 'arthrr huqhes', 'arthar haghes'}, {'arthIr heghes', 'arthyr hukhes', 'arthir hughus', 'arthwr hhghes'}, {'arthrr hyghes', 'arthIr hughos', 'arthwr hhghes', 'arther hoghes'}, {'arthwr hgghes', 'arthar hughez', 'arthrr hhghes', 'arther hughus'}, {'arther highes', 'arthyr hwghes', 'arthor hughis', 'arthrr hukhes'}, {'arthwr hgghes', 'arthrr huqhes', 'arther hoghes', 'arthir hughos'}, {'arthIr highes', 'arthor heghes', 'arthyr hukhes', 'arthwr huqhes'}, {'arthwr hgghes', 'arthir hughis', 'arthyr hukhes', 'arthar haghes'}, {'arthar hughus', 'arthyr hukhes', 'arthIr hughas', 'arthrr hhghes'}, {'arthwr hgghes', 'arthrr hukhes', 'arthir heghes', 'arthar hughis'}, {'arthir highes', 'arthwr hyghes', 'arther hoghes', 'arthyr hgghes'}, {'arthar hoghes', 'arthrr hgghes', 'arthwr hukhes', 'arthir hughus'}, {'arthIr hughos', 'arthwr hhghes', 'arthrr hgghes', 'arthor haghes'}, {'arthrr hyghes', 'arthyr hhghes', 'arthir heghes', 'arther hughus'}, {'arthor hughez', 'arthIr hughos', 'arthrr huqhes', 'arthyr hhghes'}, {'arthrr hgghes', 'arthar hughos', 'arthyr hyghes', 'arthIr hughez'}, {'arthwr hgghes', 'arthrr hwghes', 'arthIr hughez', 'arthar hughis'}, {'arthwr hgghes', 'arthIr highes', 'arthir hughas', 'arthyr hhghes'}, {'arthor hughez', 'arthIr hughos', 'arthwr hyghes', 'arthrr hwghes'}, {'arther highes', 'arthrr hgghes', 'arthyr hukhes', 'arthor hughez'}, {'arthrr huqhes', 'arthor hughas', 'arthyr hukhes', 'arthir hughis'}, {'arthar hughus', 'arthrr hhghes', 'arthwr hukhes', 'arthor haghes'}, {'arthIr highes', 'arthyr hgghes', 'arthrr hwghes', 'arthar hughis'}, {'arther hughos', 'arthwr hwghes', 'arthar hughez', 'arthyr hyghes'}, {'arthor hoghes', 'arthwr hhghes', 'arthar highes', 'arthyr hgghes'}, {'arthrr hgghes', 'arther haghes', 'arthwr hwghes', 'arthir hughez'}, {'arthor hughez', 'arthar hughas', 'arthwr hhghes', 'arthrr huqhes'}, {'arthwr hgghes', 'arthar hughas', 'arthrr huqhes', 'arthir hughos'}, {'arthrr hyghes', 'arthyr huqhes', 'arthIr hughas', 'arthir hughus'}, {'arthar heghes', 'arther hughas', 'arthrr hwghes', 'arthyr hhghes'}, {'arthyr huqhes', 'arther hughos', 'arthIr hoghes', 'arthrr hhghes'}, {'arthrr hhghes', 'arthyr hyghes', 'arthIr hughez', 'arther hughus'}, {'arthyr huqhes', 'arthwr hgghes', 'arthIr hughez', 'arthar haghes'}, {'arthyr hhghes', 'arther hughas', 'arthIr hughus', 'arthwr hukhes'}, {'arthar hughus', 'arthwr hwghes', 'arthIr hughis', 'arthrr hgghes'}, {'arthir hughis', 'arthyr hukhes', 'arthor highes', 'arthwr hhghes'}, {'arther hughus', 'arthrr hhghes', 'arthyr hgghes', 'arthir hughos'}, {'arthwr hgghes', 'arthrr hwghes', 'arthir heghes', 'arthor hughus'}, {'arthrr hyghes', 'arthar heghes', 'arthwr hukhes', 'arther hughus'}, {'arthrr hyghes', 'arthar hughos', 'arthIr hughas', 'arthwr hukhes'}, {'arthrr hyghes', 'arthar hughez', 'arthIr hughos', 'arthyr hhghes'}, {'arthyr hwghes', 'arthrr hgghes', 'arther hughez', 'arthIr hoghes'}, {'arthar hoghes', 'arther highes', 'arthyr hhghes', 'arthrr hgghes'}, {'arthir highes', 'arthrr hukhes', 'arthyr hgghes', 'arthor haghes'}, {'arthyr huqhes', 'arther haghes', 'arthwr hukhes', 'arthir hughez'}, {'arthir hughis', 'arthor heghes', 'arthwr hwghes', 'arthyr hgghes'}, {'arthyr huqhes', 'arther hughez', 'arthwr hyghes', 'arthor highes'}, {'arthrr hyghes', 'arthwr hwghes', 'arthir highes', 'arthor hughus'}, {'arthwr hgghes', 'arthir hughis', 'arthyr hwghes', 'arthor highes'}, {'arthIr hughos', 'arther haghes', 'arthyr hukhes', 'arthrr huqhes'}, {'arther hughez', 'arthir haghes', 'arthyr hgghes', 'arthrr hhghes'}, {'arthir hoghes', 'arthrr hhghes', 'arthyr huqhes', 'arther hughis'}, {'arthrr hgghes', 'arthyr hukhes', 'arthir hughez', 'arther hughus'}, {'arthrr huqhes', 'arthar hughas', 'arthIr hughos', 'arthwr hukhes'}, {'arthrr hwghes', 'arthyr hukhes', 'arthir hughos', 'arthar haghes'}, {'arthIr hughos', 'arthwr hwghes', 'arthrr hhghes', 'arthar haghes'}, {'arthwr hwghes', 'arthrr hukhes', 'arthar highes', 'arther hughis'}, {'arthir hughis', 'arthrr hukhes', 'arthwr huqhes', 'arther hughus'}, {'arthIr hughis', 'arthir haghes', 'arthyr hyghes', 'arthwr hhghes'}, {'arthor hughis', 'arthrr hukhes', 'arthar hughos', 'arthyr hgghes'}, {'arthyr hukhes', 'arthar hughos', 'arthor highes', 'arthwr hhghes'}, {'arthIr hughas', 'arthar highes', 'arthwr huqhes', 'arthyr hgghes'}, {'arthir highes', 'arthrr hhghes', 'arthIr hughis', 'arthwr hgghes'}, {'arthar hughez', 'arthir haghes', 'arthwr hukhes', 'arthrr hhghes'}, {'arthwr hukhes', 'arthor hughos', 'arthir hughez', 'arthrr hhghes'}, {'arthir hoghes', 'arthor heghes', 'arthrr hyghes', 'arthyr hgghes'}, {'arthir hughis', 'arthrr hgghes', 'arthIr highes', 'arthwr hyghes'}, {'arther hughez', 'arthwr hhghes', 'arthrr hukhes', 'arthir heghes'}, {'arther highes', 'arthrr hhghes', 'arthIr hughez', 'arthwr hgghes'}, {'arthrr huqhes', 'arthIr hughis', 'arthyr hgghes', 'arther hughus'}, {'arthor hughos', 'arthIr highes', 'arthwr huqhes', 'arthyr hhghes'}, {'arthwr hukhes', 'arthyr hyghes', 'arthIr hughas', 'arthir hughez'}, {'arthwr hukhes', 'arthar hughez', 'arthor highes', 'arthrr hhghes'}, {'arther highes', 'arthrr hgghes', 'arthar hughos', 'arthwr hyghes'}, {'arthrr hukhes', 'arthwr hyghes', 'arthir heghes', 'arther hoghes'}, {'arthwr hgghes', 'arthar hughez', 'arthor highes', 'arthrr hhghes'}, {'arthwr hwghes', 'arther hughas', 'arthyr hukhes', 'arthIr hughus'}, {'arthrr huqhes', 'arthyr hwghes', 'arthar hughos', 'arthir heghes'}, {'arthar hughus', 'arthyr hhghes', 'arthIr heghes', 'arthrr hgghes'}, {'arthrr huqhes', 'arthwr hwghes', 'arthor hughis', 'arthir hughas'}, {'arthIr heghes', 'arthar hughos', 'arthwr hukhes', 'arthrr hhghes'}, {'arthar hoghes', 'arthrr hgghes', 'arthwr hwghes', 'arthir hughos'}, {'arthwr hwghes', 'arthor hughis', 'arthyr hgghes', 'arther hughus'}, {'arther heghes', 'arthyr hgghes', 'arthIr haghes', 'arthrr hhghes'}, {'arther heghes', 'arthyr hhghes', 'arthwr hukhes', 'arthor highes'}, {'arthrr hhghes', 'arthIr hughis', 'arthwr hyghes', 'arthor hughus'}, {'arther highes', 'arthyr hukhes', 'arthwr hyghes', 'arthir hughus'}, {'arthor hoghes', 'arthyr hwghes', 'arthIr hughis', 'arthrr hhghes'}, {'arther hughos', 'arthyr hukhes', 'arthIr hoghes', 'arthrr hgghes'}, {'arthar hughus', 'arthyr hukhes', 'arther hughos', 'arthwr huqhes'}, {'arthrr hhghes', 'arthyr hgghes', 'arthir hughos', 'arther hughis'}, {'arthor hughez', 'arthIr hughos', 'arthwr hukhes', 'arthrr hhghes'}, {'arthwr hgghes', 'arther hughas', 'arthrr hukhes', 'arthor haghes'}, {'arthrr hyghes', 'arthIr highes', 'arther hughez', 'arthyr hhghes'}, {'arthyr hwghes', 'arthor hughis', 'arthir highes', 'arthwr hgghes'}, {'arther heghes', 'arthIr hughas', 'arthwr hukhes', 'arthyr hgghes'}, {'arthir hoghes', 'arther hughas', 'arthrr hukhes', 'arthwr hyghes'}, {'arthrr hyghes', 'arthyr hukhes', 'arthIr hughez', 'arthir hughos'}, {'arther heghes', 'arthwr hwghes', 'arthar highes', 'arthrr huqhes'}, {'arther hughas', 'arthIr hoghes', 'arthyr hyghes', 'arthwr hhghes'}, {'arthrr hwghes', 'arthIr hoghes', 'arthyr hgghes', 'arther hughis'}, {'arthor hughos', 'arthyr hukhes', 'arthrr hgghes', 'arthar haghes'}, {'arther heghes', 'arthyr hukhes', 'arthir highes', 'arthwr hgghes'}, {'arthwr hgghes', 'arthIr hughos', 'arthyr hwghes', 'arthar highes'}, {'arthar hoghes', 'arthwr hyghes', 'arthyr huqhes', 'arthir hughos'}, {'arthor hughis', 'arthrr hukhes', 'arthir highes', 'arthyr hyghes'}, {'arthir hoghes', 'arthar hughas', 'arthrr hgghes', 'arthyr hhghes'}, {'arthwr hukhes', 'arthyr hwghes', 'arthir hughas', 'arthor highes'}, {'arthyr hwghes', 'arthor hughos', 'arthar highes', 'arthrr hyghes'}, {'arthyr hhghes', 'arthwr huqhes', 'arthIr haghes', 'arthor hughus'}, {'arthor hoghes', 'arther hughas', 'arthrr huqhes', 'arthyr hgghes'}, {'arthrr hyghes', 'arthor hughos', 'arthwr hhghes', 'arthir hughez'}, {'arthrr hyghes', 'arthar hughas', 'arther hoghes', 'arthyr hgghes'}, {'arthar heghes', 'arthwr hukhes', 'arther hoghes', 'arthyr hgghes'}, {'arthar hughus', 'arther hughez', 'arthyr hukhes', 'arthrr hgghes'}, {'arther hughas', 'arthwr hhghes', 'arthir haghes', 'arthrr hukhes'}, {'arthar hughas', 'arthrr hhghes', 'arthwr hukhes', 'arther hughus'}, {'arthor hughez', 'arthrr hukhes', 'arthir hughus', 'arthyr hgghes'}, {'arthwr hgghes', 'arthar hughez', 'arthyr huqhes', 'arther hughus'}, {'arthar hughas', 'arthwr hyghes', 'arthIr haghes', 'arthyr hgghes'}, {'arthrr hyghes', 'arthar hughas', 'arthor hughis', 'arthwr hukhes'}, {'arthor hoghes', 'arthrr hgghes', 'arthwr hwghes', 'arthir heghes'}, {'arthyr hwghes', 'arthar hughos', 'arthrr hyghes', 'arther hughus'}, {'arthrr hgghes', 'arthwr hwghes', 'arthir hughas', 'arthar hughis'}, {'arthyr huqhes', 'arthir hughez', 'arthar highes', 'arthwr hyghes'}, {'arthor hughis', 'arthyr hyghes', 'arthIr hughez', 'arthwr hhghes'}, {'arthwr hukhes', 'arther hughos', 'arthir heghes', 'arthyr hgghes'}, {'arther heghes', 'arthar hughas', 'arthwr hhghes', 'arthyr huqhes'}, {'arthar hoghes', 'arthIr hughis', 'arthrr hukhes', 'arthwr huqhes'}, {'arther highes', 'arthor hughos', 'arthyr huqhes', 'arthrr hhghes'}, {'arthor hughus', 'arthyr hgghes', 'arthwr hyghes', 'arthar haghes'}, {'arther hughos', 'arthyr hyghes', 'arthor highes', 'arthrr hwghes'}, {'arthyr hwghes', 'arther hughas', 'arthir haghes', 'arthwr hukhes'}, {'arthor hughez', 'arthrr hukhes', 'arthyr hgghes', 'arther hughus'}, {'arthir hoghes', 'arthar hughus', 'arthyr hukhes', 'arthwr hyghes'}, {'arthar heghes', 'arthyr hukhes', 'arthir haghes', 'arthrr hhghes'}, {'arthyr huqhes', 'arthor hughis', 'arthar hughos', 'arthwr hhghes'}, {'arthrr hukhes', 'arthir hughas', 'arthwr huqhes', 'arthor hughus'}, {'arther heghes', 'arthyr hwghes', 'arthIr hughis', 'arthrr hgghes'}, {'arthrr hgghes', 'arthIr hughis', 'arthwr hyghes', 'arther hoghes'}, {'arthyr hhghes', 'arthor hughis', 'arthwr huqhes', 'arther hughus'}, {'arthor hughos', 'arthIr hughas', 'arthyr hyghes', 'arthrr hgghes'}, {'arther highes', 'arthar hughus', 'arthwr hwghes', 'arthyr huqhes'}, {'arthyr huqhes', 'arthrr hgghes', 'arthIr hughus', 'arthor haghes'}, {'arthwr hgghes', 'arthar heghes', 'arthir haghes', 'arthyr hhghes'}, {'arthyr huqhes', 'arthIr heghes', 'arthir hughez', 'arthwr hgghes'}, {'arther hughas', 'arthar highes', 'arthwr huqhes', 'arthrr hhghes'}, {'arthrr hgghes', 'arther hughez', 'arthwr hhghes', 'arthIr hughus'}, {'arthor hughez', 'arthyr hukhes', 'arthir hughas', 'arthwr huqhes'}, {'arthyr hwghes', 'arthar hughez', 'arthwr hhghes', 'arthIr hughas'}, {'arthrr huqhes', 'arthor hughos', 'arthwr hwghes', 'arthIr hughez'}, {'arthyr hwghes', 'arthwr hukhes', 'arthir hughez', 'arther hoghes'}, {'arthar hughas', 'arthrr hukhes', 'arthwr hhghes', 'arthIr highes'}, {'arther heghes', 'arthrr hukhes', 'arthIr haghes', 'arthwr hgghes'}, {'arthyr hwghes', 'arthrr hgghes', 'arther haghes', 'arthir hughas'}, {'arthwr hyghes', 'arthor hughos', 'arthIr hughas', 'arthyr hhghes'}, {'arthIr highes', 'arthyr hukhes', 'arthar hughez', 'arthrr hhghes'}, {'arthrr hgghes', 'arthwr hhghes', 'arthIr haghes', 'arther hughis'}, {'arthwr hgghes', 'arthIr hoghes', 'arthrr huqhes', 'arther hughus'}, {'arthyr hhghes', 'arthwr hwghes', 'arthir heghes', 'arthar haghes'}, {'arthor hoghes', 'arthwr hwghes', 'arthir highes', 'arthyr hgghes'}, {'arthar hughus', 'arthwr hwghes', 'arthir hughis', 'arthrr hgghes'}, {'arthor hughos', 'arthwr hhghes', 'arthir hughas', 'arthyr hgghes'}, {'arther highes', 'arthrr hhghes', 'arthyr hgghes', 'arthar haghes'}, {'arther hughez', 'arthyr hukhes', 'arthwr hhghes', 'arthor hughus'}, {'arthar hughas', 'arthor heghes', 'arthwr huqhes', 'arthrr hwghes'}, {'arthwr hgghes', 'arthrr hhghes', 'arthar haghes', 'arthor hughus'}, {'arthir hoghes', 'arthyr hhghes', 'arthIr hughis', 'arthwr hyghes'}, {'arthyr hwghes', 'arthwr hukhes', 'arthIr hughas', 'arthir hughez'}, {'arthIr hughos', 'arthrr hukhes', 'arthir hughas', 'arthyr hhghes'}, {'arthwr hgghes', 'arthIr highes', 'arthar hughas', 'arthyr hwghes'}, {'arthrr hyghes', 'arthar hughas', 'arthwr hhghes', 'arthIr haghes'}, {'arthyr huqhes', 'arthwr hhghes', 'arthor hughus', 'arthir hughos'}, {'arthIr highes', 'arthar hughas', 'arthwr hyghes', 'arthrr hhghes'}, {'arthrr hgghes', 'arthor heghes', 'arthar hughos', 'arthyr hyghes'}, {'arthyr huqhes', 'arthrr hwghes', 'arthIr haghes', 'arther hughus'}, {'arthrr hyghes', 'arthor hughis', 'arthar hughos', 'arthwr hgghes'}, {'arthir hoghes', 'arthar hughas', 'arthwr hwghes', 'arthrr hukhes'}, {'arthar hoghes', 'arther haghes', 'arthyr hyghes', 'arthrr huqhes'}, {'arther highes', 'arthyr hhghes', 'arthwr hwghes', 'arthor hughus'}, {'arther hughos', 'arthIr hughas', 'arthwr huqhes', 'arthrr hgghes'}, {'arthir hughis', 'arthwr hyghes', 'arthyr hhghes', 'arthar haghes'}, {'arther heghes', 'arthIr highes', 'arthyr hyghes', 'arthrr hwghes'}, {'arthor hoghes', 'arthar hughas', 'arthrr hwghes', 'arthyr hhghes'}, {'arthyr hgghes', 'arthar hughus', 'arthir heghes', 'arthwr huqhes'}, {'arthor hughez', 'arthyr hwghes', 'arthrr huqhes', 'arthIr haghes'}, {'arthar hoghes', 'arthrr hwghes', 'arthwr hyghes', 'arthor hughus'}, {'arthor hughos', 'arthyr hyghes', 'arthrr hgghes', 'arther hughus'}, {'arthIr highes', 'arthwr hhghes', 'arthyr hyghes', 'arthor hughus'}, {'arthwr hgghes', 'arthyr hwghes', 'arthor hughis', 'arthir hughas'}, {'arther highes', 'arthyr hwghes', 'arthIr hughez', 'arthwr huqhes'}, {'arthwr hgghes', 'arthar hughas', 'arthrr hukhes', 'arther hughis'}, {'arthyr huqhes', 'arthir hughis', 'arthwr hyghes', 'arthar highes'}, {'arther hughos', 'arthrr hgghes', 'arthyr hukhes', 'arthIr haghes'}, {'arthrr hwghes', 'arthIr hoghes', 'arthir hughas', 'arthwr huqhes'}, {'arthrr hyghes', 'arthor heghes', 'arthwr hukhes', 'arthir hughos'}, {'arthor heghes', 'arthrr hukhes', 'arthwr huqhes', 'arther hughis'}, {'arther hughas', 'arthwr hhghes', 'arthyr hgghes', 'arthar haghes'}, {'arthwr hgghes', 'arthor heghes', 'arthyr hukhes', 'arthIr hughez'}, {'arthyr hwghes', 'arthrr hgghes', 'arthIr hughus', 'arthir heghes'}, {'arthar hughez', 'arthwr hhghes', 'arthrr hwghes', 'arther hughus'}, {'arther hughez', 'arthwr hhghes', 'arthyr hukhes', 'arthir hughas'}, {'arthor hughez', 'arthyr hhghes', 'arthrr hgghes', 'arther hoghes'}, {'arthrr hwghes', 'arthyr hukhes', 'arthor hughus', 'arther hughis'}, {'arthyr hgghes', 'arthwr hhghes', 'arthir heghes', 'arther hughis'}, {'arthrr hyghes', 'arthar hughus', 'arthyr hwghes', 'arthir hughos'}, {'arther highes', 'arthIr hughos', 'arthrr hwghes', 'arthyr hgghes'}, {'arthrr hwghes', 'arther haghes', 'arthyr hgghes', 'arthor hughus'}, {'arthir hughis', 'arther hughos', 'arthrr hwghes', 'arthyr hgghes'}, {'arther heghes', 'arthyr huqhes', 'arthor highes', 'arthrr hyghes'}, {'arthrr hhghes', 'arthIr hughis', 'arthwr huqhes', 'arthar haghes'}, {'arthir hoghes', 'arthar hughus', 'arthwr huqhes', 'arthrr hhghes'}, {'arthyr hukhes', 'arthIr hughus', 'arthir haghes', 'arthrr huqhes'}, {'arthir hoghes', 'arthar heghes', 'arthwr hwghes', 'arthrr hgghes'}, {'arthor hughos', 'arther hughas', 'arthwr hukhes', 'arthyr hgghes'}, {'arthwr hyghes', 'arthIr hughos', 'arthir haghes', 'arthrr hwghes'}, {'arthIr heghes', 'arthrr hhghes', 'arthwr hukhes', 'arthor haghes'}, {'arthyr hwghes', 'arthwr hhghes', 'arthor highes', 'arther hughis'}, {'arthwr hgghes', 'arthir hughis', 'arthIr hoghes', 'arthyr hhghes'}, {'arthIr hughis', 'arthir haghes', 'arthwr hukhes', 'arthyr hgghes'}, {'arthwr hwghes', 'arthor heghes', 'arthyr hukhes', 'arthir haghes'}, {'arthar hoghes', 'arthyr hukhes', 'arthwr hyghes', 'arthir hughas'}, {'arthor hughez', 'arthIr hughos', 'arthyr huqhes', 'arthwr hukhes'}, {'arthor hughez', 'arthwr hwghes', 'arthyr hukhes', 'arther hughis'}, {'arthar hughez', 'arthyr hgghes', 'arthwr huqhes', 'arthor hughus'}, {'arthrr hwghes', 'arthar hughos', 'arthyr hhghes', 'arther hughis'}, {'arthor hughez', 'arther haghes', 'arthyr hukhes', 'arthrr huqhes'}, {'arthar heghes', 'arthor hughis', 'arthwr huqhes', 'arthrr hwghes'}, {'arthwr hgghes', 'arthar heghes', 'arther hughez', 'arthyr hyghes'}, {'arthir hoghes', 'arthwr huqhes', 'arthrr hyghes', 'arther hughus'}, {'arthwr hgghes', 'arthIr hughos', 'arthyr huqhes', 'arthar haghes'}, {'arthrr hgghes', 'arthyr hukhes', 'arthIr hoghes', 'arther hughus'}, {'arthwr hgghes', 'arthIr highes', 'arthyr hhghes', 'arthor haghes'}, {'arther heghes', 'arthir haghes', 'arthwr hukhes', 'arthyr hgghes'}, {'arthrr huqhes', 'arthar hughas', 'arthwr hwghes', 'arthir hughez'}, {'arthir hughas', 'arthrr hukhes', 'arthIr hughez', 'arthwr hhghes'}, {'arthar hughez', 'arthwr hyghes', 'arthIr haghes', 'arthyr hhghes'}, {'arthwr hgghes', 'arther hughos', 'arthir highes', 'arthyr hhghes'}, {'arthar hughez', 'arthrr hukhes', 'arthIr hoghes', 'arthyr hyghes'}, {'arthwr hgghes', 'arthIr heghes', 'arthor hughis', 'arthrr hhghes'}, {'arthrr hyghes', 'arthor hughos', 'arthir hughez', 'arthwr huqhes'}, {'arthyr huqhes', 'arthwr hhghes', 'arther hoghes', 'arthir hughos'}, {'arthor hughez', 'arthIr heghes', 'arthwr hukhes', 'arthrr hyghes'}, {'arthyr hwghes', 'arthrr hhghes', 'arthIr hughas', 'arthor haghes'}, {'arthyr hwghes', 'arthor hughis', 'arthIr hughez', 'arthwr hgghes'}, {'arthar hughez', 'arthwr hwghes', 'arthor hughis', 'arthrr hgghes'}, {'arthIr heghes', 'arthyr hukhes', 'arthir hughez', 'arthrr hgghes'}, {'arthyr huqhes', 'arther hughas', 'arthrr hukhes', 'arthor haghes'}, {'arthIr hughos', 'arthwr hhghes', 'arthrr hwghes', 'arthar hughis'}, {'arthir highes', 'arthyr hyghes', 'arthrr huqhes', 'arther hughus'}, {'arthrr hhghes', 'arthIr hughez', 'arthwr huqhes', 'arthar hughis'}, {'arthIr hughos', 'arthyr hyghes', 'arthir hughus', 'arthrr hhghes'}, {'arthwr hgghes', 'arthIr highes', 'arthyr huqhes', 'arthir hughos'}, {'arthwr hgghes', 'arthIr heghes', 'arthrr huqhes', 'arthor hughus'}, {'arthir hoghes', 'arthar hughus', 'arthyr hwghes', 'arthwr hgghes'}, {'arthyr hhghes', 'arthir heghes', 'arthwr huqhes', 'arther hughus'}, {'arther heghes', 'arthyr hhghes', 'arthwr hgghes', 'arthor haghes'}, {'arthrr hyghes', 'arthor hughas', 'arthwr hwghes', 'arther hughus'}, {'arthar hoghes', 'arthir hughis', 'arthyr hhghes', 'arthrr hgghes'}, {'arthar hughus', 'arther hughos', 'arthwr hyghes', 'arthrr hhghes'}, {'arthor hughez', 'arthIr hoghes', 'arthyr huqhes', 'arthwr hyghes'}, {'arthor hughez', 'arthrr hwghes', 'arthyr hyghes', 'arther hoghes'}, {'arthor hughos', 'arther haghes', 'arthyr hukhes', 'arthrr hwghes'}, {'arthyr huqhes', 'arthIr hughas', 'arther hoghes', 'arthrr hyghes'}, {'arthar hoghes', 'arthwr hhghes', 'arthyr hyghes', 'arthor hughus'}, {'arthIr hughas', 'arthar highes', 'arthwr hyghes', 'arthyr hgghes'}, {'arthwr hwghes', 'arthar hughos', 'arthir heghes', 'arthrr hhghes'}, {'arthor hughos', 'arthwr hwghes', 'arthIr highes', 'arthyr hyghes'}, {'arther hughos', 'arthrr hukhes', 'arthir haghes', 'arthyr hhghes'}, {'arthyr hukhes', 'arthIr hughus', 'arthir hughas', 'arthwr hhghes'}, {'arthyr huqhes', 'arthar hughas', 'arthrr hukhes', 'arthir hughus'}, {'arthor hughez', 'arthwr hgghes', 'arthyr huqhes', 'arther hughis'}, {'arthrr hyghes', 'arthar hughus', 'arthwr hhghes', 'arthIr haghes'}, {'arthor hughos', 'arthrr hgghes', 'arthyr hhghes', 'arthar haghes'}, {'arthrr hyghes', 'arthIr hughos', 'arthyr huqhes', 'arthir hughez'}, {'arthwr hgghes', 'arthyr hwghes', 'arthIr hughus', 'arthar haghes'}, {'arther hughas', 'arthwr hyghes', 'arthir hughez', 'arthyr hgghes'}, {'arthar hoghes', 'arthor hughis', 'arthwr huqhes', 'arthrr hyghes'}, {'arthrr hgghes', 'arthyr hyghes', 'arthar highes', 'arther hoghes'}, {'arthir hughis', 'arthyr hhghes', 'arthwr hukhes', 'arthIr haghes'}, {'arthyr hwghes', 'arthar hughus', 'arther hughez', 'arthrr hgghes'}, {'arthIr hughus', 'arthyr hyghes', 'arthwr huqhes', 'arthar haghes'}, {'arthar hughas', 'arthwr hhghes', 'arthrr hukhes', 'arthor highes'}, {'arthrr hgghes', 'arthwr huqhes', 'arther hoghes', 'arthor haghes'}, {'arthIr hughos', 'arthwr hwghes', 'arthrr huqhes', 'arthor haghes'}, {'arthar hughas', 'arthyr hukhes', 'arthwr hyghes', 'arthor hughus'}, {'arthrr hgghes', 'arthir heghes', 'arthwr huqhes', 'arther hughis'}, {'arthwr hgghes', 'arthir hughis', 'arther hughas', 'arthyr hyghes'}, {'arthor hughos', 'arthyr hyghes', 'arthir hughas', 'arthwr huqhes'}, {'arthor hughez', 'arthir hughis', 'arthyr hhghes', 'arthrr hwghes'}, {'arthrr hyghes', 'arthIr hoghes', 'arthar hughos', 'arthwr huqhes'}, {'arthar heghes', 'arthyr hhghes', 'arthrr hwghes', 'arther hughus'}, {'arthwr hgghes', 'arthrr hwghes', 'arthor hughis', 'arther hoghes'}, {'arthrr hwghes', 'arther hughez', 'arthir heghes', 'arthyr hgghes'}, {'arthwr hgghes', 'arthor hughos', 'arthyr huqhes', 'arthir hughus'}, {'arthwr hwghes', 'arthir hughas', 'arthor highes', 'arthrr hhghes'}, {'arthor hoghes', 'arthyr hwghes', 'arthwr hhghes', 'arthir hughus'}, {'arthor hughez', 'arthrr hgghes', 'arthwr hhghes', 'arthIr hughas'}, {'arthyr hwghes', 'arthwr hyghes', 'arthor highes', 'arther hughus'}, {'arthar hughez', 'arthrr hukhes', 'arthIr hughus', 'arthwr hyghes'}, {'arthor hughos', 'arthwr hwghes', 'arthir haghes', 'arthrr huqhes'}, {'arthwr hwghes', 'arthyr hhghes', 'arthor heghes', 'arthIr hughis'}, {'arthrr hgghes', 'arthwr hhghes', 'arthIr hughus', 'arther hughis'}, {'arthrr huqhes', 'arthIr hughos', 'arthwr hyghes', 'arthir heghes'}, {'arthyr hwghes', 'arther hughez', 'arthwr hyghes', 'arthar hughis'}, {'arthir hoghes', 'arther haghes', 'arthrr hyghes', 'arthyr hgghes'}, {'arthyr huqhes', 'arthIr hughos', 'arthrr hgghes', 'arthor haghes'}, {'arthir hoghes', 'arthyr hyghes', 'arthwr hukhes', 'arthar hughis'}, {'arthrr hwghes', 'arthar highes', 'arthir hughus', 'arthwr huqhes'}, {'arthor hughas', 'arthyr hukhes', 'arthIr hughis', 'arthrr hgghes'}, {'arthir hoghes', 'arthIr highes', 'arthwr hwghes', 'arthyr hhghes'}, {'arthar hughas', 'arthwr hukhes', 'arthrr hwghes', 'arther hughis'}, {'arthyr hwghes', 'arthIr heghes', 'arthar highes', 'arthrr hhghes'}, {'arthar hughez', 'arthrr hwghes', 'arthyr hyghes', 'arthIr haghes'}, {'arther highes', 'arthar hoghes', 'arthyr hukhes', 'arthrr hhghes'}, {'arthir hughis', 'arthor heghes', 'arthwr hwghes', 'arthrr hukhes'}, {'arthwr hgghes', 'arthor hughos', 'arthir heghes', 'arthrr huqhes'}, {'arthrr huqhes', 'arthIr heghes', 'arthir hughas', 'arthyr hhghes'}, {'arthar hughus', 'arthIr hughos', 'arthwr hhghes', 'arthrr hwghes'}, {'arther heghes', 'arthir hoghes', 'arthrr hukhes', 'arthyr hyghes'}, {'arthor hughez', 'arthrr hgghes', 'arthyr hhghes', 'arthar haghes'}, {'arther hughos', 'arthwr hwghes', 'arthrr hgghes', 'arthor hughus'}, {'arthrr huqhes', 'arthar hughis', 'arthyr hgghes', 'arther hughus'}, {'arther heghes', 'arthrr hwghes', 'arthyr hukhes', 'arthIr haghes'}, {'arthrr hyghes', 'arther haghes', 'arthIr hughis', 'arthwr hgghes'}, {'arthwr hukhes', 'arthor hughos', 'arthar highes', 'arthrr hwghes'}, {'arthyr huqhes', 'arthar heghes', 'arthrr hwghes', 'arthor haghes'}, {'arthrr huqhes', 'arthar hughez', 'arthwr hyghes', 'arthir hughas'}, {'arthar heghes', 'arthir highes', 'arthwr hukhes', 'arthrr hhghes'}, {'arthyr huqhes', 'arthar hughez', 'arthor hughis', 'arthrr hwghes'}, {'arthar hughus', 'arthwr hwghes', 'arthyr hhghes', 'arthir hughos'}, {'arthor hughez', 'arthrr hgghes', 'arthwr hyghes', 'arthir hughus'}, {'arthrr hyghes', 'arthIr hughis', 'arthor highes', 'arthwr huqhes'}, {'arthir highes', 'arthyr hwghes', 'arthar hughos', 'arthwr huqhes'}, {'arthir hoghes', 'arthyr hhghes', 'arthIr hughas', 'arthwr hukhes'}, {'arthir hughis', 'arther haghes', 'arthwr hyghes', 'arthyr hhghes'}, {'arthyr hhghes', 'arthwr hukhes', 'arther hoghes', 'arthar haghes'}, {'arthar hoghes', 'arthyr hgghes', 'arthrr hyghes', 'arther hughis'}, {'arthyr huqhes', 'arthar hughas', 'arthwr hwghes', 'arthor hughus'}, {'arther haghes', 'arthrr hhghes', 'arthyr hyghes', 'arthar hughis'}, {'arthor hughos', 'arthwr hwghes', 'arthir highes', 'arthyr hhghes'}, {'arthIr highes', 'arthar hughos', 'arthwr hukhes', 'arthyr hhghes'}, {'arthwr hgghes', 'arthIr highes', 'arthar hughez', 'arthyr hyghes'}, {'arthwr hwghes', 'arther hughas', 'arthar hughos', 'arthyr hgghes'}, {'arthyr hgghes', 'arthIr heghes', 'arthrr huqhes', 'arthar haghes'}, {'arthar heghes', 'arthrr hukhes', 'arthir hughez', 'arthyr hhghes'}, {'arther haghes', 'arthyr hukhes', 'arthwr hyghes', 'arthar hughis'}, {'arthar hoghes', 'arthyr hyghes', 'arthIr hughez', 'arthwr hgghes'}, {'arthyr hukhes', 'arthar hughos', 'arthir haghes', 'arthwr huqhes'}, {'arther hughas', 'arthrr hhghes', 'arthyr hgghes', 'arthir hughos'}, {'arthyr hwghes', 'arthar hughas', 'arthIr hughus', 'arthwr hukhes'}, {'arthir hughis', 'arthyr hukhes', 'arthwr hhghes', 'arther hughus'}, {'arthwr hwghes', 'arthIr hughus', 'arthir hughez', 'arthrr hhghes'}, {'arthrr hyghes', 'arther haghes', 'arthwr hukhes', 'arthor hughus'}, {'arthir hughis', 'arthwr hwghes', 'arthyr hyghes', 'arthor hughas'}, {'arthrr huqhes', 'arthwr hhghes', 'arthir heghes', 'arthIr haghes'}, {'arthor hughos', 'arthir highes', 'arthrr hwghes', 'arthwr hhghes'}, {'arther heghes', 'arthIr hughos', 'arthyr huqhes', 'arthwr hukhes'}, {'arthar hoghes', 'arthrr hwghes', 'arthwr hyghes', 'arthor haghes'}, {'arthor hughez', 'arthwr huqhes', 'arthir hughus', 'arthrr hhghes'}, {'arthyr huqhes', 'arthIr hughos', 'arthwr hukhes', 'arthar haghes'}, {'arthyr hwghes', 'arthar hughas', 'arthwr huqhes', 'arther hughus'}, {'arthor hughas', 'arthwr hwghes', 'arthir hughez', 'arthyr hgghes'}, {'arther heghes', 'arthIr hughus', 'arthwr hukhes', 'arthrr hhghes'}, {'arthar heghes', 'arthwr hwghes', 'arther hughos', 'arthrr hgghes'}, {'arthir hoghes', 'arther heghes', 'arthwr huqhes', 'arthrr hyghes'}, {'arthIr hughos', 'arthwr hwghes', 'arthrr hgghes', 'arthar hughus'}, {'arthyr huqhes', 'arthwr hhghes', 'arthir heghes', 'arther hoghes'}, {'arther highes', 'arthor hughas', 'arthyr hyghes', 'arthwr hukhes'}, {'arthyr hwghes', 'arthIr highes', 'arthrr huqhes', 'arther hughus'}, {'arthyr huqhes', 'arthrr hgghes', 'arthar highes', 'arthor haghes'}, {'arthyr hwghes', 'arthIr heghes', 'arthwr hgghes', 'arther hughis'}, {'arthar hughas', 'arthwr hhghes', 'arthrr hwghes', 'arther hughus'}, {'arthyr huqhes', 'arther hughos', 'arthwr hyghes', 'arthor haghes'}, {'arthor hughos', 'arthIr hughus', 'arthwr huqhes', 'arthyr hgghes'}, {'arthor hoghes', 'arthIr heghes', 'arthwr hhghes', 'arthrr hwghes'}, {'arthyr hhghes', 'arthrr huqhes', 'arthir hughus', 'arther hughis'}, {'arthrr hyghes', 'arthir hughis', 'arther hoghes', 'arthyr hgghes'}, {'arthor hughez', 'arthar heghes', 'arthrr hukhes', 'arthwr hyghes'}, {'arthyr hukhes', 'arthor hughis', 'arthIr hughus', 'arthwr huqhes'}, {'arthyr hukhes', 'arthir heghes', 'arthwr huqhes', 'arthIr hughez'}, {'arthrr hyghes', 'arthyr hukhes', 'arthar hughos', 'arther hughus'}, {'arther haghes', 'arthIr hughus', 'arthwr hyghes', 'arthrr hhghes'}, {'arthar hughus', 'arthwr hwghes', 'arthIr hoghes', 'arthrr hgghes'}, {'arthor hughas', 'arthwr hhghes', 'arthIr heghes', 'arthyr hgghes'}, {'arthIr highes', 'arthrr hukhes', 'arthyr hyghes', 'arther hoghes'}, {'arthor hughas', 'arthwr hhghes', 'arthrr huqhes', 'arther hoghes'}, {'arthar hughas', 'arthwr hyghes', 'arthir hughez', 'arthyr hgghes'}, {'arthrr hyghes', 'arthyr hhghes', 'arther haghes', 'arthar hughis'}, {'arthrr hgghes', 'arthir haghes', 'arthwr hyghes', 'arther hughus'}, {'arthyr hwghes', 'arthar hughas', 'arthIr hoghes', 'arthwr hyghes'}, {'arthwr hwghes', 'arthyr hyghes', 'arther hoghes', 'arthar haghes'}, {'arther hughos', 'arthwr hwghes', 'arthir heghes', 'arthrr hhghes'}, {'arthIr heghes', 'arthyr hukhes', 'arthwr hyghes', 'arthar hughus'}, {'arthir highes', 'arthIr hoghes', 'arthwr hhghes', 'arthyr hgghes'}, {'arthor hughis', 'arthrr hukhes', 'arthir hughus', 'arthwr hhghes'}, {'arther hughas', 'arthyr hyghes', 'arthrr huqhes', 'arthar hughis'}, {'arthyr hwghes', 'arthir hughis', 'arthIr hughus', 'arthwr huqhes'}, {'arthyr huqhes', 'arthir haghes', 'arthwr hyghes', 'arthor hughus'}, {'arthor hughas', 'arthrr hukhes', 'arthir hughez', 'arthyr hhghes'}, {'arthwr hgghes', 'arthrr hukhes', 'arthIr hughez', 'arthir hughos'}, {'arthrr hwghes', 'arthwr hyghes', 'arthor highes', 'arther hughis'}, {'arther hughos', 'arthir highes', 'arthyr hhghes', 'arthrr hgghes'}, {'arthar hughas', 'arthor highes', 'arthrr hwghes', 'arthyr hgghes'}, {'arthar hughus', 'arther hughas', 'arthyr hyghes', 'arthrr hhghes'}, {'arthyr huqhes', 'arthIr heghes', 'arther hughas', 'arthwr hgghes'}, {'arther hughos', 'arthyr hhghes', 'arthar highes', 'arthrr hwghes'}, {'arthyr huqhes', 'arthrr hukhes', 'arthIr hughez', 'arthor hughus'}, {'arthor hughez', 'arthIr heghes', 'arthyr hyghes', 'arthwr huqhes'}, {'arthar hughus', 'arthwr hyghes', 'arthrr hgghes', 'arther hughis'}, {'arthwr hgghes', 'arthrr hwghes', 'arther hughez', 'arthor highes'}, {'arthIr heghes', 'arthir haghes', 'arthrr hwghes', 'arthyr hgghes'}, {'arthyr huqhes', 'arthIr hoghes', 'arthwr hyghes', 'arthar hughos'}, {'arthyr huqhes', 'arthar hughas', 'arthwr hwghes', 'arthir haghes'}, {'arthor hughas', 'arthwr hwghes', 'arthir heghes', 'arthrr hgghes'}, {'arthrr hhghes', 'arthyr hukhes', 'arthir hughez', 'arthar haghes'}, {'arthar hughus', 'arthor heghes', 'arthwr hhghes', 'arthyr hyghes'}, {'arthyr huqhes', 'arthar hughas', 'arthIr highes', 'arthwr hukhes'}, {'arthrr hyghes', 'arther hughez', 'arthwr hhghes', 'arthir hughos'}, {'arthar hoghes', 'arthor hughos', 'arthwr hhghes', 'arthyr hyghes'}, {'arthyr hhghes', 'arther haghes', 'arthIr hughis', 'arthwr huqhes'}, {'arthIr highes', 'arthwr hhghes', 'arthrr huqhes', 'arthor haghes'}, {'arthwr hukhes', 'arthIr hughis', 'arthir hughas', 'arthrr hhghes'}, {'arthyr hwghes', 'arther hughos', 'arthar hughez', 'arthrr hhghes'}, {'arthrr hyghes', 'arthar hughos', 'arthwr huqhes', 'arther hughis'}, {'arthor hoghes', 'arthar hughos', 'arthwr huqhes', 'arthyr hgghes'}, {'arthor hoghes', 'arthIr hughos', 'arthwr hyghes', 'arthyr hhghes'}, {'arthrr hgghes', 'arther hughez', 'arthir haghes', 'arthyr hyghes'}, {'arthrr hhghes', 'arthir haghes', 'arthwr huqhes', 'arthor hughus'}, {'arthrr hyghes', 'arthor hughos', 'arther haghes', 'arthwr hhghes'}, {'arthar heghes', 'arthyr hukhes', 'arthrr hgghes', 'arther hughis'}, {'arthwr hwghes', 'arthyr hukhes', 'arthIr hughis', 'arthir hughus'}, {'arthIr highes', 'arthwr hukhes', 'arthyr hhghes', 'arther hughis'}, {'arthar heghes', 'arthyr hukhes', 'arthir hughus', 'arthwr hhghes'}, {'arthrr hgghes', 'arthwr hwghes', 'arthor hughis', 'arthir hughos'}, {'arthIr highes', 'arthyr hukhes', 'arther hoghes', 'arthwr hhghes'}, {'arther highes', 'arthrr hwghes', 'arthwr hyghes', 'arthar haghes'}, {'arthor hoghes', 'arther hughos', 'arthwr hwghes', 'arthrr huqhes'}, {'arthar hoghes', 'arthrr hukhes', 'arthIr haghes', 'arthyr hgghes'}, {'arthrr hyghes', 'arthyr hukhes', 'arthIr hoghes', 'arthir haghes'}, {'arther hughos', 'arthor heghes', 'arthrr hwghes', 'arthyr hgghes'}, {'arthrr huqhes', 'arther hughas', 'arthir heghes', 'arthwr hgghes'}, {'arthar hoghes', 'arthir hughis', 'arthwr hukhes', 'arthyr hwghes'}, {'arthar hughus', 'arthor hughos', 'arthwr hyghes', 'arthrr hwghes'}, {'arthyr huqhes', 'arthar hughus', 'arthwr hwghes', 'arthIr hughis'}, {'arthrr hyghes', 'arthyr huqhes', 'arthar highes', 'arthIr haghes'}, {'arther haghes', 'arthar hughos', 'arthwr huqhes', 'arthyr hgghes'}, {'arthyr huqhes', 'arthor hughas', 'arthwr hwghes', 'arthar highes'}, {'arthrr hyghes', 'arthor hughas', 'arthyr hwghes', 'arthir hughos'}, {'arther heghes', 'arthyr hhghes', 'arthrr hyghes', 'arthor hughus'}, {'arther heghes', 'arthwr hhghes', 'arthrr huqhes', 'arthor haghes'}, {'arthwr hwghes', 'arthir hughas', 'arthyr hukhes', 'arthIr hughez'}, {'arthor hughez', 'arthyr hukhes', 'arthwr huqhes', 'arthir hughus'}, {'arthrr hyghes', 'arthyr hhghes', 'arthor heghes', 'arther haghes'}, {'arthrr hyghes', 'arthyr hukhes', 'arthir highes', 'arthar haghes'}, {'arthIr highes', 'arthwr hyghes', 'arthar hughus', 'arthyr hhghes'}, {'arthyr huqhes', 'arthar hughas', 'arthrr hwghes', 'arthor haghes'}, {'arthar hughus', 'arthIr hughas', 'arthwr huqhes', 'arthrr hwghes'}, {'arthyr huqhes', 'arther hughas', 'arthrr hukhes', 'arthar hughis'}, {'arthor hoghes', 'arthyr hukhes', 'arthwr hyghes', 'arthIr hughez'}, {'arthyr hwghes', 'arthrr hgghes', 'arther hughez', 'arthor highes'}, {'arthrr huqhes', 'arther hughez', 'arthyr hyghes', 'arthor heghes'}, {'arthwr hgghes', 'arther haghes', 'arthrr huqhes', 'arthir hughus'}, {'arther hughez', 'arthir haghes', 'arthwr huqhes', 'arthyr hgghes'}, {'arthyr huqhes', 'arthor hughas', 'arthwr hyghes', 'arthIr heghes'}, {'arthIr highes', 'arthwr hwghes', 'arthyr hukhes', 'arthar hughis'}, {'arther highes', 'arthor hughis', 'arthyr hyghes', 'arthwr hgghes'}, {'arthwr hgghes', 'arthIr highes', 'arthrr hukhes', 'arthor hughas'}, {'arthar hughus', 'arthwr hwghes', 'arthrr hukhes', 'arther hughis'}, {'arthwr hukhes', 'arthrr hhghes', 'arthIr hughez', 'arther hughus'}, {'arthir hoghes', 'arthyr huqhes', 'arthor highes', 'arthwr hyghes'}, {'arthyr hhghes', 'arthIr hughas', 'arthwr hukhes', 'arthir hughus'}, {'arthyr hhghes', 'arthrr hukhes', 'arthIr hughas', 'arthar hughis'}, {'arthar hoghes', 'arthIr hughis', 'arthrr hukhes', 'arthyr hyghes'}, {'arthyr huqhes', 'arther hughez', 'arthwr hwghes', 'arthor haghes'}, {'arthwr hgghes', 'arthor hughis', 'arthrr huqhes', 'arthir hughus'}, {'arther highes', 'arthor hughis', 'arthrr hyghes', 'arthwr hgghes'}, {'arthor hughis', 'arthir haghes', 'arthwr hyghes', 'arthyr hgghes'}, {'arthyr huqhes', 'arthIr highes', 'arthwr hukhes', 'arthir hughos'}, {'arthar heghes', 'arthrr hhghes', 'arthyr hukhes', 'arther hughus'}, {'arthyr hgghes', 'arthir highes', 'arthwr huqhes', 'arther hughus'}, {'arthor hughez', 'arthrr hwghes', 'arthir haghes', 'arthwr hyghes'}, {'arthar hoghes', 'arthIr heghes', 'arthyr hukhes', 'arthrr hwghes'}, {'arther haghes', 'arthor hughis', 'arthrr hukhes', 'arthwr hhghes'}, {'arther hughos', 'arthyr hukhes', 'arthor hughis', 'arthwr hyghes'}, {'arthor hughez', 'arthar hughos', 'arthrr hukhes', 'arthwr hhghes'}, {'arther hughez', 'arthIr hughis', 'arthrr hukhes', 'arthwr hyghes'}, {'arthar hughas', 'arthor hughis', 'arthwr hhghes', 'arthyr hgghes'}, {'arthwr hwghes', 'arthar hughis', 'arthyr hgghes', 'arther hughus'}, {'arthyr hwghes', 'arthIr hughis', 'arthrr hukhes', 'arther hoghes'}, {'arthrr hukhes', 'arthwr hwghes', 'arthIr hughas', 'arthir hughus'}, {'arthwr hgghes', 'arthar hughas', 'arthrr hhghes', 'arther hughus'}, {'arther haghes', 'arthar hughos', 'arthrr hukhes', 'arthwr huqhes'}, {'arthor hoghes', 'arthrr hgghes', 'arthIr hughus', 'arthwr hyghes'}, {'arthwr hgghes', 'arthor hughos', 'arthyr hhghes', 'arther hughus'}, {'arthIr heghes', 'arthar hughos', 'arthwr huqhes', 'arthyr hhghes'}, {'arthar heghes', 'arthrr hhghes', 'arthir highes', 'arthyr hgghes'}, {'arthIr highes', 'arthyr hukhes', 'arthir hughez', 'arthrr hwghes'}, {'arthar hughez', 'arthIr hughas', 'arthwr hukhes', 'arthyr hhghes'}, {'arthyr hwghes', 'arthir hughis', 'arthIr hughos', 'arthwr hukhes'}, {'arthwr hgghes', 'arthrr hwghes', 'arthIr hughus', 'arthir hughas'}, {'arthor heghes', 'arthyr hukhes', 'arthIr hughus', 'arthwr hyghes'}, {'arthar hughas', 'arthwr hukhes', 'arthrr hgghes', 'arthor hughus'}, {'arthwr hgghes', 'arthrr hukhes', 'arthor highes', 'arthar haghes'}]
+arthur hughes       : DEBUG: Additional rule variations: set()
+arthur hughes       : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 4
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "arthur hughes": {
+            "first_name": {
+                "score": 1.0,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 1.0,
+                        "combined": 1.0
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.4,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "arthir",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "arthor",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "arthwr",
+                            "phonetic_score": 0.6335090036529423,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "arthyr",
+                            "phonetic_score": 0.6335090036529423,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 1.0,
+            "final_score": 0.8,
+            "variation_count": 4,
+            "non_rule_compliant_variations_count": 4,
+            "rule_compliant_variations_count": 0,
+            "last_name": {
+                "score": 1.0,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 1.0,
+                        "combined": 1.0
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.4,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "hughis",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "heghes",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hwghes",
+                            "phonetic_score": 0.7529553714478858,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hhghes",
+                            "phonetic_score": 0.7529553714478858,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "insert_random_letter": [],
+                        "remove_random_consonant": [],
+                        "delete_random_letter": []
+                    },
+                    "rules_satisfied_by_variation": {},
+                    "compliance_ratio_overall_variations": 0.0,
+                    "overall_compliant_unique_variations_count": 0,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 0.0,
+                    "rule_diversity_factor": 0.0,
+                    "num_target_rules_met": 0,
+                    "total_target_rules": 3,
+                    "score": 0.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.0,
+        "by_name": {
+            "arthur hughes": {
+                "score": 0.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "insert_random_letter": [],
+                        "remove_random_consonant": [],
+                        "delete_random_letter": []
+                    },
+                    "rules_satisfied_by_variation": {},
+                    "compliance_ratio_overall_variations": 0.0,
+                    "overall_compliant_unique_variations_count": 0,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 0.0,
+                    "rule_diversity_factor": 0.0,
+                    "num_target_rules_met": 0,
+                    "total_target_rules": 3,
+                    "score": 0.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.8,
+    "final_reward": 0.8
+}
+arthur hughes       : DEBUG: ----------------------------------------------------------------------------------------------------

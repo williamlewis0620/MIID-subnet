@@ -1,0 +1,2302 @@
+ivan spiridonov     : INFO: Generating variations for ivan spiridonov
+ivan spiridonov     : INFO: ----------------------------------------------------------------------------------------------------
+ivan spiridonov     : INFO: Effective rules: ['swap_random_letter']
+ivan spiridonov     : INFO: ----------------------------------------------------------------------------------------------------
+ivan spiridonov     : INFO: Min Required Rule Variation Set: [{'iva nspiridonov', 'iavn spiridonov', 'ivan spiriodnov', 'ivna spiridonov', 'ivans piridonov', 'ivan spiridoonv', 'ivan spriidonov', 'ivan spirdionov', 'ivan sipridonov', 'ivan spiridonvo', 'ivan psiridonov', 'ivan spiirdonov', 'ivan spiridnoov', 'vian spiridonov'}]
+ivan spiridonov     : INFO: ----------------------------------------------------------------------------------------------------
+ivan spiridonov     : INFO: First name: ivan
+ivan spiridonov     : INFO: Last name: spiridonov
+ivan spiridonov     : INFO: ----------------------------------------------------------------------------------------------------
+ivan spiridonov     : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8), (3, 7)]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 1 / 22: rule_count/nonrule_count: 0/1------------------------------
+ivan spiridonov     : DEBUG: O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: P: [0, 0, 0, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: P: [0, 0, 0, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.26889543]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 2 / 22: rule_count/nonrule_count: 0/2------------------------------
+ivan spiridonov     : DEBUG: O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: P: [0, 0, 1, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: P: [0, 0, 1, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.28803089]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 3 / 22: rule_count/nonrule_count: 0/3------------------------------
+ivan spiridonov     : DEBUG: O: [0, 1, 0, 2]
+ivan spiridonov     : DEBUG: P: [0, 0, 1, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [0, 1, 0, 2]
+ivan spiridonov     : DEBUG: P: [0, 0, 1, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.34255137]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 4 / 22: rule_count/nonrule_count: 0/4------------------------------
+ivan spiridonov     : DEBUG: O: [1, 1, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 2, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [1, 1, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 2, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.554]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 5 / 22: rule_count/nonrule_count: 1/3------------------------------
+ivan spiridonov     : DEBUG: O: [0, 1, 0, 2]
+ivan spiridonov     : DEBUG: P: [0, 0, 1, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [0, 1, 0, 2]
+ivan spiridonov     : DEBUG: P: [0, 0, 1, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.54255137]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 6 / 22: rule_count/nonrule_count: 0/5------------------------------
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.55217983]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 7 / 22: rule_count/nonrule_count: 1/4------------------------------
+ivan spiridonov     : DEBUG: O: [1, 1, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 2, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [1, 1, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 2, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.754]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 8 / 22: rule_count/nonrule_count: 0/6------------------------------
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 2]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 2]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.52355167]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 9 / 22: rule_count/nonrule_count: 1/5------------------------------
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.75217983]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 10 / 22: rule_count/nonrule_count: 0/7------------------------------
+ivan spiridonov     : DEBUG: O: [2, 2, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [2, 2, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.50822231]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 11 / 22: rule_count/nonrule_count: 1/6------------------------------
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 2]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 2]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.62355167]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 12 / 22: rule_count/nonrule_count: 2/5------------------------------
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 1]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.75217983]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 13 / 22: rule_count/nonrule_count: 0/8------------------------------
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.49307597]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 14 / 22: rule_count/nonrule_count: 1/7------------------------------
+ivan spiridonov     : DEBUG: O: [2, 2, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [2, 2, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.60822231]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 15 / 22: rule_count/nonrule_count: 2/6------------------------------
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 2]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [1, 2, 1, 2]
+ivan spiridonov     : DEBUG: P: [0, 1, 3, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.62355167]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 16 / 22: rule_count/nonrule_count: 0/9------------------------------
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 2]
+ivan spiridonov     : DEBUG: P: [0, 2, 5, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 2]
+ivan spiridonov     : DEBUG: P: [0, 2, 5, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.47855328]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 17 / 22: rule_count/nonrule_count: 1/8------------------------------
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.59307597]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 18 / 22: rule_count/nonrule_count: 2/7------------------------------
+ivan spiridonov     : DEBUG: O: [2, 2, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [2, 2, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.60822231]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 19 / 22: rule_count/nonrule_count: 0/10------------------------------
+ivan spiridonov     : DEBUG: O: [3, 4, 3, 0]
+ivan spiridonov     : DEBUG: P: [1, 3, 6, 0]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 1, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 3, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [8]
+ivan spiridonov     : DEBUG: [20]
+ivan spiridonov     : DEBUG: [20]
+ivan spiridonov     : DEBUG: [7]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [1, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [3, 4, 3, 0]
+ivan spiridonov     : DEBUG: P: [1, 3, 6, 0]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 1, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 3, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+ivan spiridonov     : DEBUG: [307]
+ivan spiridonov     : DEBUG: [192]
+ivan spiridonov     : DEBUG: [20]
+ivan spiridonov     : DEBUG: [20]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [1, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.47434689]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 20 / 22: rule_count/nonrule_count: 1/9------------------------------
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 2]
+ivan spiridonov     : DEBUG: P: [0, 2, 5, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 2]
+ivan spiridonov     : DEBUG: P: [0, 2, 5, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [2]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.54521995]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 21 / 22: rule_count/nonrule_count: 2/8------------------------------
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [2, 3, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 2]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [3, 0, 0]
+ivan spiridonov     : DEBUG: [1, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.59307597]
+ivan spiridonov     : INFO: ------------------------------Trying rule_count_pair 22 / 22: rule_count/nonrule_count: 3/7------------------------------
+ivan spiridonov     : DEBUG: O: [2, 2, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [5, 2, 0]
+ivan spiridonov     : DEBUG: [28, 15, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [20, 18, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+ivan spiridonov     : DEBUG: [7, 0, 0]
+ivan spiridonov     : DEBUG: [69, 0, 0]
+ivan spiridonov     : DEBUG: [112, 0, 0]
+ivan spiridonov     : DEBUG: [20, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [31]
+ivan spiridonov     : DEBUG: [499]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: ivan, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: ivan, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: O: [2, 2, 2, 1]
+ivan spiridonov     : DEBUG: P: [0, 2, 4, 1]
+ivan spiridonov     : WARNING: Remains: 0
+ivan spiridonov     : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [492, 100, 0]
+ivan spiridonov     : DEBUG: [500, 400, 0]
+ivan spiridonov     : DEBUG: [500, 20, 0]
+ivan spiridonov     : DEBUG: [20, 20, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [500, 500, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [2, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0]
+ivan spiridonov     : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [500]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [0]
+ivan spiridonov     : DEBUG: [1]
+ivan spiridonov     : DEBUG: final:
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 0
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 1
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: name: spiridonov, l_level: 2
+ivan spiridonov     : DEBUG: --------------------------------------------------
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+ivan spiridonov     : DEBUG: scores: [0.60822231]
+ivan spiridonov     : DEBUG: ----------------------------------------------------------------------------------------------------
+ivan spiridonov     : DEBUG: Best score achieved: 0.754
+ivan spiridonov     : DEBUG: Best selected: 1/4
+ivan spiridonov     : DEBUG: Rule variations: [{'iva nspiridonov', 'iavn spiridonov', 'ivan spiriodnov', 'ivna spiridonov', 'ivans piridonov', 'ivan spiridoonv', 'ivan spriidonov', 'ivan spirdionov', 'ivan sipridonov', 'ivan spiridonvo', 'ivan psiridonov', 'ivan spiirdonov', 'ivan spiridnoov', 'vian spiridonov'}]
+ivan spiridonov     : DEBUG: Nonrule variations: [{'ihfm sbiraodnvo', 'ivvn spiridounv', 'iwbn spiritnoow', 'fiuy xhprdiunvo'}, {'uavy giprdiohvo', 'ipvm siprwdnoow', 'ivyn spriidonyv', 'ivmo sviridnooy'}, {'ivhm spirdioyvo', 'iwpm sipradnooh', 'hhew cihrdioyvo', 'ivvn spiridonvi'}, {'yyna yiprdyinvo', 'ipny siprdiowhv', 'ipin svaridonvo', 'ivyn speridonof'}, {'ivhm spriidwmov', 'vhha ciyyiodnvo', 'ivyn spiridonwf', 'ifwm sipridyyvo'}, {'ivnn sparidwnov', 'ipnu siprhdenvo', 'iivn sfyridnoov', 'eabh gipyiodnvo'}, {'vnii yiproodnvo', 'ifam sfiridnoop', 'ifan speridonva', 'ifmm sipridayvo'}, {'ifhn spurdionhv', 'iphm sfiirdnoop', 'ivwn spiriwdnov', 'wabm ciprhioyvo'}, {'ivnn sipridinov', 'fwna ziproodnpo', 'ivmo spriidihov', 'ipme sfyrdionvo'}, {'ivnn spirydionv', 'iapn spriidwnhv', 'abya cipyiodnvh', 'ibmw sipredoony'}, {'iwpn sfyridnoov', 'ivnn spiritenov', 'ifim siprhodnav', 'hyim jiprdaenvo'}, {'ivnn spiredonof', 'ipwm sipriodmhv', 'ipmn spiridayvo', 'wioh capraodnvo'}, {'ihpn spiirdonew', 'ivnn spiritonov', 'vnii hiprdiwnvo', 'ipwm sviirdhnvo'}, {'ibam spirydnoop', 'ipom sphrhodnvo', 'uavy kiprdianwo', 'ifan spiridonvu'}, {'ivhm spirwdoyvo', 'hwum xhprdiunvo', 'ievm sbriidoony', 'ivvn spyrodonof'}, {'viim jiprdihnif', 'ivnn spyrydonov', 'ipwm sipraodnow', 'ivmu spriidunop'}, {'uyim gipyiodnvo', 'iofm siprudnooy', 'ifan spwridoniv', 'ipyn spiryodnwv'}, {'ifan spirwdinov', 'ifmm spiirdhmvo', 'ifbn svriidanov', 'fiyy kyprdianvo'}, {'iavm sbiirdoyvo', 'ivnn spiradonvo', 'iepn spriidnoop', 'yfey xiwrdiunvo'}, {'ebna civraodnvo', 'ivwn spiredonvo', 'ifom sipreodyov', 'ivwm spriidynob'}, {'eyww zibroodnvo', 'ivvn spuridonwv', 'iupn sbriidynov', 'ipwm siprideyvo'}, {'ivfm speridoonw', 'abnw wiprdihnif', 'ivvn spiwrdonov', 'iibm sipradoyvo'}, {'ipyn spuriodnhv', 'ivwn spirydonvo', 'iubm sipraodmov', 'wbwa kiwrdianvo'}, {'ipmu sbhrdionvo', 'ivyn spiridinev', 'eyww xiyroodnvo', 'ibam sipradonhv'}, {'iypn sviirdonev', 'ivnn spiirdonev', 'ahhw kiprdiawvo', 'iybm sfiirdnoop'}, {'iepn spiritnoow', 'iafm siprwdhnvo', 'vuuh cipwiodnvo', 'ivvn spirdionwv'}, {'vwwm ziwroodnvo', 'ibma siprwdnoop', 'ifan sperwdonyv', 'ihpn spuriodyov'}, {'ivnn spiridonvi', 'iwfm siprwdnoow', 'fiwy kipryodnvo', 'ibun spiirdomev'}, {'ahna cipwaodnvo', 'ibmm svurdionvo', 'ivmu sbriidynov', 'ivnn spirdoonov'}, {'ibne spriidiyvo', 'ivyn spirdionev', 'iwpn siprhdnoov', 'apow yipruodnvo'}, {'iopn spriidonhb', 'uhno cipyiydnvo', 'ifmo sfriidoyvo', 'ivwn spriedonov'}, {'ifan spirduonov', 'yfne yiprdiiyvo', 'ipym sipruodhov', 'ipun spiridhmvo'}, {'wfnu yiprdihnvo', 'ivvn spuritonov', 'ifnm sbiirdoonb', 'ibam svardionov'}, {'biym yiprdiinyo', 'ivwn spiredonvo', 'ibhn spiridhmvo', 'ifmw sbriidynvo'}, {'ipym siprednoow', 'ivnm spurhodnov', 'ivvn spirduonuv', 'wiyw cipyiodnvo'}, {'iopm spriidimvo', 'ivyn sperydonov', 'ipun spriitonhv', 'vhow hipryodnvo'}, {'yfno xivroodnvo', 'ivwn spiridinof', 'ibbn spyriodnoy', 'ibme sipraodnob'}, {'ivmm sbriidonyv', 'hhew ciyyiodnvo', 'iavm spiirdhwvo', 'ifan spiritonof'}, {'ipmh spiirduyvo', 'ivnm sviridnooy', 'ifan spyridanof', 'awna giprdihnif'}, {'ifan spwrudonov', 'ifpm spurwodnvo', 'oavm ciprdienyp', 'ipen sbriidoyov'}, {'ivyn speritonav', 'ibon spiritoonw', 'iipm sfiroodnvo', 'uahw yipryodnvo'}, {'fihy cipryodnvo', 'ifan spuridonyv', 'iypm sipraodhov', 'ibbn sviridnoow'}, {'ibum sipridyhvo', 'wbhy kipraodnvo', 'ivnn spyridonav', 'ivma spriidyonv'}, {'ivmm spyriodnob', 'ivvn spirodnoov', 'iibm sfirdihnvo', 'pnia kiprdwanvo'}, {'apom yiwrdiinvo', 'ifbm sipraodnow', 'ipwn svuriodnov', 'ivnn spirydonvo'}, {'wbnu hiprdihnif', 'iofm siprwodnvo', 'ipun spiirdowof', 'ivnn spyridwnov'}, {'ipim siprdwonvo', 'vyoh ziproodnho', 'ivvn spuridynov', 'ibhn sburidoonv'}, {'ifan spirdihnov', 'epew zipraodhav', 'ibnn spuryodnov', 'ippm sipriodnww'}, {'yfoy kiprdiynvo', 'ipem siprdwoonv', 'ivvn spiridonve', 'ibam svuriodnov'}, {'ivwn spriiodnov', 'ivbm sphradonvo', 'vwya kibrdianvo', 'ibna sipriodnba'}, {'ohih yiprdiinpo', 'ifan spirydonuv', 'ibno spiirdayvo', 'ibfn spuriodnow'}, {'ibvm sipriodyvo', 'ifan spyriodnov', 'eavw xiproownvo', 'iben spiirdohev'}, {'ivyn spiridynov', 'iupn spiirdoyvo', 'uovm jiprdihnvo', 'iafm svhrdionvo'}, {'ivvn spiriadnov', 'ibmw siprwodnwv', 'ipvn sipridnoob', 'owew kiprwianvo'}, {'ipom siprdioonw', 'ipmn spriidonup', 'eyim kiprdihnif', 'ivwn spiridonif'}, {'ipbn sveridoonv', 'ifwm siprudohvo', 'ifan spriydonov', 'vhoh yiprdioyvo'}, {'ipyn sbaridoonv', 'aavh ciprdienyw', 'ivyn spyridonwf', 'iopm sbhriodnvo'}, {'ivyn sparidonvo', 'hovm cipyioynvo', 'iipn spiirdonhf', 'ifmy sipredahvo'}, {'ifmo spriidiwvo', 'fiwy hiprdiynvo', 'ivnn spyridonuv', 'iobn spirdionyy'}, {'iwpm sipredanho', 'ifan spyradonof', 'ivfm spiridiyvo', 'abya cipraodwvo'}, {'ibpm sipridimvo', 'hiyy xiyroodnvo', 'ivvn spurydynov', 'iapn spriidanop'}, {'ifpm spurdiowvo', 'ivmy speridhnvo', 'ivnn sporidnoov', 'hbum ciprdienyw'}, {'iyvm spiirthnvo', 'ivvn spirodionv', 'ifmn spyriodwov', 'awew yipryodnvo'}, {'ipma sipradnoop', 'wfnu yuprdiinvo', 'ivyn speridonva', 'iwpn svirdianov'}, {'ifan sporidonof', 'wywa yiprdiunvo', 'iivm spyrdiohvo', 'ibam spirdiomhv'}, {'eyim cipryioyvo', 'ivvn spriidenov', 'iyvm siprdionyo', 'ifhn sfhridonvo'}, {'uyna zipraodnab', 'iwfm sviirdnooy', 'ivyn sperdionov', 'ibfn spirdiowhv'}, {'ivyn spirdiionv', 'ihfm sipredanyo', 'ipyn spirdihnhv', 'ahow xiprdiuwvo'}, {'iypm sipredowvo', 'ivma shpridnoov', 'hwew yiprdihnvo', 'ifan spyridynof'}, {'ivyn spiridiunv', 'uwna xibrdiunvo', 'ivhm sphridwnvo', 'iyvm sipritnooh'}, {'vnii qipryodnvo', 'iphm siprdionww', 'ibpn sipridoyvo', 'ivnn spirudoonv'}, {'ipin svirudoonv', 'ifan speirdonov', 'wwnu jiprdienvo', 'ifma spriidwmvo'}, {'iwfm spiirthnvo', 'ibbn speridoonw', 'ifan spirwdonyf', 'hwew yiprdiinyo'}, {'ipen sipridhoov', 'iabm sifriodnvo', 'fiyw cipyiodnvw', 'ivwn spiridwnev'}, {'ivwn spiridionf', 'ibym sbiirdnoop', 'ibbn spriidinop', 'ahuw xibroodnvo'}, {'ippm sbireodnvo', 'iabn svirwdnoov', 'viwy yiprduinvo', 'ivnn spiritynov'}, {'wyoy cipyiodnvh', 'ipmm sipriodnwa', 'ifhn speridoonh', 'ifan spirdonouv'}, {'ynia yiprdiinvw', 'ivvn spiridonev', 'ivmi sviritnoov', 'ihbm sburwodnvo'}, {'uavh jiprdianvo', 'ihvm sivriodnva', 'iben sphridhnvo', 'ivyn spiirodnov'}, {'abne kiprdihnvo', 'ipmn svariodnov', 'iffm siprodhnvo', 'ivwn sporidoonv'}, {'ivvn spirydynov', 'uahw ziproodnpo', 'ipmi sfuriodnvo', 'ipbn spriidomop'}, {'wbwa jiprdihnvo', 'ifan spiridynev', 'iupm sbirdioyvo', 'ibmn sipredonoy'}, {'ievm svhrdionvo', 'ypna cypyiodnvo', 'iopn svoridnoov', 'ivvn spiridyniv'}, {'ifan spiridonuf', 'ivhm spriidihov', 'fiuy ziprdiohvo', 'ibnu sipraodyov'}, {'wwew ziproodnho', 'ibma siprdionyp', 'ivwn spiridoinv', 'ivnm sphridinvo'}, {'ibny siprhdwnvo', 'viho ziprdioyvo', 'ifan spirwdinyv', 'iebn spiridhmvo'}, {'ibem sipriodnhf', 'ifan spirodynov', 'ibnn spirwdnoop', 'wpew giprdiohvo'}, {'ipwn svaridonvo', 'ifan sipridinov', 'piyy kiprdianfo', 'ifmo siprodhnvo'}, {'iupn sifridnoov', 'iubm sipriodnhw', 'ivyn spyrydynov', 'wyhy xiproodnho'}, {'ivyn spiritnoov', 'biwh jiproodnvo', 'ipfm spiirdiyvo', 'iibn spyriodnoy'}, {'ivyn sparydonov', 'ivpm spiriodnwo', 'iibm spriidyyvo', 'wapm kiwrdianvo'}, {'ipnu spiirtohvo', 'ifan spiridwnov', 'faiy yiprduinvo', 'ivmw spyriodnop'}, {'ipmn spiirdomev', 'ipwm sipradnoow', 'baim cifrdioyvo', 'ivwn spiridyniv'}, {'ivwn spirodwnov', 'wboy wiprdaenvo', 'ipnm sviirdnoof', 'ipwn sphirdnoov'}, {'ivmy sbirwdoonv', 'ivnn spirydanov', 'iwpm sipridwyvo', 'huvm yiprdiinwo'}, {'iibn sipridnhov', 'uyny ciprhotnvo', 'iypm shpredanvo', 'ivnn spirodoonv'}, {'iopn spiriodnwp', 'ifem sphrdiowvo', 'ifan spirdionuv', 'vnii wiprdiunvo'}, {'whna yifrdiinvo', 'iafm shprdionvo', 'ivnn spiridnouv', 'ivmo spiradnoop'}, {'fiiy cwprdioyvo', 'iafm sipritoyvo', 'ifbn spriidowop', 'ivyn sporidonyv'}, {'ivvn spwrudonuv', 'ifme sipritohvo', 'ivbm spiriodywv', 'wyey xipryiunvo'}, {'ivyn spirwdonav', 'ibma siprodoonw', 'eavy kiprdianve', 'ibpn sipritowov'}, {'ippm sipriodmva', 'ipbn sfyridoonv', 'apum jiproodnvo', 'ivwn spirduonuv'}, {'ivnn spirudonvo', 'wwyy wipruodnvo', 'iphm siprhdnooh', 'iben sfirdionhv'}, {'uhni cipyuodnvo', 'iwpn sbiridnoop', 'ivnn spiridonyv', 'ifhm sipraodwov'}, {'ivyn spiridynof', 'ibun sfirdionhv', 'opiy wiprdaenvo', 'iepm spiirduwvo'}, {'ivmw sfhridonvo', 'ipym sviirdnooy', 'ifan spirdiinov', 'wwwa kiwrdianvo'}, {'hwem cipyiodyvo', 'iepn spiriodnwy', 'ibnu sviroodnvo', 'ivyn spiridonvu'}, {'ivwn spiridynyv', 'ynia khprdianvo', 'ipam spiridhhvo', 'ibnm siprwdohvo'}, {'ippn spriidymov', 'ifbm siprdiomyv', 'vhwh cipyaodnvo', 'ivyn spyridonvo'}, {'viyh hiprdiowvo', 'ibmn spuriodnoy', 'ivnn spriidanov', 'ipem svriidnoow'}, {'abnu kiprdihnvo', 'ipme siproodnhv', 'ivnn spraidonov', 'ivnh sferidoonv'}, {'hweh wiprdiynvo', 'ivym spyridohvo', 'ivwn spiriodnof', 'ipma sphrdiinvo'}, {'iypn sbriidonhv', 'ibum sbriidoonp', 'vyiw xiprdiunyo', 'ivnn spiridaonv'}, {'wiew xiproodnyo', 'ivyn spiroodnov', 'iebm sipriodhva', 'ivfm spuriodnoy'}, {'yona xiproodnbo', 'ivwn spiridnoev', 'iubm siprdiwyov', 'ivnm spyrwodnov'}, {'ivwn spiridienv', 'ipam spriidoniw', 'wpew yaprdiinvo', 'ipmh sipridhyvo'}, {'uavh xipwoodnvo', 'ivyn spirdionav', 'ifvm siprudowvo', 'ibin spirdiowof'}, {'iobn spwridnoop', 'ipnu sipridwmvo', 'ivvn spiirdonuv', 'apna ciprdiuyvo'}, {'ivwn sporiodnov', 'iivn spirdiinhv', 'ifom siprdiinhv', 'fiuy ziproodnyo'}, {'ivmu spiraodnob', 'ifan spyrodonof', 'iyfm siprdwoonv', 'vyiw yiprdiinvy'}, {'ivmy svyridnoov', 'wbwm kiprdiomvo', 'ibnh sipriodnba', 'ivyn spwridoonv'}, {'pnia kiprhianvo', 'iubn spyrwodnov', 'ivnn speriodnov', 'ibno sipraodnoy'}, {'iepn sfiirdonev', 'eywm qiproodnvo', 'ivyn sipirdonov', 'iobm siprhdoyvo'}, {'ibmy spriiduwvo', 'ivvm sviridnoob', 'vnio yyprdiinvo', 'ivyn spiridounv'}, {'iabn sipradonop', 'ypna ziyroodnvo', 'ivyn spyridonwf', 'ifom svordionvo'}, {'ifnh sipridayvo', 'ibhn sipridwmov', 'ivvn speirdonav', 'vyoh cipyiodnve'}, {'ippm siproodmov', 'oyim cipyiodnbo', 'ifmn spirdiomhv', 'ivvn spyridwnof'}, {'ifbn spiraodnoy', 'ibne sipriodyva', 'veyw cipyiodnvy', 'ifan sparidnoov'}, {'ibhn speridoonp', 'ifvm sfiirdnoop', 'ivvn sparydynov', 'yfma ciprdiuyvo'}, {'ivwn spuridynov', 'eyny zfyrdianvo', 'iybn sbirodoonv', 'iffm sipredanvh'}, {'iovm siprdiynhv', 'ivyn spirudoonv', 'ibvn spirdioyvo', 'aywm yiprdiomvo'}, {'ivyn spiridoinv', 'wboy hipraodnvo', 'ifmn sbriidenov', 'iovm siprtionvo'}, {'ifan spirydynov', 'ifmw spriiduyvo', 'hfna yyprdiinvo', 'ipun spyridowvo'}, {'voiy cipyiodnvu', 'ihbn sfiridhnvo', 'ibmy spriidwmvo', 'ifan sperydynov'}, {'ibwn spiirdonew', 'ipem siprdioyhv', 'ivvn speridonvo', 'yfna ziwroodnvo'}, {'ipmm sifriodnvo', 'huna kiprdiawvo', 'ivmh sbiridhnvo', 'ifan spiridwniv'}, {'ivwn spriidunov', 'epna cipyiodmvo', 'ihbm sbriitoonv', 'ipvn sfiridnoop'}, {'ihbn spriidynoy', 'iyfm siprydnoow', 'ivnn sipridonev', 'yioh kipreodnvo'}, {'ivnn spyridonof', 'ibmo siprwdhnvo', 'ivmu sibridoonv', 'aavh kiprdiynvo'}, {'ahim cipyiwdnvo', 'ivyn spyridoniv', 'ipni siprydnoop', 'ipin sphridwnvo'}, {'ifmm sbiirdoonp', 'ivnn siprydonov', 'vwwm hipreodnvo', 'ifvn sbirdioyov'}, {'ipvn sibridnoov', 'ifan spraidonov', 'ibme siprdinoob', 'abnh cipyiownvo'}, {'ypna qiprdiwnvo', 'ibin spiirdowwv', 'iafm svirdioyvo', 'ifan spiritinov'}, {'yavw jiprdihnvo', 'iyfm spiirdhyvo', 'ibpn siprdionhv', 'ifan spyritonov'}, {'wapm gipraodnvo', 'ivnn spirydonwv', 'ipon spiryodnwv', 'ifhm svriidnooy'}, {'ibwm sipredanbo', 'ifan spyridonwf', 'ivhm spyridowvo', 'veyy xiproodyvo'}, {'vueh icpraodnvo', 'ivnn sporidynov', 'ipyn spiraodnow', 'ipme sfiirdoyvo'}, {'iubm siprdwonvo', 'hwyy ziphiodnvo', 'ivvn spiridwnwv', 'ivmi sviradnoov'}, {'viwh cifrdioyvo', 'ipwm sperdioyvo', 'iypn spriidhnyv', 'ivyn sporwdonyv'}, {'uyim cwpyiodnvo', 'iwbn svyridnoov', 'ipno sviirdnoow', 'ivwn spyrudonof'}, {'owno qiprdiohvo', 'ivvn spiridwnof', 'ipnw spordiowvo', 'iibn spyriodyov'}, {'iwvm sipreodhov', 'vwia cibraodnvo', 'ivyn spiriodniv', 'ipam svhridonvo'}, {'iafm sbiirdoonp', 'ivnn sparidionv', 'hyim kiprdiamvo', 'ibyn spriidynow'}, {'ivnn spiraodnov', 'iubn spriidonhb', 'wpnu jipraodnvo', 'ibmu sipredanho'}, {'ipny siprdioomv', 'aahw kipruodnvo', 'ivnn sparidonof', 'ipun spirwodnav'}, {'ibym sbiraodnvo', 'ivyn spiradynov', 'wwyw yiprtiinvo', 'ivvm spwridnoop'}, {'ibny sipriodnww', 'ivwn spurdionov', 'wphh qiproodnvo', 'ipon spuriodnoy'}, {'ivhm spiritowvo', 'ivwn spiirdonyv', 'eywm cipywodnvo', 'iubm siprideyvo'}, {'ibym svriidynvo', 'ivyn spirideonv', 'oavm capraodnvo', 'ifhn svirwdnoov'}, {'ivwn spiriodniv', 'ibyn spirdiohyv', 'hyha qipryodnvo', 'ifmm sviirdanvo'}, {'ivpm spiroodnow', 'ibnu sibriodnvo', 'ivvn sipridonuv', 'ybiy qiprdiomvo'}, {'hhww cipyiodwvo', 'iypn sipridnhov', 'ifmy sipriodwwv', 'ivwn spirwdnoyv'}, {'ivnn spyridinof', 'ihpm sipraodnow', 'ibun spriidinow', 'hweh jipruodnvo'}, {'iifm sbireodnvo', 'ivnn spiriodnof', 'hiyy cipyiudnvo', 'iepn spirdiomyv'}, {'hhiw hiprwodnvo', 'ifan sipridonev', 'ipmn spriidoniw', 'ipum siprdionyw'}, {'bioh giprdihnif', 'ivvn sporwdonyv', 'iopn sberidoonv', 'ipvm sfyrdionvo'}, {'ewym xipwoodnvo', 'ivhm spiroodnow', 'ibwm sipridywvo', 'ivyn spirwdionv'}, {'ifan speridonof', 'iyfm svordionvo', 'ibhn spirdionhh', 'fiyy yiprdyinvo'}, {'iphm spriidhhvo', 'hbuh xiprdyunvo', 'ivvn spiridynov', 'iwpn svyridonvo'}, {'ifbn sfiraodnov', 'ibmi sipridiwvo', 'havh xiprdyunvo', 'ivvn spirdihnov'}, {'ivwn spirwdanyv', 'iwfm spiirtoyvo', 'ifbn svhridnoov', 'vieh cipyiodnvy'}, {'ifmo sipriodhwv', 'hiyy yeprdiinvo', 'iipn spiroodmov', 'ivvn spiridiynv'}, {'ihpn spirdionhp', 'ivnn spiritonuv', 'ahom yiprduinvo', 'iifm sipradowvo'}, {'ohim cwprdioyvo', 'ipfm spurdioyvo', 'ibwn spiritohvo', 'ivyn sparidynov'}, {'ivnn spirydonyv', 'ivwm spiradoyvo', 'yavw ciprdiwyvo', 'ihfm spuryodnvo'}, {'biym cipyeodnvo', 'ifom siprwdnoob', 'ivmo spirdiinhv', 'ivnn speridonva'}, {'wphm cifraodnvo', 'iybn spiirdowev', 'ivnn spyrudonof', 'iovm sfriidnoop'}, {'biym ciprdioyva', 'ipnh spriitomvo', 'ivnn sperwdonav', 'ibon spyrdionhv'}, {'ibmi sipraodnow', 'ahew kaprdianvo', 'ifan spirdinoov', 'ibbn spyridoyvo'}, {'ipam spriidynoy', 'yyna qiprdiynvo', 'ivyn spiridwnov', 'ifnh svurwodnvo'}, {'ibpn spirdinoop', 'ohhw yiprwiinvo', 'ivyn sperydonav', 'ifbm sphrdiunvo'}, {'iupm sipryodnva', 'ivwn spiridnoev', 'oynw cwpraodnvo', 'iybn sipridyoov'}, {'ipvn sipriduwov', 'ibno siprodhnvo', 'ifan spirodonof', 'vwwm kiprdiomvo'}, {'iifn sbiradoonv', 'ivvn spiriodnuv', 'iofm sipradomvo', 'hbih cihraodnvo'}, {'ivvn spirudynov', 'wwno kipwiodnvo', 'ifom svyriodnvo', 'ibin spuriodnhv'}, {'iabn sipridoniw', 'ibna siproodnow', 'ivyn speridynav', 'ayww qiprdihnif'}, {'ipom sphruodnvo', 'ipon spiirdowev', 'ifan spirdianov', 'awna xiyrdiunvo'}, {'ivvn spirwdoonv', 'ibma spyryodnvo', 'ibhn svirdionyv', 'ohhw ciprdioyve'}, {'ivvn spiridonfo', 'iybn sbirydoonv', 'yfya xipwoodnvo', 'iafm sipriodnhw'}, {'vwia kiprdianfo', 'iffm spiirdhwvo', 'ivyn sparidwnov', 'iipn spirodhnvo'}, {'ivnn sporidonev', 'ifme spriithnvo', 'biom ciyraodnvo', 'ifvn spuriodnoy'}, {'ivvn speridoonv', 'ibam sfriidonop', 'ywew ciprdiuyvo', 'iavm spiirdhhvo'}, {'ivnn spiredoonv', 'ibnu sbriidoonp', 'iipn spyridowvo', 'ewno cipraodwvo'}, {'ivvn speridoanv', 'iuvm siprwodnva', 'ivmo sphrhdonvo', 'voih ciprtioyvo'}, {'ivyn spirwdonev', 'iifn spiridhhvo', 'ihbm sphruodnvo', 'vnya zifroodnvo'}, {'ihpm svriidoyvo', 'ivhm spirwdnoop', 'ivnn spreidonov', 'hpna xiproodnpo'}, {'iapn spriidiyov', 'fiuy wipreodnvo', 'iovm sipriodnhw', 'ivvn spirdionev'}, {'vhyw jiprdiinvo', 'ivyn spirwdenov', 'ivmi spiroodnop', 'ipvm sipriodyav'}, {'ifan spiridownv', 'ibim sipraodnow', 'hwyy izproodnvo', 'ivym sbiirdenov'}, {'iypn sberidoonv', 'iipm sipriodyva', 'ivwn spyridoonv', 'wwna ciprdieyyv'}, {'hbwh zihroodnvo', 'ivyn spiridonva', 'ipfn spirdienoh', 'iafm sipraodhov'}, {'ifbm siprdionyb', 'ipnn sfiridoyvo', 'hpyy cipyiodnfo', 'ivwn spuridionv'}, {'ibum sphroodnvo', 'ivyn spwriodnov', 'ipam spriidinow', 'wiym cwprdioyvo'}, {'vnii cipyiodnva', 'ifpn sbyriodnov', 'ivwn spyridenof', 'iapm siprdionhh'}, {'ivwn spiritoniv', 'ubna ziphoodnvo', 'ivvm spriidohhv', 'iebm siprudnooy'}, {'ivwn spiritonyv', 'iyvm siprdiomvo', 'iibn spyridhnvo', 'hwym ixproodnvo'}, {'ivnn spiridwnyv', 'ifpm sphrdiunvo', 'ahem cipyihdnvo', 'ibon svyriodnov'}, {'yfey xiproownvo', 'ivyn spirudynuv', 'ibon svirdionhv', 'iobm siprdionww'}, {'ahim xipydiunvo', 'ibhn spuriodnhv', 'iepm sipridayvo', 'ivvn sporidonvo'}, {'vhih ziproohnvo', 'ipam sbriidinov', 'ifan spriudonov', 'ipme sipriodmvo'}, {'ifan spirdioniv', 'ibfn spiriodwwv', 'ipmh siprdianhv', 'havw giprdiynvo'}, {'ivbm spwridnoop', 'ifan spirdioonv', 'ipmw spordiomvo', 'ahhw xivrdiunvo'}, {'wayy ciprdienyp', 'ibmn sfyrdionov', 'ivvn spirwdanyv', 'iovm siprhdnooy'}, {'ibmi spiirtoyvo', 'hweh cipyioynvo', 'ifmn sbiridoony', 'ifan spirudonvo'}, {'ipem siprydohvo', 'iben sviridynvo', 'yavm kiprdwanvo', 'ifan spiridinev'}, {'ivvn sperydynov', 'ivmy sipridyoov', 'vyia yiprdhinvo', 'ibmo sbriidoonb'}, {'ivmo spriidinop', 'ibny svordionvo', 'ifan spiridoanv', 'ybyy yiproodnvo'}, {'ifan spiriotnov', 'ipny sipredanwo', 'abma cipwdioyvo', 'ivmo sipridmoov'}, {'ivmm svirudoonv', 'ifma svurdionvo', 'awym icpraodnvo', 'ivnn sypridonov'}, {'iifm sfurwodnvo', 'ipam spyrhodnov', 'vniw xiphiodnvo', 'ivyn spiridenwv'}, {'wfna kiprtianvo', 'ifvn spiroodhov', 'ivyn spiritonof', 'ibom sipridimvo'}, {'ipen sibridnoov', 'abni kipydianvo', 'ivwn spyridonef', 'ibmu siprdyoonv'}, {'ivnh sipridonwo', 'ibme spriidimvo', 'upum wiprdioyvo', 'ifan spiridynuv'}, {'ivnn spuriodnov', 'ohhy hiprwodnvo', 'ipme sipriodhva', 'ibyn sbiirdoonv'}, {'ifpm siprydnoob', 'ivma spriidoyop', 'ifan spiridanwv', 'upum cipyiodnva'}, {'ifpn sphirdoonv', 'ipma spurdioyvo', 'hwyy yiprdiinvw', 'ivwn siprodonov'}, {'vnie kiprdiunvo', 'iepm sipridahvo', 'iabn sbriidynov', 'ivnn spiirdoniv'}, {'epum ciprdioyyo', 'iepn speridoyvo', 'ifan spwridonav', 'ipfm sphrhodnvo'}, {'ivmh svriidinov', 'havm kiwrdianvo', 'ivnn spirudnouv', 'iepm siproodnop'}, {'ivvn spirudonev', 'ibin sbriidonhv', 'oahw kiphdianvo', 'iibm siprdionww'}, {'iapm sipriodyav', 'ifhn sbiirdenov', 'epew yibrdiinvo', 'ivnn sparidonyv'}, {'hpew ciprdienyh', 'ivvn spyridwnov', 'iibn spriidwnop', 'ifmw spardioyvo'}, {'biim kiprdiayvo', 'ivwn spyridonef', 'ibmh sphrdiohvo', 'ifam spyridoyvo'}, {'ibwn spriidynow', 'ivwn sapridonov', 'ibmu spurwodnvo', 'ywym xipryiunvo'}, {'ivvn sopridonov', 'bnia zipraodhav', 'ivme spuriodnoy', 'ipim siprhodnav'}, {'ipvn spirdinoop', 'abne ciprdiowvo', 'ivnn spriidanov', 'ifmm sboriodnvo'}, {'iebm spurdiimuv', 'huna kiprdeanvo', 'ivyn spyridoonv', 'ivmy sbiridhnvo'}, {'wyna qiprhodnvo', 'ivmm spyrdiohov', 'ifan spirdionuv', 'iwbm sfiirdnoop'}, {'ibme siprdienob', 'ivvn spirdianov', 'oavy yiwrdiinvo', 'ifpn spriidonap'}, {'ibfn spriidomyv', 'ibmm spriitohvo', 'oavw ciprdioyvo', 'ivwn spiirodnov'}, {'vwha coprdioyvo', 'ivyn spiridienv', 'ibum spiirdayvo', 'ippn spiriodnwb'}, {'wbom hiprdiowvo', 'ivnn spiridanyv', 'ipum sbordionvo', 'ivwm spriitowov'}, {'iapm sipridhmvo', 'ifan spiritanov', 'ifam spirodnoow', 'vuha wipreodnvo'}, {'ivvn spyridonuf', 'ivmo spiirdoyvo', 'ohhm wiprdihnif', 'ipnw sbriidoony'}, {'ivvn spiridunwv', 'iifn spuridoyvo', 'bioh jiprdiinvo', 'iphm spyrdioyvo'}, {'ivnn spuridonwv', 'ihpm sviirdnoow', 'wavh cipyiodnve', 'ibin sviriodnwv'}, {'iwbn spiriodwof', 'ibfm siprdinoop', 'aywh yiprdiinbo', 'ivvn spirudonvu'}, {'ifan spireodnov', 'ifom spuryodnvo', 'havw xiproownvo', 'ivpm spirtionvo'}, {'iebn sviridhnvo', 'iwbm sipruodhov', 'ohiy kiprdioyvo', 'ivvn spiriednov'}, {'viuy jiprwodnvo', 'ivyn spirudynov', 'ipnn sparidhnvo', 'ipom sbriidoonh'}, {'ivnn spirudonev', 'iupm sfhriodnvo', 'ibun svriidonhv', 'bioh ciprdiuyvo'}, {'iobm sipriodnwp', 'iopn sipridwmov', 'ayny zipraodnay', 'ivyn sporidonyv'}, {'iafm sipriodnhf', 'wbww wipruodnvo', 'ivmy sbiridnoop', 'ivyn speridonof'}, {'uovm xiprdhunvo', 'ifhn spiridhwvo', 'ifan spiredoonv', 'iyvm sivriodnvo'}, {'ibvn sfyridnoov', 'voyy qiprdienvo', 'ivvn spyridwnof', 'ifmi sipriodmav'}, {'ifum spriidhhvo', 'fioh yifrdiinvo', 'ifhn spriidowof', 'ivnn spiridnuov'}, {'ivwn spiridienv', 'ipin spiriodwof', 'aiby yibrdiinvo', 'ibhm siprdionvh'}, {'iivn sphritonvo', 'ibny sipriodmhv', 'ivwn sipridonyv', 'oavh wiprdihnvo'}, {'ivwn spirdiunov', 'ivmy spyrhdonvo', 'iopm siprudnooh', 'wayy gipreodnvo'}, {'oavm ziproodnho', 'ibmh sfriitonvo', 'ivyn speridonaf', 'ivbm sipredonoy'}, {'hiyy yiprdiinvi', 'ipen sphirdnoov', 'ipmo siprdionyb', 'ifan spiridnoav'}, {'ippn svuriodnov', 'viih xiprdyunvo', 'ifan sipredonov', 'iufm siprudnoow'}, {'aovm ziprdioyvo', 'ivvn spiridwnvo', 'ibvm siprdionhf', 'ivmo spriidonyy'}, {'abwh ciprdioyvy', 'ivmm spiritnoow', 'ivvn spirydonwv', 'ifmo sfurdionvo'}, {'iobm siprtionvo', 'ivhm sphridenvo', 'ivwn spiridoinv', 'wwew cipyeodnvo'}, {'ivwn spiirdonwv', 'iebm siprydnoob', 'aavm yyprdiinvo', 'ivpm sipridnooy'}, {'hwna ciprdiewyv', 'ivfm sviridnooy', 'ivnn spiridanvo', 'ifnh sburiodnvo'}, {'bihm ixproodnvo', 'ivfm sbiridhnvo', 'ifan spirdoinov', 'ipnh sboriodnvo'}, {'ipnn sbiraodnov', 'ivyn spiridnoyv', 'yavm yiprdiinwo', 'ifmw sfiroodnvo'}, {'ivvn spirwdonuv', 'hyny kiprdaanvo', 'iivn spirwodnyv', 'ipfm sviirdhnvo'}, {'ivyn spiridinyv', 'ihvm sifriodnvo', 'iopn spirdionwo', 'wbhy cipyiodhvo'}, {'ivnn siprudonov', 'viem cupraodnvo', 'ipme siprudnooy', 'iibn sviirdonev'}, {'abnh cipyiotnvo', 'ivyn spirudnouv', 'ipmo siprdiwnhv', 'ivmo spriidynoh'}, {'ifan spiridoonf', 'ifmn sviroodnov', 'opna kiprdianfo', 'ipnm sbiirdoonp'}, {'ifan spiritoniv', 'wyya hiprwodnvo', 'iofm siprdinoow', 'ivbm spriidnoop'}, {'ahma kiprdiwnvo', 'ivwm sviraodnov', 'ibny sipriodnwo', 'ivvn spirydionv'}, {'ahum yipwiodnvo', 'ivnn spirutonuv', 'ivfm spirdioyhv', 'ipmm sviirdanvo'}, {'iypn sipridmoov', 'ifmu siprhdnoof', 'ivwn spiridynev', 'wiym xiprdiohvo'}, {'hweh xiprdioyvo', 'ivmy spirtionvo', 'ivyn spairdonov', 'ihvm sipradoyvo'}, {'ivnn sepridonav', 'ihbm siprodnoob', 'ifmn spriidanhv', 'huvm yyprdiinvo'}, {'ipbm sipriodnwy', 'ibhn spriidonhp', 'ivnn spiridianv', 'wyim kyprdianvo'}, {'ivwn sporidynov', 'ifme sipridywvo', 'apoy ziproodnpo', 'ivmo spirodnoop'}, {'ivpm spriidonwo', 'ivnn sporwdonov', 'ayim cipyiownvo', 'ibna sipredahvo'}, {'ivnm sbiroodnov', 'ivvn spiurdonov', 'ipno sipridwwvo', 'ahom zipwiodnvo'}, {'ipyn spiirdonhf', 'ivvn spriiodnov', 'ahim kiprdienvo', 'ihfm siproodnow'}, {'abnh ciprdioyvw', 'ibpn sipridoniw', 'ifhm sbriidoonh', 'ivvn spirydenov'}, {'ivyn spyridonyf', 'ifhn sfyridoonv', 'ipfm sviirdnoob', 'eaby kiprdeanvo'}, {'ifan spirednoov', 'ibfm sfiraodnvo', 'ibyn svirodnoov', 'wpum cipyeodnvo'}, {'ifan spiridnoyv', 'ihvm sipridymvo', 'biim yiprwodnvo', 'ivmu spirdioyhv'}, {'ihfm sbriidoonb', 'hovm ciprdienyb', 'ivwn spwridanov', 'ivma spriidiyov'}, {'ibon spirdionyp', 'ivyn spiridienv', 'ibmh sipriodnaw', 'uhya ziprdiomvo'}, {'ipmn sipridnoob', 'veyy cipyiownvo', 'ivnn spirideonv', 'ibnu shprdionvo'}, {'ifan spiritonyv', 'ibmh sphreodnvo', 'wwno ziproodyvo', 'ipun svriidinov'}, {'ivme spiriodnwb', 'hwne xiproodwvo', 'iupm siprudnoob', 'ifan spirwdionv'}, {'ivwn spriidanov', 'ippm spordiowvo', 'ypew ciprdiomvo', 'iypn spirdinoop'}, {'hwey hiprdaenvo', 'ifmw siprhdnooh', 'ivvn spiirdoniv', 'ivwm spirdionhh'}, {'hyny cipyhodnvo', 'ibpn spyriodyov', 'ivvn spriidynov', 'iipm sipreodyov'}, {'ifmu sburiodnvo', 'ivnn spiridonve', 'iben spurwodnov', 'abni qiproodnvo'}, {'ivvn sipredonov', 'ohhh yiprdiohvo', 'ifim spriitomvo', 'iubn spirodnoop'}, {'ivnn spyrwdonyv', 'ipnm sburdionvo', 'ayny yiprdwinvo', 'ivmi spirdiowyv'}, {'ivvn spirwdonuv', 'viim jiprdiinvo', 'ihbn sphrodonvo', 'ipmm svriidhnvo'}, {'ivnn spiridunof', 'ibna sbriidinvo', 'ybya cipyyodnvo', 'ibmn sipridnoop'}, {'ybwh ciprdioyvw', 'ipmo sipreodyov', 'ipnn svuridnoov', 'ivvn spiridynov'}, {'iypn spriidunop', 'ivnn spiredwnov', 'ipum sipredhnvo', 'bwna ziproodnyo'}, {'ifam spiruodhov', 'ifan spiridenvo', 'ihfm sbriidynvo', 'vnio xiprdioyvo'}, {'ivnn spiridinyv', 'ipmh siprhdanvo', 'vuyh hiprdiohvo', 'ibhn spriidhnyv'}, {'ybwh cipyiednvo', 'ivyn sperwdonav', 'iabm svhriodnvo', 'ibun spiryodnwv'}, {'ivmo spiraodnhv', 'viiw zipraodnap', 'ivvn spirudynuv', 'ihbm sipritnooh'}, {'ivnn spirwdunyv', 'ibyn spiirtonow', 'ibvm siprhdnoop', 'wpum cipraohnvo'}, {'ipen spiriodnwo', 'iybm siprhdnooy', 'habh yiprdiunvo', 'ifan spirdonouv'}, {'eavw kiprhianvo', 'iipn spirdiomhv', 'ivyn spirdionev', 'ifme sfyrdionvo'}, {'viwm xipretnoob', 'iyvm sbiirdnoop', 'iypn sipradonhv', 'ivvn spyridwnof'}, {'ipim sipredamvo', 'ifan spiritonyv', 'ivmw spriidonww', 'ypna gipryodnvo'}, {'hiyw chpraodnvo', 'ivnm sferidoonv', 'ipmi spriitohvo', 'ivvn spiridniov'}, {'ivym spiridhwvo', 'ivwn spirdianov', 'wyha yiprhiinvo', 'iyvm siprwdohvo'}, {'ifan spuridonvo', 'ivmu spiriodnwo', 'ewna kaprdianvo', 'ihbm siprdiemov'}, {'ifan spiridnouv', 'oyna xiproodwvo', 'ifpm svoriodnvo', 'iopn svriidonhv'}, {'ifpn spyrdionhv', 'iwpm siprdianhv', 'hyim xiprhodnvo', 'ivvn spiritynov'}, {'ivvn spirdienov', 'ifhn spriidunop', 'iebm sbiirdoony', 'yfyy xipretnoow'}, {'ifvn spiriodmhv', 'ifmu spriiduyvo', 'ifan spiridiunv', 'ahuw jiprwodnvo'}, {'ewna cipyiodnva', 'ipam sipriduwov', 'ivyn spiridwnuv', 'ibne siproodnob'}, {'ivyn spiridonif', 'ipwn sipradonhv', 'ibnh spuryodnvo', 'vnii yiprwiinvo'}, {'iepn sviridnoof', 'wavm civrdioyvo', 'ifan spwrdionov', 'ibem sboriodnvo'}, {'iopn spriidoyvo', 'ipnh sipridemvo', 'wahw kwprdianvo', 'ivvn spyradonov'}, {'iivn sparidnoop', 'ifan spyridonav', 'ihbm sphrdiunvo', 'epna cipyoodnvo'}, {'ivvn sparidonyv', 'ifpn spirdionhf', 'hfna ciprdiemyv', 'ipmw sibredanvo'}, {'ipen svoridnoov', 'upum yiprdaenvo', 'ipem spyrdioyvo', 'ivvn spiredionv'}, {'aihy cibraodnvo', 'ihfm sipreodnoy', 'ifan spiradynov', 'ivme siprdionhv'}, {'iepn spyriodnow', 'ifan siprydonov', 'ipne sipreodmov', 'piyy zipraodnah'}, {'ihfm sipreodhov', 'ivvm sphradonvo', 'vhoy yiprdiinpo', 'ivvn spiirdwnov'}, {'wpwa giprdienvo', 'ibmm sfiraodnvo', 'ivnn spwridonvo', 'iebn spiroodnoy'}, {'uhno kipwiodnvo', 'ivnn spirdonouv', 'ifbn sbiriodnwv', 'ipna sbyrdionvo'}, {'ipnh sipreodyov', 'ifvn sbiradoonv', 'ivwn spiridneov', 'viwy xipryodnvo'}, {'iyvm sfirdioyvo', 'ivvn spirodonev', 'wabm wipyiodnvo', 'ibpn spiridhyvo'}, {'ifan spiridoonf', 'iubn spirdioyyv', 'ipem svriidoonp', 'bwna yiprdienvo'}, {'ivvn spiridenvo', 'iipn svirudoonv', 'apna zivroodnvo', 'iubm sipridiwvo'}, {'ifnm sipriodnpo', 'wbwa xipwdiunvo', 'ipam spirodnoow', 'ivwn spyridanov'}, {'abwh wiprhodnvo', 'iibn spiraodhov', 'ivwn spiridonvw', 'iybm sipriodwof'}, {'ibna sfiirdnoop', 'iabn svoridnoov', 'ivvn spiritinov', 'ybna chprdioyvo'}, {'ivmi spriidowwv', 'wbiy xiprooynvo', 'ivnn spyrdionov', 'iivm sbriidoyvo'}, {'wfna hiproodnvo', 'ipfm siprydoyvo', 'iypn sbiridoonw', 'ivwn spiirdynov'}, {'ivvm spriidonhy', 'ivnn spiritonvo', 'ayna khprdianvo', 'ifvm sipriodywv'}, {'iefm siprwodnyv', 'ifbn sbiriodyov', 'ivvn spwridunov', 'hena ziprdioyvo'}, {'iopn spuriodmov', 'ivwn spyrydynov', 'ahna kiprdiinvo', 'iepm sphraodnvo'}, {'ifan spirdihnov', 'iebn spirdionww', 'ibnw siprdonvwo', 'ayha kiprdianyo'}, {'ivnn spyrudonov', 'ybhy zifroodnvo', 'ippn spiridayvo', 'ibbm sipridayvo'}, {'ifbn speridoonb', 'ivyn spirutonuv', 'viem hipryodnvo', 'ibny sbriidoonb'}, {'ivyn spiridynav', 'abno ciprhotnvo', 'iifn spiritoonw', 'ipmw svirdiynvo'}, {'ivnn spwridonav', 'iben spiritowvo', 'uavw zipraodyav', 'ibmm sipryodnva'}, {'ivvn spardionov', 'ipym spriidymvo', 'ibin spriidonhw', 'uavm zpywdianvo'}, {'ivme spyriodnob', 'ipnw siprdinoop', 'viiy xiproodmvo', 'ivnn sparwdonov'}, {'ibpn sbyridonvo', 'ivvn speritonav', 'vnua qiprdiomvo', 'ifmw svirdiynvo'}, {'yiim hiprdiynvo', 'ifmn sphridinvo', 'ibmw spriitoonw', 'ivnn spiroidnov'}, {'waby yiprdiwnvo', 'ibmw spiirtohvo', 'ivnh sperdionhv', 'ivyn spiridonaf'}, {'iavm siprdionyp', 'ivym sipridmoov', 'huvm xipretnoop', 'ivyn spiirdonuv'}, {'iypn sviritonvo', 'ivnn sparidwnov', 'ybyy cipyiohnvo', 'ipmu sfirdioyvo'}, {'wwym cipyiodnbo', 'ifpm siprwodnav', 'ivmw spiridhhvo', 'ivnn sipridenov'}, {'wyna cupraodnvo', 'ifwm siprdiohyv', 'ibam sphridunvo', 'ivnn spreidonov'}, {'ipny siprdienob', 'ippn sphridanvo', 'hwym kipyiodnvo', 'ivwn spirydanov'}, {'ifmw sbriidinvo', 'ivfm spiriodnww', 'ivnn spyridonwv', 'viim zipraodhav'}, {'ipen spriidynob', 'iufm sipritnooy', 'pwna kiprdianfo', 'ivyn spiridenev'}, {'iobm siprdiwyov', 'vwia ciprdioyvu', 'ivnn spirwdunov', 'iipn spirednooy'}, {'ivvn spiirdynov', 'wwwa kiprdiohvo', 'ipbn spriidiyov', 'iuvm siprednooh'}, {'ipvn spirtionvo', 'ivyn spriidoniv', 'ohhw qiprdiowvo', 'ipno sviroodnvo'}, {'ipma svriidanvo', 'ivfm sveridoonv', 'ivvn spriedonov', 'vnia cibyiodnvo'}, {'ifan spiirdonyv', 'iupn spirdioniw', 'ibny spardioyvo', 'wyhy zipwiodnvo'}, {'wwwa cipyiodnvu', 'ifmn sphrdionvo', 'ifan sipridwnov', 'iobm sipriodnwp'}, {'ipny sipriodwvo', 'apna ciprdieyyv', 'iubn spriidonhp', 'ivvn spriedonov'}, {'ifan spriidonuv', 'ivpm sviirdonev', 'yyim cupraodnvo', 'ipwm svriidnooh'}, {'ivnn spyridonev', 'opew cipraodnyo', 'iipn sphirdnoov', 'ipme sphrdienvo'}, {'ivvn spyridinof', 'ivvm svriidonop', 'ipny spriitoonw', 'opum yiprdiinbo'}, {'ifvm sbriidoonb', 'ivmh spirdinoop', 'eabw ciprdioywo', 'ifan spiredonyv'}, {'iivn svirdinoov', 'ebwh ciprdieyyv', 'ivyn spiridnoev', 'ipym siprdwonvo'}, {'iopn sbyridonvo', 'iybm sipredhnvo', 'ifan spyritonov', 'fiiy yiprdiimvo'}, {'ifym sfriidynvo', 'ipvn spirdionhf', 'ivyn sprihdonov', 'eabm yiyrdiinvo'}, {'ibnu sipreodnhv', 'ihbn speridhnvo', 'hnia jipryodnvo', 'ifan spirwdonof'}, {'ayim cipyiydnvo', 'ibhn sphradonvo', 'ivnn sipridanov', 'ipmy siprhdanvo'}, {'ibmy spriidhyvo', 'uhnu ciphaodnvo', 'ivmi spriitowov', 'ivwn spyridynov'}, {'ipmm sviirtonvo', 'ivnn spiridnoev', 'vuih yivrdiinvo', 'iivn svriidonop'}, {'ifim spyrwodnvo', 'ivnn sporydonov', 'iwpn sphradonvo', 'uhwa qipwiodnvo'}, {'ibim svriidnoof', 'vwwy giprdiunvo', 'ibpn sbirdionhv', 'ifan spirwdnoyv'}, {'ivmh svirdianov', 'ivvn sparwdonyv', 'ipym sbriidoonf', 'vwwh giprdihnif'}, {'wwyw cipyiodnve', 'ivnn spirodionv', 'iybn sfhridonvo', 'ifum sipreodnop'}, {'ibom siprudowvo', 'hnia kiprdianva', 'ippn spriidyyov', 'ifan sporidonyv'}, {'ivyn spuridnoov', 'ipfn sviridnoof', 'uyny kiprdwanvo', 'iphm siprdinoow'}, {'ipme sbriidoonp', 'wbum ciyrdioyvo', 'ivbm sperhdoonv', 'ivyn spiredoonv'}, {'iwpn sfiroodnov', 'ivyn spiridonev', 'iubm spiirdhwvo', 'oyny yiprwiinvo'}, {'ipin spriidoyhv', 'ifan spiritoniv', 'voiy zipraodnap', 'ifmh siprodoyvo'}, {'ipim siprdioony', 'ivyn sperydonov', 'yfna wipryodnvo', 'ivmu svirydnoov'}, {'awew xiprhodnvo', 'ivmw sphirdnoov', 'ifmu siprhtnoov', 'ivvn spurwdonov'}, {'ivnn spihrdonov', 'ihpn sipridwyov', 'wabm zipwoodnvo', 'iuvm siprdiomyv'}, {'hfyy cipyiednvo', 'ivnn spyridonof', 'ibin spriidonyy', 'ipvm siprudomvo'}, {'ivwn sperwdonov', 'vwoh xiprdiunho', 'ivmu spiriodwof', 'ibmy sfireodnvo'}, {'ibhn sbhridoonv', 'piyw ziproodmvo', 'iupm svordionvo', 'ivvn spiridyniv'}, {'ibne sbriidoonw', 'ivmw sipridnooy', 'owiy yiproodnvo', 'ivnn spiridanwv'}, {'ivmu spirdionhy', 'ivvn spirwdenyv', 'fiyw kipreodnvo', 'ibmh spurdiomvo'}, {'iibn sfiroodnov', 'ivnn spiridonva', 'wywa keprdianvo', 'ipma sipriodwof'}, {'ifan siprodonov', 'ifam spirdinoop', 'vwia kiprdiwnvo', 'ipna sviirdoyvo'}, {'ivwn spuridynov', 'ahwa zipraodnay', 'iben sipridnwov', 'iyfm siprdiewov'}, {'wbya yiprdiwnvo', 'ivbm sipridnhov', 'ifmy siproodnob', 'ivwn sopridonov'}, {'ivmm sphrodnoov', 'ivyn spirudwnuv', 'iabm siprydhnvo', 'vnio cipyeodnvo'}, {'vhwh yipruodnvo', 'ipin spiirdoyev', 'iwpm sipridawvo', 'ivnn spiirdanov'}, {'ivwn spirutonov', 'hiyw wipreodnvo', 'ifhm sipriodwwv', 'iifn spirithnvo'}, {'ibwm siprwodnwv', 'ivmu svirdionyv', 'ivwn sparitonov', 'vnya yiprdioyvo'}, {'ivnn spirwdunyv', 'ihpn svardionov', 'ifmw svriidhnvo', 'viwy ciprdioyyo'}, {'ipen spiridyyvo', 'hbha qiprdianvo', 'iavm siprdinooh', 'ivwn speridoonv'}, {'biyw xiprdiuyvo', 'iupn spiraodnoh', 'ivyn spriedonov', 'ifwm spriidymvo'}, {'ohhm qiprdioyvo', 'ivnn spiradionv', 'ibym siprodnoow', 'ivmu spriidynob'}, {'ivnn spriidonyv', 'ibno siprdinoob', 'obna cipwiodnvo', 'ivhm speridnoop'}, {'iopn sphridhnvo', 'ipno sbiirdhnvo', 'uhno ziproodnbo', 'ivyn spyritonof'}, {'ivnn spirudnouv', 'ibmw sipridymvo', 'uwna xifroodnvo', 'ivmo sphrdionvo'}, {'ahym xiproodwvo', 'ibbm siprdiwyov', 'ivhm svirdiynov', 'ivvn spwridionv'}, {'wfwa ciphiodnvo', 'iapn spirdiunhv', 'ivwn spriwdonyv', 'ibvm sfriidhnvo'}, {'aovm kiprdiinvo', 'ivvn spiriodnyv', 'ibin spyriodhov', 'iabm siprhdenvo'}, {'wayy qiprdihnvo', 'ihbm siprudhnvo', 'ivyn spirwdoniv', 'ipin spireodnoy'}, {'ivwn siprydonov', 'apew yiprdiunvo', 'ivmi sipridowof', 'ihfm siprdiohyv'}, {'ifan spiirdunov', 'ivhm spiirduwov', 'ibmy shpriodnvo', 'eabw giprdiunvo'}, {'wbww zhproodnvo', 'ibom siprdiohhv', 'ifam spriidonhy', 'ivwn spiridanev'}, {'iabn speridoonb', 'ivvn sporiodnov', 'wino yiprdwinvo', 'ibmi spriiduwvo'}, {'ahwa kiprdyanvo', 'ibun spiriodnwy', 'ifem sivredanvo', 'ivvn spirydenov'}, {'ifam spyridnoop', 'ibna siprdiomhv', 'ivnn spirduonov', 'owna ciprdiewyv'}, {'ipnh siprdioyyv', 'ivvn spiordonov', 'vnoa xiprdioyvo', 'ibmn spurwodnov'}, {'uwew xiprdwunvo', 'ivnn spriidonuv', 'iabn sperdionhv', 'iwpm siprdiwyov'}, {'ifmw sburdionvo', 'ipun sviridnoob', 'ivwn spiridohnv', 'yyha qiprdiinvo'}, {'ivnn spirydenov', 'ivmm spuriodnhv', 'pwna cipyoodnvo', 'ipmh sipredhnvo'}, {'ipna sipredanvh', 'havm xiproodnyo', 'ivwn speridwnov', 'ivym sviroodnov'}, {'ipmn sviirdnoov', 'ifmi siprdioniw', 'eavm ziphiodnvo', 'ivvn spyrudonof'}, {'ivwn sparidonyv', 'upna giproodnvo', 'iapn spirdiinhv', 'ipna spriitohvo'}, {'ivvn spiridoenv', 'ivhm sipridnoop', 'ipmu sipritohvo', 'vnea ciprdiemyv'}, {'yovm yiprdienvo', 'ifym shpriodnvo', 'ipon spriidywov', 'ivyn sparwdonov'}, {'ivnn spiraodnov', 'hbyh cibrdioyvo', 'ifvn sbiridoonw', 'ifmw sbiirdhnvo'}, {'ibmw sipriodwav', 'vwya ciprdiehyv', 'ivvn spwrudonov', 'ipfn spriidoonp'}, {'vwwh xiphiodnvo', 'ivvn speridwnav', 'ipmn sphradonvo', 'iafm spriidyhvo'}, {'ifan sporidonof', 'vnih chpraodnvo', 'ifbn sfriidonhv', 'ibma siprudowvo'}, {'iabn spiritomvo', 'ifim siprdiomyv', 'fiyy cipyioynvo', 'ivwn spirdionof'}, {'ayim ciprdioybo', 'ipyn siprodonow', 'ibnh sphruodnvo', 'ivvn spriidwnov'}, {'iwfm sipredanvh', 'ivyn spirytonov', 'hwum ciprdeoyvo', 'ibam spiirdomev'}, {'ivvn spiritonvo', 'ippm sfurwodnvo', 'wioh yyprdiinvo', 'ifvn spiridhhvo'}, {'ivvn spiridenvo', 'iebn spirodhnvo', 'wavw capyiodnvo', 'ibmy spriidyyvo'}, {'iafm spyrdiomvo', 'wapw cipyoodnvo', 'ibvn speridnoop', 'ivwn sipirdonov'}, {'ifim sipriodhva', 'ivvn spiredonyv', 'ybwy ziproodhvo', 'ipnn spriidynop'}, {'ivvn sporidonof', 'iapm siprdionyw', 'opna yaprdiinvo', 'ivym spriidinow'}, {'ifym siprhodnvo', 'vwma cipyiodnpo', 'ibwn spyrhdonvo', 'ivvn spyrydonof'}, {'ivym spriidohyv', 'ibvm spordiowvo', 'ifan spiridonve', 'bioh jiprdiowvo'}, {'ipmy sipraodnoh', 'ivmy sbiroodnov', 'ivyn spriidonyv', 'vieh cipyhodnvo'}, {'ipnh sipreodnop', 'ifan spyridoonv', 'iifn spiridwmvo', 'whno kaprdianvo'}, {'hahw qiprwodnvo', 'ivnh sparidnoop', 'ifmo sipriodwwv', 'ivyn speridynov'}, {'ivvn spirodnoov', 'ivmi sphirdoonv', 'ipmw siprdyonvo', 'hyna kipryianvo'}, {'yioh hiprhodnvo', 'ipvm sburdionvo', 'ifbn svirodnoov', 'ivnn spirydoonv'}, {'iwbm svriidynvo', 'vhih yiproodnvo', 'ivmm sphridomvo', 'ivnn spiriotnov'}, {'ipmm sphroodnvo', 'hyha yipreodnvo', 'ifan spwritonov', 'ipen sbriidynov'}, {'viem cipyiadnvo', 'ifme sviruodnvo', 'ifmn spriidyyov', 'ivwn sipridwnov'}, {'ivyn spiwrdonov', 'ivnm sbaridoonv', 'ipem svriidnoof', 'yyim qipruodnvo'}, {'ibim siprdiehov', 'viiw ciprdioyho', 'ipvn spriidinop', 'ivvn spiradonwv'}, {'ivmi spirdinoop', 'ifan sparwdonyv', 'ifmh sifriodnvo', 'wwyw cipyeodnvo'}, {'iybn spiritowvo', 'yiny yiprdhinvo', 'ibma spiirdwyvo', 'ivnn spirwtonyv'}, {'ibam sphrodonvo', 'ivnn spiridwnuv', 'ibbm sipriodnaw', 'ahma yiprdiimvo'}, {'ibmh siprdiomyv', 'wpnu kwprdianvo', 'ivvn spiridnohv', 'ipin sipridwmov'}, {'ibam spiraodnoh', 'ifan spirdinoov', 'ibnm sipritoyvo', 'uhny yiprdiomvo'}, {'ivyn spriidunov', 'ipbn sphrdionvo', 'viyw zhyrdianvo', 'iifm svriidnooh'}, {'ivvn spiridwniv', 'viyh gipruodnvo', 'ipne siprudowvo', 'ipnn sipridnooy'}, {'ipnn spirudohvo', 'ievm sipridwwvo', 'epna kipydianvo', 'ivnn spwrudonuv'}, {'ivvn spirydynov', 'abnu yiprdeinvo', 'ivmu spriidonhw', 'ifmo sibrdionvo'}, {'ivwn spirwdanov', 'ifmw siprhdinvo', 'vyyy yipydiinvo', 'ihbn spiridhhvo'}, {'ibpm siprydnoow', 'ohih wiprdihnif', 'ivnn spiridwnav', 'ivwm spiriodnwo'}, {'ivyn spiyrdonov', 'ivme svardionov', 'ipma sipridyhvo', 'viyy kiprdaenvo'}, {'ibnn sphrodnoov', 'ahwa cipyoodnvo', 'ipma sipredanvh', 'ifan spiredwnov'}, {'ifam spiriodwwv', 'opiy yiprdiunvo', 'ivvn spiridiunv', 'ibmo spriidyhvo'}, {'ifan spiirdwnov', 'ipny siprdiomyv', 'iybn spirdionwo', 'aihy xivrdiunvo'}, {'ifan spiirdonyv', 'pwna cipyiwdnvo', 'ivbm sfiritonvo', 'ibym siprwodnof'}, {'iapm sbriidoonw', 'ivvn spirudwnuv', 'ivmw speridoonb', 'wwwa zibroodnvo'}, {'ibom sfiraodnvo', 'yfna xifroodnvo', 'ivmo sipridowwv', 'ivwn spirydonwv'}, {'ifpn spiriodhwv', 'ahna cipyiodnyo', 'ivnn speridonev', 'iefm siproodhov'}, {'ifan spyritonof', 'ifmm sibredanvo', 'vihm xiproownvo', 'ivfm spriidynow'}, {'iabm sipridawvo', 'ipun sviridnoow', 'ifan spirodonyv', 'whwa cwpyiodnvo'}, {'ivnn spuridwnov', 'ypna giprdianvo', 'ivpm spwrdionhv', 'ipne siprodoyvo'}, {'iovm spurdioyvo', 'iepn spirodoonw', 'yfni ciwrdioyvo', 'ivwn speridynov'}, {'ifan spiridnovo', 'ihbn spiroodnow', 'owno yiprdihnif', 'ibno sbiirdoonf'}, {'ivmy sbiridoyvo', 'uyha kaprdianvo', 'ibpm sipriodwwv', 'ifan spiritnoov'}, {'ibem sipreodyov', 'fiyy xipydiunvo', 'ivnn spiridonof', 'ivym sipredonoy'}, {'hhwa yiwrdiinvo', 'ibyn speridoonw', 'ipum spwrdioyvo', 'ivyn spihrdonov'}, {'ipnw sphrdiinvo', 'ifan spiradonof', 'abwh kaprdianvo', 'ippn spiriodwof'}, {'ibmw spordiomvo', 'ivnn spirwdinov', 'iben spirhdoyvo', 'owna wipreodnvo'}, {'ibbn spirudohvo', 'ivnn spiridonof', 'ipnu siprdionyo', 'epna cipyiodnfo'}, {'ivnn spiyrdonov', 'ibna sviroodnvo', 'ifhn spyriodhov', 'afna yiprdiimvo'}, {'ibna sbirdioyvo', 'ipfn spriidonhw', 'ivwn spriidenov', 'wpew kipydianvo'}, {'ivnn spuirdonov', 'apoh gipyiodnvo', 'ifvm siprudnoob', 'iopn svwridnoov'}, {'ivme spriiduwov', 'ibme siprodnooy', 'ivvn spwridenov', 'uyha xibroodnvo'}, {'ifmh spyrdioyvo', 'yavw cipyiodnvu', 'ivma sbiraodnov', 'ivnn spyritonof'}, {'ibam spiroodnoh', 'iovm sipriodnwy', 'ivnn spiridaonv', 'voiy ciprduoyvo'}, {'ifmm sipridawvo', 'ivnn spiriwdnov', 'viuh icprdioyvo', 'ivwm sviridnoow'}, {'ivnn spirdiwnov', 'ibnw sipredoyvo', 'iipn spriidyyov', 'hwne ciprdioypo'}, {'iypn spiroodyov', 'ahuw gipruodnvo', 'ivyn spyrydonof', 'ibmm siproodnow'}, {'bwna zipraodnaw', 'ivyn spiritoniv', 'ifvm svriidnooy', 'ivmh sphrdiomov'}, {'ivyn spiridynwv', 'yfno ciprdhoyvo', 'ipni sbyrdionvo', 'iabn spriiodnhv'}, {'iwvm siprdioohv', 'ivwn spurydonov', 'vioh jiprdiynvo', 'ifvn spuriodnhv'}, {'ayny xhproodnvo', 'ivvn spiradonev', 'ibom siprodomvo', 'ivmu sphrdionvo'}, {'ihvm spriitoonw', 'ibbn spriitonop', 'opna qipryodnvo', 'ifan spyridenov'}, {'ybiy kiprdianyo', 'ibmy sipriodnaw', 'ivwn sipridynov', 'iben spiroodhov'}, {'ivma spirhtonvo', 'ibne sporyodnvo', 'ivnn spwridonwv', 'ypna xiprdhunvo'}, {'ivnn spiritonav', 'aywy yiprdaenvo', 'ivmw spriidhnvo', 'iffm sibredanvo'}, {'ivma spriitonop', 'ivwn spyridonov', 'ihvm sipradimav', 'ohni wiprdianvo'}, {'hfum giprdihnif', 'ifbn spriidwnhv', 'ivyn spiridnaov', 'ipum sipridwwvo'}, {'ibun spriitowov', 'ivnn spiyrdonov', 'ywna zpyhdianvo', 'ippm svyrdionvo'}, {'ifmn sipridoyvo', 'ivwn spirdionyv', 'iwfm sphruodnvo', 'vioy yiprdiihvo'}, {'ivyn spirdiynov', 'ivmm spriidhnhv', 'ibvm svurwodnvo', 'upum ziwroodnvo'}, {'iipm sipreodwov', 'ifvn spriidomop', 'ivwn spiridinvo', 'eyny wiprdienvo'}, {'ifnm siprdionyo', 'yiyy ciprdioywo', 'ivyn spirydonof', 'ivnm sphritonvo'}, {'ybyy cipyiydnvo', 'ifan spiridunwv', 'ivwm spriidinoh', 'ipnu sipriodnwb'}, {'ipbn spriidenop', 'ivnn spirwdwnov', 'ibym siprydowvo', 'vnya copyiodnvo'}, {'wwym cipyiodyvo', 'ibvn spiraodyov', 'ivwn spirwtonyv', 'ipnm sipriodnaw'}, {'aihm jiprdiwnvo', 'iuvm sipreodnop', 'ivyn spurwdonyv', 'ipvn sipridowwv'}, {'ihbn spuriodmov', 'ibfm sipreodyov', 'ivvn spiradoonv', 'vyyy cipyiwdnvo'}, {'ibmu sipridwmvo', 'yona xipwdiunvo', 'ibhn spirydnoop', 'ifan spiridionf'}, {'ivnh spwridnoop', 'aihw cuprdioyvo', 'iffm sphrhodnvo', 'ivyn spiridniov'}, {'ifan spyridinov', 'iebn spiirduwov', 'pium cipyoodnvo', 'ibvm sipridamvo'}, {'wbiy ziproodhvo', 'ivmm svriidonyv', 'ifan sepridonov', 'ifom sipridwhvo'}, {'ifnm sfyrdionvo', 'ebwh ciprdiohvo', 'ipmn spirdionyy', 'ifan spirudoonv'}, {'iwpm siprodhnvo', 'ybey wiprdiynvo', 'ivyn speridonev', 'ifvn spyriodhov'}, {'eywy yipydiinvo', 'ibyn spirednoop', 'iyvm siproodyov', 'ivnn sparydynov'}, {'ibmw sphraodnvo', 'efna hipruodnvo', 'ivpm sbirudoonv', 'ivnn speridwnav'}, {'ivvn swpridonov', 'piew xiwroodnvo', 'ibym siprudnoob', 'iivn spiriduyvo'}, {'ibne sipradowvo', 'ifan spiirdonuv', 'ivhm sphredonvo', 'yiyw kiprdianwo'}, {'ivwn spyradonov', 'iwpn sbriidonop', 'iobm sbiraodnvo', 'oyim yiprdiinfo'}, {'iapm sipridymvo', 'ivyn spirednoov', 'ipen spirodhnvo', 'hyny yiprdihnvo'}, {'vniu xiprdhunvo', 'iipm sipraodnow', 'ifan spiridunwv', 'ivym speridoyvo'}, {'hyum zipraodnap', 'ibym sforiodnvo', 'ipbn svriidonhv', 'ifan spyrodonov'}, {'ibnn sphrodoonv', 'ifan sipridanov', 'ayww kipyiodnvo', 'iepm spriidayvo'}, {'viem cipwaodnvo', 'ibwn sbiirdenov', 'ivvn spirwtonov', 'ifpm shpriodnva'}, {'ifum siprdienhv', 'ivnn spiridnovo', 'iwbn sipradonhv', 'aywm zipwoodnvo'}, {'wphm ciprdioyve', 'ipnm sipreodyov', 'ivyn spirwdonvo', 'ifpn spriidonyb'}, {'ifan sparidonyv', 'iebn spirdiohhv', 'vnua ciprdienyh', 'ifme svriidnooy'}, {'yfoy ciphiodnvo', 'ifan spiridynvo', 'ibmw siprdionyb', 'ivmo svriidynov'}, {'ipvn spuriodnoh', 'ipno siprudnoob', 'hwum kipreodnvo', 'ivnn spyridonov'}, {'ivwn spyridonif', 'wyno kiprdiamvo', 'ibmu siprwodnvo', 'ifvn sparidhnvo'}, {'vihh jiprdaenvo', 'ipme sipredanyo', 'iybn sviirdonev', 'ivvn spirodonev'}, {'yfny kipraodnvo', 'ipem sipreodnoh', 'ivwn spirdoonov', 'iypn sfriidonyv'}, {'wavm xiwroodnvo', 'ifmy siprdiwyov', 'ivvn speridonof', 'ifam speridoyvo'}, {'ifan spirdiwnov', 'iben sboridoonv', 'vwwh yiprdihnvo', 'ifim siprdionhy'}, {'view qiprdihnif', 'ivyn spyridonvo', 'ibhn spriidynoy', 'ibmy siprdiowhv'}, {'ivyn spiritonvo', 'ifmh spyrhodnvo', 'hhuw giprdiwnvo', 'ivpm sphrodnoov'}, {'ivwn spiridunvo', 'ipmo sphrdienvo', 'aihy yiprduinvo', 'ivnh sviridnoob'}, {'ivyn spirdionuv', 'ibin sparidoyvo', 'iepm sbriidnoop', 'yyim wiprwodnvo'}, {'wywy ziphiodnvo', 'ivpm sviridnooh', 'ivnn spyridonwv', 'iapm sbyriodnvo'}, {'wiyw kiprdianfo', 'ibmw spurdioyvo', 'ivmw spirwodnwv', 'ivvn spiridonaf'}, {'ivmh svirudonvo', 'ivwn spiridenyv', 'iubm siprdiohyv', 'veyy kyprdianvo'}, {'ivwn spuridonwv', 'vnha kiprduanvo', 'ivvm spirodoyvo', 'ifmy siprdioohv'}, {'ivvn spyrwdonof', 'ivfm sbiradoonv', 'vniw ywprdiinvo', 'iphm sipridumvo'}, {'ivmh spiriodhwv', 'ivwn spiridnuov', 'wapw cipyiodnho', 'ifym spiirdayvo'}, {'ivvn spirwdinov', 'eavm ciprdeoyvo', 'ipen sviridnoop', 'ifbm spriidyyvo'}, {'ifnh spyrhodnvo', 'wfnu yipreodnvo', 'ivwn spirwdonvo', 'ipvn spirdiowyv'}, {'iybn sfyridonvo', 'ivyn spirdienov', 'ipmu sfhriodnvo', 'eavy yiprdiohvo'}, {'ivnn spwridonov', 'ybiy kiprdianvo', 'iabm sbriidnoop', 'iopn spyriodnow'}, {'hpew giprdioyvo', 'ifan spiridonuf', 'ivym spyrdionhv', 'ibhm sipriodnpa'}, {'ivnn spirwdoonv', 'ivnm spriidynoh', 'piyw ziproownvo', 'ibma svriidnoop'}, {'ipmy sipredomvo', 'ifan sipridonyv', 'yfnu cipyiednvo', 'ifhn spriidihov'}, {'ivwn sporwdonov', 'ibin sibridnoov', 'ifmm siprdihnhv', 'vyoh xiprdiunvh'}, {'ipin sipridwyov', 'ivvn spiriadnov', 'fnia xhprdiunvo', 'ihvm sfriitonvo'}, {'ivwn sporwdonov', 'vmia ziproodwvo', 'iwbm shpriodnva', 'ivpm spriiduwov'}, {'ipmh sbriidinvo', 'yioh jiprdaenvo', 'ifan spirudoonv', 'iipn sbriidonhv'}, {'ibym sipriodnah', 'ivnn spirodnoov', 'oynh cipyiwdnvo', 'iibn spuriodnoh'}, {'ivyn spiradonev', 'ifom siprdionyh', 'awew yifrdiinvo', 'iebn sviridnoop'}, {'ivmw spiritoonw', 'wbma xiphdiunvo', 'ievm siprdiowof', 'ifan spiridinev'}, {'iupn spiritohvo', 'ivvn sparidonyv', 'ifvm siprdioyyv', 'vuwh ciprdienyh'}, {'wavy cyprdioyvo', 'ibmm siprydowvo', 'iivn spirdiowyv', 'ifan siprudonov'}, {'ibbm siprdinooy', 'iepn spiirdowof', 'ivnn spirutonov', 'yfiy ziphiodnvo'}, {'ifnm siprhtnoov', 'ifan sparidonyv', 'hovm kibrdianvo', 'ibin sphridoyvo'}, {'ipin sphriodmov', 'ivyn spiredionv', 'yfnu xiwrdiunvo', 'ifmh sipreodnow'}, {'ivyn spiordonov', 'ahma giprdiunvo', 'ibvm sfriitonvo', 'iypn spuriodhov'}, {'ibum spiirdhmvo', 'ivnn spiridiwnv', 'hwum kiprdhanvo', 'ivym spirdionyy'}, {'iivm sifriodnva', 'ivnn spiridinwv', 'ibvn sfyridonvo', 'waby yiprdwinvo'}, {'ibmy spurhodnvo', 'viom kiprdyanvo', 'ivwn spiridoanv', 'ivwm speridnoop'}, {'vhoy ciprdienyb', 'iibn sperhdoonv', 'ibmy svriidoonp', 'ivyn spriitonov'}, {'eavw copyiodnvo', 'ivwn spiriydnov', 'ibvn sphriodmov', 'ibmi sipryodnvo'}, {'ibfm sipridymvo', 'iapn spirdianhv', 'ivyn spiredwnov', 'uhny jiprdiomvo'}, {'wpum kivrdianvo', 'ivme spiirdohev', 'ivvn spirydonvo', 'ipem sfuriodnvo'}, {'ivvn speritonov', 'ipbn spriidhnvo', 'ewna hiprdiunvo', 'ifmm spriidyhvo'}, {'iyfm sipredowvo', 'ivyn spiriudnov', 'bihm yipwiodnvo', 'ivmm svaridnoov'}, {'ifan spiridenyv', 'iifn spirudoyvo', 'iuvm siprydowvo', 'yovm yiprdiomvo'}, {'ivwn spiriednov', 'iwvm sfuriodnvo', 'piyw qiprdihnif', 'iupn siprhdnoov'}, {'iybn spriidwnhv', 'ipne sbriidoonb', 'ivnn spirdonouv', 'hnia wiprhodnvo'}, {'ivyn spwrudonuv', 'ibfm sibriodnva', 'ibvn svirdianov', 'wiym zipraodnaw'}, {'iypm sbiirdoonp', 'wbya ciyraodnvo', 'ifan spiretonov', 'ibfn sviridoyvo'}, {'ipwm sipritoyvo', 'yfno cipyeodnvo', 'ivyn spurydynov', 'ivpm svriidonhv'}, {'iopn sphrudonvo', 'vuhh ciprhioyvo', 'ivvn spyridenov', 'ibmw sviirdhnvo'}, {'yfya yipryiinvo', 'ivyn spirdiionv', 'ivmh spiriduyvo', 'ihfm sipriodnap'}, {'iwpm sphraodnvo', 'ivnn spirdonouv', 'baim qipreodnvo', 'ivma sviridoyvo'}, {'waph gipraodnvo', 'ivnn spariodnov', 'ihvm sviruodnvo', 'ivhm spiraodyov'}, {'iwvm shpredanvo', 'wbum yipruodnvo', 'ivwn spirwtonyv', 'ibun sbiridoonh'}, {'ivme spriidyonv', 'viuh kiprdiawvo', 'ivyn speridonyv', 'ipno sipreodnow'}, {'ivnn spiraodnov', 'iyfm sipredawvo', 'ahum zyyrdianvo', 'ivmu svirudoonv'}, {'ipnn spyryodnov', 'ipni sviruodnvo', 'ivwn spiradonof', 'wyyy yiprdyinvo'}, {'ifum spriitohvo', 'hbna giprdaenvo', 'ifan spwrdionov', 'ivmu sviridnooy'}, {'ipun spiredoyvo', 'ivyn spirydinov', 'ayim giprdiowvo', 'ibnm sbriidenvo'}, {'ipun spiritowvo', 'ipfm sipriodmhv', 'uhha ciprdiwyvo', 'ifan spierdonov'}, {'ifmn sipridnyov', 'ivvn spwridunov', 'ipim sbiirdoonb', 'hwum giprdienvo'}, {'ivyn spwridwnov', 'vuhh yipyiodnvo', 'ibme svriidnoop', 'iubn spriidohhv'}, {'ihpm spiirtoyvo', 'hbhh cuprdioyvo', 'ivmi spriidonhf', 'ivwn spyrudonof'}, {'ivyn spirutonov', 'iepm sfiraodnvo', 'wbww ciprdiowvo', 'ivmo spiroodnop'}, {'ivyn spiridnoof', 'ifbm sipriodwva', 'whwa yiprdihnif', 'ipam sbiritonvo'}, {'ifvn spirhodnwv', 'vooh xiwroodnvo', 'ivyn spiriydnov', 'ifma spiirdhhvo'}, {'ivnh spirdionhb', 'wino xiprdiunpo', 'ivyn spiirdynov', 'iopm sipritnooh'}, {'aibh xipydiunvo', 'ipwn sipridnoow', 'ibpm sporwodnvo', 'ivnn spirdoonov'}, {'ivnn sparidnoov', 'iivn spirdionyw', 'ipbm sipreodyov', 'piyy yiprdaenvo'}, {'hyim ziprdiomvo', 'iipn sbiridoyvo', 'ivvn spurydynov', 'ipnw siproodmov'}, {'owiy cifyiodnvo', 'iebn spirudnoop', 'ivwn speridonaf', 'ipmu siprdioonb'}, {'ivnn spriiodnov', 'ivmu sbiridoony', 'iipm siprdiowyv', 'abno ziproodyvo'}, {'iipn svirudonvo', 'ipmm sipreodnow', 'yfne cipraodnho', 'ifan spurwdonov'}, {'iwvm sbriidoony', 'ipon sphirdoonv', 'yfey giprdianvo', 'ivnn spirodonvo'}, {'wapw ciprdioyve', 'ifan spriidonav', 'ifvn spriidoyyv', 'iipm sipritnooy'}, {'iwbn spirhodnwv', 'ipna siprednoow', 'ivvn spyrudonuv', 'wiyy ciprdioyva'}, {'ivyn spraidonov', 'hhow hipraodnvo', 'iovm sipredayvo', 'ibhn spiroodwov'}, {'ivvn spirutonuv', 'ivme sbyridoonv', 'ipna sforiodnvo', 'abnw cipyiownvo'}, {'ibum spriidiyvo', 'ivwn spirdinoov', 'ipmn sphredonvo', 'biym copyiodnvo'}, {'ivyn sperwdonov', 'ybuy xiproodmvo', 'ibhm sphrdioyvo', 'ivmu spiriodnwy'}, {'ivyn sporidynov', 'wyuy yiprdainvo', 'ibhn svariodnov', 'ifmm sviirdnooh'}, {'aihh xiprdiunwo', 'ifim spyrdiomvo', 'ivpm spiraodmov', 'ifan spirdionwv'}, {'ivvn spirdiionv', 'ibam sipridnooy', 'biim giprwodnvo', 'iopm siprdionyy'}, {'ivme spyridhnvo', 'apum qiprdiinvo', 'ipnu svriidnooy', 'ivvn spriadonov'}, {'wavw xiprhiunvo', 'ifan sperwdonov', 'ihpm spiirduwvo', 'ibun spiraodwov'}, {'iebm sipradnoop', 'viyy yiprdiiwvo', 'ivnn spirwdwnyv', 'ivmo spriidimov'}, {'whna xiproohnvo', 'ibwm sfhriodnvo', 'ivyn speridynov', 'ibon spriidonip'}, {'iibn spriidynhv', 'ivvn spirydoonv', 'ibnh siprdioniw', 'epna ziproohnvo'}, {'ahym xipyoodnvo', 'ibmh sipriodhwv', 'ivwn spyridonyf', 'ihbn spyirdonvo'}, {'ihbn spriidonyh', 'ifma sipriodnwp', 'ivvn spirudonwv', 'vwyw ziproodnpo'}, {'iavm spordioyvo', 'eywy cipyiodnve', 'ivwn spuridonyv', 'ibnn spriidynoh'}, {'iypn sviirdnoov', 'ifma sipriduwvo', 'vniu capraodnvo', 'ivwn spiordonov'}, {'ifmn spyridnoop', 'ivwn spirihdnov', 'ifhm svariodnvo', 'vyiy xiprdiunbo'}, {'ivvn spihrdonov', 'ipnu sbriidoonf', 'ihbn spirudnoop', 'viuw xiprdiowvo'}, {'ivvn spirwdenyv', 'iupn spirdiuwov', 'ifom sipriodnah', 'epew xiprdiumvo'}, {'ipin spiriodnwp', 'ivnn spiredonwv', 'vnha ciprdwoyvo', 'ifwm sipridayvo'}, {'ivma spiridhmvo', 'ivwn spyridonwf', 'yiim jiprdienvo', 'ifmw sfirdioyvo'}, {'ifhm sphruodnvo', 'ivnn spriiodnov', 'vwyw giprhodnvo', 'ipin spirodoyvo'}, {'iibm sipredanvh', 'ivyn spirduonov', 'hbhh civrdioyvo', 'iibn spiirdonww'}, {'ipyn spyridohvo', 'ivyn spiridanof', 'ibnu sbriidoonh', 'bena ciprdioyvw'}, {'iwbn spirwodnwv', 'ivnn spirudonuf', 'abno wiprdiwnvo', 'ibmw spiirdhyvo'}, {'iobm sfriidoyvo', 'abya ciprdioyyo', 'ivhm siprodonow', 'ivwn spiridynav'}, {'ivyn spirudynuv', 'ivmm svaridoonv', 'efna yipryiinvo', 'iuvm svriidnoow'}, {'iobn spriiodnop', 'ivwn spirwdonyf', 'oyne cipywodnvo', 'ipim sipryodnva'}, {'viuh yiprdiiwvo', 'ifwm sipriodniw', 'ivma spriidonwp', 'ivnn spriidonev'}, {'hhna gipraodnvo', 'ivwn spirwdinyv', 'ibmo siprdioowv', 'iwbn sibridnoov'}, {'ifnm siprednoop', 'ihbn sbyridonvo', 'uhnh ziphiodnvo', 'ivwn spyridonaf'}, {'ibim siprdionhf', 'ibvn sboridoonv', 'ivyn spiridonof', 'vwyw ciwraodnvo'}, {'ivyn spiritonvo', 'vihw yiprdiiyvo', 'ivhm spirithnvo', 'ifem spriidywvo'}, {'ivpm spiritowvo', 'ivnn spwridonyv', 'ievm sipridhmvo', 'piyy ziproodnwo'}, {'wbna cipyihdnvo', 'ifan spriydonov', 'iyvm spiirduyvo', 'ivma spriidomop'}, {'ibmy sipridiyvo', 'iybn spiriodyvo', 'ivvn spyridwnof', 'fihy wiprdiunvo'}, {'ifmm siprdienoy', 'ipon svriidonhv', 'ivyn supridonov', 'opum qiprwodnvo'}, {'owym kiwrdianvo', 'ibbn spiirdowwv', 'ivnn spiriednov', 'ifnh sipredoyvo'}, {'ifme siprdionyw', 'vhow xiyroodnvo', 'ivnn sporwdonyv', 'ipam spriidomop'}, {'vuyy cipyiodnvu', 'ivnn spiritonuv', 'ifvm sipriodnyo', 'iibn spirudhnvo'}, {'ipwn sbiirdenov', 'iubm sbriidoyvo', 'uwew cifraodnvo', 'ivyn spwridionv'}, {'ipun spiirdoneb', 'ibim siprudowvo', 'ivnn spirudoonv', 'ohni cipyiodnpo'}, {'ibum sipredanvh', 'ibvn spuriodnop', 'ahum ziprdiomvo', 'ifan spiridiynv'}, {'fiyw cwprdioyvo', 'iopn spyriodnoh', 'ivvn speridonva', 'ihfm sfurwodnvo'}, {'hhow yiprdianvo', 'iepn sfriidynov', 'ibnh sipraodnob', 'ivwn sporidonyv'}, {'ipin svirdiynov', 'ifmu sipridwyvo', 'uavh ciprdiuyvo', 'ivyn spirwtonov'}, {'ybna jiprdiowvo', 'ibbn spriidonip', 'ivyn sporidonyv', 'iypm siprdinooy'}, {'bwna kipydianvo', 'ivnn spirwdanyv', 'ipmy sipraodnoy', 'ipun spriidwnop'}, {'ibnw sipradnoob', 'abni gipryodnvo', 'ivwn sperydynov', 'iipn sphrdiomov'}, {'ivwn spiriednov', 'ipme sipredomvo', 'ivpm sviirdonev', 'hbyy cifraodnvo'}, {'ibni sbriidoyvo', 'vuoh xiproohnvo', 'ivvn spyridoniv', 'ibwn spirdienoh'}, {'ivnn spiredonof', 'oyni xiphiodnvo', 'ipbn sphrdionyv', 'ifmo siprdwoonv'}, {'eyny yiproodnvo', 'iupn sphrhdonvo', 'ifan spyridenof', 'ifmm spriideyvo'}, {'iibn spriidhnvo', 'vyia cihyiodnvo', 'ivwn spirdaonov', 'iavm svirdioyvo'}, {'fiuy hiprdianvo', 'ifmn spriitonop', 'ibno siprudhnvo', 'ivwn spirydunov'}, {'bena hiprwodnvo', 'ivvn spriudonuv', 'ibny sipriodnba', 'ivmo spriidonap'}, {'ifan spwradonov', 'vwya yiprwodnvo', 'ifbm sviirdnooy', 'ibin spiirtonow'}, {'ifmy sipriodnya', 'ivmy svariodnov', 'ivnn spirihdnov', 'faiy ziproodnbo'}, {'ivyn spirydonov', 'ibnn siprudohov', 'vnio qiprdaenvo', 'ibme sipridihvo'}, {'iwfm siprwdoyvo', 'vnih hipreodnvo', 'ivyn sipritonov', 'ipyn svirodnoov'}, {'ifan siprydonov', 'ibna siprithnvo', 'ivbm spirdienoh', 'whwa yiwrdiinvo'}, {'ivwn spiridaonv', 'ibvn spyriodnoh', 'ibvm spriitoyvo', 'owiy izproodnvo'}, {'ivnn sipridwnov', 'ippm siprdionhh', 'hhwa yiprdiinbo', 'ipam spirodnoow'}, {'ibbn spriidwnop', 'ipme shpriodnvo', 'ivwn spirydionv', 'vnoa ciwraodnvo'}, {'ihbn spirdioyhv', 'ivnn spyridunov', 'vyyy kiprdiinvo', 'ifem spurwodnvo'}, {'ivmw spirwdoyvo', 'ivnn supridonov', 'ipny siprhtnoov', 'wiym gipwiodnvo'}, {'ibmu sphrhodnvo', 'pnia kiyrdianvo', 'ibon svhridonvo', 'ivwn spiredwnov'}, {'ipni sipredowvo', 'ivvn spwrydonov', 'iben svriidanov', 'vwia xiprdhunvo'}, {'ivyn spiridneov', 'ibme svriidanvo', 'wwna ziwroodnvo', 'ifbn spirdiowof'}, {'ivwn spurwdonyv', 'oyne qipyiodnvo', 'ibmy spurwodnvo', 'ibhn spiirdowof'}, {'iupn sipridhnvo', 'owno jipyiodnvo', 'ifan spirdoinov', 'iybm siprdiowhv'}, {'ipme sphreodnvo', 'ifan spiurdonov', 'vyyy yiprdiinyo', 'iabn sparidoyvo'}, {'ivwn spiritonov', 'yiim yiprdiomvo', 'ibfn spiirdonww', 'ifim siprdiynhv'}, {'ivwn sporidonwv', 'iwpn sipradonhv', 'ibny svyrdionvo', 'viim ciprdwoyvo'}, {'iopn sbirwdoonv', 'biom cifyiodnvo', 'ivyn spirodionv', 'ipnw sfyrdionvo'}, {'ifan spyridonyv', 'oynu wiprdiomvo', 'ifhm siprdionyh', 'ibbn spireodnoy'}, {'ibnn sparidhnvo', 'ipmm sivriodnvo', 'ivnn spierdonov', 'hena civyiodnvo'}, {'iybm svriidnoob', 'ahiw qiprdaenvo', 'ivmy spriidunhv', 'ivyn spyridonef'}, {'ihfm sipriodnyo', 'ifan sporidonwv', 'obwh yiprdiinvo', 'iifn spiridhhvo'}, {'ipni siprwdnoop', 'ibmn spriidanhv', 'bioh kiprduanvo', 'ivnn spiridionv'}, {'ivwn spirdioniv', 'vmia cipyiodnvh', 'ipmu siprednoop', 'ipmn spiirdoyvo'}, {'yfiy yiprwiinvo', 'ibnn sbhridoonv', 'ipnm siprdienhv', 'ivvn spwrdionov'}, {'yyim hiproodnvo', 'iopn spyrdionhv', 'iipm siprwdnooy', 'ivvn spurwdonov'}, {'ibbm sbriidnoop', 'iubn spiriodmhv', 'opna ciprhioyvo', 'ivwn spiridynof'}, {'ifnm svhrdionvo', 'ivnn spriiodnov', 'ibfn sviirdonev', 'bioh yiprdioyvo'}, {'ifmi spiirdiyvo', 'ivnn spirdiynov', 'oyna ixproodnvo', 'ivym spiirdonhw'}, {'ahom yiprdyinvo', 'iwpn spirydoyvo', 'ivwn spriudonuv', 'ihfm spiirdwmvo'}, {'ifan sipritonov', 'ahom cipyiadnvo', 'ivme sphridinvo', 'iubm sfiirdnoop'}, {'ipmh sipraodnob', 'wbwa hipruodnvo', 'ivym sbriidenov', 'ifan spwridnoov'}, {'iwbn spiridwmvo', 'ivnn spiriidonv', 'ifhm siprwdhnvo', 'uavm wipraodnvo'}, {'ifvn sbiridoonf', 'ufna cwpyiodnvo', 'ivwn spirdoonov', 'ibbm svhriodnvo'}, {'ipwm svriidhnvo', 'aihm jipraodnvo', 'ivmi spriidynob', 'ifan spwridonwv'}, {'ibwm siproodnow', 'eavw yiprdiihvo', 'ivvn spiritoonv', 'ipmn spurwodnov'}, {'ihpn spriidhnop', 'ivvn spirydanov', 'ipmw siprdinooy', 'ypew ziphoodnvo'}, {'iofm siproodnop', 'ivmh svaridonvo', 'hhum wiprdiinvo', 'ivyn speridnoov'}, {'ahom cipyioynvo', 'ivmh svirednoov', 'iwbm sipryodnav', 'ifan spirydenov'}, {'ivmi svirednoov', 'ifan sopridonov', 'ibvm sipraodnoy', 'abwa ziprhodnvo'}, {'ivnn spiridoenv', 'vwwm cipyiwdnvo', 'iobn sporidhnvo', 'iofm siprodoyvo'}, {'ifmy sfiraodnvo', 'ivvn speridonva', 'upna cipraodnyo', 'ivmh spriidonap'}, {'ivmo spiraodnoy', 'vuih kipyiodnvo', 'ivyn spyridonvo', 'ibbm sbyriodnvo'}, {'ivyn spirydoniv', 'ifme siprudnooy', 'uwna xhproodnvo', 'ivmo sbriidenov'}, {'viuw giprdianvo', 'ibem sipriodniw', 'ivbm sbiirdonev', 'ivwn spuridonvo'}, {'ibwn spirideyvo', 'iafm sibrdionvo', 'vhoy ciprwotnvo', 'ifan spiridunof'}, {'wiym zipwiodnvo', 'ibin spiriodnwb', 'iupm sipraodmov', 'ivwn sipirdonov'}, {'ivwn spiritonov', 'ifhn sbaridoonv', 'iifm sviirdnooy', 'uhny giprwodnvo'}, {'hwum cifrdioyvo', 'iwpn spirithnvo', 'ipum sbiirdoonp', 'ifan spiridonvu'}, {'ibna siprdionhp', 'iapn spriidunhv', 'opew kiprdiohvo', 'ivyn sporydynov'}, {'vwyy kiprdianbo', 'ipna shpriodnvo', 'ivnn spyrydynov', 'ipfn spriitonop'}, {'iybm siprdienhv', 'ubwh xipyiodnvo', 'ipen sviraodnov', 'ivyn spirydonav'}, {'vheh zyyrdianvo', 'ivnn sparidynov', 'ipfm svhriodnvo', 'ipfn svriidonyv'}, {'ivyn spuridionv', 'ibfn spuriodnoh', 'iphm sipriodnhw', 'oyne qiprdiwnvo'}, {'ivnn spirydonyv', 'ivmo sbriidoyov', 'iivm siprwdnooy', 'hhew ceprdioyvo'}, {'awym jiprdiwnvo', 'ivvn sporydonov', 'ibnn sphredonvo', 'ifma sboriodnvo'}, {'ibma sipriodmav', 'ivvn sparwdonyv', 'iupn shpridnoov', 'wfnu jipruodnvo'}, {'ivhm sphridomvo', 'ivnn spwrwdonov', 'ipvm svyrdionvo', 'pioh zipyoodnvo'}, {'ywym kuprdianvo', 'ipun svardionov', 'ivyn spyrudonof', 'ifnm siprednoob'}, {'ivyn spiridneov', 'ibin sviritonvo', 'vhia qiprdiowvo', 'ifmm siprdionpo'}, {'ifmy sipradnooy', 'hiyw cipyiodnbo', 'ivvn spyridonuv', 'ipam spiridhmvo'}, {'ivyn spirdionyv', 'iifn sivridnoov', 'bium yiprdiomvo', 'ipfm sipriodnab'}, {'ibhn svirodnoov', 'iebm sphrdiowvo', 'ivyn spuridoonv', 'wapm hipwiodnvo'}, {'viwi cibrdioyvo', 'ivwn spirwdonuv', 'ibmo siprwdnoow', 'iobn spirdiohyv'}, {'vwwy kiprdiohvo', 'ivmu spiraodnow', 'ivyn spirdihnov', 'iobm siprdionhb'}, {'wynu yiprdiiyvo', 'ivvn spiridynof', 'ibam spriidohyv', 'iwvm siprhdnooy'}, {'yfya yiprdiiyvo', 'ivnn spiirdonev', 'ivpm sipridnyov', 'ifmu svuriodnvo'}, {'wabm ciprdioywo', 'ivnn spriidoniv', 'iabn spriidynow', 'ipme siprdioonw'}, {'ivyn spiritnoov', 'whnu hiprhodnvo', 'ivmy spiritomvo', 'ipmu sviirdnoob'}, {'ipni sviirtonvo', 'iapn svirwdnoov', 'wbuy hiprwodnvo', 'ivvn spirwdynov'}, {'ifan spirideonv', 'ibin spriidowop', 'iifm svyriodnvo', 'hpew wipryodnvo'}, {'hwne zipyiodnvo', 'ihfm sipredahvo', 'ivnn sipritonov', 'ibhn spiirdnoop'}, {'ibon spiraodnoh', 'iybm spriidyyvo', 'bium qipryodnvo', 'ivwn sparidwnov'}, {'ibhn svirdianov', 'ivvn spirudonvo', 'iefm sipredomvo', 'hwum ciprdiwyvo'}, {'wyna ziproodnpo', 'ivnm sphraodnov', 'ivyn speridynav', 'ifnh sbriidnoop'}, {'afna qipreodnvo', 'ibym svhrdionvo', 'ivvn spurydynov', 'ibpn spuryodnov'}, {'ivyn sporitonov', 'ibmh sipraodmov', 'ohih xiprdiunyo', 'ibnn spiroodnob'}, {'ivnn spiritanov', 'ippn sfyridoonv', 'wwyh chpraodnvo', 'ipna sfhriodnvo'}, {'ahom zihroodnvo', 'ibma sfordionvo', 'ifan spirudwnuv', 'ivma sphridinvo'}, {'havh ciprdhoyvo', 'ivyn spiridwnov', 'ibnw siprdionho', 'iivn speridnoop'}, {'ivyn spriiodnov', 'ivnm spirdionhp', 'ayww qiproodnvo', 'ibom siprodnooy'}, {'ivwn speriodnov', 'ipim sbirdienvo', 'ipun spyriodnoh', 'abma yiprdiihvo'}, {'ivyn spirwdwnov', 'iebm spyrdiohvo', 'ahuw xipwoodnvo', 'ipbn spirdinoop'}, {'viwm hiprhodnvo', 'ivnn spairdonov', 'ivmo spiredoyvo', 'iuvm sipriodnba'}, {'ibwm sipredayvo', 'ivyn spirdiynov', 'ipnn spriidonip', 'viom ciprdeoyvo'}, {'ihbn svirudonvo', 'ibpm siprednooy', 'ivnn spirwdwnyv', 'uovm xhprdiunvo'}, {'ifnm siprhdunvo', 'iopn sbirodoonv', 'ivnn spiardonov', 'hhow hiprdiinvo'}, {'ifme sipriodwof', 'viuw xifroodnvo', 'ivnn spyrudonof', 'ipfn spriidyonv'}, {'ivmu spiredoony', 'ivwn spyridanof', 'ipmh sphruodnvo', 'wbwy zipraodmav'}, {'yfwy zipwoodnvo', 'ivwn sporiodnov', 'ipyn sphrwdonvo', 'ibmy siprodoonw'}, {'ifan spwrudonov', 'ievm sipriodnap', 'veyy kwprdianvo', 'iobn sbiirdonev'}, {'iapm spriidiwvo', 'owiy cipyaodnvo', 'iypn spriidoniw', 'ivnn spriidwnov'}, {'wyyy kiprdianyo', 'ifan speridwnav', 'iebn sfirdionyv', 'ipna sipraodnop'}, {'iapn spiriodwwv', 'ayww ciprdiomvo', 'ivvn sparidwnov', 'ihfm spriidihvo'}, {'ihpn sbiirdoonv', 'ivyn spwridanov', 'ibna siprdyoonv', 'vhhh cipyiodnwo'}, {'ifvn spiroodnoy', 'ivyn spiridonvi', 'ipbm sipradhnvo', 'vwya ciprdioyfo'}, {'ipum spordiohvo', 'ibyn speridoonp', 'ivnn spridionov', 'wyhy xiphoodnvo'}, {'ihbn spiradoonp', 'ibwm sfurwodnvo', 'ivvn spiriodnwv', 'whwa wiprdienvo'}, {'ivwn spiridenyv', 'ipym spiirtohvo', 'ivnm spirdionyh', 'yfuy giproodnvo'}, {'abnw giprdihnvo', 'iobm siprhdnoow', 'ivnn spierdonov', 'ivnm sfiraodnov'}, {'ifan spyridinof', 'ivfm spiroodnop', 'ifbm sipriodnwh', 'yioh hiprdioyvo'}, {'ifam spiriodnwp', 'ipnu svriidoonp', 'fiwy chpyiodnvo', 'ivwn spirydanov'}, {'uavh ciprtioyvo', 'ibny sipraodnoy', 'ibbn spirithnvo', 'ivnn spwridonvo'}, {'ifpn spirideyvo', 'ibno siprudohvo', 'uhya kiprdwanvo', 'ivyn spyredonof'}, {'iipm sivredanvo', 'wfnu qipraodnvo', 'ivyn spirodonyv', 'ipun spirdionyb'}, {'ybwh jiproodnvo', 'ibnh sbiroodnvo', 'ipam spriidonyy', 'ivvn spriwdonyv'}, {'ibma siprodnooh', 'ifan spiridnoev', 'ibpn spiraodyov', 'wphw wipryodnvo'}, {'ahww kifrdianvo', 'iubn spirdioyhv', 'ipnm sipridhyvo', 'ivwn spwridonuv'}, {'ivwn speritonov', 'wphw cipyiwdnvo', 'ipna siprdiowwv', 'ivmh sphriodmov'}, {'iepn sviroodnov', 'wbww cipywodnvo', 'iffm sipriodnhf', 'ivwn spyridonvo'}, {'ivnn spiridinvo', 'ivhm spiirdoyvo', 'iwvm sfriidoyvo', 'wbww wipryodnvo'}, {'wbma cupyiodnvo', 'ippn sipridnoow', 'ibny siprhdnoow', 'ivnn spriidonev'}, {'iopn sbyridonvo', 'uwno caprdioyvo', 'iibm sviirdnoow', 'ivvn spirwdwnov'}, {'iubm siprdienoh', 'vuyw xiproodhvo', 'ibyn sipridhoov', 'ivnn spirydnoov'}, {'ivnn spiridonve', 'owna zvyrdianvo', 'iyvm spiirduyvo', 'ifhn spiritoyvo'}, {'iwvm spiirdhmvo', 'ihpn spirwodnwv', 'ivnn spiurdonuv', 'oyma hipyiodnvo'}, {'wboy kiprdiynvo', 'ipam spriidinow', 'ivvn spiridwnev', 'ipnw spurwodnvo'}, {'ivvn spwridanov', 'ipvm siprdwoonv', 'biwh zipraodnaw', 'iopn spriitonhv'}, {'ivpm sphrodonvo', 'ivyn spirduonuv', 'ipmm sipradnooy', 'ayna civraodnvo'}, {'uyny kipruodnvo', 'ipnu spiirdhwvo', 'ifan spirdioonv', 'ibhn sphirdnoov'}, {'ifnh sphraodnvo', 'ivyn sparidwnov', 'uhni izproodnvo', 'ipvn sifridnoov'}, {'oyna cipyiodnfo', 'ivyn spiroidnov', 'ipmh sipradnooh', 'ipwn spriidoonp'}, {'yona yeprdiinvo', 'ipum sipriodhva', 'iubn spiridhyvo', 'ifan spiridinev'}, {'ipun spirdiwmov', 'yyna qiprdianvo', 'ipmi sburwodnvo', 'ivyn spiridonvu'}, {'ihpm siprhdinvo', 'ippn spwridnoop', 'ivvn spiridinvo', 'vioy kaprdianvo'}, {'ibbm spriidyyvo', 'ypew jiprdiowvo', 'ivwn spirwdnoyv', 'ibbn svyridnoov'}, {'obna yiprdiinvi', 'ipim siprwodnwv', 'iubn spriidoyhv', 'ivnn speritonav'}, {'ivnn spwridonof', 'ohhh cipyiodnfo', 'ifnh siprithnvo', 'ipmn sphrdionvo'}, {'ibom shpriodnva', 'iwbn spiroodnoh', 'ivyn spirduonov', 'vwwa wipruodnvo'}, {'ivyn spiretonov', 'ifhn spriidonhh', 'iyfm sibredanvo', 'viyy kiprhianvo'}, {'ibme sipriodmhv', 'ivvn spiirdonwv', 'wpno yipraodnvo', 'ibin spiirdomev'}, {'ipyn sbiredoonv', 'ivyn spyridonuv', 'ibnh siprdyoonv', 'hioh ciprdioyvo'}, {'iabn sviridnooh', 'wyuy cipraodmvo', 'ivyn speridonyv', 'iovm sphrdienvo'}, {'ipnw sivriodnvo', 'voiy hiprdienvo', 'ifmn svhridonvo', 'ivnn spwridanov'}, {'ivwn spiritonof', 'ipmn spwridoyvo', 'ihbm sbriidoonh', 'ypew hiprdianvo'}, {'viho ciprhodnvo', 'ipon sphridynvo', 'ivwn sipridoniv', 'ipmy sviirdnooy'}, {'wbyy qipraodnvo', 'ivwn spiradonvo', 'ivmw sphridenvo', 'iivm sipryodnav'}, {'ivnn spirotonov', 'ivpm sipridenoh', 'aahw yoprdiinvo', 'iwpm siprdiowvo'}, {'vwoh xipyiodnvo', 'ifan spirdeonov', 'ibun svyridnoov', 'iepm siprhodnwv'}, {'ibin spiirdenoh', 'vnha hiprdihnif', 'iafm siprdioyvo', 'ivwn sporidonyv'}, {'ibnn sbirdionhv', 'hwym xiprdwunvo', 'ivwn speridonvo', 'ipma sbiirdoonp'}, {'ihbn spriidonyh', 'ipni sipradnooh', 'wwna zifroodnvo', 'ivvn sparidonev'}, {'ivmo spriidowof', 'eyww yiprdiowvo', 'ivvn spwriodnov', 'ifnh siprdinoob'}, {'ipmu siprhodnvo', 'ipnn spriitonow', 'ivvn spyrydonof', 'wbim xiphdiunvo'}, {'ohhm yiprdiwnvo', 'ivvn spiradonyv', 'ivmi sfyridonvo', 'ibno sphreodnvo'}, {'ipbn spyridohvo', 'ivnn spiridyniv', 'abnh xiproohnvo', 'ibvm sbriidoonh'}, {'ohhh wipryodnvo', 'ivnn spiridinof', 'ibym sipriodnwb', 'iepn spriidonip'}, {'havm ciprwotnvo', 'ivmm sipridowof', 'ivvn spiriodnav', 'iyvm sipritomvo'}, {'ihvm siprednoop', 'ipnn spriidonyp', 'hwym ciprhotnvo', 'ivwn spirudionv'}, {'ifan spiradonev', 'ywym cipyiudnvo', 'iebn spirdianhv', 'iabm spriitoyvo'}, {'ibun sipradonop', 'hfyy ciprdiyyvo', 'ivnn spiriednov', 'iwbm siprwdnooh'}, {'ivyn spirudwnov', 'vihh ziprdiomvo', 'ipvm spriidhwvo', 'iwbn sbirwdoonv'}, {'ipvm sbiirdoony', 'ivnn sipridonuv', 'ayny jiprdaenvo', 'iypn sfhridonvo'}, {'viiw kihrdianvo', 'ivvn spariodnov', 'iobm sipritnooh', 'iivn spiroodhov'}, {'iobn spyrwodnov', 'ivvn spiridionv', 'hwne ziprwodnvo', 'iifm sipriodywv'}, {'ypum kiprdienvo', 'iipn spriidymov', 'ivyn spiridwnwv', 'ibim siprodnoob'}, {'ivnn spyridonvo', 'iabn spriidohhv', 'aihw cipryotnvo', 'ippm spiirtoyvo'}, {'ivvm sbiritonvo', 'ayna yiyrdiinvo', 'ippm siprdiewov', 'ivvn spiridionv'}, {'ipbn spirdianhv', 'wnia yiprduinvo', 'ivnn spirdiunov', 'iafm siprdiomyv'}, {'ivnn spyridinov', 'wioh xiprwiunvo', 'ibfn sfhridonvo', 'ippm sipriodmvo'}, {'vwyw cupyiodnvo', 'ibma siproodmov', 'ivwn spiriwdnov', 'ibin spriidonhf'}, {'iyfm spiirtohvo', 'ipbn speridoony', 'hbum yifrdiinvo', 'ivvn spuridoonv'}, {'iopn svhridnoov', 'waph cepyiodnvo', 'ivwn sporidonvo', 'iafm sviirtonvo'}, {'ippm siprodowvo', 'iipn spuriodwov', 'ivnn spyrudonof', 'ahew zipraodmav'}, {'iypn sbiirdonev', 'wbya jipreodnvo', 'ipwm siprudnoob', 'ifan sparidonev'}, {'ibna sipridumvo', 'ifan spiridniov', 'wpna ciprdiyyvo', 'iapn spriidwnhv'}, {'ipen spiirdomhv', 'ivnn spiritwnov', 'aahm gipryodnvo', 'ipwm siprudnoob'}, {'ifme svriidinvo', 'ibpn spirdiohyv', 'ivyn sparidoonv', 'ahum qipraodnvo'}, {'havw xiproodnho', 'iebn spirydhnvo', 'ibmo spriiduwvo', 'ivyn spirdinoov'}, {'iavm svriitonvo', 'vwyy ciprhodnvo', 'ivnn spiridnuov', 'iivn sphridnoop'}, {'ipno siprdihnhv', 'vueh ciphdioyvo', 'ibin spiirdoney', 'ifan speridonyv'}, {'abma ziprdioyvo', 'ifan spwriodnov', 'iupm sipredayvo', 'ivwm sfyriodnov'}, {'ipen spirwdhnvo', 'ifan sparydynov', 'ibna spurdiowvo', 'ywna cipyiudnvo'}, {'ehna ciprdioyva', 'iubn spirdiomhv', 'ihbm siprdioonw', 'ivnn speridoonv'}, {'iypm sipreodyov', 'ivnn spariodnov', 'iifn sporidhnvo', 'havm ciprtioyvo'}, {'ivyn spiridnoiv', 'ibhm siprydnoop', 'ipin sipridnwov', 'hwum wiprdihnif'}, {'ivyn spirwdonev', 'awym xiwrdiunvo', 'ifmh spurhodnvo', 'iobn spiirdowwv'}, {'vnha khprdianvo', 'ivnn spirwdonyf', 'iovm sipreodyov', 'ipam sbirudoonv'}, {'ivyn spiirdonwv', 'ipne siprednoob', 'wnia cifyiodnvo', 'ibbn spiridhyvo'}, {'ipon spriidomop', 'owno kiprdhanvo', 'ibnw siprydnoop', 'ifan spyrwdonov'}, {'wfna yipydiinvo', 'ivmi sphriodnvo', 'ivwn spirydinov', 'iwbm spriideyvo'}, {'ibno siprdiowvo', 'ivyn sporwdonov', 'iwpn spyriodnoh', 'bihm cipwaodnvo'}, {'ipnw sphrhodnvo', 'ivvn spriudonuv', 'ipbn sipridwoov', 'ybya yiprdiiwvo'}, {'ivwn spirwdanyv', 'ipfn spirdioniw', 'ipny sipriduyvo', 'wbma ziprdiomvo'}, {'ifbn sfiirdonev', 'ibhm spiirthnvo', 'pwna ciyyiodnvo', 'ivyn spyrudonof'}, {'ywym ciprdiemyv', 'iuvm siprdinoop', 'ivvn siprydonov', 'iabn spiriodnwb'}, {'ifbm sfiirtonvo', 'ibam spyrhdonvo', 'fiey hipreodnvo', 'ivvn spurydonov'}, {'wfnu kiprdianva', 'iabn sparidnoop', 'ifan spiardonov', 'iobm sporhodnvo'}, {'ifan spriidonav', 'abna cipyiodnho', 'ibon spriidonhf', 'ibhm sipreodhov'}, {'ivvn spyrydonov', 'iwfm svriidoonp', 'ivme spwridhnvo', 'wwyw zpyhdianvo'}, {'ofiy ciprduoyvo', 'iabm spriidyyvo', 'ivyn spirodwnov', 'ipun spwridhnvo'}, {'ibhn sipridonww', 'aihw cipyiadnvo', 'ifan sepridonov', 'ibfm sphrdiwnvo'}, {'ipmu siproodwov', 'ifan spiirodnov', 'obna yiprdiinvo', 'ibwn spuridnoop'}, {'ibom sipryodnav', 'ivmi sbiraodnov', 'ahow ciyrdioyvo', 'ivwn spirdiinov'}, {'wioh cipraownvo', 'ibne siprdiooyv', 'ivnn spirwdonyf', 'iypn spiirdohev'}, {'ivnh sbiridoonb', 'wwno cipyiodwvo', 'ifan spriidynov', 'iibm sbirdihnvo'}, {'ivwn spyridonef', 'viim cypyiodnvo', 'ibun spuriodnhv', 'ibem sfiirdoyvo'}, {'ifan spirwdonav', 'ipyn spriidiyov', 'ipum sipriduwvo', 'veoh ciprdienyy'}, {'uhno qiprhodnvo', 'ivnn spirodynov', 'ivpm spirdihnhv', 'ipno siprdionyp'}, {'ifan spwrodonov', 'ipmm sipreodnoh', 'vhoy ziprdiowvo', 'ivmy spirodhnvo'}, {'uhni cipyioynvo', 'ivyn spiirdoniv', 'ipen sburidoonv', 'iupm svriidoonp'}, {'ifan spwradonov', 'iepn siprodonow', 'ippm spiirtowvo', 'yfma yiprdiunvo'}, {'ivnn sporydynov', 'ibwn svirudonvo', 'ipma siprudnooy', 'wbym kiwrdianvo'}, {'iibn sviirdnoov', 'vhuh capyiodnvo', 'ifan sopridonov', 'iwfm sbhrdionvo'}, {'wwno ciprdioyfo', 'ibon sipridonww', 'ivwn spiridonyv', 'ifmo sipridhhvo'}, {'ibim sfurwodnvo', 'wbwy zipraodyav', 'ivyn spiridonva', 'ibun spriidymov'}, {'ifan spirydoniv', 'ibom siprwdnooh', 'uhno kiprdianwo', 'iebn spirdionhf'}, {'bwna wiprdihnvo', 'iibn spiirdoney', 'iypm siprdioohv', 'ivvn sparydonov'}, {'ivyn spiridynuv', 'oavw khprdianvo', 'ihvm siprwodnwv', 'ifmn spirwodnav'}, {'ivnn sperwdonov', 'iepn sbriidonhv', 'ayna ziproodhvo', 'iwbm spriitoonp'}, {'ivnn spiridinyv', 'ifum siprdionyb', 'hpna jipreodnvo', 'iibn sbiriodyov'}, {'ahyw xipwdiunvo', 'ipum sipradoyvo', 'ibmn spiritoonw', 'ivyn sipridonyv'}, {'hhwa zipwiodnvo', 'ivnn spirdonouv', 'ibem spriidhyvo', 'iupn spyirdonvo'}, {'iobm shpredanvo', 'ipon spriidyyov', 'vieh xiprdhunvo', 'ivnn spyridonwv'}, {'oavw cipwiodnvo', 'ifnh spiirdhwvo', 'ibin sviraodnov', 'ivvn spiriidonv'}, {'uhwa yivrdiinvo', 'ivmo spiirdonep', 'ivvn spyridenov', 'ibnu spriidhwvo'}, {'ivnn spiridwnwv', 'iwpn spirdiomyv', 'wavy ciprdiewyv', 'ipni spriitomvo'}, {'ivwn spiridianv', 'ifmm siprdiynhv', 'ipbn spirednoop', 'vyyy ceprdioyvo'}, {'ifpm sburdionvo', 'apno yyprdiinvo', 'ivwn spriidonev', 'ipen sphridenvo'}, {'ivyn spiyrdonov', 'ihbn spyriodmov', 'ibmy sipredomvo', 'wpna xiyroodnvo'}, {'iwfm sfriitonvo', 'ivme spirdianhv', 'ivnn spiredoonv', 'aahm cipyiodnbo'}, {'wfna xiproodnwo', 'ivvn spyrudonov', 'ifum sipredomvo', 'ibbn sbirdienov'}, {'ifim spordioyvo', 'ibin sphridowvo', 'aywm ziprooynvo', 'ifan spirudonvo'}, {'ivyn sipridunov', 'ipen svuriodnov', 'iafm sbiirdoony', 'yavy xiprdiohvo'}, {'ivwn spriiodnov', 'ybya copyiodnvo', 'ifhn sipridonwo', 'ibny sfirdihnvo'}, {'ipin sbriidinov', 'ivvn spyrwdonof', 'oyni kiphdianvo', 'ipny sbiroodnvo'}, {'ibme sipraodnop', 'ahiw yiprdiimvo', 'ivma spirhdhnvo', 'ivnn spirodonwv'}, {'ivvn sparidonof', 'apoh cipyyodnvo', 'iwpm siprdhonvo', 'ipmn sipritonow'}, {'iybm sipryodnvo', 'pium kipreodnvo', 'iibn spiroodnoy', 'ifan sporwdonyv'}, {'iben sipriduwov', 'iupm sipraodnhv', 'ivnn sprihdonov', 'ybhy yifrdiinvo'}, {'vwya kiprdianfo', 'ihpm siprtionvo', 'ivwn spridionov', 'ipbn sburidoonv'}, {'ifan spriwdonyv', 'ivfm spriidonyy', 'iubm siprdionwo', 'vhia yiprdwinvo'}, {'ifan spirdiwnov', 'iivn spiriodwof', 'ybyy ciprdioyva', 'iebm siprwdnoow'}, {'iyvm spriidiwvo', 'ifan spwrydonov', 'ayny giprdiowvo', 'ipun sviirdnoov'}, {'iyvm siprithnvo', 'ibmn spiirdwmov', 'ewno icprdioyvo', 'ifan spiridynav'}, {'iyvm sipriodmav', 'ivyn spirwdonvo', 'vnoa kiprhianvo', 'ivym spyrhodnov'}, {'ibam spriidimov', 'iabm sbiirdoonb', 'ohhm xifrdiunvo', 'ivnn spwrudonov'}, {'ahim ciprdiuyvo', 'ivhm sphridunvo', 'ifmm shpriodnvo', 'ifan spirydonvo'}, {'vhwh cipyiodnvu', 'ipnn sbiirdoonv', 'iwpm siprdionhf', 'ifan spiridonva'}, {'ivmi svriidonop', 'ivnn spurydynov', 'ihvm spriidywvo', 'oahw xipretnooy'}, {'ewew cipyiohnvo', 'iwfm sipritomvo', 'ipvn spiirtonow', 'ifan spyridonvo'}, {'ivnn spiirdonyv', 'hbhh jiprhodnvo', 'iypm siprdienop', 'ivfm sipredonoy'}, {'ipwn sbhridoonv', 'ivnn spirwdynov', 'yovm qiprwodnvo', 'iabm svriidnooh'}, {'ibnn spiraodnow', 'ifhm spyrdiomvo', 'uhni xiprdiunho', 'ifan spwrudonuv'}, {'ipno siprwodnwv', 'ivhm spriidimov', 'ivvn spiredynov', 'vwwh xiprdiunyo'}, {'ivnn spirwdanov', 'ipno sfordionvo', 'ipun svriidnoov', 'wyya cipyiodnva'}, {'ibpn spiriduwvo', 'ohni zipwiodnvo', 'ivwn spiridiunv', 'ibwm spriidhhvo'}, {'ivwn spiradionv', 'ibne sibredanvo', 'ibhn spirwdhnvo', 'yfyy ciprdwoyvo'}, {'ivvn spirydonyv', 'hpyy xibrdiunvo', 'ibmw sifriodnvo', 'ibam sipradonhv'}, {'ipnu sphroodnvo', 'ibun sfiriodnwv', 'ivyn spiridoanv', 'wyuy kiprdiahvo'}, {'ivnn spiraodnov', 'ipvm siprydnooy', 'ibin spriidinop', 'biym kiprdeanvo'}, {'vhyh ziproodnwo', 'ibfm siprhdhnvo', 'ivyn spwridanov', 'iypn spirwdhnvo'}, {'ibyn svirdionhv', 'ipwm siprdhoonv', 'ivnn spyridonuv', 'hpna cwpyiodnvo'}, {'iufm siprodohvo', 'hwem ciprdioypo', 'ivnn spiratonov', 'ipin spirideyvo'}, {'ivnn spiritonav', 'ibmn sviridnooh', 'ohni icpyiodnvo', 'ibmw sbhriodnvo'}, {'ibim siprhdenvo', 'epna cipyioynvo', 'iapn sbiraodnov', 'ivvn spiridnaov'}, {'ipny sipriodnyo', 'efna jiprdienvo', 'ivwn spiridiunv', 'ibmn spriidowop'}, {'ivvn spirwdunov', 'epew cipyiodnve', 'ipnu sipriodnah', 'ibhn spriidonyb'}, {'ifnh spriitoyvo', 'ipam spriidynow', 'ivnn spirwdonov', 'hiyy hiprdienvo'}, {'ivwn spiridanyv', 'iapn sbiritonvo', 'wyuy qipreodnvo', 'ifwm siprwdoyvo'}, {'ivyn spiridwnvo', 'ipmo spiirdhyvo', 'ibwn sbiridhnvo', 'wavm cipyiohnvo'}, {'iypn spirdiuwov', 'iabm sipredoony', 'ivvn spriidonev', 'yavw yiprdiinvi'}, {'ifan sporydonov', 'ibny siprdionyb', 'viwy kiproodnvo', 'ivmi svaridonvo'}, {'ivym spriidihov', 'ahwm yihrdiinvo', 'ivyn sipridonav', 'ibni siprudohvo'}, {'ivfm sbriidoyov', 'ipno spiirdyyvo', 'ivnn spirydnoov', 'hhew yiprdihnif'}, {'wyoy wiprdiunvo', 'ivnn spirwtonov', 'ibbm siprdiohvo', 'ibon sbiirdoonv'}, {'ivwn speirdonav', 'ipbn svirdiynov', 'ibmw sipriodnhf', 'uyna cipyiodnyo'}, {'ivmy spriidyonv', 'ifpm siprwodnav', 'ivwn sipradonov', 'wpnu zipraodnap'}, {'ipwn sipridenoh', 'ivyn spiratonov', 'aiby cipyaodnvo', 'ibmu svyriodnvo'}, {'ipnw siprwdnoop', 'hwym cipyihdnvo', 'ivvn spyridonfo', 'ivnh spuriodwov'}, {'ibon svriidynov', 'iypm siprwdoyvo', 'vhoh jiprdiinvo', 'ivnn spiredionv'}, {'ivnn spyridynof', 'ibnh sipridiwvo', 'oynu ziproodnho', 'ippn spriidonhb'}, {'iybn spiirdonhf', 'ifan spirydionv', 'hwym zipwiodnvo', 'ifmm siprodnoow'}, {'ewym qiprdaenvo', 'ibhm sphrdienvo', 'ivwn spirudonuf', 'ivnh svriidnoov'}, {'ohhh koprdianvo', 'ihbm spyrdiowvo', 'iapn sphridhnvo', 'ivwn spyrodonov'}, {'ivyn spiritonvo', 'iubm sipreodnop', 'wwyy zfyrdianvo', 'ivmm svaridnoov'}, {'iapm sipritnooh', 'ipen spirdiowhv', 'ifan spiruodnov', 'wyiy ziprooynvo'}, {'ibnu sipridiwvo', 'yfya ciprdiewyv', 'ifvn spirdiunhv', 'ivwn speirdonov'}, {'ibin spordionhv', 'ifan spiruodnov', 'bihm xiprdiumvo', 'iavm sipriodnww'}, {'ypew ziwroodnvo', 'ivwn speridwnov', 'ibmy sipritnooy', 'ipvn sperhdoonv'}, {'wwyy yiprdiinve', 'ivfm sbiridoonh', 'ivwn spiridounv', 'ifom siprwdnoob'}, {'ibmm sipriodmav', 'oywa ziproodhvo', 'ivwn spriudonuv', 'ifbn spiroodnoh'}, {'ifmy spiirtoyvo', 'vhha ciphiotnvo', 'iapn siprdionhv', 'ifan spyridonyf'}, {'wioh wiprwodnvo', 'ivyn spirodonev', 'iofm sbiirdoonh', 'ivfm sbiradoonv'}, {'fnia ciprdieyyv', 'ivmm sphridanvo', 'ibni siprdiwmov', 'ivwn sporwdonyv'}, {'ifan spirdionav', 'ivpm sphriodnwv', 'ipmw siprednoop', 'eabm xihrdiunvo'}, {'ipbm sipraodwov', 'hhhw hiprdiowvo', 'ifan spriidonev', 'ibwn spriidymov'}, {'ipnm siprudnoop', 'vihh chpyiodnvo', 'ivvn spirwtonov', 'iebn svriidnoov'}, {'iepn spriidonwp', 'ifan spiridanof', 'hbih yiprdiinwo', 'iufm siprydoyvo'}, {'ivnn spiridynev', 'havh xiprwiunvo', 'ivmo spriidonhw', 'ibpm siprdionbo'}, {'ifbn spiirdoyvo', 'ifan spirdoinov', 'hhow zhyrdianvo', 'ipna siprydoyvo'}, {'iffm siprdiuwov', 'iebn sbhridoonv', 'vhuh yiprdihnif', 'ifan spyridwnof'}, {'hbuh iyprdiinvo', 'iyvm spriidayvo', 'ivyn spiritoonv', 'ifbn sbiridhnvo'}, {'iipn sphridwnvo', 'afna icprdioyvo', 'ihbm svhriodnvo', 'ivwn sporidonyv'}, {'owiy ziproodhvo', 'ipmu siprdienop', 'ivwn spyrudonuv', 'ibmn spiraodnoh'}, {'ifnm siprdiynhv', 'ibmn sphirdoonv', 'ivvn spiirdwnov', 'viym cipwiotnvo'}, {'iibm siprdionhf', 'ivmw sfiriodnwv', 'ivvn spiridnovo', 'uhnu chprdioyvo'}, {'ipmy siprhdnoop', 'ifam spiradnoop', 'wbiy ciprdioyvi', 'ivvn sparidionv'}, {'wayy cipyiadnvo', 'ifan spyredonov', 'ipnm siprodowvo', 'ibon sviroodnov'}, {'hiyw ziprdiohvo', 'ipam spiraodnob', 'ivvn spiridwnwv', 'iwvm siprdiewov'}, {'bihm cipyioynvo', 'ifhn sfiritonvo', 'ippm sfirdioyvo', 'ivyn spiridonaf'}, {'ipmm siprdiowhv', 'ibvn spriidonup', 'oyim qiproodnvo', 'ivyn spiridonvu'}, {'ypna ziyroodnvo', 'ivvn spirotonov', 'ipin sphridohvo', 'iapm spyrhodnvo'}, {'ipam sipridoyvo', 'ivwn spirudwnov', 'ipmu sipriodnwp', 'viwm kipwiodnvo'}, {'ipvn spirdionhh', 'ivwn sipritonov', 'ipnw svurwodnvo', 'viiy ziyroodnvo'}, {'ipen spirdionhp', 'ifan spirudwnov', 'ehna ciphdioyvo', 'ibvm siprdinooh'}, {'ibnm spiirthnvo', 'hhyy yiprdiinvw', 'ivbm sphrdionhv', 'ivvn spirudonvu'}, {'aavw cipwdioyvo', 'iobn spuriodnoy', 'ivwn spiridonyv', 'ifmi sipriodyav'}, {'ivbm spiriodnwb', 'vnha ziphiodnvo', 'ibnm sipradowvo', 'ivwn spyridonuf'}, {'ivyn spiwrdonov', 'iifn spirdioniw', 'bnia ciprdiewyv', 'iobm sfiraodnvo'}, {'ivyn spwrudonuv', 'iben spuriodyov', 'hwew ciphdioyvo', 'ievm sbyrdionvo'}, {'ippn sivridnoov', 'ivnn spiirdunov', 'ipem spurdiowvo', 'havy kiphdianvo'}, {'ifmn sipridnoow', 'uwym cipyiotnvo', 'ibma siprdioonb', 'ivvn spwridonyv'}, {'wwna hiprwodnvo', 'ivwn spiradonwv', 'ippm sphreodnvo', 'ibmn svaridoonv'}, {'ivym spiirdoyev', 'vhoy jiprdiwnvo', 'ipni siprdhonvo', 'ivyn spyridonav'}, {'ivvn spiredoonv', 'ipne sibrdionvo', 'ivhm sviraodnov', 'hyna yiprdiihvo'}, {'ohni kiprdaanvo', 'ivmh spiriodnwh', 'ivwn spirydonov', 'iypm sbriidhnvo'}, {'ipfn spirhdnoop', 'ibma sipridahvo', 'oovm ciphiotnvo', 'ivwn spirudounv'}, {'vioh qiprdihnvo', 'ivvn spairdonov', 'ipnu spriidiwvo', 'ifpn sibridoonv'}, {'ipmh sipridiwvo', 'ivvn spirdoonov', 'hioh cipyiodnyo', 'iben sfiritonvo'}, {'ibnn spyriodnop', 'vhoh yaprdiinvo', 'ivyn spiridonof', 'ifmu siprdiehov'}, {'ibwn spiritoyvo', 'vuoh ciprdieyyv', 'ifvm sipreodhov', 'ivyn spiriadnov'}, {'pioh cipyiodnyo', 'ifan spirdinoov', 'ipni sipriodnww', 'ivme spirdionhb'}, {'iupm sbiirdoonh', 'vhuh jiprdiowvo', 'ibin spriidonhw', 'ivvn spiridnuov'}, {'ivyn spwrudonuv', 'iben spyriodnhv', 'pium coprdioyvo', 'ibme siprdienoh'}, {'ibmy siprdionhw', 'ifan spriadonov', 'oahw hiprdiohvo', 'ivmw sfriidonyv'}, {'iupn spiritomvo', 'huvm wiprdioyvo', 'ivnn spirodonyv', 'iybm siprdionhw'}, {'vwia ciprdieyvo', 'ibfn sfuriodnov', 'ifan spiridenev', 'iabm svhrdionvo'}, {'hbuh xiphdiunvo', 'ifan sparydonov', 'iipn spirdinoop', 'ifhm sipridwmvo'}, {'iwbn sphrhdonvo', 'ibma spurwodnvo', 'wpum wiprdianvo', 'ivyn spiridunvo'}, {'ipfn spiraodnow', 'ibmu sipriodnwa', 'ifan sporitonov', 'efna ciwraodnvo'}, {'ivnn spirydonyv', 'ippn spiritnoop', 'ifym sfyrdionvo', 'hweh xiphoodnvo'}]
+ivan spiridonov     : DEBUG: Additional rule variations: {'ivna spiridonov'}
+ivan spiridonov     : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "ivan spiridonov": {
+            "first_name": {
+                "score": 0.8574999999999999,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.5499999999999999,
+                        "orthographic": 0.975,
+                        "combined": 0.7625
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.08,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "ivvn",
+                            "phonetic_score": 0.8683028517171261,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ivmi",
+                            "phonetic_score": 0.5053089271529799,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ihbm",
+                            "phonetic_score": 0.5053089271529799,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ynia",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.789886726362596,
+            "final_score": 0.8319093810900768,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 4,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.76,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.22499999999999998,
+                        "orthographic": 0.975,
+                        "combined": 0.6
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.08,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "spiridonev",
+                            "phonetic_score": 0.7192606986984332,
+                            "orthographic_score": 0.9,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "sviritnoov",
+                            "phonetic_score": 0.28942139522272203,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "sburwodnvo",
+                            "phonetic_score": 0.28942139522272203,
+                            "orthographic_score": 0.30000000000000004,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "yiprdiinvw",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "ivna spiridonov"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "ivna spiridonov": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "ivan spiridonov": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "ivna spiridonov"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "ivna spiridonov": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.8319093810900768,
+    "final_reward": 0.8319093810900768
+}
+ivan spiridonov     : DEBUG: ----------------------------------------------------------------------------------------------------

@@ -1,0 +1,2610 @@
+manuel weaver       : INFO: Generating variations for manuel weaver
+manuel weaver       : INFO: ----------------------------------------------------------------------------------------------------
+manuel weaver       : INFO: Effective rules: ['name_parts_permutations']
+manuel weaver       : INFO: ----------------------------------------------------------------------------------------------------
+manuel weaver       : INFO: Min Required Rule Variation Set: [{'weaver        manuel', 'weaver      manuel', 'weaver manuel', 'weaver   manuel', 'weaver     manuel', 'weaver    manuel', 'weaver  manuel', 'weaver       manuel', 'weaver         manuel', 'weaver          manuel'}]
+manuel weaver       : INFO: ----------------------------------------------------------------------------------------------------
+manuel weaver       : INFO: First name: manuel
+manuel weaver       : INFO: Last name: weaver
+manuel weaver       : INFO: ----------------------------------------------------------------------------------------------------
+manuel weaver       : INFO: Rule count pairs: [(0, 1), (0, 2), (1, 1), (0, 3), (1, 2), (0, 4), (1, 3), (2, 2), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (3, 3), (0, 7), (1, 6), (2, 5), (3, 4), (0, 8), (1, 7), (2, 6), (3, 5), (4, 4)]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 1 / 24: rule_count/nonrule_count: 0/1------------------------------
+manuel weaver       : DEBUG: O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: P: [0, 0, 0, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: P: [0, 0, 0, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.28179028]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 2 / 24: rule_count/nonrule_count: 0/2------------------------------
+manuel weaver       : DEBUG: O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: P: [0, 0, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: P: [0, 0, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.32]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 3 / 24: rule_count/nonrule_count: 1/1------------------------------
+manuel weaver       : DEBUG: O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: P: [0, 0, 0, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: P: [0, 0, 0, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.48179028]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 4 / 24: rule_count/nonrule_count: 0/3------------------------------
+manuel weaver       : DEBUG: O: [0, 1, 0, 2]
+manuel weaver       : DEBUG: P: [0, 1, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [0, 1, 0, 2]
+manuel weaver       : DEBUG: P: [0, 1, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.32214753]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 5 / 24: rule_count/nonrule_count: 1/2------------------------------
+manuel weaver       : DEBUG: O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: P: [0, 0, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: P: [0, 0, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.52]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 6 / 24: rule_count/nonrule_count: 0/4------------------------------
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.50925069]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 7 / 24: rule_count/nonrule_count: 1/3------------------------------
+manuel weaver       : DEBUG: O: [0, 1, 0, 2]
+manuel weaver       : DEBUG: P: [0, 1, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [0, 1, 0, 2]
+manuel weaver       : DEBUG: P: [0, 1, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.42214753]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 8 / 24: rule_count/nonrule_count: 2/2------------------------------
+manuel weaver       : DEBUG: O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: P: [0, 0, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: P: [0, 0, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.52]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 9 / 24: rule_count/nonrule_count: 0/5------------------------------
+manuel weaver       : DEBUG: O: [1, 2, 1, 1]
+manuel weaver       : DEBUG: P: [1, 2, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 2, 1, 1]
+manuel weaver       : DEBUG: P: [1, 2, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.48480831]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 10 / 24: rule_count/nonrule_count: 1/4------------------------------
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.60925069]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 11 / 24: rule_count/nonrule_count: 2/3------------------------------
+manuel weaver       : DEBUG: O: [0, 1, 0, 2]
+manuel weaver       : DEBUG: P: [0, 1, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [0, 1, 0, 2]
+manuel weaver       : DEBUG: P: [0, 1, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.42214753]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 12 / 24: rule_count/nonrule_count: 0/6------------------------------
+manuel weaver       : DEBUG: O: [1, 2, 1, 2]
+manuel weaver       : DEBUG: P: [1, 2, 1, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 2, 1, 2]
+manuel weaver       : DEBUG: P: [1, 2, 1, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.46470382]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 13 / 24: rule_count/nonrule_count: 1/5------------------------------
+manuel weaver       : DEBUG: O: [1, 2, 1, 1]
+manuel weaver       : DEBUG: P: [1, 2, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 2, 1, 1]
+manuel weaver       : DEBUG: P: [1, 2, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.55147498]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 14 / 24: rule_count/nonrule_count: 2/4------------------------------
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.60925069]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 15 / 24: rule_count/nonrule_count: 3/3------------------------------
+manuel weaver       : DEBUG: O: [0, 1, 0, 2]
+manuel weaver       : DEBUG: P: [0, 1, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [0, 1, 0, 2]
+manuel weaver       : DEBUG: P: [0, 1, 0, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.42214753]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 16 / 24: rule_count/nonrule_count: 0/7------------------------------
+manuel weaver       : DEBUG: O: [2, 2, 2, 1]
+manuel weaver       : DEBUG: P: [2, 2, 2, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [2, 2, 2, 1]
+manuel weaver       : DEBUG: P: [2, 2, 2, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.45813111]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 17 / 24: rule_count/nonrule_count: 1/6------------------------------
+manuel weaver       : DEBUG: O: [1, 2, 1, 2]
+manuel weaver       : DEBUG: P: [1, 2, 1, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 2, 1, 2]
+manuel weaver       : DEBUG: P: [1, 2, 1, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.53137048]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 18 / 24: rule_count/nonrule_count: 2/5------------------------------
+manuel weaver       : DEBUG: O: [1, 2, 1, 1]
+manuel weaver       : DEBUG: P: [1, 2, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 2, 1, 1]
+manuel weaver       : DEBUG: P: [1, 2, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.55147498]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 19 / 24: rule_count/nonrule_count: 3/4------------------------------
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.60925069]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 20 / 24: rule_count/nonrule_count: 0/8------------------------------
+manuel weaver       : DEBUG: O: [2, 3, 2, 1]
+manuel weaver       : DEBUG: P: [2, 3, 2, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [3, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [2, 3, 2, 1]
+manuel weaver       : DEBUG: P: [2, 3, 2, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [3, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.45121302]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 21 / 24: rule_count/nonrule_count: 1/7------------------------------
+manuel weaver       : DEBUG: O: [2, 2, 2, 1]
+manuel weaver       : DEBUG: P: [2, 2, 2, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [2, 2, 2, 1]
+manuel weaver       : DEBUG: P: [2, 2, 2, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.50813111]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 22 / 24: rule_count/nonrule_count: 2/6------------------------------
+manuel weaver       : DEBUG: O: [1, 2, 1, 2]
+manuel weaver       : DEBUG: P: [1, 2, 1, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 2, 1, 2]
+manuel weaver       : DEBUG: P: [1, 2, 1, 2]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [2]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.53137048]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 23 / 24: rule_count/nonrule_count: 3/5------------------------------
+manuel weaver       : DEBUG: O: [1, 2, 1, 1]
+manuel weaver       : DEBUG: P: [1, 2, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 2, 1, 1]
+manuel weaver       : DEBUG: P: [1, 2, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [2, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.55147498]
+manuel weaver       : INFO: ------------------------------Trying rule_count_pair 24 / 24: rule_count/nonrule_count: 4/4------------------------------
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [3, 3, 0]
+manuel weaver       : DEBUG: [484, 256, 0]
+manuel weaver       : DEBUG: [500, 329, 0]
+manuel weaver       : DEBUG: [180, 72, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [2, 3, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [500, 500, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [15]
+manuel weaver       : DEBUG: [349]
+manuel weaver       : DEBUG: [120]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [29]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: manuel, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: manuel, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: manuel, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: O: [1, 1, 1, 1]
+manuel weaver       : DEBUG: P: [1, 1, 1, 1]
+manuel weaver       : WARNING: Remains: 0
+manuel weaver       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+manuel weaver       : DEBUG: [9, 0, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [500, 24, 0]
+manuel weaver       : DEBUG: [500, 20, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+manuel weaver       : DEBUG: [10, 0, 0]
+manuel weaver       : DEBUG: [500, 38, 0]
+manuel weaver       : DEBUG: [500, 131, 0]
+manuel weaver       : DEBUG: [500, 146, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: [1, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0]
+manuel weaver       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+manuel weaver       : DEBUG: [14]
+manuel weaver       : DEBUG: [284]
+manuel weaver       : DEBUG: [135]
+manuel weaver       : DEBUG: [20]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+manuel weaver       : DEBUG: [27]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [500]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [0]
+manuel weaver       : DEBUG: [1]
+manuel weaver       : DEBUG: final:
+manuel weaver       : DEBUG: name: weaver, l_level: 0
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+manuel weaver       : DEBUG: name: weaver, l_level: 1
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: name: weaver, l_level: 2
+manuel weaver       : DEBUG: --------------------------------------------------
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+manuel weaver       : DEBUG: scores: [0.60925069]
+manuel weaver       : DEBUG: ----------------------------------------------------------------------------------------------------
+manuel weaver       : DEBUG: Best score achieved: 0.6092506902327667
+manuel weaver       : DEBUG: Best selected: 1/4
+manuel weaver       : DEBUG: Rule variations: [{'weaver        manuel', 'weaver      manuel', 'weaver manuel', 'weaver   manuel', 'weaver     manuel', 'weaver    manuel', 'weaver  manuel', 'weaver       manuel', 'weaver         manuel', 'weaver          manuel'}]
+manuel weaver       : DEBUG: Nonrule variations: [{'mynael wiwvur', 'minhli wuvwir', 'munuel weavir', 'amwuah ewawih'}, {'yenyle ewovww', 'mymwil wayivr', 'menuel weavur', 'munlee woevyr'}, {'manuhl wwaver', 'nawhle ewopew', 'momyyl wyhvri', 'mynael woever'}, {'mahynl whveer', 'ywunhl ewybre', 'mamlhe wuwfhr', 'manael waaver'}, {'mynaul wuafwr', 'awnhle ewwvaw', 'manuul weiver', 'mehnhl whapre'}, {'munlye wwwfhr', 'manoel waaver', 'mynuhl wwavre', 'amunow ewivyy'}, {'manlle woevwr', 'manuhl weover', 'aumnol ewuvre', 'miwnhl whapre'}, {'monuel whaver', 'maunlo wayvwr', 'mwunyl wyvuar', 'hnaeey wwoevy'}, {'mimwyl wwyvru', 'hnayey ewuwor', 'mownul wwaefr', 'manuil woaver'}, {'momwil wyabre', 'monnyl wuevir', 'manuul whaver', 'waunaw euaevw'}, {'moanle wevare', 'mannel weiver', 'mwinol wyypwr', 'hwunol iaevry'}, {'minuel weavir', 'manlue weoavr', 'momowl waubyr', 'mhwyle ewwvuy'}, {'munuel wiaver', 'mwenhl wvehhr', 'menyll weovru', 'amwuhe ewobir'}, {'meanle wiaphr', 'whunol ewwvwe', 'manoel waaver', 'mymeyl wubayr'}, {'mumywl wyyfyr', 'hnaoey ewabih', 'manuol weiver', 'myneul waivyr'}, {'manlah wayvir', 'myumil wabawr', 'manael wehver', 'hnauuy ewhvow'}, {'mianyl whevir', 'ywneuh ewoyew', 'maniel weiver', 'mymowl wiipur'}, {'mymiol wwybhr', 'manael woaver', 'amnale ewayow', 'maunlo woevir'}, {'mymwil waipwr', 'mynawl whveer', 'nwneuh awayre', 'maneel wuaver'}, {'maniel weavur', 'mwunlw waipar', 'amwuye uaevrh', 'minyll wuovwr'}, {'manlle wheevr', 'memuly wyepor', 'hnaoey eoevry', 'manoel woaver'}, {'munelw wuwvor', 'menlye wuhbyr', 'manull weavar', 'ynauah wyhhre'}, {'menlye wwefhr', 'manael weover', 'mouniw ewivwh', 'muynel whyvir'}, {'moanll wehfer', 'mymewl whbayr', 'weneuy haeevh', 'monuel weiver'}, {'mmaunl wuyvor', 'amnyli wivauw', 'munuel wuaver', 'mumyhl wuobwr'}, {'maiinl wayvur', 'manael weavir', 'amwuuh ewipey', 'mumhhl wuepwr'}, {'manael whaver', 'monwll wiufer', 'mwwile ewievh', 'menwlh wuwevr'}, {'mymhhl woubar', 'nwunal ewhweh', 'maynil woeavr', 'manuhl weavir'}, {'mnahoh ewyphr', 'mannlw weviur', 'manuol whaver', 'mhinyl waopur'}, {'menuel waaver', 'mauinl weviir', 'mumulw wiuebr', 'nhnile ewwhey'}, {'menuel woaver', 'yhnhle wyiyre', 'mumyul whubyr', 'maahnl weavre'}, {'menuel woaver', 'wayhle ewovre', 'mianwl wihvyr', 'myunwl whupor'}, {'maainl weouvr', 'menwlh woyevr', 'amnolu yeuevh', 'monuel weover'}, {'monleh weovra', 'mymohl wybawr', 'huyeul haevhe', 'munuel wwaver'}, {'manuhl weiver', 'mynule weeafr', 'mamlua wiyfhr', 'nounal wwwhre'}, {'manoel weavir', 'momyil wyvahr', 'amwuuw awawre', 'mmenul wuifer'}, {'minuel wuaver', 'myenle wwabri', 'manwll weiivr', 'amwuoh ewuwey'}, {'munuel wiaver', 'mehenl woebwr', 'ynaawl ewaeby', 'meynel wayvyr'}, {'maienl whaovr', 'manual weover', 'mimyyl wuoepr', 'mhwole ewapow'}, {'mwinwl wyhvro', 'mynaul waveyr', 'manuul weiver', 'nuunle ewahhy'}, {'manual wiaver', 'manwle whyvwr', 'nounle uaevrh', 'mymeyl wyufhr'}, {'manuul waaver', 'mywnhl wyubyr', 'hnauwy wyvaiw', 'maniwl weiyvr'}, {'manuhl woaver', 'nnauah ewuwur', 'mwemul wyyvre', 'mwynel wiavry'}, {'manael weuver', 'haunoh yayvre', 'manliy weyfyr', 'menhlo wubawr'}, {'menlew weifur', 'manuol weavur', 'mymohl wwvhhr', 'wamhle iwaevw'}, {'manluh weviyr', 'yyuneh wyvaih', 'manuul whaver', 'mhinle wwvair'}, {'moynul whahvr', 'mhunlo wwybhr', 'manuol weavir', 'mwmyle wwvayw'}, {'mimhol wwwbhr', 'hnaaey ewwhur', 'manual weuver', 'mmanul wevaur'}, {'manuil weavor', 'menwll wevyyr', 'monhly woebwr', 'nowule yiaevw'}, {'memwal wiyvrh', 'maneel wehver', 'mminel woavre', 'niwule ewipey'}, {'wnaohl oaevrh', 'mimwil wwwfir', 'mannel weavur', 'manlih wuevar'}, {'mynula weafwr', 'maneel wehver', 'weneuy eaeyvy', 'myynhl wyhvra'}, {'myinle wuepwr', 'monuel woaver', 'amwowl ewwevw', 'minnyl woyver'}, {'manael weover', 'menhlh waebre', 'huunol ewohar', 'monyyl wehfir'}, {'yhneuy eyivre', 'mamolw wywfyr', 'menlew woafar', 'manuil weuver'}, {'amwule ewibre', 'minewl wevayr', 'mhunwl wyvoir', 'munuel weavur'}, {'maneel wehver', 'myunoh ewaphh', 'munlwe whvhhr', 'mannli weveir'}, {'manual wehver', 'wyunil haevih', 'mawnyl wavewr', 'mymahl wyvayr'}, {'manuol waaver', 'mhynwl wyhvro', 'maiwnl wiaivr', 'immule ewovhy'}, {'mmanwl whavwr', 'yaheuh ewovww', 'mimwyl wabawr', 'munuel weavur'}, {'maniel woaver', 'waunaw ewuhar', 'mynelu wohvwr', 'mawmle wuopor'}, {'mieunl wieevr', 'menuel weavur', 'memewl wowefr', 'imnale ewyheh'}, {'manuil weavor', 'mennwl wwavyr', 'maemle waapre', 'mhyeuy ewahhy'}, {'manuhl waaver', 'mumhwl wyvaor', 'munelw waafir', 'mnayhw yiaevy'}, {'menhlh wyvoir', 'mhunow waepwy', 'monuly whifer', 'minuel weavur'}, {'nnaheh hevauw', 'mminul waauvr', 'mhonle wiibir', 'minuel wehver'}, {'manael weover', 'yawhle wyvauw', 'moanle wayvar', 'mymiyl woepir'}, {'mewnel wevare', 'maniel weavir', 'hamyle yyhvre', 'muynhl wyihvr'}, {'mannel wehver', 'manwyl wwauvr', 'whwule ewabhe', 'mymele wyyfyr'}, {'munewl weafor', 'mymial wybair', 'manuil wiaver', 'naweuh ewufir'}, {'manuhl wwaver', 'maounl whovwr', 'amnewh ewaphh', 'mymhal wiyfhr'}, {'maniel wiaver', 'mawwnl wevuor', 'ywneuh ewapow', 'miumwl wwabru'}, {'myunwl wowovr', 'wnauah ewahwy', 'mynuli weahfr', 'manoel weiver'}, {'hnauah ewaeby', 'maniel weavar', 'mamyla waobwr', 'mauhnl weifer'}, {'nyuneh hayvre', 'mwunol waebur', 'manluh weofir', 'manull weavor'}, {'muamyl webari', 'manuil weiver', 'mnayww ewivay', 'mwynul wwaphr'}, {'mhunle wyypwr', 'amnhow wuuevy', 'monlei weifir', 'monuel wuaver'}, {'muyeuy ewabyy', 'myneil weiavr', 'manual waaver', 'memuly whwhvr'}, {'mynoyl wowvor', 'ynaale ywabre', 'monhlo waabre', 'menuel weavir'}, {'mwinwl wowhvr', 'menlew wowvyr', 'manuol weiver', 'meheuw ewabro'}, {'manual wehver', 'yenile yyhvre', 'meonhl wwhphr', 'mynwwl wefaer'}, {'manoel wwaver', 'muwnel wweavr', 'munhli wwvaor', 'heunle ewwpew'}, {'maoenl wueavr', 'amnyle wyhwre', 'minuel waaver', 'mynhly wyebor'}, {'moanle wefair', 'mynhli wyebhr', 'manuol weiver', 'wayhle ehevry'}, {'maaunl wofaer', 'manuhl wiaver', 'mamwlu whibyr', 'mhheuy ewypur'}, {'hwunhl ewapre', 'munlea wuyver', 'memhul wowevr', 'manuil weuver'}, {'amwuyh ywabre', 'mumwal waypwr', 'manael wehver', 'manoyl whvoer'}, {'munuel weavor', 'meumyl wyvuir', 'mynelo weuyvr', 'wuyeul ewhpwr'}, {'manuhl wiaver', 'wyunil yoaevy', 'mwenyl wwbawr', 'munyll wefair'}, {'munnwl waevur', 'maniel weavar', 'mowile ewivrw', 'mamlhe wyebor'}, {'manllu wevaor', 'mimyil wyofyr', 'mnayyw ewawhy', 'maneel wuaver'}, {'moynel waavwr', 'hnaheh oavrwe', 'manual weover', 'mwonol wuvwhr'}, {'monuel whaver', 'muamle wwabro', 'hnaeuy yeuevy', 'monwll wuyvyr'}, {'menuel wehver', 'mymwhl whebre', 'maanyl whayvr', 'amwulu oayvre'}, {'monlue wayvir', 'mymaol wyhvry', 'yuyeul ewawiw', 'manual weover'}, {'meanwl weafar', 'mumyhl wyyvre', 'manoel weavar', 'amnaiw haevoh'}, {'munylh waopur', 'manuhl weover', 'nyuneh ewwpur', 'maoanl wuyvwr'}, {'maneel woaver', 'wuyeul yewevy', 'monyyl wevuwr', 'mymwul waebur'}, {'amwheh ewivhy', 'momulw wwebre', 'mannel weavor', 'manluu weovrw'}, {'myenhl whwivr', 'yyuneh ewyhur', 'maynol weuvre', 'maneel waaver'}, {'mannel wiaver', 'wnauah ewifey', 'mymulh wyviar', 'maonyl weayvr'}, {'manual wehver', 'yawhle ewivay', 'mmanwl wevair', 'mamhlu wveeir'}, {'maenll weahfr', 'hnaheh eyevry', 'mamily wiobwr', 'manull woaver'}, {'mynwll wiwvir', 'mymuly wahbyr', 'wnaoew euawre', 'manual weavar'}, {'minhlo wwwvry', 'hnaiey uaevry', 'mannel whaver', 'mauynl wiyvor'}, {'manleo wewwvr', 'manael weavur', 'munhlh wyypar', 'amwuwy hayvre'}, {'miynel wiyvor', 'mymulo wwwvri', 'menuel weavar', 'amnhlo ewvaow'}, {'monuel weavar', 'muwenl wwabrw', 'ynaheh ewypey', 'mennwl weeovr'}, {'heunol eiaevy', 'minuel wuaver', 'monwwl wwavru', 'mymiul wayhvr'}, {'mhynle whyovr', 'mannli weefer', 'manull weiver', 'hyunol ewwhar'}, {'monuel whaver', 'mywhle ewabhe', 'miuenl wiwvar', 'mhumle wiuepr'}, {'nnayew ewaivw', 'mwwenl waybhr', 'manuul wehver', 'meannl weavre'}, {'manuol weavar', 'nounil wwvaoh', 'muamle woubar', 'manowl weefer'}, {'mimowl wiibhr', 'meunaw eivroe', 'munuel woaver', 'mminel wowvwr'}, {'neunal oaevry', 'monuel weavir', 'mimyol waeypr', 'meanyl wiuvyr'}, {'maneel weuver', 'amnehe ewabru', 'menlwe wwwbwr', 'mynelu whvear'}, {'amnolu ewyhey', 'manoel weuver', 'mhyenl wyypar', 'mauenl weaivr'}, {'maniel weuver', 'memwhl waefrh', 'mmiunl weyvwr', 'nyunil euaevy'}, {'manael wiaver', 'mwumyl wwhphr', 'manoyl wheevr', 'amyeeh ewahre'}, {'manuol waaver', 'ammule ewypyr', 'mhonwl wowfhr', 'mauenl waovyr'}, {'munuel wiaver', 'manily weahfr', 'miynhl wwvore', 'nawile ewvahy'}, {'noyule wyhhre', 'monwwl whaovr', 'manuhl whaver', 'mwonol wiabre'}, {'maneel weuver', 'mwunla wwvaro', 'mowhle ewievh', 'mewnel wuavwr'}, {'ywunhl ewahwy', 'myuinl wwvhor', 'munuly wuavri', 'minuel weavur'}, {'mannel wehver', 'noyule ewuwew', 'mynulo waavri', 'mwynhl waepur'}, {'nuunew eyabre', 'manull weavur', 'meumwl wwovrh', 'miynel weaivr'}, {'manael wiaver', 'memewl wyviir', 'muaunl wevear', 'haunaw euaevy'}, {'nayeuh ewuwur', 'maynle wefoer', 'manoel weavar', 'minhlu whbawr'}, {'mannli weyvar', 'mnaahh ewuwew', 'manael wwaver', 'momhil wyfair'}, {'mhumhl wehbro', 'hnaule ewibeh', 'manoel weavar', 'munwyl waavyr'}, {'maeonl weehvr', 'wynhle yaeevy', 'mannel weavor', 'mynhlw whabra'}, {'hnayew ewabwy', 'manylo weufwr', 'manuol weavor', 'mhumhl wuobyr'}, {'manlea weviur', 'menhla wywvre', 'manael wehver', 'hyuneh ewwhar'}, {'mainnl wowfer', 'mhunli wyubyr', 'wayhle wyvaih', 'manull wiaver'}, {'manuol weavur', 'mwumle whybar', 'minelw wowvir', 'nonhle eoevry'}, {'mwmyle wyuevh', 'maaanl waeuvr', 'maniel weavor', 'mwenol wvyair'}, {'minuel weavor', 'mynuli waveyr', 'hnaule yeeevy', 'mymhal wwwvre'}, {'maannl woevor', 'monuel woaver', 'awwule ewayow', 'mumyal wowevr'}, {'mannlw woevar', 'mamhle wwvwir', 'maniel whaver', 'amnaly yuaevy'}, {'mawwnl whvaer', 'mumhyl wupahr', 'yeneuy ewuwur', 'menuel weavir'}, {'mumywl wyupwr', 'mewhle eoevrh', 'manuul wehver', 'manayl whyvur'}, {'mehnhl wwwbwr', 'monlue wevaer', 'mannel wuaver', 'hnahey hehpre'}, {'manluo woyvur', 'memywl wyvaur', 'wnauow ewaivh', 'mannel weuver'}, {'ammeeh yiuevr', 'mamylo wyvyir', 'maunla wuafar', 'manull whaver'}, {'monwwl weovyr', 'haunoh wowevy', 'myunly whhbyr', 'manuhl weuver'}, {'yenwle evaewh', 'mumewl wyvaor', 'mannel waaver', 'meannl weyvur'}, {'amnehh ewipeh', 'myniul wiuvwr', 'myenol wwifhr', 'minuel whaver'}, {'mwenyl waebir', 'manuol woaver', 'menyll wwofer', 'amwuwy uaevrh'}, {'amwulo wwwevy', 'mannel waaver', 'manlia wahvwr', 'momwhl wepari'}, {'hyunil ewypeh', 'mwumol waibre', 'meuunl wwafwr', 'manuil weover'}, {'maanle weyfer', 'manuil wuaver', 'mwonol wiobwr', 'naheuh ewafre'}, {'munlwe wuypyr', 'menyyl woyver', 'maniel weavor', 'amwiwl ewuhey'}, {'miumle wiepwr', 'manluo waivwr', 'manual weover', 'amwuuh haepeh'}, {'myenwl wwbaor', 'manuul weavar', 'monley weafre', 'wnauow ewahaw'}, {'manuil whaver', 'mynuul wuyvir', 'nnayew aaevry', 'mynilh woybhr'}, {'mannel wiaver', 'wnaulo wihevw', 'myenyl whwhvr', 'menley whaevr'}, {'mhunle woobyr', 'munowl wevair', 'yeneuh ewobey', 'manoel wuaver'}, {'hnauih awafre', 'mynual wewvor', 'myinle wuhbwr', 'manuhl weavir'}, {'monhlw wwabry', 'maanle wheavr', 'hnaoey awovre', 'mannel weavor'}, {'muiunl wevuyr', 'munhlo whobar', 'wnaoyl ewibre', 'maneel weavur'}, {'menlhe wwhevr', 'minuel wuaver', 'manlaw whwvar', 'amwulw ewypre'}, {'amwyle owivre', 'manull weavur', 'mimhal wwhvri', 'maunli whevar'}, {'monuel whaver', 'mhynhl wyohvr', 'myunoh ewwvru', 'menuwl weefer'}, {'mwunli wawuvr', 'manuol whaver', 'minlei wwovwr', 'hhneuy ywabre'}, {'myniol wayvar', 'yawile ewahay', 'manuhl whaver', 'mimwyl wwyvre'}, {'hawhle ewyhar', 'myneyl woavri', 'manoel whaver', 'mwinle waebir'}, {'mymuly whvwir', 'maownl waaivr', 'whwule wouevh', 'manuil woaver'}, {'munuel weavar', 'mynoll whvoer', 'amhule ewhwhr', 'mamwlw wyyvra'}, {'manael weover', 'muuniy ewovaw', 'minhla whobyr', 'mynnul weeuvr'}, {'myumul wwwhvr', 'amunoh hyhvre', 'manloi wuwvor', 'minuel whaver'}, {'maniel weavar', 'myneul weovry', 'mymelu wveuar', 'wnaaol ewuwir'}, {'mhumyl wwbayr', 'mynywl wuevor', 'mannel weavur', 'mhwyle yavrue'}, {'menuel woaver', 'nounhl euaevh', 'myinwl wuoepr', 'manyla wevihr'}, {'mwynhl whyefr', 'miounl wiavra', 'mannel weavor', 'mnayow ewwhar'}, {'myinle wyepor', 'manuul weavar', 'mhunoy wwvauw', 'mianwl weeefr'}, {'manuul wuaver', 'mwumal wwbare', 'manlii wavery', 'myhile ewwvyw'}, {'yamyle wyuevh', 'manual weavur', 'minwll woaphr', 'mhunlo wyvuhr'}, {'mhmeuy yaepwr', 'monwll wuwvwr', 'munhlu wiabre', 'maneel waaver'}, {'muanll whavri', 'homeul ewayhy', 'mannel weavur', 'mumayl wwabre'}, {'maamle wewbre', 'noyule heuevy', 'manuul weavir', 'myneel wihvwr'}, {'manuol waaver', 'wnaaol ewobir', 'minley wievir', 'mounhl wwbaor'}, {'mumoyl wyefyr', 'manael weavir', 'wynhle ewhhar', 'mieunl wiavrw'}, {'nouney ewievh', 'mwuinl wyupyr', 'manual weavur', 'menelw whayvr'}, {'nhneuh ewabra', 'maeenl wwavry', 'mymewl waepre', 'monuel waaver'}, {'myuinl wyofwr', 'nuunew ewifir', 'monuel waaver', 'monuly weyvra'}, {'hnaeey ewivwh', 'miumwl whepyr', 'mahnll wiafur', 'maniel weiver'}, {'myaenl wyvhir', 'nnaile yuaevy', 'munuel woaver', 'maaunl wowvur'}, {'maneyl whavri', 'manull weavur', 'mymyyl wyvohr', 'hnawil ewabyy'}, {'mamilw woebwr', 'menuel wwaver', 'wonhle ewahah', 'mmuunl wiaivr'}, {'hyunil hehhre', 'mymeol wuwbwr', 'myneal weyvyr', 'monuel wehver'}, {'nouney haebeh', 'manyli waavre', 'momowl wowfhr', 'munuel weavur'}, {'mynhlo wiyevr', 'manual woaver', 'mwunhh ewahra', 'manley wwivyr'}, {'mainlh wwabru', 'manuul whaver', 'muneyl wevuyr', 'woneuw ewwvuh'}, {'hnaulw ewupir', 'mymoal wwvore', 'muuenl weuuvr', 'maneel wiaver'}, {'munuel weavor', 'mawnlh wyefur', 'minwwl wevuer', 'mouniw ewabow'}, {'manwla wwaphr', 'muunaw uwabre', 'monuel wwaver', 'mamyle whobyr'}, {'maeanl wiwvyr', 'yamyle ewypre', 'minuel waaver', 'memyil whyuvr'}, {'amwiwl ewabow', 'menlue wuafer', 'mumwyl whyevr', 'monuel weiver'}, {'minywl weyvre', 'manael weavir', 'momyol wwwyvr', 'nwunhl ewoviy'}, {'mymoul waebhr', 'manull waaver', 'miaunl wuovwr', 'amwawl ewhwar'}, {'manuol wuaver', 'maynnl wewvor', 'woneuy huhvre', 'mimowl wiwbwr'}, {'monnwl weuovr', 'mhunyl wyuevr', 'manael waaver', 'amyail ewahuy'}, {'muuunl whafur', 'nhneuy ewaphy', 'mihnhl wiapre', 'manuil woaver'}, {'wynile ewawow', 'manull weuver', 'mumwal wwwvrh', 'mannle wiavre'}, {'mynula weahfr', 'manual wiaver', 'yaheuh ewhvre', 'mimhal wyvare'}, {'hnayil ewuwhr', 'menelw wewvri', 'mumwyl waebhr', 'munuel wwaver'}, {'mmaunl wiyvar', 'mywile awivre', 'mamluo wabawr', 'mannel weuver'}, {'mieunl wayvwr', 'myenil wohpwr', 'hawhle yeoevy', 'manuul woaver'}, {'amnaiy ewabwe', 'maniel wwaver', 'mumuly wowepr', 'moounl waeefr'}, {'yneule ewiwir', 'myeenl waobwr', 'mannel weavur', 'manewl weovwr'}, {'mimyyl whwevr', 'nouney aaevrh', 'manual weavur', 'moynul wiaevr'}, {'hnaail ewabro', 'muanll weifur', 'manull weiver', 'monhlo woupur'}, {'wiwule ewyheh', 'manuhl wiaver', 'monlea wevure', 'myonil wyybhr'}, {'wnaule ewuwwr', 'maounl waeefr', 'mamwly whwevr', 'maneel weavir'}, {'maanll weafir', 'manuul weover', 'mamwlh wywbwr', 'amwule yavrue'}, {'maniel weavir', 'mnahhh ewahoy', 'manliy weevur', 'maemle wwobwr'}, {'manael weover', 'mymehl wyhvre', 'amunow ewywir', 'menely weofur'}, {'mahnyl wiavrw', 'momwhl woapre', 'naheuh euapre', 'manuil waaver'}, {'maunlw wiwvar', 'minuel weavor', 'woneuw ewihar', 'maonlh wyvare'}, {'mennwl wevoer', 'memhhl waebru', 'amnyle ewwbew', 'menuel wiaver'}, {'mnaahh ewwpur', 'mymyhl woybhr', 'mynail woevar', 'manull woaver'}, {'munuel weavor', 'mmynul wevari', 'miwole ewivuh', 'muwenl wopaur'}, {'maniel woaver', 'mwenwl wwwepr', 'mnahhh euvrie', 'mynelo woaefr'}, {'ynaulw yayvre', 'munyll wwofer', 'menuel weavar', 'mumuly wvoair'}, {'mymulw wyvawr', 'yehule ewivah', 'mannel wwaver', 'myniyl wieevr'}, {'nyunil eoabre', 'mmanle whfaer', 'mamhlo wobawr', 'manael weavor'}, {'maniel weuver', 'mmaunl wewvra', 'myeenl wyvuhr', 'ammial ewabyy'}, {'mynahl waivyr', 'amneuw ewobew', 'mwunly wuwbyr', 'manuul weavur'}, {'menuel woaver', 'myuniy ewahah', 'maennl whfaer', 'mamhlw whbayr'}, {'manlli weiyvr', 'amwuuh ewhbey', 'manuhl wuaver', 'mymaal woubar'}, {'monuel weavir', 'amneuy ewahra', 'maonwl waeevr', 'mymewl woepur'}, {'manuhl woaver', 'whwule ewohey', 'munlee weyfyr', 'mwunal wyoyvr'}, {'mwunlw wahhvr', 'munuel waaver', 'mhunhw ewaevy', 'munlea whaevr'}, {'maniel weover', 'miwnel whwvur', 'mumewl wuipwr', 'mnayww ewubre'}, {'momhol wewbre', 'mywile yeoevy', 'manlou woevir', 'maneel wiaver'}, {'amwuah iwivre', 'maynel wowvar', 'maneel weavir', 'momhol wyhvre'}, {'maneel weuver', 'myhnyl wwvyyr', 'nouney ewivyh', 'manllu weivwr'}, {'manuhl wwaver', 'mouniw ewuevy', 'mumewl wwapru', 'maionl whevyr'}, {'amwhwl ewhvow', 'muamhl weobre', 'menuly wevier', 'manuul wwaver'}, {'memyil weypre', 'mannel woaver', 'whneuy ewhbir', 'miannl wuaphr'}, {'maneel whaver', 'mynlea weuvyr', 'mimwhl wowefr', 'amweuy ewovre'}, {'wnaheh awapre', 'mmanul wwafer', 'myunlo wveeir', 'manoel weover'}, {'wnaoeh owabre', 'munuel weiver', 'memyhl wwapro', 'munwwl wiavry'}, {'mynnul weveir', 'monuel weavar', 'amnhow eaeyvy', 'muamyl wyoyvr'}, {'momwhl whwevr', 'minuel weavor', 'moeunl whevur', 'wnahol wwvayy'}, {'minywl whawvr', 'manual wiaver', 'mwenil wuybor', 'nnaaal ewovaw'}, {'meunhl woepur', 'myniul waeefr', 'mnahyh ehivre', 'manoel weiver'}, {'menuel waaver', 'emwule yyaevy', 'mymahl wwyevr', 'maonwl wevaar'}, {'miunlh wiuepr', 'mhunaw hihvre', 'manuul whaver', 'maniwl whavri'}, {'mwunlw wyhpwr', 'niwule wiuevy', 'munely whavri', 'manull woaver'}, {'maehnl wevayr', 'manuul weavir', 'ninile ewivry', 'mynhly waeybr'}, {'mwumol wwyvre', 'maneel weavor', 'yawhle yavrue', 'manllw whafer'}, {'menyyl wowvor', 'mhenwl wiipwr', 'amnile evaeww', 'munuel weavur'}, {'mimeyl wypair', 'mmunul woayvr', 'wamyle iwabre', 'manuul wwaver'}, {'manloy wuauvr', 'wnauoh iwaevw', 'manull waaver', 'monhlh wyviir'}, {'manoel wehver', 'memeyl wawpwr', 'mynyll wahvwr', 'younle iaevrh'}, {'nuunwl hohvre', 'myunhl whebar', 'manelw waevwr', 'manual weavar'}, {'minuel weiver', 'mynaal weofyr', 'nnaule eyevrh', 'mynhly wyubyr'}, {'myunli wvehhr', 'muunaw ewowew', 'manuil wwaver', 'mieunl wefoer'}, {'menuel weavur', 'mywnul weahfr', 'wenhle ewybre', 'mawnlh wawbwr'}, {'mumhul wwebwr', 'manuul weavor', 'mynnel wuwvor', 'amnolu ewwbur'}, {'manull weuver', 'mynlew wevawr', 'hnaoil ewabry', 'miyenl weebre'}, {'maaonl wiavro', 'myoenl wehbre', 'manoel weavur', 'imyule ewvahy'}, {'myinhl waubyr', 'manull weavar', 'manylu whevyr', 'yewule yaepwr'}, {'ynaheh ewowew', 'mwaenl wuwfhr', 'maniel weavor', 'mynywl weuhvr'}, {'muumle whifhr', 'maniel waaver', 'hnauyy ewophr', 'mannwl wowfer'}, {'nyuneh yiaevy', 'maanwl wiyvir', 'munuel woaver', 'mimewl wwhpwr'}, {'mmanal wefaer', 'amwweh ewipeh', 'maneel weavor', 'mhunlu wwfair'}, {'mwunle wawpwr', 'monuel weuver', 'manlli weuivr', 'mhunhw ewivhe'}, {'manuol wuaver', 'manlyy wwavwr', 'miunlh waepar', 'mowhle ewhpwr'}, {'mymwol wyviar', 'muneyl waeavr', 'yhneuy ewofey', 'manael wehver'}, {'mynell wuwvir', 'yamyle ewovre', 'manoel weavur', 'muyenl wwapro'}, {'monwlh wiapre', 'manuil whaver', 'amyule ewypey', 'mynele wiwvir'}, {'minnwl weveyr', 'manuol weavar', 'maimle weypre', 'mhyeuy evwaar'}, {'munhlu wwhyvr', 'maoonl woovwr', 'nuuney awapre', 'manuil waaver'}, {'weunle ehivre', 'manoel weavor', 'miynul weyfyr', 'mhumyl wivhhr'}, {'manoel weuver', 'mynial weevyr', 'mhumhl wwviyr', 'amneuw haaevw'}, {'miwhle ewwwur', 'maneel weavar', 'memwyl wwabri', 'mynely wuwvor'}, {'minuel wuaver', 'memhwl wuybur', 'manlio weiyvr', 'hyunil ewahvy'}, {'monleu weuhvr', 'hhunol ewahvh', 'maneel weavor', 'memulw wahbyr'}, {'mnaahw ewiwre', 'manuhl weiver', 'manlua wievir', 'muwenl wveear'}, {'wnawol ewifre', 'mamlwe wwvare', 'manull waaver', 'maaenl wayvar'}, {'miynel weoefr', 'mhumle wwwyvr', 'mannel weavar', 'nameuh ewiviy'}, {'mannel weavir', 'menylh wuwfhr', 'manlaa woevyr', 'hnauih ewabwy'}, {'manual wehver', 'minoyl wayvyr', 'mamilw weobre', 'aumnol ehevrh'}, {'nnaeuh ewyvhy', 'manael woaver', 'manwlo weuevr', 'mymoul whwbir'}, {'wnaahl ewaivy', 'myenhl waobyr', 'minywl weviyr', 'manuil weavur'}, {'awwule ewuweh', 'mymeyl wwhbhr', 'mwynel wuyvwr', 'manual weavar'}, {'minuel woaver', 'miumle wwabrh', 'imnwle oayvre', 'manyle weovrw'}, {'mannel weavir', 'mieunl wevehr', 'mymhwl wwvaro', 'ynaulw ewuwew'}, {'manael weuver', 'mynowl wewvre', 'mynhlo woifhr', 'amnwle wuvauw'}, {'muunlh wopaur', 'mynelw wevuer', 'manuhl wiaver', 'amwile eiwvre'}, {'maniwl weifyr', 'manuhl wuaver', 'mumwal wayuvr', 'yeunle evawrh'}, {'mymwwl wwfair', 'manual woaver', 'munnyl weeovr', 'hhwule evyahr'}, {'maohnl weovwr', 'hmwule ewaphy', 'minuel weavar', 'mahmle wwvair'}, {'mnaawh ewihyr', 'mynhly wyipwr', 'munlee weuyvr', 'maneel wuaver'}, {'mymyol wwvwhr', 'menuel whaver', 'miwnel wiavra', 'amwuhh wwuevy'}, {'menuel weavor', 'memiwl wyubyr', 'nuunwl ewuwwr', 'manylw wweavr'}, {'manluh wewfar', 'menuel whaver', 'momwhl wwapri', 'wnaawl wowevw'}, {'mymehl waipre', 'heneuy ewiyeh', 'manyll wewvri', 'maneel weavir'}, {'mymyal wyepwr', 'mewhle wowevy', 'menelw wiovwr', 'minuel weavur'}, {'nounew ewwbey', 'mwonhl wyipwr', 'maywnl wehvwr', 'manuil woaver'}, {'momyal wowbwr', 'manlaa weeuvr', 'nuunle ewohey', 'minuel weavur'}, {'minleu wevaer', 'memywl waopur', 'nonyle ewayre', 'manuil waaver'}, {'amnehe hehwre', 'mynwyl weeevr', 'manull wwaver', 'mwoenl wyihvr'}, {'mannel weavir', 'hnaiey haevuh', 'manlue whuvwr', 'muynhl wyepwr'}, {'nuneuh ewufir', 'maneel weiver', 'mymool wyviir', 'mawwnl wwaevr'}, {'hnauah yavrue', 'muynel wevewr', 'monhla wyhvru', 'mannel weuver'}, {'manull wuaver', 'munowl wiivyr', 'mymaal woypwr', 'nounil eoevrh'}, {'yneule eyaevy', 'mauenl woyvor', 'mamlye whvwir', 'monuel weiver'}, {'mayynl woovwr', 'manual weavir', 'nunile ewahiy', 'mynilh wwabro'}, {'mmynel weafri', 'naunah ewipre', 'mannel weavor', 'mamloe wiwevr'}, {'memewl wyevru', 'manuil weiver', 'hhunew ewabwy', 'mynwwl whaevr'}, {'mamlae wwapru', 'yewule haeyeh', 'mawnle weauvr', 'manuil woaver'}, {'manuhl woaver', 'myunoh ewabwy', 'mwhenl woebyr', 'menwll wehfer'}, {'mynlue weefwr', 'manual waaver', 'yhneuy ywaevy', 'mumiyl wiipwr'}, {'yenwle uwabre', 'minuel woaver', 'momywl wawuvr', 'maunyl whifer'}, {'nowule ewhbey', 'maienl wevuhr', 'manuul woaver', 'mweenl wyofwr'}, {'menewl wuaevr', 'wwunhl ewvaow', 'monhla weypre', 'manoel whaver'}, {'manuul wuaver', 'maiynl whayvr', 'muonhl weopre', 'mnaahh wihhre'}, {'mamolw wwebwr', 'manuol weavor', 'mhmyle ewabri', 'mynuhl wuever'}, {'manual weavir', 'mamilw waebir', 'amwuwy ewwyew', 'maonle wieavr'}, {'miynul whvaer', 'manoel wiaver', 'momiwl wahbyr', 'nuunil ewayow'}, {'mowhle haevrh', 'manoel waaver', 'manlae weuhvr', 'myonyl woobwr'}, {'amwuah ewyvhy', 'maihnl weiuvr', 'mymhhl waipwr', 'manuhl weuver'}, {'woyeul yoaevy', 'maunyl weovro', 'maniel wehver', 'myeenl wwvyyr'}, {'munuel weavor', 'maanle wevahr', 'mounaw ewabay', 'myuanl wwhpwr'}, {'manlea whevur', 'mweenl woybwr', 'manuil wiaver', 'ammeeh ewivru'}, {'wnahle euevry', 'menuel wehver', 'mymaul whhpwr', 'menwyl wwavry'}, {'wnaoew ewuwhr', 'mawnlh wyvari', 'monowl wuayvr', 'maniel wuaver'}, {'meunhl wowbhr', 'hnauiy ewabuy', 'mmeunl wayvwr', 'manoel whaver'}, {'hmwule ewiyeh', 'manlww wefahr', 'manuol wwaver', 'memwul wuhbyr'}, {'amweuw ewuvre', 'maneel wehver', 'memiyl waepur', 'maohnl wewvur'}, {'haunow ewyhir', 'mhinle whupyr', 'manuil weiver', 'maeunl weefir'}, {'nouneh awuvre', 'manual woaver', 'monhlo wyevre', 'mmenul wuyvar'}, {'yuneuh ewabhy', 'mannla wewfar', 'mimulw wihevr', 'manuil weavir'}, {'maniel wiaver', 'mhwyle awovre', 'mwumyl whupyr', 'mmunel weofur'}, {'monuel weavor', 'mownel weverw', 'imnile ewwhey', 'myonil waybhr'}, {'mnahah ewifey', 'mamylo woobyr', 'maaenl wevoar', 'manull wiaver'}, {'minhlu wwwwvr', 'mynnwl wwevar', 'manael wehver', 'mwunaw wwievy'}, {'yuyeul ewhwre', 'manuul woaver', 'mwenhl wyyfar', 'mminel whyvar'}, {'mnawah ewahvy', 'monuel weuver', 'memhal wiabru', 'minuyl weafri'}, {'manoel weuver', 'mianwl woevir', 'mhwyle ehhvre', 'monhlo wvewir'}, {'meeunl wiyvur', 'manuhl weiver', 'miwwle ewwvuy', 'mymuly wiobwr'}, {'manuhl wwaver', 'manlie wwevir', 'mamhlu wyhhvr', 'hnauiy yeyevy'}, {'maemle wehbri', 'maneel wehver', 'amwuwy ewwfur', 'mmanal whaovr'}, {'mhunww haivre', 'myinil wwobyr', 'maneel weavor', 'maaanl woaefr'}, {'nounhl ewaeby', 'manull wwaver', 'memwwl wyohvr', 'myynel wiovwr'}, {'munuel weuver', 'mynlei whahvr', 'mumwal wiybhr', 'muunih wuvauw'}, {'miunlh wehbru', 'minulw wuaevr', 'nhnhle ewwvuy', 'manual weavur'}, {'amnaiw ewypew', 'mimwol waepre', 'manuol weavur', 'mynohl wefair'}, {'nonyle wyvaiy', 'monulw woevur', 'momulw wwobar', 'manoel wuaver'}, {'nayile yewevy', 'manuul weavar', 'momywl waypwr', 'mawnyl woivwr'}, {'mwonil wyeefr', 'naunaw aayvre', 'manuhl whaver', 'munwyl weivwr'}, {'minhlu wivwir', 'manoel weavor', 'haunow haevah', 'manilw wwavrw'}, {'minuel wiaver', 'manluy wevear', 'ynaahl ewivoy', 'mumwal wwebre'}, {'myhnil wiofhr', 'manuol woaver', 'minuly wehfyr', 'nynale awabre'}, {'mamylu weebre', 'manuol weavir', 'amwuoh hehhre', 'mynuly waivyr'}, {'mnayow ewuyir', 'munuel wuaver', 'manliw wevaar', 'minhla wuhpwr'}, {'menlea wevari', 'yeyule ewwvhy', 'myumul wovhhr', 'manull weavir'}, {'amweeh ewivyy', 'manuul weover', 'mhenle wveeyr', 'mynwwl waverw'}, {'muuniw ewhbir', 'mwenhl woipwr', 'manuil wwaver', 'manlay wwavri'}, {'younil ewobir', 'monayl wauvwr', 'maamle wwvwyr', 'munuel weavur'}, {'minuel weiver', 'manolw whauvr', 'hounle ewypur', 'mhumyl waeypr'}, {'menuel wwaver', 'mianle wevari', 'mamyla wwwyvr', 'mhwwle ewahow'}, {'hnayil ewhwhr', 'myneil woafer', 'menwlh wowuvr', 'monuel weiver'}, {'manuul wuaver', 'mamily wyefwr', 'hounol hawvre', 'maynyl wiaevr'}, {'yuyeul ewabru', 'memhil whupor', 'maonyl wuwvor', 'manual wiaver'}, {'maneel weavar', 'momwul wuwbwr', 'manlli wayvur', 'imnale ewhbre'}, {'mywenl woubar', 'meiunl wuafwr', 'mannel wwaver', 'awnhle evhaor'}, {'manual wiaver', 'hawhle ewaphh', 'manlla wevayr', 'mamwla wveear'}, {'mannel weover', 'mumwyl waypur', 'manylo woovwr', 'wamhle ewobey'}, {'meweuw haevuh', 'mhunlu wwapru', 'maewnl woevwr', 'manull woaver'}, {'myhnol waibre', 'wnaool ewubre', 'maywnl wiwvar', 'minuel wehver'}, {'mamhlw wyhpwr', 'monulw weoavr', 'monuel wwaver', 'amheeh ewabyy'}, {'memhul whyevr', 'yameuh ewwfur', 'mynowl wuwver', 'monuel weiver'}, {'maaenl wevaur', 'whunew yoaevy', 'mynhli wyifyr', 'menuel weover'}, {'mwoenl waybur', 'manuhl weavur', 'manwlo wayvor', 'amyeeh ewvauw'}, {'myenal wubawr', 'nhunal oaevre', 'manlly wwavry', 'manoel wuaver'}, {'mwonil waeybr', 'nonile ewihwr', 'myniul waevor', 'manoel woaver'}, {'maniel weuver', 'mounhl wyvuir', 'nineuh ewuviy', 'monulw woaevr'}, {'menuel wwaver', 'menlei whwvwr', 'amunoy ewhweh', 'mamlie wuipwr'}, {'mynnul wiovyr', 'manual wiaver', 'mnawah yyaevy', 'muumhl waepre'}, {'munley wiaevr', 'miwwle wyuevh', 'mwonal wyvair', 'manuil woaver'}, {'manuil weavor', 'maenwl wuaefr', 'wounle ewivrh', 'momwol wwhevr'}, {'mhuniw ewwhey', 'manoel weavor', 'mwenal wowbwr', 'miynel weuwvr'}, {'manloe wwavri', 'amwuuy euaevw', 'manuhl wuaver', 'muumwl wwvaru'}, {'maneel woaver', 'miunlh wyevru', 'nuuneh ewivry', 'miannl wuwvir'}, {'munewl wiwver', 'haunaw ewiwey', 'myenyl wyufhr', 'mannel weavor'}, {'manael wiaver', 'momyol wyefyr', 'maonyl woevar', 'nuunle ewifre'}, {'manwle wewyvr', 'muenhl wyvari', 'manuul whaver', 'nouney ewivhe'}, {'nnaule ewypur', 'minuel woaver', 'mawnyl wuwvwr', 'muumyl whevrh'}, {'nhneuh eiaevy', 'munayl whaefr', 'manuul wehver', 'myinol wwvaor'}, {'muannl weiphr', 'manuhl wuaver', 'momayl wuwbwr', 'wyuneh wowevh'}, {'maneel weover', 'mauwnl wevoer', 'mhunlu wwvari', 'younil ewobir'}, {'mwuinl whhbwr', 'heneuy ewifhr', 'monuel weuver', 'munuly wwafwr'}, {'mumyhl wwabre', 'amwuoh oayvre', 'manuul weiver', 'muanwl whfaer'}, {'monlue whyfer', 'mouniy ewuvhy', 'manuhl weavor', 'mamhla whofhr'}, {'munuel weavar', 'myonhl wywhvr', 'woneuh hwivre', 'muannl wwauvr'}, {'nunile evuaur', 'mymuly waepru', 'maanle wayvor', 'mannel weuver'}, {'mhhhle haaevw', 'momhul wiuepr', 'manuul weiver', 'meaunl woaphr'}, {'manuul wuaver', 'moynel woeevr', 'yeyule ewohey', 'myunlu woebir'}, {'ynaawl hehfre', 'mymehl wwhfir', 'manoel whaver', 'mianwl weaphr'}, {'manely wevaur', 'manuol woaver', 'nonile ewuvhy', 'myumol wowivr'}, {'niunal ewuwir', 'maneel weuver', 'myniel wwavri', 'mwenil wyifar'}, {'maniel weavar', 'mauhnl weaphr', 'maimle wwpayr', 'nawhle hwhvre'}, {'wnauoy ewhbey', 'mwunyl wuipwr', 'muanll wevour', 'menuel weavir'}, {'minuel weuver', 'mannli weiavr', 'mwuinl wyefre', 'muwhle oaevrh'}, {'amnehe ewwvyw', 'monowl whyver', 'mannel wuaver', 'monhli wewbre'}, {'mwuonl wyvuar', 'amnhly ewihew', 'minlee wiauvr', 'manuil woaver'}, {'myeenl wiupwr', 'hnayey euaevw', 'manoel whaver', 'muniyl wewfer'}, {'manluy weofur', 'maneel weavor', 'ninale ewyhur', 'mwumol waebhr'}, {'manoel wwaver', 'meniyl wiyvir', 'mwunlw wuwefr', 'woneuh ewaivy'}, {'yyuneh ewyphr', 'momhil wyvuhr', 'maneel weavir', 'myniil wevawr'}, {'minuel weavir', 'manaly whwvar', 'mamloe wyhvra', 'neunle ehabre'}, {'mannel wiaver', 'mwienl wwvahr', 'mownel woever', 'yeyule wyvaiw'}, {'imnwle eiaevy', 'memwwl whhevr', 'moanll woayvr', 'manael weavor'}, {'mumhol wapawr', 'wyuneh ewobwr', 'manuhl wuaver', 'monleo weavru'}, {'ammule hwhvre', 'minlei wowvar', 'mwunwl wihpyr', 'menuel weover'}, {'mnahah yoaevy', 'maaynl wehvri', 'menhli wivwir', 'manual weiver'}, {'maniel weavur', 'maniyl wuavri', 'monhlo wuyuvr', 'nomule hehfre'}, {'manoel wehver', 'amneoh ewwyur', 'manlay weyyvr', 'mumwal wuybar'}, {'manlee weufur', 'maneel weavor', 'ynaulw ehivre', 'mymaol woepir'}, {'manael wiaver', 'manilw weevri', 'mymlue wyyfir', 'nhneuh ewivrh'}, {'ynayew hevauw', 'manlai wwavrw', 'menuel weavur', 'munhlw wvewhr'}, {'manyla weifyr', 'manael wwaver', 'nnaawl ewuwey', 'meunhl wowebr'}, {'mannlw weophr', 'amnale ewaevy', 'mamlwe wuyuvr', 'manuil woaver'}, {'monnwl wiafur', 'mymulw wiopwr', 'manuol weiver', 'mwunhy ewivuy'}, {'mynehl wievwr', 'hnaulw ewhbre', 'mumhal wypawr', 'monuel wehver'}, {'mamhlw wwhbwr', 'mminel whwvur', 'neunle ewawiy', 'manuul weover'}, {'munuel weavor', 'mynuli wevuwr', 'myinil wiyevr', 'amneuw haevhh'}, {'manluo weehvr', 'manuul wiaver', 'mymial wiefhr', 'ammule ewovyw'}, {'mennyl woayvr', 'manael waaver', 'wnaawl wiyevw', 'mwenhl waifhr'}, {'wnaoal ewivuy', 'manuul woaver', 'mhunlu wwebre', 'mynule wuaphr'}, {'manual waaver', 'mhwole ewwvww', 'mamhly wyvowr', 'myneyl woyvur'}, {'mumhul wyybhr', 'menuel whaver', 'manlle weeavr', 'hnaiey ewaehy'}, {'manoel waaver', 'monhli wyyhvr', 'manowl weofir', 'hnayew ewuwew'}, {'manlae weivri', 'manuhl wiaver', 'mamilw wyvaur', 'yhneuy wwvayw'}, {'mmynul weavre', 'manael weavar', 'mainlh wuvwhr', 'amwula ehivre'}, {'wonhle ewafre', 'muannl wewvar', 'mamlye waebre', 'monuel wehver'}, {'manoel waaver', 'menewl woyvir', 'mamylw wehbrw', 'mwmyle wyiyre'}, {'myenil webari', 'muuenl wuafir', 'muunaw ewypyr', 'manuil waaver'}, {'muamhl wobawr', 'mannel whaver', 'amneuh ewafow', 'manyly weovru'}, {'maneel weiver', 'mewile haeevh', 'munhle waybur', 'munleo wavewr'}, {'manuol weover', 'mynnyl woaevr', 'monhlu whybhr', 'amweuy ewhbey'}, {'amwole ewubir', 'mymulu wowefr', 'munleu weifor', 'maneel weavur'}, {'memulw woubar', 'maahnl woavri', 'manoel weover', 'amnali ewivra'}, {'monuel weavar', 'maeanl weuovr', 'mhunaw haeheh', 'menlhe wuepwr'}, {'hmwule ewwvhw', 'maniel weover', 'memulw wobawr', 'menoyl wuhvyr'}, {'munlee wiefer', 'mhunaw ewwbur', 'mwemul waebor', 'manuhl wehver'}, {'myeenl wyefwr', 'amnhly ewaivy', 'mahnle weefwr', 'manoel wuaver'}, {'mymuly whhevr', 'manuil whaver', 'nonole ewyhhr', 'miwnul weufwr'}, {'mynlue whaivr', 'nonile haeweh', 'mannel weavor', 'monhlw wwhfir'}, {'mynyyl weyvwr', 'mywenl wwvari', 'maneel weavor', 'haunow ewovww'}, {'manoel weavir', 'hounol ewuwar', 'mamhli wiapre', 'monlei wevoir'}, {'myunah uaevrh', 'mymehl wybair', 'mynule waavri', 'manull woaver'}, {'mamily wyapre', 'maniel wiaver', 'amyeeh ewayow', 'manlau wiavru'}, {'haunoh haevuh', 'manuul weavir', 'monhlu whvwor', 'minelw whofer'}, {'mynulw weayfr', 'mamlae wiobhr', 'manuil wehver', 'hhunol ewipeh'}, {'manual wuaver', 'miynhl whhbwr', 'mwunhh hehwre', 'moynel weveyr'}, {'mauonl wiovwr', 'minuel weuver', 'imnhle yavrue', 'mymeol wuifhr'}, {'menlue wiayvr', 'manuul weavor', 'miwnhl waupwr', 'nunile awabre'}, {'menuel weuver', 'wnaaol yayvre', 'mainnl weeivr', 'mymlue whyefr'}, {'mounlh whebre', 'amwuah ewifeh', 'maniel waaver', 'manluo wahvyr'}, {'mynail weyvyr', 'hamyle ewahaw', 'maniel weiver', 'mhinhl wyefur'}, {'menuel woaver', 'mynoul wuyvur', 'mamluy whwbwr', 'mhuniw ewahah'}, {'wnaoyl ewhwyr', 'minuel weuver', 'mamylu wyafre', 'muniyl weyfwr'}, {'mynela weaivr', 'muwhle eievry', 'manuil weover', 'myunlu wuypur'}, {'mynhlu wuybir', 'nnaile ewypur', 'manwla whvaer', 'manoel woaver'}, {'menuel weiver', 'mawnyl wefoer', 'myenyl wwvare', 'hnaahl haevoh'}, {'monwlh wahbre', 'nhunal ewwevw', 'manuul weiver', 'munuyl wayvyr'}, {'mawnlh wwebre', 'munewl wayvur', 'hnaawl ewayow', 'mannel weavor'}, {'mhuniw ewwbir', 'meuenl waeavr', 'manual weavur', 'mwinyl wuwbwr'}, {'amnolu ewovww', 'maneel weavar', 'mynhla wwwhvr', 'muanyl weevre'}, {'minuel woaver', 'mynleo wiaevr', 'mamhle wopaur', 'nnaile haivre'}, {'manlah wiavrw', 'wnaoal wiievw', 'manoel weavur', 'mymaul whubar'}, {'manael waaver', 'meenhl wuwevr', 'amwhwl uaevrh', 'muanyl wiofer'}, {'mwenol wyebhr', 'manael weuver', 'amweeh ewabru', 'meneyl wwavru'}, {'manewl wevier', 'munhli waipar', 'amweeh ewovuw', 'manual weuver'}, {'manael weiver', 'mmynul weveyr', 'mwonil wwpaor', 'miwhle ewwbre'}, {'mwoenl wyoevr', 'meounl woaovr', 'amwuuy ewyhew', 'manuil woaver'}, {'manuil weavor', 'maemle wuobyr', 'monley wwevwr', 'mnaahw ewafhy'}, {'mwinol wwvare', 'manlaa waavri', 'aywule ewypir', 'maneel weavur'}, {'wunhle ewivwh', 'mynley weaofr', 'munhlw whwbwr', 'manull weiver'}, {'miumwl wowfhr', 'manoel weuver', 'maanll wuaphr', 'yaunaw evawrh'}, {'manliy weevor', 'mhunlu woupar', 'amneyh eyvroe', 'minuel waaver'}, {'manael woaver', 'namale ewihey', 'manlai weyfer', 'mymiyl wuibyr'}, {'yaunaw haeheh', 'mynlea wehfwr', 'mhynil wywfyr', 'manuol whaver'}, {'muneyl wevure', 'maomle waabre', 'weneuy ewihey', 'manual weiver'}, {'mamlwe wyhvrh', 'haunoh ewahvh', 'manuul weavor', 'munwwl wahfer'}, {'myunwl wwfayr', 'maneel weover', 'manely weaovr', 'hynile hyhvre'}, {'monlew wievir', 'mhinle wiofhr', 'amwuhe ewwviw', 'manuul weiver'}, {'amwwle ewivyh', 'meunhl wowefr', 'manuhl wuaver', 'manliw weufwr'}, {'manlla woofer', 'menuel whaver', 'mihwle ewwpur', 'myinal wowovr'}, {'manloy waavwr', 'mamwlo wehbru', 'miwhle oaevry', 'manoel woaver'}, {'mamyly woebwr', 'imnhle evaewh', 'maniel waaver', 'manlow wewyvr'}, {'manlaw weaifr', 'munhla wovhhr', 'nuunyl haeyeh', 'manoel weover'}, {'wnaoal ewuwor', 'manull weavar', 'mmanal wwevar', 'momwol whyhvr'}, {'wwnhle aaevry', 'maeanl whyvor', 'minuel whaver', 'momyol wwapri'}, {'maniel weover', 'weunle ewivrw', 'momulw whwhvr', 'mueunl wayvir'}, {'muniwl weevre', 'manuhl weavar', 'mheenl wuopyr', 'wamyle ewypar'}, {'miynul wwevwr', 'woweul ewophr', 'manuhl wiaver', 'mhunwl wveear'}, {'aywule awovre', 'mynial whyvir', 'mamluo wyupyr', 'manull wiaver'}, {'munuel weavor', 'myuonl wwwyvr', 'moniwl wuevor', 'younil ewyhur'}, {'mynuil weifwr', 'weunle ewovhy', 'manuul weover', 'mymelu wiabre'}, {'minlei weafor', 'manull wehver', 'mounih ewaivw', 'mhenyl wwyfir'}, {'hmwule ewwbir', 'manuul weavar', 'menleu waivwr', 'myumol wowefr'}, {'nhwule ewwhey', 'mmiunl waeuvr', 'manoel weover', 'mihnhl wyapre'}, {'mymwyl wvyair', 'mhwhle yauvre', 'menlue wevaor', 'manuul whaver'}, {'menlea woivwr', 'manael weavir', 'mymihl wuopwr', 'amnyle eievrh'}, {'meuunl wewvri', 'amwuoh evyaur', 'minuel whaver', 'memulw whvhhr'}, {'nomeul wwwevy', 'maneel weover', 'mywnul weyfwr', 'mhunlu wihpwr'}, {'manwli weofer', 'mimhil wwepwr', 'manuol wiaver', 'myunah evwaar'}, {'mamhlh whipwr', 'nunale ewuwyr', 'maniel weiver', 'mauinl whwver'}, {'munuly wuhvwr', 'amnali hayvre', 'manual woaver', 'memwul wuypyr'}, {'manael whaver', 'mamyla whupor', 'nnaheh yewevy', 'maynyl weuavr'}, {'manull wuaver', 'mhmeuy wwievy', 'menwwl wiufer', 'moyenl whobwr'}, {'mynleh wuavri', 'neneuw haepwr', 'monuel weavur', 'mymaul wuubyr'}, {'monhlh wwvyar', 'munuel weiver', 'hyunol wyuevy', 'maainl wheevr'}, {'maaonl wefaur', 'maneel wwaver', 'ayneuh ewawhy', 'memlue wyviir'}, {'hounol ewypwr', 'menuel weiver', 'mhumhl wyepor', 'mynwyl wewfer'}, {'manual wuaver', 'hawhle yeuevh', 'mwhenl wyofyr', 'monely woevur'}, {'mymeul wyvuir', 'amneuy whvauw', 'manlea wwavru', 'manuil wehver'}, {'manual wwaver', 'monlue wehfwr', 'yayeuh ewivre', 'mamluy whvwor'}, {'mahnyl wiefer', 'myynhl wwipwr', 'munuel weavir', 'wyuneh ewivrh'}, {'moannl wwever', 'nuunil evawrh', 'manuil wwaver', 'momewl whwbwr'}, {'menuel wwaver', 'munhlo wuebyr', 'hamyle ewhwew', 'muwnel wuafer'}, {'mwmyle ewayow', 'moenhl waipar', 'manwll weiivr', 'manull weavir'}, {'neneuw hehyre', 'minuel weover', 'mimiyl wuepwr', 'meuunl wevoor'}, {'myoenl waebre', 'amunoy ewwpur', 'manuol weuver', 'minlew weviwr'}, {'minywl wiifer', 'maneel wwaver', 'myumil weepre', 'mwunhw ewhwew'}, {'momyol wwfayr', 'manylo whyvwr', 'manuul woaver', 'yuyeul euvrie'}, {'wnaiol ewhwwr', 'mannel weavur', 'minwyl wiever', 'mymwol woepwr'}, {'mamwle waypur', 'maneel weavar', 'wnauoh ewivru', 'monuly wheavr'}, {'mnayyw euaevh', 'muamyl whwhvr', 'maonle wevore', 'maneel wuaver'}, {'maneel woaver', 'nawhle iaevry', 'monhle wwwvra', 'mynuli waavwr'}, {'noyule ewyhar', 'manuil weiver', 'manloa wiovwr', 'mumwyl whhbyr'}, {'minuel weavir', 'amwwwl evwaar', 'moaunl whever', 'moyenl wwviyr'}, {'minuel weover', 'manwwl wevowr', 'yamyle ewahre', 'mumowl wiuepr'}, {'nounol ewwbew', 'mauenl whayvr', 'mwenhl wveari', 'manuil wehver'}, {'munwll weaevr', 'manuul weavor', 'nounol eiaevy', 'mymail wayuvr'}, {'manoel wehver', 'mynleh weevri', 'mamilw wiwbwr', 'mhwole ewvahy'}, {'manoel weavir', 'mnayhw uwabre', 'mehnhl wwvoyr', 'moynel wevair'}, {'mhinhl wuopor', 'nonale ewabry', 'manael waaver', 'mannle waavre'}, {'manoel weavir', 'mhuniw ewiheh', 'mynuly weifur', 'mwienl wywhvr'}, {'menuel weavor', 'mimyhl wyievr', 'minoyl weyfyr', 'amwuyh yaepwr'}, {'mymohl wwvuyr', 'menuel weavur', 'yhunol ewayre', 'mynoel waaivr'}, {'amnaiw ewwpur', 'munuel waaver', 'mawnyl whahvr', 'mumyyl wyvyir'}, {'manuol wehver', 'mmounl weifyr', 'hnaule ewwbur', 'minhle wehbrh'}, {'mumhyl wyivre', 'manluh weifur', 'nwunhl ewhwar', 'maneel weavir'}, {'wnaale ewihir', 'mannel weiver', 'mynuhl wowvir', 'mymoil whibar'}, {'awwule ewwfew', 'manwwl waever', 'manuhl weavur', 'munhlw wywhvr'}, {'mouenl wiyfer', 'nhunew wowevy', 'manuul weuver', 'mwonhl waybhr'}, {'minoyl wwavyr', 'menuel whaver', 'miynhl whhfwr', 'hnaheh ewiphr'}, {'momhul wiyfhr', 'munleu wefuer', 'nayale waepwh', 'manuhl weuver'}, {'mainll whafwr', 'niunal yiaevy', 'myuanl wihvrh', 'menuel weavir'}, {'mannlw wevoar', 'mumowl wiyefr', 'miwhle wyiyre', 'manual weuver'}, {'manuhl weiver', 'heunle ewabro', 'meniyl whafar', 'mimoyl wwwbwr'}, {'menuel weavor', 'ywneuh yevauw', 'myumyl wwwvro', 'manalw whevyr'}, {'minhle wwvaor', 'manoyl waifer', 'wnahol ewahre', 'manael wuaver'}, {'amneuw ehyvre', 'maneel weavor', 'myonhl whebre', 'mannwl waeuvr'}, {'miniwl wevari', 'mwunyl weibre', 'weneuy yeievy', 'mannel weuver'}, {'menuel wwaver', 'mymoul wawbre', 'maniwl wewvur', 'amneuy ewahow'}, {'maneel weover', 'mimiwl wwvyar', 'heunol evwaar', 'muannl weafri'}, {'mannel weiver', 'miwenl waeybr', 'meynul weovru', 'hnayil ewabry'}, {'amnali iwabre', 'manael woaver', 'munhly wyvuhr', 'manoyl weveir'}, {'maniel woaver', 'hnauwy ewibir', 'menlea whayvr', 'moynhl wuybor'}, {'wnaulw ewivow', 'manuol woaver', 'myynel wahfer', 'mhumhl wwepwr'}, {'maeinl whafwr', 'manoel waaver', 'mynhle wiobyr', 'huunil wwwhre'}, {'monuel wiaver', 'mmenel wevuir', 'mymulu waifhr', 'nynile yevauw'}, {'myunah ewuwhr', 'manael weavar', 'mawnll wayver', 'memwul wwvayr'}, {'maynle wwauvr', 'manael whaver', 'nenile ewuviw', 'menhlu wuopor'}, {'manuol waaver', 'mwunly wwvaro', 'mmanle waevur', 'ammwil ewivhe'}, {'mynwll wuavri', 'munuel wehver', 'mymewl woobwr', 'yayeuh wouevy'}, {'yaunaw yeuevy', 'maneel weavor', 'mminel waavri', 'mymhil wyviir'}, {'monuel whaver', 'hnauyy haevhe', 'mainle wowvar', 'mimwol wwapru'}, {'mynnal wuwver', 'neunal ewabre', 'mimiwl wwhpwr', 'menuel weavir'}, {'mymwol wyhevr', 'manull wwaver', 'maownl whauvr', 'imnale ewiwey'}, {'mumhhl wyfayr', 'maniel whaver', 'hmwule ewivre', 'mynell whevar'}, {'menuel wwaver', 'hnauoy awabre', 'myneel whvuer', 'myonle wuwevr'}, {'mywnel wwavyr', 'menuel weavar', 'mimlue wuhpwr', 'woneuh ewuvre'}, {'menuel weuver', 'mnaiah ewyvre', 'manalw wevuar', 'myyenl wuybyr'}, {'mumwhl waefhr', 'manull weavar', 'monyyl weofwr', 'wnahle ewivhe'}, {'myunol whybyr', 'mayynl weavre', 'mhunww evaewh', 'manull whaver'}, {'mymhhl wuypur', 'amwyeh euevry', 'muniyl wiovwr', 'menuel weavir'}, {'maniel weavir', 'wnaulw ewabay', 'mamalw wwvoar', 'mannwl woeavr'}, {'mynlea wevuwr', 'monuel weavir', 'wnaoil ewiwir', 'momiyl wyvhhr'}, {'memywl whwbir', 'manuol weavur', 'womeul ewabiw', 'maounl wowvur'}, {'ynayew ewahah', 'mhuonl whyepr', 'monnyl wewvre', 'monuel weover'}, {'mauwnl weofur', 'nnaahl ewabru', 'mhenyl wyvoir', 'manull woaver'}, {'manual wuaver', 'hmwule iwivre', 'meumle wwvuor', 'myneil wwafer'}, {'amwuuw ewawih', 'muunlh wowbur', 'minleo wevaur', 'manull weavir'}, {'munowl wuayvr', 'monuel weuver', 'wmwule wowevy', 'myonil wopaur'}, {'manleo wiwvar', 'manuul wiaver', 'myinle wuibyr', 'wwunhl ewywir'}, {'mhynal wuyuvr', 'munleu wefeer', 'munuel wuaver', 'wnaulo ewiwir'}, {'manoel wwaver', 'amnhoh ewabow', 'munley woyvwr', 'myhnal whhbwr'}, {'manuil weavor', 'mianll wuavyr', 'wwunhl ewuwew', 'mhunlo wuopar'}, {'ynaawl ewahye', 'maniel wwaver', 'mymlue wyapre', 'mynahl wevawr'}, {'meniyl whuvyr', 'maneel wehver', 'mamluo wuyevr', 'ynauah euapre'}, {'manoel wwaver', 'hhwule ewyhor', 'mwonle wovwir', 'menlue weefwr'}, {'manlew whevwr', 'maneel whaver', 'muumwl wyobyr', 'amwale ewoviy'}, {'wahhle wiuevw', 'manyli wofaer', 'monhla wwabre', 'maneel wuaver'}, {'myhnol wyfair', 'maohnl wwavry', 'nyneuh ewwvuw', 'munuel woaver'}, {'wnauow wwvayw', 'munhlu wvoair', 'mannel woaver', 'mminul wuuvwr'}, {'mhunlo weipre', 'amwhle ewwviw', 'manyli woafer', 'manuhl weuver'}, {'mannel weavir', 'momywl wuobwr', 'manyyl weovry', 'amnale hayvre'}, {'manual weavir', 'younle ewaevw', 'mwenal wwhfir', 'miounl weeafr'}, {'munuel weiver', 'memyol whobwr', 'maeunl weovyr', 'amweuh ewapre'}, {'mhumhl wyfayr', 'maneel weover', 'nawale ewahvh', 'mynlea whavru'}, {'menuel wuaver', 'nounwl ewyhir', 'meounl woofer', 'mamloe wyviar'}, {'wnaule ewaphw', 'minelw wuwvwr', 'maneel weiver', 'mumhol wuyebr'}, {'mhinwl wyfayr', 'minuel woaver', 'maannl weaofr', 'namale awhvre'}, {'amweuh ewaphh', 'minhle whyovr', 'manael wwaver', 'mynyll woauvr'}, {'maniel woaver', 'mahwnl woevor', 'mhinyl wwvhhr', 'noyule ewohar'}, {'mynlye wwwwvr', 'maneel weavar', 'maonll whaefr', 'wawile ehevry'}, {'moonhl waipar', 'amweuh uwabre', 'mmanyl wiwvyr', 'manull whaver'}, {'mimhwl wapawr', 'mhunyw uwivre', 'manuil weavur', 'minoyl wievyr'}, {'mwinol wyevre', 'mmenel wuyvor', 'manael waaver', 'nwneuh ewhhey'}, {'mynleu woyvur', 'menuel weiver', 'waunaw eiyvre', 'mhyenl wwwfir'}, {'manuil wuaver', 'muanle weeovr', 'haunow hwabre', 'mymiil wwwvri'}, {'mawnnl whaavr', 'moumle wuypyr', 'nhneuh yyaevy', 'manoel weavur'}, {'wnauow eyvroe', 'manloa weuvwr', 'manual woaver', 'momiyl wyhvre'}, {'manuol waaver', 'mynhle wahbre', 'amwhle ewybey', 'manlaa weiyvr'}, {'huyeul hevauw', 'manlia weafyr', 'manuil weavir', 'mumwyl wuhbyr'}, {'minwll wewfir', 'mannel wiaver', 'meunlh wwviyr', 'yuunil ewwyew'}, {'manuul waaver', 'mynlee wofaer', 'mwaenl wiyfhr', 'nawile euaevh'}, {'maneel woaver', 'maiwnl wuyvyr', 'yeneuy ewahuy', 'myonle wyhvru'}, {'maniel woaver', 'wnauoy ewyphr', 'mamhlu wyupwr', 'munwwl wevare'}, {'minuel wwaver', 'wnaool awayre', 'mymeol wyievr', 'munelw weavri'}, {'maaonl weiefr', 'mwinhl whwevr', 'mnaawy ewoevw', 'monuel weuver'}, {'yneule owivre', 'mannel wiaver', 'mamluh waepwr', 'maeynl weovru'}, {'maimle waupwr', 'naheuh ewowew', 'maneyl wiefer', 'munuel weover'}, {'mwonwl wyepor', 'moneyl weeyvr', 'manoel whaver', 'amwhle ewwpew'}, {'miyenl wwvari', 'maneel weavar', 'amwuww ewihhr', 'meanll wewvur'}, {'maniel waaver', 'maonwl wehyvr', 'mymeal woybwr', 'hiwule ewyhew'}, {'menoyl wevuor', 'minuel woaver', 'menlye wohevr', 'yemule wivauw'}, {'myinil whobar', 'mywhle heuevy', 'mahnwl weaefr', 'munuel wehver'}, {'munhlh waebhr', 'myunaw ewovaw', 'mynual weivre', 'menuel weover'}, {'mauwnl weawfr', 'munuel whaver', 'mimlue wwwhvr', 'nynile ewowew'}, {'manloe weafir', 'mamlie wuybor', 'manael waaver', 'ammeeh yayvre'}, {'maneel weuver', 'mwonyl wwabra', 'maynyl weuwvr', 'yamyle yiaevy'}, {'mymula wuobyr', 'ammoil hhhvre', 'mannel weuver', 'mynewl weaefr'}, {'amnaiy ewabru', 'mamloe wevrhe', 'manual wwaver', 'munlee wievwr'}, {'manlow weievr', 'manual waaver', 'momhol woabre', 'amwuly ewuwor'}, {'miunaw ewuhar', 'manloo wuifer', 'monuel wwaver', 'mymyol wwabrw'}, {'meumwl whvwor', 'mmounl whvaer', 'emwule ewibey', 'maneel wuaver'}, {'amnile ewuwir', 'minuel weover', 'memiwl whhpwr', 'maaenl whovwr'}, {'maniel weavur', 'neneuw ewabay', 'maanle wuavyr', 'mymwol wyhvry'}, {'manoel weavir', 'hnaaey haivre', 'manayl weaafr', 'myinle wyefre'}, {'monwwl wevoor', 'minhli wuopar', 'amwuoh ewwhew', 'manuol weavir'}, {'maneel whaver', 'awnhle ewwvaw', 'myunle wivwhr', 'manlaa weavra'}, {'miwhle ewovhe', 'manuil weavor', 'mynulo wahvwr', 'muunlh waibre'}, {'manuhl woaver', 'mwumyl wehpre', 'menuyl wwifer', 'hnauah awyvre'}, {'manuul wiaver', 'monywl waoevr', 'myunwh ewawri', 'mymeol wyuhvr'}, {'maniel weuver', 'mnaahh ewifhr', 'mynhli wyabre', 'mannwl whavru'}, {'namile yevauw', 'meunlh whhpwr', 'monlew wwavwr', 'mannel weuver'}, {'manuol waaver', 'imwule ewwvow', 'myenwl wwvuar', 'minuwl weafor'}, {'manoly wiivyr', 'manuul waaver', 'nnaawl ewhwey', 'mamhla wyvwhr'}, {'wnaowl ewabow', 'manuol weuver', 'maahnl wuovwr', 'memwyl wwyyvr'}, {'manael weiver', 'mamhly woobir', 'wnaoil wyhhre', 'mieunl wwevar'}, {'manloy weifor', 'manual wuaver', 'yneule oayvre', 'meunhl wwvwhr'}, {'mimwhl whwpir', 'meyeuw evuaur', 'muuenl wuauvr', 'mannel weavor'}, {'manoel wwaver', 'manlla woyvur', 'whwule waepww', 'mhunwl wuwbyr'}, {'nonile ewafhy', 'mawnyl wiafyr', 'maneel weiver', 'mwunli wwapri'}, {'miinhl wyevre', 'manuhl weavar', 'hnauay ewahah', 'manewl weiphr'}, {'nhunal awawre', 'menuel weavur', 'manloi weoavr', 'myumol wiibur'}, {'manael weover', 'maiwnl woyfer', 'mymoal wwwvry', 'yhwule yaepwr'}, {'mamylh whepre', 'menuel weiver', 'monwll wiavrw', 'amnhlo ehabre'}, {'mannel weover', 'ammail eyyvre', 'manlly weyfer', 'minhla wwybhr'}, {'menwyl whever', 'mumwul wiyfhr', 'manual wiaver', 'wnaole ewaboy'}, {'wnaiol ewiweh', 'myuanl wyofar', 'mynaal wwaphr', 'minuel weavur'}, {'woneuy ewwpur', 'manull weover', 'mamwla wyevre', 'maunly wehvre'}, {'hyunol ewuvri', 'mymaul whapre', 'manuhl wuaver', 'maaunl wuyvar'}, {'menlwe wehbre', 'mynoal whevyr', 'amwieh ewivhh', 'manael weavor'}, {'miwale ewahuy', 'mannel woaver', 'munlwe whybhr', 'manloa weeevr'}, {'myynhl wuwefr', 'nhneuh eivroe', 'menyyl woyvor', 'manuul weavur'}, {'meumyl wwipwr', 'mnawah ewaivw', 'maehnl wuevur', 'minuel wehver'}, {'moannl wiovwr', 'manael whaver', 'amyeeh ewobwr', 'mhenwl waevrh'}, {'maonle wevohr', 'momwul waapre', 'hiunol ewuphr', 'manoel wuaver'}, {'mwhenl wwobar', 'maainl waavyr', 'manuul whaver', 'nnaaal ewahvh'}, {'munuel wiaver', 'mamlie wuhevr', 'mynoll weavru', 'wnaoal whuevh'}, {'menhlu woyevr', 'hawhle ewwwew', 'maeunl wwafwr', 'manull weavir'}, {'mhunww oaevry', 'mumwol wowhvr', 'maniel waaver', 'maunlu wuevor'}, {'manalw wuavra', 'myhnyl whwevr', 'mnawah ewwvhy', 'manael weavor'}, {'mimewl wyvahr', 'ynaawl ewafre', 'mynely whever', 'minuel wehver'}, {'minuel weiver', 'momlue waepur', 'nwunhl eiaevh', 'maoynl wuafwr'}, {'menuly weivyr', 'manuul weover', 'memyol wyofar', 'yenale evaewh'}, {'mhwenl waopwr', 'manuul wiaver', 'mhwhle hehwre', 'manliy weyvyr'}, {'miuenl wefeer', 'wnahol ewhpwr', 'munhla wyefre', 'manael wuaver'}, {'maneel woaver', 'mahwnl wewfir', 'mnayhw waepwy', 'mowenl wepari'}, {'imyule hahvre', 'myneil wehvri', 'monuel wwaver', 'mwenil waopwr'}, {'muamle whhevr', 'wenhle ewawow', 'minuel weavor', 'mynwwl wuyvwr'}, {'manuhl wuaver', 'haunoy yiaevw', 'mymawl waebyr', 'mynnal wwauvr'}, {'muyenl wyvayr', 'monuel woaver', 'miwyle iayvre', 'mynuul weavra'}, {'manuil wuaver', 'wamhle evwaar', 'mynleu whawvr', 'meunlh wiyevr'}, {'amunaw haivre', 'manwle weuvri', 'manull weavur', 'monlwe wuwfhr'}, {'munuel weavor', 'memewl woebwr', 'homeul ewafow', 'myniel wavery'}, {'minuel weiver', 'mymoil whvwor', 'noneuh haevyh', 'moanwl waeuvr'}, {'mannel weover', 'manwlw woyvor', 'yenwle euaevw', 'momwyl wwvaru'}, {'menwll whevar', 'nyneuh ewaeby', 'manual weuver', 'momyil wiibur'}, {'menhle wuwfhr', 'hnaale eyaevy', 'mianll weveyr', 'manuul weavur'}, {'muanll whavri', 'maniel whaver', 'muwenl wyhvra', 'hynile hwivre'}, {'hnauhy ewybey', 'manwll waverw', 'memhal wapawr', 'manuhl wehver'}, {'mwunal wyipwr', 'menlew wwafer', 'manull waaver', 'mywhle ewipeh'}, {'myunwl wyifir', 'manuol weuver', 'manewl waevur', 'nounol eyabre'}, {'wenhle ewuyir', 'menuel weavur', 'mymhwl wwwhvr', 'moanle wwevwr'}, {'menuel weiver', 'menulw wwuvwr', 'miumyl waybhr', 'mnaaah ewahuy'}, {'nnaahl ewabri', 'maneel weuver', 'mownhl wwhvro', 'monuyl wowfer'}, {'momwol woopur', 'maneel weiver', 'yayeuh ewawow', 'menuwl wiyver'}, {'myyenl wiapre', 'amwail ewuwhr', 'mownul whwvar', 'maniel weavor'}, {'mwumal wehbri', 'naunay ewafhy', 'maaenl wwaphr', 'monuel weover'}, {'moumyl wowivr', 'huyeul awawre', 'manuhl wiaver', 'moeunl weafyr'}, {'miuenl whvaer', 'mhuniw ewuvow', 'manuol weavor', 'muhnhl wwvaro'}, {'miwnhl wwpayr', 'amwawl yevauw', 'mmonul weivwr', 'manael weavor'}, {'mwenwl wyviar', 'menuel wehver', 'minely weveer', 'amnolu ewypew'}, {'manael whaver', 'monnyl woaefr', 'heunol ewyhew', 'momwul wahpwr'}, {'manoel weuver', 'mymiwl waepru', 'amwuwy whuevy', 'maewnl wevowr'}, {'mewenl whepwr', 'ammhil eiaevw', 'mwynel wiafer', 'manual whaver'}, {'mynuol wuafer', 'memulw wyeefr', 'menuel wiaver', 'amneuh eaeyvw'}, {'mannel weover', 'mehnhl waypir', 'wawile ewawri', 'mmanel wowvur'}, {'mumhul wowebr', 'maniel wiaver', 'amwuih ewwbwr', 'monleo weufer'}, {'yawile hehwre', 'moounl wuevir', 'mamwla woepir', 'manuul woaver'}, {'manuhl wwaver', 'muwnhl wuhpwr', 'huunol wyvaiw', 'mynelw weaufr'}, {'maniel weover', 'mymiyl wwwyvr', 'manloa whwvwr', 'nomule owabre'}, {'manuol waaver', 'muyenl wuypyr', 'neneuy waepwy', 'mmynel wuwvir'}, {'maonwl weyvor', 'manael wwaver', 'namale ewuwar', 'monhlo wiwevr'}, {'monayl wiyvor', 'mumyal wyifhr', 'mhwile ewivrh', 'manull wwaver'}, {'menuel wehver', 'mywnel wiwvar', 'mnayow ewaeby', 'myunlu wipawr'}, {'mawnll whafer', 'myenle wwvaor', 'mhmeuy yiuevr', 'munuel weover'}, {'mewnhl wyefyr', 'maniel wwaver', 'whunol haeweh', 'menewl waevur'}, {'mynnwl wevuur', 'nyunil hayvre', 'mymyol wyhvry', 'manull wiaver'}, {'manual wehver', 'myoenl weypre', 'meynul wiivwr', 'wnaoey ewwvhe'}, {'manuol wuaver', 'mhienl wwybhr', 'manloi wevuar', 'ynauah ewabiy'}, {'minlue wievur', 'manael weavir', 'mymule whupyr', 'mhunyw awapre'}, {'manuol wuaver', 'yiwule ewoviw', 'minywl wuwver', 'mamylh wyhhvr'}, {'meniyl wefawr', 'ammahl ewuvri', 'mimhul wawbwr', 'menuel weover'}, {'mayynl whaovr', 'muyeuy waepwh', 'muhnhl wyabre', 'munuel weavur'}, {'mhwhle yaevry', 'moumyl waobwr', 'maeanl wuyvor', 'manuol weavor'}, {'manuul wuaver', 'heunol ewahuy', 'mhunlw wwwvre', 'manowl wevuer'}, {'manoel wwaver', 'momewl woipwr', 'hnauiy haaevh', 'meiunl wiavry'}, {'minuel weavir', 'monleu woever', 'amnhoy ewypir', 'mimowl wyievr'}, {'mianll wowvir', 'manael waaver', 'amwheh hwaevy', 'mumwol whhvre'}, {'mynuol wuivyr', 'maniel weavir', 'hamyle ewiyeh', 'mhunlu whifhr'}, {'yawile wowevh', 'mynihl wevuor', 'mhonhl wveuyr', 'monuel waaver'}, {'mmenel weifir', 'maniel weover', 'myunhl wepari', 'waunaw wiievw'}, {'menleh whvuer', 'woneuh yaevru', 'mannel wiaver', 'myonwl woebir'}, {'manuol wuaver', 'mwunwl waebru', 'naunaw ewuvre', 'maniyl wefayr'}, {'yhneuh yevauw', 'myinal wwefhr', 'monuel weuver', 'mueunl wiwvur'}, {'manael wiaver', 'mimwhl waypur', 'manllu whwvir', 'yuneuh ewovow'}, {'mwonle wohpwr', 'hnaule awyvre', 'menulw weevwr', 'manual weavor'}, {'menuel wuaver', 'nayeuh haeheh', 'mhunlw wwyvre', 'mynial waauvr'}, {'myonle wuobyr', 'monuel weavir', 'mhwole owivre', 'mwynul weuvyr'}, {'maniel wiaver', 'myumol wheepr', 'amyail ewawhy', 'mmenul wiifer'}, {'menwlh wuybur', 'nayale euaevw', 'manuol wwaver', 'mynahl wowvyr'}, {'nounol oayvre', 'minnyl weaofr', 'minuel waaver', 'mymuli waobwr'}, {'mynuil weivre', 'mhunaw ewapre', 'manuhl wehver', 'memhal wyyvra'}, {'mawnnl weifwr', 'myunyl wyufyr', 'myhile ewhwor', 'maniel weiver'}, {'maynil whvoer', 'whunol ewobew', 'mymulh wawbre', 'manuil weavir'}, {'amwuly evwaar', 'manoel weavar', 'mumlue whubar', 'mynnel wweavr'}, {'manley wahvwr', 'manoel wehver', 'myhnal wyifir', 'amunaw ewuyir'}, {'mhwhle ewobey', 'menywl whvear', 'mewenl whyivr', 'manoel wuaver'}, {'myneyl wwavro', 'mynhlu wabawr', 'nohule wwwyre', 'manull whaver'}, {'minuel weavir', 'immule ehhvre', 'mauinl wwavra', 'mwoenl wuybyr'}, {'munely weofer', 'mhenwl wuepwr', 'manuol wwaver', 'ammhol ewabwe'}, {'moniyl weveor', 'mwonal whhpwr', 'manull wwaver', 'nameuh ewapow'}, {'amwuuh haevuh', 'menuel weavar', 'momhwl wubayr', 'moanll wwever'}, {'muaeml wwvahr', 'mmanyl wavewr', 'wamhle euaevw', 'manull woaver'}, {'menuel waaver', 'maoonl wuevur', 'mhwhle ewypre', 'mownhl wwhbhr'}, {'nyunal ewupir', 'manuul wehver', 'mmounl weyvar', 'muonhl whibar'}, {'mymeil whwivr', 'maenll wehvri', 'manuul woaver', 'heunle ewaeby'}, {'mynoal wiavre', 'hnauay ywabre', 'menuel weavur', 'momyol wiibir'}, {'mwumol wypair', 'monulw wuwfer', 'munuel weavir', 'amneuh uaevry'}, {'miwnhl wuubyr', 'mewnul wuever', 'nhunol wyvawh', 'menuel wiaver'}, {'wynile eiwvre', 'menuel weavar', 'miumwl woepur', 'mynuwl wiavri'}, {'menuel wehver', 'amhhol ewwviw', 'mahnyl wehvyr', 'mamlui woipur'}, {'whnhle ewwvow', 'manoel wehver', 'menhlw waybur', 'mmunul weifyr'}, {'muamhl webari', 'maneel wehver', 'manllo wuyver', 'mhunyw yeoevy'}, {'mwinol whobwr', 'nuunew ewabri', 'monlue whyvur', 'minuel weavur'}, {'manael weuver', 'mnahwh ewhhar', 'moenhl waobwr', 'mannwl weevwr'}, {'mamwly whhbwr', 'maanwl whvear', 'manuhl weover', 'amnluo wyvauw'}, {'mymiwl waepor', 'naheuh ewobir', 'manyll wiuvyr', 'manull whaver'}, {'maniel weuver', 'mannla wiavwr', 'mhonhl wuubyr', 'wahhle ewuwhr'}, {'amnehe eiaevw', 'mouunl wuivwr', 'manoel weavor', 'mhinyl woybhr'}, {'minuel weavir', 'mymulw wyifhr', 'mynaul weafwr', 'hnaeuy haevre'}, {'myhnle whupor', 'manual weavor', 'muaunl weifor', 'amnaih eyevrh'}, {'menowl wevayr', 'myumol woepur', 'manuol wwaver', 'nineuh ewhpwr'}, {'imnole ewahwy', 'manuil weavor', 'mamlie wiyevr', 'mainle weyphr'}, {'miumhl wuybhr', 'munuel whaver', 'manloe woevyr', 'ynaheh hehbre'}, {'muwile wwuevh', 'munuel whaver', 'myunlw whyuvr', 'manwlw whawvr'}, {'monuel wuaver', 'manaly woivwr', 'amnolu hehyre', 'myonol wepari'}, {'nynile ewabro', 'myumil wyhvri', 'maneyl weoefr', 'manull woaver'}, {'mnaaah hihvre', 'munlee weovro', 'manuil waaver', 'myoenl waypur'}, {'hnayey ewipeh', 'manual wiaver', 'momlue woebyr', 'manlww wevoer'}, {'mynhli wyhvro', 'manael whaver', 'aumnol wihhre', 'mouenl wiwvur'}, {'mynula weehvr', 'manuol wiaver', 'munhlw wowhvr', 'nounal wwwevy'}, {'myunhl whybhr', 'moniwl weefir', 'amnaly eoyvre', 'maneel waaver'}, {'hnaale iayvre', 'menylh wuypur', 'manlly whevir', 'manael wuaver'}, {'manull weuver', 'manwle waeyvr', 'amweuh wwwyre', 'mumuly wihevr'}, {'manuol waaver', 'maenwl wuyvor', 'mowile wioevw', 'moonhl weibre'}, {'manael weavar', 'manlui whwvwr', 'amwuuw ewovhw', 'mhunle wwvair'}, {'maniel weavar', 'mhenwl wuybir', 'amwuoh wwwevy', 'manloa whwver'}, {'monhlw wiabru', 'nuunol yeievy', 'mannel weavur', 'maynil woafar'}, {'manulw waofer', 'manuul waaver', 'memulw wwvuor', 'wnayol ewoyew'}, {'yneule ewihhr', 'munely weeafr', 'momhhl wapawr', 'manull weavir'}, {'manuhl weover', 'momyil whhbar', 'miniwl weyvwr', 'wyunil ewwpur'}, {'ammhil ewwvhy', 'maynil woevir', 'munuel waaver', 'mwemul wwobar'}, {'minuel weiver', 'mnayaw wouevy', 'mownul weevyr', 'monhlh wwvahr'}, {'amwuih wiuevw', 'manlei wuyvwr', 'momewl wwapri', 'monuel waaver'}, {'mwinil wwyvru', 'minuel wuaver', 'mianyl wwayvr', 'nnaulw ehabre'}, {'manuol waaver', 'moonhl wwebwr', 'miynel weiavr', 'mnahhh ewwbew'}, {'memeyl wuabre', 'maniel weover', 'amwuih ewybir', 'miiunl wuayvr'}, {'maniel woaver', 'maeanl wuaavr', 'miynhl waifhr', 'haunaw ewahvy'}, {'mumhhl wuifhr', 'maennl weifer', 'nayale evaeww', 'maniel wuaver'}, {'mounhl wawbwr', 'nameuh ewypyr', 'manael wehver', 'maohnl woyvor'}, {'mwunhy ewwhew', 'meynul woever', 'manual weuver', 'mwunlo wiipir'}, {'mnayhw ewofar', 'manoel wiaver', 'mwunwl waebwr', 'mynlew waafwr'}, {'muumwl woipwr', 'maneel weavor', 'mannly weviar', 'wahhle wiwevw'}, {'myhnle wuhbwr', 'maniel whaver', 'nuunyl euevry', 'mynuil weyvar'}, {'omwule haepwr', 'manull wehver', 'manluo woafor', 'miinhl wuwbyr'}, {'myniel wevoir', 'homeul hehyre', 'manuil wehver', 'mhunlo whyepr'}, {'menywl wwivwr', 'myunyl waebru', 'manuhl wiaver', 'yhneuy ewahvy'}, {'momhil wowovr', 'manael wwaver', 'amwuuy wiuevy', 'manlue wwivwr'}, {'mnahwh ewabiy', 'manuil weiver', 'mianyl weuivr', 'myhnyl wwvayr'}, {'mymuli whwhvr', 'neunle wwwwre', 'manewl wuuvwr', 'manoel weiver'}, {'mienhl wyefhr', 'minnwl wewfar', 'mannel weavor', 'noneuh evyahr'}, {'mewnhl wuopir', 'manual wiaver', 'nhnale wuuevy', 'munlew waever'}, {'manuol weavar', 'myinwl wwapru', 'nwnale ewhweh', 'monlee wiavro'}, {'menuel weuver', 'nounhl ewawiy', 'mynhli whwivr', 'mynley wweevr'}, {'muuniw ewuwur', 'muynel wheavr', 'mwunyl wyohvr', 'manuil wwaver'}, {'meunhl wyebhr', 'manuhl weover', 'amwuww eiaevy', 'menwll wuever'}, {'mimyhl wewpre', 'manull weover', 'meuenl wuyvar', 'meheuw ewhwey'}, {'mownhl woyevr', 'maneel wwaver', 'ammhol waepwy', 'menelw wowfer'}, {'mannel weavir', 'memhyl wwabri', 'manyly whvuer', 'mwunhh wuuevh'}, {'weneuw wyuevh', 'myenal wwwvrh', 'meanle whyvur', 'mannel weavor'}, {'wynhle wivauw', 'manull weavar', 'mymail waabre', 'moynul wiyvwr'}, {'maynyl waaefr', 'mowile ewwfew', 'mwonyl wvuair', 'manuhl whaver'}, {'amunaw ewypyr', 'mamyle waefrh', 'monewl weevar', 'minuel weavur'}, {'monuel whaver', 'hynile ewyvhy', 'moiunl wiafur', 'memyhl wihvrh'}, {'nuunwl yaepwr', 'manuul weavar', 'myinol wepure', 'monlew wewvri'}, {'mynael wohvwr', 'wnaoil wwwevy', 'momhol weubre', 'manuil wehver'}, {'muwnel waafer', 'maneel wwaver', 'mnaaww ewabiy', 'mymowl weubre'}, {'maniel weover', 'miwnel wehvyr', 'mowhle evawrh', 'myynhl wwhbwr'}, {'hnaahl ewaivh', 'monuel wuaver', 'mwinwl waebru', 'monwll wevure'}, {'monuel weavor', 'amwuah yeuevy', 'miynel weyvir', 'mumuly whepyr'}, {'amwhwl ewwevw', 'maniel wwaver', 'manyle weevwr', 'meunlh waibar'}, {'muanle wiaefr', 'mymyal wehbra', 'manoel weavur', 'nayeuh ewhbey'}, {'mamylu woopir', 'mewnul weavre', 'manoel wiaver', 'yomeul ewahvy'}, {'monlhe wywfyr', 'maniel weavir', 'mynahl woafwr', 'imwule awwvre'}, {'manael weavir', 'meweuw ewihur', 'manleu wuever', 'mymula wehbro'}, {'ywunhl wovauw', 'mannel wehver', 'memyal wyapre', 'manlii whyvwr'}, {'minuel weiver', 'myinhl whibwr', 'minleu whufer', 'ynaale ewifir'}, {'manlou wuevar', 'meumwl wuoepr', 'ynaeuh ewwviw', 'manual weavur'}, {'nawile haevhe', 'manael weuver', 'menhla wyofwr', 'monlue wuavri'}, {'mynaul wevaor', 'menuel wehver', 'mnaaww ewypyr', 'mhinyl wuibyr'}, {'myhile eievre', 'manlee weoavr', 'monuel weavur', 'mymeol wvehhr'}, {'manael weiver', 'haunoy eoabre', 'myunol wyupwr', 'menewl weephr'}, {'mymeal wyubhr', 'manael weavir', 'mynelo whivwr', 'nonale ewuwir'}, {'mynuil weiphr', 'memwyl wuhbyr', 'amnehh ewibey', 'manual weuver'}, {'mymhwl wowbwr', 'manull wehver', 'manloe wevaru', 'amhail ewuwhr'}, {'menuel woaver', 'manyli wuwvar', 'ynaale ewwbew', 'memwol whbaar'}, {'mowhle ewahuy', 'minylh wyopwr', 'manyll weyfyr', 'manull weavor'}, {'mauynl wayvar', 'mymyhl wyypar', 'hnauiw ewubir', 'munuel wwaver'}, {'hnawey ewihur', 'meniwl wwavro', 'miwnhl wawuvr', 'manuil weavur'}, {'minely wwuvwr', 'minuel weavor', 'hnauuy ewayow', 'mywenl wwwebr'}, {'minuel wuaver', 'maawnl weeuvr', 'minlwe wybair', 'mhwole eoyvre'}, {'mwynhl weopre', 'mnaaww uayvre', 'maniel whaver', 'moaunl wiuvwr'}, {'manael whaver', 'amunow ewowew', 'mouunl wiafyr', 'munhly wiwbwr'}, {'myunhh yiaevw', 'mannel woaver', 'munlee whivwr', 'mohenl waopur'}, {'menuel whaver', 'mynela wwofer', 'ammhil iaevrh', 'mymahl whwpir'}, {'amwwwl ewyhur', 'minhly wwefhr', 'manuhl whaver', 'mmanil whvear'}, {'minywl wehyvr', 'myhnhl wayivr', 'wamhle ewievy', 'manull weavor'}, {'mynlew weifer', 'mahnlh wowpur', 'manuil whaver', 'amnali ewwevw'}, {'mimwil wahpwr', 'manuol weover', 'maiynl weovri', 'mhmeuy ewaphh'}, {'whunew yhaevy', 'monwyl wevaar', 'maniel wehver', 'muaeml wvewhr'}, {'memlue wyvowr', 'mainnl wuyvur', 'nyuneh haevuh', 'manuol weuver'}, {'mynwwl weafyr', 'yhneuh ewwfur', 'mymwyl wwapri', 'minuel waaver'}, {'manael weavar', 'moynul wiuvyr', 'amwulh wwvayh', 'mumwol waepre'}, {'menhlo wwabri', 'yeneuh hyvair', 'monuel weavur', 'myniyl weyvur'}, {'miynel weafur', 'meinhl waepur', 'minuel wiaver', 'amnhoh ewivrw'}, {'mynail whfaer', 'maniel weover', 'huunol ewhwhr', 'mhenwl weopre'}, {'mmounl weievr', 'myunyh ewufir', 'mwumle wohpur', 'monuel weiver'}, {'manlly waverw', 'maneel whaver', 'miwyle ewuphr', 'miunhl waebwr'}, {'mannel weavir', 'mymiyl wovwir', 'myunaw eyaevy', 'munleo wowvir'}, {'mminul whveer', 'myunlu woobir', 'maneel weavir', 'amwuhh awhvre'}, {'yameuh ewabiy', 'mamlie wupahr', 'manlai wevuhr', 'minuel weavur'}, {'monuwl weuvwr', 'mwenle wwvwor', 'mwwhle wyhwre', 'monuel weover'}, {'muynel whuvwr', 'ammeeh awapre', 'manuul weavar', 'mimhwl wveear'}, {'manull wehver', 'nhneuy ywabre', 'mwwenl wyhvru', 'mynwwl wuyvir'}, {'mmonul weyvri', 'wnaule ewawri', 'manuul weiver', 'mimiyl waabre'}, {'mawnwl wewvor', 'mwinil wwvwhr', 'yhneuh ewwhur', 'manull weavir'}, {'minley wiwvwr', 'nuunwl ewwpur', 'mannel weuver', 'mhyenl wyhvre'}, {'mawynl wiaphr', 'menuel whaver', 'nuneuh ewwphr', 'maimle woubar'}, {'mynhle wevrhe', 'maaunl wauevr', 'wnaoil euevrh', 'manoel weiver'}, {'immule iayvre', 'mannel whaver', 'mamwle waebru', 'miuunl whovwr'}, {'manual wehver', 'miynul weoovr', 'wnaool eoabre', 'muwenl wwbare'}, {'mwumle wahhvr', 'amneuw yevauw', 'maynyl wewvre', 'manull weavor'}, {'amwyle ewifre', 'maneel wwaver', 'mymewl whhpwr', 'maihnl wuevwr'}, {'menwyl weiivr', 'meyeuw ehevry', 'mwenyl whepyr', 'maneel wuaver'}, {'maunll weivyr', 'imnole yaeevy', 'monuel waaver', 'mymwhl wiibir'}, {'munuel weavar', 'mimlue wwwebr', 'wuunil wyuevh', 'manluo weufur'}, {'nnaaal ewohey', 'manual wwaver', 'mynhle wywpwr', 'manlai wiaefr'}, {'hounle wwvaoy', 'mwunol wyhvri', 'maneel wwaver', 'manluw weoyvr'}, {'monuel wiaver', 'minhli wuopyr', 'ammwil ewyvow', 'mawnwl wuavri'}, {'younil ewwhur', 'moanwl weevri', 'mannel weavur', 'moyenl wyafre'}, {'munuel weavor', 'amnewh eoevry', 'mumwol wwwfir', 'maienl weviur'}, {'mimhol whyhvr', 'monuel weavur', 'hmwule wyhwre', 'muwnul wevaur'}, {'hnauli ewaivw', 'mynaul wevoor', 'manull weover', 'myynhl wveohr'}, {'mhmhle yayvre', 'mannel weover', 'mahwnl wowvor', 'momyal wyvuyr'}, {'mymulh wihbyr', 'maienl weovri', 'amunow ewuwew', 'minuel wehver'}, {'mamhlw wwhevr', 'mineyl whaefr', 'hounle ewubir', 'manull weavir'}, {'minleu wwavry', 'mnaaww ewybhr', 'manuhl weavir', 'momewl wowbur'}, {'manael woaver', 'mwhenl wyupyr', 'muanle wiyvor', 'yenole eivroe'}, {'manoel weuver', 'mahnyl wevayr', 'momwol wvewir', 'nyunal hehpre'}, {'mwinle whybyr', 'weneuy ewabwy', 'maihnl waovwr', 'manual whaver'}, {'minuel weiver', 'menylh whbaar', 'maownl weivwr', 'nayeuh ewivah'}, {'momhhl whwbar', 'amnali ewwviw', 'manuil wehver', 'maoanl woafor'}, {'maeonl wuyvur', 'mamluo wyipwr', 'mhwile iwabre', 'manael weavor'}, {'maniel weover', 'meunaw ewypyr', 'mhunli whupor', 'mynely waeavr'}, {'mauenl wuevir', 'momhwl wovwhr', 'manuhl weavor', 'nwnile oaevrh'}, {'munuel weavor', 'maianl whawvr', 'wyuneh ewivow', 'myhnal wiyfhr'}, {'minuel weavor', 'mamluu wiepwr', 'miunaw yaevrh', 'munlee waaefr'}, {'amneoh ewabri', 'manlai wuavwr', 'manual weuver', 'myhnyl wyvowr'}, {'monlue wwavri', 'ammeeh ewipey', 'mannel wuaver', 'menhla wiapre'}, {'wnaole yhaevy', 'maniel weavir', 'manwll weyyvr', 'myuonl wwvaar'}, {'manlah weviur', 'mewnhl wihpwr', 'maneel weavor', 'naheuh ewuwar'}, {'muwenl weopre', 'amwuah yyvawr', 'maneel weavor', 'mynoal weufor'}, {'manuhl wwaver', 'mnahwh ewwwur', 'miuenl wuevor', 'mymaal weebre'}, {'nawile ewovhe', 'mwunlw wihpyr', 'manuil whaver', 'mannlu woyvor'}, {'manoel weuver', 'yyuneh ewwpew', 'maaunl waevwr', 'memyil wayivr'}, {'manuhl wwaver', 'nenale ewifeh', 'mynlee woevwr', 'mamluy whibyr'}, {'manuul wuaver', 'nuunyl ewabwy', 'maanll weivri', 'mamalw whybhr'}, {'mmonul weyfir', 'mannel weiver', 'yewule awhvre', 'muinhl wuepwr'}, {'mynhle woubar', 'manael woaver', 'manliy wuivyr', 'naunay hehfre'}, {'mnaahh ewibey', 'manoel waaver', 'menayl wuyvwr', 'mamluo whhevr'}, {'mownul wuauvr', 'neneuw ewuweh', 'myumol wyubyr', 'manull weiver'}, {'hnauhy haevhe', 'maynul wuwvyr', 'mannel weuver', 'mynhly whbawr'}, {'nounwl wiyevw', 'menhlo wyobwr', 'manuul weavor', 'moanwl waever'}, {'mymula wiefhr', 'mmanyl wiyvar', 'amwuhe waepww', 'manuil weover'}, {'nhunal ewhwew', 'maneel weuver', 'manyla wewfwr', 'momhul wwviyr'}, {'monlwe wyifur', 'mouniy yhevre', 'moeunl whaefr', 'munuel weavur'}, {'maenyl weuivr', 'munhlh wyefre', 'manuhl whaver', 'nhneuh ewhwyr'}, {'memyul wwhvri', 'manael weavir', 'meanyl wwofer', 'woheul wioevw'}, {'mwynhl wuvwhr', 'monlew whvaer', 'manuil waaver', 'nhnile ewaivh'}, {'meniwl weufir', 'mimiwl wuvhhr', 'imnole ewwwur', 'maneel wuaver'}, {'manual wuaver', 'maunyl weifir', 'momeuw eyivre', 'mwuanl wyyhvr'}, {'manael weavur', 'moeunl wewfir', 'mnahyh hyhvre', 'mamwle wwvaar'}, {'manael weuver', 'manlai wuavwr', 'hnaeuy hehbre', 'momlue wvewir'}, {'muunhl wyoevr', 'minuel weavor', 'mynuwl weevyr', 'amhhol ewwwew'}, {'minwll wiovyr', 'hounle ewvahy', 'manoel weavor', 'memiwl wywfyr'}, {'mymhyl wyhvre', 'munuel weiver', 'yenwle ewuwew', 'meuenl whvier'}, {'mouniy wwvaoh', 'muenhl wwvair', 'manuil wiaver', 'mwynel wiefer'}, {'myniul waaevr', 'mwuonl wwabry', 'manuhl wuaver', 'mnahhh ewafow'}, {'momhhl whhpwr', 'monowl wiaevr', 'munuel woaver', 'amwulw ewypar'}, {'mywile ewwphr', 'mynhlo wowbwr', 'monely woevar', 'monuel wehver'}, {'monlea weauvr', 'menuel wuaver', 'amwula ewawiw', 'mamolw wyihvr'}, {'monlew weeovr', 'manuhl wuaver', 'muamyl wwhvro', 'wyuneh yeeevy'}, {'moiunl woafar', 'mimyol wyoevr', 'myunah ewufir', 'manuil weavur'}, {'mamlye wyfayr', 'ammial haefeh', 'mywnul weafyr', 'manuil weuver'}, {'myunyl wyviir', 'amnali uayvre', 'minuel weavar', 'manlih weievr'}, {'amwhol yeyevy', 'manuol wuaver', 'manloo weiavr', 'myinle waupwr'}, {'maniel woaver', 'amnile ewhwir', 'mynlew wahvwr', 'mohnhl wowbhr'}, {'munuel weavar', 'yiwule ywabre', 'manwlw wevyyr', 'mhaenl wyvhir'}, {'minuel wwaver', 'mweenl whubor', 'amwuyh ewawow', 'maaanl wuyfer'}, {'menhle wwvyar', 'mynuhl weuevr', 'nahale yeuevh', 'manuul weavur'}, {'maoonl weavru', 'wawhle ewwhar', 'memewl wuobwr', 'monuel weiver'}, {'amwhle yuaevy', 'momiwl wyhpwr', 'manuol wwaver', 'maainl woafor'}, {'myenyl wuoepr', 'mewnul wieavr', 'wenhle ewwviw', 'monuel waaver'}, {'menuel whaver', 'mwunle wyvuar', 'hnauoy ewawhy', 'manlyy wievwr'}, {'mouunl wowvwr', 'munuel waaver', 'haunoh wihwre', 'meunlh wiipir'}, {'mawnwl wiyvyr', 'monuel woaver', 'miunlh weopre', 'nynale awawre'}, {'miunhl weobre', 'menywl weofyr', 'manuol wiaver', 'mewile wowevh'}, {'menlue wafeer', 'mwunol wiepwr', 'wwnhle yeievy', 'manuhl weuver'}, {'amwhle eoevrh', 'mamilw wyvuir', 'mwynul wevuar', 'manuhl weuver'}, {'wnaowl ewuwre', 'maneel weavor', 'manlaa wevuwr', 'mymwyl whepre'}, {'myenwl wwobyr', 'yyunil ewypar', 'manull wiaver', 'monuyl wevoyr'}, {'mynowl weyfyr', 'menuel whaver', 'hawile ewhwwr', 'mamluh wubawr'}, {'meynul whavyr', 'manuhl weavur', 'ammihl ewypre', 'mimwol woobir'}, {'mewenl wiybhr', 'minuel weover', 'manley weawfr', 'mwunaw ewabiw'}, {'manual waaver', 'amweeh uaevry', 'munnwl whvear', 'meunlh wiefhr'}, {'manuhl weiver', 'manelw whaevr', 'mimyul wiopwr', 'amhule yaeevy'}, {'minuel weavir', 'miwale yeyevy', 'manlah wiovyr', 'moinhl wyhpwr'}, {'manoel weuver', 'hnayew ewhpwr', 'mhenle whobar', 'monlee whavre'}, {'maanwl whyvor', 'meumle wwybhr', 'amwulw hehwre', 'manull wwaver'}, {'minuel wuaver', 'nhneuy yaevre', 'mymeol wwvuyr', 'mmonel whavyr'}, {'mmenul wuevar', 'mymoil wovhhr', 'monuel weavur', 'hwunol haevah'}, {'maonle wiyvwr', 'yuyeul hyhvre', 'mumewl wayuvr', 'manoel weavar'}, {'muhnhl wowuvr', 'amwyeh wyvaiw', 'minlee weiphr', 'manull weavir'}, {'amyule wwvayh', 'maenwl wiefer', 'manuol woaver', 'minwlh wuybur'}, {'nuunwl ewupir', 'manual wuaver', 'mwenhl wyifyr', 'manoly wefayr'}, {'muumwl waefrh', 'manlww wievur', 'hnaahl ewipre', 'maneel wiaver'}, {'maneyl wowvar', 'nnaale yuaevy', 'muamyl wwwbwr', 'manuhl weavir'}, {'mhenle wowbwr', 'ninile ewafow', 'manayl wiavwr', 'minuel wehver'}, {'amnhle eievre', 'manull weuver', 'momwal wyubhr', 'muynel wevowr'}, {'yyuneh ewwfew', 'manual wiaver', 'mynleu weifir', 'maemle wiipwr'}, {'mmanal weifwr', 'mumayl wyepwr', 'manuul wwaver', 'nawile ewihhr'}, {'manlia whyvor', 'minuel wiaver', 'amheeh ewwhur', 'mumiyl wwyevr'}, {'muniyl weoyvr', 'momhal waebru', 'manuul wwaver', 'amwhol evyahr'}, {'mwhenl wypair', 'manuhl weover', 'myniil wahvyr', 'yamyle ewwhey'}, {'wynile ewabru', 'mamwlw wehbrw', 'manael waaver', 'minlue weuwvr'}, {'moanyl wuuvwr', 'mymula wehbrw', 'maniel wuaver', 'whunew haaevh'}]
+manuel weaver       : DEBUG: Additional rule variations: {'weaver          manuel'}
+manuel weaver       : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "manuel weaver": {
+            "first_name": {
+                "score": 0.7040633627909584,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.22499999999999998,
+                        "orthographic": 0.975,
+                        "combined": 0.6
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 2.4,
+                        "score": 0.6270890852730561
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "mynula",
+                            "phonetic_score": 0.2303050076030799,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "munhlw",
+                            "phonetic_score": 0.01846940050869941,
+                            "orthographic_score": 0.33333333333333337,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "manuol",
+                            "phonetic_score": 0.9999999999999999,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "nounal",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.16666666666666663,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.6925488545199121,
+            "final_score": 0.6540390836159297,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 4,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.6784542130855286,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.1396361676485673,
+                        "orthographic": 0.975,
+                        "combined": 0.5573180838242836
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 2.4,
+                        "score": 0.6270890852730561
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "weehvr",
+                            "phonetic_score": 0.8061443711591263,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wowhvr",
+                            "phonetic_score": 0.25969546097139534,
+                            "orthographic_score": 0.33333333333333337,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wiaver",
+                            "phonetic_score": 0.9999999999999999,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wwwevy",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.16666666666666663,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "name_parts_permutations": [
+                            "weaver          manuel"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "weaver          manuel": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 0.5,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.5,
+        "by_name": {
+            "manuel weaver": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "name_parts_permutations": [
+                            "weaver          manuel"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "weaver          manuel": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 0.5,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "average_quality": 0.6540390836159297,
+    "final_reward": 0.6540390836159297
+}
+manuel weaver       : DEBUG: ----------------------------------------------------------------------------------------------------

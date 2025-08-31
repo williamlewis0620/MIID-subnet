@@ -1,0 +1,1452 @@
+amy shaw            : INFO: Generating variations for amy shaw
+amy shaw            : INFO: ----------------------------------------------------------------------------------------------------
+amy shaw            : INFO: Effective rules: ['swap_adjacent_consonants', 'swap_random_letter']
+amy shaw            : INFO: ----------------------------------------------------------------------------------------------------
+amy shaw            : INFO: Min Required Rule Variation Set: [{'amy hsaw', 'aym shaw'}]
+amy shaw            : INFO: ----------------------------------------------------------------------------------------------------
+amy shaw            : INFO: First name: amy
+amy shaw            : INFO: Last name: shaw
+amy shaw            : INFO: ----------------------------------------------------------------------------------------------------
+amy shaw            : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (0, 7), (0, 8), (0, 9), (0, 10), (1, 9), (0, 11), (1, 10)]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 1 / 13: rule_count/nonrule_count: 0/1------------------------------
+amy shaw            : DEBUG: O: [0, 0, 0, 1]
+amy shaw            : DEBUG: P: [0, 0, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [0, 0, 0, 1]
+amy shaw            : DEBUG: P: [0, 0, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.26319479]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 2 / 13: rule_count/nonrule_count: 0/2------------------------------
+amy shaw            : DEBUG: O: [0, 1, 0, 1]
+amy shaw            : DEBUG: P: [1, 0, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [0, 1, 0, 1]
+amy shaw            : DEBUG: P: [1, 0, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.39201965]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 3 / 13: rule_count/nonrule_count: 0/3------------------------------
+amy shaw            : DEBUG: O: [0, 1, 0, 2]
+amy shaw            : DEBUG: P: [2, 0, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [0, 0, 0, 2]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [0, 1, 0, 2]
+amy shaw            : DEBUG: P: [2, 0, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 0, O: [0, 1, 0, 1]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.39607854]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 4 / 13: rule_count/nonrule_count: 0/4------------------------------
+amy shaw            : DEBUG: O: [0, 2, 0, 2]
+amy shaw            : DEBUG: P: [2, 1, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [0, 0, 0, 2]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [0, 2, 0, 2]
+amy shaw            : DEBUG: P: [2, 1, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.41969315]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 5 / 13: rule_count/nonrule_count: 0/5------------------------------
+amy shaw            : DEBUG: O: [1, 3, 1, 0]
+amy shaw            : DEBUG: P: [3, 1, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 1, 1, 0]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [1, 3, 1, 0]
+amy shaw            : DEBUG: P: [3, 1, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 2, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.54238529]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 6 / 13: rule_count/nonrule_count: 0/6------------------------------
+amy shaw            : DEBUG: O: [1, 3, 1, 1]
+amy shaw            : DEBUG: P: [4, 1, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 1, 1, 1]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [1, 3, 1, 1]
+amy shaw            : DEBUG: P: [4, 1, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 3, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [3]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.53727198]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 7 / 13: rule_count/nonrule_count: 0/7------------------------------
+amy shaw            : DEBUG: O: [1, 4, 1, 1]
+amy shaw            : DEBUG: P: [4, 2, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 1, 1, 1]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 2, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [1, 4, 1, 1]
+amy shaw            : DEBUG: P: [4, 2, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 3, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [3]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [3, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.54051884]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 8 / 13: rule_count/nonrule_count: 0/8------------------------------
+amy shaw            : DEBUG: O: [1, 4, 1, 2]
+amy shaw            : DEBUG: P: [5, 2, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 1, 1, 2]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 2, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [1, 4, 1, 2]
+amy shaw            : DEBUG: P: [5, 2, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 0, 1, 1]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 4, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [4]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.5283475]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 9 / 13: rule_count/nonrule_count: 0/9------------------------------
+amy shaw            : DEBUG: O: [1, 5, 1, 2]
+amy shaw            : DEBUG: P: [6, 2, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 2, 1, 2]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 2, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [1, 5, 1, 2]
+amy shaw            : DEBUG: P: [6, 2, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 0, 1, 1]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 5, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [5]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.51141898]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 10 / 13: rule_count/nonrule_count: 0/10------------------------------
+amy shaw            : DEBUG: O: [2, 6, 2, 0]
+amy shaw            : DEBUG: P: [7, 3, 0, 0]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [3, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [2, 3, 2, 0]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [3]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [2, 6, 2, 0]
+amy shaw            : DEBUG: P: [7, 3, 0, 0]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 1, 2, 0]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [2, 5, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [5]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [5, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.50180193]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 11 / 13: rule_count/nonrule_count: 1/9------------------------------
+amy shaw            : DEBUG: O: [1, 5, 1, 2]
+amy shaw            : DEBUG: P: [6, 2, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 2, 1, 2]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 2, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [1, 5, 1, 2]
+amy shaw            : DEBUG: P: [6, 2, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 0, 1, 1]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [1, 5, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [5]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.71141898]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 12 / 13: rule_count/nonrule_count: 0/11------------------------------
+amy shaw            : DEBUG: O: [2, 6, 2, 1]
+amy shaw            : DEBUG: P: [7, 3, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [3, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 1, 0, 0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [234]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 0, O: [2, 2, 2, 1]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 3, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [2, 6, 2, 1]
+amy shaw            : DEBUG: P: [7, 3, 0, 1]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 1, 2, 0]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [2, 5, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [5]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [499]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [500]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [1]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [5, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.48945069]
+amy shaw            : INFO: ------------------------------Trying rule_count_pair 13 / 13: rule_count/nonrule_count: 1/10------------------------------
+amy shaw            : DEBUG: O: [2, 6, 2, 0]
+amy shaw            : DEBUG: P: [7, 3, 0, 0]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [14, 2, 0]
+amy shaw            : DEBUG: [19, 4, 0]
+amy shaw            : DEBUG: [20, 2, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [3, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [2, 3, 2, 0]
+amy shaw            : DEBUG: [12]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [3]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: amy, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: amy, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: O: [2, 6, 2, 0]
+amy shaw            : DEBUG: P: [7, 3, 0, 0]
+amy shaw            : WARNING: Remains: 0
+amy shaw            : DEBUG: p_level: 1, O: [0, 1, 2, 0]
+amy shaw            : DEBUG: [8, 6, 0]
+amy shaw            : DEBUG: [20, 57, 0]
+amy shaw            : DEBUG: [20, 182, 0]
+amy shaw            : DEBUG: [20, 20, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: [1, 0, 0]
+amy shaw            : DEBUG: [2, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0]
+amy shaw            : DEBUG: p_level: 0, O: [2, 5, 0, 0]
+amy shaw            : DEBUG: [7]
+amy shaw            : DEBUG: [29]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [20]
+amy shaw            : DEBUG: [2]
+amy shaw            : DEBUG: [5]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: [0]
+amy shaw            : DEBUG: final:
+amy shaw            : DEBUG: name: shaw, l_level: 0
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [5, 1, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 1
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: name: shaw, l_level: 2
+amy shaw            : DEBUG: --------------------------------------------------
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+amy shaw            : DEBUG: scores: [0.70180193]
+amy shaw            : DEBUG: ----------------------------------------------------------------------------------------------------
+amy shaw            : DEBUG: Best score achieved: 0.7114189790676922
+amy shaw            : DEBUG: Best selected: 1/9
+amy shaw            : DEBUG: Rule variations: [{'amy hsaw', 'aym shaw'}]
+amy shaw            : DEBUG: Nonrule variations: [{'amm shuo', 'AMIe SHEW', 'ame siaw', 'AMMy Shiy', 'amey sheu', 'Aimy siai', 'AMOY wihy', 'aay shoh', 'AOmy shia'}, {'hmy shio', 'aumy sheh', 'AUMY SHEy', 'AMiE hsiy', 'amW shua', 'amo shah', 'AMoy SHww', 'AMmy siae', 'AWmy sheu'}, {'AMYy sioy', 'ahy shoe', 'amI siaw', 'AMEY SHYW', 'Amoy shuu', 'amay shia', 'AMee zywy', 'amw shou', 'Amiy sheo'}, {'amO siaw', 'AMIy SHiw', 'amU shoe', 'Aumy shoh', 'AIMY SHIe', 'Aimy siao', 'AMIE zahh', 'amoy ssha', 'omy shii'}, {'AMie yauh', 'AMoy sioy', 'Amiy shuu', 'amyy sheo', 'AHmy shei', 'aay shoh', 'amI shio', 'ama shao', 'AMiE SHYW'}, {'imy shou', 'Amyy shei', 'amU shoe', 'AMEY SHoy', 'AMay Shey', 'AOmy shii', 'AMie wsey', 'ahmy shih', 'ama siaw'}, {'AHMY SHEY', 'Ammy siaa', 'AMuy Shiy', 'amW shoh', 'AOmy siao', 'omy shiu', 'AMEY kewa', 'amM shaa', 'amiy siau'}, {'AMMY xahy', 'ahy siai', 'ahmy sheo', 'AMiE SHEW', 'AMOy Shiy', 'amU siao', 'AMmy shoi', 'amu shah', 'Amoy shue'}, {'amu siai', 'AWmy shia', 'AMAy SHay', 'AUMY SHYW', 'amI shai', 'amee sheh', 'ahmy siaa', 'aay ssha', 'AMAY qwwa'}, {'amU shau', 'awmy shiu', 'AHmy siae', 'ama shoi', 'AMUY hkya', 'imy shoa', 'amee shui', 'AWMy SHYw', 'AMee SHEW'}, {'amm shoe', 'Amuy shih', 'AOMY hehy', 'aomy siao', 'AMMy Shey', 'amw shao', 'Amiy shoo', 'AMIY SHEy', 'imy siai'}, {'amu shih', 'AMAy Shwy', 'amie shou', 'amw shaa', 'AMIe akhy', 'AMiE SHoy', 'ammy shoh', 'auy siai', 'Aomy shiu'}, {'amU shia', 'amee siaa', 'AMie SHYW', 'AIMY wwho', 'aimy siau', 'Amie sshy', 'ama siaw', 'emy shua', 'AImy shoe'}, {'Amyy shoe', 'Aimy shuh', 'amO shao', 'AMeE wsoh', 'amm sheh', 'AMMy SHay', 'amyy shii', 'AMIY SHEY', 'aoy ssha'}, {'ama shoi', 'AMmy shui', 'amee shea', 'AMAy Shie', 'amU shai', 'auy shoa', 'AMYY xwwi', 'AIMY SHOy', 'amuy shio'}, {'ayy siau', 'AMie SHYW', 'aomy shio', 'AMOY hqho', 'amU shea', 'amm siaw', 'AHMy SHyw', 'AMmy shoh', 'Amey shiu'}, {'aimy shoe', 'AMIE SHiy', 'Ammy siae', 'AMUy SHay', 'amM siah', 'wmy siai', 'Amuy shoi', 'AMIY gywy', 'amw shah'}, {'aomy shue', 'ayy siaa', 'Awmy shui', 'AMOY yqwa', 'ame shai', 'AMEE SHUW', 'AMUy SHuw', 'Amoy shua', 'amU shio'}, {'ami siah', 'AMay SHww', 'Aumy shoh', 'amey shei', 'AMOY xywh', 'AMIY SHOy', 'Aimy siae', 'amA shah', 'nmy siaa'}, {'Amay sheu', 'amW siau', 'AMMY SHWW', 'amoy shuo', 'AMIE wsoy', 'Emy shih', 'AUMy sshy', 'Amyy siao', 'amE shae'}, {'AMEy SHWw', 'AMOY jwia', 'ammy shuo', 'amo shoo', 'AImy siah', 'AUMY SHie', 'AWmy shoe', 'aay siai', 'amw shah'}, {'AImy shua', 'ama siah', 'AMYy SHUw', 'auy shuo', 'AMOY SHIE', 'Amuy shio', 'amW shai', 'aomy shui', 'AWMY qyey'}, {'amE shaa', 'aumy ssha', 'AHmy shoi', 'Amuy sheu', 'AHMY hsey', 'nmy sheo', 'AMIY SHEW', 'amM shoo', 'Amie SHay'}, {'amI shao', 'Amuy shoa', 'AMYy SHow', 'amO shua', 'Amyy shue', 'AMeE SHiy', 'AHMY gehy', 'ymy siaa', 'aomy sheh'}, {'ymy sheu', 'AMAY SHAy', 'ame shai', 'Awmy siaa', 'AMEe hwhy', 'Amey shoa', 'AMay sshy', 'aimy siah', 'amo shoe'}, {'AMEe hkya', 'amM shao', 'AOMy sioy', 'AMie SHUW', 'Amuy shuu', 'amo ssha', 'hmy siae', 'Amiy shoh', 'ahmy shue'}, {'amm shei', 'amay shoo', 'Aumy shoe', 'AMOy SHYw', 'amie shii', 'AMEE SHiy', 'amw shau', 'AMee xahy', 'Nmy siau'}, {'ayy shoi', 'amo siaa', 'AMIY SHYW', 'AOmy siau', 'AMee jewy', 'amay shui', 'Amie SHiw', 'Amiy shoa', 'amm shau'}, {'amo shih', 'AMMy SHOw', 'Amay shoo', 'AIMY SHIY', 'AMEE wuwy', 'amey siah', 'Amiy shoa', 'Emy shuo', 'amW siaw'}, {'AIMY xywh', 'amey shou', 'AHmy shuu', 'Nmy shio', 'amI shai', 'Amuy ssha', 'AMIE SHIe', 'ama shih', 'AHMy Shiy'}, {'AMeE SHey', 'Ammy shou', 'amA shea', 'Amyy shia', 'AMYy Shwy', 'AOMY yywi', 'omy shuo', 'amuy siai', 'amw shah'}, {'AMAY zahi', 'AMie SHOW', 'ama siah', 'aiy siaa', 'aumy shoa', 'AHmy shoh', 'Ammy shou', 'AMUy SHay', 'amM shaa'}, {'amU shaa', 'aimy shoe', 'AMOY qiwa', 'Ammy shih', 'omy sheo', 'AMYy Shie', 'Amoy siae', 'AWMY SHOy', 'amM shuh'}, {'aomy shua', 'amA shao', 'AWmy shii', 'Awmy sheo', 'AUMY yqwa', 'AMIy Shiy', 'awy shiu', 'ama siaa', 'AIMY SHAy'}, {'amA shai', 'amey shio', 'AMOY SHEy', 'Amoy sheu', 'amE siau', 'hmy shii', 'Aomy shea', 'AMeE qwwi', 'AMMy SHyw'}, {'amU shaa', 'AImy shua', 'AMAY SHIy', 'amyy ssha', 'ama sheh', 'Awmy siae', 'omy shoe', 'AMMy SHww', 'AMee xyey'}, {'amW siah', 'Emy siai', 'Ammy siaa', 'AMEE SHIE', 'AWMY xayy', 'amey shuu', 'ame shau', 'AMOy SHiw', 'Amay shuo'}, {'amA shuh', 'AMUY SHey', 'AMYY ywwe', 'amW shah', 'aiy shui', 'amee shoi', 'aomy siaa', 'AMyy SHWw', 'Ammy siao'}, {'AWmy shoi', 'AHmy shih', 'amI siaw', 'AMAY SHoy', 'amuy shue', 'AMUy SHOw', 'amE ssha', 'auy shio', 'AMIY yywa'}, {'AUMy Shey', 'amu shae', 'amM shih', 'AMEY SHEY', 'Aomy shoa', 'AWMY qaho', 'umy shoo', 'Amiy shue', 'amiy shuu'}, {'aomy shii', 'Amie SHUw', 'AMie SHOW', 'AMeE yyiy', 'amw shuo', 'Awmy siaa', 'ami shae', 'Ahmy shoi', 'mmy siau'}, {'amU shaa', 'AMMY kwhy', 'AMiy sioy', 'Amiy sheh', 'amO shoi', 'aey shoo', 'AMIY SHYW', 'awmy siah', 'AImy sheo'}, {'aumy sheh', 'amu shao', 'mmy shoh', 'Ammy sheu', 'AUmy shou', 'AWMy SHww', 'amO siai', 'AMOY SHAy', 'AMEe wohh'}, {'Wmy sheh', 'amW sheu', 'amo shao', 'AIMy Shwy', 'AIMY zyhy', 'ammy siae', 'AMee SHey', 'Amey shou', 'AUmy sheo'}, {'ammy shea', 'Aomy shou', 'AMiE SHIW', 'amo shah', 'AHmy shia', 'amM shoa', 'AMIy SHYw', 'mmy sheu', 'AMee ywwa'}, {'AMee hsyy', 'omy shou', 'ami shau', 'Amay shea', 'AWmy siau', 'amo shoo', 'AMOY SHEY', 'amey sheu', 'AMuy SHiw'}, {'Wmy siau', 'AMuy SHEw', 'AMIE qowa', 'AWmy siaa', 'Amay shiu', 'amuy siao', 'ame shah', 'AMiE SHAY', 'amM shua'}, {'ami siah', 'AOmy shih', 'amo shaa', 'AMIE SHiy', 'aoy sheh', 'AMYY cyho', 'Ammy shio', 'AMUy Shoy', 'amuy shea'}, {'AOmy siah', 'AMuy sshy', 'awy sheh', 'amyy shoe', 'AMIE SHAY', 'AMIe yxwa', 'Amuy siaa', 'amE shue', 'ame shaa'}, {'AMoy Shoy', 'AOmy siah', 'AMeE yyyy', 'amM shui', 'amW shaa', 'AMiE SHAY', 'AMmy shoh', 'ammy shia', 'mmy siau'}, {'AIMY xywh', 'amO shai', 'amey shii', 'AOmy shiu', 'Amay shio', 'amo sheu', 'AMEY SHey', 'AMEy SHiw', 'umy shuh'}, {'aoy shuo', 'AMIY wyhu', 'amie shua', 'ama ssha', 'ahmy siau', 'Amuy shou', 'AMiE SHIe', 'amA shah', 'AMuy SHiw'}, {'amey shii', 'AMAY gowa', 'Ahmy shoh', 'AIMy Shie', 'amw shoa', 'wmy shuu', 'amE shae', 'AUmy shiu', 'AMee SHOW'}, {'AHMY SHiy', 'AUmy shio', 'AUMY gyoy', 'AMIy Shey', 'ame shah', 'aay shua', 'amiy siao', 'Amey sheh', 'amE shiu'}, {'amiy siai', 'AOMY SHie', 'Aomy siaa', 'AMIY kyih', 'Ahmy siau', 'ama shoa', 'AMuy SHIw', 'aoy siae', 'amE siaw'}, {'amu siai', 'Amey shoo', 'AMAY SHEY', 'ame shao', 'aimy shio', 'AWmy sheo', 'AMey SHEw', 'AMEY hjya', 'umy siau'}, {'AUmy shuh', 'AWMy SHyw', 'AMee cehy', 'Nmy shue', 'AMmy shoo', 'amO shah', 'amoy shio', 'amu shoh', 'AMie SHOy'}, {'AHmy siao', 'aiy shii', 'ame siaw', 'AMIE SHEY', 'ama shoa', 'AIMy Shie', 'amie sheo', 'AOMY wkwa', 'amoy sheh'}, {'AMIE SHey', 'auy ssha', 'amie shii', 'AMay Shoy', 'amM shih', 'amu siaw', 'Amiy siaa', 'amoy shia', 'AWMY kwya'}, {'aumy shei', 'AMMY SHOW', 'Amoy siaa', 'Amuy siae', 'ami shoa', 'AMUY ywoh', 'amm shai', 'umy siai', 'AWMy Shey'}, {'Awmy sheo', 'AMUY SHAY', 'amo shia', 'AOmy shoh', 'AMYY hehy', 'ahmy shoi', 'imy shiu', 'amm shau', 'AMEy SHWw'}, {'amu shao', 'amoy shoo', 'AUMY gahi', 'ame siah', 'umy shoa', 'AMIY SHoy', 'AMAy SHyw', 'Amay shou', 'Amey shei'}, {'Aumy shei', 'aiy shoe', 'AMEE SHUW', 'Aimy shui', 'AMee kyih', 'amuy shuu', 'AUMy SHYw', 'amw shuh', 'ami siaw'}, {'amI shau', 'AOMY SHYW', 'emy shoe', 'Amyy shia', 'AIMy SHay', 'AMYY hzhy', 'amee shua', 'aimy shih', 'ame shuo'}, {'amU siai', 'AWmy shoo', 'AMIE SHey', 'AMUy sioy', 'awy shua', 'awmy siau', 'amm siaw', 'Aomy sheh', 'AMIe waey'}, {'amE shau', 'AMOY ycwa', 'Amay shuu', 'AMAY SHUW', 'Amie SHiw', 'amo siae', 'Amiy shoa', 'auy sheu', 'amay shiu'}, {'amay shou', 'AWmy shoi', 'AUmy shii', 'AOMy SHew', 'aey siah', 'AMUY SHEY', 'AHMY ysey', 'amE shae', 'amu shei'}, {'AOMy Shie', 'aomy shuh', 'AMee SHIY', 'ayy shoh', 'amU shuo', 'Amey siaa', 'ama shah', 'AMIE kyoy', 'Awmy shoi'}, {'AMee hxya', 'AMuy Shey', 'amA shau', 'amey sheu', 'amo shia', 'AMIY SHOY', 'Aimy sheh', 'Amuy shuo', 'umy shua'}, {'aumy siaa', 'AIMY SHYW', 'Amuy siah', 'aey siai', 'amU siaw', 'AIMy Shey', 'AMUY zweh', 'Amey shii', 'amW shuh'}, {'AMMy SHiw', 'AMee hwhu', 'amW siae', 'ayy sheh', 'amyy ssha', 'Amiy shoe', 'Ahmy shoh', 'AMIY SHEy', 'amM shaa'}, {'amE shah', 'Amay shei', 'amu shoi', 'aimy shuh', 'omy sheo', 'AMIE zyua', 'AHMY SHEy', 'amee shiu', 'AMUy SHYw'}, {'amE shai', 'awy siae', 'AMey Shwy', 'AMIE SHOy', 'Amay shia', 'Awmy shou', 'aimy sheh', 'ami shoo', 'AMEE kwuh'}, {'AMEE wyhy', 'amiy ssha', 'AOmy shio', 'Aomy siaa', 'umy shoe', 'AIMy SHay', 'AMMY SHEW', 'ami siaw', 'ame shua'}, {'Ahmy siao', 'Amiy siau', 'amm sheo', 'Amie SHww', 'AMUY SHiy', 'AMiE hsyu', 'umy siaa', 'amW shau', 'amiy shiu'}, {'AUmy shoa', 'AMee SHoy', 'Wmy shio', 'awmy siai', 'AUMY yiwy', 'amw shau', 'ami shea', 'Awmy ssha', 'AUMy SHew'}, {'AOMy SHow', 'amW shio', 'Ahmy shia', 'amM shau', 'AMIE yqwa', 'AMOY SHie', 'Amyy siah', 'aoy ssha', 'amiy shih'}, {'amI shoo', 'emy shiu', 'Amay shue', 'AMOy Shoy', 'ahmy sheu', 'amee shui', 'amm shai', 'AMYY xyeh', 'AWMY SHIE'}, {'Amiy shio', 'AMAy SHEw', 'ama shai', 'umy shiu', 'amiy shuh', 'AUmy shue', 'AMIe SHOW', 'amu shii', 'AMEE hzhy'}, {'AMAY wahh', 'amoy siao', 'amI shao', 'AMee SHEy', 'amE siah', 'AMiy Shie', 'aiy siae', 'Amey sheu', 'Amoy shue'}, {'ame shea', 'AMoy Shwy', 'AMOY SHie', 'Amoy shio', 'aumy shih', 'amE shae', 'AHMY guwy', 'mmy shuo', 'AHmy shoe'}, {'amw shea', 'amW shah', 'AHmy shoh', 'AIMy Shwy', 'AHMY xwiy', 'ymy shui', 'AMEE SHEY', 'aumy shoi', 'Amay shou'}, {'AHmy shuo', 'AWMY jyhh', 'amW siao', 'Amyy ssha', 'AMuy SHuw', 'umy shoe', 'amey shui', 'amM shaa', 'AMEE SHIe'}, {'amO siaw', 'amuy shia', 'awy siao', 'Aumy siae', 'AWmy sheo', 'amm sheh', 'AMMY SHie', 'AMAY kyey', 'AIMy SHIw'}, {'AMEe SHEY', 'Amey shoo', 'AMIE gyey', 'ami shaa', 'aimy shuo', 'Awmy siau', 'AUMy Shoy', 'nmy siae', 'amm shio'}, {'amM shao', 'imy shoa', 'AMOY SHAY', 'amE shio', 'AWmy shue', 'AUMy SHww', 'AMEE yyhh', 'Amyy shoi', 'amyy siao'}, {'amo shau', 'amay shei', 'AMEE SHiy', 'mmy siah', 'AMIY hehy', 'AOmy shii', 'AUMy Shiy', 'Aomy shoo', 'amw shoi'}, {'AUMY zywy', 'AHMY SHAY', 'Aimy shoh', 'Aomy shio', 'ahmy siaa', 'AMey SHEw', 'ymy shoo', 'ame shao', 'amM shia'}, {'AMiE qwiy', 'amW shae', 'ahmy sheo', 'aay shoa', 'Amay shoo', 'AHMY SHEy', 'AMOy sshy', 'ame siah', 'Amyy shiu'}, {'ame sheh', 'AMEe SHEY', 'Amuy shii', 'amW shae', 'AMMy Shey', 'amuy shuu', 'auy shia', 'AMUY xuwy', 'Aumy siao'}, {'awmy shoi', 'amee siai', 'AMiE SHEW', 'amA shuo', 'Ahmy shio', 'AMiy SHew', 'AWMY yyhi', 'amm shae', 'aiy shoa'}, {'AMmy shuo', 'ama shoi', 'AMey SHew', 'AMeE qiwa', 'Amoy siai', 'ahmy siaa', 'AUMY SHOW', 'amE shae', 'umy shue'}, {'Amyy sheh', 'Aomy shui', 'AMMY wswe', 'AOMY SHYW', 'mmy ssha', 'ame shiu', 'Amie SHay', 'amE siaw', 'amiy siau'}, {'AWMy SHiw', 'AMIE SHWW', 'ami shah', 'AMIY wywe', 'amay siae', 'emy siau', 'amu ssha', 'AOmy shuu', 'Aimy siah'}, {'AMEe SHIe', 'AMOY zwya', 'AMey SHyw', 'amA shae', 'Aomy siae', 'Amiy shei', 'amW shea', 'imy shoo', 'ahmy shio'}, {'Aumy sheo', 'AMee ywyh', 'AWmy shio', 'ymy shui', 'ahmy ssha', 'AMuy SHay', 'amm shao', 'AIMY SHIE', 'amI shou'}, {'amey shia', 'AHMY SHOY', 'amI siau', 'amA shao', 'Amoy sheu', 'AImy shoo', 'AMee kyyh', 'aiy shiu', 'AMAy SHew'}, {'aumy siah', 'ayy shiu', 'amO shae', 'AMmy shea', 'amE shou', 'Amie SHww', 'AHmy shue', 'AMOY SHYW', 'AMMY hsyo'}, {'AMYY SHOW', 'aiy shuo', 'AMeE wohh', 'aimy shuu', 'AWmy shoa', 'AMmy shiu', 'AMey SHEw', 'ami shui', 'amM shaa'}, {'awmy shiu', 'AMAY wwua', 'Aomy siau', 'AMee SHEY', 'ami shai', 'AWMy SHEw', 'amu siae', 'ayy shei', 'Ahmy shue'}, {'AMEE zwwe', 'amee siai', 'amo shao', 'Amyy shio', 'omy sheo', 'AMuy SHEw', 'amiy shuh', 'amu siae', 'AMIE SHIe'}, {'AMmy shia', 'AMeE SHOy', 'ahy shii', 'AMIy Shoy', 'amU shao', 'AOMY kwua', 'AHmy shuh', 'amM shoh', 'awmy shea'}, {'Aimy shio', 'ame shae', 'AOMy SHWw', 'AMee cahe', 'ammy siao', 'amm shou', 'AOmy sheu', 'AMEe SHIY', 'Emy shuh'}, {'Awmy shea', 'amE shah', 'amoy shii', 'AMAy SHUw', 'AIMY yjhi', 'AMIe SHAy', 'amo siao', 'Amey shih', 'ayy shio'}, {'AMOY SHEy', 'ahmy siae', 'amU siau', 'Awmy siaa', 'auy shih', 'AMIy SHew', 'amm shae', 'AMiE jwwe', 'Ahmy siao'}, {'AWmy shoi', 'amoy shou', 'AUMY SHoy', 'AMay Shey', 'ame siao', 'AHmy shiu', 'amm shai', 'umy siau', 'AMEe jwhh'}, {'AUmy siah', 'amO shih', 'Amie Shwy', 'ammy shui', 'AMAY gayy', 'AWMY SHoy', 'amm siaw', 'ayy shuu', 'Amey shii'}, {'AMUY jwwy', 'AMIy sshy', 'amm siaa', 'amM shau', 'ahmy shea', 'amie shio', 'AWmy shiu', 'AMeE SHYW', 'ayy shuu'}, {'AMEE cowy', 'amee shei', 'AMEy Shwy', 'amu shae', 'Amiy shoe', 'emy siae', 'amo shuu', 'amoy shea', 'AHMY SHOW'}, {'ame sheh', 'amo siaw', 'AMIe wjwa', 'Awmy shea', 'amie shou', 'AMIy SHay', 'AMUY SHIe', 'amay sheo', 'aey shei'}, {'mmy shii', 'aomy shuo', 'AMOY SHUW', 'Amoy shio', 'Ammy shuh', 'amA shih', 'ama siaw', 'AMEE hzhy', 'AMAy SHuw'}, {'amu shao', 'ahy shoe', 'AMYY ywwe', 'AMOY SHOW', 'Aomy sheh', 'AMAy SHEw', 'amm shio', 'Amiy ssha', 'amyy shih'}, {'amU shau', 'AMIe SHoy', 'Awmy shii', 'amo ssha', 'AMoy SHyw', 'aiy shio', 'AImy siah', 'AUMY ywwi', 'aimy shei'}, {'amA shai', 'ahmy siae', 'AMYY yehy', 'AMUy SHay', 'aoy siah', 'Amay shou', 'amu shio', 'AMie SHIe', 'amie shuh'}, {'Amie SHOw', 'amu shao', 'Nmy shou', 'amM shih', 'ammy siao', 'AMmy siah', 'AUMY xyuy', 'AMEE SHEY', 'Amiy ssha'}, {'AMEe SHiy', 'amoy siao', 'AMIy SHUw', 'Amiy siai', 'amI sheu', 'amA shae', 'AOMY yyhh', 'AHmy siah', 'ayy shio'}, {'AMYY jyeh', 'AHMy SHow', 'Aumy shoe', 'Amoy sheh', 'amA shuu', 'ami shai', 'aimy shoi', 'AMEE SHey', 'nmy shia'}, {'AMUY SHey', 'Amyy sheh', 'AMIY qwey', 'AMIy Shey', 'Amay shia', 'ahmy siaa', 'amu sheo', 'amM shah', 'ymy shio'}, {'Awmy sheu', 'amiy shio', 'AMUY yiwy', 'Ahmy shea', 'AMie SHEY', 'AUMy SHay', 'Wmy shou', 'amU shah', 'amO shiu'}, {'AHMy SHew', 'amE sheh', 'AMAY jwiy', 'AOMY SHAy', 'ahy shoi', 'amI shae', 'AWmy shuo', 'amee shui', 'aimy siai'}, {'amiy siai', 'AMOY SHEy', 'amM shae', 'Ahmy shea', 'Aomy shue', 'aiy siah', 'AMYY yswe', 'Amee SHuw', 'amo shoh'}, {'amee siaa', 'amo shai', 'AHMY hwho', 'amiy shio', 'amw shue', 'AWMY SHOW', 'wmy siao', 'AWmy sheu', 'Amie sshy'}, {'ami shio', 'AMeE SHey', 'Amie sioy', 'Ahmy shii', 'awy shue', 'AMee gywo', 'amoy siaa', 'Amay shuo', 'amM shah'}, {'AUmy shua', 'AWMY SHYW', 'aomy shiu', 'AMEY aswh', 'Amoy siae', 'AMuy SHIw', 'Emy shuu', 'amw siaw', 'amE shoo'}, {'AMeE wahu', 'amey siaa', 'AMIE SHIE', 'ami shoi', 'AOmy shuu', 'Amiy shih', 'hmy shoh', 'amm shau', 'AMAy SHiw'}, {'AMAy Shwy', 'AMIY kehy', 'amW shae', 'AMEY SHIy', 'Ammy shea', 'AOmy shoi', 'mmy siao', 'amey shiu', 'amA shio'}, {'AWMY qyoh', 'amE shah', 'Emy shuh', 'Amay sheh', 'amm shou', 'AMoy SHuw', 'AImy sheu', 'AMIE SHIE', 'ammy shue'}, {'ame shae', 'AHmy shea', 'amu sheh', 'AMIe SHiy', 'AMee yxhi', 'aey shii', 'ahmy siao', 'AOmy siae', 'Amie sshy'}, {'amo siaw', 'AHMY quhh', 'amm shii', 'Ahmy siah', 'AWMY SHIe', 'AMAy SHww', 'amey sheo', 'AOmy shuu', 'ymy shei'}, {'omy shoo', 'aumy siaa', 'AMiE kyoh', 'amM shui', 'AMIY SHIY', 'Awmy siah', 'AMuy SHiw', 'Amyy siai', 'amO shau'}, {'amI shaa', 'amoy shou', 'AMIe xaey', 'AMEy sshy', 'Amoy shio', 'AMIE SHUW', 'amw ssha', 'umy shii', 'Amiy siae'}, {'AMIY qwia', 'AMEY SHEY', 'emy siae', 'AImy shoe', 'ahmy shue', 'amO shei', 'Ahmy siai', 'AOMy SHew', 'amw shah'}, {'AUMY jahh', 'ama shai', 'AHMy SHuw', 'ame shoo', 'AImy shou', 'AMAY SHIW', 'amay shui', 'AMmy siae', 'awy shiu'}, {'AMeE gyoh', 'AMAY SHWW', 'ame shoe', 'Amyy shia', 'AMey sshy', 'Amiy shoh', 'nmy siau', 'amey siae', 'amu shai'}, {'Ahmy shuo', 'AMAY SHoy', 'AMIe qywh', 'AMUy SHww', 'amI sheo', 'aomy sheu', 'aay shoo', 'ami shao', 'AMmy shih'}, {'amI shao', 'aumy shuo', 'AWmy siaa', 'auy shoa', 'AMEe yayy', 'Amyy shiu', 'amA shei', 'AIMy Shey', 'AMUY SHWW'}, {'AOMy Shey', 'AMIY kwya', 'AIMY SHIe', 'ahmy siau', 'amA shea', 'mmy shuo', 'Amiy shei', 'amee shii', 'amm siaw'}, {'AMIy SHiw', 'ahmy shoh', 'Ammy ssha', 'AMUY SHOW', 'AMAY qwhu', 'amI shah', 'ahy siah', 'amM shoe', 'Amey shei'}, {'AMAY SHoy', 'Amiy siao', 'ama shau', 'amay shoe', 'AHmy shou', 'amm sheu', 'AWMY qaih', 'Nmy shui', 'AMuy SHay'}, {'AUMY jwia', 'amI siau', 'Amiy shoe', 'Nmy siai', 'ama shau', 'Aomy shio', 'AMie SHIY', 'AWMy Shiy', 'amuy shou'}, {'ame shae', 'AMoy SHow', 'amI sheo', 'AImy shiu', 'AOMY SHAy', 'ahy shoi', 'AMee jwiy', 'AHmy shou', 'ahmy shue'}, {'amO shui', 'aomy shuh', 'Awmy siaa', 'AMAy SHYw', 'AMiE ykhi', 'ama shaa', 'mmy siao', 'Amiy ssha', 'AOMY SHEW'}, {'Nmy shou', 'amu siaw', 'amm shua', 'AWMY SHoy', 'AHmy shei', 'Aomy shoi', 'amoy shih', 'AMIy SHYw', 'AMAY zwya'}, {'amU shaa', 'amI shoo', 'AMiE zihy', 'AMay SHUw', 'amoy shia', 'wmy sheu', 'AOmy shoi', 'AMEe SHie', 'Amoy shue'}, {'AUMy Shey', 'amo shaa', 'ahmy sheo', 'AWMY qayh', 'AImy siao', 'Amey shio', 'aey shoh', 'amM sheh', 'AMEE SHIy'}, {'AUmy shoa', 'AMay SHEw', 'AMeE xwwi', 'ymy siae', 'amO shao', 'AMUY SHIy', 'Aomy siah', 'amuy siai', 'ama sheo'}, {'Amyy shei', 'amU shia', 'awmy shih', 'AMAy SHow', 'AMie xaeh', 'amO shae', 'AWmy shiu', 'AMEe SHUW', 'ymy shio'}, {'AWMy SHWw', 'Ammy shoh', 'AMYY wwua', 'Awmy shuo', 'ama shoe', 'ame shau', 'AMIE SHUW', 'aumy shoi', 'ymy shei'}, {'amo shau', 'amW siau', 'aomy shii', 'AIMY SHUW', 'AMyy SHew', 'AMAY jywh', 'Aomy shih', 'ymy shoo', 'AHmy siai'}, {'amA shai', 'Amie SHOw', 'Aumy shuo', 'amU siau', 'AMEE SHIE', 'aiy shio', 'Amay shuh', 'aomy shoi', 'AWMY gowa'}, {'AMiE jiwy', 'Amey siai', 'wmy siah', 'amW shae', 'AMUY SHAY', 'AMmy shua', 'amu shia', 'Amee SHew', 'awmy shei'}, {'amU shaa', 'AMMY SHAY', 'hmy sheh', 'amA siaa', 'Aimy shuu', 'amee sheu', 'ammy shoo', 'AUMy SHWw', 'AMIE wihy'}, {'AMYY xauy', 'amI shao', 'AMEy SHuw', 'Nmy shii', 'Amoy sheu', 'amM sheo', 'Amay shih', 'amuy shio', 'AOMY SHEW'}, {'amu shio', 'amee shoh', 'Amey sheo', 'amey shei', 'AMeE hzhh', 'AMMY SHEy', 'AMMy SHay', 'mmy sheh', 'ame shao'}, {'AMEE SHAy', 'Aomy ssha', 'amey siaa', 'AMYy SHew', 'amI shau', 'AMee yyoh', 'aoy siai', 'ami siau', 'Amyy shui'}, {'amu shih', 'ymy siai', 'amI shaa', 'AHMY SHIE', 'AUMY ysih', 'Amoy shuu', 'Amee SHOw', 'aomy shoe', 'Amuy shui'}, {'AMEe SHiy', 'amie shii', 'AUmy shuu', 'AMEY gahi', 'AMOy Shwy', 'amM shau', 'amuy siau', 'mmy siao', 'ama sheo'}, {'AMeE qiwy', 'AMyy SHew', 'AOmy shiu', 'amU shao', 'amey shoi', 'amA shii', 'Amoy shia', 'AMIE SHIE', 'auy shoh'}, {'amU shau', 'ammy shoa', 'Amuy shei', 'AUMY SHUW', 'AMiy SHEw', 'AWMY hwhu', 'ymy siao', 'AOmy shuu', 'ami siaa'}, {'AWMY xehy', 'ama shai', 'AMmy shio', 'hmy shiu', 'Aimy siao', 'AMEy SHIw', 'aomy shia', 'amO shei', 'AMYY SHEY'}, {'ame sheh', 'AMUY SHYW', 'amU shao', 'ammy siao', 'AMeE kwua', 'Amey ssha', 'AMYy SHYw', 'Amoy shoa', 'Wmy shei'}, {'ama shoh', 'AOMY SHOY', 'ayy sheh', 'AHmy shio', 'AMEe qiwy', 'Ahmy sheo', 'AUMy Shiy', 'ami siaw', 'amiy siae'}, {'AMIe SHYW', 'amM shuo', 'AMeE hxho', 'amie shue', 'aiy siah', 'ahmy shei', 'amw shai', 'Amiy shoa', 'AMEy SHOw'}, {'mmy sheo', 'AWMY yywa', 'AMAY SHWW', 'amO shao', 'Amee SHWw', 'AOmy siau', 'ahmy shoe', 'AHmy shei', 'amo shuo'}, {'AMMY SHOW', 'Amoy shei', 'ammy shoo', 'amM shai', 'ymy sheh', 'AMiy Shie', 'amo siai', 'AMee guhy', 'AUmy sheu'}, {'Amyy siae', 'AMEE SHWW', 'imy shei', 'amu shau', 'AMoy SHOw', 'ame siao', 'AMIE xuwy', 'AOmy shuo', 'ammy sheh'}, {'Amiy siao', 'amuy siaa', 'ahy shuu', 'AMEe SHEy', 'AMee cuwa', 'Aumy siah', 'amu ssha', 'amM shah', 'AMEy SHWw'}, {'ama siai', 'amie shoh', 'umy shuu', 'AHmy shia', 'amuy shuo', 'amm shai', 'AMMY SHie', 'AMIe zyeh', 'AHMy sshy'}, {'amA shou', 'Amay shoa', 'aiy shea', 'Amoy siau', 'ami shae', 'AMie SHIy', 'AWMY qiwy', 'awmy shei', 'AUMy Shie'}, {'amu shao', 'amie shui', 'amW shuo', 'AMeE SHIy', 'Ammy shoo', 'aay shou', 'AMIe yyiy', 'Amie SHEw', 'ahmy shio'}, {'AMUy Shwy', 'amee shoa', 'Wmy shoh', 'AMMY xaiy', 'amey shih', 'AIMY SHie', 'ami shao', 'amW sheo', 'Aomy siai'}, {'AMie yauh', 'amO shui', 'AMeE SHWW', 'amw shah', 'amiy shuh', 'Aumy shea', 'AMiy Shwy', 'Amuy sheh', 'imy siai'}, {'AWmy shoi', 'AMee yehy', 'AMOY SHie', 'hmy ssha', 'amw shae', 'Aomy shoo', 'amW shoe', 'aomy siai', 'AIMy Shey'}, {'auy sheu', 'AMMY kahh', 'AOmy shue', 'AHMy SHYw', 'AMUY SHEy', 'amO shah', 'amo shia', 'Aimy sheh', 'ahmy shuo'}, {'Amyy shuu', 'amE shai', 'ahmy shua', 'amO shue', 'AMIE cwhu', 'Amee sshy', 'AMee SHAy', 'Amiy shou', 'Nmy ssha'}, {'Amiy shoi', 'AMUY qwya', 'Aomy shoa', 'amO shah', 'AWMY SHAY', 'amay siae', 'AHMy SHUw', 'amu sheo', 'awy shih'}, {'amay shou', 'AUmy shii', 'AMeE SHie', 'AMIE yuwy', 'amI shuo', 'amie siai', 'amm shah', 'AMAy SHIw', 'Emy siao'}, {'AMAY SHEy', 'aoy shea', 'Awmy siao', 'amI shuo', 'AIMy sshy', 'amiy shii', 'Ahmy shou', 'amA shah', 'AMIe qiwy'}, {'AUmy siae', 'Aumy siau', 'AMeE qwwa', 'AIMy SHww', 'AMOY SHIE', 'ami shao', 'amI siaa', 'Nmy ssha', 'amay shih'}, {'AMIe SHUW', 'AMOy SHYw', 'amay shia', 'AMYY wohh', 'amu siau', 'awy shiu', 'amM shaa', 'AUmy siai', 'AHmy shua'}, {'aumy shou', 'AMAY SHoy', 'ayy shoa', 'AMYy SHUw', 'AMEE qihy', 'AMmy shea', 'amE ssha', 'Amoy shoi', 'ama shao'}, {'AMYY SHIE', 'AMey SHYw', 'auy siaa', 'amO sheh', 'AMEY jahi', 'AImy siau', 'ama siaw', 'amay sheo', 'amie ssha'}, {'amo shau', 'AMYy sioy', 'AHMY SHIe', 'awmy siai', 'AImy shou', 'Wmy shuo', 'Amoy siao', 'AMIY qyoh', 'amM shue'}, {'ama shue', 'omy shiu', 'AMIE xuwy', 'amm shaa', 'AWMY SHiy', 'Aimy sheh', 'aimy sheo', 'Amey siae', 'AMEy SHww'}, {'amM shao', 'AMIE SHAy', 'AMYY hwhu', 'ymy sheh', 'ama ssha', 'Aimy shei', 'Amie Shwy', 'Aumy shuh', 'ahmy shoi'}, {'Emy sheh', 'amA shoi', 'aomy shua', 'AMYy SHay', 'AMIe cwhi', 'amo shah', 'AHmy siaa', 'AMOY SHOY', 'AUmy shei'}, {'aoy shuo', 'AUmy shoh', 'AMOy SHuw', 'AMIe gyoh', 'amu shaa', 'ame shou', 'awmy shio', 'AMEe SHUW', 'amee siau'}, {'Ammy shuo', 'amoy shou', 'AHMY SHiy', 'amu siao', 'AMIy Shey', 'AMeE jehh', 'AWmy sheo', 'ymy shiu', 'amm shao'}, {'amee sheo', 'amM shou', 'AMay SHww', 'Amay siau', 'AMEY SHIW', 'AMEE kywy', 'aey shia', 'ami siaw', 'aomy shui'}, {'AMee SHEy', 'AMEy Shey', 'amI siau', 'Nmy shei', 'AWmy siao', 'AIMY hqya', 'ama shah', 'awmy shuh', 'Ahmy shui'}, {'AUMY SHOy', 'amU sheo', 'ymy shea', 'Amey shue', 'Amie SHuw', 'AImy siao', 'amyy siai', 'AMie jyuh', 'amm shae'}, {'AMee SHEy', 'AMeE yayy', 'AMmy sheu', 'amU shoo', 'Amay shio', 'amiy shuh', 'AHMy SHEw', 'auy shuo', 'amm shah'}, {'amO siaw', 'amu shua', 'AOmy shei', 'AMyy SHww', 'AMIE SHAY', 'ayy siao', 'AImy shoo', 'aomy shea', 'AMYY cowy'}, {'AHMY qwuy', 'Amyy sheu', 'ame shah', 'AMOY SHEY', 'umy shoo', 'AWMy SHay', 'amU ssha', 'amoy shoi', 'AWmy shiu'}, {'AUmy shii', 'ymy shue', 'amM siaw', 'amI sheo', 'Amee SHuw', 'AMOY SHIW', 'Amoy shia', 'amey siae', 'AMee qwey'}, {'AMEY SHEW', 'amoy shou', 'Wmy shoh', 'amU shoo', 'amw shai', 'AMEy SHew', 'AWmy shih', 'Amoy shue', 'AHMY uswy'}, {'AMYY hsyu', 'ama shiu', 'ahmy shoo', 'AOmy ssha', 'amW shaa', 'AHMy SHOw', 'Wmy siah', 'AUMY SHOW', 'Amyy shoa'}, {'AMee SHAY', 'amE shau', 'awy shuu', 'amO siao', 'AWmy shuh', 'AMIY zwwh', 'amey shoh', 'Awmy shia', 'AHMy SHay'}, {'aimy shii', 'AMee SHiy', 'Amoy shou', 'AMYY hxho', 'AHmy shuh', 'amI shio', 'AMUy Shoy', 'amo shae', 'auy shue'}, {'amU siai', 'ami shaa', 'amyy shio', 'AMOY jwhu', 'AHMY SHIY', 'AMAy SHWw', 'ayy shoe', 'AHmy shua', 'AUmy sheo'}, {'aimy siaa', 'amW shia', 'AMOy SHYw', 'Amoy sheu', 'AUMY qwuy', 'AOmy shio', 'ymy ssha', 'amU shah', 'AMiE SHOW'}, {'AMeE SHWW', 'amA shuu', 'amu shau', 'AMIE jyuh', 'AMiy SHOw', 'Amuy siaa', 'aey shou', 'awmy shuo', 'amie shiu'}, {'ame shii', 'AWmy sheh', 'amW shae', 'AMIe SHOy', 'aomy siao', 'Awmy siaa', 'AMyy SHay', 'AMOY yiwy', 'mmy siau'}, {'aomy shuo', 'ama shea', 'AMUy Shiy', 'Aimy shoo', 'AWMY yaey', 'AUMY SHOW', 'amE siaw', 'Amiy sheo', 'omy siai'}, {'Aumy shui', 'AMIE SHWW', 'ami shah', 'omy siao', 'ame siah', 'Awmy shou', 'aumy shue', 'AMIe ywhi', 'AMIy SHyw'}, {'AMEY SHOW', 'amW siai', 'AWmy shua', 'amM shai', 'ammy sheo', 'AOMY jwya', 'amee shih', 'AMMy SHay', 'aay shue'}, {'AMiE SHWW', 'AMUY cahy', 'amuy shui', 'amO shah', 'AHMy SHOw', 'Amay shuo', 'amE shoh', 'Ammy shoe', 'omy siai'}, {'nmy shii', 'AMUy Shie', 'AUMY ysih', 'Amiy shia', 'amu shau', 'AOmy ssha', 'AMUY SHOW', 'aomy shoi', 'amm shuu'}, {'AMEY yyey', 'amA shao', 'Amiy shoe', 'umy siae', 'AOMy SHUw', 'AOMY SHIE', 'amee shii', 'amuy sheu', 'ame shih'}, {'amay shua', 'AMyy SHUw', 'aiy shoe', 'Ahmy shuh', 'AUMY yihh', 'AIMY SHEy', 'amM shoo', 'amO shaa', 'Amiy sheo'}, {'Amey shoe', 'AMiE SHIy', 'ame shae', 'AOmy siao', 'aomy shiu', 'awy shuo', 'AMyy SHiw', 'amW shea', 'AMEe yahe'}, {'amee shoa', 'AMAY gyoh', 'Amoy sheh', 'AMEE SHWW', 'ahy siau', 'AUMy SHay', 'amO shae', 'amm shio', 'amuy shea'}, {'AMMY kauy', 'AWmy siai', 'amu siaw', 'nmy shih', 'amey shui', 'AMuy Shoy', 'amie shio', 'amW shoe', 'AMIE SHIW'}, {'mmy shii', 'AOmy shei', 'AMoy Shie', 'AMIY xuwa', 'amE shih', 'Amay shio', 'amyy shoa', 'AMUY SHIy', 'amO shaa'}, {'AMee SHAY', 'amie siau', 'AMAy SHyw', 'Amyy shue', 'amu shiu', 'amO shah', 'amay shoi', 'aey shuo', 'AUMY jehh'}, {'amie siau', 'auy shoi', 'AMie wwyh', 'AMiy SHuw', 'amI sheh', 'AMEE SHIY', 'amu shaa', 'Aumy sheu', 'awmy sheo'}, {'amo shoa', 'nmy ssha', 'awmy shia', 'AMOY jwwy', 'AMIy SHew', 'AMiE SHAY', 'amI shae', 'Amoy siao', 'AUmy siai'}, {'amA shai', 'AHMY qwhe', 'AMmy shui', 'AMOY SHAY', 'awmy shoh', 'Aomy siao', 'AUMy sioy', 'aey siai', 'amE shii'}, {'Amay shei', 'omy sheo', 'AMAy SHay', 'aimy shoa', 'AOMY SHAy', 'AMmy shoe', 'AMEY xayh', 'amE siaw', 'ami shue'}, {'amW shae', 'AMIE gywy', 'AMYy SHay', 'ame shue', 'Aumy shoo', 'AMOY SHIY', 'AHmy shuh', 'Nmy shoi', 'amyy siao'}, {'Ammy sheu', 'amA shaa', 'AMEE yyya', 'AImy shoa', 'aiy shuh', 'AMyy SHYw', 'amm siau', 'amoy shia', 'AMEY SHie'}, {'AWMY qowa', 'amE shaa', 'aiy siaa', 'AMoy Shie', 'ami shou', 'awmy siae', 'AImy sheo', 'AHmy shoo', 'AOMY SHEW'}, {'AMyy SHww', 'ahy shoa', 'Awmy siao', 'awmy shih', 'amI shae', 'Amyy shoo', 'AMeE qwiy', 'amM shoh', 'AMUY SHOy'}, {'Aomy shou', 'AMyy SHww', 'AOMY SHWW', 'umy shih', 'AIMY yyiy', 'amm siao', 'amyy shue', 'Amay siaa', 'amo shae'}, {'Aumy shoe', 'ayy shoi', 'Ammy shua', 'ami shaa', 'AMIe kwuh', 'AHMy Shie', 'AIMY SHEy', 'amm shui', 'amoy shei'}, {'amw shii', 'amey shei', 'amA shae', 'Aimy sheo', 'Amyy shiu', 'AMEy SHow', 'AMEe wywa', 'aay siaa', 'AOMY SHIy'}, {'Nmy siao', 'ami shou', 'Aomy shue', 'AMYy SHEw', 'amyy shoo', 'Amoy siaa', 'AMEE SHoy', 'AOMY zehh', 'amI shah'}, {'amA shai', 'auy shoo', 'Amiy siai', 'amay shuo', 'Awmy siao', 'AMay sioy', 'amU shiu', 'AMEe SHey', 'AIMY xaey'}, {'AMEY yswh', 'AMIY SHWW', 'ammy shua', 'Aumy shoh', 'AWmy shoe', 'Nmy shuh', 'AMYy SHYw', 'amu shii', 'amo shae'}, {'amW siah', 'AMIy SHay', 'AMIY gahi', 'omy shue', 'amO shae', 'AMEY SHiy', 'Amey shua', 'Amoy shou', 'aomy siau'}, {'amm shuo', 'AOmy shei', 'AMIy SHow', 'aimy shoi', 'umy siae', 'amI shai', 'AMEY SHIE', 'AWMY cyey', 'Aomy shia'}, {'AMMY gywi', 'amO siaa', 'ymy shue', 'ame siaw', 'amie shei', 'awmy siah', 'AWMY SHey', 'AWmy shih', 'Amie sshy'}, {'AMmy shuo', 'Aimy siaa', 'ammy shio', 'AMEY SHIe', 'AWMy SHew', 'AMEE jwwy', 'amA shah', 'ayy shii', 'amw shoe'}, {'amU shaa', 'amO shui', 'AMey SHay', 'Amiy sheh', 'AUMY yjwa', 'Amoy siau', 'aimy shoa', 'hmy ssha', 'AMIY SHie'}, {'amW shiu', 'amie siau', 'amA shao', 'auy shei', 'AMie SHIE', 'amuy shuo', 'AMmy shoh', 'AMyy Shoy', 'AMiE jyih'}, {'AMIe zwua', 'ami sheu', 'amO shao', 'Aumy shea', 'amee sheh', 'aomy sheo', 'AMyy SHow', 'emy siau', 'AMIE SHYW'}, {'AIMY wjwa', 'ayy shiu', 'AOmy ssha', 'AMiE SHEW', 'amyy shoa', 'amI shea', 'AMey SHww', 'amM shaa', 'AUmy sheo'}, {'ama shiu', 'AMIy SHiw', 'amo shaa', 'amey ssha', 'Awmy shoe', 'auy siae', 'AMYY ysih', 'AImy sheu', 'AMeE SHIE'}, {'amO siaw', 'amie shoo', 'AIMY cwhu', 'aomy shuh', 'Aimy siao', 'AMie SHIW', 'wmy shue', 'amE shei', 'AMMy Shwy'}, {'AOMy SHEw', 'AMie gyiy', 'amM ssha', 'Aumy shuo', 'AMEE SHIE', 'Amiy shea', 'omy siah', 'amuy shei', 'amW siaw'}, {'AMOY xwyh', 'amey shoe', 'AMay SHIw', 'amie sheh', 'amU shai', 'umy shia', 'ami shoa', 'AMMY SHOY', 'Awmy ssha'}, {'aumy sheh', 'AMAY SHIy', 'Aomy siaa', 'imy shih', 'AMIE ychh', 'AMUy SHow', 'amW shoi', 'AWmy sheo', 'amM shaa'}, {'AMiE zaey', 'Aumy shoh', 'AMIE SHWW', 'Ammy shuu', 'ama sheh', 'amyy shuo', 'Emy shea', 'AWMy SHYw', 'amO shau'}, {'aomy siao', 'AMMY SHUW', 'aiy siah', 'amE ssha', 'AMuy Shoy', 'Aumy siaa', 'AMEE yjwa', 'Ahmy shou', 'amA shah'}, {'AMiE zwuh', 'AMie SHOW', 'Nmy siao', 'AMiy SHWw', 'amM siaw', 'amey shuh', 'amO shoo', 'amie shoe', 'Amoy shoa'}, {'Amyy shou', 'omy shia', 'AWMY SHIY', 'AWmy shei', 'amo shah', 'amoy shih', 'AOMY xwhy', 'amu siau', 'AMAy SHew'}, {'AMeE yohh', 'AMMY SHAY', 'amI siau', 'ayy shiu', 'AIMy Shoy', 'amM siaw', 'amey shui', 'Awmy shua', 'Amyy shii'}, {'amI shoo', 'amiy sheh', 'Ahmy siau', 'AHMy Shey', 'aay shoe', 'AMEY kehy', 'Amyy shoi', 'AMMY SHie', 'amm shah'}, {'AOmy shua', 'aay sheo', 'Aimy shia', 'AMiy Shey', 'amU shoh', 'ahmy siao', 'AWMY guhy', 'AMee SHie', 'amO shau'}, {'AMee kwhu', 'Emy siaa', 'Aumy siao', 'AMMy SHOw', 'amay shio', 'AMie SHIy', 'Ahmy sheu', 'amo siae', 'amW siaw'}, {'Awmy shuu', 'aimy siaa', 'AMay Shwy', 'AMEE SHIE', 'Amiy shiu', 'amU siaw', 'AMAY xwua', 'amm shoh', 'awy shii'}, {'AMAY SHEy', 'AMyy Shie', 'amW shah', 'Emy siae', 'amo siai', 'AHMY xwyh', 'AImy sheo', 'Aomy shua', 'amuy shou'}, {'Ammy shei', 'mmy shuu', 'AWMy SHww', 'amo shoo', 'awmy siah', 'AMUY SHIY', 'amm shao', 'AMie ccho', 'Amiy shoa'}, {'amyy siae', 'ami shah', 'AMYy SHuw', 'amm shou', 'AMIe SHOY', 'Amoy siai', 'Nmy shoi', 'AMee kewy', 'Aimy siau'}, {'amA shai', 'awy siai', 'AMMY SHOW', 'amee shea', 'amay sheh', 'ami siao', 'Amuy siaa', 'AMuy Shoy', 'AMOY xaiy'}, {'Amyy sheh', 'ahmy shia', 'AMMY SHOY', 'AUmy shuo', 'AOMy SHay', 'amw siao', 'AMIe yswi', 'ame shau', 'Nmy shoi'}, {'imy siau', 'AMey sioy', 'AMeE SHiy', 'amiy shoo', 'amI siai', 'AMIE ykwa', 'Amiy shei', 'Amuy shoi', 'amU shah'}, {'amW shii', 'AUMy SHow', 'Aomy ssha', 'amE shai', 'AOMY hyhy', 'amoy shui', 'AWMY SHie', 'imy shue', 'Amuy shio'}, {'aomy ssha', 'amo shao', 'AHmy shoa', 'mmy siah', 'amm shue', 'AUMY kyhy', 'AMey SHUw', 'AMIY SHUW', 'Amoy shuo'}, {'ymy shio', 'Amyy shua', 'AIMY SHUW', 'amw shea', 'Amuy shii', 'amE shaa', 'AMUy SHOw', 'AMeE ajwy', 'amuy shou'}, {'Awmy shia', 'imy ssha', 'ahmy shiu', 'amU shua', 'amw siaw', 'amie siai', 'AHMy Shiy', 'AMOY kiwy', 'AMIe SHEy'}, {'AOMY SHAY', 'AWmy shoh', 'ayy sheh', 'AMYY qahy', 'amu shuo', 'Awmy shua', 'AIMy Shie', 'amI shah', 'ahmy shue'}, {'AMay SHEw', 'Aomy ssha', 'AMAY cwho', 'amA shea', 'ama shah', 'Amyy siau', 'aoy siae', 'amiy shoi', 'AMiE SHIY'}, {'amie siae', 'amu shao', 'AHmy siao', 'AMie SHAY', 'amm siaa', 'aumy ssha', 'AMoy SHiw', 'awy shoo', 'AHMY qahy'}, {'aomy shii', 'AMEe SHWW', 'AMMy SHYw', 'Amay shoo', 'ayy sheo', 'ame shah', 'Amiy shua', 'amO shuo', 'AMIY wwoh'}, {'hmy shua', 'AWMy SHWw', 'Ammy ssha', 'amA shea', 'amw shao', 'aimy sheo', 'AMIE SHEy', 'Aomy siai', 'AMMY zwwy'}, {'amA shua', 'amM shae', 'Amiy siao', 'AMeE cwwe', 'awy shoo', 'AHmy shii', 'amey shuu', 'Amie Shiy', 'AMYY SHAY'}, {'AIMY gyoh', 'ami shaa', 'AMay Shiy', 'AImy shio', 'AMOY SHEW', 'aomy shea', 'hmy shuh', 'amO shue', 'Amey shiu'}, {'Ammy shuo', 'ahy shua', 'AMuy SHYw', 'AWMY wsoh', 'ami shia', 'AMEE SHIy', 'ama shaa', 'amuy shou', 'Aumy siao'}, {'AMMy SHYw', 'amE shaa', 'AMeE SHiy', 'aimy shui', 'ami siai', 'AHMY waoy', 'Aomy sheh', 'Nmy shoi', 'Ahmy ssha'}, {'AHMY hyhi', 'AMYY SHEy', 'amA shao', 'Emy shiu', 'Amiy siai', 'Amuy shoe', 'awmy siae', 'AMiy Shwy', 'ami shuu'}, {'amU sheu', 'AUmy shua', 'Wmy shoo', 'awmy sheh', 'AIMy Shie', 'AMMY SHOy', 'Ammy shui', 'AMee gaey', 'amu shah'}, {'AMeE SHUW', 'ymy shue', 'AOmy shiu', 'ama shuu', 'amE shae', 'AOMy sshy', 'AMee kahy', 'amuy shua', 'AImy shei'}, {'amey siaa', 'AWmy shea', 'AMAy SHay', 'Amyy shue', 'amO shao', 'AMOY SHOy', 'AOMY kyua', 'auy shui', 'amM shia'}, {'amo siaw', 'Aomy sheu', 'AMUY SHYW', 'AIMY gwwe', 'AHmy shuu', 'AMAy SHow', 'amw shiu', 'umy shoa', 'aimy shea'}, {'AUmy shoo', 'Amee SHay', 'aay sheo', 'AHMY SHEy', 'amA shuo', 'Amoy shua', 'amu shah', 'AMIe xwwi', 'awmy shou'}, {'AMMY kywa', 'amA sheu', 'Aomy sheo', 'AUMY SHYW', 'amey ssha', 'AMmy shoa', 'emy shuh', 'AMYy Shey', 'amW shao'}, {'Amyy shei', 'amO shoe', 'Ammy siai', 'AMYY SHWW', 'aumy shio', 'amU siaw', 'AOMy SHuw', 'Emy shoi', 'AMIE yqhi'}, {'Emy shoe', 'AMie SHOW', 'amA shao', 'AUMy SHay', 'AUmy shue', 'amo sheo', 'Amay siah', 'amiy shuo', 'AMAY wwwi'}, {'AWmy shua', 'amee shoh', 'ami shae', 'AMUy SHuw', 'AMEY SHey', 'ammy shia', 'hmy shue', 'amI ssha', 'AMYY jwwh'}, {'ami shio', 'amuy sheo', 'Amiy siaa', 'AMEy SHew', 'ayy siah', 'AUMY SHIE', 'AWMY yehy', 'AOmy siai', 'amE siaw'}, {'amI ssha', 'AMMy Shie', 'AMIY SHAy', 'AMmy shua', 'hmy siaa', 'Awmy siah', 'AMAY wwhu', 'amey siae', 'amm shah'}, {'amA siaa', 'amay siai', 'AMAY SHWW', 'AOmy sheo', 'AMuy Shwy', 'Amuy shua', 'amm shao', 'umy siau', 'AUMY qahe'}, {'aumy shia', 'amU shao', 'AMYy Shey', 'AImy shoo', 'wmy shea', 'Aomy shih', 'AMee kywa', 'ame siaa', 'AMIe SHIW'}, {'AWMY kywy', 'amw shea', 'amu shae', 'aoy shio', 'AImy shih', 'AIMY SHIe', 'aumy siau', 'Amuy siae', 'AMMy SHEw'}, {'AMmy siau', 'ymy siah', 'amey shue', 'ama shai', 'AMEE SHOY', 'AMIE qyoh', 'AMuy SHow', 'AImy shou', 'amM shoo'}, {'amI shaa', 'AUmy siau', 'AMeE qyhy', 'AMEY SHUW', 'ammy sheo', 'aey ssha', 'ami shiu', 'Ammy shii', 'AOMy SHYw'}, {'AIMy SHew', 'aumy ssha', 'AMmy shiu', 'ahy shia', 'AMYY SHAy', 'Ahmy shue', 'amA shau', 'AHMY zuwa', 'amI siah'}, {'ammy shoo', 'emy siah', 'AMEY qywh', 'amI shoh', 'Amey shoi', 'AMEE SHIY', 'Amie sshy', 'amo shae', 'Amyy shoa'}, {'AMAy Shwy', 'AHMY cyey', 'amE sheh', 'amie shoh', 'AOMY SHEY', 'amU shai', 'ahmy shui', 'ayy shue', 'Ahmy siae'}, {'Amiy siao', 'Amoy shio', 'ahy shoi', 'AMMY wuwy', 'amI shai', 'AMEE SHIY', 'AMey SHWw', 'amw shuh', 'amey shiu'}, {'AMmy shii', 'amW shih', 'Ammy shei', 'AMIE SHEY', 'AUMY wsyh', 'AMiy SHay', 'ayy shio', 'amm shao', 'aimy shea'}, {'amm shoe', 'AHMY SHOY', 'AIMY wihh', 'amee shoi', 'auy shuu', 'Ahmy siau', 'amo shah', 'AMAy SHew', 'amuy shio'}, {'AUMy SHew', 'amI shoo', 'AMeE kewa', 'aimy shuh', 'AUMY SHYW', 'Amey shui', 'amm shai', 'Amyy siai', 'nmy shuu'}, {'amA shou', 'AMUY hcho', 'Ahmy shea', 'AMIy sioy', 'AMie SHIW', 'ammy shoh', 'aoy siae', 'amu shai', 'AImy shei'}, {'amA shai', 'amu sheh', 'AMUy SHUw', 'aimy shuu', 'Emy siau', 'amee ssha', 'Amuy siaa', 'AMOY SHOy', 'AMEY gywy'}, {'AMoy Shoy', 'amyy shoh', 'AOMY SHEY', 'AMOY kwhy', 'amm shiu', 'ama shaa', 'AImy siah', 'Ahmy shui', 'omy siai'}, {'Amay shea', 'amI shau', 'Amiy sheu', 'AMEe xwwe', 'nmy shih', 'AMuy SHay', 'AMIe SHIW', 'amW ssha', 'amoy shoe'}, {'amo shau', 'hmy shih', 'amie siae', 'AUMy Shey', 'ami shia', 'ammy shuh', 'AMYY yywa', 'Amoy shua', 'AMIE SHIE'}, {'amey shua', 'ame shii', 'AMAY SHie', 'hmy shia', 'AOmy shei', 'amu shae', 'AHMY yahi', 'amie shio', 'AHMy SHIw'}, {'ame sheu', 'AHMY kyey', 'hmy siae', 'Amyy shia', 'Amiy siah', 'amu shaa', 'AMuy SHiw', 'awmy shei', 'AMiE SHIY'}, {'amU siai', 'awmy shoo', 'Aumy shou', 'ahy siau', 'AMOY SHey', 'AOMY yswo', 'amm shae', 'AMOy Shey', 'Amey shei'}, {'Ahmy shoa', 'ymy siai', 'AMAy Shoy', 'AMee SHIW', 'amu shuo', 'ammy siah', 'AHMY yywy', 'amW shau', 'Amey shiu'}, {'AMEy Shoy', 'AMEe SHoy', 'Amoy shei', 'amoy shui', 'ami shah', 'Amuy shuh', 'auy siai', 'AMie xayy', 'amA shoa'}, {'amee shei', 'AOMY SHOY', 'amU shae', 'wmy sheh', 'AImy siaa', 'AMEE wuwy', 'aomy siah', 'AIMy sioy', 'amO shue'}, {'AMMY SHOW', 'omy sheo', 'amu siaa', 'Ahmy shiu', 'amU shai', 'AMiE jwwy', 'AHmy shei', 'ahmy ssha', 'AMUy Shoy'}, {'awy siau', 'Aumy shoh', 'aimy shua', 'Aomy shue', 'AWMY yswy', 'AMiy SHww', 'amM shoa', 'ama shao', 'AMeE SHEy'}, {'amU shaa', 'AMIY hihy', 'amo shiu', 'emy shoe', 'AWMY SHiy', 'AMey Shie', 'Awmy ssha', 'AImy sheu', 'amoy sheh'}, {'amU shau', 'hmy shih', 'ammy shuu', 'AMOy SHYw', 'AMYY ywhu', 'Aumy shii', 'AWmy siai', 'AMIE SHEW', 'amA shoo'}, {'AMEy Shey', 'awy siae', 'AImy shih', 'amuy sheo', 'AMie SHUW', 'amI sheh', 'amu shaa', 'AMEY yqhi', 'Amyy shii'}, {'amee siai', 'amuy siae', 'AMEY SHIy', 'AMEE hsiy', 'amA siaw', 'aay shuo', 'amM shea', 'AUMy SHIw', 'Amey siah'}, {'Amay shoa', 'amI shao', 'AMIy SHay', 'AOmy shio', 'amW shuu', 'Nmy sheu', 'AMee SHAy', 'amey sheo', 'AMIE yohh'}, {'amiy siai', 'amI shoe', 'amie shoo', 'AIMY yyhi', 'AUMY SHIe', 'AMiy Shie', 'aiy shio', 'Amay shuo', 'amu shah'}, {'AMIe wwwe', 'AUMY SHoy', 'AOmy ssha', 'amM shua', 'AMiy Shwy', 'Aumy shue', 'amA shah', 'ahy shou', 'awmy shuo'}, {'AHMy SHow', 'amE shai', 'Amuy shia', 'AHmy siau', 'amU shoa', 'emy siae', 'amay siah', 'AMiE xwyy', 'AIMY SHEW'}, {'AMYY SHey', 'Aomy shuo', 'Ammy siah', 'aoy sheh', 'AMUY jyhh', 'AMoy SHww', 'amm shao', 'ahmy shiu', 'amw shih'}, {'AMUY ysyh', 'amO shui', 'wmy siah', 'AMAy SHay', 'Awmy siau', 'amo shah', 'amuy shii', 'AMeE SHIY', 'Aomy shia'}, {'AMee xwua', 'Aimy siaa', 'amuy siae', 'amU shae', 'amee siao', 'umy shei', 'AMIy SHww', 'AMEE SHoy', 'ama shou'}, {'AMey Shwy', 'amM shei', 'Amay shue', 'wmy shuu', 'ama shah', 'Aomy shiu', 'aimy shua', 'AMYY wohh', 'AMMY SHAy'}, {'AMOY cahe', 'amee siai', 'amw shaa', 'AWMy sshy', 'ama shuu', 'aay shoi', 'aimy shih', 'Amiy ssha', 'AMEE SHIy'}, {'AMoy Shwy', 'Aimy ssha', 'amO shai', 'amey shue', 'Emy sheo', 'AMee SHOy', 'amW shoe', 'Amiy shii', 'AMOY kywy'}, {'aomy shii', 'AMEY zehy', 'AMMy SHOw', 'Aimy sheu', 'AMOY SHOy', 'amI shai', 'Amey shoi', 'aey shei', 'amA shio'}, {'AMIE xwwa', 'AUMY SHEy', 'AMUy sioy', 'aay shuu', 'amU siaw', 'amo sheh', 'Amiy shii', 'aimy shua', 'Awmy shuo'}, {'Awmy shuu', 'omy shih', 'amW siaa', 'amU shai', 'AMMY SHEy', 'AMiE jahh', 'AMyy Shoy', 'Amey shou', 'amiy siau'}, {'amm shei', 'Amuy shea', 'AOMY SHOY', 'Amay siau', 'amuy siao', 'AMeE aghy', 'AUMy SHEw', 'umy shue', 'amW shau'}, {'AOmy shua', 'AMeE SHEy', 'amuy shuh', 'ame shae', 'amie sheu', 'AMMY ysey', 'Amie Shey', 'amo siae', 'mmy siau'}, {'Amiy shuu', 'awmy shoo', 'AMeE jehh', 'AUMy SHiw', 'AMOY SHIe', 'amA shei', 'Amyy siau', 'aey shoh', 'amE shao'}, {'AHmy sheu', 'ame siaw', 'amay siao', 'AMuy Shey', 'amI sheh', 'AMie SHIW', 'Amey shea', 'emy shua', 'AUMY jehh'}, {'AOmy shuh', 'Ahmy sheh', 'AMYY wsyh', 'amay shia', 'AMOY SHIe', 'AMey SHWw', 'auy siai', 'ami shao', 'ame shua'}, {'amO siau', 'AMEY SHIe', 'amuy sheh', 'emy shuu', 'amie siaa', 'AHMy SHWw', 'AMiE cowy', 'amu shai', 'Aumy siai'}, {'AMYy SHWw', 'ame shoe', 'AUmy shui', 'AHmy shoo', 'AMIE cwhy', 'AMIY SHie', 'amm shao', 'amoy siau', 'omy siai'}, {'AUMY hsiy', 'AMEy SHEw', 'ayy ssha', 'ahmy siau', 'amw shau', 'Aomy shea', 'Amey shua', 'AMie SHIY', 'ama shuh'}, {'Amee Shiy', 'aiy shei', 'amoy shuu', 'Ammy ssha', 'ame shai', 'ama shoe', 'AUMY gwhu', 'Aumy sheh', 'AMIY SHEy'}, {'amie shou', 'amW shah', 'auy siaa', 'aimy shuo', 'AMOY SHAY', 'AMUy SHOw', 'amI shio', 'AWmy shui', 'AMIe aghy'}, {'amI shao', 'AIMy SHOw', 'AOMY yyiy', 'aomy shio', 'AWmy shue', 'AHmy shia', 'AMOY SHOy', 'amA shii', 'nmy shuh'}, {'Aumy shoe', 'ahmy shia', 'aiy shea', 'amU shae', 'AMEe SHUW', 'AMeE akhy', 'AOmy shoi', 'amu sheo', 'AMEy Shiy'}, {'amiy siaa', 'AMAy sioy', 'amU shao', 'AMmy siah', 'AMOY hcho', 'amo sheu', 'Amoy shua', 'hmy shoh', 'AUMY SHie'}, {'amM shao', 'AMAY SHie', 'aay shea', 'AMey Shoy', 'ami shia', 'aumy siau', 'AMYY yahi', 'Amiy sheo', 'AMmy siaa'}, {'amee shei', 'amI shaa', 'AWMY gyiy', 'wmy sheo', 'amO shou', 'AMOy SHWw', 'AMie SHEY', 'amiy shuo', 'amie shiu'}, {'ama shai', 'AMEe hihy', 'aoy sheh', 'ammy shuo', 'AMYY SHYW', 'Aimy shoe', 'Amyy shia', 'AMMy SHay', 'amM siae'}, {'amuy shoo', 'AMEe SHoy', 'Amay shoe', 'amie shuu', 'ame shah', 'AMiE zyey', 'ayy siae', 'amm shia', 'AMAy SHIw'}, {'amo shaa', 'AMEE qowh', 'AMie SHOY', 'AIMy sshy', 'Aomy sheh', 'Amyy siah', 'amU shoi', 'imy shue', 'amiy shiu'}, {'Awmy shoo', 'AMMy SHow', 'Aimy shua', 'awmy shoa', 'AOMY SHIy', 'AMiE yzwa', 'ame shao', 'amu shei', 'Wmy ssha'}, {'amE shoi', 'AMIy Shwy', 'AMMY cehy', 'Awmy siao', 'AOMY SHOy', 'ymy shua', 'ahmy sheu', 'ame shaa', 'Aomy siai'}, {'wmy siau', 'AMYy sioy', 'ami sheo', 'AMee wswe', 'ame siaw', 'ammy siao', 'AMMY SHoy', 'AHmy shiu', 'AOmy shea'}, {'ame siau', 'AHmy sheh', 'AHMY SHEW', 'Amyy shiu', 'amw siaw', 'aey shoi', 'amiy siah', 'AMAY hsyu', 'Amee SHyw'}, {'AHMY SHAy', 'AWMY akhy', 'ammy shoi', 'ami shah', 'AOmy sheu', 'Aomy shio', 'AHMy SHyw', 'amm shea', 'awy shih'}, {'AMIY yyhi', 'AMYY SHoy', 'wmy shuh', 'AUmy ssha', 'Aumy sheh', 'ame siaa', 'aimy shea', 'amu shai', 'AMAy SHIw'}, {'ama shui', 'auy shoi', 'amO shai', 'AOMY qyhh', 'Amiy siao', 'AOMy SHWw', 'AMeE SHOW', 'AImy shue', 'amay siaa'}, {'ama shoi', 'Amay shue', 'AMEE SHIE', 'ahy siau', 'Aomy shuh', 'AMey SHWw', 'AMiE yahy', 'amW shau', 'amay shiu'}, {'ymy sheu', 'AMiE SHUW', 'AMeE qiwy', 'amie sheh', 'amey siau', 'Amee Shey', 'AMmy shea', 'amI shae', 'amO shei'}, {'ame shuh', 'Awmy shiu', 'AOMy SHay', 'AIMY qyhu', 'auy shuu', 'AMie SHey', 'amuy shoh', 'Amuy ssha', 'amE shao'}, {'amM shah', 'AMiE xayy', 'amiy shia', 'awy shii', 'Aomy shih', 'amE siao', 'AUMy SHOw', 'AImy shuo', 'AMIe SHie'}, {'imy shea', 'ami shai', 'amm shuh', 'Awmy siai', 'AHmy shei', 'awmy shio', 'AMUy Shwy', 'AOMY SHIy', 'AMIe qiwy'}, {'amay shou', 'ahy shei', 'ame siaw', 'AWMY hyhy', 'Ammy shoi', 'AUMY SHIE', 'amo shui', 'AMYy SHww', 'Amyy siah'}, {'ayy siaa', 'aimy shui', 'Aomy shio', 'AHmy shii', 'ame shoa', 'AMEE SHIW', 'AMYY yyoy', 'AMUy SHYw', 'amM shah'}, {'AOmy shua', 'amey shuo', 'AMOY cwwe', 'AIMy SHww', 'ami siao', 'AUMY SHWW', 'Amay shuh', 'amW shai', 'ahy sheo'}, {'AMEe jyuy', 'Amay shoh', 'amo shue', 'AHmy shiu', 'Nmy shia', 'AMey SHIw', 'AWMY SHOy', 'ama shao', 'amay sheu'}, {'AMay Shie', 'imy shoa', 'amw siaw', 'AMiE SHIe', 'amey sheu', 'AMUY yyih', 'Amay shui', 'amee siah', 'amU shio'}, {'amI shuh', 'AHmy shih', 'Wmy shoe', 'AIMY jiwy', 'amE shaa', 'AWMy SHIw', 'amyy shue', 'Amiy siae', 'AMYY SHEY'}, {'amA shuh', 'Amee SHow', 'amyy ssha', 'Awmy shoa', 'umy shei', 'AHmy siaa', 'AHMY yowy', 'amu shah', 'AOMY SHIe'}, {'Aimy shuu', 'amu shao', 'aomy shuh', 'AIMy Shwy', 'amo shio', 'aiy shoi', 'Awmy shoa', 'AMYY SHYW', 'AHMY hcya'}, {'Amyy siae', 'amM shae', 'AMYY qwhh', 'AHmy shuu', 'amay siah', 'AMee SHUW', 'AHMy sioy', 'ama shoe', 'aiy shuo'}, {'amO siaw', 'AHMY SHiy', 'Amay siae', 'imy siaa', 'AMEe yayh', 'ahmy shui', 'amW shuu', 'AOmy shuo', 'AMYy Shey'}, {'AIMy SHEw', 'amay shuh', 'Amay shiu', 'ayy shue', 'AUMY cihy', 'amu siah', 'amE siaw', 'AMIE SHie', 'Amiy shoi'}, {'AOMy sioy', 'ahy shoo', 'Amoy shio', 'amw shau', 'aumy shuu', 'amA shiu', 'AWMY SHOY', 'amee shii', 'AMEe qayh'}, {'AMey SHiw', 'amu shue', 'aomy shua', 'auy shuu', 'AMmy shiu', 'AOmy shoh', 'amw shai', 'AMAY jiwy', 'AMie SHIe'}, {'nmy siau', 'AMUY waoh', 'AOMY SHEY', 'AImy shui', 'AMMy Shie', 'amW shue', 'Aimy shea', 'amO shaa', 'ahmy shii'}, {'ami siah', 'AImy shii', 'AHmy shuo', 'amay shoh', 'AMEy sshy', 'emy siae', 'amA siaw', 'AMeE SHIY', 'AMIY cwyh'}, {'amie sheh', 'Ahmy shiu', 'ahmy shui', 'AMIe gyoh', 'umy shou', 'amu ssha', 'AMeE SHEY', 'AMoy Shiy', 'amU shah'}, {'Aomy sheu', 'AMYY SHOY', 'amu shao', 'AMEe qywa', 'emy shea', 'ama shoa', 'amiy shuh', 'AImy siaa', 'AMey Shey'}, {'AMeE gahy', 'awy shui', 'Amee Shwy', 'ami shah', 'AMYY SHYW', 'Awmy shih', 'amA shii', 'Amyy siai', 'ahmy shoa'}, {'omy siae', 'AMMY SHAY', 'AMyy Shie', 'amA shao', 'amyy shoe', 'ame shue', 'AMUY hyhu', 'Aomy shuh', 'AMmy sheo'}, {'AMUY SHEW', 'aumy siao', 'amE shih', 'AMUy sshy', 'mmy shiu', 'Amyy shoo', 'AMIe yiwy', 'AOmy shuo', 'amO shau'}, {'AMeE SHOy', 'Aumy shoh', 'aumy shuo', 'AMie xywi', 'AMAy SHOw', 'Amyy shea', 'amI shai', 'amU shoi', 'Wmy shue'}, {'AMIe SHWW', 'amay shuo', 'AOmy shiu', 'AMeE qwoh', 'amM shau', 'AMoy SHuw', 'amee shua', 'amA siao', 'ymy shih'}, {'AIMy SHWw', 'amee shio', 'ammy ssha', 'ymy shiu', 'AMiE quwa', 'AMMY SHOy', 'ame siaa', 'amo shae', 'Aimy shoa'}, {'amo shai', 'amee shih', 'Ahmy siau', 'AMie qyhu', 'amuy sheu', 'AMey Shie', 'Nmy siae', 'AMeE SHOY', 'amI siah'}, {'aimy siaa', 'AMAY jwiy', 'AMey Shwy', 'Amay shoi', 'ame sheu', 'amm shaa', 'AMEE SHAY', 'nmy shuu', 'amie shea'}, {'amO shia', 'Amoy sheu', 'Amie Shwy', 'AUMY jwhy', 'amw shao', 'AMMY SHOy', 'aay ssha', 'Ahmy shuu', 'amay shiu'}, {'AUmy siae', 'AMEy SHYw', 'Amoy siai', 'AOMY SHiy', 'awmy shii', 'AHMY wsuy', 'aey shou', 'amM shah', 'amI shoi'}, {'nmy shui', 'amU shao', 'AOmy shuu', 'AMYY SHEW', 'AMMy Shey', 'amA shei', 'AOMY juwy', 'amie siai', 'ahmy shuo'}, {'AIMy SHew', 'ami shah', 'AMie SHEy', 'aimy shoo', 'Aomy shue', 'AImy shea', 'amu shia', 'AIMY ysey', 'wmy shou'}, {'AUMy Shey', 'awmy siai', 'AMeE ycwa', 'amO shao', 'AMIY SHOy', 'AMmy shoi', 'amW shoe', 'Ahmy sheu', 'Wmy shei'}, {'amo shau', 'AMIe ywhy', 'aomy shoh', 'Amie SHYw', 'ama shea', 'AMMY SHiy', 'Ahmy shia', 'Amey shio', 'ahy siaa'}, {'amo shih', 'aumy shuo', 'amE shau', 'AMAy SHow', 'hmy siae', 'AMUY SHIy', 'Amuy siaa', 'AOmy shea', 'AMee qaho'}, {'amay siao', 'ama siae', 'AMay Shey', 'AMOY wswu', 'AMmy shea', 'hmy shoa', 'amee sheh', 'amm shao', 'AMiE SHYW'}, {'omy shoo', 'Aomy sheu', 'Ahmy shuo', 'AMAy SHOw', 'AMUY SHEy', 'amey siah', 'AMee hzhy', 'amm shau', 'amA siai'}, {'AMEe SHiy', 'amM shae', 'amee sheu', 'Amuy siau', 'AMUY wwho', 'ame siao', 'Amee SHuw', 'wmy shuh', 'aomy shou'}, {'amay shou', 'aiy shoe', 'Amee Shoy', 'amE siai', 'AWmy shue', 'AUmy shiu', 'AHMY yewy', 'AMOY SHiy', 'amu shai'}, {'Amay shei', 'ahmy sheo', 'amA shae', 'AWMY wywh', 'Amuy shua', 'amo shui', 'Amee SHew', 'emy shia', 'AMYY SHIy'}, {'AWmy shoi', 'amu shao', 'AMey SHiw', 'AIMY SHOY', 'imy sheu', 'amuy siaa', 'AMYY yehh', 'amo siao', 'AUmy sheo'}, {'Aomy sheu', 'ami shau', 'AMiE SHWW', 'amyy shei', 'AMyy Shey', 'amm siao', 'AMee kayy', 'aoy shua', 'Amey ssha'}, {'omy shoo', 'AMYY SHEY', 'Amie SHuw', 'AImy siae', 'ama shau', 'amay sheh', 'AMUY gyoy', 'ami shii', 'AOmy shuu'}, {'ama shoh', 'omy shoo', 'AMYY SHIE', 'awmy shue', 'AMEY awhh', 'Awmy siau', 'AMuy SHow', 'amw shao', 'Amyy siai'}, {'AOMy Shie', 'AImy shua', 'ama siae', 'aiy shui', 'Aomy shoe', 'amey sheu', 'AMOY SHIE', 'AMAY wywa', 'amm shao'}, {'amiy siai', 'amE shua', 'ama shai', 'Aumy shia', 'aoy shou', 'AMEY yaih', 'Amie Shie', 'AMmy shiu', 'AMeE SHYW'}, {'AUMy Shie', 'AUmy siao', 'ammy shua', 'AMie SHEy', 'amU shao', 'ame shoh', 'AWMY jyih', 'Ahmy siae', 'ahy shou'}, {'amiy shui', 'amM shih', 'AWMy SHiw', 'Amay shio', 'AMIE jyih', 'AOmy siau', 'emy siaa', 'AUMY SHWW', 'amm shau'}, {'Amyy siae', 'Amuy shei', 'amI shau', 'amey shii', 'Amee Shoy', 'AMYY SHWW', 'AMiE hyhu', 'Nmy shoe', 'amm ssha'}, {'Amey shoo', 'amm shii', 'amey sheh', 'Amay shei', 'AHMY jiwy', 'AMYy SHEw', 'umy shoh', 'amI shae', 'AMEE SHEW'}, {'AUmy siau', 'amM shae', 'ayy shiu', 'ahmy shui', 'Amey shua', 'AMUy SHIw', 'amE shia', 'AMee SHIe', 'AHMY yqwa'}, {'AUMY xahe', 'amay shoh', 'AOMy Shoy', 'amie shiu', 'amW shaa', 'wmy shih', 'AMIY SHEY', 'amU shuh', 'AWmy shuu'}, {'amU shaa', 'aomy shii', 'AHmy shuo', 'amM shoi', 'AUMY xyhy', 'ymy shia', 'Ammy shoo', 'AHMy sioy', 'AMOY SHOY'}, {'AOMY xehh', 'amee shoa', 'AMIy SHEw', 'amu shae', 'AOmy siao', 'AMEE SHIe', 'wmy shuu', 'amM siau', 'ahmy shio'}, {'Amay shea', 'AMMY cuwy', 'awy shei', 'AOMY SHAy', 'amO shah', 'AHmy shui', 'awmy sheo', 'AUMy SHew', 'ami shih'}, {'amA shua', 'Emy siai', 'Ahmy siah', 'aomy siao', 'AMYy Shoy', 'AMAY zahy', 'Aimy siae', 'ama shaa', 'AMIE SHIe'}, {'amo shai', 'Aomy shui', 'aimy shia', 'AMIE zuwa', 'AMEE SHIW', 'Nmy shoo', 'amO shuu', 'AMAy SHyw', 'AWmy shih'}, {'AHMY SHEY', 'amie siau', 'ame shae', 'amyy siae', 'AMEy SHYw', 'umy shoh', 'amO shio', 'AMeE kyhi', 'AImy shue'}, {'Aumy shiu', 'amM shae', 'AMEe SHIE', 'amw shia', 'Amyy shue', 'aimy shui', 'aiy shuh', 'AMOy SHww', 'AMAY waey'}, {'aomy shii', 'Amuy shoo', 'AIMy SHow', 'ami shau', 'AMeE hzho', 'Ammy shuu', 'aey shih', 'AMUY SHEY', 'amw siae'}, {'AMay SHEw', 'AMEe yghi', 'Amey shoh', 'AMOY SHAY', 'amU shai', 'AMmy shea', 'mmy shua', 'ammy sheu', 'ame shih'}, {'Ammy siai', 'AHmy shio', 'AMUY zwih', 'hmy shuo', 'ammy shiu', 'ami shoo', 'AWMy SHYw', 'amO shau', 'AMIE SHIW'}, {'AOMY SHAY', 'AMEY yihh', 'amu sheh', 'amiy shiu', 'AMay Shey', 'ama shaa', 'Amey ssha', 'aay siai', 'AImy shoe'}, {'AMuy SHew', 'AMMY SHIe', 'amA sheu', 'aey sheo', 'amyy shuo', 'amw shao', 'Aomy shia', 'AIMY hyhe', 'amie shea'}, {'amee siaa', 'amo shao', 'AMey SHew', 'AMIe xywh', 'amay shii', 'ami shui', 'auy shia', 'Ahmy ssha', 'AMAY SHAy'}, {'omy shou', 'AMoy sshy', 'AMOY SHey', 'Amey siae', 'aomy shoe', 'amW shao', 'AImy shuo', 'AIMY hwua', 'amI siah'}, {'amE shoa', 'Aimy siaa', 'amA shaa', 'amee shih', 'AOMY SHYW', 'AMAY kahh', 'Nmy sheu', 'AMiy SHay', 'amoy siai'}, {'Amey shia', 'AMYy SHWw', 'umy sheu', 'AHMY yuwa', 'AMee SHEY', 'Amuy shoe', 'amiy siao', 'ame shau', 'ami siau'}, {'Amuy sheh', 'amu shoi', 'AMiE zywa', 'ame shah', 'aoy siai', 'AUMy SHIw', 'Amoy shua', 'AMEY SHie', 'amay shih'}, {'Amoy shih', 'AMOY jywh', 'emy shoh', 'amw shau', 'AWmy shuh', 'AMUy SHay', 'awmy siaa', 'AMUY SHIE', 'amm ssha'}, {'amI shuh', 'umy shuo', 'AMUY asey', 'Aumy shoh', 'AWMy SHew', 'Ammy shou', 'amyy shoa', 'AMYY SHEW', 'amw shae'}, {'AMEe SHoy', 'amee sheu', 'Amyy ssha', 'ymy shuu', 'ami shoa', 'amay siae', 'amE shae', 'AMEY wahh', 'Amee SHew'}, {'ame sheh', 'amiy siaa', 'AUMY SHoy', 'Ammy shei', 'Amee Shoy', 'amu shaa', 'mmy shue', 'amie ssha', 'AMIe hsyi'}, {'AMmy shou', 'ymy siai', 'AMeE SHWW', 'amo shai', 'Amey sheo', 'ami shio', 'awmy shuu', 'AMie qyyh', 'AMuy SHay'}, {'amM shah', 'Aimy shiu', 'AUMy sshy', 'amuy shua', 'AHMY cihy', 'AWmy shuo', 'AMee SHWW', 'amE sheo', 'Emy siao'}, {'nmy shii', 'amO shoh', 'AWmy shea', 'Ahmy shoe', 'ame shai', 'amyy shue', 'AOMY qywa', 'AMYY SHIe', 'AHMy Shoy'}, {'amA shuh', 'ahmy siai', 'umy sheu', 'Amiy shia', 'AMOY zywa', 'AMOy SHay', 'AImy siah', 'ama shae', 'AMiE SHYW'}, {'Amey shue', 'Awmy shii', 'emy siao', 'amE shaa', 'AUMy SHay', 'amm shuh', 'AMIe guhy', 'amey shoa', 'AMiE SHOY'}, {'Amyy shua', 'amO shah', 'amA ssha', 'aey shii', 'AMiE SHAY', 'ahmy shih', 'AMYy Shey', 'AMIY cwwe', 'Awmy shoi'}, {'amo shau', 'amey shua', 'Amey shue', 'AImy shou', 'AMeE gyiy', 'omy shuu', 'amU ssha', 'Amee SHyw', 'AIMY SHIE'}, {'Amiy siau', 'amey siaa', 'AMuy Shey', 'amu sheu', 'wmy shoa', 'AMIE zwua', 'AMOY SHYW', 'Aomy shei', 'amW shau'}, {'aomy shuo', 'Amay shoi', 'AMyy Shiy', 'AMYY qyhu', 'AWMY SHIe', 'amU shoh', 'Awmy siah', 'amw siaw', 'wmy shue'}, {'AMeE SHAy', 'AMIe kuwa', 'aoy shoh', 'Amoy sheu', 'amu shau', 'amU siaa', 'Amyy shea', 'ahmy shii', 'Amie SHEw'}, {'amU shau', 'aay sheh', 'aumy shoo', 'AWmy shii', 'AWMY SHYW', 'amw siaa', 'AOmy shuo', 'AMYy SHYw', 'AIMY yyuh'}, {'Amay sheu', 'AMMY SHWW', 'amI shei', 'amuy shue', 'amU shao', 'Amiy shiu', 'Amie Shie', 'AHMY xaoy', 'Wmy shou'}, {'aiy shea', 'Ammy siah', 'ami shah', 'amm shuh', 'AMUy SHuw', 'AWMY akwy', 'AMAY SHAY', 'amey shiu', 'AHmy shoo'}, {'AMuy SHew', 'Amoy shui', 'amE shai', 'amo shih', 'mmy shuu', 'AIMY cywe', 'Ahmy shea', 'AMie SHey', 'awmy shii'}, {'amO shia', 'amee shoa', 'AIMY SHIW', 'AMIy Shey', 'amie shuu', 'amM shau', 'AOMY wjwa', 'amuy shiu', 'hmy shoh'}, {'aimy shoh', 'AUMY SHOY', 'aey sheh', 'Aimy siao', 'AImy siau', 'amo shah', 'AMMy Shey', 'AWMY kwhh', 'amO sheu'}, {'AMIE SHOW', 'Amay shoh', 'ahmy sheo', 'amU shai', 'Amoy siah', 'amI siai', 'AMee yehh', 'nmy shia', 'AMIy sioy'}, {'aumy siah', 'amO shui', 'AMey SHyw', 'AMUY SHEy', 'Amey shuu', 'Amyy shoo', 'amw shae', 'AHMY yywe', 'omy shuo'}, {'ame shoi', 'amay shou', 'Ammy shii', 'AMEY zehy', 'AMIE SHey', 'Ahmy shea', 'amm shae', 'AHMy Shoy', 'nmy shoo'}, {'amA shai', 'AMiy sioy', 'ame sheo', 'Nmy siaa', 'AMeE zwya', 'ahmy shii', 'AImy shuo', 'Amey shuh', 'AOMY SHEW'}, {'AMAY SHIY', 'AMEY xwhu', 'AHMy sshy', 'amI sheu', 'amU siaw', 'Aimy shoo', 'AUmy shiu', 'auy shia', 'aumy shea'}, {'Amiy shuo', 'AMAY SHIY', 'Aimy shui', 'aimy shiu', 'AMiE zyey', 'AUMy SHEw', 'amu shaa', 'amW shea', 'imy shoh'}, {'amW sheu', 'Amay shoo', 'AIMY SHIe', 'aey sheo', 'amw shau', 'AMIy SHIw', 'amiy shuu', 'AOMY kwuh', 'Amoy shii'}, {'aimy shoe', 'AMMy SHWw', 'AMYY SHOy', 'Amuy siao', 'AMmy shea', 'AMOY jyuh', 'nmy shoa', 'ami shuh', 'ame shaa'}, {'AOMy Shie', 'AMIY SHIe', 'ame shae', 'Amyy shuo', 'AMmy shue', 'AMUY xywy', 'aomy sheu', 'amW sheo', 'ayy shoe'}, {'AMYY wywa', 'AHMY SHAy', 'AMmy shui', 'AWMy SHIw', 'amU shue', 'aomy siae', 'aay shoe', 'amee shia', 'amu shai'}, {'AUMy SHow', 'amM siao', 'Amuy shii', 'AWMY SHYW', 'aomy shuh', 'AWmy siau', 'AMIY yywh', 'ahy shue', 'ama shau'}, {'ame shui', 'wmy shia', 'AHMY SHIy', 'AMYY yyhi', 'Aumy shue', 'ammy ssha', 'AUMy SHOw', 'amW shau', 'Amyy shii'}, {'AMeE SHUW', 'amee siai', 'emy siah', 'Awmy siau', 'AUMy SHYw', 'AMiE hwyh', 'amM shuu', 'ahmy shii', 'amW shau'}, {'AUmy siao', 'Amey shoo', 'AUMy SHOw', 'umy shoh', 'ahmy sheu', 'AIMY jowy', 'amu siau', 'amm shah', 'AMEE SHIe'}, {'ame shea', 'amiy shoe', 'amu shae', 'AUMY SHYW', 'AMIe zwhy', 'mmy shio', 'AUMy sioy', 'Amuy sheh', 'Amay siai'}, {'Ahmy shoa', 'Aumy shui', 'AMie SHUW', 'AMYY wsyh', 'aumy shiu', 'omy shuu', 'amM siau', 'AMUy Shoy', 'amo shae'}, {'AUMY SHOY', 'Ahmy shoe', 'ami shei', 'amU shao', 'AMOY gahy', 'AMyy sshy', 'amiy shoh', 'Ammy shii', 'ayy shuu'}, {'imy shio', 'AMIy SHEw', 'amo shoa', 'AMIY xywy', 'AMEY SHAy', 'AMmy shuu', 'Amiy shoo', 'aimy shua', 'amW shao'}, {'amm shui', 'AMeE SHIe', 'amay shuh', 'AMYY hsyh', 'AMMy SHay', 'Aumy shue', 'ama shae', 'Amiy shoa', 'ayy shou'}, {'amU shau', 'AUmy shoa', 'amu siai', 'AWMY qahe', 'aoy shou', 'AIMY SHIy', 'Ammy shii', 'ammy shia', 'AUMy SHOw'}, {'AMOY SHAY', 'Amay shua', 'AMiE wwoh', 'ame shah', 'AMUy sshy', 'AWmy shio', 'amO shoa', 'Nmy ssha', 'amuy shea'}, {'amI shoe', 'mmy siao', 'amie shue', 'AMIE yzwa', 'AMMy SHUw', 'awmy shua', 'ami shao', 'AMEe SHAy', 'Amay shih'}, {'amM shah', 'AMey Shwy', 'AMMY qywh', 'amW shua', 'AImy shio', 'AMIE SHIy', 'Amoy shoo', 'amyy shia', 'ayy siai'}, {'amU shau', 'AMMY jwya', 'AMay SHWw', 'aumy siao', 'AMmy shea', 'Amoy siai', 'AMIY SHIY', 'amo shoi', 'aoy shui'}, {'AMYy sioy', 'AMEY wywu', 'amoy shuh', 'Awmy shei', 'AMEE SHIW', 'Ammy shue', 'umy sheu', 'ama shao', 'ame shuo'}, {'ymy shio', 'amw sheu', 'Amoy shoh', 'AMee SHOy', 'AMiE kahe', 'Aomy shiu', 'AHMy Shoy', 'amU shah', 'ahmy shoa'}, {'Amyy siae', 'AMiE SHUW', 'AMmy shuo', 'amU shoo', 'ami shah', 'ammy ssha', 'AMey SHww', 'AMMY qwwe', 'auy sheu'}, {'AMIE hzhe', 'AIMY SHOW', 'AUmy shoo', 'AMyy SHww', 'aomy shoa', 'Aomy shei', 'amE siao', 'aay siaa', 'amM shaa'}, {'AMEY zwuy', 'ami shau', 'ymy siah', 'AMee SHOy', 'AOmy sheu', 'amee shuu', 'amyy siai', 'amw shoo', 'AUMy SHOw'}, {'AUmy siao', 'amey shia', 'AMey sioy', 'AHmy shea', 'AHMY SHIE', 'amW shae', 'AMeE quhy', 'Emy shiu', 'ame shoo'}, {'ahy sheh', 'AMEE SHiy', 'amo shaa', 'AImy shuh', 'amm siao', 'AMay sioy', 'Ahmy shoi', 'amoy siaa', 'AMAY gwwe'}, {'amiy siah', 'amo shao', 'AHMY qyih', 'AMoy Shie', 'amu shuu', 'Aumy shou', 'AMMY SHoy', 'Nmy shoe', 'AUmy sheu'}, {'AIMy SHWw', 'wmy siah', 'amay shoh', 'amo shao', 'amie sheh', 'AMie qywy', 'AWmy shue', 'AMIY SHOW', 'amw siau'}, {'ame shea', 'amE shah', 'AWMY SHAy', 'AHmy shoa', 'Amee Shey', 'amiy shei', 'mmy shue', 'Amuy ssha', 'AMIE kyua'}, {'Nmy shih', 'AMAY SHIy', 'AMEe kywy', 'amU shou', 'AMIy SHyw', 'AImy shiu', 'AOmy siau', 'amw shao', 'amoy siae'}, {'AMee SHAY', 'AOmy shue', 'aomy shoa', 'ame sheu', 'AImy shio', 'AMIE quhy', 'AHMy Shey', 'aiy siah', 'ami shao'}, {'amA shai', 'AMeE SHOy', 'Ahmy siah', 'amyy shei', 'Awmy sheh', 'amI shih', 'Wmy siao', 'Amee SHyw', 'AIMY qywh'}, {'AMiE SHIy', 'AWmy shea', 'amyy shei', 'AOMY wyoh', 'emy shio', 'AMmy siah', 'amM shau', 'AMyy SHEw', 'amE shiu'}, {'amI shao', 'Amey siau', 'AMEE gahe', 'Amie SHyw', 'Ammy shou', 'aoy shiu', 'AMiE SHoy', 'amW sheo', 'ammy sheu'}, {'AMeE SHIW', 'aey sheh', 'AMUy SHuw', 'AMEe yyoy', 'ami shoe', 'ama shao', 'Amyy shuh', 'amuy shea', 'Amay shii'}, {'Awmy shui', 'AWmy shoa', 'AMYY yehy', 'amE shih', 'AHMy SHOw', 'aumy sheu', 'amM shau', 'AHMY SHYW', 'ahy sheo'}, {'Amey shia', 'AWMy SHWw', 'AMIY SHey', 'amA sheo', 'AImy ssha', 'ame shai', 'aey siaa', 'AMYY xahy', 'amay shiu'}, {'Amuy shii', 'aoy sheu', 'Ammy shua', 'amu shiu', 'amI shae', 'aumy siai', 'AMMy SHay', 'AMUY waey', 'AMIe SHEy'}, {'AHMY asey', 'AMYY SHAY', 'Emy siao', 'AUmy shio', 'AImy shih', 'AOMy SHiw', 'amU shah', 'awmy shou', 'ami shue'}, {'AMIY ajwy', 'amA siaw', 'Amey shoi', 'Amuy shio', 'nmy siaa', 'Amee SHUw', 'amO shue', 'AHMY SHOW', 'amiy siau'}, {'omy shoa', 'AWMy SHyw', 'AMOY kywo', 'amI shau', 'amu shuo', 'AImy shea', 'amoy shio', 'AMiE SHOY', 'AHmy shoe'}, {'ami siaw', 'Amay siae', 'AMOY SHUW', 'amw shei', 'AMEY jyyh', 'nmy sheo', 'AUMy Shwy', 'Aimy shih', 'amyy shiu'}, {'amW siah', 'AMMY SHAY', 'amie shoh', 'ammy shio', 'ami shaa', 'AImy siae', 'AMOy Shwy', 'aay shoe', 'AMIe ywyh'}, {'amA shaa', 'amu siaa', 'AWMY jweh', 'amuy sheh', 'AMiy Shiy', 'Awmy shou', 'AOMY SHIW', 'hmy siah', 'Amey shei'}, {'Aomy shuu', 'Wmy shui', 'Amuy siai', 'AMAy SHow', 'aomy siae', 'AMEe SHOW', 'amm shai', 'amE shei', 'AMMY jahh'}, {'amU shuu', 'AMiy SHIw', 'AWMY SHUW', 'aomy shoi', 'amA shao', 'AUmy ssha', 'AMMY guwa', 'auy shoe', 'Amay siai'}, {'ymy shoh', 'amM siaw', 'AImy shoa', 'AOmy sheo', 'AMMY SHIW', 'AOMy sshy', 'AMIe kuwy', 'amO shue', 'awmy shea'}, {'awmy shui', 'amW siai', 'AMmy shuo', 'AMay Shie', 'Aumy shei', 'AMEe SHOy', 'umy shuh', 'amu shah', 'AHMY ywwi'}, {'Emy shio', 'aomy shuo', 'AImy ssha', 'AMEY SHEY', 'AHMy SHOw', 'Aumy shoi', 'amI shai', 'amo shia', 'AIMY kyih'}, {'AMEe hehy', 'amie siau', 'Wmy shih', 'amyy shui', 'amo shao', 'amW shoh', 'Ahmy shoe', 'AMiE SHiy', 'AWMy SHOw'}, {'AMmy shou', 'ame shii', 'AMEe SHoy', 'amoy shiu', 'Amey shuo', 'aoy siao', 'AMYY qwwa', 'amo shae', 'AMIy Shie'}, {'Amuy shei', 'emy shoo', 'Amoy ssha', 'awmy shuu', 'amm shih', 'AMIy SHIw', 'AMIY SHAY', 'AMYY ywoh', 'amE shao'}, {'AMiE jehh', 'aiy shoo', 'AMIy SHOw', 'amE shau', 'AMMY SHEY', 'Amoy siao', 'amu shia', 'amey siah', 'Amiy shou'}, {'amU shau', 'AHMY SHie', 'AMIY yzwa', 'aiy shii', 'aomy shua', 'amo shou', 'Ahmy shue', 'AMUy Shoy', 'AWmy shoe'}, {'amW siau', 'Emy shio', 'AMEy SHEw', 'AMYY SHOY', 'amay shoh', 'Ahmy shea', 'amU siaw', 'Aomy shoa', 'AMUY wxwa'}, {'ahmy siai', 'AMAY jwia', 'Amay shoh', 'Nmy shue', 'AMIe SHIy', 'Ahmy sheu', 'ama shaa', 'amu shii', 'AUMy SHew'}, {'amU shau', 'AMMy sioy', 'AMeE aghy', 'AImy shoo', 'AMUY SHOW', 'amyy sheu', 'auy siae', 'amM shoe', 'AHmy siai'}, {'AMIe SHUW', 'amie shou', 'AMoy Shie', 'ammy shih', 'amu sheu', 'AMMY yywi', 'wmy shui', 'amm shai', 'Awmy shoh'}, {'AMeE qwwe', 'Ammy ssha', 'AMiy SHWw', 'amu siaw', 'AHMY SHUW', 'Aomy shoi', 'amW shei', 'nmy shoo', 'amoy shoe'}, {'AMie yzwa', 'Ammy shoa', 'Aumy shoh', 'Emy shue', 'AMEe SHIW', 'amO shio', 'amoy shih', 'amu shah', 'AMUy SHWw'}, {'AMUY zyhu', 'amo shaa', 'aomy shoa', 'ame shoe', 'emy shuo', 'AUmy shih', 'AMyy SHIw', 'AMmy shoh', 'AMiE SHYW'}, {'amo siaw', 'aey shoa', 'Awmy shiu', 'Amee SHWw', 'aumy siau', 'Amiy shoo', 'AMIY SHOW', 'AMee gahi', 'amA siai'}, {'Amuy shei', 'ame shah', 'imy shua', 'AMIy Shiy', 'AMeE SHOW', 'AMIE hyhy', 'amO shuu', 'amay sheu', 'AUmy sheh'}, {'AUmy shuh', 'AMee SHAY', 'ami sheo', 'AWMY ywua', 'AHmy siau', 'amA shae', 'hmy shou', 'amyy siai', 'Amie SHyw'}, {'amA shao', 'AWMy sshy', 'ame shoh', 'Ammy shoi', 'ayy shue', 'amoy siaa', 'Amey shea', 'AUMY SHie', 'AMYY cwho'}, {'mmy shui', 'Amie SHew', 'amm siaa', 'AMIE SHEY', 'Ahmy shio', 'AMEe yihy', 'Aumy sheh', 'ami siaw', 'amay ssha'}, {'aumy sheo', 'AUMY qwwa', 'amu shao', 'AWmy shoh', 'Amuy shii', 'AMIy SHww', 'ami shia', 'AIMY SHie', 'umy shoa'}, {'amW siai', 'Amay shea', 'amo shai', 'Aimy shia', 'AWMY SHIW', 'AHMy SHOw', 'AMUY qaey', 'amoy shih', 'aoy siau'}, {'Amey shoe', 'amw shui', 'Awmy sheu', 'amiy shio', 'AMeE wwwi', 'Nmy shoh', 'AMIe SHOY', 'amI shae', 'AWMy SHUw'}, {'AMee SHiy', 'amE shaa', 'amey shou', 'Amoy shio', 'AMUy Shiy', 'amw ssha', 'aoy siao', 'AMEE xwua', 'Awmy shuo'}, {'ami shuo', 'aimy ssha', 'AOmy shoe', 'AMEY SHIY', 'amu shau', 'AMiE yywe', 'aiy shue', 'amee shuu', 'AMOy SHiw'}, {'AMYY SHOY', 'hmy shuu', 'AMEy sshy', 'amm siao', 'aumy shih', 'Awmy shei', 'AMIE yywa', 'AWmy shui', 'amW shai'}, {'AHmy shoh', 'amE shae', 'amO siai', 'Aumy shuh', 'AMay SHay', 'wmy shoe', 'AMAY SHAY', 'amyy shih', 'AMEE qwwy'}, {'amm shoe', 'amee sheu', 'mmy shoh', 'AOMy SHow', 'awmy shoo', 'Amyy siao', 'AOMY quhy', 'ama shau', 'AMMY SHIy'}, {'AIMY zweh', 'Aimy shia', 'amay shuh', 'AMeE SHIy', 'aiy shue', 'ami shiu', 'amm shai', 'Amiy sheo', 'AWMy SHuw'}, {'AMAY SHIy', 'amE shau', 'ahmy siao', 'AMYY wyey', 'Awmy siah', 'ayy shui', 'AMay SHew', 'AWmy siae', 'amA siai'}, {'amI shao', 'ame shuh', 'AMyy Shey', 'ymy shia', 'AMUY SHEy', 'AMee xywi', 'amoy shoa', 'amee siah', 'AOmy shea'}, {'hmy shuu', 'amie siau', 'AMyy SHOw', 'amyy shui', 'AMEE SHYW', 'amI siaw', 'AMMY ywhi', 'amU shiu', 'Aumy ssha'}, {'Nmy shuo', 'AMEY SHIY', 'ami shai', 'AMYY cwwa', 'AMOy SHWw', 'AImy siaa', 'AWmy sheo', 'ammy shoh', 'amU ssha'}, {'amW siah', 'hmy shua', 'AMIy SHyw', 'AMAY cyho', 'Amuy shuh', 'Aimy siao', 'aumy shii', 'AIMY SHie', 'amm shah'}, {'Aomy shou', 'emy shui', 'AMMY ywwe', 'amA siaw', 'AMEy SHyw', 'AMIE SHUW', 'amee shuh', 'amE shii', 'ammy shue'}, {'AUMY SHEY', 'Amoy shei', 'AMIE wywe', 'AMey Shwy', 'amiy shoo', 'amA shae', 'umy siae', 'Aomy siai', 'amW shuh'}, {'AMIE wahh', 'mmy shoo', 'aomy shoa', 'AHMy SHYw', 'amI shuo', 'Amoy siaa', 'amE shae', 'AUMY SHiy', 'amie siai'}, {'amay shei', 'AWMY gahe', 'Amuy shih', 'Awmy shiu', 'AWMy sshy', 'AIMY SHIe', 'amW shui', 'ahy shoi', 'amw shah'}, {'AMEe SHiy', 'AMay SHWw', 'Amey shuo', 'nmy sheh', 'amA siaw', 'AMmy shoi', 'AMOY hxho', 'amuy shoe', 'amI shou'}, {'amee siai', 'ayy shoi', 'AMIE SHiy', 'AMMY ychh', 'Ammy shuh', 'amyy shoo', 'amw shae', 'AOMy SHIw', 'amo shea'}, {'aumy sheo', 'amo shih', 'AMIe SHEY', 'AMOy Shiy', 'AImy shui', 'AWMY yswo', 'ama shao', 'umy siai', 'AUmy sheu'}, {'amM shae', 'AMey SHew', 'awy ssha', 'AMiE SHAY', 'Amey shuo', 'amo shii', 'amuy shoe', 'Amyy siai', 'AMEe qowh'}, {'amay shei', 'AMUY qywi', 'Ammy shoa', 'amU shae', 'AMEy Shie', 'AIMY SHie', 'imy shiu', 'amE shuu', 'AOmy siae'}, {'AMYY zwuy', 'amA shoe', 'AWmy ssha', 'AMEe SHIy', 'amoy shei', 'AUMy SHEw', 'nmy shoo', 'amW shau', 'Aimy siau'}, {'Awmy shii', 'AMoy sioy', 'AMee SHOY', 'AMEE zwua', 'ame siah', 'ama shae', 'imy siao', 'amay shue', 'AImy shei'}, {'aoy shii', 'AHmy shoi', 'amU shih', 'AMYY cahh', 'AMiy SHEw', 'AMiE SHIE', 'amm shai', 'amiy shue', 'Aumy shuu'}, {'amuy shoo', 'AMmy shoh', 'aoy shoi', 'Awmy shii', 'AMMY SHey', 'AMie wihh', 'Amie SHww', 'ame shaa', 'amu siah'}, {'AUmy shua', 'AOMy SHEw', 'AUMY SHOY', 'ame shaa', 'amU siau', 'ayy shuh', 'AMYY wahe', 'amee shia', 'amiy shoi'}, {'amA shai', 'Amay shoa', 'ama shiu', 'AMEe gehy', 'Aimy shei', 'aoy shou', 'AMMY SHey', 'AMUy SHIw', 'amiy shii'}, {'AWmy shoo', 'amM shou', 'amu shau', 'ahy siau', 'aumy shuu', 'AMUY yihh', 'AOmy shoi', 'AMIe SHIW', 'AMay SHiw'}, {'Emy shio', 'ami shai', 'Awmy shoa', 'AMiy SHuw', 'amo shui', 'AMEY xyey', 'aumy shoh', 'amie shea', 'AMUY SHWW'}, {'AMuy SHYw', 'hmy sheu', 'AMEE SHWW', 'amuy sheh', 'amW shui', 'amee shiu', 'AMiE ywwe', 'AUmy ssha', 'amE siaw'}, {'amI shao', 'AHmy shih', 'AMay SHew', 'AMYY hzhe', 'AMEY SHOy', 'ammy siah', 'Amiy siae', 'Nmy shoe', 'amM sheh'}, {'amee shoa', 'amoy shou', 'Aimy siaa', 'AMOy SHow', 'AMMY SHey', 'amw siaw', 'hmy shue', 'AMee qyey', 'amA siai'}, {'Nmy shih', 'AHmy shea', 'AMmy shio', 'AMYY SHWW', 'amI shai', 'AWMY jahi', 'ami shoo', 'Amee SHew', 'ahmy siah'}, {'AMYY xwwe', 'AMeE SHOy', 'ammy shuu', 'Ammy shuo', 'ame shuh', 'AMYy SHEw', 'amA shau', 'auy shiu', 'Amey ssha'}, {'AMIY guwy', 'AMYy SHiw', 'AHmy shoa', 'wmy siae', 'amey shoi', 'Ahmy shio', 'amw siaw', 'AIMY SHAy', 'ami siaa'}, {'ame shea', 'AMEy Shey', 'Amiy shuo', 'AMEE hsyu', 'Aomy shio', 'ammy siae', 'aay ssha', 'AHMY SHIW', 'amW siaw'}, {'amA shua', 'AMUy Shie', 'Aimy shoi', 'umy siae', 'ahmy ssha', 'Amiy shuh', 'AMIY SHEy', 'AWMY qahy', 'amW siaw'}, {'AMAy SHay', 'Ammy shio', 'AMMY yywi', 'AImy siah', 'hmy shue', 'AMiE SHey', 'amm shuu', 'amW shau', 'aumy shui'}, {'aimy shii', 'AMYy SHOw', 'amU shia', 'AMYY yyih', 'amM shai', 'Amiy shoo', 'AMOY SHIE', 'ayy shoe', 'Ahmy siae'}, {'AMeE SHOy', 'AWMY hkho', 'ahmy shua', 'amW shoh', 'AWMy SHEw', 'Amiy shuh', 'amE shae', 'AWmy shui', 'aey siaa'}, {'amA shai', 'amay shou', 'AWmy siau', 'amie siai', 'AMAY SHIE', 'AMUY wseh', 'AMoy SHYw', 'amO shoo', 'Wmy siae'}, {'amO shau', 'AMIe SHWW', 'AMmy siai', 'ama shua', 'aumy shii', 'AMEy SHew', 'AMYY kahe', 'Amay sheo', 'aoy shia'}, {'AMYY wywa', 'AHmy shea', 'AMEY SHOY', 'ame sheo', 'Aumy shou', 'ama shae', 'AUMy SHOw', 'amoy shoe', 'mmy shuh'}, {'AMIY SHey', 'Amiy shuo', 'Amay shih', 'amw sheu', 'AIMY kyyy', 'AUMy SHay', 'aiy shoa', 'amm shau', 'amay siaa'}, {'Wmy shiu', 'Amie SHYw', 'AMmy siai', 'AMEY cwhi', 'aomy shih', 'AMUY SHIy', 'ame shoa', 'AImy shue', 'amu shai'}, {'AOMy SHay', 'amW shah', 'ami shou', 'AUMY qwoy', 'nmy sheh', 'amuy shoh', 'AIMY SHIE', 'AImy shei', 'amee siau'}, {'amI siaw', 'ammy shoi', 'AUMy SHWw', 'AMIE SHAY', 'AUmy shue', 'amm shiu', 'aay shuo', 'Amoy siao', 'AMOY jyuh'}, {'amyy siau', 'ami shio', 'Aomy sheo', 'Amie SHIw', 'AMiE gyey', 'AOMY SHOy', 'wmy shei', 'ama shae', 'AMmy siao'}, {'amee sheo', 'omy shui', 'AOMY SHAY', 'AMIe jyeh', 'AMYy SHew', 'amO shao', 'amay shuu', 'Amiy shuh', 'amA siau'}, {'amW siau', 'AMuy SHYw', 'aay shea', 'Amey shua', 'Awmy siah', 'AMee xywe', 'amm shao', 'AMiE SHIW', 'ahmy shoa'}, {'AWMY caoh', 'mmy shoh', 'Aumy shei', 'amiy shoa', 'AMyy sshy', 'AMYY SHIW', 'Ammy shui', 'amU shah', 'amO shii'}, {'AUmy siao', 'Wmy siai', 'ami sheo', 'AHMY SHIE', 'ahmy shoh', 'AMEY qayh', 'AMiy SHWw', 'amee shio', 'amW shaa'}, {'amm shei', 'AOMy Shey', 'ama shai', 'AWmy siah', 'AWMY qahh', 'AMMY SHEy', 'Nmy siau', 'amey sheo', 'Aumy siai'}, {'aomy shua', 'AMYY wahi', 'ayy shea', 'Ahmy shia', 'AMOY SHOy', 'AMmy shoe', 'amm siaw', 'AMOy SHUw', 'amA siai'}, {'Awmy shoe', 'amie shia', 'AMIe SHOW', 'AWMY wwwa', 'auy shui', 'amoy siai', 'amu shii', 'AHMy SHWw', 'amW shau'}, {'AMUy SHyw', 'AMIY SHWW', 'omy sheo', 'amu siaw', 'Awmy shei', 'Ammy shuu', 'AMMY zwwu', 'amey shui', 'amI shoi'}, {'AMmy shia', 'AMEy Shwy', 'AHmy shuo', 'AHMY SHiy', 'AMEE xywu', 'amI shau', 'ami shei', 'awy sheo', 'ahmy shii'}, {'Emy sheu', 'ama shai', 'Aumy shoh', 'AOmy shou', 'AMyy Shey', 'ame siao', 'AMee hehy', 'AMAY SHOY', 'aumy shui'}, {'AMMY SHiy', 'Awmy sheh', 'Emy shia', 'AMay SHay', 'amay shue', 'AMEe kuhy', 'amm ssha', 'amW shau', 'Ammy siao'}, {'amee shoa', 'auy siaa', 'amw shai', 'ahmy shue', 'amo shii', 'Aomy shih', 'AMUY SHIE', 'AMMY wahh', 'AMEy SHWw'}, {'ama shiu', 'amay shei', 'Wmy siau', 'AMmy shui', 'AIMY SHey', 'AMEY gwyh', 'AMyy SHyw', 'Amyy siai', 'amW siaw'}, {'AWmy siao', 'aimy shoi', 'amO shao', 'AMYY caih', 'AHMy SHEw', 'AMEe SHAy', 'amI ssha', 'Aumy siai', 'ymy shou'}, {'AHmy ssha', 'AMYy sioy', 'Ammy sheo', 'AMEe SHIE', 'AIMY zayy', 'ahmy shei', 'hmy shou', 'amw shao', 'amU shio'}, {'AWmy shua', 'AMUY SHie', 'amI siai', 'AMUy sshy', 'AMAY cywe', 'awmy siae', 'Aomy sheh', 'amO shaa', 'Nmy shoe'}, {'aimy siaa', 'AMmy shei', 'aiy shoe', 'AMIE xyhy', 'AOmy shii', 'AMEe SHAY', 'ami shao', 'amw shuh', 'Amie SHEw'}, {'aumy sheh', 'ami sheo', 'AIMY SHIe', 'amU siaw', 'AUMy Shwy', 'Aomy shuh', 'Wmy shui', 'AHMY kwwh', 'AWmy shuu'}, {'Aomy siaa', 'AMee xyey', 'Emy shia', 'Ammy shuu', 'AMoy SHWw', 'amw shai', 'ahmy shoi', 'amW ssha', 'AOMY SHIe'}, {'AOMy SHEw', 'AIMY SHYW', 'amay shoo', 'AMEE qwiy', 'Amiy siaa', 'amee shui', 'amI shah', 'amW shoe', 'mmy shoa'}, {'amu shui', 'AHmy shih', 'AImy shuh', 'AMIE SHWW', 'AWMy SHww', 'AMee qyuy', 'Emy shoh', 'amM shaa', 'amay ssha'}, {'ahy shua', 'AMEE SHOY', 'amE shea', 'AMIY wyoh', 'amay shuu', 'Amoy shoi', 'AMUy SHIw', 'AWmy shiu', 'ame shao'}, {'ame sheh', 'Aimy shio', 'aay shia', 'AMoy Shwy', 'amW shah', 'AMEY SHAy', 'AHmy shii', 'AHMY hwoy', 'amoy siau'}, {'AMEy Shwy', 'AUMY qwyh', 'AMmy sheu', 'Ahmy shoh', 'ami shia', 'amey siai', 'AMIe SHIy', 'Nmy sheo', 'amO shaa'}, {'Amoy shoe', 'ymy siau', 'AMMy SHOw', 'amey shii', 'AMOY yzhi', 'AImy shiu', 'AMUY SHIy', 'ama shao', 'amO siah'}, {'AHMY SHey', 'AUmy shou', 'ammy shui', 'amI shih', 'AMYY hsyh', 'emy shoe', 'Amuy shiu', 'AMEy SHow', 'amA shau'}, {'AMUY qyoh', 'AMie SHYW', 'amoy shui', 'AOmy sheh', 'wmy siai', 'Awmy siae', 'Amie Shey', 'amo shae', 'ama shia'}, {'amie siae', 'aoy shoi', 'AWMy SHow', 'AMeE SHWW', 'amay siah', 'AMMY cwua', 'Aumy shue', 'amW shao', 'amm shuu'}, {'Ammy sheo', 'AMEy sshy', 'amW shah', 'ama sheh', 'amiy shoo', 'nmy shea', 'Amey siao', 'AMIY cahe', 'AMAY SHAy'}, {'ame shui', 'AMIe yyey', 'AWmy shii', 'ammy shoi', 'Amiy siao', 'AMYy SHyw', 'AMEe SHAY', 'amm siaw', 'awy shio'}, {'Amoy shui', 'amO siaa', 'ayy siau', 'Ammy siae', 'AMEe SHEy', 'AMuy SHow', 'amw shai', 'AMUY xwyh', 'ahmy shoa'}, {'amiy shua', 'AMeE zyuy', 'AMOy SHYw', 'ame shei', 'Ahmy shia', 'amI shai', 'Amyy shoo', 'Nmy sheh', 'AMIY SHoy'}, {'amw siah', 'Amoy shio', 'ayy shuo', 'ami shae', 'AHMY yyhi', 'aumy siau', 'AMoy SHuw', 'AMMY SHie', 'AWmy siae'}, {'amo shau', 'amW siau', 'ahy shoe', 'AMIy SHEw', 'aomy shih', 'Amoy siah', 'AMEY SHAy', 'AMYY yyoh', 'Aomy shii'}, {'AMiE SHOy', 'amM shae', 'ayy shuo', 'AMMY zauh', 'AHmy shou', 'AMyy SHow', 'aimy shua', 'Ahmy shui', 'amO shiu'}, {'AUMy SHow', 'Aimy shei', 'AHmy shuu', 'hmy sheo', 'awmy shoh', 'ame shiu', 'AHMY caih', 'AMiE SHOy', 'amm shah'}, {'hmy siao', 'ammy siau', 'AWMy SHWw', 'amI siaw', 'Aumy shii', 'AWMY SHoy', 'Amey shio', 'AUMY jwih', 'ame shih'}, {'Ammy shoa', 'awy shea', 'AWMY SHIW', 'AMYy SHay', 'amie shuu', 'amA ssha', 'awmy sheo', 'AMIY xyuy', 'amW shao'}, {'Amie Shoy', 'amu shuo', 'AWmy siao', 'AUMY jyih', 'amuy shiu', 'AMie SHIY', 'amm shau', 'Nmy shea', 'amie shuh'}, {'amO shia', 'amE shai', 'AWMY yuhh', 'Emy siaa', 'AMIE SHAy', 'Amoy siae', 'amee shoe', 'aimy siah', 'AWMy SHUw'}, {'aomy shue', 'amee shoa', 'amE shai', 'AIMY jayy', 'amie shua', 'AHMy SHOw', 'amO shuo', 'omy shoe', 'AMiE SHOW'}, {'imy siau', 'amO shoe', 'AHmy sheo', 'AMEy sshy', 'AMEY jjwa', 'AMIE SHIy', 'amo shah', 'amoy shea', 'Amyy shoo'}, {'AMIe SHYW', 'amee siaa', 'AMMy SHOw', 'amyy ssha', 'emy shea', 'AImy shoa', 'amE shou', 'AMIE yqhi', 'amU shah'}, {'aomy shii', 'hmy shih', 'AImy shia', 'AMie kuwa', 'Aomy shoo', 'Amie SHyw', 'amA shah', 'ami siau', 'AWMY SHOW'}, {'AOMY hwoh', 'amU shue', 'amuy sheh', 'Aomy siao', 'AMUy SHow', 'AUMY SHIE', 'Nmy siah', 'Amay shuo', 'amM shah'}, {'ama shoo', 'amo shao', 'emy sheo', 'AMUy SHUw', 'AWmy shoa', 'AMUY SHAY', 'amyy shuu', 'AMIE kowy', 'Ahmy shou'}, {'amm shuo', 'aomy shoa', 'AOmy siaa', 'AIMY ccho', 'AMEy SHew', 'AUMY SHOy', 'amM shaa', 'emy shia', 'Awmy shoi'}, {'AMAY SHey', 'AUmy siau', 'Amee SHEw', 'amI shau', 'auy sheo', 'aimy shiu', 'AMEe qiwa', 'amM shuh', 'Aumy shuu'}, {'Amiy shia', 'amM siaw', 'omy siao', 'AMiy Shey', 'aimy shiu', 'amu shou', 'AMEe qwwe', 'AMEY SHiy', 'AOmy shea'}, {'Aimy ssha', 'AMIy sshy', 'Amay shoi', 'AMIY xwih', 'amO shou', 'amM shau', 'AMEY SHey', 'amay shoa', 'aoy shoe'}, {'Amyy shuu', 'AMIY kuwa', 'AMUY SHoy', 'amey shii', 'amU shao', 'AMey Shie', 'Ahmy siae', 'hmy siah', 'amA siao'}, {'AMOy Shey', 'amoy shou', 'emy shih', 'AHMY jwih', 'amW shoo', 'AMIe SHiy', 'Ammy shue', 'ame shaa', 'Aimy siau'}, {'AMeE SHIW', 'amee shoi', 'Awmy shua', 'amI siae', 'hmy shea', 'AWMY gehy', 'ama shao', 'AIMy SHIw', 'amiy shou'}, {'AMOY SHEy', 'ayy shoi', 'Amey sheo', 'ame shoo', 'AUMy SHww', 'amie siao', 'AHMY jyuy', 'amO shau', 'amay shih'}, {'AMIY SHIe', 'amoy shuo', 'amU shai', 'awy shuu', 'AMmy shoi', 'AIMy SHyw', 'amE siaa', 'AMYY qwwe', 'Amay shii'}, {'AOmy shua', 'AMoy Shwy', 'ame shei', 'ami shai', 'AOMY SHOy', 'amuy shiu', 'amee siah', 'AMee yswe', 'Nmy shea'}, {'AUmy siah', 'AIMy SHOw', 'AUMY SHUW', 'ame siaw', 'aoy shuh', 'AMEE yywe', 'amM shoa', 'amoy siae', 'Aumy siai'}, {'amM shao', 'AUMY yohh', 'awy shea', 'AMAy sioy', 'Ahmy shoe', 'awmy shoh', 'AMEe SHAY', 'amI shio', 'Amey siah'}, {'aay shih', 'AHmy siau', 'AWMy SHiw', 'AMEY zihy', 'amE shou', 'amw shae', 'Amiy shuh', 'aomy shoi', 'AMie SHie'}, {'amu shui', 'Ammy shuo', 'AMUY SHEW', 'ami shaa', 'Amie sioy', 'Wmy shua', 'ahmy siaa', 'Amuy shoh', 'AMEe wwho'}, {'aimy shoe', 'ame shuu', 'amE shai', 'Amay shea', 'imy siaa', 'AOmy ssha', 'AWMY SHIe', 'Amee SHEw', 'AMiE wahe'}, {'amo shau', 'Amyy shoh', 'amiy siaa', 'AMAY hwua', 'amE ssha', 'amee shoe', 'ayy siae', 'AOMy SHIw', 'AMeE SHEy'}, {'AMee SHIW', 'Emy sheh', 'AMOy SHOw', 'amA shao', 'amie shue', 'awmy shoo', 'AMEE hsyo', 'ama shuo', 'AOmy shoi'}, {'ame siau', 'ami shau', 'AWmy shoh', 'AMMy SHWw', 'AMEE kwey', 'aomy sheu', 'AMmy shoe', 'AIMY SHOy', 'Emy shuh'}, {'AMEE SHiy', 'awy shoh', 'AMoy SHyw', 'aimy siau', 'amO shaa', 'AOMY qahy', 'ami shoo', 'Amyy shii', 'AMmy siaa'}, {'Amyy shei', 'AIMY SHYW', 'auy shea', 'amee shih', 'AMuy SHOw', 'amW shue', 'awmy siaa', 'AMUY gwwa', 'amA shau'}, {'Amee Shiy', 'umy shuo', 'amie shoh', 'amW shah', 'amuy sheo', 'AMee yayy', 'AWmy shei', 'AMMY SHYW', 'amu shii'}, {'amie sheu', 'amE shaa', 'AMEY SHIy', 'amm shih', 'ahmy siao', 'ahy shuo', 'AMie qwiy', 'AWmy shiu', 'AIMy SHyw'}, {'amA shuu', 'AMUY SHie', 'Amuy shuh', 'AOMY kwey', 'ahmy siao', 'amie shio', 'umy ssha', 'AMAy SHEw', 'amW shau'}, {'ami sheo', 'aoy shuu', 'AMie SHUW', 'Awmy siao', 'AMEY jyih', 'Aimy shoe', 'AMiy Shiy', 'ammy shiu', 'amU shah'}, {'awmy shiu', 'amee shue', 'amA shoe', 'imy sheu', 'amu siaw', 'AHMy SHuw', 'Aomy siae', 'AMeE SHOW', 'AMEE aswh'}, {'amI shaa', 'amM siaa', 'amyy shoi', 'Awmy sheu', 'AMIy SHew', 'ayy shea', 'AMYY SHYW', 'AMEe zyuy', 'Aumy siah'}, {'amO ssha', 'omy shou', 'AMay Shwy', 'aumy siao', 'Awmy shuh', 'AMiE SHie', 'Aimy sheh', 'amE shae', 'AHMY cahe'}, {'amu shao', 'AUmy shuu', 'AMUY yauh', 'imy shoa', 'AMEe SHOW', 'Ahmy shui', 'AHMy SHIw', 'amA shue', 'amay shih'}, {'aoy shoh', 'amoy shou', 'AMOy SHOw', 'AUmy shio', 'Awmy sheh', 'AMee qwey', 'ama siao', 'amM shah', 'AMIE SHIE'}, {'ammy shua', 'Amie SHew', 'ame sheo', 'Amay shoi', 'AMIe zwhy', 'nmy siao', 'AMAY SHIW', 'amA shah', 'AUmy shei'}, {'amU sheh', 'aimy siaa', 'aoy shuh', 'AMee kwwy', 'AWmy shuo', 'Amee SHww', 'AMEE SHEW', 'Ahmy shui', 'amw shah'}, {'AMIy sshy', 'Awmy shuh', 'AMie SHEW', 'Amoy siau', 'aay shua', 'aumy siai', 'ama shao', 'AMOY yehy', 'amA shoi'}, {'ymy shuo', 'amO siaa', 'AMIy SHyw', 'AMYY SHWW', 'Amyy shoo', 'Ahmy sheu', 'AMMY jwwi', 'amu shah', 'amuy shou'}, {'amey shua', 'AUmy siao', 'Ammy shei', 'amE shau', 'amU shue', 'AMOy sshy', 'AMIe SHOY', 'aoy siai', 'AMMY xwih'}, {'amey shio', 'AMuy SHYw', 'amo shao', 'ame siai', 'AMIe jwhy', 'Amiy siao', 'AWMY SHIW', 'Amyy shih', 'mmy shoi'}, {'AMay Shoy', 'Aumy shoi', 'amoy shio', 'Amey sheh', 'Nmy shia', 'AMEE yzhi', 'amu shai', 'AWMY SHIE', 'ami shih'}, {'amE shai', 'AMMy SHYw', 'amM ssha', 'AHMY hsyh', 'Amey shoh', 'nmy sheh', 'aimy shei', 'AMee SHWW', 'Ammy shoe'}, {'amie siau', 'hmy shia', 'AMEe SHIW', 'AMiy SHww', 'Aomy shoi', 'amI siae', 'amuy shei', 'AMYY xaiy', 'amo shae'}, {'amA shai', 'ama shoi', 'AMOy SHow', 'aomy siae', 'aay shei', 'AMEY SHIE', 'Amey shua', 'AMIE qwoy', 'Ahmy siai'}, {'AWmy shoi', 'Amoy shea', 'AMYy SHew', 'aiy shia', 'AMee SHIY', 'AMAY hwhy', 'amA sheh', 'amiy shii', 'amu shai'}, {'AMIY SHey', 'AWMy sioy', 'amu siaw', 'Amyy shih', 'amm siai', 'AMiE kauh', 'ymy shoo', 'AUmy shei', 'amuy shio'}, {'amI shao', 'AMAy SHOw', 'ayy shih', 'AMIY SHIE', 'AMEE yaih', 'amee shui', 'amm shea', 'AHmy shoe', 'ahmy shio'}, {'amiy shua', 'ame shae', 'AIMY SHIW', 'AWMy SHIw', 'AMAY guhy', 'AImy siau', 'AHmy shii', 'mmy shea', 'amA siao'}, {'AMAy SHEw', 'Aumy shio', 'ame shia', 'ama shae', 'Amiy siae', 'amiy shuo', 'AIMY SHOW', 'Emy siao', 'AMMY xwwa'}, {'amU shaa', 'wmy shoo', 'amie shue', 'Awmy shuh', 'AHMy SHww', 'awmy shih', 'AMeE jwhu', 'amI siae', 'AOMY SHEW'}, {'AHMY jihy', 'AUmy siae', 'AMAy SHUw', 'amU shoh', 'AMIY SHie', 'amW shai', 'aay siaa', 'Amiy sheo', 'amey shoo'}, {'amW siau', 'Aomy ssha', 'AMMy SHWw', 'amI shau', 'AMAY SHIY', 'AMeE yghi', 'Aimy shoe', 'auy shoh', 'amyy shiu'}, {'amO shia', 'Awmy shii', 'Emy shei', 'AMEY SHEY', 'AMMy SHIw', 'AImy shea', 'amM shau', 'AIMY qywi', 'amay shoa'}, {'AMoy SHay', 'amW siau', 'Amyy shuu', 'AOMY SHOY', 'AMMY ygwa', 'amoy sheo', 'nmy siaa', 'Amay siai', 'amU shah'}, {'amie sheh', 'AMOY SHUW', 'AMYy SHay', 'AMie guwy', 'amU siaw', 'amA ssha', 'Wmy siah', 'Amiy shoa', 'amuy siai'}, {'amie shoo', 'AHMY SHIe', 'AMIe qwyy', 'ama shei', 'AMay SHUw', 'Amuy shuh', 'auy shoa', 'amI shai', 'ammy shia'}, {'amA shui', 'amo shao', 'ahmy shoh', 'Aomy shuo', 'AIMY SHAY', 'Nmy siai', 'AMEy SHyw', 'AOMY awhh', 'Ammy shoe'}, {'amW siau', 'Amay shei', 'AWMy sshy', 'amuy siaa', 'AMYY akwy', 'AMmy shiu', 'ama shaa', 'AMEY SHWW', 'ahy sheo'}, {'amA shai', 'AUmy siai', 'Amuy shuh', 'aumy shii', 'AUMy SHuw', 'AMIY ywwa', 'nmy shiu', 'AMEe SHYW', 'amU siah'}, {'amm shoe', 'amI shaa', 'Aumy sheo', 'AHMY SHIy', 'AMiE qwwy', 'amie shia', 'hmy shui', 'amey siah', 'AMuy SHiw'}, {'amU shaa', 'aomy shii', 'Amyy sheh', 'AMEy sshy', 'Amey shui', 'AMEe qyhy', 'amW shoe', 'Nmy shea', 'AMUY SHWW'}, {'AMIe SHIE', 'AMmy shei', 'Awmy shih', 'AMIY ywhy', 'ammy siah', 'amw shai', 'wmy shoi', 'AMUy Shey', 'amE shoo'}, {'AMYy SHOw', 'auy shuu', 'AMMY SHey', 'Amoy sheo', 'AMOY xywo', 'ame shau', 'amE shei', 'aumy shoi', 'Amyy shoa'}, {'AIMY SHOy', 'AMie wwwe', 'awmy shio', 'Amee sioy', 'AImy siao', 'ami shea', 'amA shau', 'aay shuh', 'Ammy shoe'}, {'AMmy siau', 'emy shou', 'AMuy SHWw', 'amW shio', 'AMIE kuwy', 'amey siai', 'AMUY SHEY', 'Amay shui', 'amA shah'}, {'AMeE SHUW', 'amie shuo', 'Amuy sheh', 'aoy shii', 'aomy siae', 'amw siao', 'AMie cwua', 'amm shao', 'AMMy SHew'}, {'AMAY yywe', 'Amyy shuo', 'AWmy sheh', 'amey shea', 'amw shaa', 'ahy shih', 'ame shoo', 'AMOY SHie', 'AMMy SHww'}, {'Ammy shuo', 'AMIe jwwe', 'amee shoo', 'amA ssha', 'amM shau', 'amiy siao', 'ayy siae', 'AMay SHOw', 'AOMY SHIe'}, {'amA siah', 'amo shai', 'amee shea', 'Awmy shih', 'AUMy SHEw', 'ymy shui', 'AMie SHIW', 'awmy shio', 'AMOY yyya'}, {'aey shoe', 'Amyy siaa', 'AOMY SHie', 'AMMY aswh', 'amw shuu', 'amW shaa', 'aimy shou', 'AUmy shoi', 'AMiy SHUw'}, {'amee shoa', 'imy shoi', 'amuy siah', 'AMuy Shwy', 'amE ssha', 'Amuy sheh', 'amW shai', 'AMOY SHYW', 'AMEe cwua'}, {'amA shai', 'AIMy SHEw', 'ammy shoa', 'Amuy siau', 'amW shio', 'AMOY SHOy', 'AHmy shei', 'mmy shuo', 'AMEY xwwe'}, {'amyy shui', 'AHMY kuhy', 'AHmy sheu', 'Aumy shih', 'AMay Shie', 'ame shue', 'amU siaw', 'AMOY SHEY', 'ahy siaa'}, {'amO sheo', 'amW shah', 'AMEy Shie', 'Ammy shia', 'Aomy shoe', 'awmy siah', 'umy shoo', 'AMee hwia', 'AMie SHoy'}, {'Ahmy sheh', 'AMyy SHyw', 'aiy shii', 'AMIY guwy', 'amey siau', 'amO shei', 'Aumy sheu', 'AMIe SHAY', 'ama shao'}, {'Ammy ssha', 'amM siaw', 'aimy shio', 'amO siao', 'AMUy Shiy', 'AMAY ywua', 'amee sheh', 'Nmy siah', 'AMIe SHAY'}, {'AMyy sioy', 'amo siaw', 'amw shui', 'Ahmy shuo', 'AWmy siah', 'ymy shoo', 'AMiE SHOy', 'AHMY jowy', 'ammy shoe'}, {'ama shia', 'AMIE xayy', 'Ahmy shei', 'amW shah', 'AMIy Shoy', 'Amey sheh', 'AWMY SHWW', 'amay sheo', 'ymy siaa'}, {'ahmy shoo', 'AWMY kohy', 'amA shaa', 'AMiy SHWw', 'amm siao', 'Amay shio', 'Amyy siau', 'AMEE SHAY', 'wmy shou'}, {'AMOY SHIy', 'amie shua', 'Amee sshy', 'awy shue', 'Amay shia', 'ame shah', 'ahmy siao', 'AMEY zauh', 'amm ssha'}, {'AMAY SHOW', 'amI shoe', 'Amiy sheh', 'Amyy sheo', 'AMYy SHuw', 'auy siau', 'amw shai', 'AMEY gwyh', 'amuy sheu'}, {'amA shai', 'ami ssha', 'AHmy shea', 'AIMy SHuw', 'AMIe SHIY', 'Aimy shuh', 'amuy siao', 'AUMY qwyy', 'hmy shoh'}, {'awy siai', 'Amyy shuu', 'amE shah', 'AMyy SHuw', 'amw siaa', 'AMie SHEY', 'amee siae', 'AMIY wehy', 'amoy sheo'}, {'Amay sheu', 'AMey SHiw', 'amu siai', 'emy siao', 'AMAY SHEY', 'AWMY hzhi', 'amee shuu', 'amI shah', 'amuy shei'}, {'AMeE SHOy', 'Awmy shea', 'AMOY wyya', 'amm shih', 'amA shau', 'ayy shio', 'AWMy SHOw', 'amoy sheu', 'Ahmy shui'}, {'AMIe zahy', 'AMee SHoy', 'amay shoh', 'aey shuh', 'AImy siaa', 'Amuy shua', 'AMay SHOw', 'amW shou', 'amw shah'}, {'amw shaa', 'AMmy sheh', 'AMOy Shiy', 'imy siae', 'AMUY SHiy', 'aimy shou', 'AMiE jyhy', 'Amey sheu', 'amm ssha'}, {'aimy shii', 'AIMY zyey', 'amm shoe', 'Ammy shoh', 'AMIy SHEw', 'AWMY SHIW', 'aiy shio', 'ama shae', 'AUmy sheo'}, {'AMiE SHIy', 'amO shea', 'Aumy sheo', 'AMMY wyhu', 'ami shae', 'AImy shou', 'emy siau', 'amoy shuh', 'AMEy SHOw'}, {'Amiy shio', 'amW siai', 'AMEy Shwy', 'AMee SHEy', 'AMiE xayy', 'AHmy sheh', 'ame shai', 'amuy shuo', 'Wmy shei'}, {'Amuy sheh', 'amo shai', 'AMiy sioy', 'AOmy shoa', 'aay shoo', 'amu siah', 'AMee kwwa', 'AMiE SHey', 'awmy shou'}, {'amA shah', 'AMey SHew', 'AOmy shii', 'Amey shoi', 'AMIY SHAY', 'AHMY quhy', 'wmy shui', 'amey siah', 'amo shoe'}, {'Amyy shoh', 'AMEe jihy', 'amO shui', 'ahmy sheo', 'amE shau', 'AWMY SHie', 'wmy siai', 'Aimy shih', 'AMOy Shey'}, {'ammy shea', 'AHmy shih', 'Ammy shei', 'ame shai', 'AMay Shiy', 'Wmy siah', 'amm shuh', 'AWMY qwoy', 'AOMY SHIe'}, {'AMIE xahi', 'Amuy siai', 'nmy sheu', 'AImy shoe', 'ama siaw', 'aimy shei', 'AMEy SHww', 'AMEE SHIy', 'amu shuh'}, {'Amiy siau', 'amoy shuo', 'Awmy shii', 'amU shoe', 'wmy siae', 'AOMy SHww', 'AMIE xyya', 'amW shau', 'AMeE SHEy'}, {'amE shai', 'amu shoa', 'AMMY qiwy', 'awmy siau', 'Awmy shoe', 'Amoy sheo', 'auy siai', 'AWMy SHUw', 'AMIE SHIW'}, {'AUMY SHEY', 'amo shih', 'aey shuh', 'amO shao', 'AUMy SHYw', 'amee sheh', 'ammy siai', 'Amiy shoa', 'AMie aswh'}, {'AMEY yyih', 'aimy shui', 'AUMy SHUw', 'amw shae', 'Aimy sheh', 'aiy ssha', 'AHmy siaa', 'AUMY SHOy', 'amU shuh'}, {'Aomy shui', 'amM shai', 'Awmy siaa', 'AMYy SHuw', 'amm siah', 'AMOY SHOy', 'ahmy sheh', 'omy shuh', 'AMee qahe'}, {'AMeE SHWW', 'AMee cehy', 'ami shio', 'AWmy shui', 'AUmy shoe', 'AMMy Shie', 'amyy shii', 'amm shae', 'aiy shoa'}, {'AMIE kyih', 'amM shou', 'AHMY SHIW', 'AMmy shuu', 'AImy sheh', 'aimy siai', 'ami siaw', 'AWMy SHuw', 'auy shoh'}, {'amW siai', 'aey sheo', 'amO shae', 'Aomy siah', 'amoy shih', 'AMeE xewa', 'Aumy sheh', 'AMOY SHYW', 'AWMy Shey'}, {'amW siai', 'aiy shoo', 'AMiE yayy', 'ammy shuo', 'AMEY SHIW', 'Amiy shea', 'amee shui', 'ami shao', 'AMMy Shwy'}, {'AMOY cahe', 'ame shii', 'Emy shio', 'AMYY SHiy', 'AWmy shiu', 'Ahmy shou', 'AMay SHuw', 'amiy shuu', 'amu shai'}, {'ammy siau', 'amo shaa', 'AMMy SHew', 'AMmy shoo', 'AOMY yihh', 'AMie SHey', 'ame shou', 'wmy shoa', 'Aumy shuu'}, {'amU shau', 'amyy siau', 'AIMY SHYW', 'ayy shoi', 'amI shei', 'AMUY qahy', 'AMiy SHiw', 'Awmy ssha', 'amie siah'}, {'AHMY SHAy', 'AIMY cowy', 'Ammy shoa', 'amA shoe', 'ami shah', 'Amiy shiu', 'awmy shio', 'nmy shia', 'AWMy Shiy'}, {'AIMy SHow', 'AWMY waey', 'amoy shii', 'AMie SHEY', 'Amiy shea', 'Amey siao', 'amO shuo', 'aiy shua', 'amw shah'}, {'ami shui', 'mmy shoo', 'AMYY wuwy', 'Aomy siau', 'AMie SHUW', 'amO shae', 'AOMy SHiw', 'amuy shih', 'Amoy shii'}, {'AMYY SHUW', 'emy shiu', 'Amoy shio', 'amay sheh', 'AUMY zaey', 'amI shui', 'Awmy shue', 'amW shao', 'AMEy SHWw'}, {'AMEy SHEw', 'ahmy shua', 'ama shai', 'Amiy sheu', 'Amay sheh', 'amA shii', 'Emy ssha', 'AMOY wwho', 'AOMY SHIY'}, {'amU sheh', 'AMIY hyhh', 'Emy shii', 'awmy shoa', 'AMyy sshy', 'AMie SHoy', 'AImy siah', 'amm shau', 'Aimy siau'}, {'AMiE SHUW', 'auy shua', 'aumy shou', 'AHMY aswy', 'Amie SHyw', 'Ammy shoo', 'ama shuo', 'AUmy ssha', 'amu shai'}, {'amuy shoo', 'AMiE cihy', 'amO shue', 'umy sheo', 'AWMy SHww', 'Ahmy siaa', 'Amey shuo', 'AMYY SHIy', 'amu shah'}, {'AWmy shoi', 'amE shah', 'umy shio', 'ami sheu', 'AMIE SHOy', 'AOMY ysih', 'AMmy shiu', 'AMiy sshy', 'aumy shui'}, {'Amay shea', 'AOMY SHEW', 'aumy shoa', 'AUmy shuu', 'amU shao', 'amo sheo', 'AHMY jwwe', 'wmy siao', 'AMEy Shiy'}, {'aomy shei', 'Aimy shia', 'AOMY SHie', 'AIMY xwyy', 'Awmy siaa', 'AMuy SHUw', 'ami shae', 'amU shoi', 'auy shuh'}, {'AMeE SHAy', 'AMEE cywe', 'ama siai', 'Aimy shoi', 'Nmy sheu', 'amuy shoh', 'AUmy ssha', 'AOMy Shwy', 'amE shao'}, {'AMyy Shwy', 'ayy siau', 'AMEE SHOY', 'Ahmy siaa', 'Aimy shoo', 'AMUY yuwy', 'amey siah', 'amm shuu', 'amO shau'}, {'amI shia', 'AWMY SHYW', 'AMAY qohh', 'AMEy SHiw', 'ame shau', 'amuy shih', 'Amay shuh', 'awy siaa', 'amee shuo'}, {'AMoy SHay', 'AMEe SHWW', 'AMOY wuwy', 'Awmy shiu', 'ami shai', 'amo shuu', 'AWmy shuo', 'ammy shou', 'auy shoh'}, {'AMEY SHOW', 'amo shih', 'AMOY zwoh', 'Aimy shuh', 'aoy shua', 'amA shae', 'AMiy SHww', 'amiy shii', 'Ammy siao'}, {'amay shou', 'Emy shii', 'AOmy shei', 'amU shao', 'AMie xaeh', 'ami sheh', 'Amee SHww', 'amie siao', 'AHMY SHoy'}, {'AMEE SHOy', 'AWmy shea', 'AMAy Shie', 'AWMY wywu', 'Amiy shiu', 'awmy siah', 'amE shuu', 'wmy shue', 'amm shao'}, {'ami shau', 'AHmy shuu', 'amm siah', 'omy shue', 'AImy shea', 'aomy siaa', 'AMie cuwa', 'AWMy SHYw', 'AMIE SHIW'}, {'amw shoh', 'AWMY ayhh', 'Amyy shuo', 'ami shau', 'ahmy shou', 'aiy shei', 'AMUY SHEW', 'amee shoe', 'AMAy SHyw'}, {'amO shia', 'AMYY SHIE', 'imy shoa', 'Amay siau', 'AMIY zuwa', 'Amee SHww', 'aomy shoe', 'ame shaa', 'Amey siah'}, {'Amiy shio', 'ahy shoo', 'ame shai', 'amuy sheo', 'AMEY SHAy', 'AUMy SHIw', 'amI shui', 'AMee hyhe', 'AWmy siae'}, {'aay shih', 'AMEe zahy', 'Awmy shii', 'AMOy SHEw', 'AUMY SHAY', 'amO shuh', 'Amay siah', 'amw shao', 'amay shiu'}, {'AIMY jywy', 'AHmy siau', 'amw shei', 'nmy shih', 'amI shai', 'AMIE SHEy', 'AOmy shuu', 'amay sheu', 'Amie SHay'}, {'amU shah', 'aumy shei', 'amw siah', 'AMAY wsyh', 'Awmy siao', 'Amyy shia', 'AMOy SHay', 'AMEY SHWW', 'aay siai'}, {'ahmy siai', 'amI shua', 'Amuy shei', 'ahy shii', 'Amie SHew', 'Aimy sheo', 'AMYY SHIW', 'AOMY zuwy', 'amu shah'}, {'amE shai', 'AIMy SHuw', 'AOmy shou', 'amyy ssha', 'AMAY jjwa', 'Aimy shoo', 'amo shuh', 'AMEe SHIY', 'mmy sheu'}, {'AMie SHWW', 'Ahmy shue', 'AMay Shiy', 'amuy shua', 'umy shoo', 'AMee wywa', 'ami shii', 'amW shao', 'Amyy shuh'}, {'wmy siau', 'Ahmy sheh', 'AIMY SHoy', 'amA sheu', 'aomy siao', 'amw shau', 'AMIE qiwy', 'AHmy siaa', 'AMoy Shiy'}, {'AMie qahi', 'AWMy Shie', 'AImy siaa', 'amw shai', 'AMiE SHAy', 'amuy shiu', 'Amyy siau', 'aey shoh', 'amO shue'}, {'amA shai', 'wmy shoo', 'Amuy shii', 'AMEe qyya', 'Awmy siau', 'ahmy shui', 'AMAy Shey', 'AMiE SHoy', 'amw shoi'}, {'AMYY jyeh', 'ayy sheh', 'Amoy siah', 'ami shae', 'AMEE SHoy', 'amm shoh', 'aomy shea', 'AMay SHew', 'AWmy shoe'}, {'AMAY ycwa', 'mmy shui', 'AMEY SHIe', 'amu sheu', 'amU siaw', 'ahmy siao', 'AMmy sheo', 'AWmy shoe', 'AMay SHiw'}, {'amI shao', 'AMay SHEw', 'AUmy shii', 'amm shuh', 'amey siai', 'Aomy siah', 'awy shoa', 'AMiE qwyh', 'AMIY SHUW'}, {'Emy siaa', 'AMiE SHOW', 'ami shai', 'aomy siae', 'AIMY yowy', 'amW shoi', 'Aomy shiu', 'Amee SHiw', 'Amey shuh'}, {'amE shia', 'aoy shua', 'AMEy SHOw', 'AWMY SHOY', 'Aomy shoi', 'AOmy siai', 'amu shah', 'AUMY jehh', 'ahmy shio'}, {'Amie SHOw', 'ame shui', 'Amyy shei', 'emy siao', 'AWmy siai', 'AMeE SHIy', 'AMiE caey', 'amoy shuh', 'ami siaw'}, {'amA shou', 'AImy shua', 'AMoy SHOw', 'nmy siao', 'AMIY SHYW', 'amey shih', 'Amey shio', 'AMEE gyhu', 'ama shao'}, {'wmy siah', 'Amiy siae', 'AUMy SHWw', 'amU siaw', 'AMMY SHIW', 'amE shuo', 'AMIE ajwy', 'AUmy sheh', 'amuy shou'}, {'mmy shoo', 'Amee sioy', 'amE siah', 'amO shae', 'AHmy shou', 'AMOY SHWW', 'amuy siau', 'Aomy shoi', 'AMAY ykhi'}, {'AMIe SHoy', 'imy sheu', 'amU shao', 'Amyy shea', 'Aimy sheo', 'AMEy SHiw', 'AMOY cywe', 'amM shoh', 'awmy shou'}, {'aumy shei', 'ahy shua', 'Amay shoh', 'AMeE SHiy', 'AMOY wywa', 'Amoy shiu', 'AUMy SHUw', 'amA shau', 'amO shoa'}, {'AWmy shua', 'AWMy SHow', 'AMEE SHiy', 'amo siaa', 'amee shoi', 'imy shia', 'amyy shuo', 'ama shae', 'AIMY wxwa'}, {'amM shaa', 'AMie SHWW', 'ymy sheh', 'ami shou', 'Amiy siaa', 'AHMy Shey', 'AMiE zwoh', 'ahmy shih', 'Awmy shuo'}, {'amM siai', 'imy shea', 'aimy shiu', 'AMie qyey', 'amw shae', 'AHmy siaa', 'AMUY SHIY', 'Amyy shuh', 'AWMy SHuw'}, {'emy shou', 'AMmy shue', 'Aomy siaa', 'amo siao', 'AMiy SHww', 'AMEY yjhi', 'amA shah', 'awmy ssha', 'AMIe SHIW'}, {'AMyy SHOw', 'amA shaa', 'AIMY gahh', 'ami shei', 'aomy sheu', 'Ahmy shio', 'AOmy shoi', 'AMIE SHOY', 'umy sheh'}, {'AMUY SHey', 'AMee xwyh', 'Amiy shui', 'amU shea', 'amiy shia', 'AMoy SHEw', 'AMmy sheo', 'umy siau', 'amO shau'}, {'aomy shei', 'Ammy shuo', 'AIMY jwih', 'AWMY SHAy', 'ama shue', 'ame siaw', 'Aumy shoh', 'Amee SHay', 'emy shia'}, {'ami shoi', 'amu shau', 'AHMy SHww', 'AMUY SHEy', 'AMMY qahy', 'amie shia', 'amey shoh', 'Amay siao', 'umy sheh'}, {'AIMy SHiw', 'AOmy sheh', 'AUMY kyyh', 'AMEY SHey', 'amie shia', 'amO shoo', 'amiy siao', 'ama shae', 'mmy sheu'}, {'ame shae', 'amie shou', 'amu shuo', 'ayy shui', 'AMYY wywu', 'Amoy shiu', 'AMUy SHuw', 'AMie SHIW', 'ahmy sheh'}, {'Ahmy shei', 'amu siaw', 'amU shuo', 'AIMY SHEY', 'Amiy shoh', 'amuy siau', 'hmy shui', 'AOMy Shwy', 'AMie gwua'}, {'amay shou', 'Aumy shua', 'amW sheh', 'Emy shii', 'Amey siai', 'AMay Shie', 'amA shae', 'AMIe SHAy', 'AMAY ccho'}, {'Aumy shih', 'ayy siau', 'AMUY yahe', 'AMEY SHey', 'AMmy sheo', 'ahmy sheh', 'AMey SHww', 'amM shii', 'amW shau'}, {'amI shaa', 'Amoy shui', 'amw shue', 'AHmy siau', 'amyy shoe', 'AMie SHUW', 'AMYy SHEw', 'AOMY wywh', 'hmy shoa'}, {'ami sheo', 'imy ssha', 'Awmy siao', 'amO shao', 'aumy shii', 'AMee zywy', 'Amee SHww', 'Aomy shoh', 'AMEE SHIe'}, {'amu shao', 'Amuy shei', 'AMYy SHiw', 'amie shua', 'amI sheu', 'AWMY SHey', 'amuy shiu', 'AMOY yywa', 'awy shih'}, {'AMAY SHEY', 'Amay shiu', 'Amoy siaa', 'AMEE kauy', 'aimy shih', 'ame siah', 'auy siae', 'AMey Shey', 'ama siaw'}, {'ammy shea', 'Ammy siah', 'AWMY SHIW', 'amO shao', 'amW shuu', 'AMEy SHyw', 'AMiE gyiy', 'ahy sheo', 'AImy siai'}, {'amu shuo', 'amyy shei', 'aay siah', 'AOmy ssha', 'AMAY quhy', 'amU shao', 'Amey siaa', 'AMey SHYw', 'AMEe SHEW'}, {'Awmy shea', 'Wmy shia', 'AMIy SHow', 'amm shue', 'AMIY SHAY', 'AMie jywa', 'AMmy siae', 'amuy shoe', 'amM shah'}, {'amM shao', 'AUmy shoe', 'amU siao', 'AMmy shuu', 'emy shuh', 'AMAY qaey', 'AMeE SHEY', 'ammy siaa', 'AMUy Shwy'}, {'AMEY yyya', 'aoy shii', 'amI siaw', 'AMIY SHIW', 'Ahmy shua', 'ahmy sheu', 'AMoy SHuw', 'ami shea', 'Amyy siai'}, {'AUmy shoa', 'AMOY qyhh', 'Ammy shiu', 'AMuy SHUw', 'amay shuu', 'AWMY SHOW', 'amA shoo', 'amO shaa', 'aay siau'}, {'ame shea', 'amey shuo', 'ymy siae', 'AMEE waoh', 'AWMY SHOY', 'amA shau', 'AMMy SHyw', 'Amiy shoi', 'Amey shuh'}, {'AMIY jowy', 'amI shua', 'auy sheo', 'amO shao', 'Amay shio', 'AMEe SHey', 'aumy shoe', 'AMOy SHIw', 'Ahmy siao'}, {'AMee SHIW', 'amu shui', 'AMEE wyhy', 'ahmy shua', 'ami shaa', 'Ahmy shoe', 'AOMy SHuw', 'Wmy shuo', 'AUmy shoi'}, {'Wmy siai', 'AUmy siau', 'AMOy SHOw', 'amw shue', 'AMEe quwy', 'amI shae', 'AWmy siae', 'AMiE SHOY', 'ahmy shoa'}, {'amO shih', 'AWMy SHiw', 'aimy sheh', 'amu shaa', 'ymy shii', 'amie siao', 'Ahmy shou', 'AMIY xihy', 'AMUY SHIe'}, {'AUmy siah', 'amM shai', 'aiy shou', 'amo shue', 'amey shuh', 'AMoy SHyw', 'Aomy shiu', 'AMEY ysuh', 'AOMY SHIe'}, {'amiy siai', 'amE shah', 'Ammy sheo', 'amO sheh', 'Amey shoa', 'Nmy shoo', 'AMeE aswy', 'AIMy sioy', 'AMee SHEW'}, {'amo shau', 'Amuy sheo', 'AMuy SHyw', 'AMEY qwia', 'Ammy shio', 'AMee SHie', 'amyy shii', 'imy shue', 'amw shoi'}, {'amA siah', 'Amoy shei', 'AMie SHUW', 'umy shea', 'amM siaw', 'Amyy siao', 'AMMY wywu', 'AMYy Shwy', 'amyy shia'}, {'Amee SHEw', 'Amay siae', 'AMie wahu', 'amE siaw', 'Amiy shei', 'mmy shih', 'AMEE SHEY', 'ammy sheu', 'amW shuh'}, {'AMUY SHey', 'AMMy SHiw', 'AUMY qwwa', 'amA shoe', 'aiy shou', 'Amay shuu', 'amay shia', 'amW shai', 'AHmy shua'}, {'AHmy ssha', 'amey shia', 'AMAY yjwa', 'amI shau', 'amu shiu', 'AMIe SHOY', 'Emy shoo', 'Amey siah', 'AMEy SHWw'}, {'AMiE ysoh', 'ama shii', 'awmy shoa', 'AMIY SHIW', 'AMyy SHYw', 'Amoy siai', 'Emy shuo', 'amW shau', 'AWmy shuu'}, {'amM shai', 'AWMY SHEW', 'ayy shoh', 'amoy shio', 'amU siae', 'AMEY kayy', 'Amee SHIw', 'Aumy siah', 'amee siau'}, {'amI shii', 'AMmy sheu', 'AOmy siaa', 'AMee wwwe', 'AUMy SHEw', 'amu shaa', 'AMIE SHIe', 'Nmy shia', 'awmy shuo'}, {'AWMy Shey', 'AMUY SHAY', 'amo shuu', 'amM shau', 'ammy siah', 'Amuy shue', 'emy shou', 'AImy shoi', 'AOMY jwea'}, {'AMay SHew', 'AIMY ygwa', 'amI shue', 'amu siaw', 'AMiE SHEW', 'Amiy shea', 'Amoy shua', 'amey shoa', 'auy shuh'}, {'AMeE SHIW', 'ammy shoa', 'amM shuo', 'amo shaa', 'AMuy SHUw', 'Amoy siau', 'AWMY qwwe', 'AHmy shia', 'ymy shuh'}, {'Aumy shiu', 'omy sheo', 'AMey Shwy', 'AWMY zwwy', 'amm shaa', 'amiy shei', 'amw shoo', 'AImy shoi', 'AMie SHie'}, {'amA shai', 'AMie asey', 'amM ssha', 'AOMy SHay', 'Ammy shia', 'AWMY SHIY', 'AMmy shua', 'imy shue', 'ahmy shoa'}, {'amU shaa', 'AMoy Shoy', 'Amuy sheh', 'imy shoi', 'AIMY SHoy', 'AMYY cuwy', 'Aimy shou', 'amey shoa', 'ami shih'}, {'AMAY SHEy', 'amE shah', 'ayy shiu', 'Amoy siae', 'AMie hzho', 'amey shuu', 'amM shuh', 'amee siah', 'Amie sshy'}, {'Aumy shoe', 'AMiy SHyw', 'AMMY qyia', 'AMIE SHEY', 'amee shoo', 'amW shoa', 'umy siah', 'amM shau', 'aumy shoh'}, {'AMay SHWw', 'ama shei', 'amM shae', 'amyy siae', 'Aumy shou', 'awy ssha', 'Awmy shoa', 'AMAY SHEW', 'AMIE xwiy'}, {'amI shua', 'AMee zwuh', 'amyy siaa', 'Emy shue', 'AOmy shio', 'amee shih', 'AHMy SHiw', 'AMIe SHIy', 'ame shau'}, {'amoy shou', 'Ahmy siah', 'amu shuo', 'AMOY SHUW', 'AMYy SHEw', 'Emy shoo', 'AImy shuu', 'AUMY yayh', 'amm shau'}, {'amo shai', 'AUMY gahi', 'amM ssha', 'Ammy shua', 'Awmy shiu', 'AMey SHuw', 'AMie SHIe', 'ahy sheo', 'aomy shui'}, {'aoy shoi', 'aumy ssha', 'Aimy shia', 'ami shah', 'Awmy siao', 'AMMy sioy', 'ame shoh', 'AMiE SHIE', 'AMEe hsye'}, {'hmy shio', 'amE shoa', 'AMmy shuh', 'AWmy ssha', 'awmy sheh', 'AMie yahi', 'AMuy sioy', 'AIMY SHiy', 'amA shae'}, {'AWMY gwhy', 'amo siaw', 'ahy shii', 'Awmy siao', 'AMEy Shie', 'AMIe SHiy', 'amA shea', 'Amiy shue', 'amuy shoi'}, {'ama shui', 'Ahmy shuo', 'ahy shoh', 'AMEY SHIy', 'amM siaw', 'AMyy SHIw', 'AMUY wwoh', 'Amey shoa', 'awmy shou'}, {'aumy siae', 'AOmy shuh', 'mmy shui', 'AMMY xwhu', 'amm shou', 'amo shah', 'AMOy SHay', 'AUMY SHOW', 'Awmy shoi'}, {'Aimy shuu', 'AOMY SHOY', 'Wmy shoh', 'amee shio', 'AMIE qyya', 'amo shah', 'AMuy SHow', 'amI siae', 'amay sheu'}, {'amay shea', 'AUMY SHey', 'AMeE hyhe', 'AUmy shoh', 'Awmy shih', 'AUMy Shoy', 'ama shaa', 'amA shoa', 'ayy shii'}, {'AWMY hsyu', 'Awmy shii', 'amu shue', 'aoy shio', 'AMey SHay', 'amW shah', 'awmy shoh', 'AImy shou', 'AOMY SHIE'}, {'amW shoh', 'Emy shia', 'Amay shue', 'AMey Shiy', 'ami shae', 'aumy siau', 'AMIY SHOW', 'AOmy siai', 'AMMY wsyh'}, {'ame shio', 'AMYY SHOY', 'AMOY qqhe', 'Amuy siah', 'AHmy sheu', 'aiy siau', 'amuy siaa', 'amO shae', 'Amee SHay'}, {'AIMY gywy', 'auy ssha', 'ame siaw', 'Ammy shiu', 'AMMy Shey', 'amA sheh', 'AMOY SHie', 'Ahmy siai', 'ahmy shuu'}, {'ame shoi', 'Amoy shuh', 'AMEe ywwe', 'AMYY SHIE', 'AHmy sheo', 'awmy siao', 'AMOy SHww', 'amM shau', 'Emy shuo'}, {'AMAY SHEY', 'ama shai', 'AWMy SHew', 'Aumy siau', 'awmy sheu', 'AMIE hwya', 'aay shua', 'amO shuo', 'Amoy shue'}, {'AMIe gywa', 'AMie SHAy', 'imy shia', 'amO shae', 'amE ssha', 'Amuy shua', 'AMmy shoa', 'ahmy shih', 'AHMy Shiy'}, {'AMYY SHAY', 'amO shih', 'AMie awhy', 'Amiy siao', 'AMyy Shiy', 'Awmy shoa', 'amW shaa', 'ahmy shei', 'aoy shoe'}, {'AMIY uswy', 'Amay shio', 'Aomy siae', 'ame shiu', 'Emy ssha', 'AMEE SHEY', 'AMuy SHiw', 'amW shai', 'aumy shea'}, {'ama shui', 'amie shoo', 'amU shae', 'AMEY SHAY', 'AMey SHuw', 'ahmy sheu', 'AMAY cwia', 'mmy shea', 'Awmy shuo'}, {'aumy siah', 'amW sheh', 'AWmy ssha', 'Amiy shoe', 'amw shae', 'Wmy shui', 'AIMY qiwy', 'AUMy SHew', 'AMIe SHie'}, {'ammy shea', 'mmy shoo', 'AMEY SHOY', 'Awmy siau', 'AHMY zihy', 'AMuy Shwy', 'amie shio', 'amE shia', 'amm shae'}, {'AMMY SHAy', 'mmy shoh', 'amE shaa', 'AImy shuh', 'AMIY qwhy', 'AMoy SHOw', 'amo shue', 'Amiy shou', 'aumy shoe'}, {'amee sheo', 'amO shoh', 'awmy shoi', 'ami shau', 'AHMY SHAY', 'hmy ssha', 'Ahmy shio', 'AMiE gaey', 'AMUy SHIw'}, {'Aumy shiu', 'ahmy siai', 'AMey SHew', 'AMYY kohy', 'amI sheu', 'amw shau', 'AHMY SHEW', 'Emy siae', 'Amuy shuo'}, {'AMeE jwhy', 'amE siah', 'AMOy Shwy', 'AUmy shia', 'AWMY SHIY', 'amoy shea', 'amee sheh', 'nmy shuh', 'ame shao'}, {'AMAY SHOY', 'AMEE hwhu', 'AMIy Shwy', 'ama siai', 'amW shah', 'amyy sheo', 'Aimy shoo', 'ayy shii', 'Ahmy siae'}, {'AWMY SHIy', 'amE shai', 'aumy shou', 'AMYy SHew', 'Ahmy shei', 'amo shia', 'amee siah', 'AMEE jahh', 'aay siao'}, {'AUmy shei', 'amey sheo', 'AMEe yahy', 'AMoy SHyw', 'umy shoo', 'AMiE SHie', 'amO shaa', 'amm shea', 'AHmy shua'}, {'AMOy sioy', 'amw siah', 'AIMY cywe', 'amo shao', 'Aomy shue', 'amyy shii', 'Amiy siae', 'AMIE SHYW', 'umy sheh'}, {'aumy sheo', 'auy shoo', 'AOMY SHUW', 'Awmy shuu', 'Ahmy siah', 'AMee hyhh', 'AMUy SHEw', 'amm shau', 'amu shuh'}, {'aumy sheh', 'wmy shoo', 'Ammy sheu', 'AMIy SHow', 'AOmy shiu', 'ama shuu', 'AMIY SHOW', 'amm shai', 'AIMY cywa'}, {'ymy sheu', 'AUMY SHoy', 'amyy siaa', 'AMiE wahu', 'amU siaw', 'Amuy shua', 'AMIy Shie', 'AImy shei', 'amO shiu'}, {'AHMY SHey', 'wmy shuo', 'Awmy shii', 'amu shae', 'ammy shui', 'amo shio', 'AUMy SHww', 'AUMY cihy', 'Aumy siao'}, {'omy shoe', 'AOmy sheo', 'AMMY ywwy', 'AMay SHYw', 'Amey shoa', 'ama shae', 'amu shii', 'AMEY SHie', 'amyy shiu'}, {'Emy sheh', 'AMUY xyyh', 'Amiy siao', 'amyy ssha', 'AUMy Shiy', 'amI shah', 'Amey sheu', 'ame siaa', 'AMiE SHIY'}, {'amI shao', 'AMYY SHey', 'Emy siau', 'AMIY wwyh', 'amw ssha', 'Aimy shea', 'amuy shuo', 'AImy shoh', 'AMIy Shie'}, {'amiy siai', 'ymy shoa', 'AMEe xehh', 'AIMY SHAy', 'amm shou', 'amie shia', 'AMOy SHiw', 'Amyy shoi', 'amu shai'}, {'Aumy shoa', 'amI shua', 'AMee SHEy', 'AUMY wuwy', 'amyy sheh', 'Aomy shoh', 'AWMy Shoy', 'ame shaa', 'aay shue'}, {'amu shua', 'AMMY kahi', 'AOMY SHOW', 'amie shue', 'amW shah', 'aumy shia', 'Wmy shuh', 'Aomy siae', 'Amie Shey'}, {'AMIe SHey', 'amA ssha', 'Ahmy sheo', 'Amey siaa', 'aumy shiu', 'Wmy siao', 'amW shao', 'AMAy SHiw', 'AMIY xwwa'}, {'aimy shii', 'Wmy shoh', 'AWmy shou', 'amA shao', 'amI shei', 'Aomy siaa', 'AMOy SHuw', 'AMYY SHie', 'AIMY hzhy'}, {'AMmy shou', 'AMEe SHOY', 'amee sheu', 'AMIy SHOw', 'amyy shio', 'Emy shoh', 'amA sheh', 'AMie qahy', 'amw shah'}, {'amE siae', 'amoy shou', 'AMIE SHAy', 'amM shai', 'AOMY wihh', 'omy sheu', 'AMmy siah', 'AHmy shiu', 'AMyy SHEw'}, {'AWMY SHIy', 'Amay shei', 'AMIE gwwa', 'Aimy shoh', 'aoy siai', 'amo shoi', 'AWMy SHOw', 'amM shah', 'amuy ssha'}, {'AOMY SHAY', 'AMmy shue', 'amE sheh', 'Awmy sheo', 'AMAy Shiy', 'AMeE jyey', 'amay siae', 'amm siaw', 'aay siai'}, {'AMUY yyhh', 'wmy siah', 'amI shaa', 'Aomy shui', 'AHmy shea', 'Amee sshy', 'AMiE SHAY', 'ama shuu', 'ammy shou'}, {'aimy shii', 'AMAy Shoy', 'AMMY SHIe', 'amw siah', 'amO shah', 'AMie cyhu', 'Aimy shoo', 'amie siao', 'umy siau'}, {'amO shia', 'Emy siaa', 'Awmy sheu', 'AMOy SHww', 'ama shaa', 'AMOY gwwa', 'Amiy shii', 'amoy shuh', 'AMUY SHOy'}, {'amw shui', 'AUMy Shey', 'Wmy shoe', 'AMEE kohy', 'ama shai', 'AWmy shei', 'AMIE SHOY', 'Ahmy siae', 'amay shih'}, {'amE sheu', 'amoy shua', 'Awmy shea', 'AMeE SHie', 'AMey SHyw', 'awy sheo', 'Amiy shiu', 'amA siaw', 'AHMY qwoy'}, {'AMEE qwhy', 'Amey shuu', 'AMmy shiu', 'amI shah', 'ayy shue', 'AMEy sioy', 'AWMY SHEY', 'ammy sheh', 'amW shou'}, {'AUmy shua', 'amm shuo', 'AMAy Shwy', 'Emy shii', 'AIMY SHOY', 'amU shae', 'AMOY wwhy', 'AImy shoi', 'aomy shui'}, {'ymy shuo', 'amoy shoo', 'AMuy SHYw', 'AMMY SHIY', 'AMiE yswy', 'amw siai', 'ame shau', 'Amuy shoi', 'Aimy shoa'}, {'AHMY SHey', 'Ahmy shuu', 'AMAY wyuy', 'aimy shiu', 'amA shae', 'hmy siaa', 'Amee SHyw', 'AUmy shei', 'amM shue'}, {'AMMY zwhy', 'amu siao', 'auy siaa', 'AMEE SHoy', 'Awmy shua', 'Aomy shea', 'amey shoh', 'AHMy SHUw', 'amW siaw'}, {'AMEE SHOy', 'AMIE wswe', 'Ahmy shio', 'AMIy Shie', 'hmy siai', 'amyy shih', 'ama shae', 'amM shoe', 'Amey shuh'}, {'imy ssha', 'amyy sheo', 'AHmy shoh', 'AIMy Shwy', 'AMeE SHIy', 'AMOY kihh', 'Awmy shua', 'amI shah', 'amE shei'}, {'AMeE ccwa', 'AMuy SHEw', 'AMMY SHey', 'Amoy shiu', 'omy shuu', 'amW shoe', 'aomy sheo', 'amM shaa', 'Aumy siai'}, {'aimy siao', 'Amuy shih', 'amo shai', 'Awmy shii', 'AMUY ywia', 'AMYy SHIw', 'umy siae', 'AMYY SHIW', 'amI shui'}, {'amo shau', 'AMEE yiwy', 'aumy shoo', 'AMAy Shie', 'aiy shoi', 'Amuy shoe', 'amO shuh', 'Amey shiu', 'AWMY SHOW'}, {'amA shou', 'AOMY SHUW', 'amI shau', 'AMEe jywy', 'umy shoe', 'AMIy SHww', 'AHmy shui', 'ammy siai', 'AWmy sheu'}, {'AIMY xahy', 'AMoy Shwy', 'Amuy shuu', 'ammy shei', 'amie shih', 'aoy siaa', 'AMIe SHAY', 'amm shah', 'amU siah'}, {'wmy shia', 'AHMY ywoh', 'amee shoo', 'aimy shui', 'AMIE SHAY', 'Ammy shea', 'ama siaw', 'AIMy Shey', 'amW shuh'}, {'amm shoe', 'AWmy shia', 'amu shae', 'amyy shoh', 'AMOY kowy', 'AMOy SHow', 'AUMY SHAY', 'Wmy siao', 'Aimy shue'}, {'Amoy shoe', 'Aomy ssha', 'AOMY SHAY', 'umy shuu', 'aimy shui', 'amE shea', 'AMAy Shiy', 'amA siaw', 'AMAY yash'}, {'amI siaw', 'AMie zihy', 'AOMy Shoy', 'Aimy shoh', 'amiy sheo', 'AOMY SHOy', 'Ahmy shoi', 'ayy shio', 'amu shei'}, {'amo shao', 'amey shou', 'awy ssha', 'Aumy shue', 'AOMY juwy', 'AMMy SHww', 'amO shoa', 'AMOY SHAy', 'Aomy shua'}, {'amie shoo', 'Emy shue', 'ami shaa', 'AMAy SHOw', 'AMeE yswe', 'ama shuo', 'amuy shoe', 'AMIE SHie', 'Aimy siau'}, {'amO siaw', 'AHMY SHIE', 'AMOy SHyw', 'amI shuu', 'Aomy shuh', 'wmy shoi', 'AMIY yuwa', 'Awmy shia', 'ammy siai'}, {'mmy shia', 'amw shua', 'AMEE yuwa', 'ama shaa', 'AMey SHow', 'Amyy siah', 'ammy siai', 'AIMY SHOy', 'amie shiu'}, {'awmy shiu', 'AMmy shui', 'amI siaw', 'AWMy sshy', 'Emy shoh', 'amm shue', 'AMEY kiwy', 'Amiy shei', 'AMAY SHOY'}, {'AWMY quwa', 'AMIE SHiy', 'amE shaa', 'nmy siai', 'Ahmy siaa', 'ame siae', 'AUMy sioy', 'Amay ssha', 'amay shui'}, {'AMYY xwwe', 'AMMY SHOY', 'AOmy shio', 'AMey sshy', 'aomy siah', 'wmy shiu', 'amE shei', 'ame shaa', 'Amuy shoi'}, {'amw sheh', 'amee siah', 'amie shii', 'AOMy SHow', 'ahmy siaa', 'wmy shuu', 'AMOY cwya', 'ami shao', 'AUMY SHOy'}, {'AMEe SHEY', 'amU sheo', 'AMIy Shwy', 'AMOY wuwy', 'Amay shea', 'Amuy siai', 'aumy shia', 'omy shoi', 'amu shaa'}, {'AImy shii', 'AUMy SHow', 'amee shei', 'aumy shia', 'AHMY wywh', 'mmy ssha', 'AMUY SHAy', 'amm shao', 'amM shiu'}, {'amey shio', 'ame shuu', 'AHmy shih', 'AMie SHAY', 'AWMy SHew', 'AMOY ygwa', 'AUmy shoh', 'ymy shoo', 'amm shae'}, {'AWmy shoo', 'amuy siah', 'AMeE SHIe', 'Ahmy shiu', 'Emy shih', 'amE shau', 'ame shoa', 'AMAy SHiw', 'AMOY zwwy'}, {'aomy shii', 'amA shuh', 'Aumy shiu', 'AMIe hwyh', 'AMOY SHoy', 'ami shaa', 'Aomy siau', 'AMIy SHWw', 'aoy shoe'}, {'AOMY xewa', 'ayy shuh', 'amie shia', 'ama shah', 'AOMy sshy', 'AMee SHYW', 'amey siah', 'Ahmy siae', 'amI shii'}, {'AIMY kehy', 'AOMy sioy', 'aumy shih', 'amA shae', 'AMIY SHIY', 'AOmy shoh', 'amm shia', 'aay ssha', 'Amey shou'}, {'amI shia', 'ayy shiu', 'aumy shua', 'AMmy shoo', 'AMie SHUW', 'amo shah', 'AMMY gyiy', 'AMiy SHiw', 'AHmy siaa'}, {'amM shaa', 'AOMY SHAY', 'AMAy sshy', 'AWMY xwwe', 'hmy shui', 'amay sheo', 'amm shuu', 'AImy siai', 'Ahmy siae'}, {'AIMY SHOy', 'AMmy siai', 'amu shuu', 'Amiy siaa', 'AMYY hsyh', 'ahmy sheh', 'amO shaa', 'ayy shoe', 'AMey SHOw'}, {'amu shui', 'aimy shuu', 'Amuy sheu', 'AWMY kayy', 'AMMY SHEY', 'amo shah', 'AMYy Shwy', 'Amiy shoa', 'Wmy sheo'}, {'amU shau', 'ame sheo', 'aomy siao', 'Aumy shia', 'AUMY hwoh', 'AMuy SHow', 'Nmy shoa', 'amee shii', 'AMiE SHey'}, {'awmy shiu', 'amee shoh', 'AMuy SHWw', 'AMie SHIE', 'amI shih', 'amw shao', 'AMiE xyhu', 'AHmy shoo', 'umy shua'}, {'omy shoo', 'AMEe zahe', 'amo shai', 'AMMy Shoy', 'amM ssha', 'Amiy siaa', 'AImy shoh', 'AMiE SHIE', 'amuy shua'}, {'amW siau', 'AMAY SHEY', 'Aumy shuo', 'awy ssha', 'AUMy SHOw', 'AMie yyyh', 'amw shai', 'amoy siae', 'Amoy shii'}, {'amo shau', 'AIMY SHYW', 'amW shua', 'AMuy SHOw', 'amoy ssha', 'Amey shih', 'Aomy siah', 'AMUY yywi', 'omy shea'}, {'aumy sheh', 'AMeE SHWW', 'nmy siao', 'Amuy siaa', 'amo sheo', 'amee shui', 'AMyy SHow', 'AMEY yyhi', 'amW siaw'}, {'AMmy shuo', 'mmy siaa', 'AMYY yzhi', 'amO siao', 'amey shui', 'Amey shoa', 'AMOY SHOY', 'amm shah', 'AMAy SHIw'}, {'amE shah', 'Amyy shio', 'AWMY SHYW', 'aiy shui', 'AMEy SHUw', 'AOMY yayy', 'AMmy siah', 'ami sheh', 'aimy siau'}, {'AOMY SHAY', 'AMIy SHEw', 'ame shah', 'Aumy shoo', 'AMIe gwwa', 'amM shua', 'Emy shoi', 'amiy shia', 'amie shiu'}, {'Amyy shua', 'amw siau', 'Amee SHWw', 'AMMY SHYW', 'AMOY hyuy', 'AMmy shih', 'amW shao', 'ahmy siah', 'ymy shou'}, {'amA shai', 'ayy shoi', 'AUMY jihy', 'Amie SHuw', 'amI sheu', 'AMmy shea', 'AMIY SHIY', 'aomy siah', 'AUmy siai'}, {'nmy shii', 'aumy sheo', 'amE shai', 'AOMY zaoh', 'AOMy SHUw', 'amU siae', 'AOmy shoi', 'AHMY SHIY', 'AWmy shoe'}, {'mmy shei', 'AOmy shua', 'amie sheh', 'amU siaa', 'AMEe kwhh', 'AMYY SHIW', 'AMYy SHww', 'ama siaw', 'ahmy shiu'}, {'amo shae', 'AHMY wuwy', 'Amee Shey', 'aumy shii', 'AWMY SHIY', 'amee siah', 'ahy sheo', 'AImy shuo', 'amw shih'}, {'amU shuu', 'AIMy SHew', 'AMOY qyhh', 'AMIE SHOy', 'aomy siao', 'AMmy shiu', 'emy shii', 'Amiy shoh', 'amu shah'}, {'AWmy shoi', 'AMIy SHay', 'aey shoa', 'AIMY SHUW', 'AMie kahe', 'Aimy shii', 'aimy shia', 'ami siaw', 'amM shoe'}, {'AMYY SHUW', 'auy shoi', 'Amyy sheh', 'AMEe wkwa', 'AMUy sioy', 'ami shae', 'AOmy sheu', 'amO shuh', 'amay shui'}, {'amU shau', 'awmy siai', 'amw shia', 'Awmy sheh', 'Ammy shuu', 'emy shio', 'AMUy SHEw', 'AMiE zehy', 'AMIY SHEy'}, {'Aomy shou', 'AOMY SHey', 'amI shau', 'awmy shih', 'AMuy SHyw', 'AMmy shiu', 'umy sheu', 'AMiE wswy', 'amE sheo'}, {'AIMY SHAY', 'amA shaa', 'aiy shoe', 'AMiy SHay', 'AMIE hxho', 'amI shio', 'ahmy shea', 'Amuy shui', 'Amey shiu'}, {'ame shui', 'Amyy shuo', 'aimy siaa', 'AWmy shea', 'AOMy SHuw', 'ama shau', 'AMYY SHoy', 'awy shei', 'AMEY jwya'}, {'AMIe SHUW', 'amI shoe', 'AMmy siai', 'amE shau', 'AHmy shuh', 'Amee SHEw', 'imy siao', 'AHMY akhy', 'amiy sheu'}, {'aiy shih', 'AMay SHEw', 'amW siae', 'AMYY SHEy', 'amM shai', 'Ahmy shuh', 'Amiy shua', 'AMie cuwa', 'amay ssha'}, {'AOMY SHIY', 'AMMY quhy', 'amI siaw', 'Nmy shue', 'awmy shuu', 'Aimy shui', 'AHMy Shie', 'Amiy ssha', 'amO shiu'}, {'aimy shoh', 'amw shue', 'AOmy sheu', 'AMiy SHay', 'ama shae', 'Ammy shui', 'AIMY yaih', 'AMeE SHOY', 'awy shoe'}, {'AMEy Shoy', 'AOmy shih', 'amI shue', 'amee shoh', 'AMie SHYW', 'amW shaa', 'AMiE ysey', 'ahmy ssha', 'Nmy shuh'}, {'Wmy shio', 'Amyy shue', 'amoy shui', 'AMeE SHOW', 'Amoy shoo', 'amu shii', 'AMUy Shey', 'AMYY wswu', 'amO shau'}, {'amyy shii', 'AMie SHIY', 'AMYy SHew', 'ahy shih', 'ami shai', 'Amiy siaa', 'AMOY kyih', 'Aomy sheh', 'amI shea'}, {'AMee SHiy', 'amoy shoh', 'AWmy sheh', 'aay sheo', 'AHMy SHww', 'AImy shoa', 'amO shae', 'amA shiu', 'AMMY hsoh'}, {'amm shuo', 'AMee SHEy', 'aoy shuu', 'amee shio', 'Amee SHuw', 'amey shoh', 'AUMY qyhh', 'AMmy shih', 'amW shau'}, {'amU shau', 'Aimy shuu', 'amM shei', 'AMie SHiy', 'aey shoo', 'Amyy shea', 'AMMY ysey', 'awmy shio', 'AMey Shie'}, {'Amoy shih', 'amI shao', 'AMUY hyuy', 'AMmy shea', 'AMOy Shoy', 'aiy shoh', 'AMIE SHIe', 'amM siau', 'amoy shoe'}, {'aumy sheo', 'AHmy siae', 'amu siao', 'AMEE jyih', 'emy shuu', 'AMEy SHay', 'amm shae', 'amie shuh', 'AMUY SHWW'}, {'AUMY SHUW', 'ama shai', 'amW shoh', 'amyy shio', 'aey shue', 'AIMY yiwy', 'Awmy shou', 'AMIy SHYw', 'AMmy siaa'}, {'AMOY SHEy', 'amO shih', 'AMay SHww', 'Ammy siai', 'AUMY jwya', 'AHmy shii', 'wmy shea', 'amuy shei', 'amA shah'}, {'AMeE qaey', 'amI shia', 'amW shah', 'AMYy SHay', 'AImy siao', 'ayy shue', 'AMIE SHOY', 'Ammy shii', 'aomy shou'}, {'Amay shoa', 'amm shoe', 'amE shah', 'AMIE SHWW', 'AMuy Shey', 'AMiE zyey', 'ahy shia', 'amey shiu', 'amie shea'}, {'Wmy shoe', 'AHMY yjhi', 'AMie SHEW', 'ame shia', 'Ahmy sheu', 'AUmy ssha', 'ami shao', 'amiy shou', 'AMoy SHIw'}, {'aey shua', 'ahmy shoo', 'Amyy siaa', 'AOMY zahi', 'ame shai', 'amI siai', 'AMIy SHWw', 'AMIE SHEW', 'Amay siao'}, {'ama sheu', 'AMYY wsey', 'amyy shoh', 'AMIy SHOw', 'amu shau', 'emy shuo', 'AHmy shuu', 'AMie SHEW', 'AImy siah'}, {'amoy shuo', 'AOMY SHAY', 'AMEE akhy', 'AWMy SHww', 'nmy siao', 'amO shao', 'Amay ssha', 'AImy sheo', 'amw siae'}, {'amE shae', 'Emy shoh', 'Amiy shea', 'aomy shoe', 'amU ssha', 'AHMY ajwy', 'AMIE SHEy', 'AMUy Shoy', 'Aumy shuu'}, {'amU shau', 'amee shea', 'ammy siao', 'AMYY yyeh', 'emy shoa', 'Amee SHIw', 'Ahmy shue', 'AUMY SHWW', 'amw siau'}, {'Aumy shoa', 'amW siai', 'Nmy shou', 'amu shae', 'AUmy shuo', 'AMIE SHWW', 'AMie yayh', 'amiy shii', 'AHMy Shoy'}, {'amo shau', 'AMiE SHEY', 'Emy shiu', 'ahmy shuh', 'amee shuu', 'Ahmy shio', 'AHMY waoy', 'AMyy SHyw', 'amI shou'}, {'AMIY yyuh', 'AMey Shwy', 'amyy shou', 'Ahmy shua', 'awy siao', 'amU shao', 'amo sheu', 'Amay shio', 'AMAY SHEW'}, {'AOMY SHUW', 'ahy siai', 'Ahmy siah', 'amA sheu', 'amu shae', 'ammy shuo', 'AHMY ccwa', 'AMAy SHWw', 'Amuy shio'}, {'amm shuo', 'awy shoh', 'Amay shoo', 'AUmy shou', 'AMiy SHOw', 'AOMY SHYW', 'AMIY yyeh', 'amA shau', 'amyy siao'}, {'amee shei', 'Amyy sheo', 'AMEE yayh', 'amA shae', 'AMIY SHIE', 'AMEy sioy', 'mmy shuo', 'amM sheh', 'amuy ssha'}, {'ami sheo', 'AMie SHOW', 'AMEE jwwa', 'omy shih', 'Aimy siao', 'aomy shoe', 'amA shah', 'Amoy shuo', 'AMMy SHuw'}, {'AOMy SHEw', 'Ahmy shoe', 'AHmy shio', 'AMEE SHUW', 'AMEY hsiy', 'amw shoa', 'ymy siao', 'aimy sheh', 'ame shau'}, {'AIMY SHWW', 'AMAy Shey', 'ami shiu', 'amI shae', 'AImy siaa', 'amay shoi', 'Aomy shoo', 'AMiE jyey', 'Wmy shei'}, {'AMEE SHAy', 'amie sheu', 'amu shue', 'Amoy shei', 'AHMY ywoh', 'amO shao', 'amey shuh', 'AOMy Shiy', 'Wmy siae'}, {'amiy siai', 'AMIE SHOW', 'AWMY hgho', 'AMmy shoo', 'AImy shiu', 'Amee SHuw', 'amW shea', 'aiy sheu', 'amo shae'}, {'AMEe SHEY', 'amu shao', 'AUmy shoo', 'amoy shii', 'AMiy SHWw', 'Awmy shoe', 'amO shio', 'AMOY wwwa', 'Emy shuh'}, {'hmy shio', 'AMmy siai', 'AMUy Shiy', 'amA shiu', 'ammy siah', 'Amey siaa', 'amw shai', 'AMYY jehh', 'AMUY SHIY'}, {'aumy siae', 'Ahmy shuo', 'amI shaa', 'AHMy SHew', 'AMUY aghy', 'AMEY SHIY', 'ahy sheo', 'Amey siah', 'amO sheu'}, {'AOmy shua', 'Amie SHYw', 'AUMY SHUW', 'ami shaa', 'amay shuo', 'AMIE gahh', 'amo sheh', 'nmy shoh', 'Aomy shoi'}, {'amm siao', 'AMEY ayhh', 'aomy siaa', 'Ahmy shoo', 'AOMY SHiy', 'auy siae', 'ame shau', 'AIMy SHIw', 'Aomy shii'}, {'amU sheo', 'amay shuh', 'aoy shua', 'Amuy shou', 'AOMY SHYW', 'AUMY hsyo', 'ama shau', 'AUMy sioy', 'Amey siae'}, {'awy siai', 'Aumy shei', 'aumy shih', 'Awmy shua', 'Amee SHOw', 'AWMY SHiy', 'amu shia', 'ama shao', 'AIMY yohh'}, {'amie shoa', 'AMOy SHOw', 'Aomy sheo', 'ammy shei', 'AMee gahh', 'AUMY SHIY', 'omy siau', 'ami siaw', 'amo shea'}, {'AMiE SHYW', 'amE sheh', 'AWmy shea', 'amyy shoe', 'AMee qwwi', 'umy siae', 'AUMy Shwy', 'ama siaw', 'amee siau'}, {'AMIe SHUW', 'amw shii', 'Amay shoo', 'Ahmy shoe', 'AMoy SHOw', 'ammy shoh', 'ama shaa', 'Emy ssha', 'AMEE hyhe'}, {'amW siah', 'aoy sheo', 'aomy shoa', 'Amie SHow', 'Amoy siai', 'amI shah', 'Aomy shih', 'AMAY SHOy', 'AMIY qwhu'}, {'amO siaw', 'AMEE SHiy', 'ayy sheo', 'AMyy SHIw', 'Aomy shuh', 'ama siau', 'AMeE xyya', 'AImy siai', 'amuy shio'}, {'amU shaa', 'hmy shih', 'AWmy sheh', 'AMEy SHuw', 'AUMY kuwa', 'aimy shuo', 'amm shou', 'AMie SHIe', 'Amoy shoa'}, {'Aumy sheu', 'amA shaa', 'AMoy SHow', 'ammy shuo', 'AMIY SHOY', 'amo shii', 'ayy siae', 'AMEY wswu', 'Ahmy shui'}, {'amI shao', 'amO shoe', 'aumy shuh', 'AMUY SHUW', 'auy shih', 'Amiy shiu', 'AMIy SHIw', 'Amuy ssha', 'AMEe qihy'}, {'AIMY hcho', 'Wmy shoh', 'amA siah', 'Ahmy shea', 'amM shau', 'AWmy sheo', 'amiy shuu', 'AMEE SHAY', 'AMUy SHWw'}, {'Amuy shia', 'amu siaa', 'AMee SHOY', 'imy shoa', 'amO shao', 'AImy shiu', 'AMYY yihy', 'ammy siae', 'AHMy Shoy'}, {'omy shui', 'Amyy sheo', 'AMYy SHuw', 'Aimy shoe', 'amuy sheh', 'amO shoo', 'ama shaa', 'AMMY SHOy', 'AMEe wyoh'}, {'amm shoo', 'emy shuo', 'amuy shui', 'AMOY cwwa', 'amI shae', 'Ahmy sheu', 'AMMY SHIW', 'AWMy SHOw', 'Aimy siau'}, {'Amoy shuh', 'amO shai', 'AMmy siai', 'amoy shui', 'AWMY SHOY', 'AMeE qiwa', 'AMOy sioy', 'ame shuo', 'Wmy shue'}, {'aimy siaa', 'amE shaa', 'AMeE cwhi', 'AUmy shui', 'AMYy SHIw', 'amM shua', 'Awmy shoh', 'AMee SHie', 'umy sheh'}, {'amu shua', 'amiy shoe', 'AOMY SHey', 'ayy siau', 'AHmy shoi', 'AMOY zyhu', 'amO shaa', 'Ammy siao', 'AUMy Shie'}, {'aimy shui', 'awy siao', 'amA shae', 'Amuy siae', 'amO shoo', 'AMoy SHww', 'Amiy ssha', 'AIMY SHAy', 'AMeE xahe'}, {'Amey shoo', 'amE shah', 'AMey Shoy', 'amu siaa', 'AUMY SHAy', 'Amuy shuu', 'aomy shih', 'Emy shua', 'AMeE xywi'}, {'aomy shoh', 'AOMY kwuy', 'amie sheh', 'Amie sioy', 'amE shea', 'amA siaw', 'AMEe SHIY', 'ahy siaa', 'AUmy sheo'}, {'ama shui', 'amE shah', 'amyy shoo', 'AMEe ygwa', 'mmy siao', 'Amuy shuo', 'AMie SHOY', 'AHMy Shoy', 'AUmy shiu'}, {'Amyy sheh', 'Amoy shei', 'aay siah', 'amuy siaa', 'ame siao', 'amO shah', 'AMEe SHOW', 'AWMY kwyh', 'AMEy SHay'}, {'AMEE SHOW', 'amyy shoi', 'AHmy shuu', 'AMUY xyhy', 'amO siah', 'AMoy SHWw', 'Amay ssha', 'nmy siau', 'amM shah'}, {'AMie hsye', 'Wmy shoa', 'AMIe SHEY', 'Amoy siai', 'ami siao', 'AMUy SHuw', 'Aomy shea', 'ammy sheu', 'amu shah'}, {'AUmy shoa', 'omy sheo', 'aomy shuh', 'amw shei', 'AMUY SHiy', 'AMEY wywi', 'ami shao', 'Aimy shih', 'AOMy SHew'}, {'AWMY hyhi', 'ami shai', 'aiy shue', 'amI siao', 'aomy siaa', 'AMee SHUW', 'AImy shuu', 'AMyy SHay', 'amee shuo'}, {'AMUY SHey', 'ame siaw', 'imy sheo', 'AOMY yyuy', 'amu sheu', 'Amiy shoo', 'Amay shui', 'amiy shoi', 'AMEy SHWw'}, {'amA shai', 'Amyy sheu', 'wmy shua', 'Amiy shuo', 'AWMY SHEW', 'amm sheh', 'AMYy Shiy', 'AMMY yswi', 'ahmy shio'}, {'Amiy shio', 'AMOY wyho', 'AMIY SHAy', 'Amuy siae', 'AOMy SHUw', 'amo shou', 'amm shau', 'amay siaa', 'emy shia'}, {'AMee SHiy', 'ahmy shou', 'omy sheh', 'AMMY ywia', 'AMOy SHow', 'amW shaa', 'AWmy shei', 'Aomy siae', 'amE siaa'}, {'amI shuh', 'amoy shiu', 'ahy shoe', 'AMIy Shoy', 'AUMY SHIe', 'amm siaw', 'AMYY kwwh', 'Amay siaa', 'AUmy sheo'}, {'amM siai', 'AIMY SHUW', 'amW shah', 'AHMY gyey', 'awmy shih', 'Aumy shuh', 'AMyy SHiw', 'Emy shua', 'Aimy shoa'}, {'Amiy shio', 'AMMY SHIe', 'AMEE wseh', 'amee sheu', 'ame shah', 'AMUy SHay', 'umy shia', 'ahmy shih', 'amu shoo'}, {'AMiE kyyh', 'Amuy shei', 'ame shae', 'Aomy shuo', 'amW shuu', 'aimy siau', 'AUMY SHiy', 'wmy shio', 'AMiy SHUw'}, {'amA shaa', 'AMEE SHWW', 'aimy shui', 'Amuy shou', 'AMMy Shwy', 'AMYY qwoh', 'amO shue', 'AUmy siai', 'ymy shih'}, {'amo shau', 'amoy shoh', 'Aimy shoi', 'AMIY hzhe', 'wmy shea', 'AImy sheh', 'AMIE SHUW', 'AOMy SHIw', 'ami shih'}, {'Amuy shoo', 'AMYy SHOw', 'amu shao', 'AMIe SHoy', 'amoy shuu', 'amI siai', 'aey shii', 'Amey shih', 'AMiE jwhh'}, {'amay shea', 'awy siao', 'AMIY SHAy', 'AMYy Shwy', 'AMiE caey', 'Aumy sheu', 'amm shai', 'Awmy shue', 'ama shuh'}, {'ame shea', 'AMey sioy', 'emy shiu', 'Aimy siah', 'amiy shuh', 'AMEe SHOy', 'Amiy shei', 'amo shae', 'AMIE gahi'}, {'ammy shuu', 'Wmy siai', 'AMIY SHIW', 'AMey SHyw', 'Aimy shoo', 'Amoy siao', 'ama siaw', 'AMYY ywwy', 'amU shio'}, {'AIMY SHOy', 'AWmy shou', 'AOMy Shoy', 'ammy shei', 'amee siao', 'AMUY cowy', 'auy sheh', 'amM shoo', 'ami siaw'}, {'amay shou', 'amo siaw', 'AMee wswe', 'AMIE SHoy', 'AHmy shio', 'amO sheh', 'Aimy shoo', 'AMiy SHew', 'imy siai'}, {'ama shoh', 'AIMY SHAY', 'amM siaw', 'awy ssha', 'amee shou', 'AMYy Shwy', 'AMmy sheo', 'ammy siaa', 'AMIe qaih'}, {'amay siao', 'aiy siaa', 'AMee SHEY', 'amw shau', 'amA shea', 'AMIY zyhy', 'AImy shuu', 'AUMy SHyw', 'Amey ssha'}, {'AMOY gywe', 'aay shoi', 'Aumy sheu', 'AUmy shio', 'AWMy SHiw', 'amo shah', 'amay shui', 'amM shoe', 'AHMY SHIW'}, {'Aomy ssha', 'ami sheo', 'AMie yyuh', 'Ammy shih', 'amey siau', 'AMEY SHoy', 'amU shai', 'AIMy SHww', 'nmy shoi'}, {'AMeE jywa', 'amE shoa', 'AIMY SHoy', 'AIMy SHOw', 'aey shio', 'ahmy siau', 'ama shaa', 'AUmy shiu', 'AOmy shoo'}, {'amO shai', 'amw shuu', 'AMUy Shiy', 'Amuy shoe', 'AHMY ycwa', 'ahy shio', 'AUMY SHOy', 'Awmy shue', 'amuy shua'}, {'AMUy Shwy', 'AOmy shoi', 'AMie SHOW', 'aoy shio', 'AOMY qwhy', 'amo shah', 'amM shea', 'Aomy siai', 'amuy ssha'}, {'AMEE qaey', 'aay shea', 'amW shae', 'Aumy shei', 'AOMy Shoy', 'AMOY SHAY', 'awmy sheu', 'amE shuu', 'Ammy shue'}, {'AMEy Shwy', 'AHmy shea', 'ame siaw', 'aoy shuh', 'Amey shoh', 'ammy shuo', 'amm shue', 'AMIY xehy', 'AMiE SHIW'}, {'Awmy shii', 'amu siao', 'awy shoh', 'Aimy shei', 'amM siaw', 'AMOy SHww', 'aomy siah', 'AHMY SHoy', 'AIMY wsyh'}, {'amU shuu', 'AOMY zwwy', 'amie shui', 'ame shai', 'AImy siau', 'wmy siaa', 'AMOy Shwy', 'amyy shia', 'AMeE SHEY'}, {'umy shuo', 'AMie SHUW', 'ame siao', 'AOmy sheo', 'AMmy siah', 'amoy siaa', 'ama shah', 'Amie SHyw', 'AMOY qwoy'}, {'AMMY kwuh', 'AMiy sioy', 'amm siao', 'AMYY SHWW', 'ymy shua', 'Amay shui', 'AImy sheh', 'aimy siai', 'amM shah'}, {'AMeE SHWW', 'Amuy siah', 'umy shea', 'AOmy sheo', 'AMiy SHEw', 'amo shah', 'AMYY gywy', 'amE shoh', 'amoy shoe'}, {'AMEY SHIy', 'awy shue', 'Ammy shou', 'aimy shoa', 'AHMy SHiw', 'Amyy shia', 'AMIY zwwh', 'amu shaa', 'amM siae'}]
+amy shaw            : DEBUG: Additional rule variations: {'aym shaw'}
+amy shaw            : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 10
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "amy shaw": {
+            "first_name": {
+                "score": 0.9093504192462538,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.9888888888888889,
+                        "orthographic": 0.9777777777777777,
+                        "combined": 0.9833333333333334
+                    },
+                    "count": {
+                        "actual": 9,
+                        "expected": 6.3,
+                        "score": 0.7956694616416928
+                    },
+                    "uniqueness": {
+                        "unique_count": 9,
+                        "total_count": 9,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 0.6666666666666666
+                    },
+                    "variations": [
+                        {
+                            "variation": "ahmy",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.3333333333333333
+                        },
+                        {
+                            "variation": "Amoy",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.3333333333333333
+                        },
+                        {
+                            "variation": "amO",
+                            "phonetic_score": 0.7152680080996864,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ayy",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "Ammy",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.3333333333333333
+                        },
+                        {
+                            "variation": "AMEe",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.3333333333333333
+                        },
+                        {
+                            "variation": "AMuy",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.3333333333333333
+                        },
+                        {
+                            "variation": "amw",
+                            "phonetic_score": 0.7152680080996864,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "AMUY",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.3333333333333333
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.935940390501282,
+            "final_score": 0.9487523124010255,
+            "variation_count": 10,
+            "non_rule_compliant_variations_count": 9,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.9593504192462539,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.9888888888888889,
+                        "orthographic": 0.9777777777777777,
+                        "combined": 0.9833333333333334
+                    },
+                    "count": {
+                        "actual": 9,
+                        "expected": 6.3,
+                        "score": 0.7956694616416928
+                    },
+                    "uniqueness": {
+                        "unique_count": 9,
+                        "total_count": 9,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "shoa",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "shui",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "siaa",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "siau",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "siae",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "SHEy",
+                            "phonetic_score": 0.7491637009836742,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "SHow",
+                            "phonetic_score": 0.7491637009836742,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "shai",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "xwyh",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_adjacent_consonants": [
+                            "aym shaw"
+                        ],
+                        "swap_random_letter": [
+                            "aym shaw"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "aym shaw": [
+                            "swap_adjacent_consonants",
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.1,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 2,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "amy shaw": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_adjacent_consonants": [
+                            "aym shaw"
+                        ],
+                        "swap_random_letter": [
+                            "aym shaw"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "aym shaw": [
+                            "swap_adjacent_consonants",
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.1,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 2,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.9487523124010255,
+    "final_reward": 0.9487523124010255
+}
+amy shaw            : DEBUG: ----------------------------------------------------------------------------------------------------

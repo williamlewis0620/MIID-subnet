@@ -1,0 +1,888 @@
+igor korobov        : INFO: Generating variations for igor korobov
+igor korobov        : INFO: ----------------------------------------------------------------------------------------------------
+igor korobov        : INFO: Effective rules: ['initial_only_first_name', 'remove_random_vowel', 'shorten_name_to_initials']
+igor korobov        : INFO: ----------------------------------------------------------------------------------------------------
+igor korobov        : INFO: Min Required Rule Variation Set: [{'i.KoroBOV', 'I.koRoBOV', 'I. kOrOBOv', 'i. koRObov', 'i. KoRoboV', 'I.korObov', 'i. koRoBOV', 'I.KoRoBOV', 'I. koroBov', 'i.KOROBov', 'I.KOrOBov', 'i. kOroBov', 'I. KORobov', 'i.korobOV', 'I.KORoBoV', 'I.KOroboV', 'I. KoRobov', 'i.koROBOV', 'I.KoroBOv', 'I.kOrOBov', 'I. KoROboV', 'i.kOroBOV', 'I.kOroBOV', 'I.KoroBOV', 'i.KOrOboV', 'i.KORobOV', 'i.korobov', 'I. koRoBOV', 'I. korobov', 'i. KOrOboV', 'i.KorObOv', 'I. KoRoBov', 'I.KoROBOv', 'I.koRoBov', 'i.kOrOBov', 'I. KORObOV', 'i.KOROboV', 'I. KorOBoV', 'I.KOroBov', 'I. KoRObov', 'I.kOROboV', 'i.KorObov', 'i.kOrObov', 'I.kOrOBoV', 'i. kORObov', 'I. kOROBov', 'I.KOrobov', 'i. KoROboV', 'I. koroboV', 'I.KorOBoV', 'I.kOrOBOV', 'I.KoROboV', 'I. KOROBov', 'i.KORoBOv', 'I. KorOBov', 'i. KOrOBoV', 'i.korObOv', 'i.kORObov', 'i. KOrobOv', 'I. KoRObOv', 'i.koRobov', 'i.KorobOv', 'I.KoroBov', 'I. KoROBOV', 'i.kORObOv', 'I. KOroBOV', 'i. kOrOBOV', 'I. KoRobOv', 'I. kORoboV', 'i.KoROBoV', 'i.koRoBOv', 'I.korOBOV', 'I.KORoBOv', 'i.KOrobOV', 'i.KOroBOV', 'I.kORoBOV', 'I.KOrobOV', 'I. KOroBOv', 'I. kORObOv', 'i. korObOV', 'i.KoroboV', 'i. kORObOV', 'I.KOrObOv', 'I.KORoBov', 'I. kORoBOv', 'i.korobOv', 'I. korOBoV', 'i. kORoboV', 'i. KOrObov', 'I.KoRoBoV', 'I. kOROBOv', 'I. kOrObOV', 'i. kORoBOV', 'I. kOrOBoV', 'i. korobOV', 'I. KORobOV', 'i. KORObOv', 'i.KOROBOV', 'I. KoroBov', 'i. KoROBOV'}, {'IgoR kORBOV', 'IgOr KoroBv', 'GOr KOroBoV', 'gor kORObOv', 'IGoR krobOV', 'IGr koROBOV', 'gOr kOroBOv', 'iGR KOROBoV', 'Igor KorOBv', 'igoR KORboV', 'Gor korOBOv', 'iGr kOroBOV', 'GOr KoRoboV', 'Igor Krobov', 'iGOr kOroBV', 'Igor KorobV', 'igR KOROboV', 'iGoR krObOV', 'igor kORobv', 'Gor KORObOv', 'IgOR krOBov', 'IGOR KROBOV', 'iGoR KOrOBv', 'GOR kORobOv', 'Igor KORoBv', 'iGOr korboV', 'IgOr kORBoV', 'iGR kORObOV', 'iGor KORoBV', 'igOr krOBOv', 'IGOr KoRBOV', 'igOR kOrBoV', 'IGOR kORObV', 'igor koRobV', 'Igr KoROboV', 'iGoR koRBoV', 'GOr KoRObOv', 'igr koroBov', 'IgoR KORbov', 'iGoR kroboV', 'IgoR KorObv', 'iGoR KOrBov', 'Igor kORObV', 'igoR koROBV', 'IgoR KROBOv', 'iGOR KRoBov', 'Igor KORObV', 'IGor KOrBOV', 'igOR kroBOv', 'Igor krobov', 'Gor koRoBoV', 'igr kORoBoV', 'gor koRoBov', 'gOR KoRObOv', 'goR KorOBOV', 'IGOR kOrBoV', 'iGOR KoRobv', 'Igor kORboV', 'IGR KorOBOv', 'igr korOBOV', 'IGor KoRoBv', 'gOR KoRobOv', 'IGOR kOrbOv', 'IgOR KorObV', 'gor KORObOV', 'iGr KORoboV', 'IgoR KorBov', 'iGOr Korobv', 'Igor KORBOV', 'IGOr kroBOv', 'gor KorobOV', 'IgOR KOrObV', 'GOr KoRoBov', 'Igor kOrOBv', 'iGOr KORboV', 'gOR KOroBov', 'GOR koRObOv', 'gor KOroBOv', 'Igr korObOV', 'igr koRoBoV', 'IGOR KroBOV', 'iGr kOrOBov', 'IGr kORobov', 'igor korboV', 'iGOr kOrObV', 'gOr kOrObOV', 'IgOr kORbOV', 'igR kOROBOV', 'IGor kRoBoV', 'igOr koroBv', 'IGR koRoBOv', 'igR KOrobov', 'igoR koRBoV', 'iGR KORObov', 'igor KroboV', 'IGR korobov', 'iGOr KORobV', 'igOR KrobOV', 'IGOR KoroBV', 'IGoR koRBoV'}, {'i. k.', 'I. K.', 'I.k.', 'IK', 'I. k.', 'ik', 'I.K.', 'iK', 'i.k.', 'i.K.', 'i. K.', 'Ik'}]
+igor korobov        : INFO: ----------------------------------------------------------------------------------------------------
+igor korobov        : INFO: First name: igor
+igor korobov        : INFO: Last name: korobov
+igor korobov        : INFO: ----------------------------------------------------------------------------------------------------
+igor korobov        : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (0, 7), (0, 8)]
+igor korobov        : INFO: ------------------------------Trying rule_count_pair 1 / 8: rule_count/nonrule_count: 0/1------------------------------
+igor korobov        : DEBUG: O: [0, 0, 0, 1]
+igor korobov        : DEBUG: P: [0, 0, 0, 1]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [39]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: igor, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+igor korobov        : DEBUG: name: igor, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: O: [0, 0, 0, 1]
+igor korobov        : DEBUG: P: [0, 0, 0, 1]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: korobov, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+igor korobov        : DEBUG: name: korobov, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: scores: [0.26733728]
+igor korobov        : INFO: ------------------------------Trying rule_count_pair 2 / 8: rule_count/nonrule_count: 0/2------------------------------
+igor korobov        : DEBUG: O: [0, 0, 0, 2]
+igor korobov        : DEBUG: P: [1, 1, 0, 0]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [5, 4, 0]
+igor korobov        : DEBUG: [52, 12, 0]
+igor korobov        : DEBUG: [21, 12, 0]
+igor korobov        : DEBUG: [20, 4, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [6]
+igor korobov        : DEBUG: [17]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [8]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: igor, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: O: [0, 0, 0, 2]
+igor korobov        : DEBUG: P: [1, 1, 0, 0]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [198, 0, 20]
+igor korobov        : DEBUG: [500, 0, 26]
+igor korobov        : DEBUG: [500, 0, 24]
+igor korobov        : DEBUG: [20, 0, 20]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [51]
+igor korobov        : DEBUG: [48]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: korobov, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: scores: [0.28409408]
+igor korobov        : INFO: ------------------------------Trying rule_count_pair 3 / 8: rule_count/nonrule_count: 0/3------------------------------
+igor korobov        : DEBUG: O: [0, 1, 0, 2]
+igor korobov        : DEBUG: P: [1, 1, 0, 1]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [5, 4, 0]
+igor korobov        : DEBUG: [52, 12, 0]
+igor korobov        : DEBUG: [21, 12, 0]
+igor korobov        : DEBUG: [20, 4, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+igor korobov        : DEBUG: [6]
+igor korobov        : DEBUG: [17]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [8]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [39]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: igor, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+igor korobov        : DEBUG: name: igor, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: O: [0, 1, 0, 2]
+igor korobov        : DEBUG: P: [1, 1, 0, 1]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [198, 0, 20]
+igor korobov        : DEBUG: [500, 0, 26]
+igor korobov        : DEBUG: [500, 0, 24]
+igor korobov        : DEBUG: [20, 0, 20]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+igor korobov        : DEBUG: [51]
+igor korobov        : DEBUG: [48]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: korobov, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+igor korobov        : DEBUG: name: korobov, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: scores: [0.3850208]
+igor korobov        : INFO: ------------------------------Trying rule_count_pair 4 / 8: rule_count/nonrule_count: 0/4------------------------------
+igor korobov        : DEBUG: O: [1, 1, 1, 1]
+igor korobov        : DEBUG: P: [2, 2, 0, 0]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 0, 1, 1]
+igor korobov        : DEBUG: [5, 4, 0]
+igor korobov        : DEBUG: [52, 12, 0]
+igor korobov        : DEBUG: [21, 12, 0]
+igor korobov        : DEBUG: [20, 4, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+igor korobov        : DEBUG: [6]
+igor korobov        : DEBUG: [17]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [8]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: igor, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: O: [1, 1, 1, 1]
+igor korobov        : DEBUG: P: [2, 2, 0, 0]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 0, 1, 1]
+igor korobov        : DEBUG: [198, 0, 20]
+igor korobov        : DEBUG: [500, 0, 26]
+igor korobov        : DEBUG: [500, 0, 24]
+igor korobov        : DEBUG: [20, 0, 20]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+igor korobov        : DEBUG: [51]
+igor korobov        : DEBUG: [48]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: korobov, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: scores: [0.554]
+igor korobov        : INFO: ------------------------------Trying rule_count_pair 5 / 8: rule_count/nonrule_count: 0/5------------------------------
+igor korobov        : DEBUG: O: [1, 2, 1, 1]
+igor korobov        : DEBUG: P: [2, 2, 0, 1]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+igor korobov        : DEBUG: [5, 4, 0]
+igor korobov        : DEBUG: [52, 12, 0]
+igor korobov        : DEBUG: [21, 12, 0]
+igor korobov        : DEBUG: [20, 4, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+igor korobov        : DEBUG: [6]
+igor korobov        : DEBUG: [17]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [8]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [39]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: igor, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+igor korobov        : DEBUG: name: igor, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: O: [1, 2, 1, 1]
+igor korobov        : DEBUG: P: [2, 2, 0, 1]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+igor korobov        : DEBUG: [198, 0, 20]
+igor korobov        : DEBUG: [500, 0, 26]
+igor korobov        : DEBUG: [500, 0, 24]
+igor korobov        : DEBUG: [20, 0, 20]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+igor korobov        : DEBUG: [51]
+igor korobov        : DEBUG: [48]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: korobov, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+igor korobov        : DEBUG: name: korobov, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: scores: [0.5552]
+igor korobov        : INFO: ------------------------------Trying rule_count_pair 6 / 8: rule_count/nonrule_count: 0/6------------------------------
+igor korobov        : DEBUG: O: [1, 2, 1, 2]
+igor korobov        : DEBUG: P: [3, 3, 0, 0]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 0, 1, 2]
+igor korobov        : DEBUG: [5, 4, 0]
+igor korobov        : DEBUG: [52, 12, 0]
+igor korobov        : DEBUG: [21, 12, 0]
+igor korobov        : DEBUG: [20, 4, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [2, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [1, 2, 0, 0]
+igor korobov        : DEBUG: [6]
+igor korobov        : DEBUG: [17]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [8]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [2]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: igor, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: O: [1, 2, 1, 2]
+igor korobov        : DEBUG: P: [3, 3, 0, 0]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 0, 1, 2]
+igor korobov        : DEBUG: [198, 0, 20]
+igor korobov        : DEBUG: [500, 0, 26]
+igor korobov        : DEBUG: [500, 0, 24]
+igor korobov        : DEBUG: [20, 0, 20]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [2, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [1, 2, 0, 0]
+igor korobov        : DEBUG: [51]
+igor korobov        : DEBUG: [48]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [2]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: korobov, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: scores: [0.5370208]
+igor korobov        : INFO: ------------------------------Trying rule_count_pair 7 / 8: rule_count/nonrule_count: 0/7------------------------------
+igor korobov        : DEBUG: O: [2, 2, 2, 1]
+igor korobov        : DEBUG: P: [3, 3, 0, 1]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 1, 2, 0]
+igor korobov        : DEBUG: [5, 4, 0]
+igor korobov        : DEBUG: [52, 12, 0]
+igor korobov        : DEBUG: [21, 12, 0]
+igor korobov        : DEBUG: [20, 4, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [2, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [2, 1, 0, 0]
+igor korobov        : DEBUG: [6]
+igor korobov        : DEBUG: [17]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [8]
+igor korobov        : DEBUG: [2]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [39]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: igor, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+igor korobov        : DEBUG: name: igor, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: O: [2, 2, 2, 1]
+igor korobov        : DEBUG: P: [3, 3, 0, 1]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 1, 2, 0]
+igor korobov        : DEBUG: [198, 0, 20]
+igor korobov        : DEBUG: [500, 0, 26]
+igor korobov        : DEBUG: [500, 0, 24]
+igor korobov        : DEBUG: [20, 0, 20]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [2, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [2, 1, 0, 0]
+igor korobov        : DEBUG: [51]
+igor korobov        : DEBUG: [48]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [2]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [500]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [1]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: korobov, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+igor korobov        : DEBUG: name: korobov, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: scores: [0.52066551]
+igor korobov        : INFO: ------------------------------Trying rule_count_pair 8 / 8: rule_count/nonrule_count: 0/8------------------------------
+igor korobov        : DEBUG: O: [2, 3, 2, 1]
+igor korobov        : DEBUG: P: [4, 4, 0, 0]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 1, 2, 1]
+igor korobov        : DEBUG: [5, 4, 0]
+igor korobov        : DEBUG: [52, 12, 0]
+igor korobov        : DEBUG: [21, 12, 0]
+igor korobov        : DEBUG: [20, 4, 0]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [2, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+igor korobov        : DEBUG: [6]
+igor korobov        : DEBUG: [17]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [8]
+igor korobov        : DEBUG: [2]
+igor korobov        : DEBUG: [2]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: igor, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: igor, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: O: [2, 3, 2, 1]
+igor korobov        : DEBUG: P: [4, 4, 0, 0]
+igor korobov        : WARNING: Remains: 0
+igor korobov        : DEBUG: p_level: 1, O: [0, 1, 2, 1]
+igor korobov        : DEBUG: [198, 0, 20]
+igor korobov        : DEBUG: [500, 0, 26]
+igor korobov        : DEBUG: [500, 0, 24]
+igor korobov        : DEBUG: [20, 0, 20]
+igor korobov        : DEBUG: [0, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: [2, 0, 0]
+igor korobov        : DEBUG: [1, 0, 0]
+igor korobov        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+igor korobov        : DEBUG: [51]
+igor korobov        : DEBUG: [48]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [20]
+igor korobov        : DEBUG: [2]
+igor korobov        : DEBUG: [2]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: [0]
+igor korobov        : DEBUG: final:
+igor korobov        : DEBUG: name: korobov, l_level: 0
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 1
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: name: korobov, l_level: 2
+igor korobov        : DEBUG: --------------------------------------------------
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+igor korobov        : DEBUG: scores: [0.50433728]
+igor korobov        : DEBUG: ----------------------------------------------------------------------------------------------------
+igor korobov        : DEBUG: Best score achieved: 0.5551999999999999
+igor korobov        : DEBUG: Best selected: 0/5
+igor korobov        : DEBUG: Rule variations: []
+igor korobov        : DEBUG: Nonrule variations: [{'igro kirwbof', 'iqri kuarbiv', 'iqOr kerubav', 'wwru okryuvo', 'iQor kirobiv'}, {'igre korbayv', 'giuh wroopup', 'icre kruybyv', 'IQor kiribav', 'iQor kirobiv'}, {'hxew ocrapvo', 'ikrw kirboef', 'iGur kirebiv', 'iukr kwrwbuv', 'igAr korobiv'}, {'igur kirebov', 'iqir kerubiv', 'ikro kwrbuwv', 'iygr koyrbev', 'acri ekrivvo'}, {'ayay okruyfo', 'igur kerobiv', 'iqre kwrbyvo', 'iGAr kuribiv', 'ikar keorbav'}, {'igra krahbov', 'ikre karbuuv', 'iguR keribuv', 'igur korubov', 'ecyo ukruhvo'}, {'IgAr karibuv', 'iqor kirubov', 'iakr kreubov', 'hyro owyubvo', 'iqre kerbahv'}, {'ikre kriebof', 'iGAr kirabuv', 'iQor koribiv', 'aoyw qroopib', 'ikar kirboav'}, {'hjaw okrbyfo', 'iqru kearbof', 'ikrr kurwbuv', 'iqur karebuv', 'iQor karobuv'}, {'igAr karobov', 'ikry keribyf', 'iqar karabav', 'icar kwrboiv', 'wogh okyufvo'}, {'yogy okrepvo', 'iguR kirabiv', 'iQor korebiv', 'icru kearbyv', 'iwcr kiribyv'}, {'ioqr korbowf', 'iqir kirabiv', 'ojaw okruwwo', 'ikrw karbiwv', 'igAr kerobov'}, {'igAr kuribov', 'igry koribaf', 'icru kriwbav', 'Igur karabuv', 'ozri okrifvo'}, {'icry kraybof', 'ayrw okwybvo', 'igry kiribof', 'iqoR kurabiv', 'igAr kerabov'}, {'wzri okwhbvo', 'iqOr kerubuv', 'ikyr kroabav', 'igAr kurebov', 'iqri kirbofo'}, {'Igur karibiv', 'igar korebuv', 'oxro okwybvo', 'iegr kwribuv', 'ikrw kroobaf'}, {'iekr karybav', 'igar koribov', 'iqru kryboof', 'iguR kerubuv', 'ycro cahubvo'}, {'ihcr korabif', 'ikru kiorbef', 'iguR karibav', 'giwi oxrapvo', 'igar kerebov'}, {'ikwr kroabiv', 'iqar kerebuv', 'ikru kayrbav', 'ayrh okrappo', 'igUr kirobav'}, {'iGAr karibiv', 'yqew okwivvo', 'ieqr kroabyv', 'iqra kroebuf', 'igAr korebuv'}, {'siry caruhvo', 'ikar karubof', 'igUr korebov', 'iqur kerubav', 'ikro krewbof'}, {'wxhh zaerbvo', 'ikru karubef', 'igAr karubov', 'igaR karibav', 'ikwr korbuev'}, {'iguR kirebuv', 'igar kerubov', 'hjro ograpvo', 'iykr kyrybiv', 'iqrw kiorbaf'}, {'wjaw okyabvo', 'icrw kyrebif', 'iwgr kriobev', 'iqir kerubuv', 'igur kurobuv'}, {'igAr karibov', 'icri krewbof', 'osro okruhvi', 'iekr kerbouv', 'IQor kirebuv'}, {'ieqr korbevo', 'Igur kurebuv', 'iqry kuwrbuv', 'esyo okrivfo', 'igur kirobov'}, {'iqri karbiuv', 'iucr kyrboov', 'oqrw ocyubvo', 'igUr korebuv', 'iguR keribiv'}, {'azro waerbvo', 'ikre kowrbef', 'iqar karibav', 'ikyr keorbav', 'iQor karobov'}, {'iqwr kyrwbyv', 'ikre koerbaf', 'iGur kurabiv', 'ehro ikrivvo', 'iqor karobuv'}, {'woxh coorpaf', 'Igur kurebuv', 'igar kirobuv', 'icar kreobiv', 'icre kuirbiv'}, {'Igar kurebuv', 'iagr koerbiv', 'iqor kurobav', 'ikru kwrbiwv', 'ojri gruoobb'}, {'iqor korobuv', 'ikry karbowf', 'iakr kohrbyv', 'ysiy okruhvo', 'igaR karubav'}, {'igUr kerobuv', 'igry kirboav', 'icri kohrbaf', 'ayho qyrafvo', 'iqoR kiribiv'}, {'igar karobov', 'icra koerbyf', 'Igur kurebav', 'iecr krowbuv', 'osro okrwfvo'}, {'iqor kirabov', 'ikre keorbef', 'iwkr koerbuv', 'IgAr kurabuv', 'wcri okrufho'}, {'iGur karibav', 'ikur kruobav', 'uzro ozrwyvo', 'ikrw kwrwbuf', 'igar kerebov'}, {'ysry oywubvo', 'ickr koirbyv', 'iqor kerubov', 'ikri krywbev', 'iqer kerubuv'}, {'iecr kuyrbov', 'iqar kerubiv', 'iQor kirobuv', 'iqrw kwrbuyv', 'oirh okrapvy'}, {'iekr korubif', 'ikrw koerbaf', 'igAr korabov', 'iqoR kurebuv', 'oxro okwuwvo'}, {'iqro kirabif', 'ywyy zroowbf', 'ioqr koyrbyv', 'igur korabov', 'igaR karebiv'}, {'icru karbawv', 'igur karobuv', 'ywey okruhva', 'ihqr kyrubyv', 'igAR kirubiv'}, {'iQor kerubov', 'wcho ocrwyvo', 'iqra kwrubyf', 'iwcr kuorbev', 'iGur kurebav'}, {'iukr kyrwbuv', 'iqor korubov', 'igAR kirebuv', 'eyhh ekrufvo', 'ikro kurbuiv'}, {'ikru kyrbiiv', 'iGAr kurebuv', 'igAr korebuv', 'igri kyribuv', 'oqho qroohwf'}, {'iQor kerobav', 'iqyr korbeav', 'ikrw kyrbyyv', 'Iqor kirebuv', 'aygh ykrapvo'}, {'owrw okrivva', 'iqrw kierbuv', 'iucr kriubov', 'iGar kerubav', 'igUr kurubov'}, {'igAR kerabav', 'wygh wreybvo', 'igAr korubuv', 'iqry karbavo', 'iaqr kerubyv'}, {'igur kirobav', 'icri keorbef', 'iekr kriobav', 'wozh okyibvo', 'igaR kurebav'}, {'iqry kurboyf', 'ikrr kirubev', 'Igar kerabiv', 'eyhw ykyubvo', 'igAr kerobov'}, {'igrw kearbov', 'ikru kurbewv', 'igAR kirebav', 'ujrw okrwywo', 'igUr kerebov'}, {'iQor kirobov', 'wjre oqruhvo', 'ikru kreybof', 'iqar karubiv', 'ioqr kehrbov'}, {'iQor kerobuv', 'icra krewbof', 'Igar karabav', 'iqyr kohrbof', 'wjhy zoorvaf'}, {'ikyr kurboiv', 'iqoR keribav', 'uqey okruyvu', 'iQor kirobav', 'iqry krehbof'}, {'iqre kurbiuv', 'igUr karebov', 'iqir kirebuv', 'hogw qywabvo', 'iwgr kirwbuv'}, {'woww okravvo', 'igAr korabov', 'iqOr kerubuv', 'icra karebaf', 'icwr kraobav'}, {'iQor kirubov', 'ikir kyrwbav', 'igAR kirabiv', 'giuw okrivwo', 'icro karbaiv'}, {'iqry kwrwbyf', 'yyro wkruwvo', 'IQor kirebav', 'igUr kerebov', 'iegr kruwbov'}, {'Igur kirubav', 'iqry keurbyv', 'igur kerabov', 'iygr karabof', 'ycro oyrivvo'}, {'iGar kiribuv', 'wugy okwuvvo', 'igAr koribuv', 'iqwr keirbov', 'ikru keorbif'}, {'iwcr kirwbof', 'icrw kiurbof', 'igar kurobuv', 'eyay okhivvo', 'iqer karibiv'}, {'iqir kurubuv', 'iagr kyrwbof', 'iqro korbuwf', 'esrh okwwyvo', 'iqor karubov'}, {'iqar karebav', 'ozrw okruyva', 'igur karobov', 'iqri kirbehv', 'iygr kwrobif'}, {'icry krywbav', 'iguR kirebav', 'igur kerebov', 'wjuy okrwyvw', 'iocr karbeov'}, {'iqor kerabov', 'iqrr karwbof', 'ikrw kurbuav', 'ajiw okhivvo', 'iGAr kerubav'}, {'ikrw kirwbuf', 'ikrr kurbouv', 'IQor kuribuv', 'igur korubuv', 'wwgh qeryfvo'}, {'iegr kyrwbof', 'igur korabiv', 'yxhh okrwfvo', 'icrw kirbowf', 'iqoR karubiv'}, {'igro kirobuf', 'hyhh okrehvo', 'IgAr kurubuv', 'igAr koribov', 'ikry kriubev'}, {'igra korybaf', 'icra kuurbyv', 'igAr karebov', 'iguR kerubav', 'ozho ozrapvo'}, {'iqry kurbiwv', 'iacr kyrboev', 'xiiw okwubvo', 'iQor karobav', 'igaR kurebav'}, {'iQor korobuv', 'giyy okruyfo', 'iqwr karbohv', 'iqru kraebof', 'Igar karebuv'}, {'aqrh okrwpef', 'ihkr kiorbev', 'iqoR kerabuv', 'iQor kurobuv', 'iqro kirubuf'}, {'igur karabov', 'Iqor kuribav', 'ahgh okyubve', 'iqqr korbeuv', 'icry korbewf'}, {'iQor koribov', 'igru krowbav', 'wjho gruooby', 'IgAr karabuv', 'iqry kurebyf'}, {'wqru qreoobh', 'igaR kirabiv', 'iugr korwbef', 'iQor kirabov', 'ikro krohbaf'}, {'igar kurobov', 'icro kyrbehv', 'iqer kurebiv', 'iegr kohrbof', 'yyro qreooby'}, {'iGur keribiv', 'wyru oqrivvo', 'igUr korobuv', 'iqru keyrbyv', 'igrw koarbuv'}, {'iQor korebav', 'wjaw okwibvo', 'iakr kreobiv', 'iqur kiribuv', 'ikry kreobuf'}, {'iecr kurwbof', 'iQor korabuv', 'iqer karubav', 'wygh ukrufvo', 'iqre keribuf'}, {'ieqr keyrbov', 'iQor korubiv', 'ikru kruobaf', 'woyw okrbiap', 'iqar kurebav'}, {'iqer karabuv', 'yoyy okwuyvo', 'iqry kwrybaf', 'iogr karwbev', 'igAr kirobuv'}, {'iqry karebaf', 'igUr kerubov', 'wojw qaoybvo', 'igaR karabiv', 'ikar kraobev'}, {'icri korbawf', 'iqor kirabov', 'iguR kerebav', 'jiew ogruhvo', 'iqqr kurybuv'}, {'ikrw krewbuv', 'iyqr kirobuf', 'iGur kerebiv', 'yjaw okyufvo', 'igar karobav'}, {'yjrw okuybvo', 'igar karobiv', 'iqru keorbyf', 'ihkr kroibev', 'iGAr kurubiv'}, {'igAr karobav', 'ikra keribef', 'aagh ukyubvo', 'iwgr kerbiov', 'Igar kerebiv'}, {'whru oqyubvo', 'iqor karibov', 'ikkr kirbeov', 'icry kyrbaof', 'iGar kurubuv'}, {'iwkr korybyf', 'iqar karubav', 'iqru kiorbif', 'ozri okrefvo', 'iqor karobov'}, {'igar korabiv', 'icre kruibuv', 'iakr karibof', 'awgh owrufvo', 'Igur karabiv'}, {'Igur karebav', 'iukr kyribav', 'icrw kraabav', 'igur kirubov', 'ojrh okrbewf'}, {'iqrw kryboof', 'igAr korabiv', 'wjri jreybvo', 'iguR kerabuv', 'iykr krohbof'}, {'iqor korubiv', 'yogh okrapve', 'igru korbeuv', 'ikru kurbuyv', 'iqoR kurubuv'}, {'iQor korebav', 'ysuy ukruwvo', 'iGur kiribav', 'ikro kraobaf', 'iuqr karboyv'}, {'icry karbaof', 'yzri okruyvw', 'iGur kurubiv', 'icwr korybyf', 'igUr kurobov'}, {'iqir kirabav', 'igur kurebov', 'aosh okrbeub', 'iqry kuwrbav', 'iagr karbaov'}, {'icrw kyrbehv', 'iqar kurubuv', 'uyhw ekruyvo', 'igar kirobuv', 'iykr kerobyf'}, {'iqry karbawv', 'yokh okrwypo', 'igra kiribyv', 'igAr koribav', 'Igar kerubuv'}, {'iqer karebav', 'ikro kyrbuev', 'iqor korubov', 'igri kroebav', 'ykuh ohruhvo'}, {'iwkr kuorbuv', 'giih ukrufvo', 'iqar karibiv', 'ikru kyrbewv', 'igAr keribov'}, {'iQor kerobiv', 'yogh qaohbvo', 'icry kreobif', 'ioqr kwribuv', 'iqur kiribav'}, {'iGAr karubuv', 'uzro owruyvo', 'iqrr kroobyv', 'ikro kwrabyf', 'igar kerobav'}, {'gihw qroowwf', 'iqru karbuwv', 'iQor kerobov', 'IgAr kerabav', 'ikkr karboav'}, {'igry kwrwbav', 'yyro qyrahvo', 'ikry karwbaf', 'iqar kerebiv', 'igar karibov'}, {'ajuw okrbihf', 'iuqr kyrboev', 'iqre korbyyf', 'igAR karibav', 'igur karobuv'}, {'ikra kurbiuv', 'ikrr kyrobyf', 'igur kurobov', 'wagh yairbvo', 'iGar kurebiv'}, {'iuqr korbeuv', 'igaR kiribuv', 'ahgh okruwve', 'iQor kerebov', 'ikrw kerbuuv'}, {'igur korebov', 'icro kwrbuyv', 'uqew hkrivvo', 'iqir kirebiv', 'icar keorbuv'}, {'igUr kerubov', 'ihkr korbavo', 'iqri kawrbyv', 'iGar kerubav', 'esru ukyubvo'}, {'icri kayrbof', 'igur kurabov', 'igre koyrbav', 'iqar kerabuv', 'hqro ohyubvo'}, {'iqor kirobiv', 'hzro okruywo', 'IQor kerubiv', 'ikri kruybiv', 'iukr kerobaf'}, {'yjrw soorvaf', 'iuqr korbaav', 'icri keurbyv', 'iGur kuribuv', 'igUr keribov'}, {'iqOr kerebav', 'igAr karibov', 'icrw kuurbiv', 'giuy okruwfo', 'iogr kerabev'}, {'iogr kerboiv', 'ayho okruhvh', 'iguR kirebav', 'iqri kruebyv', 'igur kurubov'}, {'iqru keyrbof', 'igUr koribov', 'ihqr kurybiv', 'wiwh qyrapvo', 'igaR kirebav'}, {'iqrr kiribof', 'iqor korabov', 'iqrw kroebif', 'hyhh gruoobh', 'iqer karabiv'}, {'iugr korbuav', 'iguR keribav', 'iqor kirebov', 'wyro qeryhvo', 'icry kriwbav'}, {'iqro kwrubuf', 'Iqor kiribuv', 'hyhw okrvivo', 'iqor kurebov', 'iacr kroabav'}, {'igUr korubov', 'ecwo hrewbvo', 'Igur kurebav', 'ikro kurbiuv', 'igry kyrybiv'}, {'ikru karybaf', 'iyqr kaorbuv', 'igar koribov', 'uzri ozruyvo', 'iqer kerabiv'}, {'iGur kuribav', 'hjrw okrivfo', 'iQor kurobov', 'iogr korbaev', 'ikru kirbywv'}, {'iqru karybaf', 'ihgr kwrbowv', 'igUr korebiv', 'yyhh ikruyvo', 'igaR keribiv'}, {'yiay coorvaf', 'iugr karobif', 'iqar kirabiv', 'igAr korebav', 'icra kurbowf'}, {'iqor karobov', 'iqoR kerebiv', 'icra kyrboaf', 'ihkr karwbav', 'eswo ekrivvo'}, {'igur karabov', 'iqrw kyrubyf', 'Igar kurabiv', 'ikyr koarbyv', 'woqw okruwvi'}, {'iqyr kirbeov', 'iGAr karabuv', 'ikru kearbyv', 'yjaw okwubfo', 'igur kurobuv'}, {'aqru ogrivvo', 'igre kwrwbyv', 'igAr karebov', 'igaR karabuv', 'icro kruybyv'}, {'ajwo okrbewf', 'igUr keribov', 'ikir kraobyv', 'iqri kriibuv', 'iGAr kiribav'}, {'iegr kyrybev', 'IQor kiribiv', 'wzrw hkrwyvo', 'icro kyrbaiv', 'iqor karobov'}, {'Igar kerabav', 'iQor karabov', 'igro keribyv', 'ohrw ykrwyvo', 'icra kayrbyv'}, {'uyhh jroowbf', 'Iqor keribuv', 'ihcr kyrubiv', 'iqre kruibav', 'igAr korabuv'}, {'icar korbeyv', 'iguR karubuv', 'iqre kriubiv', 'igar kirobuv', 'ojrw okravvo'}, {'iQor kurabov', 'iqry kirwbef', 'igrw kroabav', 'Igur kerubuv', 'okro ukruhvo'}, {'igAR kurebuv', 'iuqr kyrybyv', 'igAr kurobuv', 'icri kyrboof', 'wyhw okruhvy'}, {'igar karobov', 'iaqr kuwrbov', 'iGar kirubav', 'iqri kriybev', 'ayyo joorpaf'}, {'ikyr kriobav', 'wygw okwubvo', 'iQor korobav', 'igaR karebav', 'ikre karwbif'}, {'wiww okrapvy', 'iacr kwrubyv', 'igur kuribov', 'icrw karubaf', 'iqoR karabiv'}, {'iQor kirobov', 'iwgr kriobyv', 'usry okruyvu', 'iqru karbehv', 'iqir kirubuv'}, {'iwkr karwbev', 'giiw okyebvo', 'iqrw kraybof', 'IQor kirubiv', 'iqor korubav'}, {'icro kerabuf', 'igUr karabov', 'yokh akruhvo', 'Igur karabav', 'iwqr koorbyv'}, {'iacr koyrbev', 'igur koribov', 'IQor kerabav', 'ikru krewbyv', 'aagh okruwvh'}, {'ikry kurubyf', 'igAr kurobiv', 'iGar kerabiv', 'yyhh okrufvo', 'icur kwrwbav'}, {'wjro okrhhvo', 'igAR karibuv', 'iQor kurubov', 'iwqr kirbohv', 'icri kerbiwv'}, {'iakr kyribev', 'iQor koribuv', 'iqar kurebiv', 'ikra kruebof', 'woch ojrufvo'}, {'asry hkrapvo', 'ikre kewrbof', 'iokr kuorbof', 'iQor kurobuv', 'igaR kuribav'}, {'wjru osruwvo', 'ikra karbaev', 'iqqr korbeev', 'iqur karubiv', 'igar korebav'}, {'asaw okrivfo', 'iQor korebov', 'igre kiorbev', 'Igar karubuv', 'iqra kroubef'}, {'Igar kurubav', 'ghiw ykruwvo', 'iQor korubuv', 'ickr kiorbev', 'iqre kreabof'}, {'iqer kuribav', 'wagw yroopup', 'iqru kreebuv', 'iucr kwrubev', 'iQor karobiv'}, {'ujeh zairbvo', 'ikar kiorbav', 'iQor kurobiv', 'ikra kreibof', 'iqoR kirabuv'}, {'igar korabuv', 'geio okruwvi', 'iqyr kirobef', 'IQor kerebav', 'iqra kuarbof'}, {'ikry kryybev', 'xiew okhwyvo', 'ikwr kurwbav', 'iQor koribiv', 'igAR kirabav'}, {'ikra keerbof', 'igAr kurobuv', 'iker krehbov', 'iguR kirabav', 'ozri okyapvo'}, {'jiiw okrapvi', 'iqar kerabav', 'iakr kwrboyv', 'icry korbywf', 'igAr korobav'}, {'iqur kurebav', 'iacr kwrwbof', 'iqrw kerboyf', 'wjyy qehybvo', 'igUr kerobiv'}, {'igAr karibov', 'iuqr kairbov', 'wegh okrbifo', 'iqOr karibiv', 'ikrw kurbywv'}, {'yyhw osrwyvo', 'igry kreobof', 'iguR kurubuv', 'iqrw keyrbof', 'igUr kurabov'}, {'iqor korubuv', 'giew croowbp', 'icwr kihrbov', 'iqOr kerubuv', 'icra kreabof'}, {'iGar kirebav', 'iker kerybav', 'iqru kuribuf', 'iQor korabiv', 'ozrw okrapvu'}, {'oirh ikruwvo', 'icra kerbeof', 'icwr korbaiv', 'igur karobav', 'igaR kuribav'}, {'icre kowrbaf', 'igaR kerubiv', 'igAr kirobuv', 'okwo wkwubvo', 'ikir kowrbof'}, {'igri kruobev', 'igAr korabov', 'yyay osrivvo', 'icra krewbof', 'iqur keribuv'}, {'iykr kwribof', 'ikre kiorbyf', 'iqoR kuribiv', 'igar koribav', 'giyh oqruyvo'}, {'iqru kerabyf', 'igUr karobuv', 'yqew cahubvo', 'iGar kirabav', 'iecr koerbiv'}, {'IgAr kirubiv', 'icar korabif', 'igar karibov', 'ecro ozrufvo', 'ikro kraobef'}, {'iqrw kurbewv', 'ohgw ozrwyvo', 'IQor karubav', 'iecr kerybyv', 'iqor kuribov'}, {'igur keribov', 'iegr kyrbowv', 'iqra kierbuv', 'ehgh qyrahvo', 'iqOr kurabiv'}, {'wjre okrhwvo', 'iekr kurbeov', 'iqir kirabiv', 'igur karobiv', 'ikri kuarbyv'}, {'iwqr kirbuov', 'igAr karobav', 'ikro krwybiv', 'hzri okyubvu', 'iqer karibav'}, {'ikrw kreobyf', 'igAR kurebuv', 'igar karobov', 'iocr korbahv', 'esho osrufvo'}, {'iagr kurebyv', 'hogy wairbvo', 'icri kyrbewv', 'iqOr keribuv', 'igUr korebav'}, {'igur korebov', 'ikrw kreubev', 'iwkr koirbav', 'esho okrwyvy', 'Igur kerabav'}, {'iwqr kyrboyv', 'igur korubuv', 'giah woorpaf', 'iqri kaorbif', 'iGar kerubuv'}, {'iqor korubuv', 'ikre karbahv', 'yoyh okruvvo', 'iqur karabuv', 'iucr keribof'}, {'ikkr kaorbev', 'iqor kirebov', 'IQor kurubuv', 'jihw okrhhvo', 'ikrw kruibav'}, {'ysuy ohruhvo', 'iqra kerbehv', 'igAr kiribov', 'iqoR kerubav', 'igra kuorbiv'}, {'iqor karobav', 'ikyr korbofo', 'ikrw karbaof', 'okrw okyuyvo', 'Igur kerabav'}, {'iqor korubuv', 'iekr kreibov', 'icry karbuwv', 'ojrw ohwubvo', 'iqer kerabav'}, {'ayiw xairbvo', 'igro kohrbof', 'iGur kirebiv', 'iqre kwrbuyv', 'iqor korebav'}, {'iqwr kyrybiv', 'oxhh qreoobp', 'igaR karibiv', 'igAr kirobav', 'iqru krahbav'}, {'yyhw oqrapvo', 'iqur kerebiv', 'igur kurobov', 'iker kroibav', 'iqry kreibiv'}, {'icri kruabav', 'uyhw qyrawvo', 'iGAr kiribiv', 'iycr krowbuv', 'igur kurobav'}, {'igUr karobov', 'ajhw ozrapvo', 'icra kaarbav', 'iygr kwrbeov', 'iqoR kiribiv'}, {'aagh ohrivvo', 'iqqr kyribev', 'icra koorbuf', 'igar korabav', 'iqOr kirebuv'}, {'iqir kiribiv', 'igAr koribov', 'ikre kraubof', 'wosw carupvo', 'iuqr kerwbuv'}, {'aqho hkrapvo', 'iqor kirubov', 'IgAr keribuv', 'ikar krwboov', 'iqro kyrbuev'}, {'ycri okrwhvo', 'iqro kirebaf', 'igAr korubuv', 'ihgr karwbof', 'iqoR kirabuv'}, {'iker korbiav', 'iqra kurbuof', 'igar kirobuv', 'giyw ohyubvo', 'iqur kurabiv'}, {'iqar kerebiv', 'iwgr koarbev', 'iqro kyrbahv', 'aqre joorpaf', 'igAr karobuv'}, {'igUr kirobav', 'icur korbuvo', 'iqoR kuribiv', 'jiaw zroopib', 'icro kerebyf'}, {'iqar kurubiv', 'ikwr kurbaov', 'uogh qroopib', 'iQor kirobiv', 'icry kuerbev'}, {'igar korebiv', 'ikir kwribyv', 'iGur kerabuv', 'iqra kohrbaf', 'qaro okwupvo'}, {'igar korubuv', 'IgAr karabiv', 'igri koarbav', 'ujro okrappo', 'ikre keurbuv'}, {'iuqr kroybav', 'wjyh ohrwyvo', 'Igur karubuv', 'icry kriwbav', 'igur kurobav'}, {'iqor kerabov', 'icra kurbiiv', 'igAR karabav', 'giiw okyuvvo', 'iaqr kwrwbyv'}, {'igAr kurubov', 'ikre koarbaf', 'iqwr karybuv', 'Iqor keribav', 'aojh qaowbvo'}, {'igAr kurobuv', 'ikra keurbof', 'igAR kirabav', 'eqew okrivpo', 'iqyr korbivo'}, {'giuy ekrwyvo', 'iqir kurabuv', 'iqri kwrwbuf', 'igri kwrbovo', 'igUr kirobuv'}, {'igAR karebav', 'ihkr kiurbov', 'iQor korebiv', 'ywyw ozrivvo', 'ikre kyrbaev'}, {'iqir kerabav', 'yogy qreooby', 'iqru kerbuuv', 'icar kerabyv', 'igur korabuv'}, {'ozrw joorvaf', 'igre kerboev', 'iqri kiarbiv', 'iqor kirobov', 'iqir karabav'}, {'wyru osruhvo', 'iqur kirebiv', 'igar korobiv', 'ikro kuarbuv', 'iwcr kierbov'}, {'iGAr kirubuv', 'ykah okyybvo', 'ikry krihbuv', 'ikkr kirbowv', 'igUr koribuv'}, {'igAR karabuv', 'igre keyrbov', 'ahgh oqruhvo', 'iQor korobiv', 'icru karubaf'}, {'igar koribov', 'okru hkrufvo', 'ikri kurybyf', 'ikur kyrubev', 'Igur kerubav'}, {'iqor korubiv', 'icar kuerbov', 'iqro kwrwbef', 'wogw owruyvo', 'iGur kurabav'}, {'iqor kirobuv', 'iqru kwrebaf', 'iGAr keribiv', 'eyhw okravvo', 'iuqr kroubiv'}, {'icru kraybiv', 'igar kirobov', 'aegh ocruhvo', 'iguR kerubav', 'icur kyrbohv'}, {'wozh zoorpaf', 'iqor kirobuv', 'iqar kirabav', 'iqra kraubev', 'icwr kraobuv'}, {'icur kerbeov', 'icri kayrbiv', 'igUr korabav', 'Igar karubiv', 'wwgh okripvo'}, {'iqor korubiv', 'icru kiwrbof', 'ikir kurwbyv', 'usiy zaerbvo', 'iGar kerubuv'}, {'wjaw oswubvo', 'iGAr kirubuv', 'igur koribav', 'iqrw korbihf', 'ikwr koarbuv'}, {'igar kiribov', 'iucr kwrebuv', 'wozh qreopvo', 'ikro kyrbywv', 'IgAr kerabuv'}, {'iQor koribuv', 'iecr kyrabav', 'whgh xairbvo', 'ikru kruubev', 'Igar kurubiv'}, {'igAR kerubav', 'iegr kerbaov', 'igAr kerobav', 'ikrw kraybof', 'uyro okwybvo'}, {'igro kerwbuv', 'yqew wkyubvo', 'ikra kayrbev', 'iqOr kirabiv', 'igUr kurabov'}, {'igar karobov', 'aoch ojrufvo', 'iokr karubof', 'iguR karabuv', 'icry kyrbewv'}, {'ikyr kriobuv', 'iqOr kurebuv', 'igur karebov', 'icre krbaoov', 'jiyw wroowbf'}, {'iogr kerbohv', 'icro kuhrbiv', 'igAr kirabov', 'Iqor kiribuv', 'echo qyrafvo'}, {'iqrr kiorbav', 'ikra kryybiv', 'iqoR kirebav', 'igur kuribov', 'eswo zroopib'}, {'igAr korabiv', 'iekr kryybov', 'iGAr kirebav', 'ikra kwrwbaf', 'oirh okruyve'}, {'iukr kurboiv', 'icru kyrbaof', 'ekro croowby', 'Igur kiribav', 'igUr kerobov'}, {'gyiw ogrwyvo', 'icrw kurbahv', 'igar kurobiv', 'iwgr kerobyf', 'iqir karebiv'}, {'ikro kerbiwv', 'igur kurobiv', 'eswo okrapvo', 'ikur kroobof', 'iqOr keribiv'}, {'igar korubov', 'igry korabaf', 'icry kroubef', 'IQor kirebuv', 'wiiw okrbyfo'}, {'iQor kurobav', 'gryo ocrivvo', 'iykr kayrbov', 'iguR karubiv', 'icrw karbaev'}, {'ikro krwwbav', 'igaR karebuv', 'ujey ocruhvo', 'igar kirebov', 'iukr kriybov'}, {'iGur kirabiv', 'iqro korbefo', 'iQor korubov', 'joiw okwhbvo', 'iqwr kaarbov'}, {'igar karubov', 'Igar kirubav', 'iwkr kurebof', 'ohrw okrfuvo', 'icru kihrbof'}, {'iyqr kiirbov', 'iQor koribov', 'ikru kruebuv', 'eogy okrwpvo', 'igaR karebav'}, {'iker kroibyv', 'icre kyrbuof', 'wzri okrufva', 'IQor kerabav', 'igUr koribuv'}, {'icru kuorbaf', 'igar koribav', 'iqar kirebiv', 'qiew okwabvo', 'iekr karubyv'}, {'iqre kruibuv', 'aqrh okrwpvo', 'igur kirobiv', 'iGAr keribuv', 'iygr kiarbov'}, {'iqry kyrboof', 'iqOr kurubuv', 'ywyy wkruyvo', 'iogr karabof', 'igAr keribov'}, {'okrh ohruhvo', 'Igar kerabav', 'igur korebav', 'ikro kreubuv', 'ihqr kerubyv'}, {'ikkr kwrboov', 'iqer kirubav', 'igur korabov', 'iqry kreobif', 'esre okrbihf'}, {'gyiw soorvaf', 'ikry karbyyv', 'ikrr kirybyv', 'iGAr kirebuv', 'igUr kerobov'}, {'iguR kerebav', 'wjro hkwubvo', 'iQor kurubov', 'iqre keorbef', 'ihcr krywbov'}, {'iqre kyrbuof', 'iokr kurubyv', 'iqOr kerebuv', 'igAr kirobav', 'guiw yroopib'}, {'iykr kroibof', 'kiiw okruhve', 'iqri kirboif', 'igar kirobuv', 'Igar kerubuv'}, {'iqor korubov', 'ikry kreibiv', 'iker kruobiv', 'Igar kurabiv', 'oyru okrapho'}, {'acro okrwyvw', 'iqrw kiurbof', 'Igar karibav', 'ikkr koorbuv', 'igUr kirubov'}, {'ucri okruyve', 'iqir kurebuv', 'ikra krwwbav', 'iqor korebov', 'iocr kwrwbuv'}, {'wjih okruyfo', 'iucr kirbeov', 'iqer kurebav', 'igur korebuv', 'ikra kahrbyv'}, {'iQor kerobav', 'iqre kreybof', 'wjri okyubvw', 'iugr korwbif', 'Igur kerabav'}, {'IQor kurubiv', 'igAr koribiv', 'aoyh oxruyvo', 'icru kaarbav', 'iekr kroybyv'}, {'grio okrwyve', 'iker kirboov', 'iGar karibuv', 'ikre krehbof', 'igar korabov'}, {'iukr kraubov', 'igar kirobiv', 'iGur karubiv', 'ikrw kurbehv', 'osiy qyrawvo'}, {'ikir kiribev', 'igar koribov', 'ikrw kurbuyv', 'oyri ikrivvo', 'igaR karabiv'}, {'iqOr kerabuv', 'okwo okryuvo', 'igUr kirubov', 'iqru kwrebaf', 'iwgr kriubov'}, {'IgAr kurubiv', 'ieqr korabef', 'osaw joorvaf', 'igUr kurabov', 'ikro kirbeof'}, {'iQor koribov', 'igAR karibuv', 'icry kyrebuf', 'iker kreabov', 'ykeh okriyvo'}, {'igAr korabov', 'iegr kwrubyv', 'wjri okwuvvo', 'IQor keribiv', 'ikrw kawrbyv'}, {'Iqor kurabuv', 'iqqr kirbouv', 'oxho akruhvo', 'igar kerobuv', 'ikri karybif'}, {'iqry kyrubyf', 'akro okruwpo', 'igAr karobov', 'iogr koribuf', 'iqar karibav'}, {'iwgr kaorbuv', 'igur kuribov', 'iqur kirubav', 'iqra kurbuhv', 'aozh okruyvo'}, {'igar kurubov', 'iqar kurebuv', 'iaqr krohbyv', 'icro krihbyv', 'azro okrbyfo'}, {'iqry korbawf', 'hiiw zoorpaf', 'ihcr kyrwbiv', 'iqir kirebiv', 'igAr kerabov'}, {'ecrw ohyubvo', 'iqer kuribuv', 'iqor karibov', 'ikry kiarbof', 'iugr kroabav'}, {'ikrw kahrbyv', 'igra kwrebof', 'igur koribav', 'igaR karibuv', 'ywyy okrbeaf'}, {'ikar kyrabav', 'icro korbewf', 'wogh ekrivvo', 'igUr korobiv', 'iguR karibiv'}, {'iagr kriobyv', 'igur kurebov', 'aqra yaerbvo', 'iqoR kirebuv', 'iqru kurbuev'}, {'ikwr kraubov', 'iGAr karubuv', 'ozrw okrufve', 'igur kirubov', 'ikru kyrbiwv'}, {'igur korebov', 'jiyw okyybvo', 'iugr korybyf', 'ikra kuwrbiv', 'iqar kirubiv'}, {'iqru kyrbaof', 'wosw qreofvo', 'iecr kiarbov', 'igUr karobuv', 'IgAr kirubav'}, {'iqqr koyrbuv', 'iqri kuerbav', 'igar kurobov', 'iGur keribav', 'wjaw okrwyvi'}, {'iakr kyrebuv', 'kiiw okrufyo', 'igur kurobiv', 'iGAr kuribav', 'icra kerbowf'}, {'iqwr keorbiv', 'ajhw oxyubvo', 'iqrw krywbav', 'igAr keribov', 'Iqor karibuv'}, {'iqer karebav', 'wiww wroopib', 'iQor kerobiv', 'ikri karwbif', 'iuqr kerabyv'}, {'iguR kerabav', 'igar kurobov', 'qaro okruhvh', 'iqri kyrwbef', 'iocr kwrebyv'}, {'IQor kurebav', 'yzri qreoyvo', 'igAr koribuv', 'ikur kurwbof', 'icru korbefo'}, {'ajaw okrapyo', 'ihgr kuorbuv', 'icre kruwbav', 'igUr korabav', 'iqar kirabiv'}, {'eswo ekyubvo', 'igUr koribov', 'igro karboav', 'iqir kurubiv', 'icry keribef'}, {'wjry qerywvo', 'iker kroobav', 'iqry kerbiuv', 'iqoR karubiv', 'igur kerobav'}, {'iqor karabov', 'iqru kraabiv', 'iguR kirabav', 'iqwr korybef', 'jirw osrivvo'}, {'iQor koribuv', 'igaR karabiv', 'icru kyrwbaf', 'ikar kerubev', 'usiy okrywvo'}, {'iqqr kyribuv', 'ywyy oxrapvo', 'igUr kurabov', 'ikre kwrbuwv', 'iqur kurubuv'}, {'ikrw kyrwbaf', 'iwgr krowbof', 'iqoR kerebav', 'igur karobov', 'esrw coorpaf'}, {'ayyo ohyubvo', 'iqir kerebav', 'iqor karibov', 'ikrr kurybof', 'ikrw kyrboaf'}, {'aohh oswubvo', 'iqoR karibiv', 'ikry kairbuv', 'iykr kruboov', 'igAr kirobav'}, {'iqre kirbeuv', 'wzru oqrufvo', 'ioqr krahbov', 'igaR kiribuv', 'igAr korubav'}, {'ikre koerbaf', 'igur korubiv', 'iqoR kerabiv', 'ysuw ykrufvo', 'ihkr korwbaf'}, {'icar korbuuv', 'igUr kerobav', 'igaR keribuv', 'ikra kayrbof', 'wugw osruhvo'}, {'wwgw jairbvo', 'iwkr kwrbeov', 'IgAr karubuv', 'ikro kurwbef', 'igAr kerabov'}, {'iqwr korebaf', 'igar koribav', 'iqur kerubuv', 'yzri okrvivo', 'icri kyrbaof'}, {'igaR karubuv', 'igra karabof', 'icra kriwbav', 'igar kurobiv', 'yaro owyubvo'}, {'ojwo okrivvu', 'igar keribov', 'Igar kerabuv', 'ikre kuirbuv', 'iykr kroybiv'}, {'wogw ozyubvo', 'iguR kirabiv', 'ikri kuribuf', 'ihgr korbewv', 'igar kurebov'}, {'igur korobiv', 'ihqr kirbovo', 'iqra kurboyf', 'iGAr karubav', 'ujrw zrewbvo'}, {'aoch okrefvo', 'iokr kreobof', 'icre karbiuv', 'igAr kerobiv', 'iguR karebav'}, {'yyhw okyufvo', 'ihgr kwribev', 'icro kiirbof', 'igUr korebuv', 'iGar karabiv'}, {'iqir kurabuv', 'iegr kurebyv', 'yihh okrwhvo', 'igar koribav', 'ikry kirbaof'}, {'iguR keribav', 'icre kirebaf', 'ikyr krihbov', 'esrw okruhva', 'igar korobuv'}, {'IgAr karebiv', 'igre kwrabav', 'icre kyrbuev', 'iqor korabav', 'aoyw hrewbvo'}, {'igro kurebof', 'wowh okrwfip', 'ikrw kuerbev', 'igar karobuv', 'iqir karebav'}, {'hyay oxrwyvo', 'iqru kurbuwv', 'igUr korabiv', 'ihgr kuorbuv', 'iGAr kerebuv'}, {'igAr kuribov', 'ikrw keyrbof', 'ickr kerbiov', 'hjaw okruyvo', 'iqar kirubav'}, {'iqru kyrbeuv', 'ioqr kwrwbiv', 'Igur kerebav', 'woyh osrivvo', 'igur kerobiv'}, {'igur kiribov', 'iqir kurubiv', 'ikru krawbof', 'igra kroubav', 'aqew oyruhvo'}, {'iqur kirabav', 'ywyh xroopup', 'icro kerbewv', 'icrr koarbiv', 'igUr kerobiv'}, {'eqew okwibvo', 'ikrr kiorbav', 'iqrw karbihv', 'iQor korebuv', 'iqer kiribuv'}, {'iqur kerabiv', 'iakr kurwbav', 'iqri kyrbeuv', 'igAr korebav', 'wygh okruhvu'}, {'iGar kiribiv', 'iqry korbiuf', 'igar kirobuv', 'asry ykrwyvo', 'iaqr kowrbof'}, {'ikra kuurbiv', 'uzri yoorpaf', 'iqwr kurybev', 'igAr karubov', 'iguR kerabuv'}, {'igAR kurebiv', 'ikwr karobuf', 'wosh okrwpef', 'igUr korebov', 'icro kuirbuv'}, {'ozri oqrwyvo', 'ieqr kruabov', 'iQor kurobiv', 'iqra kyrbaiv', 'Igar kerubiv'}, {'iqru karabuf', 'igUr korebiv', 'iagr kurebev', 'igaR kiribuv', 'wyay ojruyvo'}, {'iqqr kerybyv', 'iqru kuribuf', 'igur kurabov', 'iqOr kirebuv', 'axro sroopib'}, {'igur korobiv', 'ehgh yroopup', 'ikkr koirbyv', 'icra karubyf', 'Igur kerabav'}, {'IQor karibuv', 'iwkr koerbuv', 'ezro ikwubvo', 'iqry kwrubaf', 'igur korubav'}, {'aqho coorpaf', 'icrw kaarbev', 'iqur keribuv', 'icar korubif', 'igAr karobuv'}, {'icra kiurbuv', 'ickr keorbuv', 'iQor korobiv', 'azro oyruyvo', 'iqer karabiv'}, {'icri keirbyv', 'wojy jroopup', 'iokr kiorbev', 'iQor kurubov', 'IQor keribav'}, {'ikru kerboof', 'iGur karebiv', 'acro okruyvh', 'iuqr kyrebev', 'igur kerobiv'}, {'aoyh ykrwyvo', 'iGAr kirebiv', 'iker kyrabiv', 'iqri kriubof', 'iqor karobov'}, {'oyhw okruwwo', 'ieqr kyrubiv', 'iGAr kirebuv', 'icra kruobaf', 'iqor karubov'}, {'iGAr karabuv', 'igru kirbowv', 'yxro hkruyvo', 'icrw kirbiof', 'igAr korebuv'}, {'iqoR kerubiv', 'ikro kaarbyv', 'igar kurobov', 'ikrr kwrubav', 'wxro hkrivvo'}, {'icry kawrbev', 'IgAr kiribav', 'igri koarbuv', 'igar korabav', 'wegw qreopvo'}, {'iqor korobiv', 'icry keurbuv', 'esiy croowbp', 'iuqr kirobaf', 'iqar kiribav'}, {'ayhw okrivvu', 'iucr kyrwbof', 'iqor korobiv', 'Igur kerebiv', 'iqry krowbaf'}, {'iacr kiorbiv', 'iGar keribav', 'wjwo ocruyvo', 'igar karobav', 'icre kyrboyf'}, {'iuqr kruobuv', 'Iqor kurabav', 'uzrw gruooby', 'iqre kreobyf', 'igAr kirobav'}, {'ikro kiwrbuv', 'ikyr kurebyv', 'aoch ukruyvo', 'igAr kirubov', 'iGAr kerubav'}, {'iqoR karubav', 'igar korobiv', 'aokh okyubvy', 'ikrw kraabyv', 'ikyr karbouv'}, {'iGAr karibiv', 'igur korebiv', 'ikir kerybof', 'esrh yrewbvo', 'icry kaarbuv'}, {'ioqr kyrwbiv', 'igar korebov', 'ikre krywbev', 'wjih okrewvo', 'iguR kiribav'}, {'igar korubav', 'IgAr kurubiv', 'ikro kriabiv', 'iqrr korbuev', 'wzro gruooby'}, {'icre kwrbuyv', 'iqor korebuv', 'iqur karibuv', 'ihkr kyrbiov', 'ehgh okrawvo'}, {'ujru qroopwf', 'igur korebav', 'ikur kerwbyv', 'Igur kurebav', 'iqre koorbaf'}, {'iukr kerebev', 'IQor kiribuv', 'iqor korabuv', 'hcri okyubvy', 'ikro karbiwv'}, {'ayru qreoobh', 'iwkr karwbev', 'iQor korubiv', 'iGur kerebiv', 'icri kirbuiv'}, {'IgAr kirebav', 'wsru hkrwyvo', 'ikry kerbuwv', 'iQor korobav', 'icwr kyrobef'}, {'iqor karobav', 'icro kroobef', 'iguR kurebav', 'ikkr kwrabyv', 'jirw owruyvo'}, {'icwr karybav', 'iguR kerebiv', 'igar karobav', 'ikre kerybyf', 'giuw oyruhvo'}, {'iqor korubov', 'icri kreboof', 'iqoR kerubuv', 'wcro zaerbvo', 'iukr karybav'}, {'giay okrbiap', 'Igar kerabiv', 'icar kurwbof', 'icre kaurbyv', 'igUr karibov'}, {'igar keribov', 'igru krowbof', 'yjaw osrwyvo', 'ikrw kaarbev', 'IgAr kerabiv'}, {'iogr kaorbev', 'jiyw ohyubvo', 'igUr korebov', 'icry krywbof', 'Iqor kurubuv'}, {'ikru krawbav', 'eqro okrwyvh', 'igAr kiribov', 'iygr kyribof', 'iqer kurubuv'}, {'ihkr kyrbeov', 'iqri karabif', 'IgAr keribav', 'ajaw ekrufvo', 'igAr kerobav'}, {'icro krihbev', 'igar koribav', 'iqar karebuv', 'wzrw qehybvo', 'igry koarbof'}, {'ecwo oqrwyvo', 'iqor karibov', 'igAR kurabuv', 'iyqr kiyrbov', 'ikra korbihf'}, {'aqru okrapub', 'iGar kerubuv', 'iaqr korbeyv', 'igur kurobav', 'icro kihrbuv'}, {'iqar kurabiv', 'ikry kwrwbuf', 'yyro osruwvo', 'igur kirubov', 'iqqr kraobev'}, {'iqwr korbeav', 'wegw okruyfo', 'Iqor kurebiv', 'igur kerobuv', 'iqri kreobyf'}, {'iqrw kirbiuv', 'Igur kerebav', 'iocr kyrubyv', 'uqeh wrewbvo', 'iqor kurobuv'}, {'iQor koribuv', 'ikyr kroebof', 'yyro wkyubvo', 'Igar kerubav', 'iqre keurbyv'}, {'oirh okravvo', 'iQor karobiv', 'ikrr kihrbov', 'ikrw kuwrbuv', 'IQor karubiv'}, {'eyro oyruyvo', 'iqra kwrbehv', 'igAR kerebiv', 'iQor kirobuv', 'ickr kyribev'}, {'iGAr kurebiv', 'iqri kruybyv', 'ickr kurybiv', 'eyay hkrwyvo', 'igUr keribov'}, {'ikrr korbyyv', 'igUr kerobov', 'wjru okwufvo', 'iqir kirebav', 'iqry kyrbuof'}, {'ickr korybaf', 'igur karobav', 'iqru kyrbeiv', 'oqrw gruooby', 'IQor kerabiv'}, {'ysru owruhvo', 'iqrw kirbihv', 'igAR kirabuv', 'igra kwrwbiv', 'igUr keribov'}, {'icar kurybuv', 'iqar kerubiv', 'usry yroowbf', 'iqry kwrubyf', 'igur korubav'}, {'Igur kirabiv', 'iwgr kirobuf', 'iqor koribav', 'ycri qoorvaf', 'iqri korbefo'}, {'icrw kurbuyv', 'igUr kiribov', 'Iqor keribuv', 'owrw ogrivvo', 'ikkr krywbov'}, {'wugh okyapvo', 'icrw karbyyv', 'igur kirobiv', 'igaR kurebiv', 'iucr kruhbov'}, {'ikru kryybof', 'ikrr koyrbyv', 'iQor kuribov', 'IgAr karibiv', 'ayru ykruhvo'}, {'igAR karebiv', 'ikre kirwbuf', 'igUr korabov', 'icur kurboov', 'jiyw jairbvo'}, {'iqri kyrbiof', 'okro okruwwo', 'igur karobiv', 'iGar kirebiv', 'ihqr karbohv'}, {'iqro keurbuv', 'ikrr kurboov', 'aojh caruvvo', 'iqor kirobav', 'Igar kerubuv'}, {'icri kriybev', 'iacr kiorbav', 'yweh okrhwvo', 'igUr kirubov', 'Igur kurubuv'}, {'iGur kirebuv', 'ikro kuhrbiv', 'iqor korobav', 'esiy hkruyvo', 'ihqr krehbov'}, {'ioqr korbeuv', 'iqor karobav', 'IgAr kurebuv', 'ikru kruhbuv', 'axew okyuvvo'}, {'awgh ogruhvo', 'iqru kraboof', 'ihqr kurybiv', 'iqor kurobiv', 'iqOr karabav'}, {'igar kerobiv', 'iguR karebiv', 'iokr kiirbov', 'ikri karebaf', 'ajiw okrapvw'}, {'icra kurebuf', 'igAr kiribov', 'igaR kiribuv', 'wogw okrbyfo', 'ihgr koyrbuv'}, {'ikri koirbaf', 'igry kohrbuv', 'Iqor kerebuv', 'igur kerobiv', 'okru okrwyvy'}, {'iqrw kirbuuv', 'hzri owrivvo', 'iecr kreybov', 'igar korobiv', 'iqOr kurabiv'}, {'iqro karbyyv', 'iQor kiribov', 'wyru ykrwyvo', 'icar kiarbov', 'iqar karebav'}, {'iycr kroabyv', 'igUr karubov', 'iqre karebaf', 'aokh okruyvw', 'iGAr kurabav'}, {'esiy qaohbvo', 'IQor kuribav', 'icre kreobif', 'iwkr kruobav', 'igar kurebov'}, {'igur korabiv', 'jiiw okruhvi', 'iGAr kerebiv', 'ikar kroabiv', 'ikro kurbuyv'}, {'ieqr kriibov', 'igur karabov', 'wjri okhuhvo', 'iqry kurbuwv', 'iqur kurebuv'}, {'iwqr kiurbov', 'iqry keorbef', 'iQor kurubov', 'yjaw owrufvo', 'iqur karubuv'}, {'iqwr kuorbiv', 'igar korabiv', 'zirw okruwvo', 'iguR kurebiv', 'ikru kiorbuf'}, {'iqar keribiv', 'iugr korbohf', 'igUr korabiv', 'iqra kuirbiv', 'wzri ocruyvo'}, {'igar korubov', 'wjuh ogyubvo', 'ikry kaurbyv', 'iqoR karabuv', 'iagr kurwbyv'}, {'igur karubov', 'iqry kowrbyf', 'esry ograpvo', 'igaR kerubiv', 'ikwr kroobev'}, {'iqrr karubyv', 'iqoR kiribav', 'okrh qreopvo', 'iQor kurobuv', 'icry kriybyv'}, {'Igar kirebav', 'igur kirobiv', 'iaqr kirobef', 'icru kroobyf', 'xiew okruwva'}, {'awro ozrwyvo', 'igar korabiv', 'iqyr karobif', 'iqer kirubav', 'ikro kwrwbaf'}, {'ickr kroobof', 'okra okrifvo', 'igAr korebuv', 'iqar karebuv', 'iqrw kyrwbaf'}, {'ajyw oqrapvo', 'iakr kyrbaov', 'iQor korabav', 'iqOr keribuv', 'iqri kwrubuf'}, {'iqro kayrbuv', 'icwr kreebov', 'Igar kurebiv', 'igUr kirobuv', 'ysuy ekruyvo'}, {'igUr kurebov', 'ikry kehrbyv', 'iGar karebuv', 'iqwr kyrubuv', 'ocrw ikruyvo'}, {'igru kerybyv', 'ikrw kyrubyf', 'wjhh ohwubvo', 'iGAr kurebuv', 'iqor korebov'}, {'igur korebov', 'Igur karubiv', 'ieqr kyribof', 'icru kurbiuv', 'ohho okrwpef'}, {'ieqr karebev', 'igar kirobiv', 'yokh okwabvo', 'iGAr kirabuv', 'iqru kerbivo'}, {'iqra kwrwbef', 'hjro oqyubvo', 'ickr korbwyv', 'iQor karabov', 'iGar karabiv'}, {'wkro oxruwvo', 'Igar karubuv', 'iQor kerobov', 'iwgr karwbev', 'icra kerbiyv'}, {'iqre kewrbof', 'ikkr kiribev', 'aogy hairbvo', 'igur karibov', 'iqur keribiv'}, {'iQor karubov', 'iqro koorbef', 'ayaw qreofvo', 'igru karybof', 'iqar karabiv'}, {'iqra kerbewv', 'ayay oqrivvo', 'igAR kurabiv', 'igar korubiv', 'iycr kyrubyv'}, {'ikro kerbywv', 'igUr koribov', 'ywyy qroopib', 'iqer kirebav', 'ikar kirboiv'}, {'icri kryybof', 'igro keorbuv', 'ekro ykruhvo', 'iGur karibuv', 'iqor kerobuv'}, {'oyay okruwvi', 'igur korubov', 'iecr kirbiov', 'IQor kirubiv', 'ikro karbywv'}, {'iqra kreybyv', 'igry krbooov', 'igar kurobiv', 'wqro groopib', 'Igar kerebiv'}, {'iqir kurabuv', 'iqra karybif', 'ooxh yreybvo', 'icur kerboov', 'igAr karebov'}, {'igar karobov', 'ikru kawrbev', 'yzri qyarbvo', 'iogr karobaf', 'iguR kiribuv'}, {'igAr korubov', 'iqar karabav', 'ayro okrwpip', 'iqri kirbuuv', 'igro kruobav'}, {'Igar kurubuv', 'iqri krewbuv', 'iqor kirobiv', 'ihcr kruobuv', 'esry owruwvo'}, {'gaio okruhwo', 'iGur kerubuv', 'icru kurebyf', 'iygr kwrbiov', 'igUr koribuv'}, {'iqOr kiribuv', 'aqry yroopup', 'igrw krowbof', 'icri kaarbof', 'iqor korebav'}, {'igaR kirabav', 'wogh okrwyvh', 'igAr kerobav', 'ikyr kerboav', 'icre kryboof'}, {'ikwr korbohf', 'igAR karibuv', 'ikri karbaav', 'igUr korebav', 'wqro okruyvo'}, {'hjaw okripeb', 'ihkr kriboov', 'iqri krowbef', 'igAr kirobiv', 'IQor karebuv'}, {'igAr kerebov', 'ioqr kerubev', 'icre kyrwbyf', 'ozri hairbvo', 'iqur kerebuv'}, {'iecr kraibov', 'iguR kurebuv', 'ykah okruvvo', 'iQor korabav', 'ikre kyrebaf'}, {'iqer kurabuv', 'igUr korebiv', 'zirw okrapvu', 'ikwr koirbav', 'icrw kraobuf'}, {'Igar kurubuv', 'eyhw croopib', 'icur kruhbov', 'ikre koarbyf', 'iQor karebov'}, {'iqrr kwrubyv', 'ohgw zoorvaf', 'iqOr kirabiv', 'ikrw kyrbiof', 'igur karobuv'}, {'oyro ocruyvo', 'igAr koribuv', 'icrr korbavo', 'icri kroobaf', 'igAR kerubiv'}, {'igAr kuribov', 'iqoR keribav', 'hwro okrapfo', 'iqra korbihf', 'ikyr kroybiv'}, {'iqur kurubiv', 'igur karobav', 'wegw okrapvy', 'iqra kuhrbiv', 'igre kreibov'}, {'kiiw okyuyvo', 'iQor kuribov', 'iwcr korbahv', 'iqri kuirbuv', 'Igar kuribuv'}, {'icrr kowrbof', 'iqur karabuv', 'giaw okruhvi', 'ikru kihrbof', 'iQor karebov'}, {'ihgr kwrwbav', 'igAr kirebov', 'ojre okruwpo', 'Igur kerubav', 'icri kyrboaf'}, {'iegr kraebov', 'iqer kurabav', 'igAr kirabov', 'wzru owyubvo', 'iqri kuwrbyv'}, {'ickr koorbuv', 'yxro okyubvy', 'iqir kiribiv', 'igAr korobiv', 'iqru kerbahv'}, {'ohho hkruhvo', 'iGur kirebiv', 'igAr kerubov', 'iucr kyrwbiv', 'iqrw kuurbiv'}, {'igUr korabiv', 'icra kraubof', 'ihqr koyrbev', 'iqur karebiv', 'asaw wkruhvo'}, {'igAr kirobov', 'wjry okwuvvo', 'icri kirbiuv', 'iygr koyrbuv', 'iqar kerubav'}, {'ujro qreoobw', 'iqur karubiv', 'ikra kiurbiv', 'iegr keorbof', 'igAr korobav'}, {'Igur kerebuv', 'wyay ojrivvo', 'icur kirybof', 'iqro kirbiuv', 'iQor karobov'}, {'igar korabuv', 'igAR kurabuv', 'iokr kuurbov', 'iqry kehrbof', 'wokh qoorvaf'}, {'iyqr kerbohv', 'iQor kurubov', 'icre kwrbeof', 'iGar kerebuv', 'yweh oxruwvo'}, {'ikyr kirobyf', 'iQor kirobav', 'icry korbeuf', 'iqur kirubuv', 'jiru qroopwf'}, {'ywey yroopup', 'iwgr koorbiv', 'Iqor kurubav', 'iqro kurbaiv', 'igUr kurobov'}, {'igur keribov', 'iqer kirubuv', 'icro kerbuvo', 'wwgw okwuyvo', 'iwcr korbouf'}, {'iGar kerebav', 'jiyw ojrivvo', 'igra kwrbohv', 'igUr karobiv', 'ikrw kearbof'}, {'giuw ozwubvo', 'iGur karibav', 'iqyr kruhbov', 'icro kowrbef', 'igAr korubav'}, {'icri kurwbyf', 'igaR kerebav', 'igar kerobov', 'ojrw oxyubvo', 'ikur kurabof'}, {'iecr korbeuv', 'ikre kurbiwv', 'eogw owyubvo', 'iqor karobov', 'iGAr kirubiv'}, {'iykr kerabyv', 'sero ykyubvo', 'igAr kurebov', 'igAR kerubuv', 'iqro kiarbuv'}, {'iqrr koarbav', 'ojre qyrahvo', 'icre kirbywv', 'iguR karubiv', 'iQor karebov'}, {'eoyh yoorvaf', 'iker korwbuf', 'iQor karabov', 'iqur keribiv', 'icri kwrbihv'}, {'ojra okwubyo', 'IgAr karibiv', 'iegr kwrbaov', 'iQor keribov', 'icry kyrbiiv'}, {'wwgh jrewbvo', 'iokr korubef', 'ikrw kirboef', 'iqOr kurubuv', 'igUr kerobiv'}, {'Igur karibav', 'iqry kerebaf', 'iQor karibov', 'ukro okruywo', 'iqrr kourbof'}, {'iGAr kerubiv', 'igUr kurobav', 'icro kriwbav', 'iqqr kyribev', 'wozh sroopib'}, {'iecr korbouf', 'igar koribov', 'icro kwrbivo', 'ehro okyybvo', 'iGar kuribiv'}, {'iocr kuurbov', 'iGAr karubuv', 'icrw kuerbof', 'wugw okrapvu', 'iqor karobuv'}, {'igar keribov', 'iguR kurebav', 'okyo osrwyvo', 'iwkr kyrebof', 'icre kwrubyf'}, {'iGur kuribav', 'wjay okruwvy', 'icre keorbuf', 'iQor karubov', 'ikur kerboyv'}, {'iqer kuribav', 'ooxy xroowbf', 'ikry kirebaf', 'igar kerobav', 'iqqr korbewv'}, {'iqre kaorbyf', 'exhh okwubyo', 'iGAr kurabiv', 'iqor korebav', 'ickr kerwbiv'}, {'iqra kyrboyf', 'ikur kuorbof', 'wokh osyubvo', 'igur korobav', 'iqir keribav'}, {'igAR karebiv', 'iqor karobav', 'icre kuorbyf', 'wzri akruhvo', 'iqwr kaorbuv'}, {'yoyw okrufwo', 'igAr korebiv', 'iekr krohbav', 'iGAr kirubiv', 'ikrw keribuf'}, {'iGur kiribuv', 'igar keribov', 'ikra kerboof', 'igry kurboov', 'ooxy gruoobh'}, {'igre koerbyv', 'oyri coorvaf', 'IQor kirebuv', 'ikro karbaof', 'iQor karebov'}, {'iqqr kerabof', 'iqra karubuf', 'ujeh croopup', 'iGAr kirebuv', 'igAr korobiv'}, {'igru koyrbev', 'iQor kurobuv', 'owho oqwubvo', 'Iqor karabav', 'ikry kriubyv'}, {'iguR kurubav', 'icra krwybiv', 'ayuw okryyvo', 'iokr kiorbyv', 'igUr korobuv'}, {'igar keribov', 'wjey okwuwvo', 'iqru karbiwv', 'iqoR kurubav', 'igry korebef'}, {'igar karubov', 'ioqr kyrboev', 'iqur karubuv', 'wcru ekrapvo', 'icrw keyrbof'}, {'ezri zroopib', 'iakr krehbov', 'icri karbevo', 'igAr kirebov', 'Igur kurubuv'}, {'igAR karabuv', 'ecwo yroopup', 'icry kyrbehv', 'igUr karibov', 'iegr krowbuv'}, {'ihcr karobef', 'iQor kerubov', 'iqra kerbiof', 'geiw ukrapvo', 'igaR kirubuv'}, {'Igur karibiv', 'azri akrwyvo', 'icwr kyrbiov', 'igar kirabov', 'icro kerbowf'}, {'oyra caruvvo', 'IgAr karubav', 'igUr kerabov', 'ikrr kywrbov', 'ikro karwbaf'}, {'igar kerubov', 'oyro okwwbvo', 'iqer kurabiv', 'icra kurbywv', 'ieqr kroobiv'}, {'iqor korubov', 'iqir kerabav', 'ajrw qaohbvo', 'ihgr korbiiv', 'icro kyrbaiv'}, {'ayho wkruwvo', 'igAr kurubov', 'iqer kerubiv', 'ikry kierbof', 'iukr krohbev'}, {'Igar kuribiv', 'icry kurbehv', 'giiw okwwbvo', 'igUr korobuv', 'ihqr kruobuv'}, {'iwqr kyrbouv', 'igAr karobav', 'igAR kurubiv', 'ikra kyrwbif', 'aojh ykwubvo'}, {'iqri kwrbuof', 'iqar kurabav', 'iuqr koirbyv', 'ayrh ograpvo', 'igur kurobuv'}, {'ikro kruybiv', 'iGar kiribav', 'ohro hroowbf', 'iuqr kwrbouv', 'igAr koribav'}, {'iqru karubuf', 'iqar karibiv', 'igar kerobuv', 'igry kirbeov', 'acho oyrufvo'}, {'iqrr kwribyv', 'ciiw okrivvw', 'ikro kwrwbuf', 'iguR keribav', 'iqor karibov'}, {'igur karubov', 'ehgh okrapip', 'Igar kerabuv', 'iqyr kiorbiv', 'ikry kirwbaf'}, {'iqrw kriubiv', 'iGar keribuv', 'axro akrwyvo', 'igAr kirebov', 'ickr kerboyv'}, {'iqry korbifo', 'uzrw okruvvo', 'iqar kirabav', 'iwqr karwbav', 'iqor korabav'}, {'icre kurbuwv', 'iqor kurobav', 'iqer kerabav', 'aogy okrwyvo', 'iqwr korubef'}, {'wyro okrwyyo', 'igar korabuv', 'iqir kirubiv', 'ihqr kurobif', 'icra koerbyf'}, {'iegr kirobyf', 'iGar kerabav', 'iqre krawbof', 'igAr karebov', 'eoyh ogruhvo'}, {'Igur kirebav', 'uqre joorpaf', 'iqor karibov', 'ikre kwwrbev', 'igri kriwbov'}, {'iukr kroebav', 'wosh okruhve', 'iqOr kurebuv', 'icre kuurbuv', 'iqor korebov'}, {'igri kwrboiv', 'iqor kerebov', 'iGAr kirebiv', 'uzro okruyva', 'iqrw kruybyv'}, {'Iqor kirubuv', 'wsru wrewbvo', 'icri kurbiuv', 'igUr kirebov', 'iucr kurbeov'}, {'igru kwrabyv', 'iqrw keirbyv', 'Igar kurabiv', 'igAr korubav', 'wsru okruhho'}, {'iqoR kirubav', 'ikra karubef', 'ihkr kurbouv', 'iQor kirabov', 'ajyw okrufvy'}, {'igaR kurabiv', 'yyay okrhuvo', 'iqro kwrbeuv', 'iokr kyrboyv', 'igur kirubov'}, {'iqur kurebav', 'ikrw kirbeuv', 'ikir kurybuv', 'ayrw ocruhvo', 'iQor karibov'}, {'iqrw kuarbiv', 'iqer kirabiv', 'iykr kruwbov', 'igar kirebov', 'yzrw osrwyvo'}, {'woyh wkrivvo', 'iykr koyrbuv', 'iqra kahrbyv', 'iqOr kirebav', 'igAr koribav'}, {'iQor kerabov', 'iucr kriebov', 'iqre kirbihv', 'okrh okrahvo', 'Igur karebiv'}, {'igro kirobef', 'iqor kerubov', 'giyh okruwwo', 'iguR karabiv', 'icro keirbyv'}, {'igAr karibov', 'ykro ekrwyvo', 'iacr kyyrbov', 'IgAr keribuv', 'icro kuerbyv'}, {'icro kurbuuv', 'iGur kurebuv', 'ihcr kohrbuv', 'igUr korubiv', 'wjru okruwho'}, {'oxrw oyruhvo', 'icro kraobuf', 'igAr kirobiv', 'iyqr kroebuv', 'iguR kiribuv'}, {'iqor kirubov', 'ihgr kerobif', 'ikry kwrbiuv', 'ezro oxruhvo', 'Igur kurubuv'}, {'icry kyrbihv', 'yyro okruwpo', 'igUr koribov', 'iker korybef', 'IgAr kurebav'}, {'iQor kerobav', 'okyo okrhwvo', 'Igar karebuv', 'iqra korbifo', 'ihcr korbiiv'}, {'iqir kirabav', 'igra kerboov', 'ikro karbyvo', 'aoyh qyrayvo', 'igur kerobav'}, {'iagr korwbif', 'icro kurebaf', 'iqor kirubov', 'ehgh jrewbvo', 'iGAr kurabuv'}, {'ikrr kerybof', 'uqeh okruypo', 'iqor kirubov', 'ikro kiurbiv', 'iqar kirebiv'}, {'igUr kerubov', 'hyhw okwibvo', 'icri kruibiv', 'Iqor karebav', 'iugr kraebov'}, {'icrw kerbiuv', 'iqer kerebiv', 'igur karibov', 'igro karbowv', 'uogh hroopib'}, {'igur korubiv', 'iker kurybof', 'icre kerubuf', 'iGar kirabav', 'ezro waerbvo'}, {'igUr kirobav', 'ikri korbeaf', 'iecr kuhrbov', 'iqoR karubiv', 'uzro akruyvo'}, {'wxro okruhvh', 'iyqr kurbeov', 'iqre kerbiiv', 'igar karebov', 'iqer kurabuv'}, {'icru korbahf', 'iqer karebiv', 'icwr kirboov', 'igar kirobuv', 'giyw okrwyvo'}, {'iqor korubov', 'ihgr kurbovo', 'ejro okrufvw', 'iqru kruibav', 'iGAr kurabiv'}, {'iugr kwrobaf', 'iQor kuribov', 'okyo okwuvvo', 'iqri kriybyv', 'Igur karibiv'}, {'ikri kryybof', 'iqur kirebiv', 'igra korbwyv', 'igur korebuv', 'yjro okrapvu'}, {'IQor karubuv', 'akro ykyubvo', 'igur kurabov', 'iaqr kruhbov', 'iqry kurbuiv'}, {'icry kirbehv', 'iqur karebiv', 'ezrw okwuyvo', 'iaqr karbovo', 'igAr korabuv'}, {'igar kerobiv', 'iukr kreabov', 'ikri kurbuof', 'ocrw oyrwyvo', 'iguR kirebiv'}, {'ikru kerubyf', 'igru korbyyv', 'eswo okrufwo', 'Igar karebuv', 'igUr koribuv'}, {'ikar kurboav', 'igAr karibov', 'icro korbefo', 'wagh ykruyvo', 'Igar kerubiv'}, {'ikru kaarbiv', 'iqor kurobov', 'ickr korbowf', 'oyrw okyubho', 'Igar kerebav'}, {'iGAr kurebiv', 'oxrw cawubvo', 'igur kirobiv', 'ikru kiirbof', 'iwcr kyrabev'}, {'iqor karebov', 'iqry kyrbuiv', 'ayhw okruhvh', 'ihgr kwwrbov', 'IQor kerebuv'}, {'icrw kurbuof', 'igAR karubuv', 'wagw qyrawvo', 'igra kreobyv', 'igUr korabuv'}, {'iqor kerabov', 'iqOr karibav', 'iwcr kerwbyv', 'icra kairbuv', 'whgh gruoobp'}, {'igar kirubov', 'jihw okrhfvo', 'icro kuarbof', 'igAR kerabiv', 'icar kirbowv'}, {'ohho ojruhvo', 'igAR kiribiv', 'iqre kayrbuv', 'igar koribuv', 'igro kirybiv'}, {'igur kiribov', 'ikyr kyrboav', 'wagh okyubvi', 'ikra kurbiwv', 'Igur kirebuv'}, {'iqrw kerbewv', 'iGur kerabuv', 'iecr kirbaov', 'igar kerobov', 'ohgy wkrufvo'}, {'uyay qreovvo', 'icrw kerabuf', 'iGur karubuv', 'igur kerebov', 'iecr kerboyv'}, {'igAR keribav', 'ikri korbahf', 'icar kurboyv', 'iQor karobiv', 'wiwy wkrapvo'}, {'iygr kerybof', 'iGur karabuv', 'iQor karibov', 'ajyw okruwwo', 'icro kraybof'}, {'iqry kyrbeiv', 'iqer kirebav', 'igur koribav', 'yyay okwubfo', 'iakr krowbav'}, {'ikwr korubef', 'iqro kyrebuf', 'igUr korubiv', 'ywre okrwpvo', 'iGAr karebav'}, {'osaw okrwypo', 'iwgr kruwbov', 'igar koribuv', 'IQor kurebiv', 'ikry kreebuv'}, {'iqur kurabuv', 'iqra kurybyf', 'ysaw coorpaf', 'igru kyrbowv', 'igUr kirobuv'}, {'aogw wroopib', 'iqoR kirabuv', 'ikro kirbiwv', 'igAr kerabov', 'icwr keirbov'}, {'iqro kruebuv', 'igro kriwbov', 'siiy okruwvw', 'igAR kirebiv', 'iqor karobuv'}, {'iqor karobiv', 'ikro kriibuv', 'iakr kroobiv', 'Iqor kerabiv', 'asry okruhvi'}, {'igUr koribov', 'ocro okrefvo', 'Iqor kerubav', 'icra karbeof', 'icur koyrbev'}, {'icre koirbaf', 'wjhy osrivvo', 'iqar kirebav', 'iykr kruboov', 'iqor korebov'}, {'iqro karebaf', 'iQor koribiv', 'yoyw carupvo', 'iakr kyrbeov', 'iqoR kiribiv'}, {'iQor kerubov', 'aqra ozruhvo', 'ikra kiorbef', 'iykr korbowf', 'iqar kerubav'}, {'eogh ohruyvo', 'icur kyribyv', 'ikrw kiarbof', 'Iqor keribav', 'igAr kirobuv'}, {'hsiy okwwyvo', 'IgAr kuribuv', 'ikri kerbeuv', 'iQor korebuv', 'iwqr korebyf'}, {'iGur karabiv', 'ikrr korebuf', 'ywew ekrufvo', 'icry kiorbyf', 'igAr kerabov'}, {'hogy okwwyvo', 'iqOr karibav', 'igur kurubov', 'icra kyrbyvo', 'igrw krohbuv'}, {'ewro ikrivvo', 'igUr korabiv', 'igry kwrwbyv', 'igaR kurebav', 'iqre kiarbuv'}, {'ikrw kwrbeof', 'yxro okrepvo', 'iqoR karubuv', 'igro kuhrbov', 'igur kurobuv'}, {'igAr kerebov', 'ykwh wkwubvo', 'ihgr koirbuv', 'ikre kwrubaf', 'IQor kurubuv'}, {'ickr kwrybof', 'ikrw kyrbouf', 'igur kirabov', 'iqir kerebiv', 'wkru okyuhvo'}, {'ykyh okruwva', 'ikry krwybyv', 'iokr kerebof', 'iGar kurabiv', 'igAr kerubov'}, {'iqry kurbiiv', 'igre kuhrbov', 'iqer kurubuv', 'wzrw ekrivvo', 'igAr kirobiv'}, {'icwr kurybyv', 'iqOr kirabav', 'igUr koribav', 'ikry kuerbiv', 'wyay hkrivvo'}, {'igar kurubov', 'ikru kyrbuof', 'iqar karabuv', 'iekr kreobof', 'ayyo ozrivvo'}, {'ooxw okrbuyp', 'igur karobiv', 'Iqor karabiv', 'ikru krwwbav', 'iaqr koyrbiv'}, {'icry kerebuf', 'wjuy yairbvo', 'igAr karobiv', 'iqir kerubuv', 'iwcr kerebyv'}, {'wwru okruwfo', 'iqry kurbahv', 'ikyr krawbov', 'igAr korubav', 'iqOr kirabuv'}, {'igra kurobif', 'igAr karobov', 'iqur kirabav', 'jiaw hairbvo', 'iqri karybaf'}, {'ikir karobef', 'igAr korabiv', 'Iqor kerabav', 'ikru kwwrbev', 'ujro ogrufvo'}, {'IgAr karabav', 'ihgr kyrubyv', 'ojyo hroowbf', 'iqor korebiv', 'ikry kairbyv'}, {'ikro kerabyf', 'igUr kirobav', 'ucho okrapve', 'iqar karubuv', 'ikyr kohrbyv'}, {'iwkr kurobyf', 'igaR kerabuv', 'icru kreobuf', 'iQor kerobiv', 'uqeh okrivpo'}, {'iqur karubiv', 'igar korubiv', 'icre kihrbof', 'icur kwrobif', 'giay qreoobp'}, {'iucr kerybyv', 'icro kryybiv', 'IgAr karebuv', 'osaw oywubvo', 'igar kurobiv'}, {'aegh owyubvo', 'ickr kraobyv', 'ikru kroobyf', 'iqOr kirubav', 'iQor kurebov'}, {'ihqr kearbov', 'iqor keribov', 'ikru kiurbuv', 'iqOr karibiv', 'ejaw oswubvo'}, {'iqra kwribyf', 'iGur kurabav', 'iwgr kuorbof', 'igAr kirebov', 'wzro okrapub'}, {'owrw wkruhvo', 'igro kwrybav', 'iqOr karebiv', 'icrw kerbauv', 'iQor karobov'}, {'ikre kaarbev', 'iqur kurubiv', 'ihcr kerabev', 'gihh xoorvaf', 'igar korobuv'}, {'igAr koribiv', 'iukr kroebiv', 'jiww okrihvo', 'iqOr kuribiv', 'icry kerbiev'}, {'iGur kirubuv', 'iqri koorbaf', 'iQor kurobov', 'igri kerwbev', 'oogh ogruhvo'}, {'iocr kreabov', 'iqoR kerabuv', 'iqrw kohrbaf', 'igur karobov', 'wcru akwubvo'}, {'iygr kwrabof', 'ohro ogruhvo', 'iqOr karibav', 'iQor kerobuv', 'ikri kwrbywv'}, {'ojro okyivvo', 'iqre kahrbyv', 'iqor korubov', 'iocr kuorbuv', 'Iqor kerubiv'}, {'ikur kuurbov', 'Igar kirabuv', 'ezrw ohruyvo', 'iqra kiarbof', 'igAr kerobiv'}, {'ioqr korabuf', 'wsiy hairbvo', 'igar korubiv', 'icra kerbauv', 'iqOr karabuv'}, {'igur karubov', 'yxhh okruyve', 'ikre kruwbav', 'iucr kerwbof', 'Igur kirubuv'}, {'ikre kroebif', 'iykr krehbov', 'oxrw hroowbf', 'igAr korebuv', 'iqer kiribuv'}, {'Igar kurubav', 'ikre kurbuwv', 'iqor kirubov', 'iker keorbyv', 'gieh croowbp'}, {'iycr koerbuv', 'iqry kuribif', 'ycro okwibvo', 'iGAr kerubav', 'iQor karebov'}, {'igry kreybov', 'igUr kerobav', 'icre kwrwbyf', 'aosh caruvvo', 'IgAr kirubuv'}, {'ojwo cayubvo', 'ikre kaarbav', 'iakr korwbuf', 'igAr korobav', 'Igur karubiv'}, {'iqor kurebov', 'ayry okruhvu', 'IgAr kurubuv', 'iqre kerbiyv', 'iker karbouv'}, {'iQor kerobav', 'icro kuwrbof', 'ioqr kwribev', 'ujey okruhvo', 'iqur keribav'}, {'iqer kurabav', 'hiiw ozrivvo', 'icri karboif', 'ikwr kwrobyf', 'igur kirobuv'}, {'igar kurubov', 'igra kirbuov', 'ajew haerbvo', 'IQor kirabiv', 'ikry krihbyv'}, {'igur korebov', 'icry koyrbaf', 'IgAr keribiv', 'iykr kroubof', 'aoxh hroopup'}, {'iGur kiribuv', 'igUr kirobav', 'iqro karubif', 'ihkr kriobof', 'okry okrayvo'}, {'iygr kriwbov', 'igar karobov', 'Igar kerabav', 'hsiy okruwvy', 'ikre kurybyf'}, {'iqra kaerbyv', 'iugr koarbav', 'igar karobiv', 'eoyy okwubyo', 'iqOr kerubav'}, {'igar korebov', 'igra kurwbuv', 'igaR kirebav', 'icra kwrwbef', 'okro okhuyvo'}, {'iQor korubav', 'osho okyabvo', 'icre kurbuvo', 'IQor kiribiv', 'iokr kraobev'}, {'ocho yoorpaf', 'ieqr kruybov', 'ikru korbawf', 'iqer kiribuv', 'igur korabuv'}, {'igar kirobiv', 'ikur kyrubuv', 'exro oqwubvo', 'IgAr karubav', 'iqra kuarbof'}, {'ikar kyrbuov', 'iGar karubav', 'iqor koribav', 'wcro okrwyvo', 'iqri kwrbuwv'}, {'igAr korebav', 'wiwy xoorpaf', 'ikry kiwrbuv', 'Igur karebuv', 'iqrr kearbov'}, {'icrw kruubav', 'iqoR kerabuv', 'ikur kirobuf', 'yiay hroowbf', 'iQor kirabov'}, {'igar korubuv', 'ikrw kwrbiuv', 'igaR kiribuv', 'sero ojruhvo', 'ikir kreobuv'}, {'yjru okrwuvo', 'igar karobiv', 'Iqor kurabav', 'ikrr kerobuf', 'iqry kyrbeev'}, {'icro kirbehv', 'igur karobav', 'iucr kirbuov', 'iqOr kurabiv', 'yoyy okrbiap'}, {'Igur karebav', 'iqwr kurubyv', 'iQor koribuv', 'iqry kwrbivo', 'yihh okrivfo'}, {'iqOr kurabuv', 'iekr kirobef', 'icra kerbeuv', 'ujew coorvaf', 'igUr kirobiv'}, {'ihqr kirobuf', 'iqor kirabov', 'iqra kwrbuyv', 'ocrw wkrufvo', 'iguR kirubiv'}, {'ikra kriubof', 'igur korabiv', 'IgAr karibav', 'iuqr kuorbyv', 'wozw okrivfo'}, {'iaqr kruybov', 'Iqor kurabuv', 'igUr koribiv', 'aegh okwubpo', 'ikrw kerwbaf'}, {'ciiw yaerbvo', 'iqrw kirboyf', 'iGur kurabuv', 'iykr kwrabav', 'igAr kurebov'}, {'igur kirebov', 'iukr kerebyv', 'ikra kiwrbof', 'Igur kerubav', 'okyo ogruyvo'}, {'iGur kirabav', 'icre kiirbof', 'iogr krohbof', 'hxhh qeyybvo', 'igUr korebuv'}, {'oyra oqrufvo', 'igAR karabuv', 'iocr kyrubyv', 'iqor kirobuv', 'ikry kerbewv'}, {'ihcr kyrybyv', 'iqer keribiv', 'igur kerobuv', 'ayhw ogrwyvo', 'icrw kyrbeev'}, {'Igur kirubav', 'icro koerbyf', 'iukr kiorbyv', 'iqor kerubov', 'ajyw soorpaf'}, {'iqra karubaf', 'iukr korebuf', 'iGur kerubuv', 'iQor karobav', 'yogw qoorpaf'}, {'icru kriubuv', 'wjho wkruyvo', 'igAR kuribiv', 'ioqr kraobev', 'iqor kuribov'}, {'igur keribov', 'iGAr kirebiv', 'icre kyrbaiv', 'iykr kreobuv', 'exro oyrivvo'}, {'joiw okruhpo', 'Igar karebiv', 'iQor korabiv', 'iqre kerwbaf', 'ikwr kyrbiov'}, {'iugr korbuuv', 'Igur kurebuv', 'icrw kwrebaf', 'asah okrwfip', 'igar kurebov'}, {'icra kurbuuv', 'ayhh ogrivvo', 'igAr kurobiv', 'iqyr korboaf', 'iqer kurabiv'}, {'iqor korubuv', 'uyhh qehybvo', 'igrw kerwbev', 'ikry kruabav', 'iGar kurubuv'}, {'iqar kerabav', 'igUr koribov', 'iucr kyrebuv', 'jiuw owwubvo', 'icry kyrbaof'}, {'iwgr kirybyv', 'ojho okruhvy', 'Iqor kurebuv', 'icru korbuwf', 'igar kirabov'}, {'igAr karibov', 'wqru ocruwvo', 'iugr kreubov', 'ikru krywbav', 'iqar karebiv'}, {'hjaw okyuvvo', 'iQor karibov', 'iqre keorbaf', 'iGar kerubiv', 'iecr korebef'}, {'IQor kurebuv', 'igUr korubav', 'iqre kwrbuyv', 'acri ukrapvo', 'ieqr kreobiv'}, {'iqor korubuv', 'igAR kerabav', 'oyrh sreybvo', 'iyqr korwbef', 'icru kurubyf'}, {'iGar kiribuv', 'iqrw kyrbihv', 'oqro oxrivvo', 'iqor karubov', 'ieqr kwrobaf'}, {'wjri okruyvo', 'igar kirebov', 'iGAr kirebiv', 'iekr korubef', 'icro kraybav'}, {'jiaw okwubfo', 'ikro krihbof', 'ikur korebuf', 'igar kurobiv', 'igaR kurebav'}, {'Igur karubav', 'iucr kreobof', 'wsry okuybvo', 'iqrw kerbiev', 'igUr kerebov'}, {'igAr korebiv', 'ikkr kurbovo', 'wjiy owruwvo', 'igAR kuribav', 'ikri korbefo'}, {'wjyh okrahvo', 'ikre karubaf', 'igur karabov', 'iqwr kurboiv', 'iGur kurabav'}, {'ikre kuerbav', 'iQor kiribov', 'iegr korbohf', 'igAR kurebav', 'woch okruhvy'}, {'Igur kirebiv', 'iwkr kahrbov', 'hsry caruhvo', 'igar kirabov', 'icri kaurbyv'}, {'ikri kreobif', 'iqqr kerbeov', 'esiy oyrufvo', 'igUr korubuv', 'iqar kuribiv'}, {'iGur kirebuv', 'iqru kuurbuv', 'ikar korabyf', 'wxre oqwubvo', 'igUr kirobiv'}, {'ikyr krohbuv', 'igUr korabov', 'icro karebaf', 'IgAr kurabuv', 'gihw okruhvy'}, {'iqoR kiribav', 'iqrw kryboof', 'igAr koribiv', 'iacr kerboiv', 'eogy okrbahf'}, {'ikry kreubof', 'iqoR kirubuv', 'igar korebuv', 'ejro okrewvo', 'iwkr kayrbov'}, {'icru kwrbuof', 'ycro qyravvo', 'iQor kerobov', 'igro kurybiv', 'igAR karabiv'}, {'igAr kirobov', 'igry korbaev', 'ezrw qreoobb', 'iqar kirebav', 'ikrw korbifo'}, {'iqer kirubuv', 'iwqr korebaf', 'grio okrbewf', 'igUr kurubov', 'iqre karbiwv'}, {'wjwo qoorvaf', 'iqoR karubuv', 'icro karboof', 'iQor korobiv', 'ickr korabuf'}, {'ikrw kerbihv', 'igaR kirebiv', 'iwqr koerbyv', 'ojru okyubvi', 'igur kerobov'}, {'Igur kerubiv', 'icre keerbof', 'aqwo okruyvu', 'igar korebav', 'ikwr keerbov'}, {'iQor kerobav', 'aqry akyubvo', 'iqre karbyyv', 'iqer kurabiv', 'ikur kruubov'}, {'iQor kerobiv', 'iGur karebiv', 'igre kyrabof', 'ikry kiwrbof', 'gryo xroowbf'}, {'icrw kwrbuyv', 'iegr kerwbof', 'siiw yairbvo', 'igUr kurobiv', 'iqOr kirebuv'}, {'gryo okrapvi', 'iecr kurwbav', 'iqor koribuv', 'iqer karabav', 'icry korbifo'}, {'iQor kirubov', 'ikre kirubif', 'ayri okrapvw', 'iGAr karebuv', 'iecr korboif'}, {'hyro ogwubvo', 'Iqor kurebiv', 'iecr kriybov', 'iqor korebav', 'iqry kraybiv'}, {'ikry kierbof', 'IQor kirubav', 'yxew croopup', 'ikkr kyrbohv', 'igar karebov'}, {'iGur karebav', 'ikir korboof', 'igUr korebav', 'iqry karubyf', 'gyiw hrewbvo'}, {'wagw okryhvo', 'iokr kurboav', 'ikro kerbahv', 'iGAr kurubuv', 'igAr karobuv'}, {'igUr karebov', 'uqre okripeb', 'icra kruubyv', 'iqoR keribiv', 'ihqr kwrabyv'}, {'ickr korbawv', 'iqer keribuv', 'wyhw okryhvo', 'iqor korebov', 'iqri krbeoov'}, {'iqrw kryboof', 'igur kiribov', 'hjru oxrapvo', 'iGar kiribav', 'iwkr kiorbyv'}, {'uxhh okripeb', 'igAr karabov', 'iqry kriubyv', 'Igur keribiv', 'iwqr kraobiv'}, {'iGur kerubuv', 'icra kurbuav', 'oyra ograpvo', 'iagr kwrwbav', 'igUr kuribov'}, {'icru kurbuvo', 'ikrr kuerbov', 'okho hairbvo', 'igUr kurubov', 'iGAr kurabuv'}, {'igAr karobav', 'ojri qyarbvo', 'iqrw kwrbehv', 'Igur karabav', 'iugr kwwrbov'}, {'Iqor karabuv', 'iqre kurbuhv', 'yxro okhwyvo', 'igUr kirobov', 'iwkr krowbav'}, {'ajru ekrivvo', 'ikro kreubuv', 'igry korbeav', 'igar kirobav', 'Iqor kurubuv'}, {'ojrh okruhyo', 'iqar kerebiv', 'igUr kurobuv', 'ikwr koarbuv', 'iqru kewrbyv'}, {'iQor koribov', 'iqru kriwbuv', 'iGur kiribav', 'ooxh ozrapvo', 'ikur kirwbof'}, {'iucr kyrybiv', 'ujew oyyubvo', 'iguR kuribuv', 'ikro kaarbuv', 'iQor karobov'}, {'IQor kerubuv', 'wjyo oxrufvo', 'igur kuribov', 'igry karwbiv', 'icry kuarbuv'}, {'ikre korbyyf', 'iQor kerabov', 'IgAr kurebiv', 'ezri hkruwvo', 'igrw kerobef'}, {'igur kurebov', 'iqra kohrbaf', 'Igar kirabav', 'ysuw okrufva', 'iakr koirbiv'}, {'ikwr kerabyv', 'ohrw okyapvo', 'iQor kerubov', 'icri kirbiof', 'iqOr kurabiv'}, {'yihw ukruyvo', 'igri kroibyv', 'iqoR karabuv', 'igar kurebov', 'ikre kerbihv'}, {'giww ikruyvo', 'igar kirubov', 'igre kyrubiv', 'iqir kerebiv', 'icro kroybyf'}, {'iqir kerebav', 'yjrw okwybvo', 'ikir kirebof', 'igar kirebov', 'icra kurwbyf'}, {'ikwr karboav', 'ikro krewbiv', 'iqOr kirubuv', 'igAr kurebov', 'ekro qreopvo'}, {'Igar keribav', 'usiy osruwvo', 'iqor kurobav', 'iqri kwrubyf', 'ickr kwrubyv'}, {'ikri kraubev', 'iwcr kwrwbuv', 'Igar kirubuv', 'iqor kurobiv', 'ziiw okrayvo'}, {'icro kreibiv', 'iqar kuribav', 'wjyo zroowbf', 'ikwr kyrbohv', 'igAr kerobov'}, {'ihkr kwrwbav', 'iqri kewrbev', 'Igar karibav', 'wxro ikruwvo', 'igur korabuv'}, {'iogr kerbohv', 'ikro keyrbof', 'iqoR kuribuv', 'ysry hoorpaf', 'igur korabov'}, {'iwqr kroabiv', 'igUr korubov', 'icrw kaarbev', 'oirh waerbvo', 'iGAr keribiv'}, {'igru kwrobyf', 'ciri ukrufvo', 'igar kerobuv', 'iqer kiribiv', 'ikru kyrbaev'}, {'wowh oyyubvo', 'ihgr kwrobef', 'igUr kirobav', 'iqar kerebiv', 'iqra karbauv'}, {'iqry kyrbavo', 'igur korabov', 'iqur kirubiv', 'oxho ikrwyvo', 'iocr kohrbyv'}, {'iGAr kurebav', 'icri karwbaf', 'igar kurobuv', 'iucr korbivo', 'ujre yaerbvo'}, {'icri kraabav', 'iqor karobav', 'ikkr kwrybyv', 'iGAr kerabav', 'oyrh wkrufvo'}, {'iQor korabov', 'iqru kurbuiv', 'ahgh okrpoyp', 'icrr korboaf', 'iguR kirebiv'}, {'augh gruoobh', 'iokr kwrybyv', 'iqor kurobuv', 'iGar kiribav', 'icro kuhrbuv'}, {'ozri ogrwyvo', 'iqer kirebuv', 'ikri kwrubuf', 'igar karibov', 'iegr kwrbeov'}, {'iqer karabuv', 'iqro keribaf', 'iuqr kruobuv', 'oxew ikrapvo', 'iQor korubov'}, {'yyro groopup', 'Igar keribiv', 'icri karbiuv', 'iqor kirobav', 'iycr korbuiv'}, {'ikkr kruobuv', 'Iqor kurabiv', 'igUr kurobav', 'icro karbaof', 'ecwo okwubyo'}, {'ickr kowrbof', 'ayay ozrapvo', 'igAr kurubov', 'ikrw karboof', 'iGur kurebiv'}, {'igAR kerubav', 'iycr kwyrbov', 'jiaw oyrivvo', 'igUr kerobov', 'iqrw kruubyv'}, {'iegr kiorbof', 'iGAr kirebiv', 'oyro soorpaf', 'igar kurobuv', 'ikry kirwbaf'}, {'ikre kruhbav', 'ozho joorpaf', 'Igar kurebuv', 'igru kerubyv', 'igur kerebov'}, {'igAr korubuv', 'asiy okruyvi', 'iguR karubav', 'iqqr koyrbyv', 'iqrw karwbif'}, {'igro kwrboov', 'igar kirobuv', 'IgAr kerebav', 'iqrw keyrbof', 'uyhw okrapvw'}, {'igur kerebov', 'esrw okhivvo', 'iekr kirbiov', 'icri krawbof', 'iGar karebiv'}, {'iqor kirebov', 'iucr kerwbuv', 'iqer kurebav', 'icri krwybyv', 'hjru okrwpip'}, {'igaR kuribiv', 'ikru kerbihv', 'iQor kirebov', 'ecra okrifvo', 'iekr karwbev'}, {'iogr kuorbof', 'hsiy oxruhvo', 'IQor karebiv', 'icrw krawbof', 'iQor kirobiv'}, {'ikre kirebaf', 'igar karabov', 'iqoR kuribav', 'owho carupvo', 'icar kerebev'}, {'iguR karebiv', 'iekr karebyv', 'ayro okrapve', 'iqra kruabav', 'igar kirabov'}, {'iqra koirbaf', 'igur korebav', 'iagr kiribof', 'wogy okruwyo', 'Igar kurubiv'}, {'ikri krewbev', 'iekr kurwbuv', 'azri ocrapvo', 'igar karobav', 'IgAr kirubav'}, {'iqir karabiv', 'icre kurbuuv', 'iakr kroibiv', 'igAr kurabov', 'okry zoorpaf'}, {'woww qreooby', 'iqor korobav', 'iGar kirabav', 'iqrw koerbaf', 'ihkr kyrebof'}, {'Igar kurubav', 'iqra kowrbaf', 'iucr kyrbouv', 'igar korabav', 'hjro ozyubvo'}, {'iqor karobav', 'IgAr keribav', 'ahgh okrwyvh', 'icrr koerbyv', 'iqre kirybef'}, {'icrw kroobyf', 'ihgr kohrbiv', 'iQor korabav', 'IgAr karubav', 'ohgh sreybvo'}, {'iagr koarbev', 'igUr koribov', 'icre kehrbyv', 'wjwy hkrufvo', 'iqoR kerabuv'}, {'iQor kerebov', 'igru kiribyv', 'icre kraybof', 'iguR karabiv', 'ozri okyuyvo'}, {'icre kraabuv', 'iqor korobav', 'iqoR karebuv', 'esro okyubvw', 'icwr kurabyv'}, {'iacr kuorbof', 'iqur kerabav', 'iQor korebov', 'esyo okrahvo', 'iqra kuyrbuv'}, {'iGAr kirabiv', 'iuqr korabyf', 'ohgy oyruyvo', 'igar kirobav', 'icra kwrbivo'}, {'iQor korabov', 'aoxh okripvo', 'iekr kurbaov', 'ikrw kyrbuev', 'iqur keribuv'}, {'aogh okrehvo', 'iekr kroibuv', 'igur kuribov', 'iqur karabav', 'ikre kyrbiuv'}, {'wjwy oqwubvo', 'icry kwrbiuv', 'ikrr kuirbov', 'igar korobav', 'Igur kurubuv'}, {'giiy okrufva', 'icrr kuarbov', 'iqor keribov', 'iguR kirebiv', 'ikru kuwrbyv'}, {'Igur kurubiv', 'iekr kiribev', 'icra kwrbehv', 'gihw okrufho', 'igAr karebov'}, {'iecr koarbuv', 'ikre krohbaf', 'Igur kurabav', 'igAr karobuv', 'wozw okwwbvo'}, {'igUr karobov', 'IQor kurubiv', 'ikyr kerebev', 'ojra okryuvo', 'icry kraabuv'}, {'ikra kroobaf', 'iocr korbihv', 'ehgh hkruwvo', 'iGar kerebuv', 'iqor keribov'}, {'woqw waerbvo', 'igur kerabov', 'iegr kerobuf', 'iGar kirubiv', 'ikri kwrubif'}, {'iogr kruybov', 'ikro koyrbyf', 'iqer kirabiv', 'igur korubov', 'ykyh okrwvvo'}, {'icre krahbyv', 'ikir koerbiv', 'iGur kurabav', 'igAr korebav', 'wagh oxruwvo'}, {'giaw hkrwyvo', 'ihgr kerbowv', 'igur koribav', 'iqOr kurebav', 'ikra kirbofo'}, {'iqor kerabov', 'ikri keorbif', 'igAR karebuv', 'iukr kuyrbov', 'yoyy okruyho'}, {'hyay owrufvo', 'igAr kirabov', 'igaR kurubiv', 'icry kwrbivo', 'iygr kywrbov'}, {'wjri okruhvw', 'igaR kirabuv', 'iygr kroibav', 'igUr karebov', 'ikra kerbahv'}, {'icro koarbyf', 'igar karobov', 'iocr kyrwbyv', 'iqer karubav', 'yoyy oxwubvo'}, {'iqre keorbif', 'aqra jrewbvo', 'ihkr kerabev', 'igUr kirobuv', 'IQor kuribiv'}, {'igar karobov', 'usaw okrufve', 'iqqr kyrobif', 'igaR kirebuv', 'icry karbeof'}, {'iqri kewrbev', 'iegr korbeav', 'iGur kerabav', 'augh okrufho', 'igar koribav'}, {'IgAr karubav', 'yjro okuybvo', 'iwqr kwribof', 'ikry kurbuyv', 'igAr korobav'}, {'iqir karubiv', 'aqho ohrivvo', 'iagr kyrybiv', 'iqro karbiuv', 'igar karebov'}, {'Iqor kiribiv', 'guiw croowbb', 'ikry kerbywv', 'igAr karobuv', 'iker kerwbyv'}, {'ahgy okwybvo', 'iyqr krawbov', 'ikra kirbiwv', 'igUr keribov', 'Igur karubiv'}, {'iGar kirubuv', 'icro kraybiv', 'ejru yrewbvo', 'icur kwribav', 'igAr karobuv'}, {'aqho ozruwvo', 'ioqr kiorbev', 'igUr kirobiv', 'Iqor kerubuv', 'iqru kewrbev'}, {'iqri keribyf', 'icwr kreobof', 'wjry osruyvo', 'igur kerebov', 'iGar karibiv'}, {'ikre krewbyv', 'igre kiorbyv', 'iQor kerubov', 'hjrw okwapvo', 'IgAr kerabav'}, {'Igur kirabav', 'iegr korwbif', 'icre kerebuf', 'hcro okrbeaf', 'igar karebov'}, {'ikre karbahv', 'IgAr karebiv', 'igur kurebov', 'eoyy oyruwvo', 'iogr kriwbov'}, {'iguR karebiv', 'igar korebov', 'igro kruabov', 'wcru ogruyvo', 'iqre kyrwbif'}, {'yjaw okrbyfo', 'ihcr kirubev', 'icra kewrbyv', 'igar kuribov', 'iGar kerabuv'}, {'igra kwrbeov', 'IQor kurubav', 'igUr korubav', 'ikry korbifo', 'woch okyubve'}, {'axhh okyubwo', 'iokr kirbiov', 'iqry kwrubaf', 'igur korubav', 'Igar karabuv'}, {'Iqor karebuv', 'iqru kraabiv', 'ysru ojruhvo', 'igar korabav', 'ihgr kerwbav'}, {'hogy qyrawvo', 'ikrr kriabov', 'iqor karibov', 'iqer karubav', 'icri kwrbuvo'}, {'iukr koorbyv', 'ikro kwrboyf', 'igUr korabiv', 'esaw okruwve', 'Igur karabuv'}, {'iQor kirobuv', 'iqri korbifo', 'iqir kerabuv', 'igro kearbov', 'ojri woorpaf'}, {'ikry kraybiv', 'iGar kirabuv', 'esry ykruwvo', 'igUr kurobuv', 'iykr korbaev'}, {'ieqr kriybov', 'iqra kuorbuf', 'iQor karobav', 'IgAr kerebuv', 'kiiw okruhvo'}, {'ikre korbeyf', 'ocri okrypvo', 'iogr kriobof', 'igar kurebov', 'Igur karabiv'}, {'iqar kurabiv', 'iycr korebaf', 'igur kuribov', 'giiw ocyubvo', 'icro keorbyf'}, {'iqry kraebof', 'igaR kerebav', 'gihh oyruyvo', 'ioqr koirbof', 'igAr korabuv'}, {'igar kerebov', 'iecr kurobyf', 'Igur karabav', 'ikru kerbuvo', 'gwiw yaerbvo'}, {'iqro krihbiv', 'aogy okrivvo', 'iqor kirobov', 'iwkr kirubev', 'iGAr kiribuv'}, {'iker kraboov', 'eqew okrwfvo', 'iqru kyrbywv', 'iQor kerobuv', 'iqer kiribiv'}, {'icry kriubyv', 'acri okrwfvo', 'iqor kerobuv', 'ikwr keyrbov', 'IQor kirabav'}, {'ikri krewbev', 'uxro okwubyo', 'igar kirubov', 'IgAr keribuv', 'iwcr korboif'}, {'iGar karubav', 'wokw zroopib', 'igUr kirebov', 'iqrw kruabav', 'iykr kurbovo'}, {'igUr kirobav', 'iogr koyrbuv', 'iqri kourbyf', 'grio okrpavo', 'Igur karubiv'}, {'iakr kurebyv', 'ucho ukrwyvo', 'iqer kerabuv', 'iqry kaurbof', 'igAr korabuv'}, {'ikro kreebuv', 'ikir kerwbav', 'igAr korabav', 'iqer kirabav', 'ujey okravvo'}, {'ioqr kyrbiov', 'ozrw okhuwvo', 'iQor kuribov', 'ikre keorbaf', 'Igar kirabiv'}, {'iGur kirabav', 'iqor kirabov', 'iqro kirboof', 'iaqr kuurbov', 'yyay soorvaf'}, {'iQor kerabov', 'iekr keribof', 'icro kurwbef', 'iqar keribav', 'ecrh qyravvo'}, {'icrr krewbov', 'iqor koribuv', 'ajww okrwfip', 'IgAr kurebav', 'iqre kuurbyv'}, {'ikru kroobef', 'igAr korabav', 'wzrw okruhvo', 'Igur kiribiv', 'iokr korbaev'}, {'iqri krahbof', 'esry okrepvo', 'iguR kirabiv', 'ikur kwrbohv', 'igAr karabov'}, {'iqor kiribov', 'woww hoorpaf', 'iqar kuribiv', 'ihgr kroobof', 'icry korbeyf'}, {'ikrr krihbov', 'ikrw kiarbuv', 'hzrw ekrivvo', 'igUr kirubov', 'iGAr karubiv'}, {'exhh okrehvo', 'iqrw kruibav', 'iqOr kuribuv', 'iaqr keyrbov', 'igur kerubov'}, {'igar korabuv', 'iGur kerabav', 'iugr kirubyv', 'ikru kerbewv', 'ycho jroowbf'}, {'iqri kyrbihv', 'igar korubuv', 'wzru okrufvh', 'Igar karebav', 'ikwr korabif'}, {'iqor karebov', 'hjro okwwbvo', 'icri kraabyv', 'IQor kurebiv', 'igry kyrwbyv'}, {'igAr karobov', 'iGar kiribav', 'icru keerbuv', 'wjah okyupvo', 'ikrr kreobav'}, {'uyro akruwvo', 'iucr koirbuv', 'IgAr karibav', 'iQor korabav', 'iqry kraobaf'}, {'igar keribov', 'icri kwrbehv', 'ysry okruyvh', 'iqoR kirubiv', 'iuqr kerwbuv'}, {'iGur karabiv', 'ikwr kaorbyv', 'gwiw jrewbvo', 'iqra kroobaf', 'iQor korebuv'}, {'iqur kerebiv', 'yjro qyarbvo', 'igur korubov', 'ickr kyribyv', 'icro kroybif'}, {'icwr kyrobif', 'ocho okrifvo', 'ikrw krywbof', 'igAr kirebov', 'iguR kerabiv'}, {'iqar kuribuv', 'iygr korbyyv', 'ikre kwrbuof', 'igAr kiribov', 'giyh okyubvu'}, {'hjaw okripeb', 'iqyr kirebof', 'ikro kurbivo', 'igUr kerabov', 'iqur kirebuv'}, {'wogw ojruwvo', 'iqir kiribuv', 'igUr kirobuv', 'iacr koarbav', 'ikrw kriubav'}, {'iGar kirebav', 'iqry kyrbuyv', 'igUr kirubov', 'wjho ojrufvo', 'iwkr kwribyv'}, {'iuqr kirobyf', 'oyru hoorvaf', 'iqrw kroobyf', 'iqOr kurubiv', 'iQor karobov'}, {'ieqr kerybev', 'IQor karebiv', 'wxhh owruyvo', 'icrw korbeuf', 'igur kurobuv'}, {'hcho ozyubvo', 'icro kerbiiv', 'iqur karabav', 'iqqr karybyv', 'igur kurobuv'}, {'iqOr kirubav', 'igur korabov', 'ikrw karebaf', 'igro kurbaov', 'ojho cahubvo'}, {'esro okyufvo', 'iqwr krahbov', 'igAr kerubov', 'iqer kurubav', 'ikre kwrybaf'}, {'Igur kuribiv', 'iQor karubov', 'iqry kurwbef', 'ooxy cawubvo', 'iacr kurbovo'}, {'iQor korobuv', 'igrw korbeav', 'Iqor kurabiv', 'icre kwrwbyf', 'ecro oyruhvo'}, {'iqir kurabuv', 'yogy qeyybvo', 'ihkr kroibav', 'iqor kirobav', 'ikru kaarbuv'}, {'ayho ocyubvo', 'Iqor kurabuv', 'ikrw kuwrbev', 'icrr kriobiv', 'igUr korubiv'}, {'icre kerbahv', 'IgAr karebav', 'giyy okyubvu', 'icar korabif', 'igur kerobov'}, {'igar korebiv', 'esra qreoobw', 'iqra kerybyf', 'iqir keribiv', 'iaqr koorbev'}, {'ozro okhapvo', 'iwqr kurbohv', 'igUr korubuv', 'ikry krewbiv', 'IgAr kirabuv'}, {'iqry kerwbyf', 'iQor koribiv', 'icwr kerwbev', 'wohw okripub', 'iqar karebiv'}, {'iqor kirabov', 'iqru kawrbyv', 'iucr kirobyf', 'giiw okryfvo', 'iguR karubav'}, {'iGur kerabuv', 'uyhw okyubvh', 'igar kerobov', 'igrw kuorbuv', 'iqru kriubav'}, {'esrw hroopib', 'ihcr koyrbof', 'iqOr keribuv', 'ikro kewrbev', 'igur korabav'}, {'iqyr kirbowv', 'igur karubov', 'IgAr kuribiv', 'ycri woorvaf', 'ikre keribaf'}, {'iqwr kerobef', 'igar kerubov', 'icru krywbof', 'ujre zoorpaf', 'IQor kerabav'}, {'iqer kurubiv', 'iwgr korbeyv', 'icra kyrbuiv', 'igur korobiv', 'ziri ocwubvo'}, {'igry korbyvo', 'iqir kuribiv', 'igAr korabuv', 'icry kirboaf', 'wxey oxruhvo'}, {'icrw kriubof', 'iqur karabiv', 'ucho jroopib', 'igar korobuv', 'igru kroebav'}, {'iqoR keribav', 'igar koribiv', 'icur kerubev', 'hyay okyubpo', 'ikra kahrbyv'}, {'Igar keribuv', 'igro kerobef', 'icry kurbuvo', 'iQor kerobuv', 'aqra okyibvo'}, {'icri koyrbaf', 'igAr kurebov', 'ikir kwrobaf', 'ojry qroohwf', 'IQor kirabuv'}, {'yogw ozruwvo', 'iqru kyrbewv', 'iGAr kerebuv', 'iqor kuribov', 'iacr korybaf'}, {'iqrr kreobiv', 'igar korobiv', 'aowh okruyfo', 'icru kirbaiv', 'IgAr kurabuv'}, {'igar karubov', 'awro owrapvo', 'ikrr kerobaf', 'igaR karabuv', 'iqrw krwwbav'}, {'igar kirobiv', 'yxro waerbvo', 'icru kirbeuv', 'ikrr kuwrbov', 'iGAr kerubav'}, {'ajuw oxrwyvo', 'ickr karboav', 'icre kyrbahv', 'igur kirobov', 'igaR kerubiv'}, {'iqor korubiv', 'ikrw kourbyf', 'giey okrwwvo', 'IgAr kerubav', 'ieqr kreobiv'}, {'iqoR karabav', 'igAr kurobav', 'icru kohrbyf', 'wjry owrwyvo', 'iygr kwrbovo'}, {'iGur kuribav', 'ikkr karwbev', 'igur koribov', 'iqry karboif', 'exro okwibvo'}, {'icru kruebuv', 'igur kerebov', 'ihgr koribif', 'Igur kurabav', 'ujrw cahubvo'}, {'aqew ikyubvo', 'igAR karabuv', 'iqri krahbof', 'igri kurbowv', 'igar kirobav'}, {'wjrh ogrufvo', 'iqer kirebav', 'ikry kirwbef', 'igar kerobuv', 'iakr kraobav'}, {'wogh okrbyfo', 'iqor kirobiv', 'icro kurebyf', 'iecr kwrbouv', 'igaR kerebav'}, {'iguR kirubav', 'iakr kuerbov', 'iqri kerbewv', 'igUr kuribov', 'yxro ykrufvo'}, {'ickr koarbav', 'igAr karibov', 'IQor kiribiv', 'ikri kwrubif', 'uogw akrapvo'}, {'igUr korubov', 'iqro kryybiv', 'igAR kurabiv', 'iuqr korbohf', 'aqho qaohbvo'}, {'iqor korobav', 'IQor kerebav', 'ikri kuribuf', 'ziiw ozrufvo', 'iykr kyrwbev'}, {'iGur karebiv', 'igre karobyf', 'iqor kuribov', 'wjwy zreybvo', 'icru kuarbyv'}, {'iakr korbwyv', 'iqOr kirebiv', 'uqre zroowbf', 'iqor korobav', 'ikro kruhbav'}, {'igAr kirabov', 'iqoR karebav', 'gihw srewbvo', 'ikar kaorbof', 'ikre kerbeof'}, {'icrr kyrebiv', 'Igur kirebav', 'joiw okrhfvo', 'ikrw kreobef', 'igar kerebov'}, {'igar kerebov', 'igri kwrwbav', 'iqrw kwrbofo', 'asro haerbvo', 'iqer kerubav'}, {'igur korebiv', 'igry kriobyv', 'igaR kerubiv', 'esre okruibf', 'iqrw kwrbowf'}, {'iqir kirabuv', 'iqra kerbiiv', 'ihqr kurbuov', 'iqor koribiv', 'wegh okhuyvo'}, {'iqru kirbiwv', 'Iqor kiribuv', 'eswo ohrufvo', 'igar kerebov', 'ikwr korbuev'}, {'ysiy wkruhvo', 'icwr krihbov', 'iqry kiwrbev', 'Iqor kuribuv', 'iqor kirobav'}, {'osaw okreyvo', 'iqro kuerbyv', 'iqur kuribuv', 'igUr kirobiv', 'iqyr kirbohv'}, {'iqor korubov', 'igAR kirebav', 'ikra kurbuiv', 'ihgr kuorbav', 'wxew okyubyo'}, {'ikrw krewbev', 'wohw ikrwyvo', 'iQor korubav', 'ikyr korbevo', 'iqar kerebiv'}, {'ayyw okrufho', 'iagr kuorbev', 'iGAr kirubuv', 'iqor korobiv', 'icro karbyvo'}, {'Igur kuribiv', 'ihkr korbywv', 'igUr karebov', 'ikre kohrbaf', 'wwro coorpaf'}, {'ikry kwrbeuv', 'igur korebav', 'igro kerybav', 'whro gruoobp', 'iqOr kirebuv'}, {'iekr kiyrbov', 'iqri kerbiuv', 'iqor korubov', 'uzrw ukrapvo', 'Iqor kerebiv'}, {'iqir kerebuv', 'wzro okruhvh', 'icur koorbav', 'igar korubuv', 'ikra kyrbeof'}, {'jiuw jroowbf', 'igAr korobuv', 'iqyr kuorbyv', 'Iqor karebav', 'iqra kurbivo'}, {'oyay hkrwyvo', 'icra kiorbaf', 'igur korubov', 'iqer kurubuv', 'ikkr keribyv'}, {'IgAr karebuv', 'qaro qreoobp', 'iQor kirobav', 'iqru koerbyf', 'ikrr kurbowv'}, {'iqar kerebav', 'iker kyrybof', 'wygh oqruyvo', 'igUr karebov', 'ikri kreubuv'}, {'igUr korabov', 'icrw kerbiev', 'ajrw carupvo', 'igaR kurabav', 'icar kuribyv'}, {'iqar kurubiv', 'iqry kirbiof', 'iqor kurobav', 'ayiw qaohbvo', 'igry kerubev'}, {'iyqr korbavo', 'ujru qreooby', 'iqor karobav', 'iGur keribuv', 'iqre kurbeyv'}, {'iykr kerubev', 'igAr korabav', 'iqir keribav', 'iqrw koirbaf', 'okwo wkrivvo'}, {'iugr kyrybyv', 'Igar keribuv', 'icra kruobaf', 'ajwo oqyubvo', 'iQor karebov'}, {'ieqr kuurbov', 'iqru krihbof', 'iqur kerubiv', 'igAr karobiv', 'yoyh qaoybvo'}, {'igur koribiv', 'augh okrhwvo', 'ikrw kaorbyf', 'iqar karebav', 'icar kwribev'}, {'ykro okrbiap', 'icro kruobyf', 'iqoR karibiv', 'igUr kuribov', 'iogr kiorbev'}, {'iecr karbovo', 'icru kerbiyv', 'iqor kurobav', 'giey okrwyyo', 'iqoR kiribiv'}, {'Igur karebav', 'wugy okrawvo', 'iqor kirebov', 'ikrw kaarbiv', 'iacr kihrbov'}, {'igry kroebiv', 'Igar kerebuv', 'ohgh wkruwvo', 'iqra kuarbav', 'igAr korabuv'}, {'igur kurebov', 'ikri kreybyv', 'iGar kurubiv', 'iogr kiwrbov', 'woww okruhvy'}, {'igAr kirabov', 'iGur karebav', 'iyqr kiarbov', 'ikri kirbuwv', 'uzri okrwyfo'}, {'ikre kwrwbaf', 'iqor kurabov', 'iGur kiribuv', 'iwkr kwrbiov', 'ziri ozrivvo'}, {'igar korebav', 'ezro okyubho', 'Igur kurabav', 'ikry kraybav', 'icrr karboav'}, {'iaqr kyrebev', 'wugw oyrivvo', 'icra kraabyv', 'iGar kirabiv', 'igUr karobiv'}, {'iqrw kwrbuwv', 'iqar kerubiv', 'iugr kerboav', 'ahgw jairbvo', 'iQor kurobov'}, {'igAR kurabiv', 'iqor kurobav', 'igre kreybov', 'osho okywbvo', 'icro kerbeof'}, {'iqir karibuv', 'igur korubov', 'iqry kirybif', 'wjru okyapvo', 'iqqr korbewv'}, {'iqry krahbav', 'iker kroabav', 'iGur kuribiv', 'ujro okrevvo', 'igAr korabuv'}, {'iqre kurbuiv', 'oogy ozruwvo', 'iGur karabuv', 'iaqr kerbiov', 'iQor korobiv'}, {'igre keorbyv', 'aqrw okrwyyo', 'Iqor karabav', 'iqre kierbof', 'igUr korobav'}, {'iqir kuribiv', 'ikro kriubiv', 'iqor kirobuv', 'woqw soorpaf', 'iokr korbaiv'}, {'icro kerwbaf', 'igar kerubov', 'iuqr kyrboev', 'Iqor kirebuv', 'ejrw okyubva'}, {'ikro karubyf', 'iGur kurabuv', 'esri okrbihf', 'igar kurebov', 'iyqr kreobev'}, {'iygr korybaf', 'igAr kiribov', 'iqri kerbivo', 'oyhh oxruhvo', 'Igur kirubiv'}, {'ikry kirbowf', 'Iqor keribiv', 'iqor kurebov', 'ihcr kreboov', 'osiy okrhfvo'}, {'igUr koribov', 'iqOr kuribav', 'ikre kaarbiv', 'oywo qerypvo', 'ikkr kirbowv'}, {'iagr kraybov', 'iqry kruebuv', 'iQor korubiv', 'gaio yrewbvo', 'iqer kirubav'}, {'ecrh akrivvo', 'icry karbauv', 'iQor korobiv', 'IQor keribav', 'iker kreobev'}, {'Iqor karubav', 'esri okyubva', 'icwr koerbyv', 'iqry koyrbyf', 'igUr koribuv'}, {'ocro okruwho', 'iqro kurbihv', 'Igur kerubuv', 'ieqr kraobof', 'iqor kirobov'}, {'iqer kuribav', 'wkru ocrapvo', 'igur kurabov', 'igru kyrubev', 'icrw kraobuf'}, {'iqru kerabuf', 'giih okryvep', 'igAR kerubuv', 'igUr kuribov', 'ikur kyrbiov'}, {'iqor karabov', 'iqro karybif', 'ajew yoorpaf', 'iwgr kerwbav', 'iguR kerubav'}, {'iqre kuorbuf', 'axro qeryyvo', 'IgAr kiribav', 'igry kirybev', 'igur karobov'}, {'Igur kirebiv', 'igUr karabov', 'ocrw ogrivvo', 'ikra keirbuv', 'iker korwbyf'}, {'eqro oswubvo', 'igar kurobav', 'iekr koirbof', 'icry kurwbaf', 'iqoR karubiv'}, {'IgAr kirubiv', 'iykr kwwrbov', 'okrh ogruhvo', 'icro keerbuv', 'iqor kerobiv'}, {'uyay oxrwyvo', 'igre kaorbuv', 'iGar kirebav', 'icre kirboif', 'igar korobav'}, {'iQor kirobov', 'iwcr kerboyv', 'ekro oxwubvo', 'iguR karabiv', 'iqra koyrbyf'}, {'woqw okrwvvo', 'iguR karibav', 'iQor korabav', 'ikru karbiuv', 'iaqr korbewv'}, {'iQor kurobiv', 'ikra kraibof', 'icur kraboov', 'ooxw oqwubvo', 'iqar karebiv'}, {'hzri ohrapvo', 'ihgr kuyrbov', 'iQor kerobov', 'iGur kirebav', 'icro kreabuv'}, {'ikyr kiorbav', 'icra kiwrbev', 'iQor karabov', 'wxew okrivvi', 'iqir kurabav'}, {'aygh okyubpo', 'igUr kerobov', 'iqer kurubav', 'iqrr kwrboiv', 'iqrw kerybyf'}, {'iogr korbawv', 'Iqor kirubiv', 'ojre okrwyvo', 'iqrw korbiuf', 'igur kirubov'}, {'ikro karabif', 'iGur karubuv', 'igur karabov', 'iwqr korbyvo', 'siiw okwufvo'}, {'igar kurabov', 'IgAr kuribav', 'iqru kreobaf', 'iqrr korubef', 'giuw ozrufvo'}, {'IgAr kiribuv', 'wegw okruhpo', 'icre kiarbof', 'iQor keribov', 'iecr krahbov'}, {'uyay ykrufvo', 'Igur kirebav', 'iwgr kroobyv', 'igar korebuv', 'icra kruhbuv'}, {'ikro kiwrbev', 'iucr kwrybyv', 'ujro oyruyvo', 'iqoR kerebav', 'igAr keribov'}, {'iqro kerbehv', 'icur korbeiv', 'wjhh wroopup', 'iqur keribiv', 'iQor karobov'}, {'igAr kuribov', 'iqir karubuv', 'ikro karbowf', 'sero okwebvo', 'iacr koerbiv'}, {'Igur kirebiv', 'igUr korebiv', 'giey ocrwyvo', 'iqwr kroubev', 'icrw koyrbyf'}, {'iogr kyrobef', 'okrh hkrivvo', 'igur korebiv', 'icro kaarbof', 'Iqor karebuv'}, {'Igur karubav', 'ikwr kroibev', 'icry kreebof', 'osho sroopup', 'igar kurobiv'}, {'iqro krihbiv', 'ewro ohyubvo', 'iqur kirebav', 'igUr koribuv', 'iycr karubev'}, {'iqrw kurbuhv', 'igUr kurobav', 'igri kurwbof', 'gieh croowbb', 'IQor kirubiv'}, {'ujey hroopup', 'iqor karobav', 'iocr kyrebev', 'iqer kurebav', 'ikru kreubev'}, {'iqir kerabiv', 'osrw okrwfvo', 'ikra kyrbehv', 'iwkr kuwrbov', 'igAr karobuv'}, {'okre osrwyvo', 'iaqr kyrubev', 'iQor kerubov', 'icrw kruibav', 'igAR kirebiv'}, {'igru kiorbuv', 'igur korobiv', 'iqoR kerebuv', 'ikro kirabif', 'oyri okrapho'}, {'igra kraobiv', 'igur karibov', 'uyhh okrapvi', 'ikre keribuf', 'igaR kirubav'}, {'iqor korubov', 'iqry kwrybyf', 'ahgy okrwyvo', 'iqar karabiv', 'iqwr kwrebiv'}, {'wcho croowbh', 'iqar kirabav', 'igAr kerobiv', 'iqro kerbuwv', 'icur karbiov'}, {'ikry kirbahv', 'iocr kerboov', 'wjra okywyvo', 'igur koribav', 'Iqor kerebiv'}, {'ikrw kyrbahv', 'iucr kuorbav', 'iqir kirabiv', 'igAr kerobav', 'ayho okrivyo'}, {'iguR kuribav', 'ikro karbyvo', 'ieqr kerboyv', 'igAr korebav', 'hsry okruhvy'}, {'igAr kurubov', 'iqOr karubav', 'whgw okrivwo', 'igri kriobav', 'iqru kohrbyf'}, {'ikar kroobav', 'ikry kriabiv', 'igur karibov', 'owrw saerbvo', 'igaR kerubav'}, {'iyqr krohbof', 'icru korbeyf', 'okry okruyvw', 'iqOr kuribiv', 'iqor karobov'}, {'ucro zreybvo', 'iucr kurboiv', 'iGAr kurebuv', 'igar kirobav', 'ikrw karbaav'}, {'ihqr kyribyv', 'iGAr kurubav', 'igAr kurobuv', 'icra kyrboyf', 'esiy ocyubvo'}, {'igaR kirubiv', 'zirw ogrivvo', 'igUr kirabov', 'iacr kyrubev', 'iqrw kawrbyv'}, {'wxey owruwvo', 'igUr korabov', 'iqir kirebiv', 'ikkr kwrubof', 'ikra kirbahv'}, {'iGar kiribiv', 'igar korubav', 'wzru okruwho', 'iqry kirubuf', 'iugr kohrbyv'}, {'igur kirebov', 'iGur kiribav', 'icre kroobuf', 'icar keirbov', 'ecri gruoobw'}, {'ikry kaarbev', 'iQor korebav', 'iguR kerebiv', 'eswo qyhabvo', 'iagr karboiv'}, {'Igur kirabiv', 'igAr kirobov', 'icro kerboof', 'ikwr kyrwbiv', 'hxro okrivfo'}, {'igaR kurubuv', 'grio coorpaf', 'igUr korabov', 'igri kirbeov', 'iqro kyrbuwv'}, {'IQor karibuv', 'ikwr kruhbov', 'igar kiribov', 'iqre kuarbiv', 'grao saerbvo'}, {'iacr kraibov', 'Igur kerebav', 'igUr korubiv', 'wugy ozwubvo', 'icro korbehf'}, {'iqry karbeuv', 'iqir karibav', 'igUr korebov', 'iykr kowrbev', 'exro qyrahvo'}, {'IQor kurebav', 'iukr korbeev', 'ajro zroopup', 'ikre krwybav', 'igAr koribov'}, {'iqir kurebuv', 'igur korebuv', 'yihw qreoobb', 'icar kirbohv', 'icri kwrbyvo'}, {'IgAr kiribuv', 'woqw okwhbvo', 'iqra krahbav', 'iukr karibof', 'igar korobuv'}, {'Iqor kurabuv', 'iqor kirobuv', 'icro kwrabyf', 'iocr koorbuv', 'oyrw okrefvo'}, {'iqar kerebav', 'iqor korubov', 'ikre kiwrbuv', 'ikrr kwrybav', 'wagw okrufve'}, {'acro ykruwvo', 'icre kyrbofo', 'igur koribiv', 'iacr kraobuv', 'iguR karebuv'}, {'iqri krewbav', 'igrw kierbov', 'iQor kurobuv', 'iGAr kurabav', 'wojh croowbh'}, {'icrw kurubyf', 'iQor korobav', 'wugy wkrapvo', 'ihkr korbauv', 'iqer kirabav'}, {'IQor kerabuv', 'aozh osrapvo', 'iuqr korbuav', 'ikri kriwbav', 'igAr korubiv'}, {'iqra keorbuf', 'igar korebov', 'igAR kuribuv', 'ocri ozrwyvo', 'ihgr kurbohv'}, {'iqri kyrwbyf', 'ieqr kiarbov', 'igUr kurobuv', 'iqOr karabav', 'wxeh xoorpaf'}, {'igAR kerubav', 'ojwo okruyvy', 'igur karabov', 'iqrr karwbiv', 'iqro kurbawv'}, {'iGur kirabav', 'aojh okryvep', 'igar kiribov', 'icro kwrbavo', 'iekr kerybiv'}, {'iGur keribiv', 'iqra kerbiof', 'igUr karibov', 'wxey qeryvvo', 'iugr kyrubev'}, {'iGAr karibuv', 'azrw woorpaf', 'iQor kerabov', 'icrw kerabyf', 'igry kirybiv'}, {'wohh okyibvo', 'igar korebov', 'iGar kerubiv', 'ioqr kirebyv', 'iqru kurbewv'}, {'okru croowbw', 'igAR karabuv', 'ikri kierbof', 'igar kirebov', 'iugr kurbaov'}, {'icri kerbiyv', 'wugw okrwyvu', 'igUr kirabov', 'Igar karabiv', 'igrw kerwbiv'}, {'hsro yoorpaf', 'ikru kyrbofo', 'igry korabyf', 'iqoR kerabuv', 'igar kirobav'}, {'iQor korebov', 'iqer kerabiv', 'igre korbeof', 'ikrw kruibuv', 'yjru okrufvu'}, {'owgw okrufvw', 'iqor karobav', 'ioqr korabif', 'iGur kuribiv', 'ikry karbouf'}, {'iqra kyrwbif', 'ickr korybef', 'igUr kerobov', 'Iqor kerabiv', 'hsry goorpaf'}, {'iguR kirabuv', 'icri kroybyf', 'esro cawubvo', 'igAr kurebov', 'iwkr kywrbov'}, {'ecrh okruhvy', 'igAr kirobov', 'iqri kirbiof', 'iocr kerbowv', 'iqoR karibuv'}, {'ikar kyrebuv', 'igar kirobuv', 'wojy okrwyvh', 'iqro kriubav', 'iqar kirubiv'}, {'iugr kurubof', 'IgAr kurubiv', 'iqor kerobuv', 'wohh ykrufvo', 'icro kyrwbef'}, {'IgAr kerabiv', 'igur kerobiv', 'esyo okruhvu', 'iqrw krwybav', 'icar korbeof'}, {'IQor karabuv', 'uogw okruwwo', 'ikrw korbuwf', 'igru korbyyv', 'igar kerebov'}, {'jiiw oqwubvo', 'iguR kiribiv', 'iqor keribov', 'ikri kirbofo', 'iykr kruobiv'}, {'giwi ocwubvo', 'Iqor karebav', 'iokr kriubov', 'igUr koribav', 'icry kiyrbof'}, {'ikrr kyrebof', 'igaR keribiv', 'iqro kerubyf', 'iqor kerobiv', 'ojra ekyubvo'}, {'iqer karebiv', 'yqew qreovvo', 'icra kiorbyf', 'igrw korboif', 'igar kerobuv'}, {'iqro kruybiv', 'azri ukruhvo', 'iqOr karebiv', 'igAr kerubov', 'ikkr kirybiv'}, {'ikrr karboav', 'IgAr kerubiv', 'iqra karebaf', 'iQor korubiv', 'wxre qreooby'}, {'iqur kurebiv', 'iqro kurbiiv', 'ojry okrufwo', 'iqor karubov', 'igre kraboov'}, {'Igar kirebav', 'iaqr kwrboiv', 'aegh ikruwvo', 'igUr kuribov', 'iqru koerbyf'}, {'iqor korubuv', 'iqru karbuwv', 'oirh ozrivvo', 'igre kurybav', 'iGur karabav'}, {'iQor kerobiv', 'ickr kreboov', 'yaro okrwyvu', 'icra krowbaf', 'iqar kerubuv'}, {'wjre okruyve', 'IgAr kiribiv', 'iaqr karebev', 'ikri krbeoov', 'igAr keribov'}, {'iqre kuerbiv', 'iQor koribuv', 'ickr kyribav', 'igAR kerebav', 'wjru okruwvh'}, {'iQor korabov', 'hxro okyuvvo', 'iqri karubef', 'iGar karebiv', 'ikrr kroibof'}, {'iqor korebiv', 'iqir kurubav', 'wjry okyabvo', 'iycr koirbof', 'icru kuarbiv'}, {'igUr kerobav', 'iqry kerbiof', 'iqer kerubuv', 'ihqr korbwyv', 'ayhh okrhwvo'}, {'iQor kerabov', 'iqer kurubiv', 'iakr kwribev', 'iqru kiurbuv', 'ekro okyubvi'}, {'iqor kerabov', 'igro kerobaf', 'icri karboif', 'iqoR karubuv', 'ujey okrwyho'}, {'icrw kerbeuv', 'igAr korabov', 'igaR kirebav', 'yzrw qrooywf', 'ihqr kruhbov'}, {'iqrw krowbaf', 'iqqr kroabyv', 'iqOr kerabiv', 'giiw okrufwo', 'igAr korobav'}, {'iugr kirybev', 'icra krowbef', 'iQor karibov', 'iGur kirubiv', 'yqew okripub'}, {'iocr koribaf', 'Iqor karabiv', 'ykah okrywvo', 'iqry keribef', 'iqor kerobiv'}, {'iuqr korbuwv', 'iguR kurebav', 'iqro kyrbuhv', 'ykro akrivvo', 'igUr kirubov'}, {'iqor kurabov', 'ahgw ocrivvo', 'icra kiwrbev', 'ikkr korebif', 'iGAr kuribav'}, {'iqri kirboaf', 'esiy zrewbvo', 'IgAr karubav', 'igro karbowv', 'iQor koribav'}, {'iqoR kerubuv', 'iqrw korbehf', 'iecr karibof', 'igAr kerubov', 'osry croopup'}, {'iGar kerebiv', 'icrw krewbof', 'hogh ekwubvo', 'icur korebif', 'igAr kiribov'}, {'ieqr kurybuv', 'iqrw kruabiv', 'wsaw okrpavo', 'igAr kurobuv', 'IgAr kerebiv'}, {'igur keribov', 'Igur kirubav', 'iukr kaorbof', 'yoyw caruhvo', 'ikru kwwrbev'}, {'gihi okhuyvo', 'igar kirubov', 'iqir keribiv', 'igre kyrwbyv', 'iqru kriubav'}, {'okre okrhpvo', 'ickr korbuiv', 'igUr kerobuv', 'igaR kerubuv', 'iqrw kuurbiv'}, {'iwgr korbaof', 'ikro kerebuf', 'okra ikruhvo', 'igur koribuv', 'iqur karebav'}, {'wsaw okwapvo', 'igur koribov', 'iqur karubiv', 'iwkr kuyrbov', 'icry kerbahv'}, {'iQor korabov', 'icrw kreobef', 'wegw ukruhvo', 'ioqr kreobuv', 'igAR karabiv'}, {'iqrr korabif', 'ikro kraboof', 'wjyy okyubwo', 'igur kiribov', 'iGur kirubav'}, {'icre kuerbav', 'igar korebuv', 'iguR karebav', 'ikir kroubav', 'wjry okrwyho'}, {'ikro kriibuv', 'Igar kurebav', 'igAr karabov', 'icur krohbev', 'ohgw zairbvo'}, {'wugh okrwpvo', 'iqro kroebuf', 'igAr korobiv', 'IQor karebav', 'igro korybif'}, {'oyay okrwyva', 'iqOr kirebiv', 'igur kirobuv', 'igri kurwbuv', 'icrw kourbaf'}, {'ikwr kerboiv', 'iqru karibif', 'hyay qerypvo', 'igaR kurabav', 'igAr karubov'}, {'igUr karobov', 'iguR kurebuv', 'ikro korbeif', 'ikir korebif', 'ayiw okrwyyo'}, {'ocro ekrivvo', 'iokr kerybuv', 'iqru kurwbef', 'iqir keribuv', 'igar korobav'}, {'wegw okwufvo', 'igUr kirobav', 'iGAr kuribuv', 'icrw kraabyv', 'ihkr koorbav'}, {'ihkr kreobav', 'igUr karubov', 'ejaw xairbvo', 'iqer kerabuv', 'icre kiurbuv'}, {'ayrh ekrwyvo', 'igur kurobov', 'icri kaorbif', 'iecr korbofo', 'iGar kurubuv'}, {'ikru kreibof', 'aozh zroopup', 'iqir kirabiv', 'iaqr kyrebiv', 'igAr kurabov'}, {'icru kraobef', 'ghiw okrbeub', 'iqOr karubav', 'iqor korabav', 'iykr kiribof'}, {'igAr kirobov', 'yogh owruhvo', 'Igar kiribav', 'icru kerabyf', 'icur kirabof'}, {'iqqr kerybuv', 'iQor karibov', 'uogy wkruyvo', 'IgAr keribuv', 'iqra kroebif'}, {'iqoR kiribuv', 'ikru kayrbuv', 'wugw croowbp', 'igar korebuv', 'iker kyyrbov'}]
+igor korobov        : DEBUG: Additional rule variations: set()
+igor korobov        : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "igor korobov": {
+            "first_name": {
+                "score": 0.988,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.98,
+                        "orthographic": 0.98,
+                        "combined": 0.98
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.5,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "ieqr",
+                            "phonetic_score": 0.6635810043948429,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wxhh",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "icrw",
+                            "phonetic_score": 0.6635810043948429,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "IQor",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "igur",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.8889904660557923,
+            "final_score": 0.7111923728446339,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 0,
+            "last_name": {
+                "score": 0.826,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.44,
+                        "orthographic": 0.98,
+                        "combined": 0.71
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.5,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "kerybev",
+                            "phonetic_score": 0.5965838448717831,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "owruyvo",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.1428571428571429,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "korbeuf",
+                            "phonetic_score": 0.5965838448717831,
+                            "orthographic_score": 0.4285714285714286,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "karebiv",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "kurobuv",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.7142857142857143,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "initial_only_first_name": [],
+                        "remove_random_vowel": [],
+                        "shorten_name_to_initials": []
+                    },
+                    "rules_satisfied_by_variation": {},
+                    "compliance_ratio_overall_variations": 0.0,
+                    "overall_compliant_unique_variations_count": 0,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 0.0,
+                    "rule_diversity_factor": 0.0,
+                    "num_target_rules_met": 0,
+                    "total_target_rules": 3,
+                    "score": 0.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.0,
+        "by_name": {
+            "igor korobov": {
+                "score": 0.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "initial_only_first_name": [],
+                        "remove_random_vowel": [],
+                        "shorten_name_to_initials": []
+                    },
+                    "rules_satisfied_by_variation": {},
+                    "compliance_ratio_overall_variations": 0.0,
+                    "overall_compliant_unique_variations_count": 0,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 0.0,
+                    "rule_diversity_factor": 0.0,
+                    "num_target_rules_met": 0,
+                    "total_target_rules": 3,
+                    "score": 0.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.7111923728446339,
+    "final_reward": 0.7111923728446339
+}
+igor korobov        : DEBUG: ----------------------------------------------------------------------------------------------------

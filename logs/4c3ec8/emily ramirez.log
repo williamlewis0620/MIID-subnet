@@ -1,0 +1,2228 @@
+emily ramirez       : INFO: Generating variations for emily ramirez
+emily ramirez       : INFO: ----------------------------------------------------------------------------------------------------
+emily ramirez       : INFO: Effective rules: ['shorten_name_to_initials', 'name_parts_permutations', 'duplicate_random_letter_as_double_letter']
+emily ramirez       : INFO: ----------------------------------------------------------------------------------------------------
+emily ramirez       : INFO: Min Required Rule Variation Set: [{'e. r.', 'E.R.', 'e. R.', 'ER', 'E. r.', 'E. R.', 'e.r.', 'e.R.', 'er', 'E.r.', 'eR', 'Er'}, {'ramirez      emily', 'ramirez emily', 'ramirez          emily', 'ramirez    emily', 'ramirez         emily', 'ramirez     emily', 'ramirez   emily', 'ramirez       emily', 'ramirez  emily', 'ramirez        emily'}, {'emily ramirrez', 'emily raamirez', 'emily ramiirez', 'emily ramireez', 'emilly ramirez', 'emily ramirezz', 'eemily ramirez', 'emilyy ramirez', 'emiily ramirez', 'emily rramirez', 'emmily ramirez', 'emily rammirez', 'emily  ramirez'}]
+emily ramirez       : INFO: ----------------------------------------------------------------------------------------------------
+emily ramirez       : INFO: First name: emily
+emily ramirez       : INFO: Last name: ramirez
+emily ramirez       : INFO: ----------------------------------------------------------------------------------------------------
+emily ramirez       : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8)]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 1 / 21: rule_count/nonrule_count: 0/1------------------------------
+emily ramirez       : DEBUG: O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: P: [0, 0, 0, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: P: [0, 0, 0, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.26818561]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 2 / 21: rule_count/nonrule_count: 0/2------------------------------
+emily ramirez       : DEBUG: O: [0, 1, 0, 1]
+emily ramirez       : DEBUG: P: [0, 0, 1, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [0, 1, 0, 1]
+emily ramirez       : DEBUG: P: [0, 0, 1, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.41822631]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 3 / 21: rule_count/nonrule_count: 0/3------------------------------
+emily ramirez       : DEBUG: O: [0, 1, 0, 2]
+emily ramirez       : DEBUG: P: [0, 0, 1, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [0, 1, 0, 2]
+emily ramirez       : DEBUG: P: [0, 0, 1, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.43704025]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 4 / 21: rule_count/nonrule_count: 0/4------------------------------
+emily ramirez       : DEBUG: O: [0, 2, 0, 2]
+emily ramirez       : DEBUG: P: [0, 1, 2, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [0, 2, 0, 2]
+emily ramirez       : DEBUG: P: [0, 1, 2, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.452]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 5 / 21: rule_count/nonrule_count: 1/3------------------------------
+emily ramirez       : DEBUG: O: [0, 1, 0, 2]
+emily ramirez       : DEBUG: P: [0, 0, 1, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [0, 1, 0, 2]
+emily ramirez       : DEBUG: P: [0, 0, 1, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.50370692]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 6 / 21: rule_count/nonrule_count: 0/5------------------------------
+emily ramirez       : DEBUG: O: [1, 3, 1, 0]
+emily ramirez       : DEBUG: P: [0, 1, 3, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 3, 1, 0]
+emily ramirez       : DEBUG: P: [0, 1, 3, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.56]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 7 / 21: rule_count/nonrule_count: 1/4------------------------------
+emily ramirez       : DEBUG: O: [0, 2, 0, 2]
+emily ramirez       : DEBUG: P: [0, 1, 2, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [0, 2, 0, 2]
+emily ramirez       : DEBUG: P: [0, 1, 2, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.51866667]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 8 / 21: rule_count/nonrule_count: 0/6------------------------------
+emily ramirez       : DEBUG: O: [1, 3, 1, 1]
+emily ramirez       : DEBUG: P: [0, 1, 3, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 3, 1, 1]
+emily ramirez       : DEBUG: P: [0, 1, 3, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.53342093]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 9 / 21: rule_count/nonrule_count: 1/5------------------------------
+emily ramirez       : DEBUG: O: [1, 3, 1, 0]
+emily ramirez       : DEBUG: P: [0, 1, 3, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 3, 1, 0]
+emily ramirez       : DEBUG: P: [0, 1, 3, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.62666667]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 10 / 21: rule_count/nonrule_count: 0/7------------------------------
+emily ramirez       : DEBUG: O: [1, 4, 1, 1]
+emily ramirez       : DEBUG: P: [0, 2, 4, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 4, 1, 1]
+emily ramirez       : DEBUG: P: [0, 2, 4, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.51360946]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 11 / 21: rule_count/nonrule_count: 1/6------------------------------
+emily ramirez       : DEBUG: O: [1, 3, 1, 1]
+emily ramirez       : DEBUG: P: [0, 1, 3, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 3, 1, 1]
+emily ramirez       : DEBUG: P: [0, 1, 3, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.56675426]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 12 / 21: rule_count/nonrule_count: 2/5------------------------------
+emily ramirez       : DEBUG: O: [1, 3, 1, 0]
+emily ramirez       : DEBUG: P: [0, 1, 3, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 3, 1, 0]
+emily ramirez       : DEBUG: P: [0, 1, 3, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.69333333]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 13 / 21: rule_count/nonrule_count: 0/8------------------------------
+emily ramirez       : DEBUG: O: [1, 4, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 4, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 4, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 4, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.49491975]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 14 / 21: rule_count/nonrule_count: 1/7------------------------------
+emily ramirez       : DEBUG: O: [1, 4, 1, 1]
+emily ramirez       : DEBUG: P: [0, 2, 4, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 4, 1, 1]
+emily ramirez       : DEBUG: P: [0, 2, 4, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.5469428]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 15 / 21: rule_count/nonrule_count: 2/6------------------------------
+emily ramirez       : DEBUG: O: [1, 3, 1, 1]
+emily ramirez       : DEBUG: P: [0, 1, 3, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 3, 1, 1]
+emily ramirez       : DEBUG: P: [0, 1, 3, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.66675426]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 16 / 21: rule_count/nonrule_count: 0/9------------------------------
+emily ramirez       : DEBUG: O: [1, 5, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 5, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [4, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 5, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 5, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [4, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.48284049]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 17 / 21: rule_count/nonrule_count: 1/8------------------------------
+emily ramirez       : DEBUG: O: [1, 4, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 4, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 4, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 4, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.52825309]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 18 / 21: rule_count/nonrule_count: 2/7------------------------------
+emily ramirez       : DEBUG: O: [1, 4, 1, 1]
+emily ramirez       : DEBUG: P: [0, 2, 4, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 4, 1, 1]
+emily ramirez       : DEBUG: P: [0, 2, 4, 1]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.6469428]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 19 / 21: rule_count/nonrule_count: 0/10------------------------------
+emily ramirez       : DEBUG: O: [2, 6, 2, 0]
+emily ramirez       : DEBUG: P: [1, 3, 6, 0]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [2, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [4, 0, 0]
+emily ramirez       : DEBUG: [2, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [8]
+emily ramirez       : DEBUG: [20]
+emily ramirez       : DEBUG: [20]
+emily ramirez       : DEBUG: [20]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [2, 6, 2, 0]
+emily ramirez       : DEBUG: P: [1, 3, 6, 0]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [2, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [4, 0, 0]
+emily ramirez       : DEBUG: [2, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+emily ramirez       : DEBUG: [116]
+emily ramirez       : DEBUG: [324]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [20]
+emily ramirez       : DEBUG: [1]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.47809465]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 20 / 21: rule_count/nonrule_count: 1/9------------------------------
+emily ramirez       : DEBUG: O: [1, 5, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 5, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [4, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 5, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 5, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [4, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.51617382]
+emily ramirez       : INFO: ------------------------------Trying rule_count_pair 21 / 21: rule_count/nonrule_count: 2/8------------------------------
+emily ramirez       : DEBUG: O: [1, 4, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 4, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [11, 2, 0]
+emily ramirez       : DEBUG: [89, 12, 0]
+emily ramirez       : DEBUG: [177, 20, 0]
+emily ramirez       : DEBUG: [34, 20, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [59, 4, 0]
+emily ramirez       : DEBUG: [287, 20, 0]
+emily ramirez       : DEBUG: [262, 20, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [28]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: emily, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: emily, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: emily, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: O: [1, 4, 1, 2]
+emily ramirez       : DEBUG: P: [0, 2, 4, 2]
+emily ramirez       : WARNING: Remains: 0
+emily ramirez       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily ramirez       : DEBUG: [221, 42, 0]
+emily ramirez       : DEBUG: [500, 206, 0]
+emily ramirez       : DEBUG: [500, 500, 0]
+emily ramirez       : DEBUG: [500, 222, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+emily ramirez       : DEBUG: [500, 16, 118]
+emily ramirez       : DEBUG: [500, 80, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [500, 500, 500]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: [3, 0, 0]
+emily ramirez       : DEBUG: [1, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0]
+emily ramirez       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [500]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [0]
+emily ramirez       : DEBUG: [2]
+emily ramirez       : DEBUG: final:
+emily ramirez       : DEBUG: name: ramirez, l_level: 0
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+emily ramirez       : DEBUG: name: ramirez, l_level: 1
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: name: ramirez, l_level: 2
+emily ramirez       : DEBUG: --------------------------------------------------
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily ramirez       : DEBUG: scores: [0.62825309]
+emily ramirez       : DEBUG: ----------------------------------------------------------------------------------------------------
+emily ramirez       : DEBUG: Best score achieved: 0.6933333333333334
+emily ramirez       : DEBUG: Best selected: 2/5
+emily ramirez       : DEBUG: Rule variations: [{'e. r.', 'E.R.', 'e. R.', 'ER', 'E. r.', 'E. R.', 'e.r.', 'e.R.', 'er', 'E.r.', 'eR', 'Er'}, {'ramirez      emily', 'ramirez emily', 'ramirez          emily', 'ramirez    emily', 'ramirez         emily', 'ramirez     emily', 'ramirez   emily', 'ramirez       emily', 'ramirez  emily', 'ramirez        emily'}]
+emily ramirez       : DEBUG: Nonrule variations: [{'emylh rymirhk', 'ewnly ranirwx', 'hmiyh armarze', 'enyly rimwrek', 'emile ramurwz'}, {'eunly remhres', 'amiil yanirze', 'emnle rumirac', 'eemly ranarex', 'emill ramyroz'}, {'eemly rimirwc', 'emmly rmuirez', 'eywiy armhreq', 'eemil ramhrwk', 'emlyo raimrek'}, {'eonly ramwruc', 'eiywy rmawhez', 'emill remmrez', 'emnil rmiareq', 'emnlo rymurek'}, {'emhlh ramierc', 'eunly rwmirag', 'emwly rmmyrez', 'hemyl rawiers', 'enilw ranirws'}, {'meely yamherz', 'emile rahmrez', 'enilw ranirix', 'emhlh ramarke', 'emnli raumrek'}, {'emwil ramerog', 'emlyo rnariez', 'emayw yanierz', 'enilw rameryx', 'emili ramrezy'}, {'amuil romiery', 'enila ramhruk', 'enilw ramyrac', 'emilo ramwrwz', 'emyil rymirhx'}, {'uamil rmaerew', 'ehnly ramerix', 'emnla rameryx', 'emwly rmirewz', 'emlye remhruz'}, {'emlya ranereg', 'eunly rymirog', 'emelh ramhrik', 'emila ramreiz', 'maoly rymriey'}, {'emila rwmurez', 'eunly rymirug', 'emyil rmhirej', 'emhli ramwrag', 'wmhlh rawriey'}, {'emlya rymwrhz', 'emlyh rwmirog', 'emhla ramiurc', 'wmhwy armiheq', 'emmly rumrrez'}, {'imyil arimreq', 'emill rmmwrez', 'enmil ramurwk', 'enilh remwrec', 'ennly ramhwrz'}, {'emalh ramarax', 'emhli ranarex', 'enmly rymhryz', 'emilo rimmrez', 'hemal rmariew'}, {'emill rammrwz', 'uhiwy wamrieh', 'emolh ramrwiz', 'emnlo ramyrwc', 'eemly rwmwrek'}, {'eunly ranirix', 'emila rymiryz', 'wmhlh rmaiweh', 'emhli rwnireg', 'emylh remirug'}, {'emlyo rymurek', 'emeyh rmairwe', 'eenly ramaraq', 'enhly remhryz', 'emilo ramirsy'}, {'emnil romiruj', 'enilh ronirex', 'emlly rammrwz', 'uemyl arwireq', 'eenly remirux'}, {'enili romorek', 'eunly romyreg', 'wehly humirze', 'emili ramirze', 'emlya raimrhz'}, {'emlyi romereg', 'hmhlh arhires', 'emhla rumirug', 'emhlh ramhwrz', 'emmly rammriz'}, {'ymiww armirhq', 'emllh remhryz', 'emolh rwmhrec', 'emili rmireza', 'emnlw ramaruj'}, {'enlly rmhirhz', 'emalh romorek', 'emile ramwres', 'aumil armuryz', 'emelh rumirac'}, {'enilh ramhrok', 'ayiwy armureq', 'emhlh rhmhroz', 'emile ramuryz', 'emhle ramraek'}, {'emill ramwrrz', 'emnlh rameryg', 'einly ranerex', 'ehyiy rewierz', 'eynly rameryx'}, {'emlye ramarig', 'emhlh ranirix', 'emnil rymorhz', 'emlly rmairez', 'humly armherz'}, {'eyewy rmaiwyz', 'emyly rmiyrez', 'enwly rwmhrek', 'emmlh rimhryz', 'enilo rwmerec'}, {'wmiil rahiwze', 'emhlw rwmerec', 'emill rmirehz', 'eunly rumoreg', 'einly ramurwk'}, {'ewnly rwmirwj', 'enilu rmairec', 'emile rmireyz', 'emhll rymirag', 'imoyy rwaierz'}, {'emlye rmhiriz', 'emile rmmiryz', 'emhll rhmhriz', 'emhle rwmerex', 'iwiyy rewirze'}, {'emhlu rhmoraz', 'emyly rymorez', 'ewwyy arnirex', 'enilw rimwreg', 'emlyi ramarok'}, {'emhli rwmhrwz', 'enmly ranurek', 'emhla rymirog', 'uymil rewriez', 'emmly rmiarez'}, {'emile remwrez', 'ymeil rawiwze', 'enhly remhruz', 'emhlu rimirwg', 'emnlw rumiruc'}, {'eynly ramhrwk', 'emlyo rwimrez', 'himly reimreh', 'emili rmmires', 'enili rymyreg'}, {'emulh remereg', 'aymil armierz', 'emhli romarej', 'emili rymires', 'enile romarex'}, {'enhly rymwrek', 'emila rmmyrez', 'emnli ramiurj', 'emhlw ramhruk', 'omalh ramahze'}, {'emyil rhmwraz', 'emile ramyryz', 'emnlw rwmirwx', 'ehahy armruez', 'emelh rymirhq'}, {'einly ranarek', 'enilo ranhryz', 'ymlay rmaiheg', 'emhll rmarhez', 'emill rmirezw'}, {'eanly rhmoraz', 'emhlu ranirux', 'emill rwmurez', 'ehalw raimhhz', 'eunly rhmiarz'}, {'emyil ramwerz', 'enlly rwmyreg', 'emwly rrmiroz', 'emnlu ramiirj', 'ewahy haimriz'}, {'eunly rainrex', 'ehnly ranhres', 'emili rahmrez', 'yemyl rhimyez', 'eenly ramhrse'}, {'emnlu rmhwrez', 'enwly ramhryq', 'eonly rwnirwz', 'oemul rmaehez', 'emmly rymirrz'}, {'meihy armhwez', 'emlly rymiraz', 'eemly rwmyreg', 'emlyu ramhrke', 'emelh renwrez'}, {'emalh rmiareq', 'emmly rmmiriz', 'moilh rewirze', 'emnlh rumirug', 'emwil ramraek'}, {'emill rmmwrez', 'emhle rhmiraq', 'enilh ramurig', 'emmlh rhmhroz', 'amoyy raimyeg'}, {'einly ramhryg', 'emllh rwmirhg', 'emolh ramierg', 'emmly ramorwz', 'yehly ryaierz'}, {'emnle raimreg', 'emhli rhmhroz', 'emila ruamrez', 'ohilh rmaiwwz', 'einly ramrieq'}, {'amhil waimyez', 'emlly ramircy', 'emlyi rwmhryz', 'emhlo ramurix', 'einly rymarhz'}, {'emlyh ramhruc', 'wmowy rayiers', 'emhlu rwmarec', 'emili ramreiz', 'emhlo rhmhruz'}, {'emolh ramhwrz', 'emylh rhmhrhz', 'eemil ranwreg', 'omiel armuwez', 'emwly rammriz'}, {'muhly raimwze', 'emalh rmhorez', 'ewnly rwmhrec', 'emilo rmeirez', 'enili rwmirok'}, {'emnlh rwmwrec', 'ewiyh rmaehez', 'emnle ramiurc', 'emlly rmmires', 'emnlo rmhirec'}, {'emilu ramwrez', 'eunly ramhrse', 'emnlh ryimrez', 'emlye rmhhrez', 'eyiyh armiers'}, {'eynly ramhrze', 'ymowy rawriew', 'emmly rmirehz', 'emhlw ranhrek', 'ennly rumurek'}, {'emnli ramarhk', 'oemul ramawze', 'emilu ramyrrz', 'emalh romereg', 'enhly ramhrze'}, {'emilo rmairez', 'ewnly rmhirek', 'emelh romhrek', 'emnla ramuruc', 'ynilw rmairyw'}, {'emilu rmireiz', 'emnil raimrhz', 'omwlh rawrioz', 'emwil ramarqe', 'emnla rameryx'}, {'imyil rhmiery', 'emnla ramihrj', 'emlya ramarqe', 'emyly rymires', 'enill ramerwx'}, {'uholy wamiwze', 'eemil rymyrhz', 'emwly rmmiraz', 'enili remwrex', 'emnla rmherez'}, {'umwwy rmaihew', 'emlye rmarhez', 'enili rimirwx', 'emyil rymirhq', 'emili ramwres'}, {'emhlu rhmirze', 'eemly ramerux', 'enilw rhmirak', 'emwly ramwres', 'wimly armiraq'}, {'enmly remiruc', 'eimyh raimyiz', 'emilu rrmorez', 'enmil ramhryc', 'emylh ramurok'}, {'enilu rwmhrec', 'emilw ramrrwz', 'imalh armarze', 'enilh remhruz', 'emnla ramurok'}, {'ennly ramreeg', 'emill ramreiz', 'imhhy reimyez', 'emlye rymyrec', 'emhli rynirhz'}, {'emill ramirsu', 'wmowy rawrize', 'emhli ranyrex', 'einly ramiirg', 'emhll rwmiroj'}, {'emmlh rmharez', 'enwly rmhirej', 'emnle ramwrke', 'uhiwy ramhwze', 'emill rrmiruz'}, {'iemul rhimrey', 'ennly romyreg', 'enwly rynireg', 'emilu rmirehz', 'eenly rymirhc'}, {'enilh rymirag', 'emnle raemreg', 'oumil armuyez', 'eanly ramierj', 'emlly ramyriz'}, {'emlyu rwmorec', 'emill rummrez', 'yeiwy ryhirze', 'enilo rhmwraz', 'enhly rmuireg'}, {'emlyh rumhraz', 'emill ramirsa', 'uomly rmaierw', 'enilo rmhirec', 'eanly ranerex'}, {'enila rwmirok', 'emwly rrmiriz', 'hmluy armierz', 'emlya rmharez', 'enilw rhmuraz'}, {'omyiy armurex', 'emyil rwmerec', 'enlly ranurex', 'emhlu rimyreg', 'emilw rammraz'}, {'enill rhmhreq', 'ehnly ramiwrc', 'emlly ramrezi', 'enmly ramerag', 'emhyh rawriex'}, {'ennly rumiryg', 'emyil remyrec', 'emwly ramirce', 'enwly ramerhg', 'wmiil armhreq'}, {'ennly rumareg', 'emelh ramhras', 'emlly rymiruz', 'mehly rameery', 'enila rwmirhc'}, {'omhwy armuerz', 'ennly rumiryg', 'emile ramiyrz', 'emllh ramhrze', 'einly ramwryg'}, {'emilo rammraz', 'ewnly rhmirak', 'amahy rmaiweg', 'emalh rmaireq', 'enill rumhrek'}, {'emili raumrez', 'emnlh rwmwrec', 'emlyi ranirig', 'imehy armirza', 'enile romirig'}, {'emhla rhmhroz', 'emilw rrmiruz', 'eenly rymirhj', 'emlya ramyerz', 'amiwl rmaihhz'}, {'emlye ramerux', 'emwlh rhmuriz', 'ewhyy hmairew', 'emlly ramirze', 'enyly rhmierz'}, {'eenly rumureg', 'eyiwl armurek', 'enmil ramarag', 'eanly rymiryg', 'emilo rmuirez'}, {'wmhhy rmaihoz', 'eanly rymurek', 'enilh ramarge', 'enilw rymurhz', 'emill rmiirez'}, {'enilo rimhres', 'emlly ramirzu', 'hamly ramhwze', 'emolh rwmiryg', 'emwlh romyreg'}, {'hmiwl ramyery', 'emolh raimrej', 'emalh ramerug', 'enyly raimreq', 'emilo roamrez'}, {'emlye raimreg', 'emyly rmmurez', 'iwaly raimyeq', 'enilw rnairex', 'emlyo rmairej'}, {'emnlw ramurig', 'yumil rwmriew', 'emmly remyrez', 'emnlh ramhryg', 'emwlh ramaruc'}, {'enyly rwmirwk', 'imoil rmaihaz', 'emlye rymirug', 'emilw rmmires', 'emlyh rmhiriz'}, {'emwil rhmyrec', 'emelh rymerhz', 'omowy raimrwe', 'emill rawmrez', 'enhly ramhras'}, {'emnlu remirux', 'umewy rawriuz', 'emylh romareq', 'emilo rmmiroz', 'emlye raniryx'}, {'emnli ramerag', 'emhlo rymirhq', 'emilw ramruez', 'ehowy rmaiweg', 'emhli rwmhreg'}, {'enilu ramwrig', 'wumly rmaiheg', 'emnla ramurhk', 'eemly romereg', 'emmly rmiarez'}, {'unoly arwirex', 'enilh rwmirox', 'enila raniwrz', 'eunly ramerog', 'emlly rmireze'}, {'emilu ruamrez', 'enmil romiruc', 'umiel wamriyz', 'emhlo rimurek', 'emlhy ramierj'}, {'enila rwmiryg', 'emyly rwmirrz', 'enlly rwmhrwz', 'emhyi rmaiwey', 'emelh ramuryk'}, {'enill rmhirex', 'emnle rmhirek', 'emilw ramraez', 'ymolw rmariey', 'emhla rymiryg'}, {'emlly remwrez', 'einly rmhiraz', 'emhlh ramhryq', 'emwil rwmureg', 'wumly rmaarew'}, {'emilw roamrez', 'ehnly rhmriez', 'emolh rumerex', 'hhaly rmairyw', 'enyly ramrwiz'}, {'emlyi ramiwrg', 'emile ramorwz', 'aumly yiimrez', 'emylh ranarex', 'enilh rumirag'}, {'emulh romhrek', 'emhlh rhmhroz', 'emwly ramirys', 'hmlay hmairhz', 'eenly raumrek'}, {'eemly rumiruj', 'enill rymureg', 'emilo ruamrez', 'maoly rmaiheg', 'eemil rmhiryz'}, {'uwiwy humirze', 'enile rhmirws', 'emilo rymirrz', 'emhla rumwreg', 'enilo ramwrge'}, {'emwlh rmeireq', 'emnli rumhrek', 'iwaly wamhrze', 'emlly rmiorez', 'emnlo rymiruj'}, {'emnlh ramriek', 'emhlu rimwrek', 'ynilw ramowze', 'eonly ramaraj', 'emlly rymurez'}, {'emllh ramrieq', 'enilh rhmirze', 'eynly rhmiwrz', 'emile rymirrz', 'wimly armirye'}, {'emmly rwmirez', 'emylh rhmyrec', 'emhll rimerex', 'enilh ramiarj', 'umiyh raharze'}, {'emelh rimarek', 'eunly ramarje', 'emmly rammrez', 'emhll rymyrhz', 'eyiww rawriey'}, {'ehnly ramyruj', 'emyly rramrez', 'enlly rumhraz', 'aumil hmairiz', 'eunly rymwrek'}, {'emlyh rhmirws', 'einly rymwrek', 'emlhy ranirza', 'omulh rmaihyz', 'emile rymiraz'}, {'enill rwmirag', 'inihy raihrze', 'emhle ramhrig', 'emlye rumirig', 'emwly rramrez'}, {'emilw romwrez', 'emnil rhmiarz', 'ewnly ramreeg', 'uimly arnhrez', 'enila romoreq'}, {'emalh ramwrhk', 'weilw ruimrew', 'emilu rymyrez', 'enilu rmyorez', 'emnlh romareq'}, {'emyly rrmiruz', 'emlyi remwrex', 'emllh rwmhrek', 'umwwy rmawrew', 'enili rwmwrek'}, {'emaww rmaiwiz', 'emlhy rmhiroz', 'emnlw ramhris', 'emilu ramyryz', 'enilw rumyrec'}, {'umeil rhmiery', 'emnle romiruj', 'enyly rhmhrwz', 'eanly rnaorez', 'emlly rmmirwz'}, {'enilw rhmyrec', 'emylh rhmirig', 'emile rymrrez', 'omulh rmaihey', 'enmly romyrec'}, {'hmhhy ymaireq', 'emnlw ramyric', 'emila ramyrez', 'enile rymirge', 'emelh ramerig'}, {'emlya rumirge', 'eanly ramiwrk', 'emlly rmmirez', 'immil raimhwz', 'enhly rmuireq'}, {'emhle rhmarek', 'enmil ramuruk', 'emilo ramirce', 'umiul rmaiwaz', 'enilw rimyreg'}, {'emlye rumhryz', 'ehahy rameery', 'eemly raniruj', 'emyly rymiroz', 'enilu rumoreg'}, {'mielw armiriq', 'emilu rmiyrez', 'emnle rwnirwz', 'emlyo rumoreg', 'emnlw remirig'}, {'enilh raniruc', 'emhlu ramarwk', 'emnlh ranereg', 'emmly rmmiruz', 'ewalw armhrey'}, {'wmalw rmaerew', 'emlye rhmyraz', 'emmlh ranirig', 'emwlh rwmhroz', 'emile rmireuz'}, {'emlyo rwmiruj', 'enilo rimereg', 'emnlu rhmerex', 'emilo rwmirez', 'muilw armhraz'}, {'emnli ramaruc', 'emilu ramwruz', 'umiel wamierh', 'emhil ramurhk', 'emnlu rhmuriz'}, {'emwil ramarhk', 'meiyy armhriz', 'emhlu rymirhq', 'emhlw rmhyrez', 'emili roamrez'}, {'emilw rammrwz', 'emlyh romarex', 'emlya ramwruk', 'hamly rmaihec', 'enilu romorek'}, {'eonly ranhres', 'emyly rimrrez', 'emnlw ramraek', 'imiyl ruwriez', 'ehnly rmhiraz'}, {'eenly rhmhraz', 'emlhy ranorex', 'wmyiy armiyes', 'emlyh romereg', 'emili romirwz'}, {'enmil rmworez', 'emilu ramriez', 'imhwy rayuerz', 'eunly rmwarez', 'emwlh rmhirhz'}, {'amiyl armareq', 'enilo rumyrec', 'emyly rmireze', 'emyil ramhrus', 'emhll ramierc'}, {'emhlo rumhreg', 'emwlh rumirwg', 'eniyh raimyes', 'emilo rymirez', 'emlhy romarej'}, {'wmiwl hamierj', 'emwil ramoruj', 'emlyu rnaarez', 'emill rymirez', 'emhlu rhmiraq'}, {'enila ramrhyz', 'eenly ramerux', 'emwlh ranyrec', 'emili rmiraez', 'uhiwy raimyeh'}, {'emyly ramiryz', 'eonly ramhrys', 'emlyi rymwrek', 'emwil ramuruc', 'eweyy rawierj'}, {'enili rhmuraz', 'emill rahmrez', 'hmlay rmairww', 'emnli rumhryz', 'enilo ramraek'}, {'eanly rymhres', 'emulh rwmirhc', 'emlyi rwmhroz', 'ymlyi rmaihaz', 'emilw rymires'}, {'emlhy rwmirug', 'emilw rmoirez', 'emlyh romurek', 'umihl ymaireq', 'emhla ramarak'}, {'emlyh ramuruk', 'emnle rymirig', 'umulw rymriey', 'emlye ramhrke', 'emilo rwmmrez'}, {'enilw romwrek', 'emyly ramiryz', 'hyiwy armiyex', 'emhlh rhmerex', 'emwlh renirex'}, {'enila rmaireg', 'emilu ramwruz', 'humil rmaihiz', 'enyly rwmoreg', 'emlhy ramaruk'}, {'emwly ramirsa', 'enilo rimurek', 'hmhlw raimhyz', 'emlyh raimrhz', 'emwlh ramarqe'}, {'eemil rimirwc', 'ewwyy raimyiz', 'emhil rmaireq', 'emulh ranyrec', 'emilw rmiorez'}, {'moilh raimhoz', 'emhle rhmiarz', 'enill rhnirex', 'emyly ramwroz', 'emwlh rhmierz'}, {'enill ramhrys', 'emili ramirzo', 'maiwy raimwze', 'emnlu rymiruc', 'eenly raimrek'}, {'emylh remwreg', 'emilo rmmyrez', 'eenly rwmiroc', 'ehnly rhmiras', 'iymil armirze'}, {'enlly romorek', 'inaly armyreq', 'emhil remereg', 'emila ramyryz', 'enilu ranarex'}, {'emlhy remurek', 'aumly rmaihew', 'emwly ramrryz', 'emelh rhmuraz', 'emlyo rumirax'}, {'emilu ramreoz', 'eemly rmhires', 'emnlh raniruj', 'ehnly rumerex', 'meyiy remiery'}, {'enlly rwmwrec', 'emmly rrmiriz', 'emhle remhryz', 'ywiyy armhryz', 'emlhy remirig'}, {'enwly ramyrag', 'omalw raimhze', 'emwlh rymwrhz', 'enill rymirig', 'emill romwrez'}, {'emilu rammres', 'emnla ramarxe', 'eunly rwnirex', 'amowy armhraz', 'emhil ramwerz'}, {'emilw raemrez', 'eonly ramarok', 'enila rmhhrez', 'emwlh rumarek', 'ymwlw rmaohez'}, {'ennly ramierk', 'eanly ranirix', 'emeyh raimyeg', 'emmly ramrezi', 'ehnly romareq'}, {'umail rmawrew', 'emila ramyrzz', 'emhil rumirak', 'eunly remiruk', 'emnlw ronirex'}, {'emlye rwmarec', 'emnlh ramwrok', 'emilw ramyroz', 'ymluy rmaiyes', 'emwil ranarek'}, {'einly ramiwrj', 'emnle rmyarez', 'emilo rymorez', 'enilo ramerhx', 'ymulw rmaihze'}, {'eemly romurek', 'amiwl yamierj', 'emila rmirrez', 'emnlw ramarqe', 'emnli ramerux'}, {'emilu roamrez', 'emylh ramoruj', 'enill ramhrze', 'emahh rawiers', 'emlyo ramyrig'}, {'emhlw rumiruj', 'womly rahriyz', 'emilu rrmarez', 'emnlo ramryiz', 'enlly ramurij'}, {'wemyl armiriq', 'emhlo rwmirox', 'emilo ramreiz', 'emhlw rimirwk', 'ewnly ramryiz'}, {'emile rwmiroz', 'aomil haimrhz', 'emhll rymhreg', 'emhil ramerxe', 'emwil raimrek'}, {'emilo rmmyrez', 'eunly rymyrhz', 'emnli raniruj', 'eemil rwmiryg', 'yemyl rawriuz'}, {'eonly rymerhz', 'emnla ramarxe', 'inihy raimyey', 'emilw rammrez', 'ennly ramaruk'}, {'emlly ramyruz', 'emlyu rhmhroz', 'emnlu rimhrek', 'ehnly rwmirug', 'wemal hhmierz'}, {'uumil rimiwze', 'enila ranyrex', 'emhll ramerux', 'emhlo ramrhiz', 'emilw ruamrez'}, {'einly rmhirec', 'emlyo rymhryz', 'emile rwmrrez', 'mielw armarze', 'emlyi rumhrek'}, {'emilu rammraz', 'enili raimrhz', 'enill rwimrez', 'moilh armihex', 'ennly ramerge'}, {'enile rhmyraz', 'enilo ranriez', 'enlly ramhruk', 'emill rmireiz', 'eamhy raimyec'}, {'yyiwy rmawrew', 'emalh raimrek', 'emwil rimarek', 'emyly rmiarez', 'emlhy ramiwrg'}, {'emlyh ramhrak', 'emhll remiruk', 'euyil armwrek', 'emwly rymiraz', 'ehnly rwmirwc'}, {'emmly ramwroz', 'emnlo raimreq', 'enilo rmairhz', 'uimly armiriq', 'eunly ramarge'}, {'emwly ramircy', 'eunly rumirog', 'eonly ramerig', 'emhle ramrwiz', 'amyiy waimrze'}, {'emyil rumirax', 'emilw raomrez', 'emlya rimiruc', 'enill rhmhruz', 'iamly rwimhez'}, {'emlyo rumirig', 'emnil ramhrig', 'enila rimyrec', 'emwly rwmiraz', 'hmoyy armiruc'}, {'ewhyy armirwq', 'emlye rmhiruz', 'enmly rwmhrwz', 'emilw rmiarez', 'emlyi rmairec'}, {'eenly raemreg', 'uwilw wmahrez', 'emwly ramreyz', 'emhll rumirax', 'eanly ramrwiz'}, {'emilu rymiryz', 'enilo rumirax', 'imiel yamhrze', 'emnlh rwmhroz', 'eanly ramwruk'}, {'emhll rhmwraz', 'eynly rwmhroz', 'ehawy armerex', 'enyly rymyrhz', 'emmly ramwriz'}, {'ennly rmhorez', 'emhlu rwmiroq', 'ewoyy ryimhez', 'emill ramroez', 'emmlh rymirug'}, {'eyawy armiraq', 'enilo raniryx', 'emlly rymirwz', 'emhla raimrek', 'emnlh romareq'}, {'emila ramerwz', 'emnil rmairek', 'emlyi ramwrak', 'emlyo rhmurek', 'wmlyi rmairww'}, {'ewhyy rmayhez', 'emilw rumirwz', 'emnlo ramrhiz', 'enmil ranorex', 'ehnly ramyrig'}, {'emhlw rhmereg', 'emwly ramwrzz', 'emnlw rwmiryg', 'emnlu ramuruc', 'ymowy raimhek'}, {'enmil raimrej', 'emhll ramyrhc', 'emnle rymirhk', 'emmly ramwrez', 'umloy rmaiwaz'}, {'eemil rymhrek', 'emlly rmiwrez', 'wmalw rahries', 'enwly remiruq', 'ennly rwmwrek'}, {'emlyh ramhryg', 'eimyh rwmiwze', 'enila remiruc', 'emilo rammryz', 'eunly rwmureg'}, {'emlyo ramuruj', 'aimil armierj', 'emlhy rnariez', 'enilh rmhiroz', 'emyly ramiyrz'}, {'emilw raemrez', 'emalh rwnirec', 'emmlh ramhrok', 'enila rhmhreq', 'omolh rmaiwej'}, {'emlly ramrres', 'emnil ramryiz', 'einly ramrhyz', 'emnla ramhrig', 'omliy rmauwez'}, {'emwil romereg', 'emwlh ramyrag', 'emyly rrmorez', 'ewnly remyreg', 'iwaly rmaiwek'}, {'emlyo ramerxe', 'emili ramrezz', 'emawh hhimrez', 'emlyi rmhyrez', 'enmly rumureg'}, {'enhly rwmhroz', 'enlly remhres', 'enilw ranurek', 'emili raimrez', 'hwiyy rumriew'}, {'emylh ramurhk', 'imuil armuroz', 'enlly ramerhg', 'emolh ramrhiz', 'emwly rmirewz'}, {'emnil rwmirac', 'yyely armuerz', 'emmly ramoryz', 'emhil rymhryz', 'eemly ramarac'}, {'emylh rhmhraz', 'enilw rwmirwx', 'ewiyw yamiwze', 'enlly remwrej', 'emyly ramirce'}, {'eyyiy raimyey', 'emnli rumyrec', 'emelh rmhireg', 'emill ramyruz', 'emylh ranerex'}, {'ennly remyrec', 'hehly rmayhez', 'emlly ramyrez', 'emlya romereg', 'emlye rymwrhz'}, {'emhlw ranirwx', 'imyil ramowze', 'emwly ramreez', 'emnlu romereg', 'emmlh ramrieq'}, {'eemly rumwrek', 'emila raimrez', 'enhly ramuruk', 'enile raimrex', 'ehahy ymaarez'}, {'emyly rammres', 'emlyi remiruc', 'emnlo ramyric', 'enilo rwmyreg', 'wmhlh raimheq'}, {'eenly ramierc', 'emili rammryz', 'emlyu rymarek', 'maoly reimhez', 'enilh rhmurek'}, {'emelh rnairex', 'umihl raimhiz', 'eunly rhmirac', 'emwil ramhryj', 'emilw ramwrez'}, {'ehnly rhmwraz', 'emlly ramrrez', 'emnil ramarag', 'umiol armorey', 'emolh ramwruk'}, {'emhlu remarek', 'emwly ramwruz', 'enhly rwmirhg', 'meiwy rmairhw', 'enilo rmairex'}, {'emnil ramhruj', 'enmil rhmaraz', 'emmly rmmiriz', 'imoyy armirye', 'enwly ramoruj'}, {'emhil remiruj', 'enyly rumyreg', 'emhle romwrek', 'emwly riamrez', 'humly armhruz'}, {'enilo ramryiz', 'emilu rmirezw', 'emhli rumirog', 'muiwy wmaihez', 'emmlh rymirhs'}, {'hnhly hawriez', 'enwly ramwrhg', 'emilu ramiryz', 'eonly ramhrik', 'emlyh rhimrez'}, {'ewnly rhmwreg', 'enmly rmhires', 'amihl raimwze', 'emile rammryz', 'enhly rymirhg'}, {'winly ramriyh', 'emlyu rwmirug', 'emili rimwrez', 'emalh romareq', 'enmil ramerge'}, {'emmly ramarwz', 'emalh rhmiras', 'maiwy raniwze', 'enilh ryimrez', 'emnla rymereg'}, {'emilo rmirehz', 'emlyu rhmhrek', 'enilw ramwrwk', 'amawy rewirze', 'ewnly ramiorj'}, {'emyil rymirhg', 'emnle ranyrec', 'imalh rmaihaz', 'emlyo rmuireq', 'emilu rmierez'}, {'enill ramihrj', 'emwly rymiraz', 'emlyu ramhrse', 'mielw hmahrez', 'emyil ramhrys'}, {'emlyo ramyrig', 'ennly remirig', 'emylh ramyerz', 'imial rmaahez', 'emwly ramraez'}, {'eynly ramiwrx', 'emwlh rmhiryz', 'emlly rmiwrez', 'emnle ramierx', 'amial raimhew'}, {'emolh romhres', 'eemil rwmwrek', 'oemul rawriej', 'emhlo rnariez', 'emili ramirwz'}, {'emnlw ramhrhs', 'emyil rumareg', 'emnlo rumwreg', 'emwly ramarwz', 'emeyh rwmierw'}, {'eenly rwmhreg', 'omelh rmauwez', 'ehnly rumirug', 'emhlw rymerex', 'emilo ramurwz'}, {'emmly ramrezy', 'ewiyh armereq', 'ehnly ramorig', 'emhle rmhiraz', 'emhlh rmhirec'}, {'emlyu rumirge', 'emhil ramwrhk', 'emwlh rmhiroz', 'amiol armherz', 'emyly raomrez'}, {'emlyh ranirix', 'eemly ramiirj', 'emmly rmmorez', 'emhlh ranirox', 'emayh ramawze'}, {'emlye ramarag', 'emowh rmaoreh', 'emilo rumwrez', 'emmlh remerex', 'emhil ranirza'}, {'emhli rmhiruz', 'ewnly rumhres', 'emhll rhmhrek', 'emilu romyrez', 'ehlyi arhireq'}, {'emnli ramwrig', 'emlya romiruj', 'hmuil rawriey', 'emilo rwmwrez', 'emhll rymarhz'}, {'amial hmaireq', 'enmil rymiryg', 'emile rwmirrz', 'eonly remwrek', 'eemil romurek'}, {'omihh ramawze', 'emilu rammraz', 'eemly rhmierz', 'emmlh ramhryj', 'emnle rwmirhc'}, {'emilo rrmiruz', 'emhll ramreeg', 'umoil armereg', 'enmil rhmirza', 'enwly ramhruk'}, {'omihh armurwz', 'emyly rahmrez', 'emnlo rhmhruz', 'emllh rmyarez', 'emhlw rymirhs'}, {'ennly ramhrus', 'enmly rymirhq', 'eemil rhmhrhz', 'meyly wmaireq', 'emile rymmrez'}, {'emllh remwreg', 'mahly hamriey', 'emylh rymureg', 'emilw rrmirwz', 'emlya rymwrek'}, {'ewhyy raimhhz', 'enilo rmhyrez', 'enile rhmirws', 'eemil ramurok', 'emile rmiorez'}, {'emhil rmherez', 'emwil raamrek', 'enill rumirag', 'ymeil rmairye', 'emili ramrewz'}, {'mewly rmawrew', 'enhly rimhrek', 'emili rammres', 'emnla rmhyrez', 'emlyo ramaryk'}, {'umuwy romiwze', 'emyil rwmhrwz', 'emila rmmiriz', 'emnlw ramaryk', 'enilu ramraek'}, {'ennly rwmhrek', 'emilo rwmyrez', 'emhlh ramarak', 'wehly hamiery', 'eenly rymyrhz'}, {'emwil rumurek', 'ymewy rmawyez', 'emelh rwmhrec', 'emmly ramreez', 'einly ramurwk'}, {'enile rhmirig', 'emlly rwmerez', 'emeyh rmayrew', 'enilo rmhorez', 'emhlo ramiirj'}, {'emllh rhmhres', 'emyly raymrez', 'umalw rmaiheg', 'emolh raimreg', 'emelh romereg'}, {'emilo rwmirrz', 'maliy rawriej', 'enile ramyric', 'enmly rmhriez', 'emhll ramurwk'}, {'emile rammruz', 'enyly rhmhruz', 'emlye rameruj', 'umihw arhirwz', 'enilh rwnirwz'}, {'emilo riamrez', 'ymiww armiers', 'ehnly rymhryz', 'enile rhmhryz', 'emnil rumirak'}, {'emelh rmhirec', 'emili remiryz', 'emnlo rumirwg', 'eonly ramuryk', 'iimly raimyej'}, {'mawly hmairey', 'enile rmhiruz', 'emlly rwmiraz', 'emnle ramhwrz', 'emhli rwmwreg'}, {'emwil rumirag', 'emhlu rumhreg', 'emlyi romorek', 'emilw rymarez', 'uyilw raimrye'}, {'uhilw rayiery', 'emile rommrez', 'eonly rymureg', 'emyil ranirax', 'eemil rhmirze'}, {'emilu rymiroz', 'emulh romorex', 'ymwlw rmaiyew', 'emnla rymirhj', 'emylh rhmirws'}, {'ewyiy rmairaw', 'enwly rhmuriz', 'emilw ramircy', 'emmlh rhmirax', 'emllh ramhrus'}, {'eynly rwmirok', 'whmly hhimrez', 'emlyh rimyrec', 'emill rimwrez', 'emhlo ramwrog'}, {'emmlh romarej', 'emilw rwmiraz', 'eonly runireg', 'enili remurek', 'eywwy remiwze'}, {'emhli remwrek', 'umihl wmaireh', 'emhil ramerux', 'emlhy rynireg', 'emile rammroz'}, {'emnil rynirhz', 'emulh rymwreg', 'emhlu ramyroc', 'ymliy hmairew', 'emila ramrraz'}, {'emili rmireaz', 'emlyo ramoruj', 'omahy rmairww', 'enilu rwmhryz', 'emyil rimarek'}, {'enilw rwmiruj', 'emila rrmerez', 'emhla romiruc', 'emalh ranyrec', 'omwlh armhres'}, {'emilu rwmirrz', 'eonly ramarje', 'enawy ramriiy', 'emhll rymarhz', 'enila ramwrug'}, {'emwlh ramaruk', 'emlhy rymurhz', 'emwly rmeirez', 'eemly rymarek', 'wyiwy rmahhez'}, {'emill ramwroz', 'emhlh rumyrec', 'moilw raimhhz', 'emnlu rumirig', 'enill rymiruc'}, {'eemly ramhrse', 'emnli romwreg', 'emyly ramrezu', 'emlye rwimrez', 'uyiwy armurew'}, {'emhle rhnhrez', 'iwmil ymaierz', 'emilo rimyrez', 'emhll rameruc', 'einly rwmirhc'}, {'emulh rymirge', 'eanly ranirig', 'emnla raimrec', 'owilh yoimrez', 'emill rrmirez'}, {'eemly rhmeres', 'ymylw rmaihew', 'emlyo ryimrez', 'einly ramruek', 'emill rmihrez'}, {'enili ramaruk', 'enhly rumirog', 'aimly raiyrze', 'emnil remwrej', 'emila rwmyrez'}, {'emilw ramorwz', 'eemly romhres', 'ewahy rmaorey', 'eanly rumiraq', 'enmly rwmirhc'}, {'emhlo ramhwrz', 'emyly rmmiriz', 'eunly remiruq', 'eywwy ruimrew', 'enlly romwreg'}, {'emahw reimhez', 'eemil rhmhraz', 'emhla rymurhz', 'ehnly ramierx', 'emyly rammrez'}, {'meyly rewierz', 'emhle rhmerex', 'enmly rymerex', 'emile romirwz', 'enwly ramarzh'}, {'emyil rwmirac', 'emile rmmurez', 'emhlo rwmirwq', 'yehly yamriiz', 'enyly rwmhreg'}, {'heyil rewriez', 'eonly rwmiroq', 'eemly rhmwreg', 'emile rymorez', 'emnle rwmirwq'}, {'enwly rymhryz', 'emnli rhmiruj', 'ymwiy waimreh', 'emilu rymmrez', 'enili rhmuraz'}, {'enmly rmhhrez', 'amawy rhaierz', 'eemil ramwryk', 'emila ramruez', 'ewnly ramoruc'}, {'eomwy rymiwze', 'emmly rrmirez', 'eenly raniryx', 'enwly ramwruj', 'enilh rwimrez'}, {'emwly rammrwz', 'uwoly armhres', 'emnlu rumirag', 'emnla rhmiruc', 'enila rnaorez'}, {'emnil romorej', 'enilw rumhraz', 'emile ramrrwz', 'amawy armuruz', 'eunly romareg'}, {'enill rmyorez', 'eyiwh wmaireq', 'eanly rymhrhz', 'emlly ramyriz', 'emhla ramyruc'}, {'meyiy raimrye', 'emhll ramwrag', 'emilu remrrez', 'emwlh ramyrhc', 'emhlu rumiruc'}, {'emhlo ranhrex', 'emilw ramwrrz', 'ymeil arnireq', 'emhla rmhorez', 'eynly rymirwg'}, {'enmly rmuireg', 'emnli rmairek', 'emilu rmierez', 'wmhlw hmaarez', 'emwil rwmhrwz'}, {'emhlh rmuireg', 'emila rymorez', 'emhlw ramhryc', 'emlyh rwmurek', 'owiyy rumiwze'}, {'eyyiy raimrhe', 'eemil rymhrhz', 'emlyu rwmiroq', 'emile rmmyrez', 'emlyh rwmhrwz'}, {'enwly ramwrwk', 'emhla ramiurc', 'emnlh ramhrig', 'ymelw aryireq', 'emlly rmmwrez'}, {'emwlh rhmiwrz', 'enila rimirwx', 'hwiyy armiyes', 'emwil rhniraz', 'emili rommrez'}, {'emlye rymirug', 'ewwyy arhireq', 'emolh rhmuriz', 'emile ramyrez', 'emhle ramhrak'}, {'umywy yanriez', 'ewnly remwrej', 'emilu rumrrez', 'emhlu rwmirug', 'emulh ramhrak'}, {'ennly rmhirex', 'emnil remhrek', 'emnla ranurek', 'emwly rymirez', 'wwhly raimhej'}, {'enmil ramhrse', 'emili ramrewz', 'emhli ramarok', 'emhww arhireq', 'emllh rnaorez'}, {'emilu rammres', 'emhlo ramyrig', 'emlyu rmarwez', 'umwwy raimyex', 'emhlh rnariez'}, {'eemil raimreg', 'emilo rrmiriz', 'enilo rwmirog', 'emlhy rumyreg', 'emowh ruimhez'}, {'emilw rmiurez', 'eynly rumareg', 'emlyi rimhrek', 'hmayy huimrez', 'emlyh rhmhrex'}, {'enilu romerex', 'wmlyi rmahwez', 'emmlh rameirj', 'emilo rmirezo', 'eanly rainrex'}, {'emyly ruamrez', 'enile ramyric', 'emlyi ramruek', 'emolh rhmhrek', 'uyilw wmaarez'}, {'emhlo ramurwk', 'emhil romarej', 'emlyi ramwrwg', 'emmly rumirwz', 'ymehy rmaiweq'}, {'amhil armureh', 'emlye ramurak', 'emilo rumwrez', 'emhlw raimreq', 'emnli rameruj'}, {'uwilw roimrey', 'enwly rhmhrec', 'emilw ramreez', 'eunly rwmirox', 'emllh rwmwrek'}, {'emlyo rymurhz', 'enilh rwmirwj', 'ewhwy wmairew', 'emila ramirzo', 'emnlu raemrex'}, {'wimly rwimhez', 'emhlh rwmiryg', 'emlya ramaruk', 'einly rymirhj', 'emilw rmireze'}, {'emhlo remwrej', 'enilu rymoreg', 'emile rmiurez', 'eiywy humirze', 'emhlw remirug'}, {'emhlu rmherez', 'emolh rimiruj', 'emnlw ramorig', 'inaly armiwrz', 'emlly rwmirez'}, {'emnlo rhmirze', 'emulh rmyarez', 'emmly rmmires', 'emllh rhmiruc', 'umawy ramwery'}, {'emhlh rmhireq', 'emnlh rwmirig', 'maoly armhroz', 'emile rmmiroz', 'emlya ramwrok'}, {'emhle ronirex', 'emnle rnairex', 'enmil rhmyrec', 'emyyi ymaierz', 'emlly rmairez'}, {'enlly rameryx', 'imihl reimrew', 'enyly ramaruc', 'emmly rrmiroz', 'emnlo ramarge'}, {'emnli rwmarek', 'emwly rmiyrez', 'aomil ramoyze', 'emnle rumirhg', 'eenly rwmirac'}, {'ymalw rmaahez', 'emlyu rmyireq', 'emill ramirws', 'enila ramurak', 'emlye rwmirig'}, {'wiyly rawiers', 'emmly ramirzy', 'enilw rumirug', 'ehnly rynireg', 'emlyi rhmirac'}, {'ehnly rwmirac', 'imyhy rumiwze', 'eenly rimirwc', 'emilw rmirezw', 'enilo ramwrog'}, {'omelh ramuery', 'emile rmmwrez', 'enill rmeireq', 'emlyi rymurek', 'enlly rumureg'}, {'imalw rmaihek', 'emhlw remirig', 'emhlh rmairej', 'emnli rymirhk', 'emill rmairez'}, {'emhle ramhrus', 'emill rumyrez', 'emlyu raimrec', 'ennly rmherez', 'eumyy rmairoy'}, {'emhlw remirig', 'emwil ramarxe', 'omylh armurec', 'eunly rymarek', 'emmly rammraz'}, {'imayy raimhec', 'enmil rumurek', 'enilu rwmurec', 'emile ramreez', 'enilo remiruk'}, {'emyly rimyrez', 'hyhly ruimhez', 'emhlo rwmiroc', 'emlyu rwmirwj', 'emalh rymirag'}, {'emyil runireg', 'emili rmmiruz', 'ymiyw rmaehez', 'emnle rwmirok', 'enill rhmirag'}, {'emhlu rwmiroq', 'emwly ramwrez', 'emnla raniruj', 'uemyl rayarze', 'ewnly rymyrec'}, {'emhli ramruek', 'emila rumrrez', 'ewnly rymwrhz', 'ymloy arhireq', 'emhlh rmyireq'}, {'emlly ramreze', 'emhil rumiruc', 'emnlu ramwrwk', 'imlay raimhes', 'emwlh rymorhz'}, {'hmlwy yanriez', 'enili romarec', 'emlly rmiyrez', 'emnla remhres', 'eemly ramierg'}, {'emhll romiruc', 'emmlh rumiraj', 'eonly ramarik', 'emilo rymirez', 'ymewy romihze'}, {'umloy rmaarew', 'einly rymiruc', 'eenly ramhryq', 'emmly rmirezi', 'eunly rmaryez'}, {'emhlh rymirug', 'hnhly ramoyze', 'emhlw rumerex', 'emlly rmmerez', 'emelh rwmorec'}, {'emyly rymyrez', 'emhlw rhmierz', 'emhli rwmhrec', 'melyi raimyej', 'emlye rhmiruc'}, {'emill ramwraz', 'emlye ramrieq', 'emylh ranirox', 'emlhy ranwrex', 'omhlh armorey'}, {'enmly raimreg', 'emnlu rumiruc', 'emill rmmorez', 'enahy rmaiwek', 'enilu remiruk'}, {'eenly ranirwx', 'emlyh ranarex', 'emilo rwmiryz', 'emmlh raniwrz', 'melyi hmariez'}, {'imiwl rmaihuz', 'emlly raymirz', 'enill rmhiroz', 'emlya rymirhg', 'enwly renirex'}, {'owilh rawrihz', 'emlyh rumhryz', 'eanly rwmareg', 'emnlu roinrez', 'emilu rymmrez'}, {'emnlo rymyrhz', 'enwly rwmiric', 'emwly ramrezo', 'uwilw rmaewez', 'emlya rymurhz'}, {'meihy rwmiwze', 'ennly ramhryc', 'emmly romyrez', 'enwly romhryz', 'emyil rwmhreg'}, {'emuyh hamiwze', 'emill ramirce', 'emnlh ranirwx', 'emhll rhmeres', 'emelh rwmirge'}, {'ewnly remwreq', 'emhlo rhnirex', 'emwyh ryimyez', 'emwly rimwrez', 'emlyh ramhryj'}, {'emilw ramreza', 'enili rhmaraz', 'eonly ramiwrj', 'emwil ramarge', 'iwmly remiery'}, {'umloy haimyez', 'emnlu romarek', 'eanly rimirwg', 'emmly ramirci', 'emulh ramuruc'}, {'emilo rrmiraz', 'wmowy rmaiheq', 'eonly rhnirex', 'enili rumirax', 'eynly rmhorez'}, {'uemul arnurez', 'emill rumyrez', 'enmil ramhrak', 'ewnly ramryiz', 'emulh rhmiruc'}, {'eenly ranirze', 'emili rmmirwz', 'emnle rimirwq', 'emalh ramhryk', 'melyi ryimhez'}, {'emyil ramhros', 'emwlh romorek', 'enlly rmwarez', 'emill ramrezw', 'umylw armruez'}, {'emilo ramirze', 'emulh romorex', 'ehnly runireg', 'hhhly haimhez', 'enile rwmirox'}, {'yemal rahriiz', 'emnla romareg', 'emnlh rhmirza', 'eynly ramyruc', 'emwly ramriez'}, {'emlly ramorwz', 'emwlh rymirag', 'emhil rnairex', 'muoly aryirej', 'einly ramerax'}, {'enilo ramierx', 'hamly hamriiz', 'emhle rumhreg', 'emmly ramirws', 'einly ranirix'}, {'emila rammraz', 'emhlh rwmiroj', 'ehnly rymyreg', 'enila rainrex', 'ewiyw raimyeq'}, {'einly ramwrge', 'umiwl rmaiwaz', 'emill rwmurez', 'emlhy ramhruc', 'emalh ramarge'}, {'maliy raimheh', 'emnlo rymyrhz', 'ewnly rymereg', 'emilw rwmiraz', 'emhla rwmureg'}, {'ennly rmwarez', 'ymiyw rayiwze', 'emili rmmiriz', 'emlyi ramhruk', 'einly rwmhrec'}, {'eynly rhmhreq', 'emnlw rhmirac', 'emwly remmrez', 'mehly yoimrez', 'enyly rimirwk'}, {'emylh rymyreg', 'ehhwy rawrieq', 'enile ramyryc', 'eemly remhruz', 'emilu ramwriz'}, {'emlyu rwmirag', 'yhilw ruimhez', 'emila ramwrez', 'enill rwnirex', 'eonly rhmwraz'}, {'ynely rmaehez', 'emllh rumwrek', 'emlhy rymirhg', 'emile ramrezw', 'emnlo rumirge'}, {'emlly remwrez', 'ymwiy rahiers', 'emylh raimrhz', 'enile rhmoraz', 'enmil ramuruj'}, {'emnlo rhmirak', 'ennly remwreq', 'eemly ranorex', 'emilo rmiurez', 'aimly yamhrze'}, {'enilo rhmhrek', 'emili rrmirwz', 'emnli ramhrse', 'enila ramrieq', 'hmayy arnirex'}, {'wehly raimhex', 'emlyo ramwruk', 'emilo reamrez', 'emnli rymurhz', 'enlly rymarhz'}, {'ewnly ramwrke', 'eanly ranwreg', 'ehnly ramierj', 'emyly remmrez', 'umoil rmaywez'}, {'maliy rayurze', 'enilh rainrex', 'emyil ramarik', 'emlly ramirsa', 'emhil rwmhrwz'}, {'emhil romwreg', 'emnli ramerag', 'eanly rhmhrhz', 'emile rammryz', 'hmhwy rmairuw'}, {'ayiwy hmaiwez', 'emwil ramiwrg', 'emili rmairez', 'emlyo ramarzh', 'emhil remirux'}, {'emhlh rhmyraz', 'enwly rmairej', 'emhil rymurek', 'emyly rwmiriz', 'oyiwy haimreh'}, {'omlyi hamriiz', 'emnlw rymurek', 'emili rumrrez', 'eemly rhmuraz', 'enlly rhmiras'}, {'enyly raimreq', 'miilw rmaiyew', 'emalh ramyric', 'emilw rrmirwz', 'eenly ramhrhs'}, {'emwly ramyrwz', 'enilh rmyireq', 'enhly ramhryk', 'ihihy arhires', 'emhlh rinirwz'}, {'enilh rwmirwj', 'emili rmmiriz', 'emhlo rmairek', 'ymlhy raimhwz', 'emhlw rhmwreg'}, {'wehly hmariez', 'emhli rwmhrwz', 'emilu rmirewz', 'enmly rimhres', 'enlly rumureg'}, {'enilu ramiurc', 'amihl ramriyw', 'emnlu ramwrak', 'emlly romwrez', 'emhll romhryz'}, {'emile rmiirez', 'eynly rymyreg', 'enmly remurek', 'emlyi ramierk', 'oumil rmairiw'}, {'emlly ramrroz', 'emnlh rmuireg', 'enilu ranirhx', 'eanly romorej', 'inihy rmairwe'}, {'emlye ramoruc', 'emilw ramirzu', 'eemil rhmhres', 'uwiyy ymaireq', 'eonly rumhres'}, {'emili ramirws', 'emylh romarej', 'emhlh rumiruc', 'omowy rmaereh', 'emhli ramiurj'}, {'enmly rwmhres', 'eonly rumhrek', 'emyil rwmiruc', 'omalh ramriiw', 'emilw rmiriez'}, {'omalw aryhrez', 'enmly ramiwrx', 'emili rmmirez', 'emlyu rwmiruc', 'emhlu rimirwk'}, {'emhlo ramhwrz', 'emilo rmmiriz', 'emyil ramhrak', 'imyil yamiers', 'emhil rainrex'}, {'emwil ramerhg', 'ymewy waimhez', 'emhlw rymirog', 'emila rmmiroz', 'emelh rumirac'}, {'enila raniruj', 'emmly rmirehz', 'emhll rhmeres', 'uamil hamiers', 'enile romoreg'}, {'emhll remyreg', 'emwly rmiarez', 'emnla rwmereg', 'ewiwl rmawyez', 'emhlh rymiruc'}, {'emilw ramyraz', 'emllh rhmhrej', 'enyly rwmhroz', 'meihy rmawhez', 'emnlw ramuriq'}, {'emhla ramierk', 'emwil rwmhres', 'ehliy arimrze', 'emhil rhnhrez', 'emili rmirezw'}, {'emlly rymiroz', 'emalh rymareg', 'eonly rwmureg', 'emnlh rymirhx', 'umylw humirze'}, {'enilw rwmhryz', 'emylh ramerwx', 'emilo ramwraz', 'enill rymorhz', 'imiil rawriew'}, {'emyly rumwrez', 'emyih rmaihes', 'emnil ramyrhc', 'einly rymyreg', 'emyil raemreg'}, {'emhlo ramerwg', 'eunly ramwruj', 'emilw raimrez', 'emylh rwmirwc', 'uemwl hamriiz'}, {'emhll rmhirek', 'eweyy rmayrew', 'enmil rwmirug', 'emill ruamrez', 'emnil ramwrke'}, {'emelh rmhirhz', 'emili ramruez', 'emwil rwmhres', 'ehnly rwmereg', 'hmlay rmaierw'}, {'emnlu ramorig', 'emmlh rymerex', 'amyiy ryhierz', 'enwly remhres', 'emilo rmuirez'}, {'emhle rmairex', 'ihmil arnurez', 'emill ramuryz', 'enila ramarik', 'emwil rwmhrec'}, {'ehnly rhmuriz', 'eimwy ymaiwez', 'emila rymiryz', 'emlye rimhryz', 'emolh rwmurek'}, {'emilu ramrrez', 'wmhlw raimhej', 'enlly rnaorez', 'enile rimirwk', 'emmlh ramerwg'}, {'ymloy rawriek', 'emmlh ramurik', 'emilw rwmiriz', 'emolh rymirhj', 'enilw ramwrwg'}, {'emnlw rmyorez', 'emyly rmmarez', 'enhly rwnirwz', 'uimil raimhex', 'emnlu rmhhrez'}, {'emila ramirsi', 'emulh rmhriez', 'emhlw ramarig', 'omyiy raniwze', 'eanly rhmirac'}, {'emlyh ramerux', 'emila ramirsa', 'enhly rwnireg', 'emnlh rimhrwz', 'uwilw hawriez'}, {'wmiyh rmaiwuz', 'enhly ramriec', 'emlly ramwraz', 'emnla rhmhreq', 'emhlo rhmhreg'}, {'emnil ramhryc', 'emhlo rwmiric', 'uniwy wmaiwez', 'emile rwmmrez', 'emnla runirex'}, {'emlyo ramreeg', 'emnlw ramerhg', 'hemyl armarze', 'emili rummrez', 'enill rmairek'}, {'emhle rmoireq', 'emlly ramreez', 'emlye ronirex', 'ehnly ramerox', 'emhyi armhrew'}, {'emnil ramurwk', 'emhyi aryurez', 'eemly rymerhz', 'emolh rumirak', 'emmly rymirez'}, {'emnlu rwmhryz', 'emyly rahmrez', 'enilo rwmiruj', 'eamhy armhryz', 'emlyu ramarje'}, {'emila ramreez', 'ehyiy armirza', 'enwly rmhirhz', 'emwil ramerxe', 'emnil ramiarj'}, {'enilu rwmiroq', 'emyly rmireze', 'emlyu rhmhres', 'ewnly rwmhrec', 'imiyh armiwze'}, {'emolh remurek', 'emhil ramyruj', 'emlyi rimyreg', 'ymehy ramhery', 'emila romrrez'}, {'einly rhnirex', 'enilw ranirax', 'ewhyy rmaiheh', 'ewnly rmhhrez', 'emmly ramrehz'}, {'emile rumrrez', 'emhla ramyerz', 'emolh rimurek', 'yehil rmaiyex', 'emlya rymwrek'}, {'emyiw rmaoyez', 'emhlw ramierc', 'emlly ramruez', 'enila ramwrwk', 'emhlh rumirak'}, {'emhlu rhmerex', 'uomil armurhz', 'emyly rrmiryz', 'enhly rumiryg', 'emnla rimirwc'}, {'enyly rwmiruc', 'emmly rmirezo', 'wyhly yanierz', 'emwlh remhryz', 'emylh ramuruj'}, {'emnlo rymarek', 'enill ramwrak', 'emwly rymirrz', 'uholy hamherz', 'emnle romarex'}, {'emhla ramryiz', 'emhlh ranhrek', 'ohilh rawriew', 'emlly ramirsy', 'enile ramwrwg'}, {'emilw remirwz', 'emlya ramoruj', 'emhlh remirux', 'eynly rmhiryz', 'ymalw arwhrez'}, {'emilu ramarwz', 'yamil armureh', 'emnlw rimirwq', 'emulh remirig', 'enilh ramyrwc'}, {'emhll ramhrig', 'emnle rwmyrec', 'emhli rmworez', 'womly armiruq', 'emwly romiryz'}, {'enhly rwmiruj', 'emilu rymrrez', 'emnil ramhrak', 'emylh rmarhez', 'melyi raimhze'}, {'iemul rayierj', 'emlya rwmhrwz', 'emwly ramrruz', 'emlye remirig', 'eenly rymirhk'}, {'yemul rymiery', 'eemil ramyrwc', 'emnlh raniruj', 'emhli rmeireq', 'emili ramirci'}, {'ehnly ramuryk', 'emhlh ramhryj', 'einly ramaruj', 'meilw ryaierz', 'emmly ramyrzz'}, {'emlhy rymareg', 'emilu ramirzo', 'heyil arhhrez', 'emhli rwmiroj', 'eemil ramreex'}, {'emilw rramrez', 'emolh rmhirex', 'emlya rymhryz', 'enlly rhmirax', 'yamil rmaowez'}, {'enlly rymirhs', 'emmly rimmrez', 'ymlay ymaorez', 'enila rmwireq', 'enmil ramyruj'}, {'emyiw rmaihes', 'emili rwmrrez', 'emlye ramhrhk', 'ehnly rwmereg', 'enyly raimreq'}, {'emnlh rynirex', 'emill rammruz', 'emwil rwmorec', 'emyil rwmwrec', 'uemul rmaohez'}, {'emili ramrrwz', 'emalh rmhiriz', 'maiwy rmaiyew', 'enilw remhryz', 'emlye rymiruj'}, {'ewnly remhrek', 'mhely rmawwez', 'enilu rhmoraz', 'emill ruamrez', 'emwlh ranirix'}, {'emnla ramhrke', 'emhlh rnariez', 'emilu ramyraz', 'enahy hamherz', 'emlhy ramarwk'}, {'enhly rwimrez', 'emilu rymiraz', 'enwly romiruc', 'eunly ramiirg', 'iumly rmaowez'}, {'enill raimrhz', 'emlly ramerwz', 'enile ramyroc', 'umywy wamierj', 'emhle rimhryz'}, {'emlye rmhiriz', 'emhil rhmhrek', 'wamil raimrhe', 'emill raumrez', 'emhlw ramarqe'}, {'eonly rhmhrej', 'eunly rwnireg', 'emili ramwrez', 'emwil rumyreg', 'wyiwy yamiery'}, {'enile rwmirog', 'emyil rymwrhz', 'emila rumyrez', 'uwilw armarze', 'enwly rhmirag'}, {'emhlu ranirax', 'imwhy rwmiery', 'emila ramyroz', 'emelh rwmirhc', 'enili ramyrwc'}, {'emlyh rhnirex', 'enyly ranirhx', 'enlly rwmarec', 'omalh ryhirze', 'emilu rmireyz'}, {'umolw yiimrez', 'emulh rymereg', 'enyly rwmurec', 'emyly rwmirwz', 'emhla renwrez'}, {'wmuil arhhrez', 'emlye rumhraz', 'emhlo rymereg', 'enila rmhiryz', 'emwly ramirze'}, {'emelh rhmiruj', 'enmly rwmiryg', 'emnlo rymareg', 'umeil armhrwz', 'emyly rymiroz'}, {'enmil ramierq', 'enill raimrex', 'inihy raimyhz', 'ewnly rwmirog', 'emyly rrmiriz'}, {'ewiyh aryirej', 'emhll ramhrok', 'emhli rimirwj', 'enyly ramiyrj', 'emilo rmiraez'}, {'emnlw rhmirze', 'ewahy rmaihze', 'emill rrmires', 'enill ramaruc', 'ennly rymureg'}, {'emhil rmhiriz', 'emhlo rwmiryg', 'ewnly ramyerz', 'emill ramyrrz', 'aimil rmaiyew'}, {'emilu rameryz', 'emhlo rhmyreg', 'enwly ramarhk', 'wwmly roimyez', 'emnlu ramhrik'}, {'emhil rumirig', 'emyil rainrex', 'umoyy raimyuz', 'enyly ramhruc', 'emmly ramyrzz'}, {'emmly rmiorez', 'enmil ramiurc', 'enyiy haimreh', 'ehnly rymerhz', 'emnla renwrez'}, {'emnli ramhwrz', 'wmlyi rmairww', 'emili ramreaz', 'enilu ramiwrx', 'emnil ranirax'}, {'emilo rmairez', 'enilu ranirws', 'enilw ramrhyz', 'hmlyy rawriej', 'eanly ranurex'}, {'emlyo rumwreg', 'emhlh ramhrws', 'umwil raimhex', 'ennly rmaireg', 'emyly ramirci'}, {'emwlh ranarek', 'emhle rameirj', 'hyaly raimhey', 'emlly raemrez', 'emhil rimiruj'}, {'enile rwnirwz', 'miihy rhmiwze', 'emila ramrriz', 'ehnly ramhrwk', 'emlye raumrek'}, {'enilu ranirws', 'omowy ymahrez', 'emnlw ramarac', 'eemly ramuruk', 'emilw ramirsi'}, {'mailh riwriez', 'emilu rmeirez', 'eenly rymurek', 'emhlw rhmirak', 'emolh rymarek'}, {'enill ramhruc', 'emmly rymiroz', 'ehnly rymirig', 'ymalw armurwz', 'enhly rmharez'}, {'ymewy rmaiwej', 'enwly romorex', 'emlyo rimirwc', 'emilw rmmirwz', 'enmil rhmuraz'}, {'emhla ramurak', 'hmahy raimyeg', 'emmly ramirsw', 'enilu rumirge', 'enmil reinrez'}, {'emalh ramhruj', 'emnlw rumirwg', 'imhiy armiers', 'emmly rammryz', 'enila rhmhruz'}, {'emnla rmworez', 'emlya rwmirwx', 'oemal armhreh', 'emilo rymirwz', 'emnlu rwmirhg'}, {'emilw romiryz', 'ymelh rmaarew', 'enhly remwrek', 'ewnly rwmhrwz', 'eynly rwmwrec'}, {'emnlo ramriex', 'emilu rammriz', 'wehly armiwze', 'einly romwreg', 'emhll rwmirug'}, {'emnlo ramhrys', 'emmlh rymirog', 'emilu rmireaz', 'emlya rymurhz', 'emawh rawierj'}, {'ewnly rmworez', 'emwil rwmirwx', 'eywiy armereq', 'enill rhmhrek', 'emill rmmurez'}, {'imwil armirye', 'emhlw ramhras', 'emilu rymirez', 'emhle rmairhz', 'emhla rymiryg'}, {'emili rumiryz', 'eemil ramierc', 'enill rwmoreg', 'wumly rwimreh', 'emlyh ramiwrc'}, {'emlyu rumirge', 'emile rymrrez', 'emalh ramerag', 'imwhy rmaiyex', 'emlya rwmareg'}, {'umwiy armyreq', 'emnla rwmorec', 'emile rmmirwz', 'enmil rhmirws', 'enile ranirwx'}, {'emile rmmiraz', 'enmil rmairex', 'imawy rmaierh', 'emlyo rymirog', 'emhil ranirax'}, {'emnle ramhrza', 'inaly rmarieh', 'emilo ramyrrz', 'emyil remirug', 'ennly ranirze'}, {'uhilw armhreq', 'emilo ramaryz', 'emulh ramhrhk', 'enili raemrex', 'emllh rumurek'}, {'yumly ramawze', 'ehnly ramierj', 'emili rmmires', 'eemly ramiwrc', 'emlyh ramhrok'}, {'inaly rawriec', 'emlyi rmyireq', 'enhly renirex', 'emwil ranerex', 'emilw ramyriz'}, {'ymloy yamriyz', 'emlya romorex', 'eanly rymorhz', 'emnla rwmirig', 'emilw ramirsi'}, {'emhlh rmuireg', 'enilo rmhiroz', 'yemyl rmawrew', 'enyly ramhrze', 'emyly raomrez'}, {'emlya romurek', 'wiyly armhhez', 'emnla ramierj', 'eemil rmhirwz', 'emilo ramurwz'}, {'ehnly rwmoreg', 'emmly rameryz', 'emllh remyrec', 'heyil armhraz', 'eenly ramiwrj'}, {'emili rmiroez', 'emulh rhmhrwz', 'wyiwy rmaihek', 'emhlo ranurex', 'eanly rumirug'}, {'ewnly rwmiroq', 'emili raymirz', 'enilu rwmirok', 'emhlu rameruj', 'enhwy armureg'}, {'imiwl yaimhez', 'enilu ranirix', 'ehnly rimyreg', 'emilo rommrez', 'enwly rmhirwz'}, {'emhlh rmhirwz', 'imuhy rmaowez', 'enilo rymirhx', 'emyly rmireyz', 'emwil rhmhreq'}, {'emhll ramiwrk', 'hmayy reimwez', 'emolh rnairex', 'emile ramreez', 'emyil rameruj'}, {'enilu ramhrke', 'emile rmiruez', 'emnlh raimrhz', 'enmly rymwreg', 'ymihw armiyeq'}, {'eenly rymareg', 'emilw rmairez', 'myilw armuyez', 'emelh rhnhrez', 'enwly rwmarek'}, {'enhly ramarak', 'wimil rmairye', 'emwly ramirsu', 'emhlh ramhrse', 'emhli rhmyrec'}, {'eemly romyrec', 'emilw ramirys', 'emlhy rynirhz', 'hmlay rmairwe', 'enila rmwarez'}, {'enilo remhres', 'enile rmairej', 'emlyu rwmwrec', 'hmhiy rmairhw', 'emmly rammraz'}, {'emilw ramyraz', 'emhlw rymirhq', 'ehiil hmairew', 'emhlh rimirig', 'enilo ranirig'}, {'eamhy rahriyz', 'enhly ramhrse', 'emllh rwmhrek', 'emill rymurez', 'enilh ramhrze'}, {'enilw ramerwx', 'emilo ramirwz', 'imliy armhrec', 'emhle rymerhz', 'eanly rhmirac'}, {'emmlh rwmirwx', 'emnlw rmuireq', 'enmil remhrek', 'emlly rmmyrez', 'aumly raimhek'}, {'emnlh ramarax', 'emila ramyrzz', 'emhll raimrhz', 'emhww armurex', 'emulh rmhorez'}, {'meilw rmahwez', 'eanly ramhrwk', 'emlya ramarje', 'emila ramwrwz', 'emhlo rwmareg'}, {'ymelh armurey', 'emhlu ramhrok', 'emulh rimirwc', 'emolh ramhris', 'emmly rmirezy'}, {'enila ramhrke', 'emlyu rwmiryc', 'emilu ramyrzz', 'enlly rwnirec', 'hmhlw armherz'}, {'iewil rahriwz', 'emyil ramurij', 'eunly ramrieg', 'emila rmirezi', 'emnlu romarex'}, {'enhly ranerex', 'ymhlw rmaiyew', 'emulh rhimrez', 'emilo rrmurez', 'ewnly raamrek'}, {'emhli rimirwq', 'emhla rimiruc', 'emili rmiraez', 'enilw ramhrys', 'umiww armhreg'}, {'uwoly rwmierw', 'emilu rrmiruz', 'enmil rhmurek', 'enill rumiruc', 'ehnly rymoreg'}, {'eanly rhmiwrz', 'awiyy rhwriez', 'emlhy ryimrez', 'emlly ramirsy', 'emnlu rmhhrez'}, {'emilo rmmurez', 'mailw armwreg', 'emhil ramwryg', 'emlyu ramwerz', 'eemil rymiruc'}, {'oemyl rawiers', 'emili rmiriez', 'enilw rymirhg', 'emlyu ramwrak', 'ennly ramhras'}, {'emwil rwnireg', 'oemal armiyeg', 'emile rmeirez', 'emllh ramierg', 'emylh ranarek'}, {'mewly rwmiery', 'emila ramuryz', 'emwil rameryg', 'enyly rwmhres', 'emhla ramwrag'}, {'emhlh ramyruc', 'enlly ramhrok', 'emhyi hmairey', 'emili ramoryz', 'emwil ranyrec'}, {'enill ramierc', 'ewiwl rawierj', 'emnlh romorek', 'emulh rameruj', 'emmly rwmyrez'}, {'ehnly rymirhk', 'muhly rumierw', 'emnlo ranirox', 'emhlh rhmhrej', 'emili ramwryz'}, {'emnlo raniryx', 'imwil rahriwz', 'emwly ramrriz', 'enwly ramhrza', 'emlya romhryz'}, {'emnli rhmirza', 'uwilw armurej', 'emwil rwmirhg', 'emlyo rwmiric', 'emlly ramirsu'}, {'emlyo ramarok', 'enilo romyreg', 'ymulw rwimrew', 'emlly ramwroz', 'enila ramurwk'}, {'emhlw ramoruj', 'emhll rhmhrek', 'miihy rawries', 'enili romarec', 'emilw ramuryz'}, {'enlly rhmhraz', 'uyiwy roimreh', 'enilh rhmriez', 'eynly rhmiarz', 'emyly rmmires'}, {'emili ramreuz', 'emwil ramhrwk', 'emulh ramhrhs', 'emawh ramrioy', 'emmlh rumirax'}, {'eemil rwmurek', 'emwly rwmurez', 'eemly ramaraj', 'eimhy ymaiwez', 'enili rumurek'}, {'emhil rmhirej', 'emlye raimrhz', 'hmluy romiwze', 'enmly rwmiryc', 'emyly ramuryz'}, {'emllh rimhryz', 'enowy rmaewez', 'emalh raumrek', 'emili rmuirez', 'enili romerex'}, {'emhil ramwrok', 'iamil hamriiz', 'emilw raumrez', 'enile rhmhrex', 'emelh romwrek'}, {'emlyi ranyrec', 'ymihw armhyez', 'emile ramrraz', 'enwly rmhriez', 'eanly rumarek'}, {'imohy armurex', 'enilh rwmirac', 'eunly rwmurek', 'emile ramwroz', 'emolh rmuireq'}, {'emmlh romiruc', 'emnlo rwnirec', 'umywy hmaihez', 'emolh rwniroz', 'emwly rwmiriz'}, {'hmhlw rmaayez', 'emmlh rmharez', 'emnli ramarqe', 'emilu rmmirwz', 'emhlw remwreg'}, {'ennly rwmwreg', 'inaly arhireq', 'ewnly rymhrhz', 'emlly ramwryz', 'eunly ranyreg'}, {'amwil wmariez', 'emili rmireoz', 'emlya rumiraq', 'emnlu rymhrek', 'ehnly romhryz'}, {'ymlyi armiraq', 'emlyh rmairhz', 'emilu rrmiriz', 'enilw ramwerz', 'emhli rwmurec'}, {'emulh rimhres', 'emlyo ranirwx', 'emmly ramyrrz', 'enmly ramyruc', 'amyiy armirye'}, {'wmhlh rmaohez', 'enhly rinirwz', 'emulh rhmuraz', 'emilw ramrraz', 'emnil remhrek'}, {'emlyi ramarwk', 'emili ramirzu', 'emahw rahiers', 'enill ramwruj', 'ewnly ramurig'}, {'emnlo ramyroc', 'iwmil haimriz', 'emnle remiruj', 'emilo rwmirzz', 'emlyh ramhrhs'}, {'emlyu ranirax', 'emhli ramriex', 'emilu romiryz', 'emhlw rumwrek', 'wmalw rawriec'}, {'emlya rymarhz', 'enmil rhmirws', 'emwly rramrez', 'aumly armhrej', 'enyly rwmhryz'}, {'emhlu ramerwg', 'emhli rymerex', 'emlyo rhmyrec', 'meilh armirig', 'emill rammryz'}, {'emyly ramirsy', 'eunly ranirhx', 'enilu rynireg', 'eenly rhmierz', 'ehiwl rahierj'}, {'emmly rmirehz', 'wmawy rahierj', 'emlyh ramyrwc', 'ewnly rameirj', 'enwly rimwrek'}, {'eanly ramierk', 'emilu rmiroez', 'enlly rymarhz', 'ewnly rwmiric', 'emeyh armwrek'}, {'emelh rymereg', 'meilh rawriex', 'emwlh ramerug', 'emhll rumirog', 'emyly ramwrzz'}, {'ennly rhmhrwz', 'eynly rymerex', 'iamly wamriyz', 'emlly ramiwrz', 'enilh rmhirek'}, {'emhlh ramarax', 'emilw ramwrez', 'eonly rhmirac', 'eemly romwreg', 'ewhyy haimrey'}, {'emnlh ranirze', 'ewyiy yamiers', 'emyly romwrez', 'emhlu rymyreg', 'emlyh rwmhroz'}, {'emmly rymiruz', 'enwly ramhryk', 'emelh rhmhriz', 'enilo ramarik', 'aumil reimreh'}, {'ennly rhmirak', 'emila ramircy', 'emmlh raimrec', 'womly ramriyw', 'emwlh rumirak'}, {'ewnly rymirag', 'emnli ryimrez', 'emhll rhmiarz', 'yimly haimhez', 'emilo rwmwrez'}, {'emyly rymirrz', 'enilo ramherz', 'enile rumereg', 'emlyh rwmareg', 'omalh yaimrze'}, {'emalh romarej', 'oamil rmaiwej', 'emhil rymereg', 'enilu ranirux', 'emill remyrez'}, {'emwil rhmirws', 'emnli ramrieq', 'eemil remwrej', 'wemul armiwrz', 'emili remrrez'}, {'emili rmmiriz', 'emwlh ramurke', 'einly ramierg', 'enilh ranriez', 'eyiwh rmaerew'}, {'meihy armhhez', 'eemil ramierj', 'emila ramaryz', 'emnlu rhmhres', 'emmlh ramwrug'}, {'iamil rawiyze', 'emwly rmmiraz', 'emnlo rmairec', 'emhil rhmirig', 'eanly rmuireg'}, {'enilo ramiurj', 'emmly ramirwz', 'yumly ramaery', 'emhla rwmwrek', 'eenly rymirge'}, {'emnlo rwmhrek', 'imihh yamriiz', 'emili ramwrwz', 'emnil rymhres', 'emhil rwnirec'}, {'wmhyy armhres', 'emhil remwrhz', 'emwly ramircy', 'emylh ramerux', 'ewnly ramyerz'}, {'enhwy rmaiwec', 'emilu rmiyrez', 'enilw ramerox', 'emlye ranirza', 'emnil rwmhrwz'}, {'imliy rawiwze', 'emilo ramreiz', 'emulh rwmwrek', 'eemil rhmuriz', 'eenly ramarqe'}, {'emmlh remarek', 'emnli romoreq', 'emila ramrroz', 'ewliy arnireq', 'enila rhmwraz'}, {'eenly rymereg', 'emyly rameryz', 'emnli ranorex', 'amyil arhirwz', 'emalh rymirhx'}, {'emnlu ramhros', 'emlyi ramraek', 'emwly rymmrez', 'emlye ramhryx', 'mealy wamriyz'}, {'emulh ramiwrg', 'imuil hamhrze', 'emile rmiriez', 'eemly rwmwrek', 'emlyi ramhrse'}, {'emlyh ramyrig', 'emilo rwmirrz', 'umihw rwaierz', 'emyil remwrek', 'emnla rumiryg'}, {'emili ramiwrz', 'enhly rimereg', 'emlhy ramoruj', 'ehnly rimirig', 'umywy wmaiwez'}, {'emhlo rymirhj', 'emila rmiraez', 'ennly rwmiruj', 'enlly rymwrek', 'ymelh yoimrez'}, {'hmluy rmaiweg', 'emnlw ranwrek', 'enill romorex', 'emalh ramwruc', 'emila rimwrez'}, {'emnlw romorex', 'omliy raimhec', 'enilw ranirix', 'enilh rwmurec', 'emwly rwmiriz'}, {'imail raimyze', 'enile ranirax', 'emlly ramraez', 'emlye raimrex', 'enili ranhres'}, {'winly ymaarez', 'eanly raimreg', 'enilw rumiryg', 'ehnly rimhryz', 'emile ramirze'}, {'ymeyy ymaiwez', 'emyly ramwres', 'emnlo romarej', 'eenly rhniraz', 'emyil rhmurek'}, {'emmly ramroez', 'eenly rumarek', 'eanly ramerug', 'himil hmaireq', 'ewnly romareq'}, {'eyiyh armaraz', 'emill ramiryz', 'emmlh rmwireq', 'emwlh ramurok', 'emwil runirex'}, {'iwmly armiheq', 'ehnly rwmhryz', 'emhla ramwrik', 'emlyh rymureg', 'emila rmmiruz'}, {'emhle rwmurek', 'enill ramerxe', 'emlyu rmhyrez', 'emile ramreaz', 'emuih rmaiwoz'}, {'enilh rhmwrek', 'ehnly ranarex', 'emlly rrmarez', 'emolh remhrek', 'hyaly yaimyez'}, {'emhla ramhrze', 'ymlyi rmaiwex', 'enila rwmureg', 'emwly ramroez', 'enwly ramhris'}, {'umywy woimrez', 'emolh ramyrhc', 'emyly rmireyz', 'eunly romoreg', 'emnlo rhmhrex'}, {'emmly rwmerez', 'emlyu rameryg', 'emhll rwmirwg', 'emlyo rynirex', 'amiel rhmriey'}, {'emmly rrmiraz', 'emnil rynirex', 'ymiww yiimrez', 'eenly ramreeg', 'emhla rameruj'}, {'ehyiy rmaiwes', 'emlyi ramiurj', 'emwil ramurhk', 'emhlh remerex', 'emyly ramirso'}, {'emyil rhmhrex', 'ehnly rumhreg', 'emwly rymiriz', 'enile ramarak', 'ewhwy rmaihwz'}, {'emlya rimiruj', 'enmil remiruc', 'emwil ramherz', 'eyawy rayuerz', 'emilw ramyriz'}, {'einly rmhiraz', 'emilw ramirzw', 'emhli remurek', 'eamhy roimyez', 'emlya romwrek'}, {'emelh ramiwrx', 'eyiwl ryimyez', 'emylh romorex', 'emile rwmirzz', 'enlly rwmirox'}, {'emlyu rhmoraz', 'imehy rmaihex', 'emmly rymwrez', 'emlya ramhruj', 'eonly rmuireq'}, {'emwly rmmiruz', 'einly ramierq', 'emnla rumiruc', 'enilh rhmirig', 'umewy armereg'}, {'emlya rwmarec', 'enile rmyireq', 'ymeil raimrye', 'emmly rrmirwz', 'enili raniruc'}, {'emilu rwmires', 'eenly rwmorec', 'ueyil wamrieh', 'emhlu rimirwg', 'emllh rhmiruc'}, {'emile remirwz', 'emhli ranirxe', 'wmahy ramriiy', 'emnil ranhres', 'emlya rwnireg'}, {'emilo ramirsw', 'hmhiy armyrec', 'emnli ramrieq', 'emnla rmarhez', 'emhlh rhmwrek'}, {'emlya rwmyreg', 'whmly ramwery', 'emlyh ramierc', 'eanly rhmerex', 'emilw rymwrez'}, {'emili rrmiruz', 'owiyy armhrey', 'emhlu rumareg', 'emhle rymirag', 'enile rumoreg'}, {'emhla ramarok', 'enilh ramerwx', 'emile ramiyrz', 'ehnly rimereg', 'umliy roimrey'}, {'emilw ramwrwz', 'emmlh ramerhx', 'umiwh rawriej', 'emlhy ranwrek', 'emnle rhmurek'}, {'enmil rhmwraz', 'emile rrmiryz', 'eomwy rmaiwaz', 'emlyu rhmeraz', 'emnil romiruc'}, {'emnle rhmhroz', 'uemul armurey', 'emile ramrruz', 'emulh rynireg', 'enlly ramwrig'}, {'emlyo rwmereg', 'emhlh ramaruc', 'iemwl armhroz', 'emilu ramircy', 'emnlw ramerux'}, {'emilw raomrez', 'enilw ramwrok', 'maihy roimhez', 'enill rimirwc', 'emelh raimrex'}, {'enilu rhmiwrz', 'eunly rwmirwq', 'imiyh rmaihwz', 'emnlh ramerxe', 'emilu ramwruz'}, {'ymhiy ramriyh', 'emwil ramarak', 'emulh rwmhrwz', 'emilu rmiroez', 'emnlo remwrex'}, {'emnlh ramwruj', 'umhil hamriey', 'emile rmireyz', 'enilw rhmhrec', 'emlyi raimrej'}, {'hmawy armurek', 'enili rhmwrek', 'emlly ramrezw', 'emhlw ramerug', 'emolh rhmeres'}, {'emilw ramyraz', 'oimil haimriz', 'emlyi rmairek', 'enilh rwmhrwz', 'enmly ramwerz'}, {'enyly rumirug', 'emylh ramiirg', 'emwly rmiraez', 'ewnly ramiyrj', 'oimil armhyez'}, {'emhle rimirwx', 'amhil rayriiz', 'enmly ramruek', 'emmly raemrez', 'ehnly ramerog'}, {'emhlw ramaraq', 'emyly rammruz', 'eonly rimiruj', 'weilw rwimreh', 'enilh rymhrek'}, {'emila rommrez', 'enwly rmhhrez', 'uimil ryhriez', 'emwlh rwmiroc', 'eemly runireg'}, {'enhly ramyrwc', 'emelh remyreg', 'eanly rameirj', 'emila ramruez', 'meilh armures'}, {'emolh rmwireq', 'emelh rwmhrec', 'enowy armirwq', 'enilw rimurek', 'emilw remiryz'}, {'ymhwy armiruc', 'emlyu rumoreg', 'emlly rammrwz', 'emmlh ramhrwk', 'emolh ramhris'}, {'emllh rmuireq', 'emnle ramherz', 'eanly rwmareg', 'yeyil rmaiyew', 'emilo romwrez'}, {'emalh rnariez', 'enyly rymwrhz', 'meely hmaihez', 'enilu ranyrex', 'emwly rymarez'}, {'enwly ramwryg', 'emwly ramirzu', 'ywely armierj', 'emhil rimiruj', 'emolh rmairek'}, {'emilo rmirewz', 'emhlo rmharez', 'eemil rhmurek', 'imiol ryhirze', 'enilo rimirwk'}, {'emolh rumoreg', 'emoww rawriuz', 'emwly rymiroz', 'emlyu ranereg', 'enilu rymurhz'}, {'emila rawmrez', 'enile ramhrak', 'imiel ramwerw', 'emnil rhmeraz', 'emhll romhryz'}, {'emllh rhmhres', 'emlye reinrez', 'enmil romiruc', 'emyly ramirci', 'imowy rmairaw'}, {'emwil rimirwc', 'enilu ramarqe', 'enila rimiruj', 'emhyh rhwriez', 'emlly ramroez'}, {'emlyh ramhryx', 'emnlh rwmirwj', 'wamly wamarze', 'enhly ramwrag', 'emilo rammriz'}, {'emnlw ranirix', 'ewnly remerex', 'enile rhmwrek', 'emwly ramarwz', 'umiwl rayuerz'}, {'aamil ryimrey', 'ennly ramiwrq', 'enilo rhmirag', 'emilw ramirse', 'emwlh rhniraz'}, {'emnla ramhruk', 'emlly ramirws', 'ewhyy ramahze', 'emlyh ramarzh', 'emlyo reinrez'}, {'emlly ramerwz', 'ehnly ramaruc', 'emwlh rumirge', 'aymil armorey', 'emnlw rmhiruz'}, {'eemly remirux', 'emlhy renwrez', 'eonly rhmyreg', 'wmhhy rayarze', 'emmly rmmiriz'}, {'enila rhmoraz', 'emlyu ramreeg', 'emilw rwmiryz', 'emwil rymarek', 'imiul riwriez'}, {'emllh remyrec', 'emlyi raniwrz', 'wmhyy raimyec', 'emill ramroez', 'emnil romarek'}, {'emulh remwreq', 'emhlw rwmwreg', 'eanly rumwreg', 'maliy rmaihex', 'emwly rmireez'}, {'emlly rrmiraz', 'emlyo rymirug', 'emylh rhmirig', 'hyiwy ryhierz', 'emlyu romwrek'}, {'ymiyw ramriyy', 'emwly rummrez', 'emnlo ramerog', 'emlya ramuryk', 'emlyu ramurij'}, {'emllh rmhiruz', 'emwlh runireg', 'emile ramrres', 'emulh roinrez', 'imiol rahiwze'}, {'emnli raimrex', 'ennly raniryx', 'emile ramyrzz', 'hmloy rahriyz', 'emhlh rhmereg'}, {'emlly rrmyrez', 'maely yamhrze', 'eanly ramreeg', 'emhlo remurek', 'emhlw rwmoreg'}, {'eemly rumhryz', 'neilw armurwz', 'emlye ramyroc', 'emwly rmireze', 'emhlw ramyrwc'}, {'eynly ramuriq', 'emill rwmiroz', 'ymlyi rhimhez', 'ehnly remwreg', 'emlyh rhmiraj'}, {'emnlo ranwrek', 'enilu ramhrys', 'emill rwmorez', 'emwlh rhimrez', 'ymawy rmaihiz'}, {'iwiyy raniwze', 'emlyh rmyorez', 'eanly rumhryz', 'emili ramirys', 'emhla romhrek'}, {'emmlh rmairec', 'emyil rymirhx', 'umiil armiruq', 'emolh ramyryc', 'emill rmireez'}, {'emwly rmireoz', 'enilh rymirug', 'imoil raimhyz', 'emhlu ramwrhg', 'emylh rhmaraz'}, {'emnlo ranirws', 'emhlh rhmeraz', 'wmhlh rawries', 'emnle rmoireq', 'emilu ramwriz'}, {'ewwyy rawarze', 'eunly remirux', 'emhlw rmhireq', 'ennly ramerhx', 'emilo rammrwz'}, {'emilo ramrres', 'enmil ramiurj', 'emlyh rwmirig', 'imiyl rmairuw', 'emalh ramerhg'}, {'eenly rwmarek', 'emwly rmeirez', 'imehy rayuerz', 'ewnly ranirza', 'emhlh rwmirox'}, {'enill ronirex', 'yhilw raimhes', 'emilu ramyriz', 'emnil runirex', 'emhll romarej'}, {'eniyh rewierz', 'emnle rymwrhz', 'emill rrmyrez', 'emhlu rumirig', 'emylh rmhirej'}, {'enili rymirhg', 'emnla rwmiryc', 'emyil rumiruj', 'eyyiy raimhec', 'emwly romrrez'}, {'emwly rwmerez', 'emlhy romereg', 'emwil rmworez', 'ewnly ramurhk', 'wnhly ryimrey'}, {'weiyy rawrioz', 'emwly rimirwz', 'enile raimrec', 'eemil rnariez', 'emwil rynirhz'}, {'emnlh ramwrak', 'enila rymirhx', 'oemul raimyek', 'emmlh ramryiz', 'emwly rmirezo'}, {'emlye rumirax', 'emnlu remirug', 'emnlo rimirig', 'emila rwmorez', 'imwil hmariez'}, {'emwlh ramierk', 'enili ramriej', 'omulh heimrez', 'emmlh ramhryq', 'emila rmirezu'}, {'emlyh rumerex', 'enlly ramyruc', 'emmly ramreez', 'enmil rwnireg', 'umuwy rumiwze'}, {'eenly ramuruc', 'emhlw ramhryk', 'enilu ramwrak', 'emmly raemrez', 'iomil rihriez'}, {'emhlw romereg', 'omiwh ramayze', 'emlly ramirze', 'enilu rmhorez', 'emhll remarek'}, {'ewnly rhmyreg', 'emhil ramerhx', 'emmly ramwrwz', 'enile rimwrek', 'eniyh rmaiwec'}, {'enila ryimrez', 'emwlh ramorig', 'muilw raimyek', 'emilu ramrezi', 'emhli rhmaraz'}, {'eanly rmhiriz', 'emhla ramwryg', 'emolh ranyreg', 'umiel raimheh', 'emmly romwrez'}, {'enwly remhruz', 'emila ruamrez', 'emllh ramuriq', 'eonly rameirj', 'ymyiy raimhhz'}, {'emhlo remyrec', 'ehowy raimroy', 'emolh ramwrug', 'emhli rmharez', 'emilo ramirsi'}, {'winly armiroq', 'enilw ramurak', 'emilo rwmerez', 'emlhy ramaraj', 'emyil rmhiryz'}, {'emilo ramorwz', 'eenly rhmirac', 'enmly reinrez', 'emlye rameirj', 'umulw rhimrey'}, {'muiwy wawriez', 'emhil rmyarez', 'emile ramirzi', 'enlly rwmhrec', 'enilw rhmwrek'}, {'imuil armuriz', 'emwil rimirwk', 'emyly ramreoz', 'eynly ranarex', 'enyly ramhrok'}, {'eunly ramurak', 'emila ramrezo', 'umhil wamriyz', 'eenly rimirwq', 'enmly rmiireq'}, {'emlhy rmhirex', 'emile rmiurez', 'enilw romarej', 'miilw riwriez', 'emlye rwmiryc'}, {'emlhy ramwryg', 'emila ramiwrz', 'emhla rmairek', 'emhil ramarwk', 'meilw armurze'}, {'hmley armoyez', 'emilo rrmiryz', 'enwly rhmhrwz', 'emnle ramyruc', 'emnlh ramiwrx'}, {'hmhiy armoyez', 'emila rymmrez', 'enilh rymirhq', 'enlly rhmhreq', 'emalh ramerhg'}, {'enile rhmereg', 'imohy ymairew', 'emmly ramrezu', 'enili remurek', 'enwly raniwrz'}, {'ennly remwrej', 'emwly rwmrrez', 'ewnly ranarex', 'hamil ramriiy', 'emlye ramriej'}, {'emlyo rameruj', 'enyly ramraek', 'emilu ramirsy', 'ennly rimarek', 'meuly wamriyz'}, {'ehnly ramarje', 'enilw rumiryg', 'eenly ramhrhk', 'emili romiryz', 'amiyl raimyze'}, {'emyil rumirag', 'enilh ranirza', 'ihihy armirze', 'emilu rwmirwz', 'emnil ranwreg'}, {'emlyo ranirux', 'emili ramyrez', 'eyuwy rayuerz', 'emhli ranirwx', 'emnlu ranhrek'}, {'wmiil armirze', 'emlly rymyrez', 'einly rumureg', 'eenly rwmerec', 'enili ramaruj'}, {'emhll ranirhx', 'emlly ramoryz', 'oumly rmaihew', 'emnlo rhimrez', 'emhlw rwnirex'}, {'amyiy arwireq', 'enmil ramarhk', 'eemly romorej', 'emnlw romarej', 'emili ramrezi'}, {'emila ramrezi', 'emmlh ranirux', 'emnli rmhurez', 'enyly ramurig', 'ymiwl wmaiwez'}, {'emhlu ramerax', 'emlyu rymirhc', 'emyly rmireze', 'amoyy rmaiheq', 'eonly ramierj'}, {'eemil rmairej', 'emulh rmaireg', 'emlly rammrez', 'emwlh rwmiruj', 'eiywy wmaorez'}, {'emhla remerex', 'emyly ramyrez', 'emlyu ramhrok', 'emlya rymiruc', 'iyaly rmaurew'}, {'enmly rhmiras', 'hamly arwirex', 'emile raemrez', 'enhly ramarhk', 'enilh rmhirej'}, {'emnli ranhres', 'emill ramwruz', 'emhlw rimwrek', 'emlyu rnaireq', 'hmiyl raimhiz'}, {'emhla ramarag', 'enilu ramwrok', 'ywilw rmaihoz', 'emila ramrres', 'emelh remirux'}, {'eonly ramarwk', 'emlya ranirox', 'emilu rmairez', 'emlyi rhmiarz', 'ehhwy rwmiery'}, {'enilo ramarhk', 'emlhy rymarhz', 'emmlh ranhrex', 'umiwh yimriez', 'emwly reamrez'}, {'emmly rramrez', 'emlye ramarje', 'iumly ryimrey', 'emhlh rhmirws', 'emmlh ramyrig'}, {'emhli rmhirwz', 'weilw rhmiwze', 'emlye rmyireq', 'emile ramurwz', 'emwlh rhnirex'}, {'yemul rmaihey', 'emilo rmmiruz', 'enilh ramhrak', 'einly ranerex', 'emhlu rmyireq'}, {'emila rmiraez', 'enyly ramerxe', 'emlyh ramraek', 'emnli rimirwc', 'imliy hmairiz'}, {'emilu ramrehz', 'ennly ramryiz', 'emhla rwmhryz', 'eumhy rayarze', 'emhlh ramaryk'}, {'emulh romorej', 'emill ramrezu', 'ewahy rmaiwej', 'emhlu remurek', 'ehnly rwmirwq'}, {'ehnly ramhryx', 'emnlw rmwireq', 'wihly rawiery', 'enile rmhirwz', 'emmly rmairez'}, {'eanly ramoruc', 'emnlu ramhris', 'emmly remiryz', 'emolh romyrec', 'amiyl wamiwze'}, {'emhli rymerex', 'emlyo rymareg', 'iwihy rmaorew', 'emile rmirezi', 'emlyh rwnirwz'}, {'eemil ramwruk', 'emulh rymirhj', 'enmly ramaruj', 'umolh rmahwez', 'emwly ramuryz'}, {'emnlw ramriex', 'enlly rumerex', 'emhlw ramurhk', 'emila rmmires', 'aumly rmahwez'}, {'hmowy armhhez', 'emnle ramwrug', 'emulh romyreg', 'enilh ramiwrc', 'emilw ramerwz'}, {'eemly ramiarj', 'umuwy raimhaz', 'emhlu rumirig', 'emlhy romiruc', 'emyly rmmerez'}, {'emhlw rhmhres', 'iamil rmawhez', 'emolh renirex', 'enmly ramiorj', 'emile rmireuz'}, {'emulh rymirhj', 'emyly rwmirez', 'enilh ramhrhs', 'emhle ramwrik', 'omahy armiriq'}, {'enilo renwrez', 'enilw ramraek', 'emwly ramircy', 'emolh rhmiruj', 'awmil rwimreh'}, {'emile rmiirez', 'emhle ramwrwg', 'mealy rmawrew', 'emhll rumhryz', 'emolh ramriex'}, {'emmly rammres', 'enilw rmhirek', 'emnil ramhwrz', 'enwly rhmurek', 'melyi arnurez'}, {'emili rimiryz', 'emyil ramarwk', 'enmly ramerux', 'emlhy rwmirwx', 'amihl ramyery'}, {'emnli ramuruc', 'emwly ramirso', 'enilw ramerox', 'melyi armereh', 'emhlo rmhirex'}, {'emmly rrmiraz', 'emlyo rhmhrhz', 'emhll ramyruj', 'imhiy hamriyz', 'ennly ramaruc'}, {'enill rhniraz', 'emhlw ramhwrz', 'iymil arwhrez', 'emyly ramiyrz', 'emelh rwmhryz'}, {'emhil rymhreg', 'emwly ramwrzz', 'uumil rawriej', 'enyly rmharez', 'eynly ramhras'}, {'emhla rhmereg', 'emila rymerez', 'enilw rymyrhz', 'enilo rimerex', 'eyewy hamarze'}, {'ewnly ramhros', 'ymhwy hamriey', 'enilw rhmirak', 'emmlh ramhruc', 'emilu rwmurez'}, {'emyil rmairec', 'enyly rwmwrek', 'emnlh ramerug', 'emili ramreaz', 'emoww rmaihey'}, {'eenly rhmhrhz', 'emlly ramrroz', 'emnli reinrez', 'emhlw remwrhz', 'ymoyy rameery'}, {'emwlh raniruc', 'emilw ramreuz', 'meliy armhreg', 'emylh ranyrex', 'emulh ramyruc'}, {'eenly rhmhrhz', 'emhlw rhmeraz', 'emnlo rymwrek', 'eyalw rmawrew', 'emill rmmurez'}, {'eanly ramaruc', 'uemyl armurey', 'emulh rwniroz', 'emnlw remwrhz', 'emili remwrez'}, {'immil rmaiwes', 'emilw rmihrez', 'emlhy ranwrek', 'emhlh rimirig', 'emnlu rymirug'}, {'emlyh romurek', 'enilw rymoreg', 'emili ramirys', 'meiyy yamriyz', 'emolh rymirhg'}, {'enmly ramaraj', 'enilu ranhrek', 'wimly rywriez', 'emilu riamrez', 'ehnly ramerox'}, {'emhlh rumurek', 'maely armiriq', 'emlya ramwrge', 'emilu ramirzw', 'emhil remhres'}, {'emyly rwmiruz', 'meyly rahiers', 'emlyo romoreq', 'emhlh rwmwrec', 'emnil rmuireg'}, {'emayw arwurez', 'emlyu remirux', 'enilu rmarhez', 'emhlw ramhras', 'emilo rrmirez'}, {'emhlo rwmwrek', 'wmhlh armiriq', 'emulh ramwrak', 'eemly ramhrig', 'emila rammres'}, {'emnlo rymoreg', 'ennly rymirig', 'umihw rwimyez', 'ehnly ranhres', 'emill ramyres'}, {'emmly rmireaz', 'emnle rymirge', 'unilw roimhez', 'ehnly rymureg', 'eanly remyreg'}, {'emhil ranyrex', 'emyil rhmaraz', 'emili rumrrez', 'imoil armurhz', 'einly ramiurc'}, {'hmoyy remiwze', 'emlly rmireyz', 'emwil rumarek', 'enila rhmwreg', 'enilu ramwrag'}, {'emayh yanirze', 'enill ramyric', 'eynly ramhryx', 'emmly rrmyrez', 'emalh rmyorez'}, {'emnlu rwmhryz', 'ewwyy arwurez', 'emlyi rymwrek', 'emelh ramwrak', 'emilw rmmiryz'}, {'emilo ramrrez', 'eemly rhmirze', 'maiwy rmaiyeq', 'emnla romorec', 'emhlo ramaruk'}, {'mwhly ymaireq', 'emhle remhrek', 'enilh ranirix', 'emyil rwmyreg', 'emilo rwmirzz'}, {'emili rrmiriz', 'emnil rwmwrek', 'enill rwmirwk', 'ehnly rhmwreg', 'eyhwy armyrec'}, {'unoly armurec', 'emalh rmhriez', 'emile ramyraz', 'emhll rmuireq', 'emnil rhmwrek'}, {'emhll rumureg', 'emili rymwrez', 'emhlo rmhirec', 'enmil rwmirug', 'ymwiy rihriez'}, {'enmil ramherz', 'emhlu remwrej', 'emila rrmurez', 'enlly rhmhroz', 'muiwy ryaierz'}, {'emhlo ramwrwk', 'emlhy ramyrig', 'emmih rmaiweg', 'emnil rumereg', 'emill rmiroez'}, {'yeyil rmaiwoz', 'enill rmairec', 'emnlu rhniraz', 'eenly ramerig', 'emill rrmarez'}, {'emlyo ramurak', 'emila rummrez', 'emhlo romerex', 'emhlw rhmirig', 'amhil rywriez'}, {'eanly rmhirek', 'emhil rymhrek', 'eynly rwmirwq', 'emile riamrez', 'winly hhimrez'}, {'emlyi ramaraq', 'wamil rayiery', 'emilu rramrez', 'eunly rymirag', 'emlyo ramhrwk'}, {'emlya ramarhk', 'ewawy roimhez', 'eanly remwrek', 'emylh rhmurek', 'emila rrmirez'}, {'emhli rhmhrek', 'emlyi romareq', 'enmly ramarje', 'iomil armhrey', 'emyly rmairez'}, {'emilo rmmurez', 'immil raimyex', 'emhlo rhnhrez', 'emalh rumiruj', 'eunly ramiirj'}, {'emhlu rhmyreg', 'emolh ramierk', 'ameil yamiery', 'emnlh romyrec', 'emyly rymwrez'}, {'emill ramrres', 'enile ramerax', 'enilu romhres', 'imiil armhreg', 'emulh ramriex'}, {'enila ramhrys', 'emaww armhrec', 'emwly rmirezi', 'emyil rhnhrez', 'emalh ramuriq'}, {'imiol rahiers', 'eenly rnaireq', 'emlhy rwmiruc', 'emilo ramiryz', 'emyil romerex'}, {'emilo rmirezw', 'enilo rmhirej', 'enila rmairex', 'emhlw ramrhiz', 'euyil raimyeq'}, {'yyiwy armyreq', 'emnil ramhrak', 'emwly rahmrez', 'eemil rumhreg', 'emyil rmhwrez'}, {'emnla rmworez', 'emhli ramaraj', 'emila ramyriz', 'emahh riwriez', 'eemil rmwarez'}, {'hhaly rmayhez', 'eanly rwmirwc', 'emwly rmmorez', 'emnle rmhirex', 'einly ramaraj'}, {'emnle ranwreg', 'emhil ramarik', 'emilw rrmiriz', 'emahw raimyiz', 'emnla ramhras'}, {'emilu ramreoz', 'emnlo rwmiroc', 'enlly remarek', 'imwhy rmairaw', 'emlyu ranhres'}, {'emwly ramreoz', 'aimly hamherz', 'emwlh ramoruj', 'emnlu rhmhrex', 'eenly rwmhres'}, {'emlye rymirwg', 'emwly ramwrwz', 'emlhy remwreq', 'ymlyi armiroy', 'emhlu rnaarez'}, {'ehnly ramiwrq', 'meely rmaierh', 'einly rwmhrek', 'emylh remyrec', 'emile raomrez'}, {'enyly ramhryc', 'emnle remurek', 'emilu rymiruz', 'emhlw ramarge', 'omlyi armiruc'}, {'emyly ramrraz', 'enmil ronirex', 'umulw arnurez', 'enilw rhmiruc', 'emnil rumirhg'}, {'emhlw rhmhrec', 'emyly rramrez', 'emlyu rwmureg', 'emnlh rmarhez', 'wemyl rwwriez'}, {'emile ramrraz', 'emnli ramwruc', 'emnlo rwmiryg', 'emllh rwmwrec', 'eyiwl roimrew'}, {'emhyh hmairiz', 'emill ramirsu', 'emlyi rhmriez', 'emhlu rhmyraz', 'emnlo ramyryc'}, {'emyil rwmerex', 'emmlh ramhrse', 'immil rhmriey', 'emolh rhmurek', 'emilu rrmwrez'}, {'emllh ramwruc', 'enhly remwreq', 'amhil rmahrew', 'enilo rwmurec', 'emlly rwmirwz'}, {'emylh rmhirex', 'emlyi rwmirhc', 'hmlay ymahrez', 'emilo ramrezy', 'emnlh rwmhrec'}, {'emnla rwmirog', 'umulw armurej', 'eemil ramwrwk', 'emill ramwres', 'eynly rmhirek'}, {'enilh raniruc', 'emmih rmaowez', 'emlly riamrez', 'eanly ramhrwk', 'emlyh rwmhrwz'}, {'emnle remurek', 'emwlh ranhrek', 'emilw ramirza', 'eemil remhrek', 'wimil wamiers'}, {'enilo rmarhez', 'eanly rmeireq', 'enili rimirig', 'omahy ramoery', 'emmly ramrewz'}, {'emllh rymirhc', 'wimil armoyez', 'ewnly rumhraz', 'emnlu rhmirig', 'emili rmirezw'}, {'einly rimwrek', 'enila rymirhq', 'emhlu rnairex', 'emilw raimrez', 'iymil ramriiy'}, {'wnhly hamriey', 'emnil ramarhk', 'emlyh rumirac', 'emlly rwmarez', 'emlya rmhires'}, {'umiww ryimyez', 'eenly ramiarj', 'enile ranirhx', 'emwly ramrehz', 'emlyi romarec'}, {'emolh ramierj', 'emlyo ramyryc', 'emile ramreoz', 'enill rmairej', 'ymiyw reimwez'}, {'emhlu ranorex', 'enlly rwmirwq', 'emlye ranirws', 'emilu rmireze', 'womly rumriew'}, {'eonly ramuriq', 'wmowy rmawrew', 'eemil rumirge', 'emile ramwrwz', 'enmly ramerhx'}, {'ennly rhmirax', 'omliy hmairey', 'emila ramirzi', 'emhil ranirax', 'emalh rwmyrec'}, {'iwmil armurec', 'emalh rmhirex', 'emyly ramrezi', 'emllh rymiryg', 'emnil ramyerz'}, {'enilw romiruj', 'emili remyrez', 'umawy rmaiery', 'emolh rhmhryz', 'eynly rmhyrez'}, {'ihaly rmaihwz', 'emhle rimiruc', 'emylh rhmeraz', 'emulh runireg', 'emwly ramriez'}, {'enile rmoireq', 'emilw ramirzw', 'eemly rwmirug', 'eenly rumirwg', 'omalh hamriey'}, {'emnlo ranhryz', 'emlyu rymiryg', 'emile ramirsu', 'enilh ranirxe', 'uyilw armhrey'}, {'ehnly ramwrok', 'emwil rwmwrec', 'omiyh raimhyz', 'emlyu rimirwg', 'emlly ramroez'}, {'imiol aryireq', 'emhlw ramriej', 'emulh rymyrec', 'emlyo ramhrik', 'emili rmmerez'}, {'emhle rimwreg', 'emhll rwmhreg', 'emill rwmorez', 'oemul raimyek', 'emlye ramhras'}, {'emili rimirwz', 'emuih heimrez', 'emlhy rymureg', 'emnlh rhmiraj', 'enila rmhorez'}, {'umhil rimiery', 'enwly rmoireq', 'emile rahmrez', 'eenly ranhres', 'emlhy rhmarek'}, {'emila rimiryz', 'ehnly ramarac', 'enilo rhmiruj', 'eweyy armiroy', 'emllh rwmiruc'}, {'eemil rumhres', 'emlly rymrrez', 'emnil rwmirwq', 'eynly rhmhrhz', 'umuwy roimwez'}, {'emwlh rmairhz', 'amuil rmaiwek', 'emmlh ramiwrq', 'emila ramrres', 'emulh ramurwk'}, {'emila ruamrez', 'enhly ranhryz', 'emalh rmhiroz', 'omawy arnurez', 'eonly rwmhroz'}, {'eynly ramarik', 'emila ramrruz', 'yhely huimrez', 'emhle rhmiraj', 'eanly rwmiroq'}, {'emllh ramierq', 'emhlh raimrek', 'emhlo rwmiroc', 'iimly hamarze', 'emile raomrez'}, {'emylh ramwrug', 'emhll ramuric', 'emilw rmirezw', 'amiyh rmaiwew', 'emnle ramrieq'}, {'eanly ramhrza', 'emmly ramreaz', 'wihly rawriaz', 'emhlo romorec', 'einly rimiruc'}, {'emyly rmiirez', 'eynly ramhrse', 'uyoly armuriz', 'eunly romareg', 'emnlu rhnhrez'}, {'emwlh ramiwrk', 'eenly ramhrke', 'enhwy rymriey', 'emmly rmirezi', 'emnlh rwmirhg'}, {'ewnly rwmyrec', 'iumly ramhery', 'emhli rnaorez', 'emili rymirwz', 'emhlh ranereg'}, {'eynly rymwrek', 'emyil rwmiruj', 'uomil armihex', 'emile ramreyz', 'emnla ramwruc'}, {'enmil rymarek', 'uomil raimyoz', 'eemil romwreg', 'emili rummrez', 'emylh rmhirej'}, {'emile raumrez', 'emnlh ramyerz', 'einly remhryz', 'emylh rmairej', 'hnhly raimhuz'}, {'emyly remwrez', 'eynly rmhirex', 'wwiyy rayriiz', 'emhlo ramarac', 'emalh rymirig'}, {'emhle ramhros', 'emalh rmhhrez', 'emnlu rumareg', 'emayw aryurez', 'emyly ramwruz'}, {'uimly ryhirze', 'enmil ramarak', 'emnil rimwreg', 'emlly rmireuz', 'eonly rmhirej'}, {'emile remwrez', 'hmalh raimhze', 'emlyu rimhrek', 'eynly rimyreg', 'eemly rwnireg'}, {'emhle rhmirac', 'emili ramreze', 'emayw armhreh', 'emhlu rmyorez', 'emulh ranorex'}, {'ymhwy rayiwze', 'emlyh ramiwrk', 'emhlw ramrwiz', 'emlye remhrek', 'emile ramrruz'}, {'ewliy rawiery', 'emili ramirws', 'eunly ramierq', 'emnlu rimhrek', 'emllh rwmiryc'}, {'enill rimhres', 'enila raniruj', 'emila ramreyz', 'wehly yiimrez', 'eunly runireg'}, {'emwlh rmhirej', 'emhle rimhres', 'emile rwmwrez', 'eunly ramierc', 'mawly rawarze'}, {'eonly ramwrok', 'enmil rhmhrej', 'ehowy yoimrez', 'emelh ramrhyz', 'emili rmirezi'}, {'emilu rrmirez', 'enlly rnariez', 'emnlw rwmirug', 'mhhly ramriyy', 'emlyh rumureg'}, {'emilw rammriz', 'emlya rhmhruz', 'emnle romorej', 'enilw rymirge', 'inaly rmaiwwz'}, {'emmlh rhmeraz', 'emnlh ramruek', 'enilu rimwrek', 'eyiwh arhireq', 'emila rmmiryz'}, {'emhlw rwmirug', 'wmiyh raimyes', 'emhlo rmhirec', 'emilw ramraez', 'emelh rumiraj'}, {'enilu romareq', 'enilo ramurix', 'enhwy raimhes', 'emylh rhmiraq', 'emilu ramreza'}, {'unoly roimreh', 'emlyo ramerag', 'emila ramreuz', 'eemil ramarax', 'enilu rymurek'}, {'ewnly ramarac', 'emilw rymirzz', 'whmly rmaayez', 'emnlu rwmhrwz', 'enwly rumwrek'}, {'emnli romurek', 'hmhiy wmaierz', 'emnle ramrwiz', 'emmly ramrruz', 'emhll ramhrze'}, {'emnle rhmierz', 'emhil raemreg', 'emyly ramiwrz', 'enmly rumureg', 'oemyl rmaiwej'}, {'eemly rumwrek', 'iemyl hamarze', 'emilo ramwrwz', 'emwil ramwrig', 'enilu ramhrus'}, {'enyly rhmhrec', 'emnlu rwmurec', 'ehliy ramoery', 'emlyu romwrek', 'emlly rimiryz'}, {'eanly ramerxe', 'ehyiy yanriez', 'emhll ranwrek', 'enmly rymareg', 'emlly ramwriz'}, {'emlya rumareg', 'emilu rymrrez', 'wumil raimyew', 'emhil romareq', 'emelh rimyrec'}, {'emlya rmhiruz', 'emwlh rwnireg', 'umwlw armhrey', 'emill ramwres', 'emllh rwmiruc'}, {'emhll rhmirak', 'eumih raimheh', 'emlyh rameirj', 'emilo rommrez', 'enilu ramyrac'}, {'enhly rynireg', 'eemil ranarek', 'emila rumyrez', 'eenly rhmirze', 'hmhlw arwirex'}, {'emyly raamrez', 'enilw rumareg', 'enill rameirj', 'enile rhmhroz', 'hemul raimwze'}, {'eonly ronirex', 'emile rimwrez', 'eanly ramyroc', 'umhwy rmaewez', 'emmlh ramiirg'}, {'eynly rmhirex', 'emila ruamrez', 'enilo rymhrhz', 'emhli rmiareq', 'umiol armihex'}, {'emelh romurek', 'emnlu ramrwiz', 'emili ramirzu', 'hemyl rmaihuz', 'emnil ramiyrj'}, {'emila rymirez', 'omahy rmaoreh', 'enyly raniruj', 'emelh renirex', 'emlye rhniraz'}, {'eywwy rwimhez', 'eonly ramwrik', 'emilo raumrez', 'emlyi ramiwrq', 'emhla remarek'}, {'ennly ranyreg', 'muoly rmaayez', 'enilh rymerhz', 'emhlh rhmuriz', 'emilu rwmrrez'}, {'wmiyh armiruj', 'enmil rmworez', 'emill ramwriz', 'emllh remwreg', 'einly rmhurez'}, {'enilo renwrez', 'emlhy rumhres', 'emilw rrmirez', 'omlyi rmaihec', 'eynly rhmeres'}, {'amhil riimwez', 'emhll rmhyrez', 'emilo ramwruz', 'enmly rameruj', 'enile ramraek'}, {'emwil rimerex', 'ayiwy rahriwz', 'emill rmireyz', 'emulh rmhires', 'emhlh rhmwreg'}, {'emilo rmmiriz', 'oemwl arhhrez', 'eemly rwmarec', 'emhli ramwrhg', 'eemil rymereg'}, {'eynly raniryx', 'emlya ramerwg', 'mwhly yamarze', 'emylh ranhrex', 'emile remrrez'}, {'emnlo rhmirac', 'ennly romyrec', 'emyly rrmorez', 'ewyyy armriiz', 'enilh ramraek'}, {'enilu ramarok', 'hnhly wmaireh', 'emnla rwmwrek', 'emhlh rimarek', 'emilw ramreoz'}, {'eamhy armhrze', 'emill ramrehz', 'ewnly rumareg', 'emnli rmairex', 'enilu ramarik'}, {'emnlh rymirwg', 'emhll romirig', 'emill rymarez', 'emlhy ramierk', 'iomil wmaireq'}, {'emmly ramaryz', 'ewnly ramreeg', 'eemly rwmhrec', 'emwyi rahriwz', 'emyil rimhres'}, {'enilh ramarac', 'emyly rymarez', 'emnil raemreg', 'enmly ramurke', 'iamly hmairiz'}, {'ewnly ramhrys', 'einly ramhryx', 'ehnly rhmiras', 'emile remrrez', 'wiwly armurwz'}, {'emlly ramrehz', 'hmlhy armhrek', 'enyly rumirwg', 'emlye ramwrok', 'emnle rwmhroz'}, {'ehnly rymerex', 'awiyy hawriez', 'enmil rhmhrex', 'enmly rwmirge', 'emila rammrwz'}, {'emnli rumirax', 'enilo ramiirg', 'emhil rimirwj', 'mhhly ramwerw', 'emilw rammres'}, {'eonly rhmirze', 'emnle rmairek', 'emyil remwrek', 'uhilw rmaihes', 'emwly ramirsu'}, {'emnlh rymyrec', 'emelh rameryx', 'emila ramrriz', 'eemil rumirac', 'wmiil rawrihz'}, {'imyil wmaireh', 'enila ramhrak', 'emnlu rmhirej', 'emwlh raniryx', 'emilw rrmiryz'}, {'emlya ranwreg', 'emilw rrmerez', 'emnle remyreg', 'hmawy raimrhe', 'enyly rhmirza'}, {'eanly rhmirig', 'emwly raemrez', 'emlyi remarek', 'enmly ramyrac', 'iyiwy raimhiz'}, {'emnlw ranhrek', 'eunly rhmhrwz', 'emnle rumirwg', 'emile ramrriz', 'emeyh armirye'}, {'emlyi remwrej', 'ewnly romorek', 'emnlh rymyrhz', 'hamil yamriyz', 'emilo ramurwz'}, {'iwaly raimyec', 'eenly ramhryj', 'emyly rmiurez', 'enmil ramhrok', 'enilo ramyrig'}, {'umwiy rmaiwek', 'emnil rymyreg', 'ennly ramurok', 'emmly rrmiroz', 'emnlw ramyroc'}, {'emlly rmiwrez', 'enilo rymirhg', 'emlhy ramarke', 'ameil rayiers', 'emhll ramyrig'}, {'emnli ranirax', 'emlyh rumirwg', 'emyly rammruz', 'ymlay raimhuz', 'enmly ramhros'}, {'ennly rmwarez', 'imohy rmairuw', 'enilw rhmiras', 'eonly ramarke', 'emile rmuirez'}, {'wehly armuhez', 'eenly romyrec', 'emilu ramyrez', 'emnlw rumereg', 'emhil ramarak'}, {'emelh rmaireq', 'amiyl rmaarey', 'emyly rammruz', 'enilh ronirex', 'eunly ramiwrc'}, {'eunly rwmwrek', 'emila rimrrez', 'enile ramiwrk', 'oumly yaimhez', 'emnlw romareq'}, {'emhle romareq', 'emhll rmairhz', 'eemil ramhris', 'emila rmiorez', 'imehy arwiyez'}, {'imiyl rmaohez', 'emnla rhmeres', 'emilw rammroz', 'emyil ranhrek', 'emlyi rhmirac'}, {'emyly ramrruz', 'umoil ramriyy', 'emmlh rymareg', 'enilu rhmiras', 'emlyu rumirak'}, {'emwil rymhres', 'umolw rmaorey', 'emilu raymirz', 'emalh ramiwrj', 'emnli rhmirig'}, {'eemly rumurek', 'emilu remrrez', 'einly rhmeraz', 'emhil remhres', 'omulh riimwez'}, {'emnlw ramwruc', 'emhlu rmuireq', 'emlly rameryz', 'umwwy rmarieh', 'emnle rhmyreg'}, {'ewlyi rawierx', 'enilw rumyreg', 'emhli romoreq', 'emilw rwmiroz', 'emhlo ramhruk'}, {'emhlu rumerex', 'enill ramwrik', 'wamly ruimrew', 'eonly rimirwc', 'emila rymires'}, {'eynly ramarje', 'emhle ramurik', 'emile ramroez', 'eemly ramhrws', 'iemul armurhz'}, {'wiwly rmayhez', 'emill ramreze', 'emhle rymirhg', 'emhll ramerox', 'eynly rimiruc'}, {'emila rwmiroz', 'einly ramarax', 'emnle raniruj', 'imial rmairww', 'emhla remwrhz'}, {'emlly remwrez', 'emnle ramhryc', 'emllh rimirwj', 'eemil ranirux', 'imhil heimrez'}, {'ymiyh rahriiz', 'emilw rmeirez', 'eanly ramhwrz', 'emhlu rhmwraz', 'enile ramwrok'}, {'umowy armereq', 'emila rramrez', 'emhlo ranereg', 'emylh rmhiroz', 'emnli ramyruc'}, {'emile rwmiroz', 'emhla remwrex', 'enilw rhnirex', 'omalh humirze', 'emlyi rymorhz'}, {'emili rmoirez', 'ewnly ranhres', 'emhlo rhmoraz', 'onilh hamriey', 'eynly ramerwx'}, {'emhla ramuruk', 'emili rahmrez', 'ymlhy armureh', 'emelh rhmirac', 'enhly rhmiraj'}, {'eynly raemrex', 'ymiwl roimrew', 'enilu rhmyraz', 'emili ramwres', 'emnli ramwrwk'}, {'ewawy ramriiw', 'emlya rymiruc', 'emnla rwmirag', 'emnil ryimrez', 'emile rmireaz'}, {'eanly ryimrez', 'emwly raimrez', 'emalh rymirhc', 'enhly rhmirak', 'imwil hmahrez'}, {'eonly renirex', 'enilw ramerux', 'oyilh rayiwze', 'emilw rmireez', 'emlye ramyruj'}, {'emnla rwmirwc', 'enyly rwmirwj', 'eyiwl romiwze', 'emlya rmhhrez', 'emlly ramwrwz'}, {'emalh rhmirac', 'emyly ramirzu', 'ohilh armoyez', 'emlya rhmierz', 'emnlh rynireg'}, {'emill rumrrez', 'enila rwmirwj', 'ymeil remiwze', 'emmlh ramwrag', 'eemil ramurig'}, {'emili rmmyrez', 'eonly rumiryg', 'omihh ramwwze', 'emhll rimhrwz', 'emnlo romarek'}, {'weilw armiroy', 'emnlh ramhryc', 'eonly rwmiruc', 'emila raomrez', 'emnlo rmhirwz'}, {'eonly rhmiruc', 'enyly rmarwez', 'yemul raimyej', 'emnli runirex', 'emile rmierez'}, {'emnla rumoreg', 'enwly ranirox', 'emile rmihrez', 'enilh ramerig', 'hhhly armarek'}, {'umail rawarze', 'eynly ramhrig', 'emill rrmiraz', 'enlly raimrej', 'eonly rameryx'}, {'eyuwy wmaorez', 'emlyh ramhrse', 'eanly rwmirac', 'emhlo ranirix', 'emilo ramrriz'}, {'emhli ramyroc', 'emmly ramyroz', 'emnlh ramarge', 'enilw ramwrge', 'muhly rmaiweq'}, {'emylh rumiryg', 'wmiwl hamarze', 'emnle rymirhq', 'emile rmiyrez', 'emnla rimirwc'}, {'ewnly rumyrec', 'emmlh rimiruc', 'emilu rummrez', 'emhli romerex', 'umolh rmaayez'}, {'einly rhmyreg', 'emilu rrmiryz', 'amiul raimhwz', 'enyly ramurwk', 'emylh ronirex'}, {'emilo rammraz', 'emhli ramhryk', 'ennly ramoruc', 'iamly wmaiwez', 'emelh remwreq'}, {'oemul raimhew', 'emllh ramaruk', 'emnlu ramarac', 'emolh ranirza', 'emwly rammraz'}, {'emyly remwrez', 'emlyo rmhiraz', 'emylh rhmirac', 'mawly rayriej', 'emlye rumyrec'}, {'emile rymiryz', 'emnla rhmriez', 'ymhwy haimrze', 'emlyi rymiruj', 'emhla romhres'}, {'enhly raniwrz', 'enili romwrek', 'emilw remrrez', 'emnle ramaraq', 'iyihy rmayrew'}, {'emyly rymrrez', 'enilh ramiwrg', 'eunly rymhryz', 'ennly rhnirex', 'emuih raimhuz'}, {'emilo rahmrez', 'iimil raimyej', 'emhle ramihrj', 'emlhy remwrej', 'emwlh ramarqe'}, {'emlye rameryx', 'eanly rmworez', 'ehhwy rayurze', 'emilo ramrruz', 'emylh rmarwez'}, {'emhlu rmairej', 'wmhlh haimreh', 'eynly rhmhreg', 'emile rwmirzz', 'emelh rhmuraz'}, {'emlya ramiirj', 'emyil ramhrok', 'emill rammres', 'ewiyw armures', 'emhil rimhrek'}, {'oyiwy wamriyz', 'emmlh romarec', 'enmly remwrek', 'emnlw ramyrig', 'emlly ramrewz'}, {'eanly rmhiriz', 'emmly rameryz', 'ehnly rmherez', 'emyil rhmhrek', 'hyaly rmaorey'}, {'uemul arwurez', 'emhli ramerox', 'enwly ramurak', 'enmil ramwruc', 'emili romiryz'}, {'maihy rawrieg', 'enilo rwmwrek', 'eanly rhmirze', 'emile roamrez', 'emlhy rwmareg'}, {'enyly rimirwj', 'emwly rmirezu', 'womly rowriez', 'emlyi rhmoraz', 'emhlh rymhrek'}, {'emilu rammres', 'ymowy rmaiwej', 'enile renirex', 'eynly raimreg', 'emlyu ramriec'}, {'enill raimrex', 'amiwl armhwez', 'emmlh ramuruj', 'emila ramrehz', 'emhil ramaruj'}, {'emili rumrrez', 'emolh rmhiriz', 'hehly armiweq', 'emhlo ramwrak', 'enyly rmharez'}, {'eonly rhmhrej', 'eyliy remiery', 'emlhy rhmirak', 'emilu rymwrez', 'emlyh rumareg'}, {'enmly ramyryc', 'ewnly rwmirhg', 'imeil armuraz', 'emylh ramerax', 'emili ramirzy'}, {'eanly rwnirwz', 'enlly rmhiraz', 'emila ramrriz', 'hmowy rihriez', 'emhle remwreq'}, {'emnla ramwrwk', 'emmly rwmurez', 'emnlu ramerix', 'enyly ramerog', 'hmhiy rumriew'}, {'emila ramrraz', 'emhlo rwmiryg', 'emnla rmiareq', 'ewiwl raniwze', 'emnil ramierg'}, {'enill ramuric', 'emlye rwmwreg', 'ehnly rwmwrek', 'emilo rumwrez', 'hmlyy rmaorey'}, {'emlhy romorex', 'ehnly rwmirwx', 'emhlu ramhrig', 'umiyl yiimrez', 'emill rymurez'}, {'emnlw rumirug', 'mailw rmaorew', 'emlyu raimrec', 'emwil rwmirig', 'emlly rymorez'}, {'emulh rwnirec', 'emnlo rymwrhz', 'emilw ramruez', 'imihl raimhaz', 'enhly remhres'}, {'enili ramiurj', 'emilo rmiriez', 'enila rwnirex', 'eenly ranorex', 'uhmil rewierz'}, {'emmlh ramierq', 'enili ramaruk', 'ewnly ramurig', 'eyalw reimwez', 'emill rrmiruz'}, {'umiyl raimyes', 'emili rmierez', 'emlyo rmwireq', 'eunly ramerax', 'emolh rimhres'}, {'enmly ramarge', 'emyly rwmirez', 'enhly ranirwx', 'eunly rwmirug', 'eumwy armyreq'}, {'emhli rhmwraz', 'emwyi rmaiwey', 'emilo ramyres', 'emulh rnariez', 'emhlo rmhiroz'}, {'emile romrrez', 'eenly rmhwrez', 'emlhy ramerag', 'emhlo ramuruj', 'emoww raimyex'}, {'enila ronirex', 'umeil armhreq', 'emhll ramaryk', 'enile rimirwk', 'emmly rymirwz'}, {'ymeyy armurhz', 'eemly ryimrez', 'emulh remwrek', 'enili rinirwz', 'emmly ramyrwz'}, {'emlyu rumwrek', 'emmly rrmorez', 'emlya renwrez', 'inihy rmaohez', 'enyly romarek'}, {'emlyi rhmuraz', 'hmhwy raimyej', 'emilw rmmarez', 'enmil rimurek', 'emllh ramierc'}, {'emelh rymhryz', 'eynly rmyireq', 'emilu rwmiruz', 'emnla ramwruc', 'wumly rahierj'}, {'eynly rhmhroz', 'ewoyy raimheq', 'emmly ramwrwz', 'eemil romiruj', 'eonly rimwreg'}, {'emhlo raniruj', 'emwlh rwmurek', 'emill rrmires', 'enmly rwmiroj', 'whmly hmairew'}, {'enilh ramuric', 'emylh ramhryg', 'amyil ryimhez', 'enili rumhrek', 'emill ramwres'}, {'heyil rmaihwz', 'ehnly rwmhryz', 'einly rwmirwq', 'emyly rwmyrez', 'emllh ramyrig'}, {'emyil rhmeres', 'eemil rymwrhz', 'amiwl rmaorew', 'emilu rmirezu', 'ennly rimyreg'}, {'emwly rimmrez', 'meuly rwmriew', 'enhly rumerex', 'ennly rymirhs', 'emlyo rmairek'}, {'emnlw ramiurj', 'emmly rrmiryz', 'emnlh ramuric', 'enwly ranurek', 'ymliy raimhze'}, {'emile rwmiruz', 'emnil rhmhraz', 'emlyo ranwreg', 'aimly reimrey', 'eonly romareq'}, {'emili ramirsu', 'enila ramaraq', 'umwiy rawriyz', 'enili ramwrke', 'emhlu ramwrok'}, {'emlyu rumirac', 'emwlh rymirhq', 'emlly rymiryz', 'emhlw rwmhrwz', 'amuil armurek'}, {'oumil armereg', 'emwlh rmaryez', 'ennly romorex', 'enhly rimirwx', 'emlly rrmires'}, {'emhil ramerwx', 'ymihw rawiers', 'emwly remmrez', 'emnle rymyreg', 'emlhy rimhryz'}, {'wmyiy armhyez', 'emilo rmirezo', 'enilw rmhurez', 'enwly ranhryz', 'enili romorec'}, {'emlhy renirex', 'imalw aryirej', 'enile remirux', 'emwly ramreez', 'emlyo ramhruk'}, {'emylh rhmiruj', 'emwly rmirehz', 'eemil rhmriez', 'uyiwy rmaiheg', 'enwly rwmirig'}, {'iamly hmaireq', 'enila ramiwrx', 'emile romrrez', 'emhlh rumirak', 'emylh rimhrek'}, {'emelh ramruek', 'emyly ramyruz', 'uhilw armruez', 'emhlw ramhrse', 'emnlo ramarwk'}, {'emnli romurek', 'enyly rwmiryg', 'ueyil armierq', 'enilh ramaruc', 'emlly rummrez'}, {'emili ramiwrz', 'umiyh rmariey', 'enilo rmhurez', 'emnla rumarek', 'emlhy romhryz'}, {'emili ramirsu', 'enilu ramryiz', 'imiwl raimyew', 'emnlu remiruq', 'emlyo rymwrhz'}, {'enmil rumirig', 'inihy rmaiwiz', 'emylh ramwruk', 'emmly rmireiz', 'enhly raemreg'}, {'emlhy romyrec', 'emhle ramuruc', 'emyiw hmairiz', 'emilw remrrez', 'enill romurek'}, {'ehnly remiruj', 'eynly ronirex', 'emill ramrezz', 'ohilh rawiers', 'enilu rynirhz'}, {'emnle rhmiras', 'ymelh raimrwe', 'emnla rmyorez', 'emilw remyrez', 'eemly remiruq'}, {'emhlo rhmirak', 'emyly ramroez', 'umiwh yamriiz', 'emnla rymhres', 'enilo raimrhz'}, {'eynly rmhorez', 'emlyo rmhiroz', 'emlly rumirwz', 'enyly ranarek', 'ohilh armiwze'}, {'eemil rhnirex', 'emilw rramrez', 'amiwl hamherz', 'enhly ramhrhk', 'enile rimwrek'}, {'emhle rimiruc', 'enlly raimrhz', 'emile rmirewz', 'emeyh hamriiz', 'emmlh ramerge'}, {'ymeyy rmahhez', 'emlyu raimreg', 'emnli rmworez', 'eunly rumureg', 'emyly ramyroz'}, {'enile ramhryg', 'emyly rumrrez', 'eomwy rmaiyeg', 'enilo ramiorj', 'enili rwnireg'}, {'emlly rrmirez', 'umylw rmaihek', 'emelh ramhruk', 'eemil rmhurez', 'enwly rmhiruz'}, {'enilh rwmhroz', 'emnle remwreq', 'emili rmiurez', 'enhly rhmirza', 'umiel rmawwez'}, {'emila rmmiraz', 'emnlw ramiwrk', 'emyil rwnirwz', 'enilh ramuryk', 'hmiyh hmairey'}, {'whhly hmairhz', 'emmlh ramriex', 'emilw ramrraz', 'eunly rhmhrwz', 'emnlu rhmhres'}, {'enilh raniryx', 'emulh ramaruc', 'amlyi ymaorez', 'emilu rwmwrez', 'enmil ramyruc'}, {'maely rmaiwiz', 'emwlh romarej', 'enmil ramrieg', 'emilu ramrraz', 'emlye ramhrys'}, {'imihh hamriey', 'enmil remwreq', 'emmly rmmurez', 'emllh remirux', 'emolh rhmhroz'}, {'enmly ranwreg', 'emnlo remerex', 'emlyu ramreeg', 'emlly ramwruz', 'yeyil rihierz'}, {'emlly raamrez', 'enyly ramwrog', 'emlya rwmhres', 'emhww ymaorez', 'emnli ramarik'}, {'enmil rhmiraq', 'enilu ramhrik', 'iymil armihex', 'emilw rammraz', 'eanly rameirj'}, {'emwly rmirezy', 'emwyh raimheg', 'eemly rimirwq', 'emlhy rhmirze', 'enilo rmherez'}, {'hmoyy arnurez', 'enill ramurix', 'emnla ramarhk', 'emilw rammroz', 'eemil rnaorez'}, {'emhll ramhrhs', 'meyiy armwreq', 'emnlh rhmhrek', 'emylh ramierq', 'emilu rmirrez'}, {'ewnly rimerex', 'hhaly raimhwz', 'enilw rymirhq', 'enilh romarex', 'emilo rwmarez'}, {'emhli remwrec', 'emyly ramyrez', 'emlyo ramoruj', 'amuil rhaierz', 'emnlh ramrieq'}, {'emhla rmhirex', 'aimil roimrey', 'emyil remereg', 'emlyu rhmerex', 'emyly ramiyrz'}, {'emilu ramirsw', 'emwil rwmwreg', 'emulh ramhryc', 'maiyy rmaiwoz', 'emalh rhmuriz'}, {'emnli remerex', 'eynly ranirze', 'umhlw rahriwz', 'emllh rmairex', 'emyly ramorwz'}, {'enill ramierq', 'hmoyy raimhwz', 'emlye rymirge', 'emhll ramrhyz', 'emilw rammryz'}, {'enile ramerog', 'emmly rumyrez', 'enyly rwmureg', 'emnlw rinirwz', 'meliy rayriiz'}, {'emyly reamrez', 'emnlh ramriex', 'emlyo remiruq', 'emnlo rumerex', 'uomly armhhez'}, {'enilu ramhrok', 'emmly ramirsa', 'yumly ramwery', 'emmlh ranyrec', 'enilh remyrec'}, {'hnaly armiroq', 'emnlh romiruj', 'emmly ramyriz', 'einly ranyreg', 'eynly ramwrag'}, {'enili rhmhres', 'enilu rhmwreg', 'winly rhimyez', 'emilo rmirrez', 'emhlw remwreg'}, {'emilw rimiryz', 'enilu ramarac', 'enill rmhiroz', 'wehly waimreh', 'ewnly ranurek'}, {'emmly rumiryz', 'emnli rumirwg', 'eonly ramuryk', 'umliy rymiwze', 'enlly rimwreg'}, {'emlyi ramryiz', 'omelh armuerz', 'emwlh ramiirj', 'eenly rwmorec', 'emwly rmoirez'}, {'emmlh ramerox', 'ewnly ramhros', 'emhwh hmairew', 'emolh ramrhyz', 'emmly rumwrez'}, {'enhly rmhireq', 'ewiwl rmaiyeg', 'emlyi ramurix', 'emili ramirwz', 'eemly rhmerex'}, {'emhlo rumareg', 'enyly rymirhq', 'eonly rainrex', 'ammil armirhq', 'emlly ramreyz'}, {'emhll remyrec', 'imyil armuruz', 'emhlo rymirag', 'emile rrmires', 'emhlw rmwireq'}, {'amhwy arimrze', 'emlyi ramwerz', 'emhlh rwmerec', 'emnlu rwmwrec', 'emila ramirzi'}, {'emalh rwmiruj', 'emili rammrez', 'eyewy rawrieh', 'emhll rymirag', 'ewnly ramyrhc'}, {'emilo ramirsa', 'emnil rimhres', 'umhlw ruimyez', 'ennly rhmirig', 'emmlh rmoireq'}, {'emhlo remwrec', 'omylh ymairew', 'emwly rmierez', 'enilh rumiruc', 'eanly ranyrex'}, {'emnli rwnirec', 'emmlh ramriex', 'uymil raimywz', 'emill ramirze', 'emnla rmairex'}, {'eanly ramiwrx', 'ymhwy raiyrze', 'enmly rymirug', 'emill rmierez', 'eemly ramhrwk'}, {'emwil rmairex', 'enhly ramierj', 'emwlh rymarhz', 'emwly rmiruez', 'maoly roimrew'}, {'eamwy wamiers', 'enila ramarxe', 'emhll rynirhz', 'emile ramirzy', 'emhlh ramwrge'}, {'emhlw rameirj', 'emnla ranhrek', 'emllh ramherz', 'emaww raimhwz', 'emwly rmmiryz'}, {'ynely armhrej', 'emwil ramiwrg', 'emlly ramreaz', 'eemly rumirug', 'enmil rhmhroz'}, {'enilu rumiryg', 'emlly remiryz', 'emnlu remwrec', 'omwlh haimrze', 'emnla ramaruc'}, {'emnlh rwmwrec', 'umohy rwmrieh', 'emyly remrrez', 'emnil rmhhrez', 'emnli rimwreg'}, {'emhli rwmwrek', 'emlyh rhmirax', 'emhil ramhrik', 'meoly yiimrez', 'emill remirwz'}, {'emwyi ramywze', 'enyly rimarek', 'emilu rmmurez', 'eemil rnariez', 'emnlw ramuruc'}, {'emhil ramurik', 'emlyo ramurix', 'uyilw aryireq', 'emmly ramwrwz', 'emmlh rhmyrec'}, {'amhil armurej', 'emlly rwmyrez', 'emlyh rhmhrej', 'enmil romerex', 'emnlw rymirhx'}, {'enili ranirux', 'emili rmireze', 'emelh rymhrek', 'wmahy hamiwze', 'eemly rmhiroz'}, {'eanly raimreq', 'enile rymhres', 'yyilw rayarze', 'emlyo rmeireq', 'emyly ramirza'}, {'umoyy rawriek', 'enlly romorek', 'eonly rmairec', 'emolh rymirhx', 'emile rmierez'}, {'umywy armrieq', 'emili ramirza', 'emlyu rimhryz', 'emlhy romhres', 'enhly rumiruj'}, {'emila ramyraz', 'enile raniryx', 'emnlw romereg', 'hmhwy rumriew', 'emhlu rymhryz'}, {'emyly rammraz', 'emlyi rhniraz', 'enila ramiirj', 'enlly ramreex', 'imihw wamiwze'}, {'emnlw romorex', 'eenly ramiyrj', 'emmly rmiwrez', 'enilh rhmiarz', 'uumil raimhze'}]
+emily ramirez       : DEBUG: Additional rule variations: {'e. R.', 'ramirez     emily'}
+emily ramirez       : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.14285714285714285,
+        "special_char_variations_count": 1,
+        "total_variations_count": 7
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "emily ramirez": {
+            "first_name": {
+                "score": 0.7,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 1.0,
+                        "combined": 0.5
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "emhll",
+                            "phonetic_score": 0.17082229083749056,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "enmil",
+                            "phonetic_score": 0.17082229083749056,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ymwiy",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "emili",
+                            "phonetic_score": 0.7973719322927209,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "emhlo",
+                            "phonetic_score": 0.17082229083749056,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.7380916106417589,
+            "final_score": 0.7238066218467404,
+            "variation_count": 7,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 2,
+            "last_name": {
+                "score": 0.766,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.21999999999999997,
+                        "orthographic": 1.0,
+                        "combined": 0.61
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "rumureg",
+                            "phonetic_score": 0.20802310564221016,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "rwmirug",
+                            "phonetic_score": 0.20802310564221016,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "rihriez",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.4285714285714286,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "rymwrez",
+                            "phonetic_score": 0.6307682636528797,
+                            "orthographic_score": 0.7142857142857143,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "rmhirec",
+                            "phonetic_score": 0.20802310564221016,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "e. R."
+                        ],
+                        "name_parts_permutations": [
+                            "ramirez     emily"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "e. R.": [
+                            "shorten_name_to_initials"
+                        ],
+                        "ramirez     emily": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.6666666666666666,
+        "by_name": {
+            "emily ramirez": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "e. R."
+                        ],
+                        "name_parts_permutations": [
+                            "ramirez     emily"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "e. R.": [
+                            "shorten_name_to_initials"
+                        ],
+                        "ramirez     emily": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "average_quality": 0.7238066218467404,
+    "final_reward": 0.7238066218467404
+}
+emily ramirez       : DEBUG: ----------------------------------------------------------------------------------------------------

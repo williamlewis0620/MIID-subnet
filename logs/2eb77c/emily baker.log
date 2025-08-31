@@ -1,0 +1,2096 @@
+emily baker         : INFO: Generating variations for emily baker
+emily baker         : INFO: ----------------------------------------------------------------------------------------------------
+emily baker         : INFO: Effective rules: ['delete_random_letter']
+emily baker         : INFO: ----------------------------------------------------------------------------------------------------
+emily baker         : INFO: Min Required Rule Variation Set: [{'emiy baker', 'emily bker', 'emil baker', 'emilybaker', 'emly baker', 'emily bakr', 'mily baker', 'emily bake', 'emily baer', 'eily baker', 'emily aker'}]
+emily baker         : INFO: ----------------------------------------------------------------------------------------------------
+emily baker         : INFO: First name: emily
+emily baker         : INFO: Last name: baker
+emily baker         : INFO: ----------------------------------------------------------------------------------------------------
+emily baker         : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (1, 2), (0, 4), (1, 3), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (0, 7), (1, 6), (2, 5), (3, 4), (0, 8), (1, 7), (2, 6), (3, 5)]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 1 / 20: rule_count/nonrule_count: 0/1------------------------------
+emily baker         : DEBUG: O: [0, 0, 0, 1]
+emily baker         : DEBUG: P: [0, 0, 0, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 0, 0, 1]
+emily baker         : DEBUG: P: [0, 0, 0, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.27921036]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 2 / 20: rule_count/nonrule_count: 0/2------------------------------
+emily baker         : DEBUG: O: [0, 1, 0, 1]
+emily baker         : DEBUG: P: [0, 1, 0, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 1, 0, 1]
+emily baker         : DEBUG: P: [0, 1, 0, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.44836392]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 3 / 20: rule_count/nonrule_count: 0/3------------------------------
+emily baker         : DEBUG: O: [0, 1, 0, 2]
+emily baker         : DEBUG: P: [0, 1, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 1, 0, 2]
+emily baker         : DEBUG: P: [0, 1, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.448]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 4 / 20: rule_count/nonrule_count: 1/2------------------------------
+emily baker         : DEBUG: O: [0, 1, 0, 1]
+emily baker         : DEBUG: P: [0, 1, 0, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 1, 0, 1]
+emily baker         : DEBUG: P: [0, 1, 0, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.64836392]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 5 / 20: rule_count/nonrule_count: 0/4------------------------------
+emily baker         : DEBUG: O: [0, 2, 0, 2]
+emily baker         : DEBUG: P: [0, 2, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 2, 0, 2]
+emily baker         : DEBUG: P: [0, 2, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.41754394]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 6 / 20: rule_count/nonrule_count: 1/3------------------------------
+emily baker         : DEBUG: O: [0, 1, 0, 2]
+emily baker         : DEBUG: P: [0, 1, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 1, 0, 2]
+emily baker         : DEBUG: P: [0, 1, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.648]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 7 / 20: rule_count/nonrule_count: 0/5------------------------------
+emily baker         : DEBUG: O: [1, 3, 1, 0]
+emily baker         : DEBUG: P: [0, 2, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 3, 1, 0]
+emily baker         : DEBUG: P: [0, 2, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.49823082]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 8 / 20: rule_count/nonrule_count: 1/4------------------------------
+emily baker         : DEBUG: O: [0, 2, 0, 2]
+emily baker         : DEBUG: P: [0, 2, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 2, 0, 2]
+emily baker         : DEBUG: P: [0, 2, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.51754394]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 9 / 20: rule_count/nonrule_count: 2/3------------------------------
+emily baker         : DEBUG: O: [0, 1, 0, 2]
+emily baker         : DEBUG: P: [0, 1, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 1, 0, 2]
+emily baker         : DEBUG: P: [0, 1, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.648]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 10 / 20: rule_count/nonrule_count: 0/6------------------------------
+emily baker         : DEBUG: O: [1, 3, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 3, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.47563844]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 11 / 20: rule_count/nonrule_count: 1/5------------------------------
+emily baker         : DEBUG: O: [1, 3, 1, 0]
+emily baker         : DEBUG: P: [0, 2, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 3, 1, 0]
+emily baker         : DEBUG: P: [0, 2, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.59823082]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 12 / 20: rule_count/nonrule_count: 2/4------------------------------
+emily baker         : DEBUG: O: [0, 2, 0, 2]
+emily baker         : DEBUG: P: [0, 2, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 2, 0, 2]
+emily baker         : DEBUG: P: [0, 2, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.51754394]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 13 / 20: rule_count/nonrule_count: 0/7------------------------------
+emily baker         : DEBUG: O: [1, 4, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 2]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 4, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 2]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.46355381]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 14 / 20: rule_count/nonrule_count: 1/6------------------------------
+emily baker         : DEBUG: O: [1, 3, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 3, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.54230511]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 15 / 20: rule_count/nonrule_count: 2/5------------------------------
+emily baker         : DEBUG: O: [1, 3, 1, 0]
+emily baker         : DEBUG: P: [0, 2, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 3, 1, 0]
+emily baker         : DEBUG: P: [0, 2, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.59823082]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 16 / 20: rule_count/nonrule_count: 3/4------------------------------
+emily baker         : DEBUG: O: [0, 2, 0, 2]
+emily baker         : DEBUG: P: [0, 2, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [0, 2, 0, 2]
+emily baker         : DEBUG: P: [0, 2, 1, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.51754394]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 17 / 20: rule_count/nonrule_count: 0/8------------------------------
+emily baker         : DEBUG: O: [1, 4, 1, 2]
+emily baker         : DEBUG: P: [0, 4, 3, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 3, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 4, 1, 2]
+emily baker         : DEBUG: P: [0, 4, 3, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 3, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.45236724]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 18 / 20: rule_count/nonrule_count: 1/7------------------------------
+emily baker         : DEBUG: O: [1, 4, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 2]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 4, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 2]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.53022047]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 19 / 20: rule_count/nonrule_count: 2/6------------------------------
+emily baker         : DEBUG: O: [1, 3, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 3, 1, 1]
+emily baker         : DEBUG: P: [0, 3, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.54230511]
+emily baker         : INFO: ------------------------------Trying rule_count_pair 20 / 20: rule_count/nonrule_count: 3/5------------------------------
+emily baker         : DEBUG: O: [1, 3, 1, 0]
+emily baker         : DEBUG: P: [0, 2, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily baker         : DEBUG: [11, 2, 0]
+emily baker         : DEBUG: [89, 12, 0]
+emily baker         : DEBUG: [177, 20, 0]
+emily baker         : DEBUG: [34, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [3, 0, 0]
+emily baker         : DEBUG: [59, 4, 0]
+emily baker         : DEBUG: [287, 20, 0]
+emily baker         : DEBUG: [262, 20, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily baker         : DEBUG: [28]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: emily, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: emily, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: O: [1, 3, 1, 0]
+emily baker         : DEBUG: P: [0, 2, 2, 1]
+emily baker         : WARNING: Remains: 0
+emily baker         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+emily baker         : DEBUG: [9, 2, 0]
+emily baker         : DEBUG: [142, 10, 0]
+emily baker         : DEBUG: [500, 20, 0]
+emily baker         : DEBUG: [421, 20, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [1, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 2, O: [0, 2, 0, 0]
+emily baker         : DEBUG: [23, 0, 0]
+emily baker         : DEBUG: [500, 12, 0]
+emily baker         : DEBUG: [500, 42, 0]
+emily baker         : DEBUG: [500, 158, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [2, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0]
+emily baker         : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+emily baker         : DEBUG: [47]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [500]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: [1]
+emily baker         : DEBUG: [0]
+emily baker         : DEBUG: final:
+emily baker         : DEBUG: name: baker, l_level: 0
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 1
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: name: baker, l_level: 2
+emily baker         : DEBUG: --------------------------------------------------
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+emily baker         : DEBUG: scores: [0.59823082]
+emily baker         : DEBUG: ----------------------------------------------------------------------------------------------------
+emily baker         : DEBUG: Best score achieved: 0.6483639188829639
+emily baker         : DEBUG: Best selected: 1/2
+emily baker         : DEBUG: Rule variations: [{'emiy baker', 'emily bker', 'emil baker', 'emilybaker', 'emly baker', 'emily bakr', 'mily baker', 'emily bake', 'emily baer', 'eily baker', 'emily aker'}]
+emily baker         : DEBUG: Nonrule variations: [{'meuhy yuekr', 'emylu bkere'}, {'emoll bqaer', 'mewwy ibkre'}, {'oehhl beeky', 'eomil bkkir'}, {'emluy bckyr', 'omyih abkre'}, {'ewmil bkkyr', 'hyliy facre'}, {'emwll baggr', 'hmeel abyhr'}, {'owliy fahre', 'emiul bbkir'}, {'eamly bbkar', 'mayyy yiekr'}, {'hwwyy abgyr', 'emelw bbkir'}, {'eymil bauqr', 'eyliw abgre'}, {'emalu biqer', 'hwmhl bhekw'}, {'emmle baygr', 'mealw abkhh'}, {'emloy baycr', 'amoyw heekr'}, {'awliy foekr', 'ewmly bahkr'}, {'emwlo bykwr', 'ynlhy abwhr'}, {'yhliy abkro', 'emulo bukyr'}, {'himwy hoekr', 'eomly baqir'}, {'ainlw hijur', 'emwli bckyr'}, {'emeil bkkkr', 'meiwl fkaey'}, {'emela baqyr', 'meiol fkawr'}, {'emllo bokyr', 'uamiw bsaah'}, {'uehhl hkaew', 'emwlo bacwr'}, {'emylu bawcr', 'yomih bkauh'}, {'meiul yhkre', 'emell baggr'}, {'unwlh fhcir', 'emylo bcoer'}, {'wawil absor', 'emalw bkeur'}, {'wmluh beekw', 'emeli baikr'}, {'moyyy bkaay', 'emihl bykur'}, {'emali baoqr', 'hwyyy bueky'}, {'ynlhy wkaar', 'emmla baukr'}, {'ahmlw yeekr', 'emeil bakri'}, {'hwliy bhcwe', 'emlli baekr'}, {'emwli bbkir', 'maolh ykaeh'}, {'ewmil bahqr', 'aihml fazre'}, {'ewmly bgaer', 'wmlhi abkre'}, {'emylo bckwr', 'wnalh yaekh'}, {'uhowy wajre', 'emull bagwr'}, {'emiel bquer', 'umlih pokre'}, {'emolo bwkar', 'maeil abxur'}, {'aimyy wasre', 'ewmly bwkkr'}, {'meihw vkaur', 'emeil bbkir'}, {'iyhil hahre', 'emalw bckwr'}, {'emwla bbkyr', 'umlih abkow'}, {'emlla bbkkr', 'mehyy fkare'}, {'emlla bekwr', 'moyyy hhkre'}, {'emelo baqqr', 'meylw yasre'}, {'emlay bcoer', 'omeel vawre'}, {'emwll bkuer', 'eohhl abzur'}, {'yimhy fkare', 'eimil bbakr'}, {'emall baacr', 'wamwl abxeh'}, {'eimly bckyr', 'mwhlw hokre'}, {'emlyw bkkyr', 'humol abcyr'}, {'emola bkuer', 'yimlh abxeh'}, {'emwla baicr', 'myhil fajre'}, {'emulw bwqer', 'oomih bkaww'}, {'emlwy bacwr', 'iiyil abghr'}, {'emmli bkuer', 'uimlh pkahr'}, {'ihliy yuekr', 'emull bwqer'}, {'emlay bykyr', 'ehlai abxir'}, {'emalw bkkor', 'wamli fkaur'}, {'emihl baogr', 'umlih abwir'}, {'hmliw fayre', 'emiyl bukwr'}, {'omoih wikre', 'emwli bkere'}, {'emell bkeur', 'iyhil yasre'}, {'emolo bquer', 'amoiw waekw'}, {'emwli bbkar', 'uyliy weekr'}, {'wawil fkawr', 'emmlu baicr'}, {'amoiw abzhr', 'eumly byqer'}, {'emlli bykwr', 'omoih aebkr'}, {'ynliy abxhr', 'emloy bahkr'}, {'amoyh abkwy', 'emmil bwqer'}, {'myyyy yijur', 'emmlw bgaer'}, {'yimyy abeky', 'emela baaqr'}, {'oyliy abqhr', 'email bckwr'}, {'emulu bckur', 'iyail yahre'}, {'emmil bwkwr', 'imowl fhcir'}, {'emelu bwkir', 'ynalh waekw'}, {'emwll bbqer', 'meial abkww'}, {'imlih abgir', 'emelw baagr'}, {'emlay bokwr', 'wnalh hkaeh'}, {'emllw bkkyr', 'meuwy abgyr'}, {'emale bahgr', 'uyiwl abwor'}, {'umewl wyekr', 'emoil bkier'}, {'uuiml paxre', 'emmla bayqr'}, {'meihw ykair', 'emllu bqqer'}, {'emulw bekyr', 'uhiww bsaaw'}, {'eymil baqir', 'awmlw hbkre'}, {'emwll bykyr', 'mehhw biekh'}, {'myhil vaeky', 'eymly bokyr'}, {'eimly baikr', 'oimwy abxir'}, {'hnalh haeky', 'emuli bkkur'}, {'iwyil abkoy', 'eumly bkeor'}, {'iyail pekre', 'emllw bikkr'}, {'emihl bbkur', 'hmlih hukre'}, {'meeel yaqre', 'emuil bkere'}, {'eomil bwkir', 'ueiml pkaeh'}, {'iyliy abkwh', 'emwlw bbkkr'}, {'emlyw bkear', 'ahmiw wkayr'}, {'iyiyl pukre', 'emlyy baeqr'}, {'emall bqqer', 'mhiil pahre'}, {'omloh hajre', 'eumly bckwr'}, {'omewh wiekr', 'emmle bykur'}, {'emwle bakro', 'ymlhw bwhre'}, {'onliy abjor', 'emwle bqaer'}, {'emloy bbakr', 'himwy abkhy'}, {'oamiw abzyr', 'emoil bakre'}, {'eyhhl bxayh', 'eomly biakr'}, {'omeel hokre', 'emala bwkur'}, {'emull bckyr', 'ymlhw waqre'}, {'emala baqor', 'owlih abxew'}, {'aimwy byekh', 'emllw bwkwr'}, {'oyelh abkih', 'emoli baagr'}, {'omhih aebkr', 'emwlw bkeru'}, {'eumly bayqr', 'mhial buwre'}, {'emllw backr', 'mieil abseh'}, {'emyla bagwr', 'owiyh vasre'}, {'emoll bkery', 'oomih bowre'}, {'iamiw yaeky', 'emloy bkier'}, {'myhlw fhcar', 'emala bcoer'}, {'myeil haeky', 'emlli bokyr'}, {'yomih faqre', 'emeli bcuer'}, {'meolw haeky', 'emulo bwkor'}, {'emyla baqwr', 'uhiwh hiekr'}, {'emlle bgaer', 'uwliy wsaar'}, {'ehmly bbkkr', 'amwiw fahre'}, {'eymil bkkwr', 'maoyy hyekr'}, {'emyle bguer', 'iuiml bywre'}, {'emylw bkkir', 'ymlih wacre'}, {'owmih hukre', 'emial bwkwr'}, {'emllw bqier', 'meuwy vekre'}, {'emala bbkwr', 'omewh abkow'}, {'eomil baggr', 'ayoyy wasre'}, {'eymly bykir', 'uimyy abkhe'}, {'emluy bwkur', 'ieiml yijur'}, {'wehhl bkayw', 'eomil bahqr'}, {'uhhwy bsaay', 'emluy bikkr'}, {'emeil bkera', 'omewh wawre'}, {'emwle bahqr', 'mhuil fwkre'}, {'owoyy fwekr', 'emoll beakr'}, {'amyiw wwkre', 'emell bkoer'}, {'emiol bakry', 'molih heekr'}, {'omluh yeekr', 'emoli bekwr'}, {'wmlwh fkare', 'emllw bqeer'}, {'email biakr', 'wawil bkahy'}, {'ewhhl bkahy', 'emiel baecr'}, {'emolw bikkr', 'waiml byhre'}, {'yumol fhcwr', 'emula buakr'}, {'emwll baycr', 'eihhl pyekr'}, {'meiyh fhcew', 'emoll baugr'}, {'emolw bykar', 'ayoyy wacre'}, {'uuiml abshr', 'ewmly bekwr'}, {'meelh paxre', 'email beakr'}, {'iyiyl buekw', 'emiel bkeyr'}, {'oyulh whekr', 'emoil baikr'}, {'emulo bkewr', 'whmhl phekr'}, {'emlyw bqoer', 'hmlih fkahr'}, {'emmli bykyr', 'hmlih vikre'}, {'emola bckir', 'ymeel abgar'}, {'omluh wykre', 'emlwy bauqr'}, {'unwlh vahre', 'emliy bykor'}, {'emmle bkkwr', 'meylh abxhr'}, {'wmlhi pijur', 'emelu bbkor'}, {'maolw abyeh', 'emiwl bqier'}, {'meyyh boyre', 'emwll bgoer'}, {'emmlu byqer', 'mhwil waekh'}, {'hwiyw wukre', 'emlle bagur'}, {'emmle baegr', 'amoiw buwre'}, {'awliy wxayr', 'emmli bykur'}, {'ueiml vsaar', 'emalu bahgr'}, {'emmlu bykkr', 'mieil yekre'}, {'ewliw bkayh', 'emela bcoer'}, {'emllo bkkwr', 'anwlh wokre'}, {'ynalh abwhr', 'emllo beakr'}, {'heyyy abzyr', 'emiol bguer'}, {'emmlw bkeir', 'omehh ahkre'}, {'emley bukwr', 'uhwwy abcre'}, {'hamiw abgar', 'emoil bakra'}, {'emeil bahcr', 'aomih bkauw'}, {'mhyil abseh', 'emlla baicr'}, {'ewmly baikr', 'mewhy abgyr'}, {'womlh abkuw', 'emial baocr'}, {'meywy yaeky', 'eimly bakra'}, {'emoll bokyr', 'meolw pykre'}, {'uimwl fiekr', 'emelu bkear'}, {'emyle bbkkr', 'mwyyy vkaor'}, {'emalo bqeer', 'whmhl bijuy'}, {'ehmly bbkur', 'mehlw abzor'}, {'hehlw fazre', 'emoil bykwr'}, {'emlyw bokkr', 'meylh fhkre'}, {'emeli bqier', 'mehww ibjur'}, {'eomly bkaer', 'meiyl vwkre'}, {'emmli boqer', 'muyyy abcur'}, {'ewmil boqer', 'iuyil bsaaw'}, {'emiel bakre', 'amoyh bowre'}, {'emmlo baakr', 'omeih boeky'}, {'mhail pazre', 'email baqur'}, {'emlwy bykwr', 'ameiw fajre'}, {'emulw bwkir', 'eyhhl yaxre'}, {'emmla baecr', 'humol abgur'}, {'ehmly byqer', 'mewyy bsaah'}, {'emiwl byqer', 'mahlw whcre'}, {'waiml yekre', 'emall buakr'}, {'emolo bwkur', 'ehwhl hikre'}, {'emule bacwr', 'aimhy fijur'}, {'emmlu bbkir', 'iyyil bhekw'}, {'meyyy fkayr', 'emwle bwkkr'}, {'emule biakr', 'omehh abqir'}, {'wuiml bhche', 'eamly bukwr'}, {'uimlh vikre', 'emmle baykr'}, {'mayyy obkre', 'emllw baocr'}, {'emoil bikwr', 'waiml abhre'}, {'ynliy pkaey', 'emwle bbqer'}, {'emllw bckur', 'meehy abwwr'}, {'emuli bbqer', 'ehlei yacre'}, {'mhhil hijur', 'emolo baygr'}, {'aymlw bhekw', 'emlle bawcr'}, {'aihml aebkr', 'eymil baqir'}, {'whliy vhekr', 'emylo bcoer'}, {'wamwl wokre', 'emale bkkyr'}, {'eumly bykir', 'yyliy ykayr'}, {'whliy abkwh', 'emolo bkeru'}, {'wmlhi hsaar', 'eomly bahqr'}, {'eimly baqur', 'himwy abkhh'}, {'oyliy haeky', 'emlyy baaqr'}, {'meuwy abweh', 'ewmly boqer'}, {'emiol bkewr', 'huiml waqre'}, {'wayil abzir', 'emiul bkkor'}, {'uumol pkair', 'emeli bykor'}, {'emolo bykur', 'ewlih buekw'}, {'ywlhy vazre', 'emmlu bkoer'}, {'wehhl vxayr', 'emlyy baagr'}, {'mueil apkre', 'eymil bquer'}, {'omoih fxayr', 'emyla baakr'}, {'iwyil hikre', 'emyli bawkr'}, {'emlay bykyr', 'ynlhy bkaah'}, {'emela bqeer', 'ehwhl byhre'}, {'eymly baogr', 'womlw absir'}, {'ewmil bgaer', 'iyuil fkaeh'}, {'omloh abghr', 'emeli baakr'}, {'emele bcaer', 'heiml awkre'}, {'ewmly baukr', 'myhlw absar'}, {'emolu bawcr', 'iyiwl abgar'}, {'emliy bbkir', 'ymliw pykre'}, {'imliw avkre', 'emwll baugr'}, {'mhiel abzey', 'emulw baqqr'}, {'amyiw absyr', 'emala baqir'}, {'wamel hukre', 'emull bkerw'}, {'mehyw abywr', 'emylo bkuer'}, {'owyyy hbkre', 'emyll baygr'}, {'imawl bkahy', 'emihl bcaer'}, {'emali bagur', 'womih wikre'}, {'eamil bukkr', 'meeel ykare'}, {'emala baoqr', 'mehyy abwre'}, {'ammiw hkaor', 'emulu baikr'}, {'emwlo baqar', 'wmlwh hahre'}, {'emmlw bkaer', 'umewl abkye'}, {'emwll bckur', 'miiwl paekw'}, {'owmih ykayr', 'emmil bawkr'}, {'emulu bbkar', 'meylh bwekw'}, {'wmhih waekw', 'emyle bagwr'}, {'uimyy abkrw', 'emala bckur'}, {'eamil bbkur', 'yomih yokre'}, {'emmlu bokwr', 'wimwy fhekr'}, {'owelh puekr', 'emliy beqer'}, {'emole bbakr', 'himyy bkaih'}, {'emyla baegr', 'ameiw abzir'}, {'hwyyy vijur', 'emeil bkkkr'}, {'mwhlw avkre', 'emloy byqer'}, {'emelo bawqr', 'iamlw pykre'}, {'emola baegr', 'meelw bieky'}, {'emelu baqyr', 'aihml pwkre'}, {'omuhh buyre', 'emyll bckor'}, {'emmil boakr', 'hehlw fagre'}, {'emllu bawqr', 'yimlw wwekr'}, {'eumly bbqer', 'omoih pykre'}, {'emmlu bukwr', 'ohelh abjyr'}, {'weiml fekre', 'emola bkier'}, {'emell beqer', 'iumol byekh'}, {'emula bckir', 'aomiw fkair'}, {'meiyh vawre', 'emyle baqor'}, {'emlla beakr', 'ahliy haekw'}, {'emela bkuer', 'ywlhy hkare'}, {'emell bykyr', 'maolw abzey'}, {'amhiw wkayr', 'emela baagr'}, {'emliy baukr', 'oimyy vaeky'}, {'eyeel hkair', 'emylw bakrw'}, {'emmli bawcr', 'iuyil abqeh'}, {'amyiw pijur', 'emwlu bkeri'}, {'emule bkeri', 'iwliy hkare'}, {'emlla bkkar', 'meiol abqur'}, {'uwiwl pajre', 'emlyw bquer'}, {'eimww abcyr', 'emulw bokkr'}, {'emmlo bgoer', 'meewy abjwr'}, {'uuiml vacre', 'ewmly bcuer'}, {'emial bikwr', 'ainlw fhcar'}, {'ehmly baqar', 'owyiy hsaar'}, {'emulw bakre', 'enwwh abgyr'}, {'emiol backr', 'wmwih abxeh'}, {'emlyy bwkyr', 'mewwy wahre'}, {'oweyy pagre', 'emmlu bkuer'}, {'eymil bwkir', 'mewlw fkare'}, {'ewmly baigr', 'wanil abhwr'}, {'uuiml abhey', 'emmli baqur'}, {'eumil bkeir', 'mhhil abyor'}, {'muhlw fkayr', 'emlyw bkewr'}, {'ohmih fazre', 'emiyl bahcr'}, {'emeli bwkyr', 'meolw abzre'}, {'aomlw wacre', 'emlwy bbqer'}, {'emley bykwr', 'yimwy abjir'}, {'emlla bykur', 'umywl fhcar'}, {'maohy abyur', 'eamly bkewr'}, {'emale baaqr', 'ueiml abkiy'}, {'iyiul abhre', 'emole baokr'}, {'hmyhl yawre', 'eamly bykor'}, {'emmli buakr', 'muiwl fkair'}, {'emllu bkier', 'owliy pekre'}, {'emlla bahkr', 'meowy abkyw'}, {'meulw weekr', 'emwle baukr'}, {'emwll baagr', 'hwoyy abqar'}, {'amoyh boeky', 'emmla bbakr'}, {'hmhwl abkra', 'emyla bkero'}, {'uimhy abxew', 'emwlw bwkar'}, {'iamlw abqur', 'emyle baggr'}, {'emale bikkr', 'mhial ebkre'}, {'emyli bekkr', 'umliw haekh'}, {'emllo bkeor', 'omlah obkre'}, {'meyhy abxar', 'emolw beqer'}, {'ehmly bkier', 'himyy phekr'}, {'emale bekkr', 'eimwh bxayw'}, {'emloy beqer', 'hmyhl hkahr'}, {'umlih yacre', 'emali bwkwr'}, {'eamly buqer', 'amyiw fkaey'}, {'aomih feekr', 'emulw beqer'}, {'emlwy baiqr', 'omhih abyhr'}, {'emmil bqaer', 'wamul wkair'}, {'meyhy hkaor', 'emluy bbkyr'}, {'wimlw ykaur', 'eamly bukyr'}, {'iyhil vkayr', 'eomly bukyr'}, {'waiml yykre', 'emihl bwkor'}, {'emlyy bkkkr', 'eyhhl abkuh'}, {'anoyy hkaey', 'emoll bykwr'}, {'ommih whcre', 'emylu bakre'}, {'umlih pkayr', 'emolw baakr'}, {'oiyil pwkre', 'emylw bkeir'}, {'eymil baogr', 'meiol yxayr'}, {'emial bawgr', 'mehwy vkaar'}, {'emula bbkkr', 'meuwy pykre'}, {'oehhl bkawh', 'emial bykar'}, {'whmhl wkayr', 'emlle biakr'}, {'emoil bkier', 'uhywy abzeh'}, {'emihl bagur', 'enahh bywre'}, {'emluy bawkr', 'uwliy hazre'}, {'muyyy wacre', 'emoli baeqr'}, {'emala bckur', 'yumol yiekr'}, {'emulw bkeor', 'wimwy peekr'}, {'wnwlh hahre', 'emlwy baqur'}, {'eimwh fkaew', 'eimly bkkur'}, {'emlle bqeer', 'uhawy vkaey'}, {'wmlih paqre', 'emley bkier'}, {'uhiwl yyekr', 'emmlu bkier'}, {'enahh abkuh', 'emule baqwr'}, {'himhy abyur', 'eimil bauqr'}, {'mhiul vkaew', 'emola bkeer'}, {'eweel hhekr', 'emolo bkeur'}, {'emlay bokkr', 'mheil wawre'}, {'emlyw bakry', 'amoyw foekr'}, {'emali bgoer', 'hmyhl abkry'}, {'emylu bckar', 'oomih bkaay'}, {'emyli bbqer', 'uhawy wacre'}, {'owmih abjwr', 'emyli bgaer'}, {'emola baugr', 'iiyil wasre'}, {'aimwy hacre', 'eumly bahqr'}, {'emwlu bkuer', 'oimwy phcre'}, {'ymeel wkaeh', 'eymil bwkyr'}, {'emiil bukkr', 'maolw pokre'}, {'hwiyw ykaor', 'emela bykir'}, {'emalw bcaer', 'womwy wkaor'}, {'imuwl pazre', 'emale bykyr'}, {'emule bkkar', 'iamlw woekr'}, {'emiyl bakre', 'owyyy abxeh'}, {'uhhwy abxor', 'emwli bykwr'}, {'meiyl wwkre', 'email baakr'}, {'emwlw bkkur', 'iyiel abwwr'}, {'oiyil buwre', 'emela bkeer'}, {'hewli ykaeh', 'emeil bahcr'}, {'emiwl bckyr', 'mealw vaekw'}, {'meywy wkaor', 'eomil bahgr'}, {'uimwl wajre', 'eomly bkeur'}, {'wyliy wkawr', 'emlyy bwkor'}, {'emoll bkeer', 'omlhi pasre'}, {'emiol bkier', 'awmiw abzwr'}, {'emwli bacwr', 'meihl ebkre'}, {'emlle bykur', 'ahoyy abqir'}, {'wamwl fkaor', 'emlyy baocr'}, {'wwliy obkre', 'emwlu baucr'}, {'emylw bawcr', 'owuyy abkwh'}, {'hhliy bhcwe', 'emoll baakr'}, {'emulu baogr', 'owoyy waekw'}, {'iiyil abwur', 'emyla bqaer'}, {'eumil baikr', 'aimlh whcre'}, {'hwyyy boekh', 'emolw bcoer'}, {'analh pagre', 'emiyl bwkar'}, {'emwlu baagr', 'awoyy whkre'}, {'emylo bkeer', 'uimlh hajre'}, {'omuwh yahre', 'emola bckwr'}, {'aymlw fasre', 'emwli baygr'}, {'emlay bquer', 'wnalh ywkre'}, {'yeiml ykaey', 'email bykar'}, {'unliy abxyr', 'emloy bkkir'}, {'wimlw hikre', 'emall bukwr'}, {'imowl hagre', 'eamil baakr'}, {'emule bekwr', 'aihlw byhre'}, {'eimil bkkyr', 'wahil fikre'}, {'eomil bahqr', 'iyyil fwcar'}, {'emyle bckwr', 'wnwlh abgwr'}, {'emlli bakru', 'mewyy fhekr'}, {'iamiw boyre', 'emyla bbkir'}, {'umawl vekre', 'emwle bguer'}, {'emali baogr', 'womlh vawre'}, {'inliy vikre', 'emwlw bkero'}, {'uhewy abzeh', 'emyll baoqr'}, {'emulw bykkr', 'uimwl faekh'}, {'umywl abwur', 'emelu baoqr'}, {'emelu bwkur', 'oyliy ywkre'}, {'oiyil wawre', 'emulo bahgr'}, {'muiwl ykair', 'emwlo bkkar'}, {'enwwh abwew', 'emolo baugr'}, {'omeel feekr', 'eimil bwkwr'}, {'meolh abqar', 'emlli bykur'}, {'maeil fwcor', 'emlle bykyr'}, {'emlyw bauqr', 'wmlhh hykre'}, {'eamly baqar', 'anoyy wkaor'}, {'mhiyl bwwre', 'emall bakry'}, {'ehhhl yyekr', 'emala bckyr'}, {'emule bakre', 'onliy fsaar'}, {'emelo bkear', 'iyliy puekr'}, {'emuil bkkyr', 'huiml abshr'}, {'womhy psaar', 'emwli biakr'}, {'hwayy fiekr', 'emola bykur'}, {'emmil bkery', 'mwhil vhekr'}, {'emolw bakra', 'meyyh abshr'}, {'womih pwekr', 'emwle bkoer'}, {'eyhhl hkaar', 'eimil bqeer'}, {'eymly bkere', 'onliy abkry'}, {'womyy wekre', 'emula baiqr'}, {'emylo bckar', 'myyyy abzew'}, {'mehhy bweky', 'emelw baokr'}, {'meulh absyr', 'emwlw bbkkr'}, {'wamal abjor', 'emley beakr'}, {'eimly bawcr', 'ehlih vykre'}, {'weyyy pkahr', 'ehmly bekkr'}, {'emlle bakri', 'wmlwh buhre'}, {'emwlw bkewr', 'eahhl buhre'}, {'eylih yaekh', 'emeil bkaer'}, {'oomih abcre', 'emelu bukyr'}, {'uhowy hhcre', 'emalo bkear'}, {'eamly bcuer', 'mealw yayre'}, {'emiol baoqr', 'omloh wkaar'}, {'emllo baugr', 'mhwil bhekh'}, {'emala bagor', 'moelh vijur'}, {'emwlw bkeur', 'amoiw abkoy'}, {'eomly bikwr', 'owiyh bewre'}, {'aomiw fazre', 'eumil bguer'}, {'meowy abhar', 'emalo bkeri'}, {'emale bikwr', 'ayoyy abzew'}, {'owiyw abjeh', 'emylw bykur'}, {'aimlw hukre', 'emale bkkur'}, {'emwll bikyr', 'uwiwl abkih'}, {'email bbkar', 'oylih bkauy'}, {'wmyih bxayy', 'emell bbkir'}, {'eimly bkkar', 'uyiwl vhkre'}, {'emlli baqar', 'yimlh abkwh'}, {'mehyy ykaor', 'emule boqer'}, {'emmli bkeir', 'oumol wekre'}, {'emelo bckor', 'aimlh yuekr'}, {'iumol vhekr', 'emmlu baikr'}, {'emmil bckir', 'wamwl bxayw'}, {'eomil baqqr', 'ohliy pekre'}, {'ymeel peekr', 'emiul bukyr'}, {'meuwy foekr', 'emlle bayqr'}, {'iimwl abqyr', 'eimly baqur'}, {'wmhih wxayr', 'emull bkeir'}, {'eamil bkera', 'uimhy abcor'}, {'email bcaer', 'ynliy abyur'}, {'iumol abqew', 'emiyl bqaer'}, {'emmlo bkery', 'mhihl abkhy'}, {'emulu beakr', 'mehww abekw'}, {'hmliw pasre', 'emlyy baakr'}, {'maohy viekr', 'emliy bkerw'}, {'emmla baocr', 'mealh fagre'}, {'ehmil bahcr', 'womyy abhwr'}, {'mwyyy awkre', 'emlyw bayqr'}, {'yeyyy obkre', 'emial bkeer'}, {'emyla baaqr', 'uhiwh bhekh'}, {'emial baugr', 'ihiwl wacre'}, {'emole bekwr', 'iniwl buhre'}, {'eumil bagwr', 'meylw paekw'}, {'emluy baagr', 'neyyy boeky'}, {'emmlu bqaer', 'iyiyl fkaor'}, {'mhiol vagre', 'emalo baqwr'}, {'emeli bykar', 'mwhlw abjyr'}, {'emeil bckar', 'oimyy abyey'}, {'emeil byqer', 'ihliy abjew'}, {'emluy bwkwr', 'uamiw hajre'}, {'nealh abqyr', 'emmlu bkere'}, {'emuli bokwr', 'meolh hiekr'}, {'emalu bbkur', 'wmluh abxwr'}, {'anoyy pkaor', 'emlla bbkor'}, {'hiwyy ykair', 'emele bawkr'}, {'ayliy vawre', 'ewmly bkeor'}, {'owlih yaekh', 'emeil bayqr'}, {'emmla baoqr', 'ammiw hawre'}, {'email baoqr', 'oylih abheh'}, {'wmwih hekre', 'emola bawkr'}, {'aumlw abkye', 'emmil bwkur'}, {'hiyil abekh', 'emlay bawgr'}, {'emiul bkkkr', 'omewh aebkr'}, {'yhliy abxhr', 'emmle baiqr'}, {'euhhl abqre', 'emial bbkur'}, {'yimlw abjeh', 'eymly bwkor'}, {'aimhy wajre', 'emull biqer'}, {'hwhyy abwir', 'emele bkkwr'}, {'ehmil baqir', 'mhwil wkair'}, {'imewl yhcre', 'emalo baycr'}, {'oumih bkaah', 'emyli bagwr'}, {'emiil bukyr', 'aomih abgeh'}, {'oumol haekw', 'emlyy bkeyr'}, {'emley bkeri', 'himlh ykahr'}, {'meiyl pkahr', 'emlli bkkar'}, {'omuyh haekh', 'emwla baqor'}, {'emlli bagor', 'hehhl hkawr'}, {'emlle bekyr', 'oumih fajre'}, {'emulu baqar', 'meuyy waeky'}, {'emali bokyr', 'meihw vwekr'}, {'emylo bbkkr', 'homih veekr'}, {'meywy abcar', 'emolw baeqr'}, {'emelu bbkir', 'omlwh awkre'}, {'iuyil wijur', 'emlyy baqur'}, {'amoyh abhey', 'emmlo bykyr'}, {'emllu bikkr', 'mehlh fkaeh'}, {'iimyy fkahr', 'emihl bakre'}, {'emali bakrw', 'uimhy abkhy'}, {'emale bkkkr', 'wamli wijur'}, {'emwle bakru', 'iyliy abzir'}, {'emiil bkaer', 'owmih abwur'}, {'awliy abhor', 'emloy bykwr'}, {'emley bbkor', 'oehhl pkahr'}, {'emoll bukwr', 'wamol pacre'}, {'oumol fkaar', 'emylo bawqr'}, {'emeil beqer', 'omlah boeky'}, {'meiww pwkre', 'emyle bwkur'}, {'email bbkur', 'iimwl abqey'}, {'meiww wawre', 'eimil baigr'}, {'emlay bqier', 'hwyiy abheh'}, {'emele bckar', 'wmeel paekh'}, {'mewwy fhcey', 'emoll baeqr'}, {'aimhy vkaor', 'emmil bokyr'}, {'emlyw baqyr', 'himlw bhekw'}, {'omluh pkair', 'emliy baicr'}, {'omuwh wajre', 'emlle baocr'}, {'hyliy abekw', 'emmli bkoer'}, {'oiwyy biyre', 'emmli bkoer'}, {'moelh beyre', 'emluy bagar'}, {'wmlah bkaoh', 'emall bykyr'}, {'onelh fhcyr', 'emeli bykkr'}, {'emllw bkery', 'wmleh avkre'}, {'anliy bkauh', 'emley bkier'}, {'meylh abzir', 'emyli bkkir'}, {'emall bkera', 'hewli byekw'}, {'emmla bauqr', 'amoiw pwekr'}, {'emlyw buakr', 'mehlh abwre'}, {'iwiwl fwkre', 'emlla bcuer'}, {'emeli bokyr', 'imuwl abyor'}, {'emeli bakri', 'meyhy pkair'}, {'uwliy vijur', 'emiel bquer'}, {'eimwh abqew', 'emlli bkere'}, {'eimwh woekr', 'emmlw bqeer'}, {'emyla bbkar', 'whmhl wykre'}, {'mwyyy pijur', 'emley bquer'}, {'omuhh vijur', 'emalw bqaer'}, {'onalh yikre', 'emiol bkkur'}, {'emull bckwr', 'ymlih hikre'}, {'mhwil fiekr', 'emiel bakru'}, {'mehhw bhekw', 'eumil baeqr'}, {'eomly bykyr', 'umewl pkahr'}, {'ouiml ibkre', 'emali baycr'}, {'womih abgar', 'emolu bkeur'}, {'emula baukr', 'mehhy hkaar'}, {'yylhy hekre', 'emwlo buqer'}, {'emlyw baygr', 'owiyh yykre'}, {'wamyl ykaar', 'emalw buakr'}, {'emmle bagar', 'wehlw wkaey'}, {'inliy wawre', 'emolw boakr'}, {'emwlu bagwr', 'mewlh bkayw'}, {'inwlh abhur', 'emial bkoer'}, {'emlla bkoer', 'inliy bhekw'}, {'mehhw abqre', 'emihl bwkor'}, {'nehlw abkrh', 'emulw bbakr'}, {'ynwlh wekre', 'emlyw bcaer'}, {'wmwih fkaew', 'emliy bckor'}, {'emiwl bykkr', 'iyoil peekr'}, {'emuil bwkar', 'uihwy abyeh'}, {'emale bakri', 'umeel hazre'}, {'oehhl yaeky', 'emulw bwkwr'}, {'emale baggr', 'meahy abqey'}, {'emole baqyr', 'amoyw fhecr'}, {'emylw bwkyr', 'himlw abkre'}, {'ommih wahre', 'emula baqor'}, {'oimhy abhre', 'emelu bcoer'}, {'emiol bkery', 'hnliy bkaww'}, {'wmluh hahre', 'emmil byqer'}, {'emoil bkewr', 'oumol abgwr'}, {'enwwh abqwr', 'emiel bahcr'}, {'emwla bkeor', 'oiyil abzur'}, {'hwuyy abweh', 'emala bykor'}, {'ymlhh whekr', 'emwle bykir'}, {'emala bykwr', 'mhiyl wuekr'}, {'emwlw bbkar', 'amwiw pkare'}, {'hwmhl fwkre', 'eamly bokkr'}, {'emmli bqoer', 'oamih bxayh'}, {'emmla bwkor', 'yeiml pkahr'}, {'emell bagwr', 'anliy wkaor'}, {'emmla baagr', 'mehyw ykair'}, {'emlwy bawcr', 'owliy abzar'}, {'emalw bkewr', 'iamiw bijuy'}, {'emele baqor', 'wumol paqre'}, {'mieil abkoh', 'emelu bokyr'}, {'mealh ykahr', 'emwll bkkwr'}, {'emylo bckwr', 'myeyy bkaww'}, {'nealh bkaih', 'emmlu bkeir'}, {'owulh abkoy', 'eymly bgaer'}, {'emmil bkeer', 'imeel absre'}, {'emulu bokyr', 'wahil wikre'}, {'hiwyy abkyh', 'eimly bakro'}, {'iiyil vaeky', 'emalu bwkir'}, {'mieil pkaew', 'emlla bukyr'}, {'weyyy hayre', 'ehmly baegr'}, {'eumly bwkkr', 'wylih abhre'}, {'oumol fajre', 'emola bkear'}, {'ahmlw fhcyr', 'eymil bckyr'}, {'emole bguer', 'muewl bhche'}, {'ewmil bguer', 'mehyy bkaiw'}, {'eimil bykur', 'inwlh pykre'}, {'emuil bkuer', 'meawy hkayr'}, {'eamil bacwr', 'uhowy abhew'}, {'womhy ykaeh', 'emylo bkkyr'}, {'iniwl vyekr', 'emiul bakre'}, {'emell baqir', 'aimww abqir'}, {'wmliw afkre', 'emolu bqeer'}, {'emulo baqir', 'meulw haeky'}, {'emiel bbkar', 'uhewy pkawr'}, {'emalw bwkor', 'meelh abgre'}, {'emyla bcoer', 'amyiw bkaoh'}, {'eimly baigr', 'hhmhl fsaar'}, {'emlyy bekyr', 'iyoil abshr'}, {'iomih abxyr', 'ehmil bakrw'}, {'wehhl yijur', 'emihl bkeyr'}, {'yehlw byekw', 'emloy bbkar'}, {'emlli bwkkr', 'amoyh beekh'}, {'emoil bokkr', 'neyyy fykre'}, {'ymlih apkre', 'emele bahcr'}, {'emyla bakra', 'omuwh hayre'}, {'muhlw fazre', 'emale bckwr'}, {'emolw baucr', 'iomih foekr'}, {'emoil baqyr', 'hmeel vkawr'}, {'mueil abhwr', 'emihl bakre'}, {'mehyy wawre', 'emele boakr'}, {'eumly bkear', 'humol bhcwe'}, {'onelh bkaaw', 'eumil bikkr'}, {'emulw bwkir', 'oimih abohr'}, {'owliy piekr', 'emlwy bagur'}, {'emule baqur', 'iyiyl abcey'}, {'hnalh ykaar', 'emlli bekwr'}, {'uhwwy vxayr', 'eumil bykyr'}, {'iyuil abqyr', 'emwle baaqr'}, {'emale bkeyr', 'eylih vaekw'}, {'aiyil abhhr', 'emelo baekr'}, {'emliy bykur', 'omlih vacre'}, {'ewmly bukkr', 'yuiml abzir'}, {'wwlih fwcor', 'emuil baecr'}, {'umeel vkaey', 'eymil bahkr'}, {'wawil fsaar', 'emiwl bakri'}, {'emulw bawkr', 'owlih woekr'}, {'mehhw abkuh', 'emmli bahkr'}, {'eehhl bwhre', 'emial bakri'}, {'emial baqqr', 'meyyh fwcir'}, {'emllo bkewr', 'ehlih hhkre'}, {'emelw baogr', 'hnalh hukre'}, {'umywl fhceh', 'emwli bkkwr'}, {'emiwl bekwr', 'mewlh yasre'}, {'emall bqier', 'yamiw pyekr'}, {'umeel hukre', 'emela baqor'}, {'emluy bwkyr', 'wiyil vkaar'}, {'meylw hhekr', 'emell baqor'}, {'meiul feekr', 'emwlo baykr'}, {'emiwl bckor', 'inliy wacre'}, {'emiwl baecr', 'omlah abjyr'}, {'himlh buekh', 'eumly bkere'}, {'emmlu bcuer', 'himyy vkair'}, {'emyll beakr', 'umawl abkiw'}, {'meiel vukre', 'emela bkkor'}, {'emwll bekwr', 'mhiwl hyekr'}, {'ehmil bykwr', 'ynwlh fekre'}, {'emuil bykir', 'hehlw abcyr'}, {'heyyy abyre', 'emllu bbkur'}, {'emmlo bbkwr', 'wnlih psaar'}, {'yimwy hhkre', 'eymly bkewr'}, {'ehmly bacwr', 'ihiwl veekr'}, {'emiil bkkwr', 'nealh abyew'}, {'meeel vagre', 'emule baqor'}, {'oimhy hhkre', 'emluy baucr'}, {'emole bguer', 'meahy ubkre'}, {'emlla buqer', 'meowy phekr'}, {'ewmly bbakr', 'owlih abkyy'}, {'emeli bahkr', 'moulh abxhr'}, {'eimly bkeri', 'uimyy ahkre'}, {'emllo bkeru', 'auiml abgwr'}, {'hwliy vaxre', 'eimil bbkkr'}, {'eimly bagwr', 'umeel yykre'}, {'waiml wxayr', 'emall bikwr'}, {'mheil bkayw', 'emoli bykar'}, {'eimil bcaer', 'imewl abjre'}, {'emulw bwqer', 'meywy vajre'}, {'wmleh absyr', 'emlle backr'}, {'emuil bykyr', 'mhail fyekr'}, {'emmlu baqar', 'meehy yyekr'}, {'mhhil absey', 'emula bbkor'}, {'eomil bkery', 'imowl biwre'}, {'emolu bbkwr', 'iyyil afkre'}, {'ihyil abyyr', 'emelo bakro'}, {'yuiml yiekr', 'ewmly bkear'}, {'ieiml abxwr', 'emlyy boqer'}, {'emula bbkir', 'ohlih bsaay'}, {'iyail fkaey', 'eimil bcaer'}, {'eimhw abxor', 'emoll bqeer'}, {'omlhh bowre', 'emalu baykr'}, {'owulh abkuy', 'emoli biqer'}, {'wmluh ykaur', 'emulw bkeru'}, {'emmli bahcr', 'waiml bkaww'}, {'emmla baikr', 'mhiwl vawre'}, {'eamly bqqer', 'iyiwl fhecr'}, {'emele bagur', 'womlw wwekr'}, {'wmlwh abgir', 'emmla bagur'}, {'emylu bwkyr', 'oimyy vijur'}, {'mehwy hkawr', 'emlyy bekwr'}, {'emllw bbqer', 'eahhl bhekw'}, {'eamly bkier', 'imwwl fuekr'}, {'emihl baegr', 'wamwl buekw'}, {'hmwhl pawre', 'emmlw backr'}, {'uimwl vaekw', 'eimil bokwr'}, {'emley bakrw', 'anwlh bkauw'}, {'emole baeqr', 'enwwh bxayh'}, {'meeel abcey', 'emala bahkr'}, {'emwlu bykwr', 'oumih abzir'}, {'ymliw bkaiy', 'emylw baugr'}, {'emuli bkeir', 'omaih vikre'}, {'emylw bkkar', 'nealh wkair'}, {'emalo bkkkr', 'ieiml bhhre'}, {'emoli bakre', 'eahhl hyekr'}, {'emylw bakry', 'omluh boyre'}, {'uiyil hkaeh', 'emwll backr'}, {'emwlw bukwr', 'mhial abyor'}, {'omaih bewre', 'emwla bukkr'}, {'unliy wsaar', 'emwll bakry'}, {'owuyy wwekr', 'eimil baocr'}, {'iumol yhekr', 'emoli bikyr'}, {'eylih boekh', 'emalo bakrw'}, {'mehyy yikre', 'eamil bbkar'}, {'enwhh vawre', 'emiul bikyr'}, {'ohlih pikre', 'emiol bykur'}, {'emylw bagor', 'wumol beekh'}, {'emala bakrw', 'ymlhw abzwr'}, {'mehhw wawre', 'emlli buakr'}, {'uhhwy hazre', 'emllu bkeur'}, {'huiml bheky', 'emwlw bbkyr'}, {'maoyy abkow', 'emmil baecr'}, {'meiyh buhre', 'emlay bykir'}, {'ewmly baoqr', 'wamul absur'}, {'emihl bekwr', 'meyyw vkahr'}, {'emloy bacwr', 'molih obkre'}, {'homih abwyr', 'emolo bahcr'}, {'neyyy wkare', 'emiyl bqaer'}, {'hehlw yajre', 'emalo bukwr'}, {'womyy abkri', 'emulo bahkr'}, {'oamih waeky', 'emolu bkkar'}, {'emwla bahgr', 'ehyhl abjir'}, {'mehyw pasre', 'emele biakr'}, {'emoll bwkar', 'hnalh bkauh'}, {'emyla bykor', 'meiyh biwre'}, {'emylu bykir', 'owelh abqhr'}, {'ewmly bukwr', 'ahmlw abgyr'}, {'emiil bckir', 'hwiyh hkare'}, {'hwmhl vazre', 'emlyw baqor'}, {'emylu baggr', 'ahoyy paqre'}, {'ehhyl awkre', 'emmla bekyr'}, {'oumol phkre', 'emmlw bbkor'}, {'emyll bykyr', 'imywl absyr'}, {'iyial yasre', 'emllu baqwr'}, {'ahmlw bhyre', 'emali bauqr'}, {'eimly bagwr', 'wnliy vaxre'}, {'wamal fhcre', 'email bakrw'}, {'emuli bckor', 'meiyh pagre'}, {'meylw abhyr', 'emllo bquer'}, {'uomih hagre', 'emolo bkkur'}, {'emllu bahqr', 'mehlh peekr'}, {'emoli bkkar', 'nehlw fagre'}, {'wmluh waekh', 'emola bahcr'}, {'emwlo bbqer', 'ehwhl hbkre'}, {'emluy baecr', 'eimhh bwekh'}, {'yimyy abkiw', 'emull boakr'}, {'emelw baqyr', 'omyih abkhy'}, {'emylw bykir', 'aimiw apkre'}, {'emelo bikkr', 'oyelh pkaor'}, {'eamil bagar', 'eheel hxayr'}, {'imliw bewre', 'eumil baicr'}, {'oumih vhkre', 'emyll baqar'}, {'eyliw hkare', 'emelw bwkyr'}, {'emlay bgaer', 'meuhy buwre'}, {'emmlw bwkyr', 'omewh wijur'}, {'emiol bekyr', 'eumyi yaxre'}, {'nealh abcir', 'eymly boakr'}, {'emele bkeir', 'yiyil hijur'}, {'emelu bqoer', 'womyy bheky'}, {'emiil bckor', 'eyhhl byekh'}, {'emule bahkr', 'ainlw viekr'}, {'imlih wawre', 'emlay bbkir'}, {'iyiwl vkaew', 'emeli bawcr'}, {'omuhh vokre', 'emmli bahgr'}, {'oyelh abkri', 'emola bkeru'}, {'moulh abkww', 'emiel bwqer'}, {'uimwl abqre', 'emmil baaqr'}, {'eymly bahkr', 'meahy abkwh'}, {'mewwy wkair', 'emuli bykwr'}, {'ahliy abqir', 'eamil bcoer'}, {'emwlu bcaer', 'ioyil abkye'}, {'emale baiqr', 'uyliy fkahr'}, {'emoil baagr', 'owiyh fkayr'}, {'eyliw abekw', 'emluy bwkyr'}, {'ohelh abhhr', 'emulo bkeur'}, {'eomil baggr', 'umhwl fhcre'}, {'emylw bykor', 'imliw phkre'}, {'mewyy yokre', 'emola bqqer'}, {'ehmil baucr', 'newlh abkaw'}, {'emalo boqer', 'hmliw wkare'}, {'emolo bwkar', 'owwyy wkaew'}, {'emoli bwkur', 'mueil bkaih'}, {'emala bukkr', 'mehlh fkawr'}, {'unwlh hhcre', 'emelw baeqr'}, {'yehlw whekr', 'emlay biakr'}, {'emylo buakr', 'oamiw abyor'}, {'meolw abgew', 'emyle bukwr'}, {'omuih beekh', 'emylo buqer'}, {'emiel bwkur', 'ehhyl abwir'}, {'omeih wkaur', 'eomly baugr'}, {'heyyy vasre', 'emula bbqer'}, {'emley bikwr', 'aimlw hykre'}, {'oimyy bwhre', 'emwlo bqqer'}, {'auiml abxwr', 'emyll baqar'}, {'iyial vaekh', 'emmil bqier'}, {'emwla bckir', 'meelw wagre'}, {'meyyw yayre', 'emull baqor'}, {'hwoyy vazre', 'emylo bgoer'}, {'emwlu baoqr', 'uuiml wukre'}, {'emlyw bkkyr', 'eihhl yekre'}, {'emmlu baigr', 'oimhy bkaoh'}, {'emula baicr', 'iamlw absur'}, {'wehhl abkra', 'emluy boqer'}, {'emlwy baaqr', 'iimyy abkuw'}, {'emule baekr', 'wayil wxayr'}, {'uhowy yhekr', 'emwlu bkier'}, {'emoll bckwr', 'hmhwl yaekw'}, {'emloy boakr', 'wehlw pkair'}, {'emelo baucr', 'oimlh hhekr'}, {'emoli bikyr', 'wnalh waekw'}, {'emoll bawgr', 'myhlw bxayh'}, {'eumil bauqr', 'aimlh byhre'}, {'emllu bkeor', 'eohhl yxayr'}, {'emeil bikwr', 'wmlwh vkair'}, {'eomil bqoer', 'womwy yawre'}, {'eamil bakre', 'wimwy ebkre'}, {'emyll bbkwr', 'wamli abgur'}, {'wmeel abwar', 'emmlo bauqr'}, {'emial bkuer', 'ymeel abqwr'}, {'emlla bayqr', 'hymhl abzor'}, {'ehyhl hhekr', 'eumly bkkwr'}, {'eimil bekyr', 'hwoyy hbkre'}, {'emele bwkur', 'mhail hhekr'}, {'umowl bieky', 'emulu bcoer'}, {'onlih abjhr', 'eymil bcaer'}, {'yiyil bkayy', 'emulo bokwr'}, {'uiyil wazre', 'emalo bwkwr'}, {'emalo buqer', 'wmlah pykre'}, {'ehyhl abwwr', 'emihl bykkr'}, {'emali baukr', 'eimwh facre'}, {'anliy wkair', 'emllu biqer'}, {'eymly buakr', 'uwiwl vagre'}, {'amoiw vhcre', 'emulo biqer'}, {'hmhwl abkiw', 'emwle bkeer'}, {'emoll bkkur', 'umliw paqre'}, {'hwyiy bwekh', 'emelu bkkyr'}, {'emela bekwr', 'iyiol wkaar'}, {'omlah bihre', 'emeil bkere'}, {'emyll baiqr', 'omlhh fykre'}, {'oimwy heekr', 'emelo baukr'}, {'emolo bwkkr', 'meyyh vijur'}, {'yehhl vikre', 'emall buqer'}, {'meeel abyey', 'emmil bikwr'}, {'wamih haekw', 'emwlw bckwr'}, {'iyail ubkre', 'emole baqur'}, {'iimhy abcre', 'emlay bkeur'}, {'meihh abkiy', 'emolu bkeir'}, {'emoll bqqer', 'yimyy pazre'}, {'enwwh bhekw', 'emyla bikwr'}, {'imliw byekh', 'emyla baegr'}, {'emolu bagor', 'oimlh wayre'}, {'meyyw abwor', 'emley baqwr'}, {'iyuil bwekh', 'ewmil bkeor'}, {'eimly baegr', 'iamlw hukre'}, {'hwiyh abjyr', 'emllw bukkr'}, {'mehhw buyre', 'emali baocr'}, {'emmle bykyr', 'yamiw abkwe'}, {'imawl abhew', 'eumly baygr'}, {'eweel yhcre', 'emlla bkear'}, {'imhwl pkayr', 'emelo baiqr'}, {'emyla bbkor', 'iyihl abzeh'}, {'yimlw fhceh', 'emloy bykor'}, {'emali bagwr', 'iehhl bkaah'}, {'emolu bukkr', 'aomiw wuekr'}, {'meylw pkahr', 'eamly bkkyr'}, {'enwhh wkaar', 'emola bagar'}, {'mayyy wkahr', 'emwla baqwr'}, {'emiol byqer', 'umowl hbkre'}, {'eomil baygr', 'wimwy fwekr'}, {'emwli baukr', 'neyyy pajre'}, {'emwle bagor', 'omlhh fahre'}, {'email beqer', 'hwiyh pahre'}, {'hymhl waeky', 'emiol baqqr'}, {'meihl fwekr', 'emale bkeor'}, {'eymly bawcr', 'amuiw abcir'}, {'emiel byqer', 'aimhy puekr'}, {'meial bkaay', 'ehmil baiqr'}, {'emyle baucr', 'mealw yoekr'}, {'emylo bckar', 'iimlh fhcar'}, {'emylu bahcr', 'aimyw pahre'}, {'owliy bkauh', 'emwlu baikr'}, {'awmiw pokre', 'emalu baqqr'}, {'emolo bahcr', 'aimwy bkaay'}, {'humol byyre', 'emiwl boqer'}, {'emyli bkkir', 'ihliy bsaah'}, {'emllu baocr', 'enahh pikre'}, {'eamly bkere', 'owlih abzey'}, {'ehhwl hawre', 'emulo bckor'}, {'ymeel bkawh', 'emmlo bcuer'}, {'amwiw abhwr', 'emwli bikyr'}, {'ehlei abzey', 'emmlo bacwr'}, {'oumlh bheky', 'emole baakr'}, {'enayh ykaew', 'emmlu baakr'}, {'iwiwl abwor', 'emley bbkir'}, {'wehhl abkyw', 'emyla baaqr'}, {'hymhl bwyre', 'emllu beakr'}, {'wanil fwcor', 'emyle bykur'}, {'emule baygr', 'owwyy wykre'}, {'himlw yxayr', 'emola bykor'}, {'emylo bukwr', 'uhawy wokre'}, {'emylw bkeri', 'ymlih fhkre'}, {'emole bbqer', 'meihh abhre'}, {'ameel fikre', 'emlwy bawcr'}, {'eymil bukkr', 'umuwl biyre'}, {'emwlu bkkur', 'euhhl behre'}, {'emeli bakrw', 'unwlh abkyy'}, {'emoil bikwr', 'imuwl fiekr'}, {'emliy bbkyr', 'amhiw yhcre'}, {'wmyih viekr', 'emyle bykyr'}, {'emlay bkere', 'wuiml heekr'}, {'emeil bckar', 'aamlw abxir'}, {'hwyyy vaxre', 'emalo baqor'}, {'emalo bwkir', 'oumih fekre'}, {'emyla bgaer', 'meyyh pajre'}, {'emmlo baakr', 'ueiml vkayr'}, {'mehlw abjey', 'eymil baoqr'}, {'emell bokwr', 'aamiw abkwe'}, {'huiml vyekr', 'emulu bokwr'}, {'mhiyl wkaur', 'emeli bekwr'}, {'meihl bhcwe', 'emeli bkero'}, {'iuiml abgew', 'emwlo baqyr'}, {'oimhy abkuh', 'emolu bkeer'}, {'emalw bykkr', 'ihliy pkaeh'}, {'ymliw pykre', 'emali bcuer'}, {'emoil bkera', 'uyiwl whkre'}, {'omliw ykaar', 'eomly bekwr'}, {'oyelh obkre', 'emlla bakro'}, {'ymlhh abjwr', 'emele bykwr'}, {'emllo baqur', 'meewy fhcwr'}, {'emylw bauqr', 'mewyy bkayw'}, {'emliy bbkwr', 'meyyh fxayr'}, {'emlay bkehr', 'iyhil bkayw'}, {'emull bkkir', 'eohhl payre'}, {'hhmhl haqre', 'emllo bwqer'}, {'omyih abkyy', 'emmli baaqr'}, {'emole bkeor', 'amoyh bijuy'}]
+emily baker         : DEBUG: Additional rule variations: {'emly baker'}
+emily baker         : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 3
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "emily baker": {
+            "first_name": {
+                "score": 0.5604548986037048,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 0.5499999999999999,
+                        "combined": 0.27499999999999997
+                    },
+                    "count": {
+                        "actual": 2,
+                        "expected": 2.6,
+                        "score": 0.9696993240246984
+                    },
+                    "uniqueness": {
+                        "unique_count": 2,
+                        "total_count": 2,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "iumol",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "emell",
+                            "phonetic_score": 0.7973719322927209,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.6241214629855162,
+            "final_score": 0.699297170388413,
+            "variation_count": 3,
+            "non_rule_compliant_variations_count": 2,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.6954548986037048,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.45,
+                        "orthographic": 0.5499999999999999,
+                        "combined": 0.5
+                    },
+                    "count": {
+                        "actual": 2,
+                        "expected": 2.6,
+                        "score": 0.9696993240246984
+                    },
+                    "uniqueness": {
+                        "unique_count": 2,
+                        "total_count": 2,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "byekh",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "beqer",
+                            "phonetic_score": 0.6208813597326154,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "delete_random_letter": [
+                            "emly baker"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "emly baker": [
+                            "delete_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.3333333333333333,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "emily baker": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "delete_random_letter": [
+                            "emly baker"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "emly baker": [
+                            "delete_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.3333333333333333,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.699297170388413,
+    "final_reward": 0.699297170388413
+}
+emily baker         : DEBUG: ----------------------------------------------------------------------------------------------------

@@ -1,0 +1,2610 @@
+glen calhoun        : INFO: Generating variations for glen calhoun
+glen calhoun        : INFO: ----------------------------------------------------------------------------------------------------
+glen calhoun        : INFO: Effective rules: ['name_parts_permutations']
+glen calhoun        : INFO: ----------------------------------------------------------------------------------------------------
+glen calhoun        : INFO: Min Required Rule Variation Set: [{'calhoun       glen', 'calhoun      glen', 'calhoun         glen', 'calhoun        glen', 'calhoun    glen', 'calhoun   glen', 'calhoun     glen', 'calhoun glen', 'calhoun  glen', 'calhoun          glen'}]
+glen calhoun        : INFO: ----------------------------------------------------------------------------------------------------
+glen calhoun        : INFO: First name: glen
+glen calhoun        : INFO: Last name: calhoun
+glen calhoun        : INFO: ----------------------------------------------------------------------------------------------------
+glen calhoun        : INFO: Rule count pairs: [(0, 1), (0, 2), (1, 1), (0, 3), (1, 2), (0, 4), (1, 3), (2, 2), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (3, 3), (0, 7), (1, 6), (2, 5), (3, 4), (0, 8), (1, 7), (2, 6), (3, 5), (4, 4)]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 1 / 24: rule_count/nonrule_count: 0/1------------------------------
+glen calhoun        : DEBUG: O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: P: [0, 0, 0, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: P: [0, 0, 0, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.28179028]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 2 / 24: rule_count/nonrule_count: 0/2------------------------------
+glen calhoun        : DEBUG: O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: P: [0, 0, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: P: [0, 0, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.32]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 3 / 24: rule_count/nonrule_count: 1/1------------------------------
+glen calhoun        : DEBUG: O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: P: [0, 0, 0, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: P: [0, 0, 0, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.48179028]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 4 / 24: rule_count/nonrule_count: 0/3------------------------------
+glen calhoun        : DEBUG: O: [0, 1, 0, 2]
+glen calhoun        : DEBUG: P: [0, 1, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [0, 1, 0, 2]
+glen calhoun        : DEBUG: P: [0, 1, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.36605385]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 5 / 24: rule_count/nonrule_count: 1/2------------------------------
+glen calhoun        : DEBUG: O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: P: [0, 0, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: P: [0, 0, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.52]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 6 / 24: rule_count/nonrule_count: 0/4------------------------------
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.50925069]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 7 / 24: rule_count/nonrule_count: 1/3------------------------------
+glen calhoun        : DEBUG: O: [0, 1, 0, 2]
+glen calhoun        : DEBUG: P: [0, 1, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [0, 1, 0, 2]
+glen calhoun        : DEBUG: P: [0, 1, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.46605385]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 8 / 24: rule_count/nonrule_count: 2/2------------------------------
+glen calhoun        : DEBUG: O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: P: [0, 0, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: P: [0, 0, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.52]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 9 / 24: rule_count/nonrule_count: 0/5------------------------------
+glen calhoun        : DEBUG: O: [1, 2, 1, 1]
+glen calhoun        : DEBUG: P: [1, 2, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 2, 1, 1]
+glen calhoun        : DEBUG: P: [1, 2, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.48480831]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 10 / 24: rule_count/nonrule_count: 1/4------------------------------
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.60925069]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 11 / 24: rule_count/nonrule_count: 2/3------------------------------
+glen calhoun        : DEBUG: O: [0, 1, 0, 2]
+glen calhoun        : DEBUG: P: [0, 1, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [0, 1, 0, 2]
+glen calhoun        : DEBUG: P: [0, 1, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.46605385]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 12 / 24: rule_count/nonrule_count: 0/6------------------------------
+glen calhoun        : DEBUG: O: [1, 2, 1, 2]
+glen calhoun        : DEBUG: P: [1, 2, 1, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 2, 1, 2]
+glen calhoun        : DEBUG: P: [1, 2, 1, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.46470382]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 13 / 24: rule_count/nonrule_count: 1/5------------------------------
+glen calhoun        : DEBUG: O: [1, 2, 1, 1]
+glen calhoun        : DEBUG: P: [1, 2, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 2, 1, 1]
+glen calhoun        : DEBUG: P: [1, 2, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.55147498]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 14 / 24: rule_count/nonrule_count: 2/4------------------------------
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.60925069]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 15 / 24: rule_count/nonrule_count: 3/3------------------------------
+glen calhoun        : DEBUG: O: [0, 1, 0, 2]
+glen calhoun        : DEBUG: P: [0, 1, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [0, 1, 0, 2]
+glen calhoun        : DEBUG: P: [0, 1, 0, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.46605385]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 16 / 24: rule_count/nonrule_count: 0/7------------------------------
+glen calhoun        : DEBUG: O: [2, 2, 2, 1]
+glen calhoun        : DEBUG: P: [2, 2, 2, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [2, 2, 2, 1]
+glen calhoun        : DEBUG: P: [2, 2, 2, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.45813111]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 17 / 24: rule_count/nonrule_count: 1/6------------------------------
+glen calhoun        : DEBUG: O: [1, 2, 1, 2]
+glen calhoun        : DEBUG: P: [1, 2, 1, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 2, 1, 2]
+glen calhoun        : DEBUG: P: [1, 2, 1, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.53137048]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 18 / 24: rule_count/nonrule_count: 2/5------------------------------
+glen calhoun        : DEBUG: O: [1, 2, 1, 1]
+glen calhoun        : DEBUG: P: [1, 2, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 2, 1, 1]
+glen calhoun        : DEBUG: P: [1, 2, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.55147498]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 19 / 24: rule_count/nonrule_count: 3/4------------------------------
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.60925069]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 20 / 24: rule_count/nonrule_count: 0/8------------------------------
+glen calhoun        : DEBUG: O: [2, 3, 2, 1]
+glen calhoun        : DEBUG: P: [2, 3, 2, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [3, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [2, 3, 2, 1]
+glen calhoun        : DEBUG: P: [2, 3, 2, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [3, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.45121302]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 21 / 24: rule_count/nonrule_count: 1/7------------------------------
+glen calhoun        : DEBUG: O: [2, 2, 2, 1]
+glen calhoun        : DEBUG: P: [2, 2, 2, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [2, 2, 2, 1]
+glen calhoun        : DEBUG: P: [2, 2, 2, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.50813111]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 22 / 24: rule_count/nonrule_count: 2/6------------------------------
+glen calhoun        : DEBUG: O: [1, 2, 1, 2]
+glen calhoun        : DEBUG: P: [1, 2, 1, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 2, 1, 2]
+glen calhoun        : DEBUG: P: [1, 2, 1, 2]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [2]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.53137048]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 23 / 24: rule_count/nonrule_count: 3/5------------------------------
+glen calhoun        : DEBUG: O: [1, 2, 1, 1]
+glen calhoun        : DEBUG: P: [1, 2, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 2, 1, 1]
+glen calhoun        : DEBUG: P: [1, 2, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [2, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.55147498]
+glen calhoun        : INFO: ------------------------------Trying rule_count_pair 24 / 24: rule_count/nonrule_count: 4/4------------------------------
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [6, 2, 0]
+glen calhoun        : DEBUG: [20, 15, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [20, 18, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [2, 6, 0]
+glen calhoun        : DEBUG: [26, 26, 0]
+glen calhoun        : DEBUG: [20, 48, 0]
+glen calhoun        : DEBUG: [20, 20, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [8]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [7]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [38]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: glen, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: glen, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: glen, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: O: [1, 1, 1, 1]
+glen calhoun        : DEBUG: P: [1, 1, 1, 1]
+glen calhoun        : WARNING: Remains: 0
+glen calhoun        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+glen calhoun        : DEBUG: [134, 210, 20]
+glen calhoun        : DEBUG: [500, 500, 101]
+glen calhoun        : DEBUG: [500, 500, 394]
+glen calhoun        : DEBUG: [20, 500, 20]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+glen calhoun        : DEBUG: [454, 60, 20]
+glen calhoun        : DEBUG: [500, 500, 206]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [500, 500, 500]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: [1, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0]
+glen calhoun        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+glen calhoun        : DEBUG: [89]
+glen calhoun        : DEBUG: [150]
+glen calhoun        : DEBUG: [78]
+glen calhoun        : DEBUG: [20]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [500]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [0]
+glen calhoun        : DEBUG: [1]
+glen calhoun        : DEBUG: final:
+glen calhoun        : DEBUG: name: calhoun, l_level: 0
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+glen calhoun        : DEBUG: name: calhoun, l_level: 1
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: name: calhoun, l_level: 2
+glen calhoun        : DEBUG: --------------------------------------------------
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+glen calhoun        : DEBUG: scores: [0.60925069]
+glen calhoun        : DEBUG: ----------------------------------------------------------------------------------------------------
+glen calhoun        : DEBUG: Best score achieved: 0.6092506902327668
+glen calhoun        : DEBUG: Best selected: 1/4
+glen calhoun        : DEBUG: Rule variations: [{'calhoun       glen', 'calhoun      glen', 'calhoun         glen', 'calhoun        glen', 'calhoun    glen', 'calhoun   glen', 'calhoun     glen', 'calhoun glen', 'calhoun  glen', 'calhoun          glen'}]
+glen calhoun        : DEBUG: Nonrule variations: [{'shah zlahuoh', 'gzlm cyylyun', 'glon calhohn', 'Glwn cleohun'}, {'egww aeclonu', 'gwln calhwno', 'glan culhiun', 'gxlm claywnu'}, {'glUn colhiun', 'Glyn clehoin', 'gklm cyaolun', 'xhhw slaheoh'}, {'qeww klahuoy', 'glon colhoen', 'gjlm cylohan', 'Glln clhhuun'}, {'goln clihhun', 'glun cailhon', 'gclm cliaown', 'xwhh glawonu'}, {'galm chlwuwn', 'Glnn clehoen', 'glOn coalhun', 'xyuh slahwnu'}, {'gclm ccaolyn', 'glnu culuhon', 'jhhh aclohmw', 'glIn cailhon'}, {'wyne gloahum', 'golm chlwwhn', 'glAn colhaun', 'Glln colhewn'}, {'glIn calhuon', 'guln cwlhuno', 'gzlm cyyluon', 'qhhw zlahanu'}, {'Glln cwlhean', 'khay qulyenu', 'GLmn claoiwn', 'glUn culhoun'}, {'glIn ckalhon', 'glnu clhoain', 'yehw xlahynh', 'ghlm calwymu'}, {'gilm claowwn', 'glny clhuown', 'zhwm xlayone', 'glOn culhohn'}, {'Ggln clwheun', 'wilm jlahenu', 'ghlm cyylyun', 'glIn caolhun'}, {'glan colhuun', 'yyhh aclonhi', 'gLwn clheuon', 'gjlm celyoni'}, {'ggln caolhnu', 'khyy wlayonu', 'gilm caliwnu', 'glan calhaan'}, {'Glln colhhin', 'gylm calwuam', 'jhyh syahuoh', 'glan culhoan'}, {'sely xlayonu', 'gLln culhewn', 'gqlm calywnu', 'glin coalhon'}, {'glnu clhoaon', 'syuy slaywan', 'gclm clahynu', 'glun colhonn'}, {'glAn colhiun', 'khhw slahuow', 'glno cwlhayn', 'gulm chlyywn'}, {'glin cawlhun', 'GLhn calonwu', 'glno clhooyn', 'cyym acyhanu'}, {'glAn calhahn', 'gwln caylhyn', 'kwnw jlehuom', 'gklm cylyuom'}, {'galm cylwunu', 'glIn calhuhn', 'xulh xlayenu', 'gwln cwlhuin'}, {'glAn colhoon', 'gqlm celyunu', 'goln clwhoon', 'qyny kaolumh'}, {'glin callhun', 'goln clehhun', 'gelm chlohnu', 'zhwy zlahuoh'}, {'glUn calhuni', 'ghlm celoeyn', 'glni clehoin', 'yyiw jlahyom'}, {'glIn colhiun', 'gzlm ciloeyn', 'goln cailhhn', 'qyne xluyonu'}, {'hwnw slahioh', 'glon calhoin', 'GLmn chleonu', 'Ggln caylhnu'}, {'gjlm cwloeyn', 'glnu clhiuyn', 'glOn calhoen', 'zwme aklonhu'}, {'qelm yclaanu', 'gglm ccwolun', 'glan culhoon', 'Glnn clhoion'}, {'hwnu aclohem', 'gglm cylwhnu', 'glon colhohn', 'Glwn cwlwhun'}, {'soly jlaywan', 'glnu cwlhuno', 'GLmn cyylown', 'glin culhiun'}, {'gzlm cwleuny', 'glon calhuan', 'glni calhnow', 'jelw glahyhu'}, {'glUn caalhun', 'goln cwlhuno', 'gzlm claoniu', 'xwoh jlahuym'}, {'Ggln cualhyn', 'glun culhoon', 'gslm ccaylun', 'wyim glayonu'}, {'gclm celyion', 'glin calhuun', 'cilw jyahuom', 'glna clhhunu'}, {'galn clyhoen', 'glIn calhaen', 'swne jlahuom', 'gqlm clyawun'}, {'gilm cylohne', 'Glyn cwlihun', 'glun calhien', 'zalm hlahuom'}, {'qeyy xluyonu', 'GLMn clayoen', 'gLln clhhuwn', 'glon calhiin'}, {'gglm cahlwnu', 'qynu kulyuom', 'glan calhuno', 'gLln calihan'}, {'gklm celyium', 'glOn colhuun', 'Glnn colhewn', 'xulh xlayonh'}, {'gwlm cylohan', 'glUn calhinn', 'Glyn calhinw', 'wehm sluhuoh'}, {'glOn culhoan', 'jehh qulyuom', 'glna calhhne', 'golm colwuon'}, {'ggln clhaoyn', 'ghlm culyunu', 'glUn colhoon', 'kyyh jlwhuoy'}, {'glun calheen', 'gqlm cilohyn', 'goln colhnou', 'qyny ahclonu'}, {'glno calwhnu', 'gelm calwynw', 'qelh glahywu', 'glAn calhenn'}, {'whym auclonu', 'gjlm chlohhn', 'glun colhoin', 'glwN clehiun'}, {'glUn calhaun', 'ggln cluhoon', 'jynu aiclehn', 'gzlm calwuim'}, {'glne clhowwn', 'jhuh zlawonu', 'glAn calhiin', 'gklm clahyan'}, {'gslm clahwon', 'wehm qlayonu', 'galn coluhun', 'glUn calhawn'}, {'syme zlayonu', 'glan cailhon', 'glne cowlhun', 'gklm clayoen'}, {'gjlm chlwhwn', 'glno clhoinu', 'glUn colhoan', 'wely qiwhanu'}, {'glan calhonn', 'yhym jlaywum', 'gklm celynou', 'Glln calwhen'}, {'gelm clahwwn', 'hhhw acloihm', 'glni cwlhoni', 'glan calhahn'}, {'whhm acluhmo', 'Glnn culhony', 'gqlm chlyywn', 'glun cahlhon'}, {'glne caolhwn', 'gklm clauion', 'glun calhinn', 'yyhw kaoluhh'}, {'GLmn clawwun', 'sily glaywan', 'ggln colheyn', 'glIn cualhun'}, {'guln calhhni', 'gglm cylyion', 'hylw xlwhynu', 'glan calhion'}, {'zelh ylahuoh', 'gilm calwanu', 'glan calhono', 'gLln cahlhnu'}, {'gslm clahywn', 'glin calhoin', 'gLwn cwlhuen', 'heww jyahuoy'}, {'glin cawlhun', 'celw slehuoh', 'golm clawuny', 'goln calwhnu'}, {'jyhe aucwonu', 'glon colhaun', 'glna calhniu', 'gxlm celhwnu'}, {'glIn calhuni', 'gelm chlwwum', 'ggln caohlhn', 'xyuh xlahuow'}, {'gelm chlohan', 'glne colohun', 'glAn caulhun', 'chno jlehuoy'}, {'gclm clahyan', 'glno clohaun', 'saly hclonhu', 'glun culhaun'}, {'glwN colyhon', 'hhaw gloahwn', 'gwlm culwonu', 'glon caolhon'}, {'glIn colhoon', 'glne calhnoo', 'syum acwhwnu', 'gulm cqaolun'}, {'whyw xlawonu', 'gzlm celhiym', 'Glwn calhnoa', 'glan calhoan'}, {'glAn calhien', 'golm calywnu', 'qyuy wlahenu', 'gLln clahohn'}, {'gLln caalhyn', 'gylm cylhyna', 'glAn culhoen', 'syum ghahynu'}, {'hwih wlahinu', 'glAn cawlhun', 'gLwn caulhnu', 'GLmn culwonu'}, {'gxlm calwiem', 'glno clihaun', 'qely jlahaoy', 'glOn calhuno'}, {'cely auslonu', 'glUn calhahn', 'galn calhneu', 'gzlm claywen'}, {'gilm colyuom', 'glun calhonu', 'hwwe auylonu', 'ggln cwlhuny'}, {'Glln calhnay', 'hyuw ylahuoy', 'gelm cgaolun', 'glUn culhoun'}, {'gzlm calyiem', 'jhim aclohey', 'gLln cloohun', 'glin calhuhn'}, {'glon culhonn', 'kywy kiwhinu', 'Glnn clahoan', 'gglm clayaun'}, {'hyme klawonu', 'Glyn clahhon', 'glIn calhaun', 'GLHn cyyloon'}, {'glIn caalhon', 'GLmn calyiem', 'yyhh slahwoh', 'goln clhiuyn'}, {'glnu cwlyhun', 'gulm cylhhne', 'xylw xlahuoy', 'glOn calhain'}, {'whno hlahwnu', 'gilm chlwwen', 'glin culhaun', 'galn clhooin'}, {'GLmn colhyem', 'glnu clhhoon', 'glan calhona', 'qynw xlayenu'}, {'glUn culhoan', 'glny cluhoin', 'gilm cilyuon', 'xhne xlihynu'}, {'gjlm calyuim', 'glun culhoen', 'ywuh qihhanu', 'gwln clohoon'}, {'glIn cahlhun', 'hyne xleyonu', 'gjlm culwynu', 'glnw clhhoen'}, {'zyum aclyynu', 'gulm clawoin', 'glin calheen', 'gwln clhoeon'}, {'glOn cahlhon', 'ggln cwlhony', 'syim xlahywu', 'ghlm calwyom'}, {'wham aclohah', 'glOn calhona', 'gqlm claoeyn', 'Glyn cluhown'}, {'glOn calhoon', 'sely hclonhu', 'gylm cylwynu', 'ggln clehown'}, {'zynu qlawonu', 'glon caolhon', 'gslm claywen', 'gLwn clhooin'}, {'glin colhaun', 'Glln cwlhywn', 'gylm calonoy', 'zelw acyhinu'}, {'gclm coloeyn', 'glne cwlohon', 'glUn caulhun', 'hyym quwhenu'}, {'glnw cleheun', 'gylm celwium', 'jwom jlihuom', 'glun calhone'}, {'glun caulhon', 'ggln clheuwn', 'chme aclonau', 'gclm cwlohnw'}, {'galn clhuoyn', 'glOn calhehn', 'GLhn celwynu', 'wwni aclyuoy'}, {'gwln cluhoen', 'qeww auclona', 'glun calhoni', 'gglm culwuon'}, {'jhne aclwhny', 'Glnn colhwyn', 'glIn calhein', 'gklm chlyuom'}, {'Glyn clhoeon', 'yhom gwahynu', 'glUn cailhun', 'GLMn cwluhno'}, {'qyuy aqlonhu', 'Glyn culhywn', 'gzlm chleonu', 'glon calhinn'}, {'gwln colhhen', 'glOn caulhon', 'GLHn celyomu', 'xilh slahynu'}, {'glan calhain', 'gylm clahohm', 'gLln colhhin', 'hwna wuclonu'}, {'ghlm clyywun', 'glon coalhon', 'xilh xlayowu', 'guln clhuoin'}, {'ggln clhhuan', 'gclm colhwem', 'glin ckalhon', 'wyww jlahuyo'}, {'Ggln cwlhean', 'xelw glahyno', 'glUn calhunn', 'gglm calwyny'}, {'gzlm calyumo', 'glAn calhuon', 'welw xlayanu', 'glwN clhioon'}, {'cwwy kaolynh', 'glIn calhuun', 'Glln cliohun', 'gylm clayoyn'}, {'golm celwuon', 'glin caolhun', 'zhow hlehanu', 'goln cawlhnu'}, {'glUn culhonn', 'GLmn clayoum', 'gLwn cliheun', 'jyne aclwwnu'}, {'glIn caulhun', 'salm slahuhh', 'gulm cylhenu', 'ggln calhinw'}, {'seym acoelan', 'glAn calhune', 'gglm clayuun', 'galn colohun'}, {'gglm claohwn', 'zywy gloahuh', 'glIn calhone', 'Glyn calhanw'}, {'GLmn cylohnh', 'Glyn culhuny', 'glon calhohn', 'wilw zlahinu'}, {'khhw oclonhu', 'gylm cylhanu', 'gLln colhwwn', 'glUn calhaen'}, {'glin calhona', 'ghlm cleauon', 'Ggln calyhin', 'khaw kihhinu'}, {'chnw aclwhny', 'glun calhuhn', 'gLln clhoiwn', 'gilm cleaown'}, {'zyme glahuow', 'galm cilohan', 'glon colheun', 'Glyn calhwne'}, {'glna clhiuhn', 'qyww glihynu', 'gjlm chlwwyn', 'glan calhoan'}, {'whhh glawonu', 'gwln culohon', 'GLmn celyomu', 'glUn calhann'}, {'ggln clhhuun', 'hhhy aclynhu', 'GLmn chlwawn', 'glin calhahn'}, {'gelm cilyuon', 'glUn calhuun', 'cwwy glahuoy', 'Glln culahun'}, {'hilh jlahuwy', 'glan cailhon', 'gglm clowiun', 'gLwn clhuuin'}, {'glin calhann', 'gxlm clayyun', 'hyom jlwhuoy', 'glne clheuin'}, {'jyni acyhuom', 'glno cwlihon', 'glin callhon', 'gslm cylyyan'}, {'ggln clhoown', 'glin calhune', 'gklm ccaylun', 'qyno acyonhu'}, {'GLHn ccaolyn', 'xhiy wlayonu', 'glni cwlhein', 'glAn coalhun'}, {'galn caelhwn', 'hwhe gloahuw', 'galm cyyluun', 'glin calhahn'}, {'goln clhuuny', 'syiw jyahuoy', 'glUn calhuna', 'gqlm caalyen'}, {'golm celyomu', 'glUn cailhon', 'zyiw hwahanu', 'gLln clohoan'}, {'khyy hlaywum', 'glne colhayn', 'gjlm celyony', 'glAn culhiun'}, {'gslm calohim', 'gLwn caohlhn', 'glon calhaon', 'kelw aclawnh'}, {'glun caulhon', 'gulm celyony', 'glnw clhhuwn', 'jhwe aclywnu'}, {'glun calhoin', 'yyne acyhanu', 'galm cleyaun', 'gLln calwhen'}, {'zilm wlahuom', 'galm cylwunu', 'glOn calhaon', 'glno caolhhn'}, {'glIn caalhon', 'goln cwlhain', 'gclm claywun', 'hyuw xlahyny'}, {'syhm acwonhu', 'glon calhion', 'galn clhoinu', 'gqlm culyion'}, {'glon culhoen', 'wywy jlahuem', 'gylm claoewn', 'glno cwlhonw'}, {'glin caolhun', 'gglm calyuam', 'glne clhoinu', 'jwno wlawonu'}, {'gwln culhuyn', 'GLmn cyyluun', 'qeym ccaolyw', 'glIn calhuin'}, {'gilm celohan', 'glno clhoany', 'zywm qlahuoh', 'glun calhian'}, {'GLhn chlhywm', 'glan culhaun', 'Ggln clhooon', 'zwam auclinu'}, {'golm calwyne', 'jhim aglonhu', 'glUn colhuun', 'glnw colhewn'}, {'glUn culheun', 'ghlm ccaolnu', 'Glnn calhniy', 'wehm aclohwm'}, {'whum xliyonu', 'glUn callhun', 'glni calihan', 'gclm chlohhn'}, {'jely quwhenu', 'glny clhoony', 'gulm celyuon', 'glon calhuen'}, {'glin cawlhun', 'goln culehun', 'shwy gwahynu', 'golm cilwhan'}, {'gLwn calehan', 'yhhm zlahynu', 'gwlm calwuom', 'glOn culhoen'}, {'glAn culhoun', 'gqlm colwihn', 'kylw aclohay', 'Glnn caylhnu'}, {'khiy kilwinu', 'Glln cwlihon', 'glAn cailhon', 'golm chlwwum'}, {'guln clhoown', 'ghlm celohhn', 'cehm aiclehn', 'glUn calhaan'}, {'gylm clawyun', 'glun culhoin', 'jyym aclohem', 'goln colahun'}, {'Ggln clhhhun', 'gelm clahonh', 'glOn cailhon', 'zhwm auclonu'}, {'glny clwhhun', 'glUn culhuun', 'gelm chlyywn', 'qeym xlayona'}, {'glan culhonn', 'gulm cilyonu', 'Glyn clyhoan', 'qhwe acyhanu'}, {'glOn cualhon', 'gwln clyhoon', 'whuh qlahuoy', 'gjlm celyuny'}, {'salh slahanu', 'glwN clwhohn', 'GLmn clawaun', 'glon calheun'}, {'glin calhoan', 'xelm acloeym', 'Ggln clihhun', 'gilm cyyloum'}, {'Glln cwlhuin', 'yelw aclwiom', 'gelm cylihnu', 'glOn calhaun'}, {'galm claiwun', 'galn cluhaun', 'glIn culheun', 'wilm xlayoyu'}, {'Glyn clawhon', 'glan culhoun', 'zyme acwhinu', 'GLhn clayonu'}, {'glon calhoin', 'jwni qlahuow', 'gglm claywyn', 'gwln claihun'}, {'helm xyayonu', 'glAn ckalhon', 'glny cwlhiwn', 'gqlm cahlynu'}, {'cyly ycwaonu', 'Glwn calayhn', 'glOn colhoin', 'gjlm clahyon'}, {'glAn calhuan', 'GLmn celhiym', 'qyme kaolynh', 'guln calyhwn'}, {'glOn cailhun', 'GLmn culohym', 'glnu clhuuin', 'cwww wulyuom'}, {'gLln clhoyny', 'GLmn colwihn', 'whhw xlyaonu', 'glan calheen'}, {'kyiw auklonu', 'glon calhian', 'glny clhauon', 'gwlm clayion'}, {'zulm gluhynu', 'glAn culhaun', 'gylm clahwen', 'glwN cluhiun'}, {'syye zlahuoh', 'glwN cwlhhhn', 'glOn calhaon', 'GLmn celyono'}, {'kwne slahwnu', 'gLwn clyheun', 'glAn calhuna', 'gzlm cjaolun'}, {'glAn calhunu', 'gxlm cluywun', 'kwnw acwonhu', 'glno callhnu'}, {'helm gloahnu', 'glOn colhoen', 'glne cwlohun', 'GLHn culohyn'}, {'Glnn clhuaun', 'zywy auclwnu', 'gulm claownw', 'glon calhain'}, {'gjlm clahwwn', 'hhih jyahuoy', 'Glln calwhwn', 'glAn calhihn'}, {'glIn calhunn', 'zilm auclono', 'glni cwlehon', 'golm cleauon'}, {'ggln clihohn', 'gzlm cyalonu', 'glon calhunn', 'chni glahynh'}, {'cyly wlahinu', 'gglm cwlwuon', 'Glyn clhaeun', 'glun caelhun'}, {'swoy xluhynu', 'gjlm clawiun', 'gLln cwlhian', 'glin colhiun'}, {'whum aclohah', 'glIn culhohn', 'galn clhoiny', 'GLMn clahwnu'}, {'ghlm chlhuom', 'glun culhuun', 'hyuw jlahuwy', 'goln clhiuwn'}, {'GLMn cylohna', 'ggln clyheun', 'glun calhawn', 'wwni aclohwm'}, {'hwny ylahuom', 'glny calhyne', 'gulm claowny', 'glIn colhonn'}, {'ghlm colyuom', 'shnw kilwinu', 'glne clhhoan', 'glAn colhonn'}, {'gzlm clahuom', 'qeyh jlahuow', 'glOn colhuun', 'gLln cwlhayn'}, {'gwln colhyyn', 'glOn calhenn', 'zyum kiyhinu', 'gylm cloyiun'}, {'Ggln calyhan', 'glon cawlhon', 'xwne xluyonu', 'ghlm cloywun'}, {'glnu clhauin', 'whne quyhenu', 'glin calhoni', 'GLmn clehaum'}, {'wwme kolyinu', 'gclm celwonu', 'glno clhauin', 'glUn calhoon'}, {'glon coalhun', 'cyno gloahuw', 'glno clehown', 'gklm clahyyn'}, {'glnu calyhhn', 'wywy awclonu', 'golm clayyun', 'glon calhuna'}, {'yewh yleyonu', 'Glln cwlhhan', 'gwlm cylwuwn', 'glOn caelhun'}, {'swum qulyenu', 'gelm claywyn', 'glon culhoon', 'Glnn clhhunu'}, {'gklm claoown', 'glun coalhun', 'ggln cwlhhyn', 'yham jlehuom'}, {'GLMn ccaolnu', 'chum koyhinu', 'glan calhone', 'glwN cwlhian'}, {'gzlm clohoem', 'glIn calhiun', 'Glln cwlhaon', 'syyy jlahuay'}, {'cyme aucwonu', 'gilm cilohan', 'gwln cwlhywn', 'glan calhoin'}, {'jwom aclwanu', 'gilm ccaolyn', 'Glln clohoin', 'glin cahlhun'}, {'qywy xlyhynu', 'glne clhiuen', 'glan colhoin', 'gqlm cgaolun'}, {'glIn calhien', 'gclm clayiun', 'yelh aclwanu', 'glne clhhunu'}, {'ggln cwlhean', 'chom zlahuoy', 'glin cahlhun', 'golm cylhhne'}, {'Glyn cailhhn', 'gulm cilwynu', 'glAn colhoin', 'salm jlyhuom'}, {'gqlm celyhnu', 'glne cluhhun', 'swom slahuho', 'glin colheun'}, {'glnu cualhnu', 'gjlm cylohin', 'glAn calhaen', 'zynu kolyinu'}, {'salm koyhinu', 'glny calhnoo', 'glin calhuon', 'gjlm celohen'}, {'GLHn cilohnw', 'glOn culheun', 'glny clwhoon', 'ywyh slaywan'}, {'gilm celyomu', 'jwoy glayynu', 'glon calhoen', 'glny calwyhn'}, {'gxlm claohyn', 'syuy yulyuom', 'ggln culohun', 'glun calheon'}, {'galm cylhwnu', 'Glwn clihaun', 'glUn culhaun', 'quly wlahynu'}, {'wwnh auclony', 'gxlm cuolyun', 'glne cwwlhon', 'glon culhuun'}, {'hwih qihhanu', 'glon calhoen', 'GLhn cjaolun', 'gwln calhwnw'}, {'glUn culhiun', 'guln calyhan', 'GLhn cwloeyn', 'swum jlyhuom'}, {'sywy kihhinu', 'gxlm colwuon', 'gLln clahiun', 'glOn calhaon'}, {'goln culhyyn', 'jehh gleyonu', 'ghlm claaown', 'glIn calheen'}, {'gylm clahyum', 'glon calhoen', 'ywwh aclwiom', 'gLln clhhuwn'}, {'glIn coalhun', 'gwln culhnou', 'qyni klahawm', 'gylm chlwhan'}, {'glin culhoen', 'GLhn cylihnu', 'ggln clyheun', 'welm sleyonu'}, {'GLHn celwium', 'kyne klahuhy', 'glny calywhn', 'glAn culhoan'}, {'gslm calwynu', 'synw slehuoh', 'glan coalhun', 'guln calihen'}, {'yhim aucloni', 'glAn culhoon', 'gwln clehoan', 'gslm colwynu'}, {'glin calhunn', 'gwln cwlhuno', 'shhy zlahynu', 'gwlm caoluny'}, {'jhih xlahyno', 'GLmn colhyem', 'glwN calhnyy', 'glUn colhoon'}, {'glOn calhohn', 'zywy aclohww', 'gjlm celyynu', 'Glwn cwlhuon'}, {'glIn calhuna', 'GLHn cwlwuon', 'glne callyhn', 'swno glahuoh'}, {'yhaw glahhyw', 'glun colhoin', 'glne cailhhn', 'golm caalwen'}, {'glOn colhoen', 'glni calihin', 'zelh quwhenu', 'galm claohum'}, {'glin caalhun', 'syiw wlahynu', 'GLhn clehaum', 'glna clehoyn'}, {'goln clhhown', 'hhhy klahuom', 'glin calhohn', 'gxlm celyenu'}, {'gilm clahwwn', 'eslm hlahuoh', 'glwN cwlhiyn', 'glun calhean'}, {'Glwn calhyni', 'jelw aclenhu', 'gqlm cwlwuon', 'glAn calhuno'}, {'glAn culhoun', 'swnu hlayanu', 'glne cawlhyn', 'gqlm cuolwun'}, {'glan callhun', 'ghlm cyylaun', 'glnu culuhon', 'hwim klayonu'}, {'glIn coalhon', 'qyww acwhanu', 'gslm calwaom', 'galn clhoiny'}, {'gilm claowwn', 'gLln clhhuny', 'kolm auclowu', 'glin cahlhon'}, {'gglm cyylown', 'glUn cahlhun', 'glnu cailhhn', 'whim xlayomu'}, {'jynu acloheh', 'ghlm chlwuwn', 'Ggln calohen', 'glin calhuen'}, {'glon calhoni', 'hwna acyhuom', 'glni culohon', 'gklm celyonu'}, {'gclm cyylown', 'glUn calhunu', 'ggln caelhnu', 'hilh aclohey'}, {'glOn calhuna', 'gwln colhhen', 'gwlm colyuom', 'ywyh xlahenu'}, {'glan caalhun', 'guln clheuwn', 'qyhe jlahinu', 'gzlm calwham'}, {'glon calhoin', 'gelm calwanu', 'glnw culheyn', 'hywy jlahuow'}, {'hyiw hlahawu', 'glnw clhoeny', 'glan culhoin', 'gylm cwlyonu'}, {'glun calhenn', 'goln clohohn', 'kely jlahuyo', 'galm celwuom'}, {'glIn colhohn', 'wwny sulyuom', 'glna cwlahun', 'GLMn colhwem'}, {'zyum qlawoni', 'gwlm cylohnu', 'glon calhuhn', 'glni cluhoyn'}, {'chum ylahuom', 'glnw clhooan', 'gxlm cwlyion', 'glon culhoan'}, {'gLwn callhnu', 'gxlm csaolun', 'glAn calhone', 'zhhw auclynu'}, {'Glnn claehon', 'glAn calhuan', 'chwe xlahinu', 'GLMn caylonu'}, {'Glyn cwlhuyn', 'kwom glahyny', 'GLmn cylwuwn', 'glan culheun'}, {'gzlm caylonu', 'glni clhhuon', 'glUn calhiun', 'jyym jlahuwy'}, {'sily wlahinu', 'glUn cualhun', 'gzlm cwlohwn', 'Glyn coalhhn'}, {'gLwn culhiyn', 'jhhh aclwhne', 'gxlm claohyn', 'glOn culhuun'}, {'jwow auslonu', 'glUn calhahn', 'gslm celohen', 'ggln clyhiun'}, {'gwlm cylownu', 'zhuw aucloyu', 'glun calhian', 'glne calhnoa'}, {'glOn culhonn', 'qyne aclwnhu', 'Ggln cwlehon', 'ghlm chlhinu'}, {'gglm cylyhnu', 'glOn calhean', 'glni clhhoin', 'wyne jlahwnu'}, {'glIn caolhon', 'guln colhywn', 'gqlm clawonu', 'cilm xlahuow'}, {'guln cluhuun', 'zehw auclone', 'gwlm colohwn', 'glan calhoin'}, {'GLHn celhhne', 'whuh xwayonu', 'Glln clhiunw', 'glAn calhean'}, {'glno caelhnu', 'glon colhoun', 'gglm claowny', 'hhaw kleyonu'}, {'glOn calhoni', 'gqlm cqaolun', 'gwln culahun', 'syiy auylonu'}, {'gjlm clahwin', 'glon cahlhon', 'glnw calhnoa', 'seym ylaywum'}, {'glni clhioan', 'xily aslonhu', 'gwlm cilyonu', 'glun culheun'}, {'cyww aclohey', 'galn cwylhun', 'gslm clawonu', 'glan calhuna'}, {'glAn calhaan', 'yham acloheh', 'golm cliohnu', 'gLln colohun'}, {'glon calhuan', 'Glwn calhnoe', 'gwlm clayeun', 'hilh aclwinu'}, {'glnu clohoon', 'gclm cylohwn', 'yhwe yqwlonu', 'glAn colhoun'}, {'gqlm cqaolun', 'glAn caelhon', 'glwN cwlhwyn', 'swne aglonhu'}, {'Glnn calwhen', 'whyw xlahuoy', 'glun colhoun', 'gglm cwalonu'}, {'qyna slahuih', 'glAn calhunn', 'gylm clayohn', 'Glnn cwlhiwn'}, {'glUn caulhon', 'gulm clehaum', 'hyme aclunhu', 'glne colhuwn'}, {'yhum acwhynu', 'glan colhonn', 'Glwn clyhoon', 'golm clahyin'}, {'glan callhun', 'gilm cylwuhn', 'zwme xlwyonu', 'glny clheuin'}, {'glnw clhuuin', 'gjlm caoluwn', 'qyye auqlonu', 'glun colheun'}, {'ghlm cleaown', 'gwln clihoyn', 'glUn calhiun', 'cilm hlawonu'}, {'shhh jlahuoh', 'galm claaown', 'glan ckalhon', 'glno calhyne'}, {'galn calhhnu', 'GLhn culoyan', 'xwne jlahioy', 'glOn calhuni'}, {'Ggln colhayn', 'zhme jluhuom', 'GLmn calwiom', 'glUn colheun'}, {'galn clhonuy', 'glOn calhenn', 'gglm cwlohnu', 'jyym aylonhu'}, {'gzlm cwlohum', 'ggln caelhhn', 'chiy aclohhm', 'glUn calhuhn'}, {'glIn culhoan', 'gqlm caluwom', 'gwln cleheun', 'kyww glahymu'}, {'Glyn cwlhain', 'gclm cleauon', 'glOn culhoen', 'chim kilwinu'}, {'glin culhonn', 'whuh aclyinu', 'GLMn cilohhn', 'gLln clhoien'}, {'glan colhuun', 'GLmn celwhan', 'glny cluhown', 'jhih auclanu'}, {'glIn calhean', 'gzlm calyuem', 'Ggln cailhhn', 'kynw qiwhanu'}, {'chom kowhinu', 'glUn calhoen', 'gzlm clahium', 'glnw calhnow'}, {'glin culhoen', 'goln clheaun', 'kyom hlehanu', 'GLmn celohhn'}, {'ggln cailhnu', 'glOn culhoun', 'syme ajlonhu', 'GLHn caluyno'}, {'Glnn clehoen', 'glun calheon', 'gwlm chlwynu', 'chum jlahuhy'}, {'glnu culhhyn', 'jhiy slahwoh', 'GLMn celyuom', 'glOn coalhon'}, {'gLln cualhhn', 'glIn calhaon', 'gilm calyuwm', 'kynu jlahinu'}, {'synu zlahuom', 'glIn calhune', 'glny colwhon', 'gqlm claywyn'}, {'guln claohon', 'shlm qlahyni', 'glOn caelhun', 'gglm cwlohyn'}, {'qyww klahuhm', 'glwN cwlhaen', 'glan callhon', 'gwlm cylihnu'}, {'gslm chlohan', 'glIn colhoin', 'hyme xlahuoy', 'goln colhnou'}, {'hwwh acyhynu', 'glne clwhhun', 'gulm ccaolnu', 'glun caolhon'}, {'hhne auclenu', 'glon calhona', 'GLhn colyihn', 'gLln calwhwn'}, {'glon caelhon', 'gwlm czaolun', 'glwN clhowyn', 'sely jlahuwy'}, {'glun calhiun', 'gelm clahyan', 'wwuh acwhuow', 'glni colhayn'}, {'gLwn cwlwhun', 'colw wulyuom', 'gqlm cylhenu', 'glUn coalhon'}, {'glUn calheun', 'xelw slahaoh', 'Glnn calehin', 'GLHn calwyom'}, {'qyne auclono', 'glnu cluhoyn', 'gilm calwynu', 'glon colhonn'}, {'glAn calhaun', 'gqlm culohym', 'hyly slohuoh', 'glnw calohen'}, {'gklm caluyom', 'saly xlwhynu', 'goln colahun', 'glUn culhoen'}, {'glOn colhohn', 'ghlm cluohyn', 'glne clhoinu', 'ewlw aclonho'}, {'kyym jlahuoy', 'GLMn calyaom', 'glon cawlhon', 'gLwn clihohn'}, {'Glnn cwlhnuo', 'galm celhwnu', 'chhw jyahuom', 'glan colhoen'}, {'glUn calhoan', 'GLhn chlhhnu', 'jwow hlahahu', 'gwln clhhaun'}, {'glin calhono', 'swuy jlayonu', 'glnw culhewn', 'gelm cilhhne'}, {'syoy zlahynu', 'guln calayhn', 'glun caulhun', 'gwlm chlwiwn'}, {'qeym acyhinu', 'gzlm cliohwn', 'glUn cahlhon', 'glne clhauon'}, {'glin caulhun', 'glnw clihown', 'gelm cylohwn', 'yyhw aclyanu'}, {'glan calhann', 'golm calwuim', 'chwe auwlonu', 'goln clohoen'}, {'glun calhiun', 'glwN caalhyn', 'gglm clyaown', 'yhum zlawonu'}, {'glOn culhoin', 'zhaw acyhuom', 'glnu clyhoan', 'gslm cyyolun'}, {'ggln caluhen', 'whme iclonhu', 'gzlm calwyni', 'glan calhonu'}, {'glOn calhuen', 'glnw colhony', 'gylm colhhem', 'qyhe glayonu'}, {'Glwn cwluhun', 'xyuh xlyhynu', 'gjlm calwyom', 'glun calhone'}, {'yynu jhahuoy', 'glun colhaun', 'galn clwhoyn', 'GLhn cwlohnu'}, {'ghlm cyyloon', 'glnu calwhyn', 'xylw zlahinu', 'glon culhaun'}, {'gxlm cylhanu', 'zyme acwhanu', 'Glnn clahoon', 'glAn calhoen'}, {'gLln coalhnu', 'gklm clayoin', 'jeww aiclonu', 'glIn calhoon'}, {'gqlm calyanu', 'gLwn clhaown', 'hwih hlahany', 'glIn calhuin'}, {'golm cyloynu', 'Glyn cwlhaan', 'glin calhuhn', 'salh hlahanu'}, {'hwny slwhuoh', 'GLmn cylyyan', 'glin calhuno', 'gLln calhwna'}, {'GLhn calwinu', 'hyuw glahhym', 'glon caulhun', 'Glnn cleohun'}, {'wwye qlahuom', 'gLwn clyhaun', 'gglm chlhiem', 'glAn calhone'}, {'glin calhehn', 'Glnn clhoeon', 'gxlm colohum', 'qeyw acyhuom'}, {'ghlm cwlhuom', 'jwni wlahinu', 'glin colhohn', 'glnu clhioen'}, {'kywy jlayonu', 'glin calhuno', 'GLhn celhiwm', 'Glwn culhhin'}, {'zhiy slahuho', 'glan calhune', 'gklm claywyn', 'Ggln clahhon'}, {'glIn calhinn', 'glwN colhiwn', 'gzlm calwwom', 'hynu glihynu'}, {'wyww aclenhu', 'gilm clauion', 'Ggln cwlhhin', 'glAn calhuni'}, {'xyuh glahynw', 'gxlm caolunw', 'glan calhune', 'glna cliohun'}, {'selw jlyhuom', 'glUn ckalhon', 'galm cuolyun', 'glny cahlhyn'}, {'qely acyhuom', 'glan caelhun', 'Ggln clhuoin', 'gulm cwlwuom'}, {'cwne xlyaonu', 'glun calheen', 'gylm culwuon', 'gLln clhoohn'}, {'glIn calhono', 'gglm caoluwn', 'hhuw hlahani', 'glni clehoin'}, {'zwme hlawanu', 'glAn calhuon', 'glni clhoihn', 'gclm claoawn'}, {'hhum glayonu', 'glin calhehn', 'gslm chlwwan', 'glnw culhuyn'}, {'glna cluhohn', 'swoy aclwanu', 'gqlm clowiun', 'glon culhaun'}, {'gilm cyeliun', 'Ggln cwlhein', 'glin calhuan', 'cyym aqlonhu'}, {'gqlm chlwwen', 'kyym glahyno', 'glin calhone', 'glny calehen'}, {'gLln clahiun', 'gslm clahwan', 'glOn calhian', 'hynu iclonhu'}, {'hhom xlaywum', 'glUn calhune', 'glno cwlhian', 'gwlm celyinu'}, {'gqlm colhhem', 'glun calhune', 'shne klaywum', 'guln calhenw'}, {'gqlm chlhuom', 'glno clwheun', 'glon calheon', 'selh ylahynu'}, {'Glnn calwhyn', 'hyih hlayanu', 'gzlm clawuom', 'glin calhonn'}, {'glne clhiuny', 'glon calhuun', 'gxlm clewaun', 'hhhw qulyuom'}, {'gjlm chlwwan', 'gwln colwhun', 'glUn callhun', 'hwne acloihm'}, {'jyne xlaywnu', 'glnu clyhoen', 'glAn calhono', 'gslm caluyno'}, {'zelm iclonhu', 'gjlm cyalonu', 'Glwn cualhhn', 'glun callhon'}, {'goln culhiwn', 'glin calhehn', 'gelm cyylohn', 'jyym quyhenu'}, {'wwwe kolyinu', 'gLln calhynu', 'gelm cylohna', 'glin calhean'}, {'gglm claohnw', 'glun culhiun', 'qyne auclinu', 'Glyn clohaun'}, {'jwow xlihynu', 'glin calhune', 'guln claihon', 'gulm calyyom'}, {'xynu aclonau', 'glun ckalhon', 'gglm cyyliun', 'Glnn clehoen'}, {'gslm clawown', 'glIn calhunn', 'goln clahoin', 'wyiw glahuoy'}, {'glun calhuon', 'glno clayhon', 'wwny slahuoh', 'gslm calwuhm'}, {'wehm xlahenu', 'gwln cliohun', 'ghlm cwalonu', 'glAn colhoun'}, {'glna calhneu', 'gxlm clayeun', 'qyiw jyahuoy', 'glUn calhuan'}, {'glIn calhohn', 'whyw aclianu', 'gxlm calwynu', 'glny cwlhehn'}, {'GLHn cyhlonu', 'chnh jlahuam', 'glUn caulhun', 'Glyn clhhoen'}, {'khom xleyonu', 'gjlm cilohwn', 'glAn colhoan', 'glne calohen'}, {'glOn culhoan', 'GLmn cahlwnu', 'goln calohan', 'wyno jlahuom'}, {'zilm xlayenu', 'glUn calhone', 'gLln culehun', 'GLhn caalwen'}, {'esly glahymu', 'Glln cwwlhun', 'glun cawlhon', 'golm cilyion'}, {'Glnn calwhyn', 'kelh slihuoh', 'glon colheun', 'galm chlwwum'}, {'glUn calheon', 'gxlm cahlonw', 'ggln clwhohn', 'hwni koyhinu'}, {'sulm jlahaom', 'glnw clhhuhn', 'gilm colwynu', 'glUn calhann'}, {'glon calhann', 'gklm celyonw', 'yhwm acloeym', 'gLwn clhaiun'}, {'glun calhain', 'gjlm colyonu', 'zhwh xlahyyu', 'ggln cwlhhon'}, {'GLhn celohyn', 'Glnn clhuoyn', 'jelh auclanu', 'glan calhion'}, {'glIn caulhun', 'Ggln callyhn', 'gwlm culohyn', 'chwm hlahahu'}, {'xhiy xlayowu', 'GLHn clahoim', 'glna cahlhyn', 'glUn colhonn'}, {'gilm cylyhnu', 'glAn caolhon', 'ywoh glahhyh', 'ggln calhyni'}, {'gjlm calyino', 'glun calhien', 'whne hlahano', 'Ggln cleheun'}, {'glan culhoun', 'syly aclyuoy', 'gqlm ccaolhn', 'gwln colhony'}, {'glIn cahlhun', 'glnw cwlwhon', 'yhum aclwinu', 'ghlm calwuhm'}, {'glun calhoin', 'qynu xluhynu', 'gzlm cylwuyn', 'gLln cuwlhon'}, {'gilm culwonu', 'glOn calhahn', 'glne cwlhnou', 'shaw glahynh'}, {'glOn calhoni', 'gjlm cyylyun', 'sywm aclohah', 'Glln culyhun'}, {'xelm xlahyne', 'glni clhooon', 'GLmn cwlwuom', 'glIn colheun'}, {'ghlm chlwwnu', 'glun calhann', 'kyiw aclawnh', 'glni colhiyn'}, {'zwme xlahuoy', 'galm chlohyn', 'glnw cwlhiyn', 'glon calhune'}, {'gxlm cahlony', 'Ggln clihaun', 'wwni jlahuiy', 'glun colheun'}, {'galm clawoen', 'Glyn clhauan', 'glin callhon', 'cyly iuclonu'}, {'hyne aclyanu', 'gklm colohwn', 'galn calhhne', 'glAn calhone'}, {'glin calhono', 'zwum aclwenu', 'gqlm calwynu', 'glnu caalhwn'}, {'GLHn culoyyn', 'glin calhien', 'qwne xlahinu', 'glny caolhwn'}, {'glOn calhuun', 'wwna zlahuoy', 'golm cylohnw', 'gwln clhooin'}, {'gulm cylwuwn', 'glne clhoewn', 'glIn cualhun', 'hywh qlayoni'}, {'whno wlahuom', 'glUn calhunn', 'glni culwhon', 'golm celohen'}, {'xwah xlayono', 'glnu cwlhone', 'gwlm clayuon', 'glUn calhein'}, {'glin colhoon', 'gylm clahwyn', 'xhne qlayoni', 'Glnn caylhan'}, {'glAn colhiun', 'kelw aclohhw', 'gclm cilyuon', 'glna clahuun'}, {'Glwn clhuown', 'hhuw xyayonu', 'gylm calyynu', 'glUn coalhon'}, {'glOn cualhon', 'golm colwihn', 'glwN culhhwn', 'seyy hlayanu'}, {'gzlm calwuym', 'glny cluhoan', 'glon calhonn', 'chye zlaywum'}, {'syim xwayonu', 'Glnn clyhoon', 'glAn calhoin', 'gjlm celyinu'}, {'GLMn clayoan', 'shnw jlayuoy', 'glnw clihoin', 'glUn calhona'}, {'glon calhunu', 'ggln clhoion', 'xyne jlahuwm', 'gylm calwanu'}, {'Glln clhhuin', 'jehh xlayony', 'GLhn calyuom', 'glin culhiun'}, {'glIn caulhun', 'gwln colhiwn', 'shym jlahuhm', 'ghlm celwuom'}, {'glwN cwlhunu', 'golm clayion', 'glin calhinn', 'ywhw xulyuom'}, {'glOn calhone', 'jyhe aclwhny', 'guln cwlhyyn', 'gglm clyawun'}, {'wyiw xyayonu', 'GLHn cilohum', 'glUn calhunu', 'Glwn calhwna'}, {'glne colhiwn', 'glUn cualhun', 'yhhw awlonhu', 'gwlm clayeun'}, {'gjlm clawyun', 'wyww aclyenu', 'gLln cwlheyn', 'glun calhono'}, {'glon calhuin', 'gclm clawiun', 'hwny acluhno', 'gLln cluhaun'}, {'gzlm calwynh', 'glIn callhon', 'cyme qlawonu', 'gLwn clhooin'}, {'glna clhooan', 'glon calheen', 'gklm calyeom', 'ywhw gluhynu'}, {'glny clhoein', 'shly hlahamu', 'GLhn cwlohyn', 'glAn calheen'}, {'chhw kyolunh', 'gjlm clayion', 'gLln clhoewn', 'glAn calheon'}, {'ghlm colohyn', 'glin caelhon', 'hhom gloahuh', 'galn clauhon'}, {'gilm clayoen', 'celm qlahynu', 'glIn calhain', 'Glyn cluheun'}, {'gelm calwuem', 'qelh slahuhh', 'glAn culhonn', 'glno clehoen'}, {'glin caulhun', 'zhum jlahuhy', 'ggln calhwnu', 'galm clahuom'}, {'galn cwlhhwn', 'GLHn colyuon', 'glon cailhon', 'shiy qlawoni'}, {'glnw calhnie', 'kynw auclonh', 'GLmn cilyuon', 'glUn calhion'}, {'gLwn cwylhon', 'sywy aclonhu', 'glOn cailhon', 'golm calyaom'}, {'glUn calhune', 'glny cwlhaan', 'whaw jlahyom', 'gklm cylownu'}, {'zyam jluhuoy', 'glOn calhona', 'GLmn cilohen', 'Ggln calhiny'}, {'GLMn cyaolun', 'glIn cawlhun', 'eslm syahuoh', 'glnw cwlehon'}, {'galn calhnoi', 'galm claywum', 'glon colhoen', 'swwh azlonhu'}, {'wyiw hlahawu', 'glin cualhun', 'gjlm calyynu', 'glna clhoiin'}, {'gwln cwlhony', 'gklm celwuon', 'syme glahyno', 'glin calhahn'}, {'Glln clhhuan', 'yhaw acyhinu', 'gjlm celohen', 'glin culheun'}, {'glUn culheun', 'Glyn calyhan', 'jhah glawonu', 'GLMn colohwn'}, {'wylw xlihynu', 'glne cwlhean', 'gklm chlohin', 'glIn cawlhon'}, {'ghlm cylwuwn', 'glUn callhun', 'jwow aclywnu', 'Glyn clhiiun'}, {'glUn culhiun', 'hyum acloham', 'glnu culihun', 'gqlm cliaown'}, {'gilm clahium', 'wywy xlahinu', 'glOn caelhun', 'glne clhiuon'}, {'gwln clhheun', 'gclm clawoyn', 'glUn caalhon', 'hyuw gloahuw'}, {'Glwn cwlhune', 'jhni slahuho', 'GLHn cyyluon', 'glIn culhoen'}, {'esly slawuoh', 'glnw clhoian', 'glIn calhuen', 'golm calwymu'}, {'goln clohuun', 'golm clawohn', 'glan calhune', 'welm kolyinu'}, {'glun calhann', 'GLmn chlwhan', 'sehy wlahinu', 'glny colheyn'}, {'wwme zlahinu', 'glon culhonn', 'GLHn cwlyuom', 'Ggln cloheun'}, {'gelm calohmw', 'glIn calhoin', 'Glln clheoon', 'shlm zlahwnu'}, {'glOn calhuen', 'gilm clawoon', 'wulw quyhenu', 'glnw cwlheyn'}, {'glIn calhinn', 'galn cuwlhon', 'gilm claohum', 'xwuh qlahnoi'}, {'hylw acloheh', 'gjlm clahomu', 'Glln callhnu', 'glOn calheun'}, {'ggln cawlhyn', 'glAn colhiun', 'gwlm cilhhne', 'whym qilyanu'}, {'jhwe jlahuem', 'glin calheen', 'gglm cylhwnu', 'glno cwlhain'}, {'golm clawoen', 'glna clwhoen', 'swnu acloneu', 'glUn calhuun'}, {'glan caalhun', 'gLwn clihoyn', 'ceww acyonhu', 'GLHn cyyliun'}, {'GLhn cylwuan', 'glun colhoun', 'Glnn calohan', 'hyme hlehanu'}, {'welw uuclonu', 'glin callhon', 'gilm cyylohn', 'gLln colhuwn'}, {'glon cailhun', 'glna cwlhhen', 'swwm aclunhu', 'gclm culowan'}, {'zhiw glahuoy', 'ggln colhhwn', 'gelm cilhhne', 'glUn calhuan'}, {'gwlm calwumo', 'glun culhonn', 'glna cwlhien', 'qyiw aclohhw'}, {'syim ylahynu', 'glan colhiun', 'GLHn chlwywn', 'glny culhwwn'}, {'khoy jlahuay', 'glin cawlhun', 'gwln cwluhon', 'gelm chlohnw'}, {'glan calhonn', 'gqlm cylwuyn', 'cwwy glihynu', 'Glln clhiunw'}, {'yhom jlahuim', 'glnu cualhyn', 'glOn colhoan', 'gglm culoeyn'}, {'gjlm celohnw', 'goln caalhwn', 'syum jwahuom', 'glin colhoin'}, {'Glnn cwlhhyn', 'glOn culhoun', 'khnw auzlonu', 'galm cylwhnu'}, {'cilm koyhinu', 'glun culhuun', 'gclm claaown', 'guln caloyhn'}, {'glun calhuen', 'gilm chlwewn', 'glna clohuun', 'shwy auclony'}, {'whyw kilwinu', 'gLln calihin', 'gslm cluywun', 'glUn culhoin'}, {'glUn culhonn', 'gclm culuhyn', 'kynu qlahuoy', 'Glnn caluhhn'}, {'welh jlahuym', 'GLhn clawuom', 'glIn callhun', 'Glnn clahown'}, {'glun culhoin', 'Glwn calhwni', 'shwe slawuoh', 'gklm cwalonu'}, {'whme qihhanu', 'gklm clahyyn', 'glnu calyhan', 'glIn cawlhon'}, {'glon calhiun', 'gglm calyiom', 'glna cwlhhwn', 'zylw wlahuow'}, {'glon colhiun', 'gclm clawoen', 'glna claehun', 'shly kihhinu'}, {'Glyn caalhhn', 'golm cleyaun', 'qhaw jlayuom', 'glon calhaan'}, {'gglm caliwnu', 'glnw calhwna', 'glUn calhune', 'cehm jlayuoy'}, {'glon ckalhun', 'galn cluhhun', 'swnw zlahuom', 'gqlm calyuhm'}, {'glan calhonn', 'whiw cuwyuom', 'galn cwlhiwn', 'gqlm cilhynu'}, {'cely yuclonu', 'glAn calhawn', 'Ggln calhanw', 'gilm calihnw'}, {'gylm celyona', 'goln calhhni', 'glun calhein', 'whiy xlyyonu'}, {'hwum ghahynu', 'guln calhnau', 'GLmn chlwwin', 'glOn calhuan'}, {'glun calhoon', 'glwN clauhun', 'celh cuyyuom', 'galm caoluyn'}, {'Glnn clhoein', 'kywy klahuow', 'glOn colhuun', 'golm cylohyn'}, {'glin calhiun', 'GLhn clawuny', 'swah kaolumh', 'Glwn cawlhhn'}, {'gLwn calehan', 'gklm claoeyn', 'glon coalhon', 'yhom jlahuow'}, {'glna calohhn', 'gclm cylohno', 'glOn caolhun', 'zwwm glahyhu'}, {'glny calehin', 'zhiy yclonhu', 'glin colhoen', 'gwlm cylohhn'}, {'gxlm clayuon', 'glUn culhiun', 'jhuh jlahuhy', 'gLwn clhioan'}, {'glnw cwlhony', 'swuh jwahuoy', 'GLHn culoyan', 'glin calhihn'}, {'khhw xwayonu', 'goln clohiun', 'glin calhune', 'GLHn calyenu'}, {'shhm slahuih', 'glAn calhuin', 'Glwn clheown', 'gzlm calyynu'}, {'glne cwlhuny', 'seym gloahuy', 'glan culhaun', 'ghlm caluyom'}, {'Glnn cualhwn', 'glIn calhenn', 'ghlm chlwwan', 'qeyh jlaywan'}, {'GLHn calwiem', 'seww auclony', 'glOn calhoan', 'glwN calhnaa'}, {'glin calhoin', 'gLwn cwlhono', 'hwhe jlahwoy', 'gelm colwuom'}, {'glni clyheun', 'gilm claowny', 'zhiy acyhinu', 'glin calhonn'}, {'wwuh hyahanu', 'gglm calyyom', 'glOn culhiun', 'Glyn calheny'}, {'gqlm cyaolun', 'glni calhnoo', 'hhwh zulyuom', 'glIn colheun'}, {'glOn culhonn', 'gylm colohnw', 'glnu calyhan', 'heww glahynu'}, {'gzlm culohum', 'swhy oclonhu', 'glun calhian', 'glnw clhhaun'}, {'Glnn colhhan', 'gelm chlwiwn', 'glUn cualhon', 'wwlw acwhuom'}, {'glun caulhon', 'gulm calyaom', 'wywy aylonhu', 'Glyn cwlhiwn'}, {'glun culhuun', 'gclm culyuon', 'ywhh aclonhw', 'gwln clihown'}, {'gjlm chlowwn', 'glun colhoan', 'syme acwhwnu', 'Glyn culahun'}, {'glOn calhohn', 'golm cylohnh', 'chhe aclyanu', 'glne clwhhun'}, {'gjlm clahoim', 'ggln claihun', 'xelm klayonu', 'glUn calhion'}, {'glan colhuun', 'hely jhahuoy', 'glni colhewn', 'gglm claohwn'}, {'syhy aclwanu', 'gwln colhhan', 'glun colhoin', 'gclm clowiun'}, {'shly xlaywum', 'gilm culwuom', 'glAn ckalhun', 'glnu clhoiwn'}, {'glnw clauhun', 'gqlm cilohhn', 'kelm glahynu', 'glUn calhiin'}, {'ghlm caolunw', 'jehh gleyonu', 'Ggln clehoan', 'glan calhaun'}, {'glan colhuun', 'gwln cwlohon', 'suly acloham', 'gzlm cyyloum'}, {'glUn calhuen', 'yeww jlaheom', 'glni cwlheyn', 'gilm cilyion'}, {'GLHn cylohen', 'glnw calhanw', 'yehw ccaolyw', 'glun calhein'}, {'glUn culhohn', 'galm clahyen', 'khoy qlayoni', 'glnw calhney'}, {'gzlm cwlohyn', 'wilm wlaywum', 'glan colhoen', 'glwN colohon'}, {'Glln cualhhn', 'glAn calhaun', 'gylm celhiwm', 'hhiy ayclonu'}, {'glnu clhoywn', 'gwlm chlwuon', 'chiy auclwnu', 'glAn calhuno'}, {'glun culhoan', 'chni zlahinu', 'gklm calwuom', 'glni cluhohn'}, {'zhwy zlawonu', 'gzlm celohyn', 'Ggln cwlhoni', 'glIn calhawn'}, {'gilm cylyuom', 'glno clheuon', 'glIn colhoan', 'hhhm glahyny'}, {'glUn calhohn', 'shiy auclomu', 'golm calwuam', 'goln cwlhwwn'}, {'glon caelhon', 'zelw acwonhu', 'gilm clawoin', 'Glyn clhiuun'}, {'gylm celyony', 'jyhe auqlonu', 'glOn culhoin', 'ggln colhony'}, {'chim slayonu', 'gwlm cylwuhn', 'gLwn culhayn', 'glun callhon'}, {'glOn calhaan', 'gslm chlohyn', 'hhhh auqlonu', 'gLwn coalhnu'}, {'glAn calheun', 'glnu clhoeny', 'GLHn cylownu', 'cwwy jlahuwy'}, {'gglm cliywun', 'glnw cluhoyn', 'glUn culhohn', 'khaw jlahenu'}, {'gklm claeown', 'celw kaolynh', 'glon culhoun', 'gwln clohhun'}, {'suly auclynu', 'gLwn calhnie', 'glan calhonu', 'gklm caluwno'}, {'zham qlahuoh', 'glan caolhun', 'gLln clhauan', 'gylm clahohm'}, {'kywy xlwyonu', 'gklm cloaown', 'glAn callhon', 'Glwn caylhyn'}, {'qwiw slwhuoh', 'gLwn calhnoa', 'glIn calhoan', 'galm coloyen'}, {'gzlm cahlynu', 'glOn culheun', 'Glln clhaohn', 'hwna gloahwn'}, {'GLHn celyinu', 'glan cailhun', 'Glyn calhynu', 'shom klahiim'}, {'guln cluhoen', 'gqlm chlowwn', 'glin calheun', 'zywy klahynu'}, {'Glwn clehoin', 'xyne glahhyh', 'gglm cylwuyn', 'glon caalhun'}, {'seym qlahuoh', 'gclm chlhwnu', 'glni calawhn', 'glan calhenn'}, {'gwlm cylhenu', 'jywy acwhuom', 'glun calhaan', 'glni calhnie'}, {'glin calhono', 'glno cwlhuno', 'gjlm cwlwynu', 'chnu aclwynu'}, {'glno calyhen', 'gclm calohmw', 'xwhe ylahinu', 'glAn calhehn'}, {'glin calhuni', 'yhaw slahuah', 'glna caohlhn', 'gclm calyiom'}, {'glan colhuun', 'glnu culhayn', 'qywy xlahyyu', 'gqlm clahyyn'}, {'gglm celohan', 'glUn cailhun', 'wylw awlonhu', 'glni clhoein'}, {'glon calheen', 'GLMn cylwuyn', 'xynu xlahyny', 'glnu calywhn'}, {'golm clahoim', 'glIn calhaan', 'galn coalhnu', 'jhwh hhahanu'}, {'wely gulyuom', 'gLwn clhoein', 'gqlm cylehnu', 'glin calhahn'}, {'gwln clehoan', 'gzlm culyuom', 'hhiy aclohwy', 'glin culhoon'}, {'glAn calhaun', 'whne ghahynu', 'glnw cwllhon', 'GLHn cwleuny'}, {'whme xlahyno', 'gclm cyluhnu', 'Glwn culohon', 'glIn calhein'}, {'khay glayonu', 'glni clhiuon', 'gjlm calweom', 'glan calhune'}, {'Glwn clhioen', 'glun calhune', 'gxlm coloeyn', 'selm jlahuom'}, {'gLwn calheny', 'lnue auclona', 'glin calhune', 'galm chlhywm'}, {'glOn calhuun', 'helh aclyanu', 'gzlm caluwom', 'gwln clhoewn'}, {'zynu slahuyh', 'GLMn calwyno', 'Glnn cahlhwn', 'glUn calhonn'}, {'ghlm calyeom', 'glan caulhun', 'guln clahiun', 'seww xlahyyu'}, {'sylw uuclonu', 'glUn culhuun', 'gelm culoyyn', 'Glwn clihoen'}, {'Glnn cwlhien', 'qynw xliyonu', 'GLhn claowny', 'glin calhonn'}, {'GLhn claaown', 'gwln clhhoon', 'wwni slayonu', 'glan calhenn'}, {'zwum jlahinu', 'goln culhuny', 'GLhn cweliun', 'glAn cualhun'}, {'qyhe aclwynu', 'glAn calhaan', 'gLwn caolhhn', 'gslm chlwuon'}, {'gklm cylohwn', 'Glln calhiny', 'glin calhone', 'jhiw hlahanh'}, {'hwim jluhuoy', 'glan cawlhon', 'glny clihown', 'GLMn clahoam'}, {'yewh slaywum', 'glne clhaoin', 'glan colhoin', 'GLHn cylwuom'}, {'glin caolhun', 'glno cwlhuyn', 'gxlm celyony', 'syum glahyny'}, {'gqlm chlhuom', 'glny clwhoyn', 'glun calhonn', 'chhe slohuoh'}, {'glin ckalhun', 'cely klahuow', 'GLhn caloeym', 'glno claihun'}, {'xhiy hlahany', 'glOn ckalhun', 'gilm cwlohyn', 'Glyn calihen'}, {'zwim jlahuym', 'GLhn cyyolun', 'glIn calheen', 'glni cwlhhon'}, {'gLln clhoony', 'gklm clawonu', 'hwuw kihhinu', 'glan calhoin'}, {'GLmn clahyen', 'glne cwlhayn', 'glan calhuna', 'chiy iuclonu'}, {'gLwn clwhohn', 'gclm clawyun', 'whhh jlahuwm', 'glan culhoen'}, {'Glnn calhnoy', 'whhw hlayanu', 'gwlm cwlwonu', 'glan calhien'}, {'glIn cahlhon', 'zelw slawuoh', 'gzlm cilohen', 'gLln clehohn'}, {'zhiw klayonu', 'Glwn colhhwn', 'glin culhohn', 'galm celwuom'}, {'syay aclonhy', 'glan colhohn', 'GLmn chlhhne', 'Glyn cwlheen'}, {'glOn colhohn', 'galn clahiun', 'hwiy xlawonu', 'gelm celohen'}, {'gLwn culuhun', 'gclm caluyno', 'glin colhoan', 'suly jwahuom'}, {'glIn ckalhon', 'kyom slahuyh', 'goln calhnai', 'GLmn calihem'}, {'hylh jlahynu', 'Ggln cwlhian', 'glan coalhon', 'gelm cylhhne'}, {'Glnn cawlhyn', 'glIn calhaun', 'ghlm clehium', 'colh jlahuey'}, {'Ggln clhhuny', 'seww xlayohu', 'gwlm chlhinu', 'glon cualhon'}, {'zwne xlayonh', 'glun calheun', 'Glwn cahlhnu', 'gylm cilhhne'}, {'gklm colhhem', 'ggln clheoon', 'glan calhone', 'whhy hlahani'}, {'jely aclonhh', 'gzlm clahyyn', 'glUn caalhon', 'Glnn cwlwhon'}, {'Glnn clhhhun', 'xhhw aclywnu', 'glUn calhunn', 'galm clayoin'}, {'Ggln calyhin', 'glin colhohn', 'gzlm celohwn', 'cyne qilyanu'}, {'glin coalhun', 'yhhh slahuow', 'guln clhaoon', 'GLmn celyono'}, {'hyom hlayonu', 'gwln cualhhn', 'ghlm celohhn', 'glon colhoon'}, {'glun culhonn', 'sulm zleyonu', 'ghlm cylwuin', 'gLln calhniy'}, {'synw slayonu', 'gglm cilohhn', 'gLln clhhoyn', 'glin calhuen'}, {'GLmn cyyliun', 'glAn calhoan', 'glny cowlhun', 'colw slahuow'}, {'goln clayhon', 'ywoh aucwonu', 'glun caelhun', 'gelm clahhum'}, {'Glyn cwlhawn', 'yhwm xlayonu', 'glan calhona', 'gwlm calwwom'}, {'chne aucloyu', 'glan calhoon', 'ghlm cyluhno', 'goln clwhoon'}, {'galn colhunw', 'yyym aclwhne', 'glin culheun', 'GLmn calyenu'}, {'glwN clhuuon', 'wwwe acyhynu', 'glIn caelhun', 'gklm calohem'}, {'gLln cwlhwwn', 'gclm celyonh', 'kylw klaywan', 'glOn calhean'}, {'glni culhiyn', 'glun colhoen', 'gslm calohim', 'syly jlawuom'}, {'zyww kleyonu', 'ggln clhioon', 'glin caalhon', 'galm culuhyn'}, {'ggln clihohn', 'glun coalhon', 'gylm culyonu', 'syim jlahuhy'}, {'glny cwlhawn', 'jhhe kohhinu', 'glun callhun', 'gglm celwuom'}, {'glIn calhinn', 'galm claywwn', 'ewlw ylawonu', 'galn clyheun'}, {'sylm klahwnu', 'gqlm claywon', 'glwN colohun', 'glun cahlhun'}, {'yewh xlayinu', 'gLwn clhioon', 'glUn cailhun', 'gclm cwhlonu'}, {'glun calhehn', 'Glwn cwlhwwn', 'khyy kaolynh', 'gwlm calyiem'}, {'glna culihun', 'hhiy aclahnw', 'GLHn celohen', 'glAn calhuni'}, {'gglm calyuwm', 'glOn colhuun', 'Glwn calhnwy', 'zhiw qilwanu'}, {'ywwh xleyonu', 'gelm cwaolun', 'Glln clhhuny', 'glUn calhoni'}, {'glin culhonn', 'golm claoiwn', 'whuh cuwyuom', 'Glyn cailhwn'}, {'gLwn clhioon', 'GLhn cwalonu', 'glin cualhun', 'xyww jlihuom'}, {'jelh aclonyu', 'ghlm chlwwon', 'glon calhohn', 'glne colhhyn'}, {'jyym qilwanu', 'glun calhona', 'glny calyhyn', 'gjlm celyoni'}, {'glin calhuin', 'gulm calwyom', 'hyym gloahuh', 'guln clwhiun'}, {'glne cwlhain', 'glOn calhoin', 'gklm chlwuwn', 'chhw hlahamu'}, {'gjlm calwyny', 'chwm aclomhu', 'glAn calhenn', 'goln calhnae'}, {'whaw shahuoh', 'glnu caelhhn', 'glUn calhain', 'gulm cylahnu'}, {'glun culhiun', 'gzlm cyyloen', 'gLwn culhuwn', 'zhiy xlaywum'}, {'glun calhahn', 'gilm caalwen', 'hwim jlahuoy', 'Glln cwlhwyn'}, {'gjlm cxaolun', 'shne acwhynu', 'glne cwlhuna', 'glan calhuna'}, {'GLHn calyiom', 'glun calhuan', 'goln calihan', 'whow acyhynu'}, {'shwe auclynu', 'gclm calywnu', 'glnw calhnoa', 'glIn cailhon'}, {'glAn calhawn', 'cwwh wlahynu', 'gulm cliywun', 'Glnn cailhwn'}, {'glna cluhoyn', 'xulh jlahiom', 'glin calhunu', 'gglm claywum'}, {'galn clhownw', 'golm clawoum', 'syam xlahuow', 'glon calhono'}, {'glIn calheun', 'Ggln claahon', 'jelh kaolumh', 'gwlm cwlohum'}, {'glun caalhon', 'Glln culahun', 'gxlm cwlohnw', 'whow auclono'}, {'glAn calhiun', 'gjlm celyhnu', 'glnu cahlhhn', 'whno hlaywum'}, {'glOn caulhon', 'glnu calhnah', 'cyme xliyonu', 'GLMn chlwwnu'}, {'glIn culhaun', 'whym jlahuyo', 'gLln calehin', 'gslm chlwwhn'}, {'GLHn claiown', 'qywe hlahinu', 'guln clheiun', 'glan caolhon'}, {'glny calohhn', 'hyom kowhinu', 'glan calhein', 'gzlm cylohmu'}, {'gelm cyyloen', 'synu hlahynu', 'glOn culhoon', 'glna clahohn'}, {'glOn calheon', 'guln colhhon', 'GLMn caluyno', 'jhhe glawynu'}, {'gwln clhoien', 'glIn callhon', 'galm cyyleun', 'silm xlahuom'}, {'Glwn calhnow', 'glUn calhuni', 'gxlm cleaown', 'whiy jlahuhy'}, {'gklm cylhanu', 'glnu clhhoyn', 'glan calhion', 'cyme qilwanu'}, {'glno clehoen', 'glOn calhien', 'yehw hhahanu', 'gslm cwluhno'}, {'glan caalhun', 'GLHn cyalonu', 'glni calhenw', 'wwnh quwhenu'}, {'glnu clehoan', 'golm chluhno', 'glin calhuan', 'jhwe jlahyom'}, {'gclm clahuum', 'goln clahaun', 'qyno qulwenu', 'glIn calhoen'}, {'glun calhahn', 'jhhh xlayonh', 'gylm chlhwnu', 'glna cwlahon'}, {'gxlm calohym', 'glOn calhoin', 'suly glawonu', 'ggln clhaaun'}, {'hyiw jlwhuoy', 'glAn calhien', 'gwlm chlwiwn', 'galn clhiaun'}, {'galn cluhuun', 'glAn cailhun', 'wehm sleyonu', 'gslm caoluwn'}, {'Ggln calhnie', 'GLMn clawuny', 'glan cawlhon', 'wylw hlayonu'}, {'galn calhnoo', 'glUn culhoin', 'GLHn cylohin', 'jywy huclonu'}, {'glun culhonn', 'GLhn cwlohum', 'cylm iuclonu', 'glna calhhnu'}, {'gelm cwlohwn', 'ggln clahiun', 'zyym klahynu', 'glUn cualhon'}, {'glon calhehn', 'glni calihan', 'gilm cwaolun', 'sywm ylahwnu'}, {'Ggln clhuoin', 'sewm slayuoh', 'gslm chlhanu', 'glAn caulhon'}, {'GLMn cliywun', 'glAn colhiun', 'shly aclohhy', 'Glnn colhhwn'}, {'GLmn celyynu', 'glnw cwlhhin', 'glOn calhein', 'hwne awlonhu'}, {'gjlm calwymu', 'khiy zlahwnu', 'glni calihin', 'glon calhohn'}, {'glwN caliyhn', 'glOn culheun', 'gglm cilohin', 'sehm hlahenu'}, {'glin calhiun', 'gulm cylwuyn', 'wwme aclohhm', 'glny calhwni'}, {'glwN clhohwn', 'glon calhahn', 'saly xlayynu', 'gylm clahomu'}, {'glOn calhuna', 'galn culhnou', 'gulm caloham', 'chno glahynh'}, {'glAn calhawn', 'whhw klahuhw', 'ggln caolhwn', 'GLMn clayoin'}, {'glIn colhoun', 'Ggln calhhnu', 'galm calohym', 'whyw acloyhu'}, {'gilm clahohm', 'glun coalhon', 'yhuw julyuom', 'Ggln clhiuhn'}, {'zylw hlwhanu', 'gclm chlohnw', 'ggln calihin', 'glIn calhuin'}, {'hwna glahynh', 'glny colhnou', 'glIn calhian', 'gclm clwaown'}, {'gilm coloewn', 'cywy kyolunh', 'ggln calhhne', 'glun calhohn'}, {'glAn calhahn', 'gglm celyonw', 'jhiw xlayona', 'glnw cwlhnou'}, {'glun calhoin', 'glne caloyhn', 'yylw xlohynu', 'gylm cilohnw'}, {'galm cylohmu', 'sylw jlayuom', 'glan cailhun', 'glny cwlhewn'}, {'gelm calwinu', 'glAn cawlhon', 'glnu culihun', 'shym glohynu'}, {'gilm ccwolun', 'colm aucloyu', 'glUn coalhon', 'guln caolhyn'}, {'glan calhunn', 'khay xlaywnu', 'gylm ccaolwn', 'ggln clhaoin'}, {'hywy ylahwnu', 'glin calhoin', 'galn calwwhn', 'gzlm cyyliun'}, {'galn clhhaun', 'glun coalhun', 'gjlm clawuon', 'qilw slahuhh'}, {'gilm cwlwuom', 'glun caelhun', 'whaw gloahum', 'Glyn clhaiun'}, {'Glyn claahun', 'yehm aclonwu', 'gklm cyylwun', 'glIn calhonu'}, {'gulm celhhne', 'shaw aclohyw', 'glon calhohn', 'gwln clhohwn'}, {'glin caelhun', 'golm calohhm', 'glni caolhyn', 'shwe auclonh'}, {'glno calehin', 'cynu slwhuoh', 'gclm celywnu', 'glAn calhoen'}, {'gklm cleyaun', 'qhiy jlahuwm', 'glwN cawlhhn', 'glAn culhohn'}, {'GLHn cylohni', 'glnw clihoan', 'zhhw jlahuwm', 'glAn calhoin'}, {'glUn culhonn', 'glni cwlhnou', 'jhuh jlahanu', 'GLmn chlhywm'}, {'gulm cloywun', 'glne colyhon', 'zulm aclwuom', 'glIn culhoon'}, {'gLln calhnay', 'glUn calhoen', 'hyum ylahuoh', 'gglm cyolhnu'}, {'ghlm colhwem', 'wham glahyhu', 'glni clehoon', 'glUn coalhon'}, {'gwln clheiun', 'gwlm cylhenu', 'glan calhuna', 'khiy glaywum'}, {'glIn calhaen', 'glny cwlhiin', 'gslm claywwn', 'qyne xluyonu'}, {'guln culahun', 'glUn culhaun', 'gilm chlhenu', 'xhne qlahuoh'}, {'golm colwoem', 'yyhh qlaywan', 'Glln caelhyn', 'glan cualhun'}, {'glOn calhuhn', 'gklm cyloeyn', 'Ggln clyhuun', 'syhm aclohem'}, {'qyme slahuow', 'glin calhune', 'GLMn cahlynu', 'gLln clhiunw'}, {'glAn calhuun', 'gylm clayoen', 'gLwn clhhown', 'yhow xloyonu'}, {'GLMn colyonu', 'kyom jwahuoy', 'glun caulhun', 'ggln colhunw'}, {'gzlm cloywun', 'Ggln clhhaun', 'qyiw qiwhanu', 'glIn caalhun'}, {'yham qilwanu', 'glun calhiin', 'GLmn clawonu', 'glnu cwlhunw'}, {'qhaw ccaolyh', 'gxlm clahnou', 'glUn cawlhun', 'Glyn calhyny'}, {'glnw clwhoyn', 'glUn calhoen', 'GLmn caolunw', 'zhow hlahanu'}, {'goln caylhan', 'golm cyylwun', 'jelw aclyinu', 'glIn cailhun'}, {'glIn colhoen', 'coly klahuhy', 'glwN calyyhn', 'gjlm chlwwen'}, {'whlw aclohaw', 'Glln cwlhiyn', 'GLHn celyoni', 'glOn calhuan'}, {'kwnw aclohym', 'glUn cailhun', 'GLMn clahwen', 'gLln cwlhien'}, {'glnw clwheun', 'lnue qilyanu', 'gzlm chlwonu', 'glon culhoon'}, {'zhww hlahamu', 'glwN clhuiun', 'gglm culyuom', 'glon colhuun'}, {'glan colhuun', 'wwlw slehuoh', 'gqlm clahoym', 'glna clhheun'}, {'swlm ylahuoh', 'gqlm ccaolwn', 'glan colhaun', 'gLln clahhun'}, {'golm cylwuen', 'Glln clhoany', 'wywy aclohmw', 'glOn callhun'}, {'glno clohhun', 'kwom klahuhh', 'glan calhone', 'gulm calwinu'}, {'GLmn claywum', 'glin calhone', 'glni clhauin', 'hynu zlayonu'}, {'Glyn calyhhn', 'gglm clahuum', 'glIn calheen', 'swno zlaywum'}, {'golm chlwwhn', 'glnw culohun', 'jhwe slahwnu', 'glon calhain'}, {'glIn calhuon', 'GLhn clahoom', 'shly wlahinu', 'gwln clhhuhn'}, {'Glwn calyhnu', 'gjlm culowan', 'swhy xlahyyu', 'glin calhoen'}, {'swnw auclonh', 'glAn calhaun', 'GLHn celyonu', 'glna cailhhn'}, {'yylw jlyhuom', 'galn cwlhehn', 'glan cawlhon', 'GLmn clayoum'}, {'gxlm chloeyn', 'glin cualhun', 'cyym auylonu', 'Glnn colhhwn'}, {'glun calhain', 'yhhw hlahanh', 'Glln cluhoyn', 'gzlm caluyom'}, {'Glnn caliyhn', 'gjlm chleonu', 'glan cailhun', 'wyym aclwuom'}, {'glnw clohoyn', 'glAn colhiun', 'ghlm cyylyun', 'zhwe qulyenu'}, {'gelm calonwu', 'glun culhoon', 'guln clhiuun', 'helm slaywum'}, {'glUn calhoan', 'gslm celyonh', 'Ggln coalhnu', 'cwwy aclenhu'}, {'glin calhoan', 'sylm iuclonu', 'gwln calhnau', 'gzlm clawiun'}, {'glUn caelhon', 'Ggln clhiuan', 'jyym gloahnu', 'GLHn cwlwonu'}, {'glin caolhun', 'gslm claywin', 'glna cwlhoni', 'khom uuclonu'}, {'qhuy jwahuom', 'glOn caelhon', 'gjlm clayuwn', 'glne cliheun'}, {'glin colhaun', 'cyne jlahuam', 'GLmn calyeom', 'Glwn calahin'}, {'glIn calhohn', 'galm cleaown', 'yelm kolwinu', 'guln clehoon'}, {'sylm xlayonh', 'Glwn calhany', 'glin cailhun', 'galm chlohnu'}, {'kwom jlaheoy', 'glAn coalhon', 'gelm chlhynu', 'Ggln caloyhn'}, {'gelm cwlhiem', 'glon calhuan', 'glnu cleohun', 'sywm gloahuy'}, {'sulm wlahenu', 'glun calhuin', 'glny colhuyn', 'gelm claoeyn'}, {'cilw koyhinu', 'GLMn colwoem', 'glon calhone', 'glne clwhhun'}, {'qhwe aclohwh', 'glIn caolhon', 'gxlm cilohhn', 'gLwn clhohwn'}, {'glne clehuun', 'jhuh kwolunh', 'GLhn chlhuom', 'glin colhiun'}, {'glun calhona', 'gklm clehaum', 'chhw aclwenu', 'gwln cwlohun'}, {'glin culhoen', 'gulm celyuom', 'swhy aclohem', 'glnw cwlhayn'}, {'glnu colhiwn', 'qyiw qiwhanu', 'glAn colhoin', 'gylm celyonh'}, {'gilm coloeyn', 'colh acwhanu', 'ggln cwlhhen', 'glAn calhehn'}, {'glUn calhinn', 'Ggln calhwnw', 'gjlm calyuem', 'jyww klawonu'}, {'galn clihhun', 'glUn calhinn', 'synu aclaenh', 'gwlm calyenu'}, {'welm aclonau', 'glon calhian', 'ghlm chlhuom', 'glnu clheiun'}, {'galm celohen', 'glne clhauon', 'glun calheon', 'shne aclwhne'}, {'Glwn colhhen', 'gclm celwonu', 'hhaw xlahymu', 'glun colheun'}, {'glAn colheun', 'shne xlahuoy', 'glnu clohuun', 'gwlm cylhwnu'}, {'golm cwleuny', 'qeww wclonhu', 'glAn culhuun', 'glwN cwlhiyn'}, {'glon calhuan', 'glwN clwhuun', 'GLHn calwiom', 'esly jwahuom'}, {'hwiy xlahyyu', 'glna calhnae', 'glon colhoun', 'gwlm cilwonu'}, {'hwny jhahuoy', 'glny cwlahun', 'glIn culheun', 'gelm cylwuom'}, {'Ggln clyhaun', 'GLhn cyyloon', 'glAn colhoan', 'xwwh slohuoh'}, {'glAn calhain', 'colw uclonhu', 'glnu clehown', 'gclm clawonu'}, {'glUn calheon', 'cilm hlahawu', 'Glwn clehoin', 'gzlm celyoni'}, {'cylh slahuhh', 'glnu clyhhun', 'ghlm cilyion', 'glOn cailhon'}, {'glUn colhoin', 'glnu calyhyn', 'jelw qlawoni', 'gylm cylohny'}, {'whim aclynhu', 'gwln clahoin', 'glin calhuun', 'gilm clayuun'}, {'glny cwlhiin', 'glUn callhon', 'syhy ayclonu', 'gjlm calyiom'}, {'glun cualhun', 'glnw caelhwn', 'keww hlahuoh', 'gwlm ccaylun'}, {'gelm celwonu', 'yhow zleyonu', 'gLln colheyn', 'glOn culhiun'}, {'yyww slahenu', 'glIn colhoun', 'ggln calhnih', 'GLmn clahuum'}, {'Ggln clyhoon', 'glOn cualhon', 'gklm cwlohyn', 'chhe xlihynu'}, {'glne cwluhon', 'glan calhiin', 'cham zlahynu', 'gglm cwluhno'}, {'glon cualhun', 'xylw yqwlonu', 'Glwn culhyyn', 'gylm celhiym'}, {'hhhy auzlonu', 'gwlm cyylohn', 'glne clohown', 'glun calhone'}, {'Glwn clwhoyn', 'gclm cwlyuon', 'glin calheun', 'yewh xlayony'}, {'glAn calhann', 'gzlm caluyom', 'glna cwlhuin', 'xelm jluhuoy'}, {'glin colhoon', 'khiy glahynu', 'gclm cyylyun', 'glno colhiwn'}, {'shom gloahwn', 'glUn calhohn', 'GLMn cilohyn', 'glni calyhwn'}, {'cwno auxlonu', 'glOn calhonu', 'glne clahoyn', 'GLMn clohoem'}, {'ggln clhioan', 'gilm clawoan', 'glIn calhuen', 'hwne xlayoni'}, {'glun calheen', 'gwln clhioen', 'GLMn chlyuon', 'jhuh aclwnhu'}, {'galm clahyyn', 'zwne aclohww', 'Glyn colwhun', 'glun calhawn'}, {'glin cualhon', 'syme acyhynu', 'golm calyiom', 'Glwn colhhhn'}, {'galm claoywn', 'glno clhoein', 'glUn calhuon', 'shym hlahane'}, {'galm calyuym', 'glIn cualhon', 'syuy acwhuom', 'galn clhooin'}, {'khyy jlahiom', 'glAn calhoon', 'GLMn calwuam', 'glni cwlhuon'}, {'galn calehin', 'hulw wclonhu', 'ghlm cylohnu', 'glon calhiin'}, {'glnw cwlohon', 'glin calhiin', 'swnu wlahuoh', 'gelm cylohni'}, {'glnw cwlhion', 'gzlm cylohno', 'glUn coalhun', 'yehw jlahwom'}, {'jelh huclonu', 'ggln clwhhun', 'gslm colwihn', 'glon calhain'}, {'gLln calhwno', 'glUn calhohn', 'GLhn cylohin', 'yhhm aclyenu'}, {'colw wlahinu', 'glne calwhin', 'gxlm cwlyonu', 'glan culhuun'}, {'glin caulhun', 'GLMn cleauon', 'glnw cwlhona', 'hely euclonu'}, {'glOn calhuen', 'Glln clhooan', 'ghlm cylhyna', 'kelm ylahuom'}, {'glin caalhun', 'gxlm clayion', 'khye xlahuoy', 'glne clwhoon'}, {'gwlm calwyno', 'zhyw qlahwnu', 'glwN claehon', 'glan calhaun'}, {'gzlm clawaun', 'glOn culhoin', 'galn culwhun', 'khhy ylahwnu'}, {'xilm qilwanu', 'Glwn clyhown', 'gzlm cyyloin', 'glOn culhuun'}, {'gulm clahywn', 'coly xlahenu', 'glne clhaaun', 'glon culhoan'}, {'goln calhwny', 'glin colhaun', 'shym kihhinu', 'GLHn calyiom'}, {'galm cyyleun', 'glon culhonn', 'swww acwhwnu', 'gwln clohaun'}, {'jhhw jlihuoy', 'gelm cwhlonu', 'glUn calhaen', 'Glnn cwlhiwn'}, {'gxlm calywom', 'glIn calhien', 'Glnn culuhun', 'wylw uclonhu'}, {'glUn calheun', 'hwna iuclonu', 'gglm colohem', 'Glnn cwlhhin'}, {'gLwn calhany', 'galm calyinu', 'khaw xlayanu', 'glon caalhun'}, {'ywyh gloahnu', 'gulm clahowm', 'glOn coalhun', 'goln culhayn'}, {'galm clayonu', 'glIn colhoon', 'glny cwlhhon', 'swoh yleyonu'}, {'glUn caelhon', 'gylm celwuom', 'cynu qiwhanu', 'Ggln clhhoan'}, {'zwwm aylonhu', 'gwln cowlhun', 'glOn caulhun', 'GLMn calyuhm'}, {'keww auclynu', 'GLMn calwumo', 'glIn calhehn', 'glna culhhhn'}, {'jehh auclohu', 'gwlm claywan', 'glan calhona', 'glne clahown'}, {'glnw clhaohn', 'gklm clowiun', 'glAn culhuun', 'xyne xulyuom'}, {'glOn colhoon', 'zyww slahuyh', 'ggln calihen', 'GLmn claywon'}, {'glun calhoin', 'GLMn celyenu', 'glwN clheoyn', 'seyy jluhuoy'}, {'glan cawlhun', 'swwy jlahuom', 'GLmn cylwunu', 'glnw cwlhnou'}, {'GLmn calywnu', 'Glnn caalhwn', 'glon cailhon', 'zhiw auclonh'}, {'jhiy xlyhynu', 'gelm cilhhnu', 'glUn cawlhon', 'Glln colohun'}, {'hwna jwahuom', 'glOn caolhun', 'glni calehin', 'galm cilwuom'}, {'GLHn claowwn', 'cwwy slahuyh', 'glin calhain', 'gwln calhney'}, {'Ggln clyhhun', 'glUn calhaun', 'gelm cwlhuom', 'shym auclone'}, {'glIn cawlhun', 'Ggln calywhn', 'gclm chlohwn', 'yyym xlawonu'}, {'glUn culhohn', 'gilm claoewn', 'cehm jlohuoy', 'galn cwlhuyn'}, {'glni cahlhwn', 'wwim yulyuom', 'gxlm chlwawn', 'glun colhonn'}, {'wwuh hlahamu', 'glAn caolhun', 'gxlm claywyn', 'Glyn calhhnu'}, {'glny clwhoin', 'glin colhoun', 'gilm celyuom', 'xwah cuwyuom'}, {'gylm calyyom', 'qhiy aclonhy', 'gLln cahlhwn', 'glin colhiun'}, {'glun calhion', 'gklm cloyiun', 'goln caolhhn', 'wwim slahuom'}, {'glOn calhuhn', 'Glln clayhun', 'gslm claeown', 'hulw glahynw'}, {'gjlm cqaolun', 'glUn ckalhon', 'Glnn caelhyn', 'hhuw xlehynu'}, {'GLmn clayuom', 'guln colhhon', 'glun caelhon', 'yhiy jlahuym'}, {'GLmn chlyuom', 'glan cahlhon', 'ggln clhowny', 'wulh jlawuoy'}, {'gLwn clihoan', 'glun calhune', 'swwh glahynh', 'gxlm cyolhnu'}, {'kylw yleyonu', 'glon caulhun', 'gslm culoeyn', 'Ggln clhaaun'}, {'glnw clheoen', 'ghlm cilhhnu', 'glin colhoun', 'welw ylahwnu'}, {'heww jlyhuoy', 'gwlm cilhhne', 'glna cwlhein', 'glin calhean'}, {'Glnn colwhon', 'gilm clayuun', 'hulw aclohem', 'glAn calhinn'}, {'Glln cluheun', 'gzlm celohwn', 'glun calhawn', 'hhwh glawynu'}, {'gLln colhhan', 'hwwh glayynu', 'glan colhohn', 'gwlm clawwun'}, {'Glln calhwnu', 'qhiw jlahuay', 'glUn caalhon', 'gelm cliywun'}, {'jywy aclohew', 'gwlm celwhan', 'gwln clhuoen', 'glan calhien'}, {'GLMn cyyluon', 'Glwn colhuyn', 'ywuh jlihuom', 'glAn calheon'}, {'glwN colhwyn', 'gulm cahlonw', 'qylw glahyyu', 'glan calhuni'}, {'galm cylwuom', 'wwny auclynu', 'glno colwhon', 'glun caolhun'}, {'swlm jlahuyy', 'gilm cylwuen', 'Glln caluhen', 'glin calhenn'}, {'wwni gloahuw', 'glin calhoin', 'gjlm calyenu', 'gwln clhhaun'}, {'glUn calhihn', 'xwne xlayone', 'gwlm calywom', 'gwln calihen'}, {'swow wulyuom', 'glUn calhoan', 'Glnn clohaun', 'gxlm clahowm'}, {'glUn calhoan', 'wwnh jlahuim', 'Ggln clhoiwn', 'gilm chlwwin'}, {'hylh yclonhu', 'Glyn clhaaun', 'gclm clahywn', 'glAn calhuhn'}, {'glIn caalhon', 'gxlm celyinu', 'hhuw euclonu', 'gLwn calhhno'}, {'ggln caloyhn', 'glon colhoen', 'wylw jlahuwy', 'GLhn cilwonu'}, {'Ggln colhayn', 'glan calhono', 'gwlm cyyluun', 'cyym aclywnu'}, {'khwe kohhinu', 'gLln cwlahon', 'GLHn caloham', 'glUn colhoun'}, {'glOn colheun', 'guln clehuun', 'swah xlohynu', 'golm celwium'}, {'galn caelhyn', 'hhhh uclonhu', 'glan calhuen', 'gylm cahlynu'}, {'glnu calhnow', 'glin callhon', 'GLmn cylhanu', 'xwhh slahenu'}, {'jwoh xlahynh', 'glun calhuni', 'galm culyonu', 'goln calhnai'}, {'qyni slwhuoh', 'gjlm calyyom', 'guln calhanw', 'glin calhaan'}, {'jelm acwhuow', 'glno cliohun', 'glIn culhuun', 'golm culyunu'}, {'jyhe ouclonu', 'glna clhhuun', 'glon callhun', 'golm celhhnu'}, {'glIn cahlhon', 'gLwn cwlheen', 'jylw hyahanu', 'gylm culowan'}, {'glAn culhoun', 'zelh ccaolyh', 'gwln culhwwn', 'gslm calonoy'}, {'yhow slahwoh', 'glOn calhehn', 'glno clhoiyn', 'gxlm chlwuon'}, {'wwnh jlohuom', 'golm cleywun', 'goln calhwna', 'glIn calhuen'}, {'hwme wlahanu', 'glno colhuyn', 'gjlm colyuon', 'glAn callhun'}, {'qeyh gluhynu', 'glon calhuan', 'gqlm clyawun', 'ggln calyhyn'}, {'Glnn clhowny', 'xhiy aclohwy', 'gklm chlwewn', 'glan calhenn'}, {'GLHn cwlwuon', 'kynu klahuow', 'glon calhuhn', 'glny clhoywn'}, {'guln calhnoi', 'glon calhoin', 'gilm cilhhne', 'zywm acwhinu'}, {'glnu calwhyn', 'qwuy qleyonu', 'gwlm cwlyonu', 'glUn calhonn'}, {'weww yclaynu', 'Ggln clawhun', 'gjlm calyiem', 'glan culhuun'}, {'yely aoclonu', 'Glln clhiuon', 'gglm cylhiem', 'glIn calhonu'}, {'glon cawlhon', 'ggln calhnwy', 'gulm calwinu', 'sylm xlawonu'}, {'wulw hlahanh', 'glin calhone', 'gxlm chlwwan', 'glny cailhnu'}, {'glun calhoin', 'xyne xleyonu', 'glno calyhan', 'GLmn colhyem'}, {'guln caylhin', 'ghlm clahoem', 'glun colhoin', 'yehm jhahuoy'}, {'guln cwlhhan', 'qyhe kaoluhh', 'glun calheon', 'gglm cylyuon'}, {'kwom glahhym', 'gLln calhwne', 'glAn culhuun', 'gklm clahwon'}, {'galn clhaeun', 'hwom quhhenu', 'glUn culhoen', 'gqlm chlwiwn'}, {'qhiy xlwyonu', 'gxlm colyoem', 'gwln colhwwn', 'glIn calhuin'}, {'glnu clyhoyn', 'gzlm cylwuyn', 'hhwh ylahenu', 'glAn colhoun'}, {'glne cluohun', 'walw jlihuoy', 'glun calhunu', 'galm clahonh'}, {'glne clehuun', 'xilh ylawonu', 'gilm clawuun', 'glun calhaen'}, {'zywm xlayonh', 'gqlm chleuon', 'glin culhoun', 'gLln clhhoin'}, {'chiy hlawonu', 'Glnn clhiuen', 'glon calheon', 'GLhn caoluwn'}, {'glnw clhoiyn', 'shly glohynu', 'glAn caulhun', 'GLMn calyumo'}, {'gilm clayoin', 'cely aclonwu', 'guln caluhen', 'glAn colhoun'}, {'gjlm colwihn', 'glwN clohhun', 'whhw slahynu', 'glOn caelhun'}, {'glwN clehoen', 'gclm chlohen', 'swnw xlahyni', 'glon calheon'}, {'syne aclonau', 'galm cylyhnu', 'glwN clahown', 'glAn calhiin'}, {'khwe aclonhy', 'glni clhoohn', 'gulm calwuym', 'glIn calhonu'}, {'gjlm cilohhn', 'Glln cwlhuyn', 'glIn culhoin', 'swoh yulyuom'}, {'glIn colhuun', 'jwhe slawuoh', 'glne clyheun', 'ghlm celwonu'}, {'gjlm calyuam', 'guln clwhuun', 'glUn cailhun', 'xyym uclyuom'}, {'glon calhoin', 'hulm ycwaonu', 'ggln cwlohon', 'ghlm cyalonu'}, {'glan calhono', 'galm claownw', 'glnu cluhaun', 'swym xlayinu'}, {'glun culhoun', 'xhaw aclohhh', 'golm cylhinu', 'glni clhoaon'}, {'ywhh acloham', 'glni clheoon', 'galm clahohm', 'glun colhoin'}, {'GLhn calyeom', 'glun colhaun', 'Glwn clyhoin', 'hynu qulwenu'}, {'glIn calhunn', 'xyww aclwwnu', 'glwN culhywn', 'GLMn clwaown'}, {'gglm chlwywn', 'glUn calhone', 'Glyn clahuun', 'jhiy hlahanh'}, {'glno clihoin', 'gxlm clahwnu', 'glun cawlhon', 'whme aylonhu'}, {'GLmn cyliuen', 'glin calhoan', 'zhme jlaywum', 'glni cluhoyn'}, {'gjlm cahlynu', 'glUn calhuna', 'Ggln clehoin', 'syym xluyonu'}, {'ggln clyhown', 'glOn caulhon', 'zhyw jlayuoy', 'GLMn celyium'}, {'sywy ccaolyh', 'gLln cluhiun', 'GLHn cliaown', 'glin cawlhon'}, {'swuw jlyhuom', 'glnu cualhyn', 'gzlm calyinu', 'glin calhaan'}, {'GLHn cloaown', 'syhy hlahani', 'glOn caelhun', 'gLln calhhnu'}, {'glni calyhnu', 'sily ylahanu', 'glOn colhuun', 'gclm culehyn'}, {'glun calhuin', 'glne calyhnu', 'shne aclohwy', 'gxlm calohmw'}, {'suly jluhuoy', 'golm cilyuin', 'glin caelhun', 'gLwn calowhn'}, {'gylm calyuhm', 'glwN clohown', 'glOn calhahn', 'cyww hlihanu'}, {'zhwh slahuhh', 'GLmn culoyyn', 'glne calhnay', 'glUn colhoan'}, {'chnu auxlonu', 'glnu calhhnu', 'glUn calhoni', 'gklm cylohum'}, {'gslm celyynu', 'glan calhinn', 'glni colheyn', 'zhiw glaywan'}, {'GLmn calwuam', 'khyy slahuom', 'glan culhoin', 'glne cwlehon'}, {'gwln culhewn', 'hyne aclonhw', 'glUn caulhun', 'ghlm cluaown'}, {'kelw aoclonu', 'Glwn clwhaun', 'glan cawlhon', 'GLHn celyonu'}, {'glni calwhhn', 'glAn calheun', 'GLhn cleyaun', 'zhne jlahuwm'}, {'gelm cwlhiem', 'glne colhnou', 'zhne hlyhanu', 'glon calhean'}, {'glAn colhoon', 'Glnn clhiuon', 'qwne jlahuim', 'ghlm clahonh'}, {'gjlm cqaolun', 'gLln clhhuhn', 'glon cahlhon', 'hyih qlahyni'}, {'ghlm chluhno', 'glun calhonn', 'wilw quhhenu', 'gLwn cloohun'}, {'glan colhoan', 'kynu glahyny', 'Ggln cuylhon', 'gqlm cilohin'}, {'galn clhhiun', 'hyum yleyonu', 'GLMn cwlyuon', 'glin calhuna'}, {'glan caulhon', 'ggln cwlhihn', 'gxlm chlhanu', 'syhy azlonhu'}, {'gulm culwuom', 'Glnn calhnih', 'glan calhuin', 'selm aklonhu'}, {'glIn calhune', 'wwnh auclone', 'glny clhoian', 'GLMn colyoem'}, {'glny cwlhony', 'xywy swahuoh', 'glUn colhaun', 'gzlm chhlonu'}, {'GLmn cuolyun', 'glon callhon', 'khuy klawonu', 'gLln claohon'}, {'hhiy acwonhu', 'gLln clhonuy', 'glun calhuan', 'gulm chlwuwn'}, {'glOn colhoon', 'gslm cahlynu', 'synw ylahwnu', 'Glwn cluheun'}, {'glnw culhonw', 'glin calhunu', 'wyuh qlaywan', 'gylm chlyion'}, {'glni caalhwn', 'GLMn cilyuin', 'glIn calhuno', 'whno acwhanu'}, {'glUn culhohn', 'cwno aclwiom', 'GLhn cylwhnu', 'guln clauhon'}, {'glOn calhone', 'GLhn caluyno', 'zwum jlawuom', 'Glln clhaown'}, {'Glnn clhohny', 'hhhy awclonu', 'glin calhoin', 'gwlm cilohen'}, {'Glln clhoein', 'colw acloeym', 'glOn cailhon', 'gylm cylyuom'}, {'gzlm clahyum', 'glan caulhun', 'salm qlaywan', 'Glnn caloyhn'}, {'golm claywin', 'glin calhinn', 'guln calhwny', 'shhh aclyuoh'}, {'yhhm slahenu', 'gilm clahium', 'Glwn colhiwn', 'glOn caolhon'}, {'gslm cwlyion', 'Glln cwlhion', 'soly guoluhn', 'glin cailhon'}, {'gwlm clahium', 'Glyn cuwlhon', 'wyiw slaywum', 'glon cualhon'}, {'glIn cualhon', 'Glln calhiny', 'xyym guluhno', 'gglm claoniu'}, {'glni clhhunu', 'sily aclwynu', 'GLHn clayaun', 'glin calhune'}, {'glin calheon', 'gclm caluwno', 'welm xlahuoy', 'guln clihoin'}, {'glwN culhunw', 'gclm cilohwn', 'chiy xlahenu', 'glOn colhonn'}, {'gelm clahwnu', 'cwwy qiyhanu', 'glOn calhenn', 'Glyn cailhnu'}, {'gLwn calhniy', 'jelm slahuwh', 'golm cilhynu', 'glon calheun'}, {'ggln calyyhn', 'zyne shahuoh', 'glun cualhon', 'golm cwlohnu'}, {'glin calhawn', 'gslm cqaolun', 'chiy jlaheom', 'gwln clawhon'}, {'GLMn clahynu', 'sywy aclohym', 'glno cwlhuni', 'glon calhuno'}, {'gzlm culyuon', 'ywhh aslonhu', 'glun calhoen', 'goln clhauen'}, {'gqlm cwlhuom', 'glin calheun', 'xywy aclianu', 'goln cwlhony'}, {'wywy slaywan', 'guln calhnow', 'glAn calhian', 'gwlm culahyn'}, {'glny colyhun', 'zwim qilwanu', 'gzlm calahnw', 'glIn calhunu'}, {'yhow aclunhu', 'glin callhun', 'GLhn celohin', 'glna cualhhn'}, {'ywoh xlahuom', 'gelm caliwnu', 'gLwn cwlhawn', 'glan caolhon'}, {'holm gyahynu', 'glun calhuan', 'GLmn cyyloan', 'Glnn clhauin'}, {'shwe xlahanu', 'glwN calhyno', 'gwlm cylohhn', 'glon colhoon'}, {'galm celwonu', 'Ggln clehown', 'jhiy glahuow', 'glin colhiun'}, {'whhw klahuhy', 'glno cahlhhn', 'glUn calhuna', 'gulm caylonu'}, {'golm cleyaun', 'glOn culheun', 'glnw clhaown', 'qyme ylahynu'}, {'xhhw aclohwm', 'gilm cilwonu', 'glny clhiuan', 'glAn calhoen'}, {'glon calhawn', 'Glnn cwlhean', 'wwno hlahnau', 'gclm clayonu'}, {'glny claihon', 'gklm celyuny', 'solm jlawuoy', 'glUn calhann'}, {'gclm clahuom', 'swnu aclohaw', 'galn clhaohn', 'glUn cualhon'}, {'gslm cylwuwn', 'shnw aclohww', 'glAn calhean', 'glne clheoyn'}, {'glAn cawlhon', 'gelm calyenu', 'glnw culhywn', 'qelw kowhinu'}, {'glun ckalhon', 'galn clhoiin', 'gclm claohwn', 'hyom aclyuoh'}, {'seyy xlwhynu', 'Ggln colhonw', 'gzlm cyluhno', 'glon culhaun'}, {'hely aclawnh', 'gwlm colwihn', 'goln caluwhn', 'glUn coalhon'}, {'Glnn claohun', 'gclm ccaouln', 'glAn calhonu', 'syah julyuom'}, {'glUn calhihn', 'glna colhhon', 'jywy wlahinu', 'ghlm calohem'}, {'glny colehun', 'gelm clahwwn', 'kehy glahywu', 'glin calhaon'}, {'Glln cwlhaen', 'khhy slahuih', 'glUn calhune', 'gilm cyeliun'}, {'gLln clhoany', 'jyne xloyonu', 'glIn ckalhun', 'gqlm cluohyn'}, {'jhni xlaoniu', 'glun culhiun', 'Glyn cwlhuna', 'gclm chlwynu'}, {'ewlw glahhyh', 'gilm culowan', 'glwN caolhwn', 'glin calhaon'}, {'glna clhiuhn', 'glin caolhun', 'xelh glahywu', 'GLMn cuolyun'}, {'whiy kilwinu', 'glOn calhahn', 'Glnn clhiiun', 'gelm chlwowm'}, {'ghlm claywwn', 'Glnn calhwno', 'glOn colhiun', 'qyni glaywum'}, {'glny calhnau', 'gilm calonoy', 'hhhw auqlonu', 'glan calhuon'}, {'goln clihhun', 'celm jlohuoy', 'gxlm cwlyion', 'glon calhiin'}, {'swwm glawonu', 'Glln clhuiun', 'glUn colhonn', 'gilm cylohnu'}, {'glni culhuwn', 'glAn calhohn', 'ywhw julyuom', 'gelm cyyolun'}, {'jwne slahaoh', 'galn culhuwn', 'gjlm calyiom', 'glan coalhun'}, {'glon calhiun', 'glne caylhhn', 'kolm xlayonu', 'gelm clawynu'}, {'gqlm claowyn', 'glUn colhiun', 'whiw xlahwnu', 'gLwn clehoin'}, {'glin calhann', 'Glnn cwluhon', 'GLmn cilohhn', 'kyom klahwnu'}, {'glun calhenn', 'selm zlayonu', 'galm claoewn', 'goln cualhnu'}, {'guln colhiwn', 'GLHn caolunw', 'glOn colhiun', 'wulh aclonha'}, {'gglm caluyno', 'glAn calhuna', 'hyuw jlahuyy', 'gwln cwlhono'}, {'glno clhioan', 'glAn coalhun', 'galm cilwhan', 'shww glahyyu'}, {'glan calheun', 'whhm jlawuom', 'Glwn clhauun', 'gqlm clahwon'}, {'wwnu auclynu', 'GLHn clahwan', 'goln coluhon', 'glon calhien'}, {'xyww xlaoniu', 'glon culheun', 'gLwn cwlhuyn', 'ghlm calyiem'}, {'golm ccaolyn', 'glna cwlhona', 'glan calhinn', 'kyne xlahynh'}, {'jelh gloahum', 'glno calhhnw', 'glun colhoon', 'GLhn caalyen'}, {'zywy aclohah', 'glan colheun', 'guln clhowyn', 'gslm cuolwun'}, {'chny slahynu', 'gwln cwluhun', 'glUn colhoon', 'gslm celohum'}, {'zhaw wlahwnu', 'glUn colhoen', 'glna claehun', 'gjlm chlwwhn'}, {'glAn cahlhon', 'GLmn cylahnu', 'gwln calhyne', 'wehw jlihuoy'}, {'cham ccaolyw', 'GLhn colohum', 'gLwn colhhen', 'glOn culhoon'}, {'jhaw xluhynu', 'glwN calhnyy', 'glon culhoun', 'galm ccyolun'}, {'glAn colhoon', 'gelm celyonh', 'glna caylhin', 'hynu jhahuom'}, {'guln callhnu', 'khhy auclowu', 'gylm cyalonu', 'glUn colhohn'}, {'jehh aclwanu', 'glun calhehn', 'gglm claowny', 'Glyn culihun'}, {'swwh jlahuim', 'glni clahoen', 'glin calhein', 'ghlm cwluhno'}, {'GLHn chlhenu', 'chnu aclunhu', 'Ggln clheuon', 'glOn calhain'}, {'galm cwlohnu', 'glwN cwlhhon', 'jwoy aclaenh', 'glAn cahlhun'}, {'zham slwhuoh', 'glIn colhuun', 'gwln calhnay', 'golm cwlohnu'}, {'glIn colhoan', 'galn calwwhn', 'GLHn cylyonu', 'jynu jlwhuoy'}, {'glna clhhuan', 'glUn cahlhun', 'zhyw yclaynu', 'gylm clawoum'}, {'jhiw xlayonh', 'glun caelhon', 'gzlm celyonh', 'gLwn calyhen'}, {'khiy kwolunh', 'glUn caulhun', 'glnu coalhhn', 'gxlm cyaolun'}, {'glno calhhnu', 'glOn calhuin', 'gqlm clehaum', 'qhaw xlayoyu'}, {'glan calhonn', 'glni calohhn', 'xyww aclohym', 'gilm cwlhiem'}, {'gLwn cwlhuni', 'zhum kiwhinu', 'glan calhuhn', 'gclm cwlwynu'}, {'GLHn cylhanu', 'jelm aclwenu', 'glun colhoin', 'ggln calwwhn'}, {'glUn calheon', 'syom acloheh', 'gxlm colohem', 'glni culwhon'}, {'gklm culoyan', 'gLln cluhhun', 'glAn ckalhun', 'kylw axlonhu'}, {'zyam aklonhu', 'glAn calhion', 'gwln clehown', 'gqlm colyihn'}, {'gLln cwylhun', 'gjlm caalyen', 'glan culhoin', 'wwnw slahinu'}, {'wulw klaywum', 'gLwn clheuny', 'gclm clahnou', 'glIn culhoon'}]
+glen calhoun        : DEBUG: Additional rule variations: {'calhoun         glen'}
+glen calhoun        : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "glen calhoun": {
+            "first_name": {
+                "score": 0.7759542130855286,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.4646361676485673,
+                        "orthographic": 0.975,
+                        "combined": 0.7198180838242836
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 2.4,
+                        "score": 0.6270890852730561
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "gylm",
+                            "phonetic_score": 0.5169547700528617,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "glOn",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "sely",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ggln",
+                            "phonetic_score": 0.8043683381123772,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.8693216923105487,
+            "final_score": 0.795457353848439,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 4,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.9290633627909584,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.975,
+                        "orthographic": 0.975,
+                        "combined": 0.975
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 2.4,
+                        "score": 0.6270890852730561
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "cylwynu",
+                            "phonetic_score": 0.39121383986731806,
+                            "orthographic_score": 0.2857142857142857,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "calhoon",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8571428571428572,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hclonhu",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.1428571428571429,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "clehown",
+                            "phonetic_score": 0.7407857212141159,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "name_parts_permutations": [
+                            "calhoun         glen"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "calhoun         glen": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 0.5,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.5,
+        "by_name": {
+            "glen calhoun": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "name_parts_permutations": [
+                            "calhoun         glen"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "calhoun         glen": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 0.5,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "average_quality": 0.795457353848439,
+    "final_reward": 0.795457353848439
+}
+glen calhoun        : DEBUG: ----------------------------------------------------------------------------------------------------

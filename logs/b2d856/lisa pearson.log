@@ -1,0 +1,2506 @@
+lisa pearson        : INFO: Generating variations for lisa pearson
+lisa pearson        : INFO: ----------------------------------------------------------------------------------------------------
+lisa pearson        : INFO: Effective rules: ['shorten_name_to_abbreviations', 'remove_random_vowel']
+lisa pearson        : INFO: ----------------------------------------------------------------------------------------------------
+lisa pearson        : INFO: Min Required Rule Variation Set: [{'lis p', 'li p', 'li pearso', 'li pear', 'li pe', 'li pears', 'li pea', 'l pearso', 'lis pears', 'lis pe', 'lis pea', 'l pears', 'l pe', 'l p', 'l pear', 'lis pearso', 'l pea', 'lis pear'}, {'lISA paRSon', 'lIsA pErsON', 'lIsA PEArsN', 'liSA PerSon', 'lIsA pERsOn', 'LIS PeaRSon', 'liSa peArsn', 'lIsA peArsN', 'LiSa peRsOn', 'lsA PEaRSON', 'lsa PEaRSon', 'LiSa paRSoN', 'lISA PERsOn', 'lisa ParSoN', 'lIsA pEArsN', 'LisA pEaRsn', 'lIsa paRSOn', 'liSa PerSoN', 'LiSa PEARSn', 'liSa PerSON', 'LiSa pErSOn', 'lIs PEarSoN', 'liSA PeaRSN', 'LisA persON', 'Lisa pErson', 'LsA pEARsoN', 'LiSA PEarsn', 'lIsa pEaRsn', 'lIsA peaRsN', 'LISA pearsN', 'LisA PeARsN', 'LiSA pERSoN', 'lisA pARSOn', 'lisA PERson', 'Lsa PeArsOn', 'LIs PEaRsON', 'lis pearSOn', 'liS peARSON', 'Lis pEARsoN', 'lSa PeARSOn', 'lIS pEarson', 'Lsa PEArson', 'lIsA PErsON', 'LiSA PEARSn', 'liSA parSoN', 'Lis PearSOn', 'lISA pArSon', 'LiSA pARSon', 'LiSa PerSON', 'lISa peRSON', 'lisA peARsN', 'LiS pEArSon', 'LSa peARson', 'liS PearsOn', 'Lis PEarSOn', 'liSA PArSOn', 'LISA PerSoN', 'LiSA PArSON', 'Lis PeARSON', 'Lisa PEaRSN', 'lSA PEaRSON', 'lISA pEArsN', 'LSa PEaRSOn', 'lis pEArson', 'LisA PArSON', 'LiS PeARsON', 'LIsA pearsn', 'LISa pErSON', 'LisA PArSoN', 'lISa pERSoN', 'lISa PeRSON', 'lisA parSoN', 'LISA peArsN', 'lISA PARson', 'LiSa PErsOn', 'lisa paRsOn', 'LIsa PeArSn', 'lIS pEarSOn', 'LISA PARSOn', 'LISA PeARsn', 'lSa PEARsOn', 'LSa pEArsOn', 'LIsA PERSon', 'LiS peARSon', 'LISA pERSOn', 'liSA PaRSon', 'LISa pArsOn', 'lisA ParsOn', 'lsA pEarsOn', 'LisA PEarSn', 'lIs PearSON', 'lsA peArSON', 'LIS peARsON', 'lIs pearsOn', 'Lis PeaRSOn', 'LISA PEaRSn', 'LSa PEArSOn', 'LiSA pEarSN', 'liSA pEaRSn', 'Lisa pErSon'}]
+lisa pearson        : INFO: ----------------------------------------------------------------------------------------------------
+lisa pearson        : INFO: First name: lisa
+lisa pearson        : INFO: Last name: pearson
+lisa pearson        : INFO: ----------------------------------------------------------------------------------------------------
+lisa pearson        : INFO: Rule count pairs: [(0, 1), (0, 2), (1, 1), (0, 3), (1, 2), (0, 4), (1, 3), (2, 2), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (3, 3), (0, 7), (1, 6), (2, 5), (3, 4), (4, 3), (0, 8), (1, 7), (2, 6), (3, 5), (4, 4)]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 1 / 25: rule_count/nonrule_count: 0/1------------------------------
+lisa pearson        : DEBUG: O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: P: [0, 0, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: P: [0, 0, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.28782065]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 2 / 25: rule_count/nonrule_count: 0/2------------------------------
+lisa pearson        : DEBUG: O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.32]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 3 / 25: rule_count/nonrule_count: 1/1------------------------------
+lisa pearson        : DEBUG: O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: P: [0, 0, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: P: [0, 0, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.38782065]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 4 / 25: rule_count/nonrule_count: 0/3------------------------------
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.34570219]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 5 / 25: rule_count/nonrule_count: 1/2------------------------------
+lisa pearson        : DEBUG: O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.42]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 6 / 25: rule_count/nonrule_count: 0/4------------------------------
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.4906149]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 7 / 25: rule_count/nonrule_count: 1/3------------------------------
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.39570219]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 8 / 25: rule_count/nonrule_count: 2/2------------------------------
+lisa pearson        : DEBUG: O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.52]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 9 / 25: rule_count/nonrule_count: 0/5------------------------------
+lisa pearson        : DEBUG: O: [1, 2, 1, 1]
+lisa pearson        : DEBUG: P: [1, 3, 1, 0]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 2, 1, 1]
+lisa pearson        : DEBUG: P: [1, 3, 1, 0]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.46996]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 10 / 25: rule_count/nonrule_count: 1/4------------------------------
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.5406149]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 11 / 25: rule_count/nonrule_count: 2/3------------------------------
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.54570219]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 12 / 25: rule_count/nonrule_count: 0/6------------------------------
+lisa pearson        : DEBUG: O: [1, 2, 1, 2]
+lisa pearson        : DEBUG: P: [1, 3, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 2, 1, 2]
+lisa pearson        : DEBUG: P: [1, 3, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.45334169]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 13 / 25: rule_count/nonrule_count: 1/5------------------------------
+lisa pearson        : DEBUG: O: [1, 2, 1, 1]
+lisa pearson        : DEBUG: P: [1, 3, 1, 0]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 2, 1, 1]
+lisa pearson        : DEBUG: P: [1, 3, 1, 0]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.50329334]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 14 / 25: rule_count/nonrule_count: 2/4------------------------------
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.62394823]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 15 / 25: rule_count/nonrule_count: 3/3------------------------------
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.54570219]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 16 / 25: rule_count/nonrule_count: 0/7------------------------------
+lisa pearson        : DEBUG: O: [2, 2, 2, 1]
+lisa pearson        : DEBUG: P: [1, 4, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [2, 2, 2, 1]
+lisa pearson        : DEBUG: P: [1, 4, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.44967464]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 17 / 25: rule_count/nonrule_count: 1/6------------------------------
+lisa pearson        : DEBUG: O: [1, 2, 1, 2]
+lisa pearson        : DEBUG: P: [1, 3, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 2, 1, 2]
+lisa pearson        : DEBUG: P: [1, 3, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.47834169]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 18 / 25: rule_count/nonrule_count: 2/5------------------------------
+lisa pearson        : DEBUG: O: [1, 2, 1, 1]
+lisa pearson        : DEBUG: P: [1, 3, 1, 0]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 2, 1, 1]
+lisa pearson        : DEBUG: P: [1, 3, 1, 0]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.56996]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 19 / 25: rule_count/nonrule_count: 3/4------------------------------
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.62394823]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 20 / 25: rule_count/nonrule_count: 4/3------------------------------
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [0, 1, 0, 2]
+lisa pearson        : DEBUG: P: [0, 1, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [2]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.54570219]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 21 / 25: rule_count/nonrule_count: 0/8------------------------------
+lisa pearson        : DEBUG: O: [2, 3, 2, 1]
+lisa pearson        : DEBUG: P: [1, 4, 1, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [3, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [2, 3, 2, 1]
+lisa pearson        : DEBUG: P: [1, 4, 1, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [3, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.44504502]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 22 / 25: rule_count/nonrule_count: 1/7------------------------------
+lisa pearson        : DEBUG: O: [2, 2, 2, 1]
+lisa pearson        : DEBUG: P: [1, 4, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [2, 2, 2, 1]
+lisa pearson        : DEBUG: P: [1, 4, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.47467464]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 23 / 25: rule_count/nonrule_count: 2/6------------------------------
+lisa pearson        : DEBUG: O: [1, 2, 1, 2]
+lisa pearson        : DEBUG: P: [1, 3, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 2, 1, 2]
+lisa pearson        : DEBUG: P: [1, 3, 1, 1]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.55334169]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 24 / 25: rule_count/nonrule_count: 3/5------------------------------
+lisa pearson        : DEBUG: O: [1, 2, 1, 1]
+lisa pearson        : DEBUG: P: [1, 3, 1, 0]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [22, 0, 0]
+lisa pearson        : DEBUG: [487, 12, 0]
+lisa pearson        : DEBUG: [500, 34, 0]
+lisa pearson        : DEBUG: [20, 50, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [9]
+lisa pearson        : DEBUG: [24]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 2, 1, 1]
+lisa pearson        : DEBUG: P: [1, 3, 1, 0]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [2, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lisa pearson        : DEBUG: [500, 18, 3]
+lisa pearson        : DEBUG: [500, 94, 20]
+lisa pearson        : DEBUG: [500, 500, 35]
+lisa pearson        : DEBUG: [500, 500, 20]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+lisa pearson        : DEBUG: [136]
+lisa pearson        : DEBUG: [367]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [20]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.56996]
+lisa pearson        : INFO: ------------------------------Trying rule_count_pair 25 / 25: rule_count/nonrule_count: 4/4------------------------------
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [7, 0, 0]
+lisa pearson        : DEBUG: [89, 0, 0]
+lisa pearson        : DEBUG: [234, 0, 0]
+lisa pearson        : DEBUG: [20, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [25]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: lisa, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: lisa, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: lisa, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: O: [1, 1, 1, 1]
+lisa pearson        : DEBUG: P: [0, 2, 0, 2]
+lisa pearson        : WARNING: Remains: 0
+lisa pearson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+lisa pearson        : DEBUG: [165, 33, 0]
+lisa pearson        : DEBUG: [500, 220, 0]
+lisa pearson        : DEBUG: [500, 500, 0]
+lisa pearson        : DEBUG: [500, 147, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [1, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0]
+lisa pearson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [500]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [0]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: [1]
+lisa pearson        : DEBUG: final:
+lisa pearson        : DEBUG: name: pearson, l_level: 0
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lisa pearson        : DEBUG: name: pearson, l_level: 1
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: name: pearson, l_level: 2
+lisa pearson        : DEBUG: --------------------------------------------------
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lisa pearson        : DEBUG: scores: [0.62394823]
+lisa pearson        : DEBUG: ----------------------------------------------------------------------------------------------------
+lisa pearson        : DEBUG: Best score achieved: 0.6239482349830252
+lisa pearson        : DEBUG: Best selected: 2/4
+lisa pearson        : DEBUG: Rule variations: [{'lis p', 'li p', 'li pearso', 'li pear', 'li pe', 'li pears', 'li pea', 'l pearso', 'lis pears', 'lis pe', 'lis pea', 'l pears', 'l pe', 'l p', 'l pear', 'lis pearso', 'l pea', 'lis pear'}, {'lISA paRSon', 'lIsA pErsON', 'lIsA PEArsN', 'liSA PerSon', 'lIsA pERsOn', 'LIS PeaRSon', 'liSa peArsn', 'lIsA peArsN', 'LiSa peRsOn', 'lsA PEaRSON', 'lsa PEaRSon', 'LiSa paRSoN', 'lISA PERsOn', 'lisa ParSoN', 'lIsA pEArsN', 'LisA pEaRsn', 'lIsa paRSOn', 'liSa PerSoN', 'LiSa PEARSn', 'liSa PerSON', 'LiSa pErSOn', 'lIs PEarSoN', 'liSA PeaRSN', 'LisA persON', 'Lisa pErson', 'LsA pEARsoN', 'LiSA PEarsn', 'lIsa pEaRsn', 'lIsA peaRsN', 'LISA pearsN', 'LisA PeARsN', 'LiSA pERSoN', 'lisA pARSOn', 'lisA PERson', 'Lsa PeArsOn', 'LIs PEaRsON', 'lis pearSOn', 'liS peARSON', 'Lis pEARsoN', 'lSa PeARSOn', 'lIS pEarson', 'Lsa PEArson', 'lIsA PErsON', 'LiSA PEARSn', 'liSA parSoN', 'Lis PearSOn', 'lISA pArSon', 'LiSA pARSon', 'LiSa PerSON', 'lISa peRSON', 'lisA peARsN', 'LiS pEArSon', 'LSa peARson', 'liS PearsOn', 'Lis PEarSOn', 'liSA PArSOn', 'LISA PerSoN', 'LiSA PArSON', 'Lis PeARSON', 'Lisa PEaRSN', 'lSA PEaRSON', 'lISA pEArsN', 'LSa PEaRSOn', 'lis pEArson', 'LisA PArSON', 'LiS PeARsON', 'LIsA pearsn', 'LISa pErSON', 'LisA PArSoN', 'lISa pERSoN', 'lISa PeRSON', 'lisA parSoN', 'LISA peArsN', 'lISA PARson', 'LiSa PErsOn', 'lisa paRsOn', 'LIsa PeArSn', 'lIS pEarSOn', 'LISA PARSOn', 'LISA PeARsn', 'lSa PEARsOn', 'LSa pEArsOn', 'LIsA PERSon', 'LiS peARSon', 'LISA pERSOn', 'liSA PaRSon', 'LISa pArsOn', 'lisA ParsOn', 'lsA pEarsOn', 'LisA PEarSn', 'lIs PearSON', 'lsA peArSON', 'LIS peARsON', 'lIs pearsOn', 'Lis PeaRSOn', 'LISA PEaRSn', 'LSa PEArSOn', 'LiSA pEarSN', 'liSA pEaRSn', 'Lisa pErSon'}]
+lisa pearson        : DEBUG: Nonrule variations: [{'lwsa prasson', 'wwas eborqno', 'lius peirsne', 'hyga peorosy'}, {'lssa piarswn', 'losy parasun', 'wlho hhrakno', 'lahu veyrosn'}, {'ilke epihsno', 'woga epahsyn', 'liss pewrsen', 'lasy poyrzon'}, {'lsso peyrsny', 'llsa piarsnn', 'ulxy epuwosm', 'lhhw heirsno'}, {'woja heargno', 'ywaz ebwryno', 'llsw puirsyn', 'lssa ppyrson'}, {'lyza peresyn', 'hyke baerzno', 'yaka epaysen', 'llsa paruson'}, {'wazh yahrkno', 'yhqa huarsno', 'lisw pwyrson', 'lass perusun'}, {'alya peuysno', 'liss prasson', 'ilco epuwsno', 'lysy payrsan'}, {'lsai peerosn', 'lssa parison', 'yuys epwryno', 'ilxa haersno'}, {'lisy pewrsyn', 'hyha eparqin', 'huaw epiysno', 'llis poarosn'}, {'ilca paerwoh', 'lwso paarsnw', 'lysa pearssn', 'elhw baewsno'}, {'hsiy wpirosh', 'hici eparkyn', 'lyza pourswn', 'lwsa peyrsin'}, {'lisy pewrsnn', 'loho wearcno', 'lwsw preasen', 'olcy hhrajno'}, {'llsa peyrsin', 'lizy pruason', 'ilzu epuwjno', 'hsia baersoh'}, {'yiwi eparxyn', 'llza pearzny', 'ilhi eporhno', 'lysa perrssn'}, {'liss paarsyn', 'luis perasen', 'yuka herasoy', 'ylwy waerxno'}, {'lahy yaeryon', 'lzza pyyrsan', 'hwax virasno', 'lysa puarsnn'}, {'lisw pereson', 'yysh heorosn', 'ilyo eworqno', 'lcea pwwrsyn'}, {'olsw hearzno', 'liss parison', 'ywii epurzno', 'lsaw pewrusn'}, {'hyxa iparsno', 'lwso piarsni', 'llsa pewrson', 'ywas faeryno'}, {'lyhy beorosn', 'woas haerjno', 'lasw pwwrsin', 'lssa peersyn'}, {'ilhu eporyno', 'llsi puarsnw', 'iwsh piaysno', 'lysa pearazn'}, {'luhh eparzan', 'yekw ypyryno', 'lizz peorsny', 'liss paryson'}, {'lsea pwwrsin', 'hhsi baeryon', 'yhax epayosh', 'lysa pearazn'}, {'losy pyyrsun', 'lisy peaersn', 'ulqy epurwno', 'higu peorosy'}, {'ywys evuwsno', 'llsa poarsyn', 'lyho paersiy', 'lihz peorzyn'}, {'lisy pewrsen', 'liws poarysn', 'ilka baerxon', 'wwci epuwsnw'}, {'llsa pwyrson', 'licy pehrsno', 'ilow hhyasno', 'wsoa peahzno'}, {'ilce hhrayno', 'liss praeson', 'lizz peorsny', 'huja ewarosn'}, {'liez puersyn', 'ywaz ypyrcno', 'lssa prawson', 'hizw feyrsno'}, {'lsso porason', 'lywe beorsno', 'hoay waerosm', 'lisy piarswn'}, {'lcea peyrzyn', 'lysa peroson', 'olwe fwrasno', 'yqia epaywon'}, {'lssu paursyn', 'yios epargyn', 'yhxu vaerosm', 'lwsa parison'}, {'lysa peirsnn', 'yowa epyrsyn', 'lsaw peruosn', 'hoas yaeryno'}, {'lwsa peawrsn', 'luis peursni', 'hsua epursoh', 'wlwe waerosm'}, {'lssa praison', 'less perasin', 'wwio eworqno', 'lehw peahyno'}, {'wysw beersno', 'lwsa pearssn', 'wwci eporcno', 'loss pawrswn'}, {'llsa poarsyn', 'ilos werasun', 'hwaz eporwno', 'lysy pewrsno'}, {'ihcw epwrkno', 'lzoa pehrzyn', 'yoqa waerjon', 'lssa prasson'}, {'lzia perwsan', 'hhag yaerjno', 'llsa peyrsan', 'hiqw perayoh'}, {'lisw pearswn', 'hihw waerswn', 'whho ypawosm', 'lssy puwrsun'}, {'lysa poarssn', 'lizw perosun', 'ilce ywerwno', 'elsy byarsno'}, {'lisw pearcen', 'yiwu paewhon', 'ilwe yuerkno', 'lwsy peorysn'}, {'yyac vahrqno', 'luis poarsna', 'luhu epurwon', 'liss ppearsn'}, {'ilgy epawozm', 'yeka epawsyn', 'liss peearsn', 'lizy peyrasn'}, {'hekw hhrajno', 'yowa vyarosn', 'lssu peurzyn', 'lisw pearsnn'}, {'luwh heyrsno', 'haqu hhrasyo', 'llsa parwson', 'loss poorswn'}, {'yuwa baersin', 'lsua peresin', 'llsa peayrsn', 'hyaw epurxno'}, {'lsss peiorsn', 'huju baerqno', 'lwsa perrsnn', 'yhka piawsno'}, {'ysoi epiryno', 'lisw peorsyn', 'lias pwwrswn', 'woqa ebarsno'}, {'lssi perozon', 'lisw puarssn', 'layh peragoh', 'ilyw yirasno'}, {'yuys faerxno', 'iwya waersin', 'lysa ppearsn', 'llsw peyrysn'}, {'eljw hyrasno', 'lisw piarssn', 'lsai peursnw', 'lyaw epaysom'}, {'yiwu epursyn', 'lesw paarysn', 'llsa perrsnn', 'ihqw epahzno'}, {'huqu epahcno', 'lsse poarsne', 'liss prauson', 'alsi peurosh'}, {'liss pearisn', 'wach epwrynh', 'ilay peahcno', 'lsoa perozon'}, {'wsiu ebawosm', 'woqa peraseh', 'llsa parwson', 'losw pewrcen'}, {'liss pearssn', 'alsi peahyno', 'yhas vaercno', 'lcea pehrysn'}, {'liss pearsyn', 'lssw paarsno', 'luyh paehxon', 'ilyo baerosh'}, {'hwak vwrasno', 'luwh epaysun', 'lsah peyrsnu', 'lysa pewrsen'}, {'hwas eporjno', 'llsa pearzwn', 'ilas eparshm', 'llsw poyrsen'}, {'liys puersyn', 'hosy paeryoh', 'liss pearysn', 'hhqu epuwsne'}, {'lyza peursno', 'lisw piarswn', 'hihw herawon', 'ials epurzno'}, {'lyza peirwsn', 'yyay epawyno', 'lisy pearsni', 'ywqa waerwon'}, {'liss peerswn', 'ilja piarwno', 'liis poyrswn', 'ilwy evwryno'}, {'lusy peraswn', 'loaw fewrsno', 'llsa peearsn', 'woyu epircno'}, {'lyse pewrzyn', 'waza baerxon', 'iywe ywerwno', 'lisy pewrsan'}, {'ysio epwrkno', 'hega epaysen', 'lisw peaersn', 'lwss peraysn'}, {'yyax vhrasno', 'lssa parwson', 'lizw perasin', 'layh baerqon'}, {'lwio pehasno', 'losy peirsna', 'ulgy epiresm', 'lssa pyrrson'}, {'lisy pearrsn', 'hues waeryno', 'yaya baersan', 'lzza peorsny'}, {'liaz perysun', 'hozu apresno', 'llsa paryson', 'yyha epirhon'}, {'ilze epirzno', 'llsu peurwsn', 'lwsa pearzyn', 'yhxa pyaryno'}, {'ilzo epawohm', 'lisw pewrswn', 'hlha peawkno', 'lwsy pewrysn'}, {'lsah piruson', 'hyka herasoy', 'lwsa pereson', 'hwaj yaercno'}, {'yewi epiwosm', 'lias perysyn', 'lwsa piwrson', 'luwh hharsno'}, {'wazy vurasno', 'liss pywrson', 'lsay poarsno', 'lehe piaryno'}, {'hyas ebawosm', 'lisy peurssn', 'leay waersow', 'less pearzni'}, {'lius payrsyn', 'liss pearyzn', 'yhxy epawojm', 'yiah waerxon'}, {'llsa pewrswn', 'lwie paerwom', 'ywii epwrhno', 'lwsu peyrozn'}, {'lhhy piawsno', 'llss paeorsn', 'lssa pehrsyn', 'ylay yporqno'}, {'whsy werasan', 'ulxi piracyw', 'lios peersnu', 'lssa parsoyn'}, {'lyhy eparkoh', 'lssy paaresn', 'lssa pprrson', 'ihqu epwrkno'}, {'lisy pewrsnn', 'lwso pehrysn', 'else paerhhn', 'hywi vaehqno'}, {'ywhs epoysno', 'hega waerosn', 'lizy pehrysn', 'llsa pearisn'}, {'lysa pearswn', 'lssu poorsyn', 'iwza haerhon', 'hejw vherqno'}, {'lwso pohrsyn', 'ilko yaurkno', 'ilah verajon', 'lisw perison'}, {'wasi epersno', 'lisy pewrson', 'lios paraswn', 'yyhs epawohm'}, {'ulwy eywryno', 'leaw peurwno', 'liss pearsnu', 'lysi poroson'}, {'lyza paraosn', 'yozu fhrasno', 'luaw epyrsen', 'lisy pehrsnn'}, {'luay eharsno', 'liss praason', 'lyss pewrsno', 'olzu ebwryno'}, {'lisw peyrsun', 'wuas ephrgno', 'iyqa haersno', 'lias payrsan'}, {'liss pearyzn', 'lyse peyrsni', 'huhs vaerosm', 'ilsh paerwow'}, {'alsy epawkon', 'hhjw aporqno', 'lesy perisin', 'liss peersnn'}, {'hwys waerqno', 'lssy poerswn', 'lisw pearswn', 'haha peiysno'}, {'wiaw eparcom', 'yekw epurkno', 'lisw prrrson', 'lioz pearznu'}, {'lzza peyrsna', 'lisy pearswn', 'ilyo baerosh', 'lwii paersho'}, {'yaqa peahcno', 'hwes epahyno', 'loss peorwsn', 'lwsa pewrzon'}, {'lisw praison', 'wgiu epurzno', 'llse pehrcen', 'iysw epyrsyn'}, {'lisy piarsnn', 'yesh eparkyn', 'ywax epuwzno', 'losy poarusn'}, {'liss prahson', 'yixi paerwom', 'lzaa poreson', 'elwy opwryno'}, {'llsa peyrsan', 'wizw ebarsno', 'ialy epywsno', 'liyz piarcin'}, {'ywak haewsno', 'husy epaysen', 'lisw parason', 'lusy pehrsna'}, {'wuxi yaerkne', 'lsss pewrzwn', 'lwsa pearusn', 'yiww eparesn'}, {'huag yaerkwo', 'ilya peeysno', 'liyz pwryson', 'lssa pewrswn'}, {'whza fewrsno', 'lwsw puarusn', 'lisw pearzzn', 'yljw epuwhno'}, {'wach yaerkho', 'lois pehrsni', 'lysa pearusn', 'yyha epayzon'}, {'lysw paarsne', 'wwyh yherkno', 'lysa pearsne', 'iwsh hearjno'}, {'lsay paresun', 'llsa perrssn', 'wazh epuwhno', 'hiag paerhoh'}, {'llsu piwrswn', 'yayu vaerqmo', 'woya biarsno', 'llsa piarsnn'}, {'ygiu yporosm', 'lisy paarsyn', 'lsae pereswn', 'haha eparsne'}, {'lhwy paerkoh', 'lwsa pearsna', 'hsiu fyrasno', 'llsu peruswn'}, {'liss pywrson', 'llss periswn', 'yewa peohsno', 'ulhy epwryyo'}, {'lisw puarswn', 'lssw perazon', 'ulwy haerxno', 'iwwa haarsno'}, {'huse bearjno', 'lisw poarsyn', 'ywws epwryyo', 'lioz puerswn'}, {'lisw piarssn', 'hysh paerxoy', 'leis puarsnw', 'ilqu hhrasne'}, {'yyas epawogm', 'lesy puirsyn', 'lssa peyrsan', 'huja beawsno'}, {'lssy peirsny', 'ulsy epuryon', 'llsa pearrsn', 'hwax eporhno'}, {'lisw pearrzn', 'alha eparsem', 'lice peersny', 'alch ypyrgno'}, {'iwsu paersih', 'lsay peircyn', 'lysa pparssn', 'yaas eporqny'}, {'lisy pearazn', 'ilew epurxno', 'lsae peercyn', 'iwsh veorosn'}, {'wlhu horasno', 'ilos paerwun', 'lssu paarozn', 'lssa powrson'}, {'liaz piyrsin', 'weya vearyno', 'llsa pewrzon', 'yhku epwryyo'}, {'wyju hhrazno', 'lwsa peorswn', 'ulsy baerwon', 'lwsw poorswn'}, {'lhwo baersno', 'lici pehrsny', 'yyah ypyrqno', 'lisy pewrzon'}, {'liss parsonw', 'ywas faerosm', 'lcea poaresn', 'yiqw eparyoh'}, {'yiwh paerhom', 'hejw epwrcno', 'liiz payrsan', 'lwsa peryson'}, {'yljw furasno', 'lysa pearuzn', 'leyy epyryon', 'lasw perosan'}, {'lies poersyn', 'huje piracyw', 'leho eharsno', 'lysa peoarsn'}, {'ilxi furasno', 'ilas baerxon', 'lizz paarcin', 'lysa puwrson'}, {'yoas averqno', 'lias poarzyn', 'lwsa poyrson', 'hega epirwon'}, {'lsao peorcin', 'woay baerosy', 'lssa pprrson', 'yaza perasuh'}, {'yyzh ephrosm', 'lwza poarsny', 'liss pearasn', 'luhw peragoh'}, {'lsaw peersnw', 'lwsa pearsnw', 'ywes efwryno', 'higw paehsow'}, {'lisy peryson', 'yexa vewrsno', 'ilqi epawkno', 'llis peyrasn'}, {'lisy peyrson', 'ilca paerwin', 'ihzw yaerwny', 'lesy paorsyn'}, {'hawi epawoxm', 'lisw pearsnu', 'lcya perosin', 'haga peurosh'}, {'lwza perisan', 'llsa ppearsn', 'ilcw epuwosm', 'laho yaersin'}, {'yigy paewsno', 'iywe epuwhno', 'lisw persoyn', 'lzoa peirzyn'}, {'yhia epwrsyn', 'liiz peyrsnw', 'llsa peroson', 'alch waewsno'}, {'hiaw paerswo', 'lssa pearwzn', 'lasy pywrsan', 'iluy ypyrkno'}, {'haha bearzno', 'lssa poarsnn', 'lyss piarozn', 'elwe vaeysno'}, {'olsy pirasow', 'lysy piaresn', 'ywys faewsno', 'lwsa peyrsen'}, {'loss puwrsen', 'hias epurcon', 'llsa prawson', 'hujw yaerkho'}, {'lzia piwrsyn', 'waha yaersno', 'lwsa perrsnn', 'hhag epawhsm'}, {'yiqe epaysin', 'iyho ypyrgno', 'lisw paryson', 'lies pewrysn'}, {'lisw peaorsn', 'hhas yahrkno', 'loho paerkoh', 'llsy paraswn'}, {'lice piruson', 'wyqe yaerwnh', 'liss pehrssn', 'laiw eparxyn'}, {'yiwi baerhon', 'lwss peyrwsn', 'lssa pewrzon', 'ylwe hhrasyo'}, {'lysa peerssn', 'luyh peorosh', 'ilqw wpwryno', 'lioz poroson'}, {'lwsa puarssn', 'iyky vaerqmo', 'lius puyrzon', 'leyy paeyxon'}, {'hixi eparcwn', 'lisw peursyn', 'lzia pehrusn', 'yhax evwryno'}, {'lysa prrrson', 'lusw poarcen', 'ulhy epuhsno', 'wush paerhhn'}, {'liys puarcin', 'yhxe epuwkno', 'iwja eparyno', 'lwsa perwson'}, {'lssa pearuzn', 'lasy peirozn', 'iwso veirsno', 'wekw epwrynw'}, {'lssa peerssn', 'liez pewrysn', 'lyhy eparsuh', 'huqu bwrasno'}, {'lesw pyryson', 'yyha epayjon', 'huaq epowosm', 'llsa pparsnn'}, {'wejw baeysno', 'lysy powrsyn', 'llsa perrswn', 'haxa yerashn'}, {'llsa pearosn', 'yhso peurhno', 'lioz pearzno', 'yyzh ephrxno'}, {'llsa pereson', 'yyac yaerwho', 'lsse poarzyn', 'hiak feursno'}, {'yyys epuwcno', 'liss paarssn', 'woka hyrason', 'lwse peerwsn'}, {'ilhx epurcno', 'yesy eparcwn', 'lzoa peruswn', 'lssa pearezn'}, {'liws puruson', 'yoxa heaysno', 'lisw pearesn', 'huju yyerwno'}, {'liss pearsny', 'lsaa puerswn', 'yysh paerhno', 'ilzy eworqno'}, {'llse pyyrzon', 'hwaw fwrasno', 'leye paerhoy', 'liss perrswn'}, {'whso paerkoh', 'ilew yaehkno', 'lisy peirswn', 'llsu paarzyn'}, {'lysu puarsnw', 'lisw peirsnn', 'lhwy epayshn', 'yuky hporqno'}, {'lwso parasin', 'yyco yaerwny', 'yias beersno', 'llsa pearizn'}, {'yiwu fewrsno', 'lihz peyrsna', 'hhas epiryno', 'lssa piarssn'}, {'lios piarsnw', 'wlha eparkoh', 'lwsa prayson', 'ywag epwusno'}, {'huya waersoh', 'lwss preuson', 'wyju epyrkno', 'lisw pwwrson'}, {'llso pahrsyn', 'wyke epuwcno', 'lisy peawrsn', 'olas paewhon'}, {'iays epyryno', 'hoza poaryno', 'lisw piarswn', 'lioz piarzwn'}, {'iwsw vearcno', 'lasw powrsyn', 'yoky faercno', 'lwsa praason'}, {'wsiw hwrasno', 'liiz paraswn', 'liss prrrson', 'wusi heyrsno'}, {'wqie epwwosm', 'liss prayson', 'lwwh paeysin', 'lysw piarisn'}, {'llsu peyrusn', 'yyac hhwasno', 'lisw praoson', 'ywxa paersiy'}, {'lysa pearswn', 'lcea peyrzwn', 'waze yaerkho', 'hosy peuhsno'}, {'lisw pewrsan', 'yush paehsow', 'lizy puyrzon', 'woyi epuwsna'}, {'lzua powrsun', 'yiwh veersno', 'ulky ypywsno', 'lwsa peroson'}, {'iwsy vaercon', 'lici puarsnu', 'yewi yirasno', 'lysa pearsnw'}, {'huqu yporqno', 'lwsa peerssn', 'lwso paresin', 'leaw peragoh'}, {'yewi epuwzno', 'lysa piarssn', 'wizu bearzno', 'llis pwyrsan'}, {'yqia peurhno', 'liws peursni', 'lysa pewrsin', 'wwas faerzno'}, {'liss peirssn', 'hyha perahom', 'lesw preaosn', 'yoji vaerqyo'}, {'lisw praison', 'yaaz faeryno', 'lehe beorsno', 'losy piursyn'}, {'lzza parezon', 'liss peaarsn', 'wixe epurcon', 'huhi furasno'}, {'lsea pewrzen', 'lawi eparzan', 'liss pehrssn', 'huhe epawosy'}, {'iwsy hearxno', 'llso peorysn', 'liss pewrson', 'hocy yirasno'}, {'lisy peurswn', 'llso piarasn', 'wuzy apresno', 'alsw veracon'}, {'liss pparssn', 'yoqa weersno', 'wwak voerqno', 'liis paarysn'}, {'lzua pywrsen', 'liss pparsnn', 'huaz viracyn', 'yyja epracon'}, {'lwiw eporcon', 'lwsa pewrsan', 'luis pohrsyn', 'huah yaerwnu'}, {'lwsi peeorsn', 'yiww waerjon', 'ilqo yaerqno', 'llsa pearazn'}, {'liss puwrson', 'ihsy epaysow', 'ilgu baerosh', 'lsss pareosn'}, {'lwsa pewrsun', 'ilxi hhwasno', 'lsah puwrzon', 'wush baerswn'}, {'yyco epuwsmo', 'losy piirsyn', 'lssa puarssn', 'wosi baerwon'}, {'yyqw apawosm', 'lisy peaursn', 'yike heorosn', 'lssy peercyn'}, {'lysa peaursn', 'heas efawosm', 'lsaa peurcyn', 'elha pirasow'}, {'wyes haerwno', 'wizw epaysen', 'lass pearznw', 'lwsa persown'}, {'liss pewrsyn', 'llse piirswn', 'lwio hwarsno', 'wwiy eporhno'}, {'lssa pewrson', 'hwus bhrasno', 'lssi perusyn', 'yiki paerohn'}, {'licy pourswn', 'hije epaysan', 'ylxw hhrasni', 'lssa pearsnn'}, {'lisy puarswn', 'lzea paarcen', 'hujo faerkno', 'elso faerhon'}, {'hiyi yaerxon', 'lysw perwzon', 'lwsa paarssn', 'ysih epwryni'}, {'elsw epaysin', 'lwsw piarsni', 'yljw yherwno', 'lwsa ppyrson'}, {'woqa feyrosn', 'lzaa puwrsyn', 'liss pyyrson', 'yehy epuwsni'}, {'lsah poyrsyn', 'yawa vhrason', 'huac eporqna', 'llsa pparssn'}, {'llsu powrzon', 'hgia vaerxon', 'lisy pearezn', 'whas byrasno'}, {'lisy pareson', 'hsua epaysyn', 'ysih epawosh', 'lsoa peurasn'}, {'yuha epurcon', 'lusy perasin', 'llsa pehrswn', 'ilcw epayxno'}, {'olji birasno', 'yiki paewxon', 'lisw pearzzn', 'lici pyyrsyn'}, {'lyza poarsno', 'hiis peiwsno', 'liss pearsne', 'wehy ipuwsno'}, {'liss pearzzn', 'alyu epawhsm', 'liis piaorsn', 'wysw veerosn'}, {'llsa peyrsnn', 'llsw pearzna', 'elhy vaerhno', 'hlsw paeryno'}, {'luho baerhon', 'lici perisun', 'ilzy yaehkno', 'lysa praeson'}, {'liiz paeorsn', 'ilag ephrcon', 'ilxy epuwsni', 'lwsa paearsn'}, {'hyww ywerwno', 'yhso paerwin', 'liss peuarsn', 'lyss pearzno'}, {'lwsa pearasn', 'lusy paersyn', 'whjw vaerzno', 'wowa yearyno'}, {'wase peuryno', 'less pywrswn', 'iyhw upwryno', 'lwsa peearsn'}, {'llsa peerssn', 'wihe paehshn', 'huhe hhrhsno', 'lsse perisen'}, {'liss pearssn', 'wysw wearyno', 'lasy pyyrsan', 'yaju epwrzno'}, {'wiye ewarsno', 'ulky hhraqno', 'liaz puarcen', 'lwsa pearizn'}, {'ysio vaerqny', 'wasi epayqon', 'lusw preyson', 'lisy pwrrson'}, {'llsa pearsne', 'wsih yaeryno', 'lsae peruosn', 'hiqw ephrcon'}, {'lwsa pearyzn', 'ihqu eywryno', 'lcea perasan', 'yush epaysin'}, {'hyqu eyorqno', 'lzoa perausn', 'lisw peerswn', 'yixh peraswy'}, {'lwss pruason', 'lwsa pearasn', 'yyus ehawosm', 'lawi epahzon'}, {'wyju faerkno', 'lisy peryson', 'wiaw baarsno', 'lzia peursnu'}, {'hues epuwsnw', 'lwss poorswn', 'lysa pewrswn', 'laiy epirsyn'}, {'llza pwyrsen', 'huju epuwsnw', 'hiay beirsno', 'lysa pearrsn'}, {'hwes ywerkno', 'llsa peyrsen', 'luyi wearyno', 'llse perosyn'}, {'lihz pahrsyn', 'lwsa pearcen', 'wizo epayshn', 'ilcu epihsno'}, {'luss peirusn', 'luay waersin', 'ihwi hhrawno', 'lysa paruson'}, {'yihe epahsyn', 'ylhw viracyn', 'lssa paarsnn', 'liis poerswn'}, {'lssa pywrson', 'lius piarsna', 'hwak yporqno', 'alxa ferajon'}, {'wije peiysno', 'liss pearsna', 'ihzw epiysno', 'llsy pwwrsyn'}, {'lysa peyrsyn', 'wusi beracon', 'llsu puarsny', 'wehe vaerqno'}, {'lois perysan', 'yixi peahcno', 'hhag hhrasnh', 'liss paarswn'}, {'lssy pywrzon', 'iwse epaygon', 'lysa pearuzn', 'hwus vwerqno'}, {'wize waerqon', 'lwsa peorssn', 'huhu ypawosm', 'llss pyyrsun'}, {'yeya waersen', 'lisw paroson', 'hywh hhraxno', 'lasy paarzwn'}, {'huga eparsne', 'lysy paarosn', 'lisy peahrsn', 'yeky epuwsho'}, {'woja wyarosn', 'liis perausn', 'ilcw piracyy', 'lwsa puearsn'}, {'iwka peyryno', 'lsay perosen', 'lisy prauson', 'yuas eoprqno'}, {'hewi epwwosm', 'lsso puruson', 'liss peerssn', 'wiqu peoyosn'}, {'lysa puarswn', 'ilyi hhrasne', 'lehe perasuh', 'lsaw preuson'}, {'wiho herasno', 'lysa peyrsnn', 'losw payrsyn', 'ilhe faerjno'}, {'ywaj epaygno', 'llsu pahrswn', 'lahy paerhen', 'lssa ppearsn'}, {'lisy peorsyn', 'ywak faerzno', 'huso epyyson', 'lusy piarsna'}, {'heas epawogm', 'yosy fearcno', 'lzua peerozn', 'liss pearwsn'}, {'hhag hhhasno', 'iwsu buarsno', 'lssa pearcyn', 'lioz poarcin'}, {'llsa peersnn', 'ilgh faewsno', 'lwsw pwyrswn', 'luay heaysno'}, {'llsi peryswn', 'ihwi wirasno', 'lisw perason', 'iwsw huarsno'}, {'hyas faerxno', 'lysa peryson', 'llse peraozn', 'hgia paerhhn'}, {'wsoa epahshn', 'licy pehrzwn', 'liss perwson', 'yyaz epoyqno'}, {'lisw peawrsn', 'wlwy epwryyo', 'lwwh yaersno', 'lass perwsun'}, {'yoka bearcno', 'llsi perwsan', 'ilqh ephrgno', 'lisy peursyn'}, {'wuza eharsno', 'iyhy yaerwny', 'lyse puaresn', 'lysa peaersn'}, {'lysa pearozn', 'hyqa paewhon', 'lzua poarcen', 'ulxe hhrazno'}, {'lwso peyrsnu', 'lyay heorsno', 'yyus vaerxno', 'lssa perison'}, {'lcya perwzon', 'ulqy epiwosm', 'yixh paerhno', 'lwsa poarssn'}, {'hyaw epywosm', 'lwsa poyrson', 'lysu piurswn', 'yuqa piarosw'}, {'huya bearjno', 'lsai peersna', 'lisw pearsno', 'wlho epawesm'}, {'ilhy firasno', 'yihh bearosm', 'lysa pwrrson', 'lyss peirusn'}, {'lwsa pearsny', 'luis peerysn', 'hyqa apersno', 'ywas ephrxno'}, {'hhas vaerqho', 'lysw preison', 'leyu haerjon', 'lssa pearsnn'}, {'hios epaysen', 'lysa peyrssn', 'wazy epwrymo', 'liwz piwrsen'}, {'lssa pearsno', 'wose eharosn', 'lusw peircyn', 'yhxo biracyn'}, {'ylcw baewsno', 'lysa poarsyn', 'ilsw veyrosn', 'lsao peerysn'}, {'liss peruson', 'yaas ypyrqno', 'elsw peurosh', 'losy paaorsn'}, {'hawi eywryno', 'lcya pwwrswn', 'ysha vhrason', 'lssa pearsnu'}, {'luhh poaryno', 'llsi parasun', 'llsa paruson', 'ilch waerosy'}, {'alza paerhwn', 'lsss perwswn', 'woyo epwwsno', 'lysa pparswn'}, {'hwaz epurzno', 'lsae perisin', 'yihh paerwyn', 'liss ppprson'}, {'huxa peahcno', 'lssa praison', 'lwsw payrsan', 'yeas baerkno'}, {'luss peurasn', 'llsa peaorsn', 'waya yearyno', 'ywak epawhsm'}, {'llsw parasan', 'luhw peurhno', 'huws epuwsni', 'lwsa praason'}, {'llsy pairswn', 'yhxy uporqno', 'lssa parason', 'elca waeryon'}, {'iyhh fyrasno', 'lyhw eparsuh', 'lwsa pehrswn', 'lsao peryswn'}, {'luhh waersun', 'lsae paarsna', 'yyju yyerwno', 'lssa pearsny'}, {'ilzo epawwsm', 'lisw piearsn', 'lihz powrsan', 'leyy epircon'}, {'llsa puyrson', 'hywo hhraqno', 'yaya baerjon', 'lyse peyrzyn'}, {'yyja paerwin', 'liss puyrson', 'lasy paarsna', 'iluy upuwsno'}, {'liss pearsni', 'hlsw epursoh', 'huhu ewwryno', 'lais peircin'}, {'wizo bwarsno', 'woyi haerhno', 'lwsa peurssn', 'lyza puyrzon'}, {'yuwi vaerqnu', 'lysa perason', 'iwqa eparzen', 'lzia pehrcen'}, {'wyes eyawosm', 'lywe heersno', 'llsa pearizn', 'liuz piarcen'}, {'lysa peaursn', 'wize waergon', 'hoqu yaeryno', 'llsw perozon'}, {'wwci eporqwo', 'lwza perasin', 'lysa praeson', 'hesi werasun'}, {'loho baersyn', 'llss pehrsno', 'huaw epahosm', 'llsa peurssn'}, {'llsa preason', 'ilyh hporqno', 'iwas eparwen', 'lwsw peirasn'}, {'lssa peairsn', 'iuls hhhasno', 'wosy haersin', 'losy perwzon'}, {'liss pearsny', 'ilqw yherwno', 'lssw pewrosn', 'wihe peurhno'}, {'llsa pearsyn', 'yaky wpirosw', 'iwwa yewrsno', 'lasy paarcin'}, {'lihs piarisn', 'olwe eoprqno', 'ilza baersoy', 'llsa peahrsn'}, {'lzaa peorsnw', 'lwiw paehsno', 'llsa pearisn', 'wsii eporqwo'}, {'loyy epawsen', 'liys parasun', 'woye vaerzno', 'lisy pehrsnn'}, {'liss pwrrson', 'hsie vierqno', 'wizi perajoh', 'lizz paresyn'}, {'huwa epwrsen', 'yuwi haerwno', 'lzoa pearzni', 'liss poarssn'}, {'woay epirqno', 'lioz peyrsnw', 'yhwa eparhen', 'lssa pehrssn'}, {'lisy pareson', 'ywsh pehryno', 'ilwh yayrwno', 'lyse preasyn'}, {'wazy faerhno', 'wizu haerwon', 'lwsa peaursn', 'liws periswn'}, {'hoji epurwno', 'lyhy waerwon', 'lcea pwyrsan', 'lisw peerswn'}, {'laay herawon', 'liss perrssn', 'lsso perusyn', 'waqu epawosy'}, {'lssy pyruson', 'hywu yaerwny', 'yesw epirwon', 'llsa paarsyn'}, {'hosw perahom', 'lisy pearizn', 'iyho epirosm', 'liwz perozon'}, {'yiko haersno', 'ilgy epwrcno', 'lysa pearssn', 'llza pareswn'}, {'liss pearosn', 'ihgw hhhasno', 'wush eparcom', 'lyse pywrzon'}, {'lisw peaorsn', 'lsae pewrysn', 'wyke eporhno', 'hiaz bharsno'}, {'lsoa puwrswn', 'hywu epurjno', 'lwsa pearysn', 'hihi baerjon'}, {'yiwo vaerxon', 'lizz pewrsnw', 'lwsa paarsyn', 'hequ hhrajno'}, {'yqia bewrsno', 'lwsa pehrsnn', 'lssi peurwsn', 'yyes epowsno'}, {'lewe peohosn', 'lisw pearzzn', 'lioz pehrsny', 'iuls yyrasno'}, {'yesi epyryon', 'ylqw epawohm', 'lsao pewrzwn', 'lisw peyrsen'}, {'iwsi yeursno', 'huhu ypyrhno', 'lssa perison', 'lcea peyrsnw'}, {'waza hoarosn', 'lsaa peirsno', 'woye epyrxno', 'llsa ppwrson'}, {'lahw piaryno', 'llsa peaursn', 'lusw puerswn', 'ilxe vhrasno'}, {'iljy ephryno', 'lwsa pearozn', 'lasy pawrswn', 'yuqa paersah'}, {'lwah eparsuh', 'wyju haerosm', 'liyz peerusn', 'liss perrsyn'}, {'lisw piearsn', 'ilya herajon', 'ilky epawoqm', 'lyss peyrzen'}, {'lizw payrsen', 'lisy pparswn', 'ilji vaeryno', 'ylha piarosw'}, {'yaha yaersin', 'lsaa poursyn', 'lssa pyyrson', 'wuas ephrjno'}, {'yyya yerajon', 'lisy pearwzn', 'wsiu yaerhno', 'llsu puarsna'}, {'liws pareosn', 'wiag hearosy', 'yhjw yoerwno', 'lssa pewrswn'}, {'lisw pareson', 'lysw puarzwn', 'lyww epwyson', 'wsoi opwryno'}, {'lesw peurisn', 'iyhe hhrasno', 'lisw pparsnn', 'hixi eparyin'}, {'alwe eporosh', 'lwse peyrcin', 'lssa puarswn', 'ywqa piawsno'}, {'lice perysin', 'hywi evwryno', 'whso eparhen', 'llsa piyrson'}, {'lass perosen', 'ywaq yaeryno', 'liss peyrssn', 'yiho paehsno'}, {'luss poyrswn', 'llsa peursnn', 'hyse baeryon', 'ilwe vaerqnh'}, {'loss peersnw', 'lssa pewrson', 'wyse peurwno', 'ywky vyrasno'}, {'lssa paarsnn', 'hujy epiresm', 'yikh vewrsno', 'lssi peorasn'}, {'alha epwrcon', 'lusw peirsni', 'ulqy upuwsno', 'lssa paarsyn'}, {'llsi peursny', 'wizu baergon', 'wyze vaerhno', 'llsa pearswn'}, {'lcea puersyn', 'ilgu yaerwnh', 'alya peahosy', 'lwsa peyrswn'}, {'wizo waershn', 'lisw parison', 'lias pwwrsan', 'alwe epuwsho'}, {'haza epursyn', 'lius puarsni', 'liss peyrsyn', 'waas eporqyo'}, {'lizy peursny', 'laah waergon', 'lysa paarswn', 'hyag epwwyno'}, {'yhsy epahcon', 'lioz piwrzon', 'uhas vaerqnw', 'lwsa praason'}, {'lzaa peursnw', 'waju baerzno', 'hwsh epaysoh', 'lwsa pparsnn'}, {'liss pearsyn', 'iwxa hyarosn', 'ihkw epawoxm', 'losy peercyn'}, {'iwsy epirwon', 'lsaa puhrswn', 'ihyw haerhno', 'lssa ppprson'}, {'lzea piarsna', 'lisy pewrsyn', 'ilxo wpuwsno', 'higw paerkoh'}, {'higu feirsno', 'wwiy baerosy', 'lysa pehrssn', 'lzoa parasun'}, {'lwza peyrasn', 'heag epiresm', 'llsa pearwzn', 'yiwi waerosn'}, {'weas yayrwno', 'lssw pehresn', 'liss parsown', 'laiy epaykon'}, {'lwsa poarsnn', 'lssw puarzyn', 'hiwi paerhom', 'ilqu vuerqno'}, {'yaka wehrsno', 'lsua poarcen', 'llsa peyrsyn', 'wlhi eporqho'}, {'yicy paerwwn', 'lsau puirswn', 'lisy perrswn', 'ihww epayxno'}, {'lisy peairsn', 'yyos epuwcno', 'lzoa periswn', 'hiyi wiarsno'}, {'hiwi yearqno', 'llsu poarzyn', 'lwsa peurssn', 'ihyw ehwryno'}, {'iywi faeysno', 'whja eparsno', 'liss peursnn', 'lies puhrswn'}, {'lwsa pewrsin', 'liyz preaswn', 'yeja hyarosn', 'hewi epiysno'}, {'lzoa paarisn', 'whka paerhhn', 'ilky wpuwsno', 'lssa piarsnn'}, {'wose baersow', 'lysa paarssn', 'lssy perasen', 'ilqw hhrahno'}, {'lyaw eparcno', 'liaz paaresn', 'wsie epwysno', 'liss pearezn'}, {'lais pehrsni', 'wizo paewsno', 'hwax whrasno', 'lisw peaersn'}, {'hyse paawosn', 'lwso peyrosn', 'lisy prauson', 'yoji epirqno'}, {'lisw piarsyn', 'llse pirwson', 'yicu paerswy', 'ilkw waercno'}, {'lici pewrsnu', 'yhso huarsno', 'llsa peoarsn', 'yuwi horasno'}, {'hyzh yaerkne', 'huqa waersun', 'llse puarusn', 'lssa peirsyn'}, {'wyqe ephrgno', 'lyhe veirsno', 'lysa ppearsn', 'liiz pehrzwn'}, {'lssa pehrswn', 'ilgy ephwsno', 'lyhy beracon', 'llsw puarcin'}, {'llsa puyrson', 'llsw piwrsyn', 'heya heahsno', 'hyqw vaerqnh'}, {'lisw peerssn', 'lias pewrwsn', 'alwy epuwcno', 'lehe heirsno'}, {'woza bearqno', 'whas epwrzno', 'lias peorzwn', 'lysa piyrson'}, {'lhio baersom', 'lsua peyrcin', 'ywii evawosm', 'lssa puearsn'}, {'hysw porahon', 'lisw pearwsn', 'lwso perisan', 'huak vwerqno'}, {'liws peirsnw', 'lwsa ppearsn', 'wase feyrsno', 'yhxh epirosm'}, {'lysa pearswn', 'lzea puhrswn', 'yewa epaysan', 'wych yuerwno'}, {'wiju eparyin', 'yozu eporqho', 'lzua perasan', 'llsa pewrsyn'}, {'iyho ephrgno', 'lioz preasyn', 'lysa pearizn', 'wiky epyyson'}, {'llsa pearosn', 'lysw peresan', 'loho peiysno', 'ilci hirasno'}, {'lysa pwwrson', 'lwii eparqen', 'lois peresun', 'woye epawusm'}, {'wwii epwryyo', 'wiqu veyrosn', 'lcya pourswn', 'lisw pewrsun'}, {'hhas vaurqno', 'wsoa paewsno', 'lssy peurusn', 'llsa paarsyn'}, {'lisw peorswn', 'hwes epaowsm', 'lysi perisan', 'wicu hearhno'}, {'llso peercin', 'liss pearsna', 'wwza eporsen', 'ilzi epahosm'}, {'lhyo waersoy', 'yhxh vuerqno', 'lzea paursyn', 'lisw peursnn'}, {'haza vyarosn', 'yach epawhsm', 'llsa paruson', 'lyse pehrozn'}, {'ysiw epuwzno', 'lahu haerwon', 'lcya pwyrzon', 'lysa prasson'}, {'ywws epuwsmo', 'llsa prahson', 'luhw paerhan', 'lesy pwyrsun'}, {'lssa paruson', 'waig waerkno', 'llss paarsno', 'yuwa eporcon'}, {'lwyh eparxyn', 'lisy parwson', 'yqie apwryno', 'lysw piarsne'}, {'hywu hyrasno', 'huka pirasow', 'lisy peursnn', 'loss peaorzn'}, {'liss pearsyn', 'yaiy epirzno', 'ulha heargno', 'lcea puwrsen'}, {'lwse preazon', 'lssa pprrson', 'iljw eporcno', 'lyay beahsno'}, {'yyzh epuwsyo', 'lwsi powrsun', 'hihi ephrsyn', 'lisw poearsn'}, {'lies poarasn', 'ilhy upwryno', 'liss pearcyn', 'ilah paewsom'}, {'lisy parison', 'liez peiresn', 'hyww ephrqno', 'waha eharsno'}, {'lais puarzyn', 'lisy praison', 'hhsy eparyoh', 'ilzw yaeywno'}, {'hiju yaerqon', 'liez prieson', 'lisy peaersn', 'yyax hhrawno'}, {'lwsy perusen', 'liss pearyzn', 'hush baersun', 'yyws epuwsno'}, {'llsa peorsnn', 'ilyi haeryno', 'wiwe epaywon', 'lssy poarusn'}, {'liis peyrcyn', 'ulsw paersho', 'llsa peahrsn', 'ilkh firacyn'}, {'ylcw uporqno', 'lesy puwrswn', 'yyza boarsno', 'lisy peyrsin'}, {'high paawsno', 'yhxe epurqno', 'lwsi peyrsne', 'llsa persoyn'}, {'olza peraseh', 'hhqu apuwsno', 'lssa persoyn', 'liez pahrsyn'}, {'yuha baersyn', 'hwii epawosm', 'llse peurwsn', 'lisw peurssn'}, {'hywi epwwosm', 'hoza eparyoh', 'lysa puarsyn', 'lsai poyrsin'}, {'hoqu epwryny', 'lysa peirsyn', 'llsi perysun', 'ilsi ephrkon'}, {'yewe epurwno', 'lwss peorysn', 'lssa peorswn', 'yiwh baerqon'}, {'yuws epwrkno', 'lwso puarsni', 'lisw paroson', 'ilza vhrason'}, {'lisy paruson', 'liwz paresyn', 'iluy hhrakno', 'layy waersow'}, {'yhky wpawosm', 'lwsw poirswn', 'llsa piwrson', 'elha haersin'}, {'yoji eporqne', 'lwsa pearssn', 'liis pehrsne', 'lehw wehrosn'}, {'ihjw epawosw', 'lisw peurswn', 'yaha beahsno', 'liyz pewrsno'}, {'losy piwrsyn', 'hujw vwrasno', 'wyxa feyrsno', 'lysa peoarsn'}, {'wazo yaeykno', 'yihi waeryon', 'llsy peirsnw', 'liss ppprson'}, {'lisw pearrsn', 'yuwa paerhen', 'wwas epawokm', 'liiz perosen'}, {'ilhx faewsno', 'laaw paersyo', 'liyz peurosn', 'lisy puarsnn'}, {'liez pehrsna', 'lssa pprrson', 'iwsy peahzno', 'ilch ehwryno'}, {'liiz paorswn', 'huus virasno', 'hicy eparken', 'llsa peoarsn'}, {'llsa pearosn', 'heas epuwsni', 'yosw paersho', 'liys piyrsyn'}, {'yese epawyon', 'liwz puryson', 'ywwi faerqno', 'lysa paryson'}, {'lisy peerswn', 'wwai eporwno', 'lesy paarsnw', 'luay eparcan'}, {'llss perausn', 'yihu epoyson', 'huxi epirosm', 'liss perison'}, {'lwsa peruson', 'wosh heursno', 'wwak vaehqno', 'lzaa peorozn'}, {'llsa pearysn', 'liaz piyrsen', 'hyag ypyrcno', 'wizw baersin'}, {'wyje eporzno', 'loyw hearwno', 'lzia pourswn', 'lwsa pewrsen'}, {'lssa perrsnn', 'llso piruson', 'lwaw werasun', 'hlay epawism'}, {'lssa pparswn', 'llss piyrsan', 'wlah hhrusno', 'hyza baersoh'}, {'lysa poyrson', 'llso pwwrsan', 'wios eparqen', 'wyqw vaerhno'}, {'llsa peyrsin', 'yuwa yerashn', 'ysiw eforqno', 'lwsi pahrswn'}, {'lwsa pearrzn', 'yiqu epayxon', 'wach eforqno', 'llza pewrwsn'}, {'ywqa eparsey', 'lssa piearsn', 'lwse pehrisn', 'yyak wurasno'}, {'haig epawasm', 'wiak peiwsno', 'lssu poyrsun', 'lysa pparsnn'}, {'llsa piearsn', 'llso peirosn', 'elwy waeryno', 'luyh pyaryno'}, {'llsa pewrsan', 'yyac yaerwmo', 'yiky waersom', 'lsaa pruason'}, {'liss puwrson', 'hywo hhracno', 'wicu epurwon', 'liez puarcyn'}, {'hiag eparsah', 'liss praison', 'lsss perazon', 'wlhi epaygno'}, {'llsa praison', 'ilyi vaerqho', 'hias epursoh', 'lsau payrsin'}, {'lysa pearsny', 'wije peuryno', 'lass pyyrzon', 'hgiu waerzno'}, {'yihw piarhno', 'ilch yaerwnw', 'liyz paarzyn', 'lwsa peaersn'}, {'ysoi eporqnu', 'lusy poarisn', 'lahu peayyno', 'liss pearsnw'}, {'llsy pyyrsan', 'huwi yaerhno', 'lwsa pearcyn', 'yaxa yaersin'}, {'huus yherkno', 'luho bewrsno', 'lisy parsoyn', 'lsse pewrozn'}, {'lwsa pparswn', 'leay hearxno', 'hqiu epwusno', 'lsoa peursni'}, {'hoga waershn', 'yewi epwwsno', 'lysa parwson', 'lysw pahrsyn'}, {'hoga waergon', 'hyke epuwswo', 'liss pearcin', 'llsi piyrsen'}, {'lwsa peirsyn', 'lssu paarysn', 'ihls haehsno', 'lwhy waerkon'}, {'waas faercno', 'lisw piarssn', 'leis perasyn', 'yhxa epirhon'}, {'yaju epawokm', 'yikw heorsno', 'lisy paarssn', 'lwza peirwsn'}, {'yiho waersow', 'wyos yaerqno', 'lsah peursnu', 'llsa pparsnn'}, {'lhwo fiarsno', 'llso peurasn', 'lwsa puarsnn', 'huus vaeyqno'}, {'hyja epyyson', 'lsse perwsen', 'wlhi epwryny', 'lssa paroson'}, {'hoji baerosy', 'ilsw heyrsno', 'lssa payrson', 'liws pehrcyn'}, {'lisy peruson', 'lizw poaresn', 'ywsh epayjon', 'ilgh oporqno'}, {'lssa pparssn', 'hlay epircno', 'ihsi baercon', 'liuz perwsan'}, {'huos epirkno', 'huka hyarsno', 'llsa peurswn', 'lzia pwyrzon'}, {'hywi epowosm', 'lwsw poirswn', 'whsy feyrosn', 'liss pearasn'}, {'liss paarsyn', 'wyzh biracyn', 'woxa paerwin', 'lwsi pwyrsin'}, {'llse poarozn', 'olza paarosy', 'hoqu ypawosm', 'lisy poarssn'}, {'wwie epiryno', 'lais peyrsno', 'yosw paarwno', 'lisw paarsyn'}, {'yixe weersno', 'liiz perasin', 'huaj yporosh', 'lisy pearuzn'}, {'liaz periswn', 'wwii hhwasno', 'yaxa paehshn', 'liss paarswn'}, {'luss perisyn', 'yiqy paeywon', 'lisw perason', 'ilyo yherkno'}, {'layw peiwsno', 'llis poarwsn', 'wwie yyerkno', 'llsa peorswn'}, {'alsy eparswy', 'yayu vhrasno', 'lisw peayrsn', 'loss pearznw'}, {'yyws baerqno', 'lwsa pearznn', 'lwso puwrsyn', 'yesy beorsno'}, {'ilqa paerwwn', 'wsoo yaerwni', 'liss perwson', 'lyse perasyn'}, {'lhyo epursen', 'lsao preasin', 'huag epirxno', 'liss peairsn'}, {'ilko epwryno', 'lwsa piarswn', 'lzza perazon', 'iwsw epuyson'}, {'hyya herajon', 'alqu hhrwsno', 'lysa ppprson', 'lsso poarcin'}, {'leyo yearcno', 'lysa perison', 'leis peerasn', 'wwai yaerqno'}, {'lisy peersyn', 'ylgw vaerqno', 'lizy peerusn', 'iwsw pwaryno'}, {'hysi waehson', 'alwe yaerqno', 'llsw pehrozn', 'llsa peroson'}, {'ilyw hwrasno', 'lysa pewrsan', 'lizw peyrsnu', 'wosw vyarosn'}, {'lies paarcyn', 'llsa puarswn', 'ulxy yaerwnw', 'yaya epircon'}, {'lsau puarisn', 'huhi vaehsno', 'lisy peyrssn', 'wizi peawcno'}, {'lyaw paehxon', 'losw peyrsna', 'yewo epwryho', 'llsa puarsnn'}, {'liss pparswn', 'yiwo epaysno', 'lwss piirswn', 'ilcw faerjno'}, {'whso faerwon', 'less piwrsan', 'ials epowosm', 'lwsa peersnn'}, {'llsy peerusn', 'llsa pearrzn', 'ials eporqyo', 'yaka epwyson'}, {'yewe ephrjno', 'layo waerqon', 'lyza peresun', 'lisw ppprson'}, {'lsae perosan', 'lisy pearznn', 'huhw epwryho', 'haha epaywon'}, {'wyxa hearqno', 'ilyh ehwryno', 'lysa peaorsn', 'lwsu pwwrsun'}, {'ilzh vaerqwo', 'yyka beirsno', 'lizy paresan', 'liss pearsnw'}, {'lisw piarssn', 'lsse piwrsan', 'hhag hhrasmo', 'ihsw byarsno'}, {'olay epaygno', 'leaw weersno', 'loss periosn', 'lisw perison'}, {'whka yeirsno', 'lwse payrsen', 'lssa pearizn', 'wwiw ypyrxno'}, {'hxia epursoh', 'lizy perisin', 'ilcw yaerkwo', 'llsa pearyzn'}, {'lwwh puaryno', 'lisw perrssn', 'lsse powrsyn', 'yuxe baerhno'}, {'wiaw wyrason', 'yozu epurqno', 'lsao poyrsyn', 'lysa peyrsnn'}, {'huac haercno', 'yicu waersin', 'lyss paaorsn', 'lisy pprrson'}, {'wizy paerhoh', 'alch epirqno', 'loss poyrswn', 'lysa puyrson'}, {'ilgi waerhno', 'lasy poarsni', 'lwsa peaursn', 'layw epracon'}, {'loww veursno', 'lssu paursyn', 'liss persoyn', 'ilqe epayzno'}, {'lssa peyrsin', 'huhy hpuwsno', 'lesy poyrzon', 'ywha yeursno'}, {'elwy eporgno', 'lisw piwrson', 'lwsu peraasn', 'ilay eparcwn'}, {'llso piarsna', 'ilwo vaerqyo', 'liss peyrsen', 'yiki hyarosn'}, {'wyqw opwryno', 'huja peawkno', 'lwsa pehrswn', 'lizz poryson'}, {'llsa pywrson', 'waqu epuysno', 'lasy peerosn', 'layy paeyxon'}, {'lssa peerssn', 'huax faerhno', 'lwsy peyrusn', 'wigy weirsno'}, {'elca faerhon', 'lysa perason', 'hwaj yaerkna', 'lies piarsny'}, {'alsi eparyen', 'lcea peorcen', 'iljw horasno', 'lwsa puarswn'}, {'ywas yaewsno', 'yeca ephyson', 'lsao pihrswn', 'lysa paruson'}, {'yyay hhrasnh', 'liss praason', 'ilas waersom', 'lzua perisan'}, {'iyhy eporqwo', 'lisw puarssn', 'lios piersyn', 'lhho hehrsno'}, {'lisy pearzyn', 'iwja vearcno', 'lsae peurcyn', 'hwhs epuwjno'}, {'lici peirozn', 'hosw peiryno', 'liss peaorsn', 'ilow epahcno'}, {'lsse piwrsyn', 'lysa paearsn', 'woya eparyno', 'yaig epaywno'}, {'lysa pearswn', 'hhja waersoh', 'luss peruswn', 'ilji haercno'}, {'hwak eporhno', 'lisw pehrssn', 'loww yaersno', 'lssy peorosn'}, {'wosy yaerhon', 'llsw perasan', 'lysa peaersn', 'iyky apawosm'}, {'lwse poyrswn', 'liss paruson', 'ulcy yaerwmo', 'iwha baersno'}, {'elhw ipawosm', 'liiz piarsnw', 'lysa prawson', 'ilso paerwwn'}, {'lizw payrsan', 'lysa peawrsn', 'hwqu hhwasno', 'ulsw piahosn'}, {'wwiw ipwryno', 'yega peurosh', 'llsa pewrzon', 'llss pareswn'}, {'yyos yaewsno', 'lysa pewrsun', 'yeso epahsen', 'liis poarsnw'}, {'yyso paerswo', 'wyhe yahrkno', 'liss peroson', 'lsae perwswn'}, {'yiwy peawkno', 'wazh epayosw', 'liss prasson', 'luis peirsnw'}, {'lisy peearsn', 'llza peresun', 'yhxi epahosy', 'lohw peuwsno'}, {'lyse pewrcen', 'luay paerseh', 'hyww wpirosh', 'lysa peoarsn'}, {'wyas hporqno', 'wizy waercon', 'lisw pewrsyn', 'lysi puersyn'}, {'hywy ypyrhno', 'lssa peyrsun', 'lass pyyrzon', 'wihe paerwun'}, {'whsy eparyin', 'lsss pewrozn', 'liss peirsnn', 'wehy hhrawno'}, {'yyah epwrxno', 'lisy puarswn', 'hiaw peahosy', 'lwsy peirozn'}, {'liss peruson', 'ulxy haerwno', 'yhka paarosy', 'llsw perausn'}, {'llsa peirswn', 'wizy eprasyn', 'lysy paarcyn', 'yuwi vairqno'}, {'llsa peursnn', 'hiwi paerswy', 'luis pihrsyn', 'yyco wpirosy'}, {'elhe yaewwno', 'yosw epracon', 'lsso pihrswn', 'lisw peearsn'}, {'huag yaeykno', 'yikh weorosn', 'lsai pyroson', 'lysa pparsnn'}, {'yaju wurasno', 'lisw puarswn', 'llis parazon', 'lhho haarsno'}, {'olza paerwan', 'lysa prrrson', 'loss peyrysn', 'ihyw yaerwnh'}, {'lzua peyrysn', 'lwsa peyrsan', 'yyus yporosh', 'wese epursyn'}, {'lssy paarsni', 'lssa perason', 'ywha heyrsno', 'hejw hhraqno'}, {'ilku epayosh', 'lici perwsen', 'lwsa puarswn', 'yxia eparesn'}, {'yawi epirgno', 'hysw peowosn', 'lsae preasen', 'liss peoarsn'}, {'iyhh yaehkno', 'lysa peirssn', 'lhhy yeraqon', 'lysu peyrzun'}, {'liss pwrrson', 'llza peresyn', 'hgiu fhrasno', 'hysw hyrason'}, {'lesy poarisn', 'lwsa pearasn', 'ylay epyrosm', 'hyso eprasyn'}, {'llsa peyrswn', 'lsua preuson', 'wiak feorosn', 'iywy whrasno'}, {'wsiw vaerqna', 'yuqa beawsno', 'llss pyreson', 'lwsa pearzzn'}, {'hyas vaerzno', 'liss peyrssn', 'lizw peurosn', 'ylha epwrjon'}, {'liaz perusan', 'lysa peerssn', 'yese verajon', 'waas epawosh'}, {'lisw peaorsn', 'ihjw vaercno', 'weca peragoh', 'lzza peyresn'}, {'hyga vyarsno', 'lssa pehrsyn', 'ihwe waerzno', 'luss poirswn'}, {'iywe evwryno', 'yuqa epohson', 'lysy puersyn', 'lwsa piarssn'}, {'yaqu epyrqno', 'llsi puarsnu', 'yiay epawyon', 'lwsa praason'}, {'loyy baershn', 'yhas efawosm', 'lysa pearsne', 'lysu paarsna'}, {'lzea pearzno', 'hhsy paerwoh', 'wsoi yawrkno', 'lysa pearsne'}, {'lysa pewrsnn', 'elso fewrsno', 'lssw parazon', 'ilgw vaerqho'}, {'lysa pearznn', 'luay perasah', 'llso paarsno', 'wyye ypawosm'}, {'hasi peiwsno', 'lssu pywrzon', 'wyce epwrosm', 'llsa pparsnn'}, {'lysa paarssn', 'ywia peorosh', 'haig wwrasno', 'lsay peyrosn'}, {'ilzy vaehqno', 'wosi faerhon', 'lysa puarssn', 'lwsw pewrsnu'}, {'lsaw piarisn', 'yhxo epuwjno', 'llsa peerswn', 'woja beahsno'}, {'lysa perwson', 'lssi piyrsin', 'hysh ephyson', 'wwio epurosh'}, {'yihu eparcno', 'lisw pearosn', 'lesw peorsnw', 'ihwy hhrasnh'}, {'ilxu ayerwno', 'llsa pehrswn', 'llss poaorsn', 'luhe waersen'}, {'ulwe yaerzno', 'lssa praison', 'haga fearyno', 'llsu peyrsni'}, {'llsa poarssn', 'lsua peryswn', 'wwai iporqno', 'yuha feyrsno'}, {'lsss paarusn', 'ilji haerosy', 'lwsa pearsny', 'haga waergon'}, {'lasy pehrsno', 'yicy baersin', 'iyho epawohm', 'lisy pparsyn'}, {'llss pyyrsun', 'llsa paarssn', 'yiko haarsno', 'iljw hwrasno'}, {'ilco wpawosm', 'lzza pyyrsen', 'lisw praeson', 'yiku faerxon'}, {'liss puarswn', 'llss perusin', 'ywaq ywerkno', 'higi paerhin'}, {'lssi pehrysn', 'ilwy haerwno', 'liss parwson', 'hysu yearcno'}, {'lwsa persony', 'hujw epwrosm', 'lzia perisun', 'hhsy peihsno'}, {'llss peyrisn', 'lisy peryson', 'ywii hhresno', 'yiww waerzon'}, {'hwws ypyrxno', 'lwsa puwrson', 'hige epurcon', 'lzia peersno'}, {'lwwh hearqno', 'elhe vaerqno', 'lssa peaursn', 'lcya pyrsaon'}, {'hach piracyw', 'lass preison', 'yhwa waerjon', 'liss pearsnw'}, {'lsoa piarsna', 'liss pearyzn', 'yejw yaorkno', 'wwia eparsyh'}, {'lisy paryson', 'lzua peraysn', 'whjw yaurwno', 'leye fiarsno'}, {'lisy pearrsn', 'wuxi ehawosm', 'yesh peawkno', 'liys piarsna'}, {'lssw perosyn', 'yqia eparsym', 'yuas birasno', 'lysa piearsn'}, {'luho vaerwon', 'lwse peurcyn', 'wwjo ypyysno', 'lysa perrssn'}, {'yyaq vairqno', 'liss prasson', 'liez piyrsen', 'yiku eparseh'}, {'ysha peuhsno', 'lsai puwrsin', 'lwsa pearzyn', 'yyws eporosy'}, {'ylxw epircno', 'llsa prahson', 'lwsi peorsny', 'laye feyrosn'}, {'lisw prawson', 'hyso veorosn', 'luis preasyn', 'alch epwrosm'}, {'leye yerayon', 'woyh yaerwho', 'lisw pearsno', 'lsai peerzyn'}, {'lwsa peirsyn', 'iljo eporkno', 'lyza periswn', 'alza peahcno'}, {'llso pehrsni', 'wowa epirsno', 'llsa parason', 'ihjw vaerqno'}, {'yyzh eporosm', 'llsa prrrson', 'lass peirisn', 'yusi epracon'}, {'weas epwrcno', 'yaka haerxon', 'lsah paurswn', 'lisw peruson'}, {'ysoo hpwryno', 'lysw powrsen', 'lisy praison', 'yusi hearqno'}, {'wwai ypyrqno', 'ilas eparkyn', 'liws powrsan', 'lisw ppprson'}, {'lsse payrzon', 'llsa pearasn', 'hizi heersno', 'wkio faerwno'}, {'luss powrswn', 'lssa peairsn', 'yhja epahshn', 'yhxw epuwhno'}, {'lioz peurwsn', 'lyay eporwon', 'llsa pearssn', 'ilhw epwwyno'}, {'whku yairkno', 'elya vaarsno', 'lysa pparswn', 'lsss pureson'}, {'lzua peyrzun', 'lisw peurswn', 'lyyw baerswn', 'wehy evwryno'}, {'lssa poarsyn', 'llso pehrozn', 'husu vaersno', 'ilge aporqno'}, {'lesw payrsan', 'lwsa piarsyn', 'woza faerwon', 'wlwe epirzno'}, {'hxia wyrason', 'lasw preuson', 'lysa ppyrson', 'yhax epuwsny'}, {'lsss poarisn', 'llsa parsoyn', 'wwiu vierqno', 'weza perajoh'}, {'yysy peeyosn', 'losy poirsyn', 'haag vaerqyo', 'lisy persony'}, {'ilzi yiracyn', 'lias paaresn', 'lisw pearsne', 'lyaw epwrcon'}, {'lasy pewrzwn', 'yixu eharosn', 'liss prasson', 'ilye yaerkne'}, {'loss pihrsyn', 'lwsa pearswn', 'yach eupwsno', 'laah eparsem'}, {'lasw pwroson', 'lssa pewrssn', 'husw vharosn', 'hyos yaerkho'}, {'hlwe faehsno', 'lysa pewrsun', 'lsao peersny', 'lohw baerkon'}, {'yyaq epawohm', 'lohy paarosy', 'liis peirusn', 'lysa prauson'}, {'lssa peorssn', 'yhxe faerqno', 'huja eparhom', 'lusy pyyrsun'}, {'haws epawosm', 'llsa pewrsun', 'lhyy eparsuh', 'llsi poarsnw'}, {'ilja paerhwn', 'yyac yaerkno', 'llsu periosn', 'liss peyrsen'}, {'hywi yairwno', 'liss peirsnn', 'lewe baersom', 'lsse peryzon'}, {'woyo hpwryno', 'yiak ephrsen', 'lisw puwrson', 'lzia peresan'}, {'ilge vaerkno', 'loss preasin', 'ilka verajon', 'lysa pearcin'}, {'llsa praison', 'ilcw furasno', 'yixi eparswy', 'llsi peurysn'}, {'yiwy baershn', 'lysi pwwrswn', 'yejw upawosm', 'lysa paryson'}, {'hiay baersoh', 'hwaz hhrasni', 'liss prrrson', 'leis puurswn'}, {'wazo epwryno', 'lisw puarsyn', 'iwka yaerhon', 'lihs piwrsan'}, {'yiwe porahon', 'alju epawokm', 'liiz payrsun', 'lysa peersyn'}, {'lsai paraswn', 'yuha weursno', 'lisy persony', 'iyhu waewsno'}, {'lyso pewrsnu', 'llsa peursnn', 'hoza baersoy', 'yaws epyrkno'}, {'lwsa pearazn', 'haaz epawowm', 'hega epargen', 'lwse peirysn'}, {'hoga epursyn', 'lsss pehrzwn', 'wwio faercno', 'llsa pearsni'}, {'hwsi paerwun', 'lysa peaorsn', 'lsau pareosn', 'wuzy faeryno'}, {'woso paerown', 'lwsa peerssn', 'lsea poreson', 'hyju yaerwno'}, {'wlhi eporosw', 'hhsi epargen', 'lois peorcin', 'lwsa pewrsyn'}, {'haza perayno', 'llsu pwyrsyn', 'lssa peersyn', 'ylkw yaehkno'}, {'lsua pireson', 'haag yaerkyo', 'lysa perrsnn', 'hhja haerwon'}, {'wozu epwusno', 'lisy pearizn', 'waha paerhyn', 'lios preazon'}, {'yuha hearyno', 'lsah preyson', 'yewi eporkno', 'lysa pearrsn'}, {'ilge vuerqno', 'lihz perazon', 'huxa paerkoh', 'liss prawson'}, {'lyso pwwrsan', 'hyos epuwyno', 'lisy pearzwn', 'huso eparswy'}, {'wwih epohsno', 'llsa persown', 'liis peorsno', 'ulsw eparsyy'}, {'lwsw pireson', 'ysie apwryno', 'higy beawsno', 'lssa paarsyn'}, {'wlwe vaeysno', 'luis payrswn', 'lisw parsoyn', 'wwse yaerxon'}, {'yhqa epaysun', 'yljw hhraqno', 'lsea perosen', 'liss pearsnw'}, {'lsso peercin', 'wuse poaryno', 'lisy peoarsn', 'yehy epurosh'}, {'loay eparzyn', 'liss pywrson', 'ilyh eporqwo', 'lici preasan'}, {'lais pyrsaon', 'lssa pewrssn', 'ihgw epuwsnu', 'luyi fearyno'}, {'yiku paehsow', 'yhxe epawysm', 'lwso piwrswn', 'lssa prasson'}, {'hyqw hhrysno', 'llsw peraosn', 'olas epahcon', 'lisy poearsn'}, {'yhxi epurosh', 'lisw piarsnn', 'wiaw paewsin', 'losw pehrsna'}, {'hehy epuwqno', 'lsso poarsne', 'lyhy paerxoh', 'lisw peyrsan'}, {'huho epuwosm', 'lsay peyresn', 'yush faersin', 'lwsa poyrson'}, {'yhky epiwosm', 'lisy pearsnw', 'lzia peirasn', 'yyxa pyayosn'}, {'llsa peersyn', 'huhi epoyqno', 'yhso epirwon', 'lwsw pehresn'}, {'wese epersno', 'lysa pearzyn', 'lsae persayn', 'yyju waercno'}, {'hiwi yeorosn', 'lysy piarusn', 'huhw ephwsno', 'lisy piarssn'}, {'lwsa peahrsn', 'lizw pywrzon', 'hiqi weursno', 'hyos baerzno'}, {'wuws hpwryno', 'lwsa peorswn', 'lsoa pearzno', 'ilga yaerhon'}, {'lasy peryswn', 'liss pewrson', 'hykw epuwwno', 'iwas paehsow'}, {'iuls burasno', 'hyja epargoh', 'liss prauson', 'llsw peryswn'}, {'lizw porison', 'lssa pwrrson', 'lwah eparsuh', 'hwjo hpawosm'}, {'ilzo ypyrjno', 'lasy paarsne', 'lssa puarssn', 'hiqw baeyson'}, {'liwz pwwrsun', 'leyw eparkyn', 'hywu vaerqnw', 'lisw peiarsn'}, {'yosy fiarsno', 'yyak ypyrgno', 'liws payrzon', 'lssa peursyn'}, {'lsua peyrzwn', 'wije eparcin', 'lssa parsonw', 'huaw yaergno'}, {'lysi perosyn', 'yqia paehxon', 'wocy ypyrgno', 'lwsa paearsn'}, {'yuka yeirsno', 'lsay pourswn', 'lisy poarsyn', 'ilxo ypyrjno'}, {'lysa pearsny', 'elhe yaewsno', 'lysi pawrswn', 'lahy epaysow'}, {'lssa pearysn', 'hiag baersen', 'luss paarsne', 'hyzh haerosm'}, {'liss peryson', 'wwie haerosy', 'lssu puorswn', 'lewo yaershn'}, {'wyze wpirosy', 'lzoa peerusn', 'liss pwyrson', 'yhsy peahcno'}, {'lwsa parwson', 'less piarusn', 'luho peurosh', 'huqu faergno'}, {'waza eparsyy', 'lwsa praeson', 'liiz poarsne', 'ilge yirasno'}, {'lies puursyn', 'iwza beyrsno', 'lysa pewrsan', 'hwes yaerkwo'}, {'wasi peyryno', 'hsiy epiresm', 'liss peaursn', 'lasw pewrsno'}, {'lass puhrsyn', 'ywos ehawosm', 'laho eparxyn', 'llsa pearsna'}, {'hizw ephyson', 'iyhh vorasno', 'lwsa pwrrson', 'lssi puarcen'}, {'lssu piirswn', 'llsa pprrson', 'wlhw eporgno', 'heya waergon'}, {'wach haeysno', 'ilsw berasom', 'lsse poyrsun', 'llsa parsonw'}, {'lssa peersnn', 'wlay epywosm', 'llse piarysn', 'ywka eparhyn'}, {'lsea peorsnu', 'hysw paewwon', 'lwsa pearizn', 'wayu eporqmo'}, {'wyke yhrasno', 'hiay hearyno', 'lisy paroson', 'lois puarcen'}, {'losy peorsni', 'liss peirsyn', 'iwso eparsew', 'wuxe epurosh'}, {'lsso powrswn', 'wyju yaehkno', 'lwai peiwsno', 'lwsa parsony'}, {'lysa peyrsan', 'lewo eparshm', 'lice pehresn', 'ilhh evorqno'}, {'hequ epyrzno', 'lusy peorzwn', 'liss pwyrson', 'yhha epurwon'}, {'llsa pearsne', 'wejw ipuwsno', 'lzia puarasn', 'luhe paerhyn'}, {'yhha paersuh', 'lyza peirwsn', 'wyye epurjno', 'lwsa parison'}, {'liss parison', 'ilqy baercno', 'lois piruson', 'wush biarsno'}, {'lyse peresyn', 'wiag ferajon', 'woyw eporwno', 'liss pereson'}, {'lwsa praison', 'ilak eparhen', 'luis peorosn', 'ilqo epwrgno'}, {'wazo hhrasyo', 'liuz puhrsyn', 'ihsy peohosn', 'lysa peearsn'}, {'luis peiorsn', 'elhw eyawosm', 'llsa pearwzn', 'yike pyaryno'}, {'hykw vahrqno', 'liis perisin', 'liss peaarsn', 'wize hearyno'}, {'hoag epayzno', 'lisw peawrsn', 'lsai perwsen', 'yuwa epurcon'}, {'yysu baergon', 'lusw paresun', 'huaw yhrasno', 'lssa pearcen'}, {'elca paerwoh', 'lasy peyrosn', 'hwac waerosh', 'lwsa peorsyn'}, {'yyus baerzno', 'lzea peyrwsn', 'ilsh baersow', 'lysa pehrssn'}, {'wyqw eporzno', 'lssa pearrsn', 'lwse pwyrsin', 'whja paersiw'}, {'lawi peohosn', 'yoas epirkno', 'lisw parsoyn', 'llza pywrsyn'}, {'hhsi baersyn', 'lssa peyrsun', 'hwax epowsno', 'losw peerozn'}, {'liss pewrzon', 'ilgy epuwxno', 'hiho vearcno', 'lios pahrswn'}, {'lisy pearzyn', 'lesy puyrswn', 'wlha peowosn', 'ylhw epuwsmo'}, {'lisy praason', 'lihz pewrysn', 'huha waerjon', 'hozu uporqno'}, {'lssa perrsnn', 'wush feyrosn', 'ilye baewsno', 'lsea pyrsaon'}, {'ysio epuwsho', 'lzoa puarzwn', 'lysa parsown', 'hicu herawon'}, {'luis piarsna', 'yihe epayqon', 'huac epwryno', 'lssa ppprson'}, {'ilqa epyrcon', 'liiz perasan', 'lisy pearznn', 'hwas baeryno'}, {'yysy wehrsno', 'llsa pearrsn', 'haaz epuwjno', 'llis pewrzan'}, {'ulky yaerwnw', 'lisw paroson', 'llsu pehrwsn', 'hyqa piarwno'}, {'yyxa puahosn', 'lssa pehrsyn', 'leis poroson', 'ywys yaerwny'}, {'yysu fearyno', 'hehe yaerwmo', 'lizz piarzyn', 'lisy peursyn'}, {'lcea peorcyn', 'ulky eporqnw', 'lysa parsown', 'lohw paerwwn'}, {'yixy waeryon', 'llsa pearsnu', 'lusw pyyrsen', 'ilye eporqny'}, {'llsa personw', 'wyza eparjom', 'wehy epuhsno', 'lwsy pirason'}, {'lwsa prasson', 'woza yerajon', 'lius perisan', 'yhxu horasno'}, {'lisy pearasn', 'yayu eporqna', 'hiju heorosn', 'lwse pwrsaon'}, {'llse piarzyn', 'lssa praison', 'yuas epuwzno', 'yuka yaersno'}, {'hgia yaersin', 'lisy paarsyn', 'ilqo yaorkno', 'lais pairsyn'}, {'wyxa yaeryon', 'lsai poarzyn', 'haig ypwryno', 'liss peersnn'}, {'yhky yaerkwo', 'lisw pearrsn', 'luis pewrsnu', 'hiho heawsno'}, {'lasy poryson', 'llsa pearrsn', 'haya bearqno', 'ihwy hirasno'}, {'iwsu ewarsno', 'liaz peorsno', 'lysa pearizn', 'uljy ypyysno'}, {'lius peirasn', 'yyax vaeysno', 'lwsa pearesn', 'lhyo paeryoh'}, {'lwsa pearazn', 'yosw epoyson', 'huju epuwsyo', 'liwz poroson'}, {'lahw berajon', 'lius peirsnw', 'lssa poyrson', 'ilwh epwrymo'}, {'lwsa parwson', 'lyso parasyn', 'yuqa waersan', 'ywws epawesm'}, {'iyhi borasno', 'lssa pearsno', 'lyza peerwsn', 'wiye peaycno'}, {'hihi epawkon', 'lisy pearwsn', 'ilww epirosm', 'lysy paerswn'}, {'yyzh epuwqno', 'ywsh wiarsno', 'lsea peresin', 'lysa peorsyn'}, {'yiku bearcno', 'hway epurwno', 'lisw pewrswn', 'llza puarasn'}, {'lisy pearusn', 'huxa peyryno', 'ilzo epuysno', 'lici puarsno'}, {'lssa peairsn', 'leis paresun', 'luhw yaersin', 'hlwe epayjno'}, {'wios viarsno', 'lwsa piarswn', 'lzua pearzna', 'hwqu epirgno'}, {'lisw peahrsn', 'hwyh eporgno', 'ilsw piarosw', 'liys pewrysn'}, {'lisy peuarsn', 'hwws yaurkno', 'licy pirison', 'woca baersom'}, {'llse pewrsny', 'hosi paerwow', 'yyky epuwosm', 'lisw puyrson'}, {'wuys wpirosm', 'lysa persony', 'yeka eporwon', 'lusw pwrseon'}, {'wyse faerwon', 'yyqw vaercno', 'llsy piarozn', 'liss poearsn'}, {'ilhh epwryny', 'lehe hyarsno', 'lssa parsony', 'liuz peuresn'}, {'hizi poaryno', 'llsa pearsnn', 'yowi ebwryno', 'llse prieson'}, {'lisy payrson', 'huje ypyrhno', 'lhhy vaercon', 'lysi paarasn'}, {'ilke ephrkno', 'lysa peirsyn', 'losw poyrswn', 'ysia baersno'}, {'ilsi heorosn', 'lysa paearsn', 'llis puwrsan', 'elhe yaewkno'}, {'wasi waerswn', 'lcya perezon', 'woyy epyrjno', 'lysa pewrswn'}, {'lusy peuorsn', 'liss powrson', 'yihh beorsno', 'elhw vaehsno'}, {'lwiw epahsow', 'llss pewrzen', 'iljo firacyn', 'lisy praison'}, {'lwsa peirsnn', 'hyqa hiarsno', 'iljy epwryny', 'lios peyrsno'}, {'lisy praoson', 'yiqw paeysin', 'luis peurozn', 'eljw baergno'}, {'liyz peiresn', 'hhqu faerqno', 'lwsa pearrsn', 'weca haerxon'}, {'alch ehawosm', 'lysa peersnn', 'hysu epursen', 'lwsw pahrsyn'}, {'ywsh paerhan', 'lsse puarosn', 'liss peyrssn', 'haiy horasno'}, {'lioz peursnw', 'wlwy faerjno', 'yiwi waersno', 'lwsa piarssn'}, {'lsoa peersny', 'lwsa pearznn', 'ilxa yiarsno', 'hhas epwrynw'}, {'lysa ppearsn', 'ilku yahrwno', 'loww yeursno', 'lihs perosin'}, {'lssw pwyrsen', 'wwii eporhno', 'lysa pehrswn', 'wigy baerkon'}, {'lesy pwyrsyn', 'lssa pehrsyn', 'yyqw yaerwho', 'hosy pyayosn'}, {'higw wyarsno', 'lcea piyrsen', 'iuls faerqno', 'lwsa perwson'}, {'lzaa peursnw', 'yway yaercno', 'husy heursno', 'lisy peorssn'}, {'wuxi eporqnu', 'losw paarysn', 'lysa ppprson', 'hysy vyarsno'}, {'yewi eborqno', 'huqa waersno', 'lsaw poarysn', 'lwsa peroson'}, {'yyys eborqno', 'ywxa epohson', 'lisw paearsn', 'lzaa preison'}, {'lisw ppwrson', 'lysu payrzon', 'wias poarhno', 'wyqe epuwqno'}, {'woso buarsno', 'lizz pareswn', 'ilgh faewsno', 'lisy paarsnn'}, {'luhy yaersin', 'huqu ypyrjno', 'lisy ppwrson', 'lzea peraisn'}, {'lysy peoresn', 'lwsa pprrson', 'yiak eparyen', 'hwqu ephwsno'}, {'wazu haercno', 'lcya peurcyn', 'lisw piwrson', 'yosy paerwin'}, {'yaya eparcun', 'lcea peiorsn', 'lssa pearzwn', 'wkio epwryny'}, {'liuz peorsnw', 'lisw piarswn', 'ywah epurqno', 'lywe yaershn'}, {'liuz piarozn', 'yeca epirwon', 'huwi epwrzno', 'lisy poarssn'}, {'lsaw peyrsny', 'lisw piwrson', 'ilww yierwno', 'ywxa perahen'}, {'ilce epahosm', 'woxa peayyno', 'lwsa pearsni', 'lais peurysn'}, {'hxia eparsuh', 'liuz peorosn', 'ulxy epirhno', 'liss pyyrson'}, {'lzaa puarzwn', 'eljw epyysno', 'llsa piarswn', 'yeqa epawkon'}, {'liss piarsyn', 'hiaw epwrcon', 'hujo epayosh', 'leis piorsyn'}, {'yysy berasom', 'iluy epayosh', 'lsau peurcen', 'llsa peorsyn'}, {'lisw pereson', 'ylay epurkno', 'ysha eparwyn', 'lusy peursnu'}, {'lwsa peahrsn', 'hgiu epyrzno', 'lesy peyrwsn', 'hizw heyrsno'}, {'lsaw peurcen', 'wizu waershn', 'lwsa pearysn', 'wsih hporqno'}, {'llsa perason', 'hyos epwryno', 'lais puarsni', 'wsia eporsyn'}, {'hesi waersyn', 'hawi epuwswo', 'lysa pewrzon', 'lysi paresan'}, {'ihwi hhraswo', 'lssw pereswn', 'lisw peaarsn', 'weca eparhom'}, {'yyke hhrasna', 'lssa parsown', 'ulsw buarsno', 'lwse piarcyn'}, {'yyxa veyrsno', 'liss pwrrson', 'loss pewrosn', 'ywes hhrasho'}, {'yhho yaerwmo', 'iwsu paersih', 'liaz piwrsin', 'llsa paearsn'}, {'liss paarsyn', 'licy poarcin', 'ihls eporqni', 'woqa piarhno'}, {'ywqa epaysin', 'lssa paarsnn', 'lwss pwrsaon', 'haag faerjno'}, {'lsai peyrsnu', 'iyhi yaergno', 'llsa puarsyn', 'yyse eparhen'}, {'waiy ypyrgno', 'lahy paerswo', 'liss pwwrson', 'lsai preuson'}, {'liss pewrsnn', 'yuys burasno', 'lesw piaorsn', 'hsha viarsno'}, {'liss parsonw', 'ywxa haerwon', 'ilki epurwno', 'liis pwrison'}, {'lwza peirasn', 'iljw vwerqno', 'llsa peerswn', 'weso epahzon'}, {'liiz piarcen', 'lysa peyrsun', 'ywys hpawosm', 'hhka baersno'}, {'lisw pearrzn', 'yyso faerhon', 'ilyh vairqno', 'lass perusun'}, {'lssa peerswn', 'ilhx epaowsm', 'alya vaersin', 'lcea perusun'}, {'lyza poyrsan', 'lysa peyrsen', 'elca faersno', 'yehy yaerkno'}, {'wiaz pehryno', 'wazu epaowsm', 'lisw parsoyn', 'lsae pwwrsen'}, {'lisy piwrson', 'lasy piyrsyn', 'yiwo hearkno', 'yehw yaerwnw'}, {'lcea perizon', 'yigy perahen', 'lysa pearzzn', 'ywhs faerkno'}, {'lisy pearwsn', 'hsua perayoh', 'liwz peeresn', 'yewe epywsno'}, {'lcya pihrsyn', 'yiqh eparjyn', 'huhw vaerqne', 'lisy paarswn'}, {'alju epawowm', 'lesw paarsna', 'yiwy vaarsno', 'lssa pearosn'}, {'lesw perasyn', 'hawi faeryno', 'lssa peyrsan', 'ilwa baersno'}, {'liss pearcyn', 'ilky epwrkno', 'lwii eprajon', 'liys pwwrsyn'}, {'lsaw poarsny', 'llsa peorssn', 'ylww yaerzno', 'laiy epahsyn'}, {'llsi poarcyn', 'lisy perwson', 'ilwi eporosm', 'iyha epracon'}, {'lsse peursno', 'yoas epwysno', 'lssa pprrson', 'yiay vyarsno'}, {'lwss puyrsen', 'liss prrrson', 'woga feyrsno', 'ysoo yaorkno'}, {'yaju eoprqno', 'lwsa pearsna', 'wwsh paersiw', 'lsah parasyn'}, {'lihz paarasn', 'wehw yaerkna', 'leyu horason', 'lssa puearsn'}, {'hwas yaerkna', 'llsy pyyrsyn', 'lisw pearsnn', 'iwso paerhun'}, {'elhw vaerqny', 'lwio paeyxon', 'lwsa peorswn', 'licy piroson'}, {'lahh paerown', 'lsse puaorsn', 'lisw pearesn', 'woyw ywrasno'}, {'yoay iporqno', 'lsaa pyrison', 'lyyw baersno', 'lwsa peaersn'}, {'ilhx haeysno', 'lysy peoorsn', 'liss peairsn', 'yizw eporsyn'}, {'lysa paearsn', 'hyza peiryno', 'lsay perysun', 'yoas epawowm'}, {'lisw ppwrson', 'huah epohqno', 'lesy peraisn', 'loww peyryno'}, {'yiqu wearyno', 'llis paarcen', 'howi yayrkno', 'lisw perason'}, {'lssw puarsny', 'lysa peawrsn', 'ilqy eupwsno', 'wiwe epaysoy'}, {'husi peirhno', 'lies pwrseon', 'liss paarswn', 'ilwe epahosw'}, {'hhsi eparcun', 'lsai puyrzon', 'wyge epawasm', 'lssa pearosn'}, {'yyky ypyrgno', 'lzza pyyrsyn', 'llsa parsown', 'yiku paewsom'}, {'weca hharsno', 'lwsa pearwsn', 'haag epaycno', 'lici puwrswn'}, {'woja eparseh', 'ilwo waergno', 'llsa paruson', 'lysw puarcyn'}, {'lwsa piearsn', 'iywy vaurqno', 'heso peahcno', 'liws pwyrswn'}, {'llsy payrsen', 'ywwa eparjyn', 'ysiw wiracyn', 'liss pearsnu'}, {'lice peircen', 'hhag epwwosm', 'lhyy piahsno', 'lwsa paarssn'}, {'ilxe piracyw', 'lwih eparsym', 'lsso pearznu', 'liss pwwrson'}, {'iywi horasno', 'lwsa peorssn', 'lsao perosun', 'wice berasom'}, {'lyza peorsnu', 'wyhe epayzno', 'lawi biarsno', 'lwsa peurswn'}, {'lssa prahson', 'liez peyrcen', 'yexa paerwoh', 'ilgw yaorkno'}, {'lisy peruson', 'luhh peurhno', 'yaws epwryyo', 'lssw preison'}, {'layh peayyno', 'lwsa pwyrson', 'haju hhwasno', 'lwss pewrisn'}, {'huxe epyysno', 'lwso puryson', 'lysa powrson', 'yxia waerswn'}, {'wsie epwusno', 'wiho perasah', 'lsao pehresn', 'liss pearcen'}, {'wsoo wpuwsno', 'liss poarsyn', 'lzaa perosen', 'else hharsno'}, {'lysa paearsn', 'lwsy perizon', 'hoqu epuwzno', 'wyse epwrjon'}, {'woyh haeysno', 'lysi puarcyn', 'llsa preason', 'yiag eporwon'}, {'lwsa ppearsn', 'huja peahzno', 'hywy epurgno', 'lssw perisin'}, {'llss pwyrsyn', 'wozu yaerkno', 'huga haersoy', 'lisw peyrson'}, {'lhiy puaryno', 'lzua pureson', 'yhxo bwrasno', 'lwsa pearesn'}, {'lysa pearsnn', 'losw peorwsn', 'wozu hhrasny', 'yeja beursno'}, {'lwsa parwson', 'hsoo vorasno', 'lwso peirisn', 'woso paersiw'}, {'ylyw epyrosm', 'lesw pywrswn', 'lysa peryson', 'yicy beargno'}, {'else paawsno', 'lssu puarsna', 'ilwe wwrasno', 'liss paarsnn'}, {'liss piarsyn', 'hqie vyrasno', 'whse heahsno', 'lsse parazon'}, {'weca eharsno', 'llsa pearuzn', 'hsih epuwgno', 'lsay peurasn'}, {'wush pyaysno', 'yuws vaerqno', 'llsa perison', 'lsaa peyrsnw'}, {'lysa pearswn', 'lusw pereswn', 'yewo epoysno', 'huza epawsen'}, {'yaya paerxoh', 'llsa pearcen', 'lyso pwwrsin', 'wlhw hpuwsno'}, {'huas epuwjno', 'lois puroson', 'lysa praason', 'yias bearxno'}, {'lysa pearsny', 'hwes vyrasno', 'lsso piarusn', 'lewo epaysoy'}, {'lsai peyrsna', 'ilji eforqno', 'higy bearjno', 'liss pareson'}, {'wsih yaerwho', 'lici pwwrsyn', 'lysa prawson', 'ywqa paerswo'}, {'wyxa ewarosn', 'ilkw epywosm', 'lysa paroson', 'lsea piarysn'}, {'llsa perason', 'ialy epywsno', 'huza epawsen', 'liwz poarcyn'}, {'luis poarsny', 'yaya paerhoh', 'lisw parsonw', 'iljo epowosm'}, {'iyky oporqno', 'less perausn', 'lisy pearsni', 'yiqw perawwn'}, {'lisy peyrson', 'hhag waerosh', 'lwss pahrswn', 'ilxa baerosn'}, {'wixe epirwon', 'liys paarcen', 'lwsa pearsno', 'iyhe epyysno'}, {'liss preason', 'lhiw baerwon', 'wykw ipawosm', 'lyss peurcen'}, {'lais peorwsn', 'leho baerzon', 'lysa peearsn', 'ilqu yporosh'}, {'llsa peersyn', 'lizw piarzyn', 'whsy veyrosn', 'wyge iporqno'}, {'llsa peyrswn', 'ilag hearcno', 'ykio hhrasmo', 'lssy paarusn'}, {'yehe ephrzno', 'lysa piarssn', 'ilay peihsno', 'lizy puarozn'}, {'llsa poarssn', 'ilkw yaerwmo', 'wiwe verajon', 'lssy poyrsyn'}, {'wazw baeryno', 'hiji eparyen', 'luss piarzwn', 'lisy ppearsn'}, {'wiye waerqon', 'ywak yaerosm', 'lisw peyrsan', 'lusw peerasn'}, {'laiy bearxno', 'lysa pewrsin', 'ihls epwwosm', 'lwsi pewrozn'}, {'yyga haerjon', 'yuys baerosm', 'lysa parsown', 'lyza poerswn'}, {'yesy paerhhn', 'llsa pearssn', 'lihz poyrsyn', 'hsii yaerwne'}, {'lici paursyn', 'iyhw eforqno', 'wwia perajoh', 'lysa paryson'}, {'wazw epwrymo', 'lsea perusyn', 'liss pewrsin', 'luay paehsoy'}, {'elhw epwrgno', 'llsy piursyn', 'llsa parwson', 'hizi epwrjon'}, {'wasi waerwon', 'lisw paruson', 'lsau peersni', 'hujo baeysno'}, {'alqu eporkno', 'liss pearazn', 'lysw pywrswn', 'hiag waersoy'}, {'lisy puarsyn', 'llso peroswn', 'hlay ypwryno', 'wiho peawosm'}, {'ysie epuwsmo', 'llsa peirsyn', 'wusi perakoh', 'lcea paresan'}, {'liss pparssn', 'ilch epuwzno', 'huza peawyno', 'lyse perisyn'}, {'wwza hwarsno', 'lssa peryson', 'lsau porwson', 'ilwe hhrysno'}, {'ilku hhrysno', 'yhso paersuh', 'lyse pewresn', 'lysa pehrsyn'}, {'lehy paerswo', 'ilqi epyysno', 'lwsy pehresn', 'lisy peyrsin'}, {'yocy vaerosm', 'lysa pewrsan', 'lsaa piarsno', 'yewa huarsno'}, {'lwsa prawson', 'wsia beaysno', 'lwsi piyrswn', 'iley averqno'}, {'lisy praason', 'iwwe faerjno', 'hiqw yiarsno', 'lass peersne'}, {'lisy poarsnn', 'hwus yaerwny', 'leis perwsyn', 'luho beorsno'}, {'iwga weersno', 'ilho faercno', 'lysa parsown', 'lasw piarsnu'}, {'wlah hhrayno', 'lsaa piyrzon', 'yyja epracon', 'lisw pearusn'}, {'hhjw yaerosm', 'yiak peeysno', 'liss poarswn', 'lwsy pehrasn'}, {'lius peyrozn', 'lwsa parsoyn', 'wase baeryon', 'ilgu epawism'}, {'wije waerswn', 'lwsa pearsna', 'llis peorwsn', 'ilgh haerxno'}, {'ylkw wpirosm', 'lssa pearsnn', 'iwse epawsom', 'leis pywrzon'}, {'lsai puarsny', 'yiky piarosw', 'liss peyrsnn', 'yuay epyrqno'}, {'liss peryson', 'iyha vyarsno', 'lsoa poaorsn', 'heag ypyryno'}, {'wqie epuwsnh', 'lsah payrzon', 'llsa payrson', 'yike hwarsno'}, {'hyju baerosw', 'lies paarisn', 'yaqa heirsno', 'liss poarssn'}, {'llsy pearzny', 'hywh piracyw', 'llsa ppprson', 'yqia yeorosn'}, {'lisy pewrsen', 'ilyo vahrqno', 'yiay baeyson', 'lesw parasin'}, {'lyaw epargoh', 'ilqy horasno', 'llsa piarssn', 'lzua peersne'}, {'llso puarisn', 'lisy peawrsn', 'yiwu epursen', 'ylay upuwsno'}, {'lwsa puarsyn', 'leyo epayjon', 'liez pearznw', 'ihwi wiracyn'}, {'lssa pearazn', 'lesy piarcen', 'uhas epwryni', 'yhqa paerwen'}, {'hwsi epaywon', 'waiy haerhno', 'lizz paeorsn', 'lysa pearrzn'}, {'lsso poarsno', 'alwy epwryna', 'llsa payrson', 'yoza paehsoy'}, {'hwws eporqmo', 'lisw pywrson', 'hyya yiarsno', 'lysi perisun'}, {'lisw parwson', 'yyys vyrasno', 'whsy heorsno', 'llsi periswn'}, {'lsoa pwwrsun', 'ylcw haerosm', 'wizh behrsno', 'lysa pywrson'}, {'llsa peyrssn', 'liaz perosin', 'luhi eparwwn', 'ykiy yaerwnw'}, {'wlhu epawosw', 'lisy pparswn', 'lois piarasn', 'higu haersno'}, {'lsae peirzwn', 'wlwy iporqno', 'lysa peawrsn', 'wsoa eparhom'}, {'luss peiresn', 'lwsa peyrsan', 'ilzy epwhyno', 'wicu epawsen'}, {'iyho ehuwsno', 'leye eporwon', 'lwse pwrseon', 'lssa parsown'}, {'llsa peyrsnn', 'yywi epiwosm', 'woha peihsno', 'lyss poarzyn'}, {'waha weursno', 'lios parasen', 'liss perrsyn', 'wehe epwrwno'}, {'yhwa waeyson', 'lisy peawrsn', 'lzia pareosn', 'yaaz yaerwnh'}, {'liss praason', 'wwyh epurhno', 'waxa perahom', 'lsah pihrsyn'}, {'lisy peyrson', 'yyhs epawkno', 'lzia peircin', 'luwh yiarsno'}, {'licy peurcen', 'yixw paerswo', 'wazu ehorqno', 'lisy peroson'}, {'ywax yorasno', 'ihga porahon', 'lsaw pearzni', 'lisw pearcin'}, {'ilwa paerwen', 'yykw hhyasno', 'lssy pewrsnw', 'lisw peruson'}, {'licy pyrsaon', 'wice paerwwn', 'ysio waerhno', 'liss paarssn'}, {'liss peiarsn', 'lyso poarsne', 'yaju yuerwno', 'ilsy peurwno'}, {'lwsa pearrzn', 'lesw preuson', 'yeya paerhhn', 'ihwi eoprqno'}, {'lcya preoson', 'lisy parison', 'yyus viracyn', 'olha epawsen'}, {'wysw paerhom', 'lisw pearosn', 'lias peurwsn', 'ilzi ephrzno'}, {'lies peyrosn', 'luhw epurcon', 'waas bhrasno', 'lysa pewrsen'}, {'wwia berasom', 'liaz paarsne', 'weas firasno', 'lwsa peuarsn'}, {'lssa pearysn', 'lusy poarzyn', 'ilje hhrakno', 'iyqa fearyno'}, {'ilxy yierwno', 'lsss pwwrzon', 'lisw pewrsnn', 'ilja baerxon'}, {'lisw poarssn', 'lici peurysn', 'ywag borasno', 'ulsi perasuh'}, {'lssa pearusn', 'hwws vaorqno', 'lsso puhrsyn', 'hiak faersin'}, {'lahh hearhno', 'lisy ppprson', 'yaws epuwwno', 'lzaa puarsni'}, {'llis peorcin', 'hhka beyrsno', 'liss peroson', 'yway yaerhno'}, {'huus yaerkyo', 'lisy parison', 'lhhy weerosn', 'lzia pohrswn'}, {'lusy pwyrsen', 'liss pearisn', 'ilci eporqmo', 'iywa weirsno'}, {'llss peercen', 'ylyw waeysno', 'lysa pearzzn', 'elso waerkon'}, {'llsa parison', 'yawa paewwon', 'losw pereswn', 'ysoi epirwno'}, {'ilgu faerosm', 'wwia vaerwon', 'liss ppwrson', 'llsu preoson'}, {'liss perrsnn', 'llsu perysan', 'wizu eparqyn', 'ykiy epuwosm'}, {'wuws iporqno', 'hese epahsow', 'lcya poirswn', 'lssa peruson'}, {'hysu yaersin', 'lwsa pewrsnn', 'hhqu yaerwho', 'liiz pyrison'}, {'lssa pearsno', 'ilyh hhyasno', 'lssi pewrsne', 'weya haerxon'}, {'liaz paarsna', 'hwwi wpwryno', 'lisw pewrsyn', 'hizi veerosn'}, {'lzza poarsne', 'yixw peraseh', 'lisy pewrzon', 'elhy epuwsne'}, {'olzu epyrzno', 'losw peyrsni', 'wihw peawyno', 'lisw peirsyn'}, {'liiz pourswn', 'lwiy feirsno', 'ilch epuwsna', 'lisy pearozn'}, {'wije paersiw', 'lisw peorsyn', 'lusw parazon', 'hywy epirjno'}, {'lwsa poarsnn', 'llse pehrozn', 'ilqa weorosn', 'yewo epawosh'}, {'huag burasno', 'lisw pearazn', 'lici puarzwn', 'hhsi bearwno'}, {'lcea puwrsan', 'lisy preason', 'laah beargno', 'ilze ipwryno'}, {'ilgh epyrzno', 'luss perysin', 'lisw pearcyn', 'husy paewsno'}, {'lyse prehson', 'olha epyrsen', 'llsa peursnn', 'huhy yaeykno'}, {'liss pparsnn', 'lcya peurwsn', 'ilah ephrkon', 'ilyh yherkno'}, {'lysi poruson', 'lahe epyryon', 'ysiy yaerqno', 'liss pearcen'}, {'yawa eparqin', 'lssa peaorsn', 'lsse pireson', 'ialy yaeryno'}, {'loss pearzni', 'yiaz waersun', 'ihqw hhrasnh', 'lwsa pparsnn'}, {'hese vaersno', 'llsa personw', 'llsi peraosn', 'hwac yahrkno'}, {'wsoo hirasno', 'lsua piarsnw', 'hizi yaerhon', 'lisw pehrsyn'}, {'lius peyrzun', 'lwsa praison', 'wsoa eporcon', 'huhs eporhno'}, {'liyz puirsyn', 'liss pearazn', 'ykia yaeryon', 'hyag hhrysno'}, {'hejw vaerqwo', 'lisw puarswn', 'hxia paerwyn', 'liiz piarysn'}, {'yowi yporosh', 'yigy horason', 'lsoa puyrsun', 'lisw peyrson'}, {'llsa peirsnn', 'alsy peahosw', 'wyce bwrasno', 'lioz pywrsin'}, {'yoji baerwno', 'lohw veursno', 'lisw pearsyn', 'lsoa poarzyn'}, {'lisy personw', 'huax vaerxno', 'hxia vewrsno', 'llse peirsni'}, {'yiag paerwen', 'yuas eporyno', 'lisy paroson', 'losy peorsne'}, {'ywha eparsem', 'ilxw eworqno', 'liss piyrson', 'lssw piwrswn'}, {'yiky waersom', 'yowi eworqno', 'lois peercen', 'lysa pearcen'}, {'lais perosen', 'hwys epircno', 'yixw eperosn', 'liss perison'}, {'liss peurssn', 'llza perysen', 'yyac epwrynw', 'yoka paehsoy'}, {'lisw paruson', 'llsw peerzwn', 'olsw baewson', 'woyi epohsno'}, {'lysa pearwzn', 'lcya puwrsin', 'laay haersno', 'wlhi biracyn'}, {'yixo perasah', 'llsy pihrsyn', 'lisw paearsn', 'ylww epawokm'}, {'lyse pireson', 'iywa eharsno', 'iywe eborqno', 'lysa peorsnn'}, {'wese paersyo', 'liaz paarzyn', 'ihyw ephrcno', 'liss praoson'}, {'wizy hwarsno', 'lias paarusn', 'yuky vwrasno', 'lwsa peoarsn'}, {'llsa poarsnn', 'ihsy peohosn', 'lsay paursyn', 'ylxw epurzno'}, {'alha epahzon', 'lioz payrsen', 'llsa peorswn', 'yayu ypyhsno'}, {'woyu yairwno', 'lisw pearsny', 'lsai piruson', 'woca pehryno'}, {'lysa peaursn', 'lois pihrswn', 'wsoa peraswy', 'yqie bhrasno'}, {'lisw pearosn', 'lyyw perajoy', 'ulxi hhresno', 'lizy poarsnw'}, {'liss peurssn', 'liws pihrswn', 'hwci yaerwmo', 'hlsy baarsno'}, {'lsss perysyn', 'lwhw biarsno', 'lisw peroson', 'elkw faerzno'}, {'yiah perawwn', 'liss peursnn', 'lizy piwrzon', 'ilqi faehsno'}, {'yyos faerjno', 'luaw haarsno', 'lisy pewrzon', 'lssu pyrsaon'}, {'yhso veracon', 'yuay hhragno', 'lisw pparsnn', 'lsao peercin'}, {'llss pwyrsyn', 'iyhy yaerkne', 'yixy paehshn', 'lssa pearwzn'}, {'ilsy weursno', 'lysa powrson', 'yocy baerosm', 'lwss peorsni'}, {'lwsa peorssn', 'ulsh peahcno', 'elhe baerqno', 'lass peraesn'}, {'lass peorsni', 'olwe epwryny', 'lssa pearsne', 'hhsy peahosy'}, {'lahw piahosn', 'lisy pearsnn', 'hehe haerjno', 'liez pwyrsun'}, {'lusy preaosn', 'lysa poarswn', 'ilci vuerqno', 'lohy waersow'}, {'lssi peurcin', 'wwak eporqnu', 'lysa pearsno', 'luhi epaykon'}, {'lisw pehrssn', 'lhiw paerwwn', 'wuas ypyhsno', 'lius puorsyn'}, {'liws piyrsan', 'wizh epayyon', 'lwsa pearisn', 'iyhh epahosw'}, {'yeqa weorosn', 'ylcw epowsno', 'lysa peyrssn', 'lzea perusin'}, {'llsa peuarsn', 'ilka ewarsno', 'lusy peuorsn', 'waju epawoqm'}, {'woas wpirosw', 'liss pearrsn', 'yikw paerhun', 'lsoa peersnw'}, {'llsa parsoyn', 'yesw paerwan', 'ilki epirjno', 'lais piersyn'}, {'woyh epahosy', 'lysa pearysn', 'llsw peyrisn', 'huwa epaykon'}, {'iyhw haerosy', 'lisy peersyn', 'liiz peurasn', 'wihe eparsno'}, {'liss pearzzn', 'yuws epurjno', 'lcya poyrsen', 'lywe peyryno'}, {'lisy pareson', 'lsea puyrsen', 'yesw ephrkon', 'iywy yaerwny'}, {'alju hporqno', 'wiaw puahsno', 'lwsy pywrzon', 'lysa peurswn'}, {'ilza baersen', 'ywag eporwno', 'lssa pearizn', 'luss paarsno'}, {'yuky hpuwsno', 'lssa peirswn', 'wuse epoyson', 'lesw pywrsen'}, {'liss pparswn', 'lssu piyrzon', 'wehe hhrasnu', 'hyza heawsno'}, {'yyya byarsno', 'lisy piearsn', 'ilcw epayqno', 'lici poersyn'}, {'lssa pywrson', 'else wehrosn', 'liuz pohrswn', 'wekw epwrxno'}, {'wlhh yaehwno', 'liez payrsyn', 'loww waerwon', 'lisy peyrsin'}, {'ilxo ipwryno', 'lici purwson', 'hesi vewrsno', 'lssa puarsnn'}, {'yhxe eporqyo', 'wihe paersah', 'lcya piorswn', 'llsa piarssn'}, {'lwss peyrcen', 'lysa perrsyn', 'huus vaerqnw', 'wiye herawon'}, {'yywi epurcno', 'liss peurssn', 'lwss pyrason', 'wizu baerqon'}, {'ysha paeywon', 'lesy puruson', 'iywy epuwswo', 'liss pearcen'}, {'licy pourswn', 'yiku paerown', 'liss peroson', 'ywws vuerqno'}, {'lwiw paerhhn', 'liss piarsyn', 'ywes yaerwni', 'lyso peyrcen'}, {'liaz pewrcin', 'wuws forasno', 'lisw pearznn', 'hyso baersyn'}, {'liaz peraysn', 'hhqu epyrjno', 'lisy prawson', 'yusi bearjno'}]
+lisa pearson        : DEBUG: Additional rule variations: {'Lsa PEArson', 'li pea'}
+lisa pearson        : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 6
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "lisa pearson": {
+            "first_name": {
+                "score": 0.6132686270621148,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 0.975,
+                        "combined": 0.4875
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 2.0500000000000003,
+                        "score": 0.4717908470807658
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "liuz",
+                            "phonetic_score": 0.5720874625594122,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "liss",
+                            "phonetic_score": 0.5720874625594122,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ulxy",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hxia",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.717519770658076,
+            "final_score": 0.7073491498597941,
+            "variation_count": 6,
+            "non_rule_compliant_variations_count": 4,
+            "rule_compliant_variations_count": 2,
+            "last_name": {
+                "score": 0.7782686270621149,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.5499999999999999,
+                        "orthographic": 0.975,
+                        "combined": 0.7625
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 2.0500000000000003,
+                        "score": 0.4717908470807658
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "peorosn",
+                            "phonetic_score": 0.6481503606820924,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "pyyrson",
+                            "phonetic_score": 0.6481503606820924,
+                            "orthographic_score": 0.7142857142857143,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "epirhno",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.1428571428571429,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "eparsuh",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.4285714285714286,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_abbreviations": [
+                            "li pea"
+                        ],
+                        "remove_random_vowel": [
+                            "Lsa PEArson"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "li pea": [
+                            "shorten_name_to_abbreviations"
+                        ],
+                        "Lsa PEArson": [
+                            "remove_random_vowel"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.3333333333333333,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 3,
+                    "quantity_score": 0.6666666666666666,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 2,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.6666666666666666,
+        "by_name": {
+            "lisa pearson": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_abbreviations": [
+                            "li pea"
+                        ],
+                        "remove_random_vowel": [
+                            "Lsa PEArson"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "li pea": [
+                            "shorten_name_to_abbreviations"
+                        ],
+                        "Lsa PEArson": [
+                            "remove_random_vowel"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.3333333333333333,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 3,
+                    "quantity_score": 0.6666666666666666,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 2,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "average_quality": 0.7073491498597941,
+    "final_reward": 0.7073491498597941
+}
+lisa pearson        : DEBUG: ----------------------------------------------------------------------------------------------------

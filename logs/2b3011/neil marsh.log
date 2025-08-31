@@ -1,0 +1,2356 @@
+neil marsh          : INFO: Generating variations for neil marsh
+neil marsh          : INFO: ----------------------------------------------------------------------------------------------------
+neil marsh          : INFO: Effective rules: ['remove_random_vowel']
+neil marsh          : INFO: ----------------------------------------------------------------------------------------------------
+neil marsh          : INFO: Min Required Rule Variation Set: [{'neL maRsH', 'Neil MrSH', 'nEiL MrSh', 'nIL mArsh', 'NEIL MrsH', 'nel MARSH', 'nEiL mRsh', 'nel Marsh', 'NIl maRSh', 'nil MaRSh', 'nIl maRsH', 'NEIL MRsh', 'nil Marsh', 'Nil mARSh', 'Neil MRSH', 'nEL mARSH', 'NeIl mrSH', 'nIl maRsh', 'Nel maRSH', 'NEL MarSh', 'NEiL mrSh', 'NEL mArsh', 'Nel maRsh', 'NeIl mRsh', 'NEiL mRsh', 'nEL maRsH', 'NEl marSH', 'NEl MArsh', 'nIl MArsh', 'NeiL MrSH', 'NeL mARSH', 'neL maRsh', 'nEL MARsh', 'neL mArSH', 'nil MarSH', 'nel maRSH', 'Nil marsh', 'NiL MarsH', 'neL MArSH', 'Neil MRSh', 'NeL MARSh', 'NEl marsH', 'NiL mArSH', 'NiL mARsH', 'neil mrsH', 'NeIL mrSH', 'neIL mrsh', 'nil marsH', 'nIl MARSH', 'nel mArsh', 'nil mArSH', 'niL maRsH', 'NiL mArsH', 'nil mArsh', 'nEIL MRSH', 'nEIl MRSH', 'NIl MaRsH', 'neiL mrsH', 'NEL MARsH', 'Nel MARSh', 'neIl MRSh', 'NIl mARSh', 'NiL maRsh', 'nEl mArSH', 'neiL MRsh', 'nEl mARsH', 'niL MaRSH', 'Neil mRsh', 'nEiL mRSh', 'nil MaRsH', 'nel MarSh', 'nEl MArsh', 'nIl maRSH', 'Nel marsh', 'nEl MarSH', 'Nel MarsH', 'nEil mRsH', 'nEil mrSH', 'neiL Mrsh', 'niL maRSH', 'nIL MaRsH', 'nIL mArSH', 'NeL maRsh', 'NEL Marsh', 'niL marSh', 'NEl MARsh', 'nil marsh', 'NEIL mrSH', 'NIl marsh', 'nIL maRSH', 'Nil MaRsh', 'Nil maRSH', 'NEl MARSh', 'nel MarSH', 'Nil MARsH', 'neL MaRsH', 'nEIl mRsh', 'neL mARsH', 'nEiL mrsh', 'neIl mRSh'}]
+neil marsh          : INFO: ----------------------------------------------------------------------------------------------------
+neil marsh          : INFO: First name: neil
+neil marsh          : INFO: Last name: marsh
+neil marsh          : INFO: ----------------------------------------------------------------------------------------------------
+neil marsh          : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (1, 2), (0, 4), (1, 3), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (0, 7), (1, 6), (2, 5), (3, 4), (0, 8), (1, 7), (2, 6), (3, 5), (0, 9), (1, 8), (2, 7), (3, 6), (0, 10), (1, 9), (2, 8), (3, 7), (4, 6), (0, 11), (1, 10), (2, 9), (3, 8), (4, 7)]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 1 / 34: rule_count/nonrule_count: 0/1------------------------------
+neil marsh          : DEBUG: O: [0, 0, 0, 1]
+neil marsh          : DEBUG: P: [1, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [0, 0, 0, 1]
+neil marsh          : DEBUG: P: [1, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.50958811]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 2 / 34: rule_count/nonrule_count: 0/2------------------------------
+neil marsh          : DEBUG: O: [1, 1, 0, 0]
+neil marsh          : DEBUG: P: [2, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [1, 1, 0, 0]
+neil marsh          : DEBUG: P: [2, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.76980995]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 3 / 34: rule_count/nonrule_count: 0/3------------------------------
+neil marsh          : DEBUG: O: [1, 1, 0, 1]
+neil marsh          : DEBUG: P: [3, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [1, 1, 0, 1]
+neil marsh          : DEBUG: P: [3, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.78790813]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 4 / 34: rule_count/nonrule_count: 1/2------------------------------
+neil marsh          : DEBUG: O: [1, 1, 0, 0]
+neil marsh          : DEBUG: P: [2, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [1, 1, 0, 0]
+neil marsh          : DEBUG: P: [2, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.96980995]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 5 / 34: rule_count/nonrule_count: 0/4------------------------------
+neil marsh          : DEBUG: O: [2, 2, 0, 0]
+neil marsh          : DEBUG: P: [4, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [2, 2, 0, 0]
+neil marsh          : DEBUG: P: [4, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.8]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 6 / 34: rule_count/nonrule_count: 1/3------------------------------
+neil marsh          : DEBUG: O: [1, 1, 0, 1]
+neil marsh          : DEBUG: P: [3, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [1, 1, 0, 1]
+neil marsh          : DEBUG: P: [3, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.98790813]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 7 / 34: rule_count/nonrule_count: 0/5------------------------------
+neil marsh          : DEBUG: O: [2, 2, 0, 1]
+neil marsh          : DEBUG: P: [5, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [2, 2, 0, 1]
+neil marsh          : DEBUG: P: [5, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.78647243]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 8 / 34: rule_count/nonrule_count: 1/4------------------------------
+neil marsh          : DEBUG: O: [2, 2, 0, 0]
+neil marsh          : DEBUG: P: [4, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [2, 2, 0, 0]
+neil marsh          : DEBUG: P: [4, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.9]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 9 / 34: rule_count/nonrule_count: 2/3------------------------------
+neil marsh          : DEBUG: O: [1, 1, 0, 1]
+neil marsh          : DEBUG: P: [3, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [1, 1, 0, 1]
+neil marsh          : DEBUG: P: [3, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.98790813]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 10 / 34: rule_count/nonrule_count: 0/6------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.76621805]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 11 / 34: rule_count/nonrule_count: 1/5------------------------------
+neil marsh          : DEBUG: O: [2, 2, 0, 1]
+neil marsh          : DEBUG: P: [5, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [2, 2, 0, 1]
+neil marsh          : DEBUG: P: [5, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.88647243]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 12 / 34: rule_count/nonrule_count: 2/4------------------------------
+neil marsh          : DEBUG: O: [2, 2, 0, 0]
+neil marsh          : DEBUG: P: [4, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [2, 2, 0, 0]
+neil marsh          : DEBUG: P: [4, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.9]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 13 / 34: rule_count/nonrule_count: 0/7------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.7433764]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 14 / 34: rule_count/nonrule_count: 1/6------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.83288471]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 15 / 34: rule_count/nonrule_count: 2/5------------------------------
+neil marsh          : DEBUG: O: [2, 2, 0, 1]
+neil marsh          : DEBUG: P: [5, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [2, 2, 0, 1]
+neil marsh          : DEBUG: P: [5, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.88647243]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 16 / 34: rule_count/nonrule_count: 3/4------------------------------
+neil marsh          : DEBUG: O: [2, 2, 0, 0]
+neil marsh          : DEBUG: P: [4, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [2, 2, 0, 0]
+neil marsh          : DEBUG: P: [4, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.9]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 17 / 34: rule_count/nonrule_count: 0/8------------------------------
+neil marsh          : DEBUG: O: [4, 4, 0, 0]
+neil marsh          : DEBUG: P: [8, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [4, 4, 0, 0]
+neil marsh          : DEBUG: P: [8, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.73176299]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 18 / 34: rule_count/nonrule_count: 1/7------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.81004306]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 19 / 34: rule_count/nonrule_count: 2/6------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.83288471]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 20 / 34: rule_count/nonrule_count: 3/5------------------------------
+neil marsh          : DEBUG: O: [2, 2, 0, 1]
+neil marsh          : DEBUG: P: [5, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [2, 2, 0, 1]
+neil marsh          : DEBUG: P: [5, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [2]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.88647243]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 21 / 34: rule_count/nonrule_count: 0/9------------------------------
+neil marsh          : DEBUG: O: [4, 4, 0, 1]
+neil marsh          : DEBUG: P: [9, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [4, 4, 0, 1]
+neil marsh          : DEBUG: P: [9, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.71744124]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 22 / 34: rule_count/nonrule_count: 1/8------------------------------
+neil marsh          : DEBUG: O: [4, 4, 0, 0]
+neil marsh          : DEBUG: P: [8, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [4, 4, 0, 0]
+neil marsh          : DEBUG: P: [8, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.79842966]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 23 / 34: rule_count/nonrule_count: 2/7------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.81004306]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 24 / 34: rule_count/nonrule_count: 3/6------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.83288471]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 25 / 34: rule_count/nonrule_count: 0/10------------------------------
+neil marsh          : DEBUG: O: [5, 5, 0, 0]
+neil marsh          : DEBUG: P: [10, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [5, 5, 0, 0]
+neil marsh          : DEBUG: P: [10, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.7110771]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 26 / 34: rule_count/nonrule_count: 1/9------------------------------
+neil marsh          : DEBUG: O: [4, 4, 0, 1]
+neil marsh          : DEBUG: P: [9, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [4, 4, 0, 1]
+neil marsh          : DEBUG: P: [9, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.76744124]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 27 / 34: rule_count/nonrule_count: 2/8------------------------------
+neil marsh          : DEBUG: O: [4, 4, 0, 0]
+neil marsh          : DEBUG: P: [8, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [4, 4, 0, 0]
+neil marsh          : DEBUG: P: [8, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.79842966]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 28 / 34: rule_count/nonrule_count: 3/7------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.81004306]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 29 / 34: rule_count/nonrule_count: 4/6------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 0]
+neil marsh          : DEBUG: P: [6, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.83288471]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 30 / 34: rule_count/nonrule_count: 0/11------------------------------
+neil marsh          : DEBUG: O: [5, 5, 0, 1]
+neil marsh          : DEBUG: P: [11, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [5, 5, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [5, 5, 0, 1]
+neil marsh          : DEBUG: P: [11, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [5, 5, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.70189788]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 31 / 34: rule_count/nonrule_count: 1/10------------------------------
+neil marsh          : DEBUG: O: [5, 5, 0, 0]
+neil marsh          : DEBUG: P: [10, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [5, 5, 0, 0]
+neil marsh          : DEBUG: P: [10, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [5]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.7610771]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 32 / 34: rule_count/nonrule_count: 2/9------------------------------
+neil marsh          : DEBUG: O: [4, 4, 0, 1]
+neil marsh          : DEBUG: P: [9, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [4, 4, 0, 1]
+neil marsh          : DEBUG: P: [9, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.76744124]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 33 / 34: rule_count/nonrule_count: 3/8------------------------------
+neil marsh          : DEBUG: O: [4, 4, 0, 0]
+neil marsh          : DEBUG: P: [8, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [4, 4, 0, 0]
+neil marsh          : DEBUG: P: [8, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [4]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.79842966]
+neil marsh          : INFO: ------------------------------Trying rule_count_pair 34 / 34: rule_count/nonrule_count: 4/7------------------------------
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [11]
+neil marsh          : DEBUG: [39]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: neil, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: neil, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: O: [3, 3, 0, 1]
+neil marsh          : DEBUG: P: [7, 0, 0, 0]
+neil marsh          : WARNING: Remains: 0
+neil marsh          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+neil marsh          : DEBUG: [6]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [20]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [3]
+neil marsh          : DEBUG: [0]
+neil marsh          : DEBUG: [1]
+neil marsh          : DEBUG: final:
+neil marsh          : DEBUG: name: marsh, l_level: 0
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 1
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: name: marsh, l_level: 2
+neil marsh          : DEBUG: --------------------------------------------------
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+neil marsh          : DEBUG: scores: [0.81004306]
+neil marsh          : DEBUG: ----------------------------------------------------------------------------------------------------
+neil marsh          : DEBUG: Best score achieved: 0.9879081266001031
+neil marsh          : DEBUG: Best selected: 1/3
+neil marsh          : DEBUG: Rule variations: [{'neL maRsH', 'Neil MrSH', 'nEiL MrSh', 'nIL mArsh', 'NEIL MrsH', 'nel MARSH', 'nEiL mRsh', 'nel Marsh', 'NIl maRSh', 'nil MaRSh', 'nIl maRsH', 'NEIL MRsh', 'nil Marsh', 'Nil mARSh', 'Neil MRSH', 'nEL mARSH', 'NeIl mrSH', 'nIl maRsh', 'Nel maRSH', 'NEL MarSh', 'NEiL mrSh', 'NEL mArsh', 'Nel maRsh', 'NeIl mRsh', 'NEiL mRsh', 'nEL maRsH', 'NEl marSH', 'NEl MArsh', 'nIl MArsh', 'NeiL MrSH', 'NeL mARSH', 'neL maRsh', 'nEL MARsh', 'neL mArSH', 'nil MarSH', 'nel maRSH', 'Nil marsh', 'NiL MarsH', 'neL MArSH', 'Neil MRSh', 'NeL MARSh', 'NEl marsH', 'NiL mArSH', 'NiL mARsH', 'neil mrsH', 'NeIL mrSH', 'neIL mrsh', 'nil marsH', 'nIl MARSH', 'nel mArsh', 'nil mArSH', 'niL maRsH', 'NiL mArsH', 'nil mArsh', 'nEIL MRSH', 'nEIl MRSH', 'NIl MaRsH', 'neiL mrsH', 'NEL MARsH', 'Nel MARSh', 'neIl MRSh', 'NIl mARSh', 'NiL maRsh', 'nEl mArSH', 'neiL MRsh', 'nEl mARsH', 'niL MaRSH', 'Neil mRsh', 'nEiL mRSh', 'nil MaRsH', 'nel MarSh', 'nEl MArsh', 'nIl maRSH', 'Nel marsh', 'nEl MarSH', 'Nel MarsH', 'nEil mRsH', 'nEil mrSH', 'neiL Mrsh', 'niL maRSH', 'nIL MaRsH', 'nIL mArSH', 'NeL maRsh', 'NEL Marsh', 'niL marSh', 'NEl MARsh', 'nil marsh', 'NEIL mrSH', 'NIl marsh', 'nIL maRSH', 'Nil MaRsh', 'Nil maRSH', 'NEl MARSh', 'nel MarSH', 'Nil MARsH', 'neL MaRsH', 'nEIl mRsh', 'neL mARsH', 'nEiL mrsh', 'neIl mRSh'}]
+neil marsh          : DEBUG: Nonrule variations: [{'noel MOrsh', 'neal morsh', 'NNIL mORSH'}, {'neel mIrsh', 'NAIL MIRSh', 'nelu Mursh'}, {'neal mersh', 'nnol MOrsh', 'NELL mIRSH'}, {'nuil mursh', 'NEHL MiRSH', 'nnul MUrsh'}, {'nahl mirSh', 'neal mersh', 'NEHL MURSh'}, {'nnil mIrsh', 'NAOL MIRsH', 'noul morsH'}, {'NAIL MERSH', 'nnil mirsh', 'nnel morsH'}, {'NELL MERSH', 'nell mOrsh', 'nnel morSh'}, {'NIOL MURSh', 'neol mirsh', 'nili mIRsh'}, {'NUIL mIRSH', 'nele mIrSh', 'neul mIrsh'}, {'nili mIrsH', 'nuil mirsh', 'NEOL MiRSh'}, {'neel mIrsh', 'NOIL MURSH', 'noul morsH'}, {'nele morSh', 'nell mirsh', 'NNIL MIRSh'}, {'noel Mursh', 'nuil mirsh', 'NNIL MURSh'}, {'nehl mirsh', 'naal mOrsH', 'NEOL MORsH'}, {'NEAL MIRsH', 'neel mIrsh', 'nelo mirSh'}, {'NEEL mIRSH', 'niul mOrsH', 'nail mOrsh'}, {'nall MOrsh', 'nehl mOrsh', 'NEli MOrSH'}, {'nila mORsh', 'neol mirsh', 'NIHL MiRSH'}, {'NEAL mIRSH', 'nuil mersh', 'naol MIrsh'}, {'NAUL mIRSH', 'niil mursh', 'nihl mOrSh'}, {'neul mursh', 'noel mORsh', 'NAIL MORSH'}, {'nuil mersh', 'NAIL MURSh', 'nual moRsh'}, {'nell mirsh', 'NOIL MIRsH', 'nohl mIrsH'}, {'nael mORsh', 'NAIL MERSh', 'nehl mursh'}, {'NELe mORSH', 'nool mirSh', 'nnil mursh'}, {'nele morSh', 'NELe MIRSH', 'niil mirsh'}, {'NEle mORSH', 'nell mIrsh', 'nohl moRsh'}, {'nnal miRsh', 'NELe mIRSH', 'nuil mOrsh'}, {'NELi MOrSH', 'nili mirsH', 'nell mursh'}, {'neel morsh', 'nahl mOrsH', 'NEle MiRSH'}, {'nehl mirsh', 'nnul Mersh', 'NIHL mIRSH'}, {'nnil mirsh', 'NUIL MIrSH', 'nall mOrSh'}, {'NEEL MIRsH', 'nnel Morsh', 'neul mersh'}, {'nnal mIrsH', 'neul mersh', 'NAIL MORsH'}, {'NEAL MURSh', 'nnel mOrsH', 'neel mirsh'}, {'nnil mirsh', 'nnul mirsH', 'NEOL MIRSH'}, {'nuul mOrSh', 'NAIL MOrSH', 'niil mirsh'}, {'null mORsh', 'NOIL MiRsH', 'nehl mersh'}, {'noal Mursh', 'nnil mOrsh', 'NELi MURSH'}, {'NEEL MiRSH', 'nawl morsH', 'neel mirsh'}, {'nell morsh', 'NELi MORSh', 'nile mIRsh'}, {'NAUL MOrSH', 'nnil morsh', 'noul MUrsh'}, {'NNIL MIrSH', 'nawl mirsH', 'nell mursh'}, {'nili mIrsH', 'nnil mirsh', 'NUIL MORSh'}, {'NEli MIrSH', 'nuil mursh', 'noll miRsh'}, {'nall miRsh', 'NNIL MIRSH', 'nell mersh'}, {'noil mersh', 'NEle MOrSH', 'naal mIRsh'}, {'niol mOrsH', 'NAOL MORSh', 'neel mOrsh'}, {'NAUL MORSH', 'nuil mirsh', 'noll mirsH'}, {'naol Mirsh', 'NEOL MORSh', 'nail mOrsh'}, {'NIHL MiRsH', 'nell morsh', 'nnal morSh'}, {'nela mOrsH', 'neal morsh', 'NEHL mORSH'}, {'naul MIrsh', 'neol mirsh', 'NEHL MirSH'}, {'nail mirsh', 'nawl mirsH', 'NEle MirSH'}, {'noil mirsh', 'NEOL MIRsH', 'nihl MIrsh'}, {'nell mirsh', 'noal miRsh', 'NEEL MiRsH'}, {'neal mursh', 'NEUL MORSh', 'null Mursh'}, {'neal morsh', 'nual mOrsH', 'NELI MiRSH'}, {'neal mursh', 'NIIL MORSh', 'nuel mIrsH'}, {'NELe MiRSH', 'niul morSh', 'nnil mursh'}, {'NEUL MIrSH', 'noil mursh', 'nool mIrSh'}, {'neal mursh', 'NELL mIRSH', 'noll mIrSh'}, {'nail mirsh', 'NELL MiRsH', 'nihl Mursh'}, {'NEAL MURSh', 'naal Mursh', 'neol morsh'}, {'NEEL MERSH', 'nial Mursh', 'niil mIrsh'}, {'nele MOrsh', 'neol mIrsh', 'NEli MIRSh'}, {'NEUL miRSH', 'nili MIrsh', 'nnil mursh'}, {'nnil mOrsh', 'nool mOrsH', 'NEle MIRSH'}, {'nnil morsh', 'nawl mORsh', 'NEli miRSH'}, {'noil morsh', 'nael moRsh', 'NELI MoRSH'}, {'NAUL MERSh', 'null MOrsh', 'niil mIrsh'}, {'nelu MUrsh', 'NIHL MiRSh', 'niil mIrsh'}, {'nall Morsh', 'nail morsh', 'NELL MoRSH'}, {'NEAL MURSH', 'nuil mIrsh', 'nili Mursh'}, {'NAIL MERSH', 'nehl mIrsh', 'niel morsH'}, {'NEHL MORsH', 'neol mursh', 'nall Mursh'}, {'nuil mersh', 'nela moRsh', 'NELL MORSH'}, {'NELi MIRSh', 'neel mOrsh', 'nnol mirsH'}, {'nuel MIrsh', 'NUIL MiRsH', 'niil mirsh'}, {'neul mursh', 'nela MErsh', 'NELL mIRSH'}, {'nnil mOrsh', 'NAUL MORsH', 'nela Mersh'}, {'neul mirsh', 'noul moRsh', 'NNIL MERSh'}, {'nele moRsh', 'neol morsh', 'NELI MORsH'}, {'nell mOrsh', 'nial Mursh', 'NUIL MERSH'}, {'noll moRsh', 'NOIL MORsH', 'nehl mersh'}, {'NEAL MOrSH', 'nill miRsh', 'noil mOrsh'}, {'NAIL MiRSh', 'nuul mOrsH', 'niil mIrsh'}, {'nuil mirsh', 'NELe MIRSH', 'naal mIRsh'}, {'noil morsh', 'nihl mIRsh', 'NOIL MURSH'}, {'noel mirSh', 'NEUL MURSh', 'nuil mOrsh'}, {'nela mIrSh', 'NELI mIRSH', 'niil morsh'}, {'nail mirsh', 'NEUL MIRSh', 'nihl mIRsh'}, {'nnel miRsh', 'niil mOrsh', 'NELi mORSH'}, {'NEAL mIRSH', 'noal mIrSh', 'nuil mOrsh'}, {'nnil morsh', 'NELI MiRSH', 'noal moRsh'}, {'neel morsh', 'NUIL MURSH', 'nila mirsH'}, {'NELI MIrSH', 'neel mursh', 'null MErsh'}, {'niel mOrsH', 'noil mIrsh', 'NEle MiRSH'}, {'NELe MOrSH', 'nehl mIrsh', 'niul mORsh'}, {'naul MUrsh', 'NEOL MURSh', 'nell mersh'}, {'NEli MORsH', 'nahl mIRsh', 'neol mIrsh'}, {'NEli MIRSH', 'neal mIrsh', 'nili mOrsH'}, {'niil mersh', 'nnel mOrSh', 'NOIL MURSh'}, {'nila mirSh', 'NIIL MIrSH', 'nuil mOrsh'}, {'NEEL MURSH', 'nuel mOrSh', 'niil morsh'}, {'nnul mOrSh', 'NEHL miRSH', 'neol mursh'}, {'nehl mirsh', 'noal mIrsH', 'NELL MiRSh'}, {'naul MIrsh', 'noil mersh', 'NNIL MirSH'}, {'niul Mirsh', 'NEle MirSH', 'nnil mursh'}, {'naal miRsh', 'NELL MORSH', 'nell mursh'}, {'NELL MIRSh', 'neel mirsh', 'nnel MIrsh'}, {'NNIL MirSH', 'nuil mOrsh', 'nool mOrSh'}, {'nahl mIRsh', 'NELI MORsH', 'nell mersh'}, {'niil mersh', 'nnel MIrsh', 'NEli mIRSH'}, {'nehl mirsh', 'nall mirsH', 'NNIL MIRsH'}, {'noul mirsH', 'NAUL MIRSh', 'niil mIrsh'}, {'neal mursh', 'nohl Mirsh', 'NELI MIRsH'}, {'naol MOrsh', 'nehl mIrsh', 'NELL mIRSH'}, {'nnil mOrsh', 'NEAL MIRSH', 'nohl mIRsh'}, {'NIHL MIrSH', 'nuil mIrsh', 'nnol MIrsh'}, {'NUIL MOrSH', 'nnil morsh', 'nael morSh'}, {'nnil mIrsh', 'nall MIrsh', 'NELI MiRSh'}, {'neli mIRsh', 'neul mersh', 'NIOL MiRsH'}, {'niel morSh', 'nuil mirsh', 'NAOL MiRsH'}, {'NEEL MIRSH', 'nahl miRsh', 'neel mirsh'}, {'NOIL MORSH', 'naul moRsh', 'nuil morsh'}, {'nelo mirsH', 'nail mIrsh', 'NIOL MURSh'}, {'niil mOrsh', 'nila moRsh', 'NAUL mORSH'}, {'NEHL MiRSh', 'nuel Mirsh', 'noil mersh'}, {'nnul mORsh', 'neul morsh', 'NEOL MERSh'}, {'noel mIRsh', 'noil mIrsh', 'NEEL MIRSh'}, {'nnil mIrsh', 'NEEL MOrSH', 'nelu Morsh'}, {'niel mORsh', 'NOIL MirSH', 'niil morsh'}, {'neol mirsh', 'NAIL MURSh', 'noll MUrsh'}, {'neol mersh', 'nilo Morsh', 'NEOL miRSH'}, {'nnal morsH', 'noil morsh', 'NIHL MIRSH'}, {'noil mOrsh', 'NOIL MIRSh', 'noll Mersh'}, {'nnel Morsh', 'NAUL MoRSH', 'nehl mIrsh'}, {'nuil mursh', 'null mOrsH', 'NAOL MERSh'}, {'nelo mOrSh', 'nuil morsh', 'NEUL MORsH'}, {'NAUL MiRSh', 'nuhl morsH', 'nuil mIrsh'}, {'neal mIrsh', 'nnol mIrSh', 'NEle MIRSh'}, {'nell mIrsh', 'noel mIrsH', 'NEli MERSh'}, {'NNIL MORSH', 'nual mORsh', 'nnil mursh'}, {'NNIL MiRSh', 'nelo MErsh', 'nuil mOrsh'}, {'nnil mIrsh', 'nuol mOrsH', 'NEAL MERSh'}, {'nail mIrsh', 'NEHL MIRSh', 'nohl mOrSh'}, {'niol Mersh', 'nnil mersh', 'NIIL MIRSh'}, {'NELL MERSH', 'nail mersh', 'niel Mirsh'}, {'nohl MIrsh', 'nuil mIrsh', 'NEOL MoRSH'}, {'nuil mursh', 'nile miRsh', 'NELI MORSh'}, {'niul Mersh', 'noil mursh', 'NAUL MORSh'}, {'niul mIrsH', 'NEHL MORSH', 'neel mursh'}, {'NUIL MIrSH', 'noul Mirsh', 'nell mursh'}, {'nnul mIRsh', 'neel mIrsh', 'NELI MirSH'}, {'nuol Mirsh', 'noil morsh', 'NAIL MIRsH'}, {'neol mersh', 'NEHL MiRSh', 'nili mIRsh'}, {'NEAL MOrSH', 'noil mersh', 'naul mOrsH'}, {'NELe MERSH', 'neol mirsh', 'neli Morsh'}, {'neli mOrsH', 'neul mersh', 'NELi MIRSH'}, {'nnil morsh', 'nill mIrSh', 'NIIL mORSH'}, {'NELL MURSH', 'neel mIrsh', 'null Mursh'}, {'null MIrsh', 'NAIL MoRSH', 'noil mersh'}, {'nnil mOrsh', 'nila miRsh', 'NUIL MiRSH'}, {'nael MErsh', 'nuil mirsh', 'NEHL MERSh'}, {'NEle MIRSH', 'nail morsh', 'nael morSh'}, {'nahl MErsh', 'neel mersh', 'NELL MiRsH'}, {'neol mersh', 'NEOL MERSh', 'nool mORsh'}, {'NIIL MiRSH', 'nela Mursh', 'nell mursh'}, {'nehl mirsh', 'NAIL mORSH', 'noll mORsh'}, {'nell morsh', 'NEHL MIRsH', 'naal MUrsh'}, {'naol morSh', 'nuil mirsh', 'NEAL MORSh'}, {'neal mersh', 'nahl moRsh', 'NEle MIRSh'}, {'noul mIRsh', 'nuil mirsh', 'NOIL MURSh'}, {'nnel moRsh', 'nail mursh', 'NAOL mORSH'}, {'nilo Mirsh', 'neul morsh', 'NIOL MiRSh'}, {'nnil mersh', 'NELe miRSH', 'nnal MOrsh'}, {'NOIL MiRSh', 'nnil mersh', 'nuel Morsh'}, {'niel mirsH', 'nuil mersh', 'NELL mORSH'}, {'NUIL MiRSh', 'nail mursh', 'nual mOrsH'}, {'NEAL MiRsH', 'nail mursh', 'noel mORsh'}, {'nela mOrSh', 'NUIL MORSH', 'niil morsh'}, {'nnol MUrsh', 'nehl mursh', 'NEHL MoRSH'}, {'niol MErsh', 'nell mIrsh', 'NAUL MORSh'}, {'nahl mirSh', 'NELL MURSH', 'noil mursh'}, {'neul mirsh', 'noll mOrSh', 'NIHL MORSH'}, {'NIIL MORSh', 'noil mIrsh', 'naol miRsh'}, {'nohl morSh', 'NAOL mORSH', 'niil morsh'}, {'nool Mirsh', 'nail mIrsh', 'NOIL MORsH'}, {'NELe MIRsH', 'niul Mursh', 'nail mOrsh'}, {'NNIL MiRsH', 'nial mIrsH', 'niil mIrsh'}, {'neal morsh', 'noel mIRsh', 'NEOL MiRSh'}, {'NIHL MIRsH', 'nill mOrSh', 'nnil mursh'}, {'neul mirsh', 'nile miRsh', 'NIIL MoRSH'}, {'nnil mOrsh', 'NEli MERSH', 'nuol morSh'}, {'NAIL MORSH', 'nehl mursh', 'nuhl miRsh'}, {'nuhl MUrsh', 'neol mursh', 'NEHL MOrSH'}, {'naol mirSh', 'NUIL MIRsH', 'neol morsh'}, {'neul mOrsh', 'nual Morsh', 'NIIL MERSh'}, {'naal MIrsh', 'nuil morsh', 'NOIL MIrSH'}, {'NAOL mORSH', 'neul mIrsh', 'nnal mOrsH'}, {'NEli MiRSH', 'neul morsh', 'nili moRsh'}, {'NIHL MirSH', 'nawl MOrsh', 'neol mIrsh'}, {'nnil morsh', 'NEEL mORSH', 'nuul mirsH'}, {'neul mirsh', 'NEHL MIRSH', 'neli MIrsh'}, {'niel mIRsh', 'NEEL MORSh', 'neal mirsh'}, {'NEAL mIRSH', 'nell mOrsh', 'noal mOrsH'}, {'NEUL MORSh', 'nele MOrsh', 'nell mursh'}, {'neal mursh', 'nelu Mirsh', 'NEle MiRSh'}, {'NUIL mIRSH', 'noil mursh', 'nool MUrsh'}, {'naul mIRsh', 'niil mursh', 'NEOL MiRsH'}, {'nual Mirsh', 'nnil mirsh', 'NEle MIRSh'}, {'noll mOrSh', 'NEAL MURSH', 'nehl mursh'}, {'neol mersh', 'NELi MIRSh', 'nilu Morsh'}, {'nnul Mersh', 'NEOL MiRSh', 'nnil mursh'}, {'nawl miRsh', 'neel mirsh', 'NEle mIRSH'}, {'nnil mersh', 'nual mOrsH', 'NEAL MoRSH'}, {'nell morsh', 'nool morSh', 'NAUL MORSH'}, {'null MUrsh', 'neul morsh', 'NOIL MIRSH'}, {'NEAL MiRsH', 'nnol Morsh', 'neul mIrsh'}, {'naol Mirsh', 'neal mIrsh', 'NELI MOrSH'}, {'nele mIRsh', 'NELe MURSh', 'neal mIrsh'}, {'null MUrsh', 'niil mersh', 'NEli MoRSH'}, {'naal MIrsh', 'NEEL MORSh', 'niil morsh'}, {'nilu mOrsH', 'nell morsh', 'NNIL MiRsH'}, {'nehl mirsh', 'nnel Mersh', 'NIOL MIrSH'}, {'NEEL MERSH', 'noel mIrsH', 'neol mOrsh'}, {'neal mersh', 'nill mOrSh', 'NEHL MIRSh'}, {'NUIL MiRsH', 'neal mIrsh', 'nnul MIrsh'}, {'NAIL mORSH', 'nail mIrsh', 'nuhl Morsh'}, {'nehl mOrsh', 'NELI MirSH', 'nelu moRsh'}, {'nell morsh', 'nile morSh', 'NEli MORSh'}, {'NAUL MORsH', 'niul moRsh', 'nell mersh'}, {'nehl mursh', 'NIHL MURSh', 'nuol Morsh'}, {'nila mirSh', 'nnil mersh', 'NELi mIRSH'}, {'nail mIrsh', 'NUIL MiRSh', 'nual morSh'}, {'noil mOrsh', 'NELi MERSh', 'nilo mOrsH'}, {'nawl MErsh', 'neol mirsh', 'NIOL mORSH'}, {'nili mirsH', 'neal mirsh', 'NEAL MIRSh'}, {'NUIL miRSH', 'nuil mersh', 'nilu mirsH'}, {'NEUL MORSH', 'null mirSh', 'niil mursh'}, {'NOIL MIRSh', 'neal morsh', 'nnul MIrsh'}, {'neal mOrsh', 'NELe MIRSH', 'nilu MUrsh'}, {'nahl MUrsh', 'neel mersh', 'NEEL MIRSH'}, {'naal mOrSh', 'neol mirsh', 'NELe MIrSH'}, {'NAUL MOrSH', 'nuol mOrSh', 'niil mIrsh'}, {'NEOL MIRsH', 'nool mOrSh', 'nell mersh'}, {'naal mOrSh', 'NIIL MIRSh', 'nail morsh'}, {'noil mIrsh', 'nohl Mersh', 'NNIL mIRSH'}, {'noil morsh', 'NELe MIRSH', 'nuul Mirsh'}, {'nehl mirsh', 'NUIL MirSH', 'nual mIrsH'}, {'nill mirSh', 'NEUL MirSH', 'nnil mursh'}, {'nual mirSh', 'nuil mirsh', 'NNIL MirSH'}, {'NEAL MiRSH', 'nell mOrsh', 'nihl mOrsH'}, {'nnal Mirsh', 'NEOL mORSH', 'niil mOrsh'}, {'nnal morsH', 'neel mIrsh', 'NAUL MERSh'}, {'NUIL MERSH', 'neol mirsh', 'niel mirSh'}, {'nnil mOrsh', 'neli mirsH', 'NEUL MoRSH'}, {'NEOL MirSH', 'neul morsh', 'niol mIrsH'}, {'nnil mirsh', 'nilu mIrsH', 'NEHL MIRsH'}, {'neul mursh', 'NEAL MORsH', 'nnol Mirsh'}, {'NEHL MiRSH', 'neol mIrsh', 'nelu mIRsh'}, {'NIHL MIRsH', 'nail mOrsh', 'nnal MOrsh'}, {'nuil mersh', 'NEEL MIRSh', 'nila mOrsH'}, {'NEEL MIRsH', 'nelu mIrsH', 'nnil mursh'}, {'noll mirSh', 'NNIL MOrSH', 'neul morsh'}, {'nuhl Mersh', 'NUIL mORSH', 'nell mursh'}, {'nahl MErsh', 'NIHL MERSH', 'neol mOrsh'}, {'NIIL MORsH', 'nail morsh', 'nila moRsh'}, {'nnil mersh', 'NAOL MORSh', 'nuel Morsh'}, {'nnil mIrsh', 'NEUL MURSh', 'nele morsH'}, {'neul mersh', 'NNIL MIRsH', 'nila mOrsH'}, {'NAIL MORSH', 'nuil mersh', 'nawl mIRsh'}, {'niil mersh', 'nili MIrsh', 'NNIL MURSh'}, {'NELL MIrSH', 'nelu mirSh', 'nuil morsh'}, {'NOIL MORsH', 'nnul miRsh', 'nell mursh'}, {'nell mIrsh', 'NAIL MIRsH', 'nill morSh'}, {'noel Mursh', 'neol mirsh', 'NELI MORSH'}, {'neal mersh', 'nili mIRsh', 'NNIL miRSH'}, {'null mOrSh', 'neel mersh', 'NEHL MURSh'}, {'neel morsh', 'nele MOrsh', 'NIOL MiRsH'}, {'NIHL MiRSh', 'neal morsh', 'null MErsh'}, {'nelo Morsh', 'nuil mursh', 'NEle MOrSH'}, {'nuol mIRsh', 'NUIL MiRSH', 'niil mIrsh'}, {'NELL MiRSH', 'nehl mOrsh', 'noll MErsh'}, {'noil mIrsh', 'nual Morsh', 'NAOL MORsH'}, {'nail mursh', 'NOIL MERSH', 'nnal mOrSh'}, {'noil mOrsh', 'NIIL miRSH', 'nilu mIrSh'}, {'NELL MORSh', 'niil mursh', 'noal Mersh'}, {'NUIL MERSh', 'noil mOrsh', 'nuel mOrsH'}, {'nnol MUrsh', 'NIOL MIrSH', 'noil mersh'}, {'NELi MIRSH', 'niol MIrsh', 'neol morsh'}, {'NELI MORSH', 'noal mOrsH', 'neol mOrsh'}, {'nela mirsH', 'NAIL MoRSH', 'nehl mOrsh'}, {'NUIL MiRSh', 'nihl moRsh', 'niil mersh'}, {'niel morSh', 'nail morsh', 'NAIL MIrSH'}, {'naol Morsh', 'NELe MiRSh', 'niil morsh'}, {'nilu mIRsh', 'nnil mirsh', 'NEle MiRSH'}, {'NOIL MORsH', 'nila Morsh', 'neel mursh'}, {'NUIL MoRSH', 'nehl mIrsh', 'noal mIrsH'}, {'naul mirsH', 'neal mOrsh', 'NNIL MORsH'}, {'neal mursh', 'NEOL MURSH', 'nuul miRsh'}, {'nihl moRsh', 'nail mersh', 'NELe MIRsH'}, {'neul mIrsh', 'noal mOrsH', 'NEHL miRSH'}, {'null mOrSh', 'nehl mersh', 'NIHL MORSH'}, {'NIOL MURSh', 'nool morSh', 'nehl mIrsh'}, {'NEli MURSH', 'nela MOrsh', 'nuil mIrsh'}, {'nelu mIrsH', 'nail morsh', 'NIOL mORSH'}, {'nawl mirSh', 'neal mirsh', 'NAOL miRSH'}, {'nuol MIrsh', 'nail mursh', 'NELi MORSH'}, {'nelo mORsh', 'NEUL MiRsH', 'nell mersh'}, {'nnil mersh', 'nuol mirsH', 'NUIL MiRSH'}, {'nohl Mursh', 'noil mersh', 'NEli MoRSH'}, {'NIHL MiRsH', 'nnil morsh', 'niol mOrsH'}, {'naol Mirsh', 'neul mersh', 'NAIL MOrSH'}, {'neal mursh', 'nawl morSh', 'NEHL MORSH'}, {'nnil mersh', 'NEli mIRSH', 'noll MOrsh'}, {'nuhl Mersh', 'NAUL MIrSH', 'niil mOrsh'}, {'NOIL MURSH', 'noel mirSh', 'neul mIrsh'}, {'NEEL MERSH', 'nial Morsh', 'nuil morsh'}, {'nele mIRsh', 'nuil mOrsh', 'NEAL MERSh'}, {'NAOL MiRSH', 'neel mIrsh', 'nilu Morsh'}, {'nual mirSh', 'neel mOrsh', 'NELL mIRSH'}, {'neol mirsh', 'nnel mOrsH', 'NAUL MORSh'}, {'naul mirsH', 'nell mirsh', 'NEOL MURSh'}, {'NIIL MIRSH', 'nehl mIrsh', 'nelu Morsh'}, {'nnol morsH', 'NEUL mIRSH', 'nail morsh'}, {'nile mirsH', 'niil mersh', 'NEOL MiRsH'}, {'neol mersh', 'nall mirsH', 'NELe mIRSH'}, {'nual miRsh', 'neel mIrsh', 'NNIL MIRSh'}, {'neal mursh', 'niel miRsh', 'NEAL MOrSH'}, {'NELi MiRSH', 'neul mOrsh', 'nihl mOrSh'}, {'nell mIrsh', 'nihl morSh', 'NELe MIRSH'}, {'noul Mersh', 'nuil mirsh', 'NIIL mORSH'}, {'nuhl Mersh', 'nnil morsh', 'NELi MIRSh'}, {'nuhl Mursh', 'nehl mersh', 'NIIL mIRSH'}, {'NEEL MOrSH', 'neul morsh', 'nuol mORsh'}, {'nail mersh', 'nool mIrSh', 'NEli MERSH'}, {'NIOL mIRSH', 'nelu mOrSh', 'neal mIrsh'}, {'noil mIrsh', 'nela MErsh', 'NELI MIrSH'}, {'nuol mOrsH', 'neul mersh', 'NIIL MIrSH'}, {'neal mOrsh', 'NEEL MirSH', 'nihl MUrsh'}, {'nehl mOrsh', 'nilu morSh', 'NELe mIRSH'}, {'neul mirsh', 'naul MUrsh', 'NEUL MERSh'}, {'nelu mirsH', 'neul morsh', 'NOIL mORSH'}, {'noul Mirsh', 'neel mursh', 'NELi MORsH'}, {'niol MOrsh', 'NEle MiRsH', 'nehl mursh'}, {'NEUL MIRSH', 'nell mirsh', 'nill moRsh'}, {'naol Mirsh', 'NEAL MiRSH', 'nehl mOrsh'}, {'NIIL MIrSH', 'niul mirsH', 'nuil morsh'}, {'nnil mIrsh', 'nilu moRsh', 'NEOL MORSh'}, {'nell mOrsh', 'NELL miRSH', 'nelo mirSh'}, {'NEEL MORSh', 'nuil mirsh', 'nial Mursh'}, {'noil morsh', 'NIOL MORSh', 'nill moRsh'}, {'NEli MIRSh', 'noil mersh', 'nial Morsh'}, {'nihl Mursh', 'NEli MIRsH', 'niil mirsh'}, {'noil morsh', 'nuhl MIrsh', 'NAUL MORSh'}, {'NELL MiRsH', 'noil mersh', 'naul mIrSh'}, {'NAOL MORsH', 'nohl mirSh', 'neel mOrsh'}, {'NEOL miRSH', 'neal mersh', 'nuel mORsh'}, {'neel mersh', 'noal mIrsH', 'NELI MoRSH'}, {'nuhl mORsh', 'NEUL MIrSH', 'nuil mIrsh'}, {'NIIL miRSH', 'nilu MIrsh', 'niil morsh'}, {'naal Morsh', 'NUIL MORSH', 'nehl mersh'}, {'NAOL MORSH', 'noel mIRsh', 'niil mirsh'}, {'NELi MIRsH', 'neal mIrsh', 'nela Mursh'}, {'NEHL MORSh', 'noel miRsh', 'nell mursh'}, {'niul mIRsh', 'nehl morsh', 'NAIL MirSH'}, {'nail mursh', 'NIHL MURSH', 'nool MErsh'}, {'neul mursh', 'nuel morsH', 'NEUL MERSh'}, {'nuil mIrsh', 'niul miRsh', 'NAOL MIRSh'}, {'nnil morsh', 'noul mOrSh', 'NEUL MERSH'}, {'nilo Mursh', 'nell mirsh', 'NELe MIRsH'}, {'NELe mORSH', 'nuil morsh', 'nawl mIRsh'}, {'NELe MiRSh', 'nili MIrsh', 'nell mursh'}, {'nele mOrsH', 'nnil morsh', 'NIHL MiRSh'}, {'neli mOrSh', 'nnil mirsh', 'NEle MiRSH'}, {'null MUrsh', 'NELe MIRSh', 'nuil mOrsh'}, {'nehl mirsh', 'naul miRsh', 'NEHL MirSH'}, {'NELi MURSh', 'niul mOrsH', 'nnil mursh'}, {'naal Mursh', 'NIHL MIRSH', 'neel mOrsh'}, {'nehl mOrsh', 'nall mirsH', 'NOIL MirSH'}, {'nail mersh', 'null Mursh', 'NEEL MiRSh'}, {'NIIL MiRsH', 'nnil mersh', 'nnul Mirsh'}, {'NAIL MIRsH', 'neel mirsh', 'nial mirSh'}, {'noel Morsh', 'neal morsh', 'NEEL MiRSh'}, {'neal morsh', 'noll mirsH', 'NNIL mORSH'}, {'NNIL MIrSH', 'neul mOrsh', 'nelo mIrsH'}, {'NUIL MOrSH', 'nilo morsH', 'noil mursh'}, {'nell mIrsh', 'null Mursh', 'NEle MiRSH'}, {'NIHL miRSH', 'neal morsh', 'nnel mIrSh'}, {'NEUL mIRSH', 'neal morsh', 'nilu Mersh'}, {'NELe MORSH', 'nawl morsH', 'nuil mOrsh'}, {'nahl mirSh', 'neol mirsh', 'NEAL mORSH'}, {'nohl mORsh', 'nnil mirsh', 'NEli MiRSH'}, {'NELi MiRsH', 'neel mIrsh', 'niul Mirsh'}, {'nnil mIrsh', 'nile MUrsh', 'NNIL MirSH'}, {'NIOL MERSH', 'nuhl MErsh', 'nnil mursh'}, {'NEOL MORSh', 'niil mOrsh', 'nihl mirSh'}, {'NELL MERSH', 'nuil mirsh', 'nelo MUrsh'}, {'NAIL MirSH', 'nehl mersh', 'nela mIRsh'}, {'NEEL MORSh', 'neul mersh', 'noll mORsh'}, {'noll mirSh', 'neul mersh', 'NEHL MOrSH'}, {'NAUL MORSh', 'neol mIrsh', 'nila MOrsh'}, {'nehl mirsh', 'nilu mirSh', 'NEOL MIRsH'}, {'noul mOrsH', 'neel mursh', 'NELI MIRSH'}, {'NEUL MOrSH', 'nnul mIrSh', 'niil morsh'}, {'nehl mIrsh', 'nihl miRsh', 'NELI mORSH'}, {'nelu MErsh', 'neel mersh', 'NELL MoRSH'}, {'noel moRsh', 'NUIL MERSH', 'neel mersh'}, {'NNIL MIrSH', 'neal mirsh', 'nial MUrsh'}, {'nnil mOrsh', 'NELi MORSH', 'nuel MIrsh'}, {'NAIL MiRSh', 'niel mOrSh', 'niil mursh'}, {'noll Mursh', 'neul mersh', 'NNIL MiRSH'}, {'nool mirsH', 'nehl mOrsh', 'NAOL MORsH'}, {'niel Mersh', 'neul mIrsh', 'NEle mIRSH'}, {'nnol MUrsh', 'nehl mOrsh', 'NEli MiRsH'}, {'nuul morSh', 'NELL miRSH', 'niil mOrsh'}, {'NEEL MiRSH', 'nuel mOrsH', 'neol morsh'}, {'NEOL mORSH', 'nilu mirsH', 'niil morsh'}, {'nail mursh', 'nool mirSh', 'NAUL MURSh'}, {'neli mORsh', 'nail mIrsh', 'NEEL MERSH'}, {'nnil mIrsh', 'NUIL MURSH', 'niel mIRsh'}, {'NELI MORSh', 'nohl mOrSh', 'niil morsh'}, {'nell morsh', 'nial mIRsh', 'NIHL MORsH'}, {'nnil morsh', 'nela Mirsh', 'NELL MOrSH'}, {'naul mORsh', 'NEUL MirSH', 'niil morsh'}, {'nehl mirsh', 'nele MUrsh', 'NELL MoRSH'}, {'noll Morsh', 'NNIL MiRSh', 'nail mursh'}, {'nnil mIrsh', 'naal morsH', 'NEOL MORSh'}, {'nila MIrsh', 'nail morsh', 'NEle MERSh'}, {'noal mIrSh', 'NAUL MORSh', 'niil mIrsh'}, {'NELe MiRSH', 'nuil mOrsh', 'nohl morsH'}, {'nnil mOrsh', 'NELe MIRsH', 'nuhl mIrSh'}, {'NEli MURSH', 'niel MIrsh', 'niil mOrsh'}, {'NAIL MERSH', 'nehl morsh', 'neli mIrsH'}, {'NNIL MURSH', 'noul MUrsh', 'nuil mirsh'}, {'nuol mIRsh', 'NEUL MiRsH', 'niil mursh'}, {'niil mOrsh', 'NELI mORSH', 'nelo morSh'}, {'null mORsh', 'NUIL MERSH', 'nell mersh'}, {'neul mirsh', 'NUIL MERSh', 'nual MErsh'}, {'nail mersh', 'nuul Mersh', 'NEle MIRSH'}, {'nuhl mORsh', 'neal morsh', 'NEHL MIRSh'}, {'naal morSh', 'NAUL MURSh', 'nnil mursh'}, {'NIHL MiRsH', 'nilo miRsh', 'noil mIrsh'}, {'NEUL MIRSH', 'nehl mIrsh', 'null mIrsH'}, {'nili Mersh', 'NEle mORSH', 'niil mOrsh'}, {'noil morsh', 'NEHL MERSH', 'nele miRsh'}, {'neal mursh', 'NELe MORSh', 'nial Mersh'}, {'nili MErsh', 'neel morsh', 'NEUL MiRSH'}, {'noll Mirsh', 'noil mersh', 'NEUL MORsH'}, {'nelo mirsH', 'nell mirsh', 'NIOL MoRSH'}, {'null mirSh', 'niil mersh', 'NELL mIRSH'}, {'noel MOrsh', 'NEUL miRSH', 'neel mIrsh'}, {'NNIL MORSh', 'nail mOrsh', 'naul Mirsh'}, {'noil mIrsh', 'naal moRsh', 'NIIL mORSH'}, {'NNIL MoRSH', 'nnil mOrsh', 'nile MUrsh'}, {'naul MOrsh', 'nell mIrsh', 'NEEL miRSH'}, {'null MIrsh', 'NNIL MoRSH', 'nnil mursh'}, {'nehl mirsh', 'nool MErsh', 'NAOL MiRsH'}, {'nnil mIrsh', 'NAOL mIRSH', 'nile Morsh'}, {'neel morsh', 'nela miRsh', 'NELI MERSh'}, {'nuhl Mersh', 'nehl mOrsh', 'NAUL MIRSH'}, {'nell mOrsh', 'NUIL MIrSH', 'naal moRsh'}, {'noul mIrSh', 'neal morsh', 'NEHL MIRSH'}, {'naul Mursh', 'NEHL mORSH', 'neol mOrsh'}, {'nuol MOrsh', 'NELe MIRSH', 'nell mersh'}, {'NUIL MIRSh', 'neel mOrsh', 'nela morsH'}, {'NUIL MiRSh', 'neal mirsh', 'niel moRsh'}, {'NAUL MIRSH', 'nail mOrsh', 'nelu Mursh'}, {'NELi MIRSh', 'nail morsh', 'noel mOrSh'}, {'niol Mursh', 'NIHL MiRSh', 'nail morsh'}, {'nail mIrsh', 'neli mIrSh', 'NELL MIRsH'}, {'neel mirsh', 'nohl mirSh', 'NEEL miRSH'}, {'NEUL MERSh', 'nila Mersh', 'niil morsh'}, {'nehl mOrsh', 'nual Morsh', 'NEHL mORSH'}, {'NEHL MURSh', 'neal mersh', 'nall mIrsH'}, {'NIHL MIRSH', 'nelu mirSh', 'neel mOrsh'}, {'NNIL MIRSH', 'naul morsH', 'niil mersh'}, {'naul mirsH', 'neal mIrsh', 'NIOL MiRsH'}, {'nnil mersh', 'noel mIRsh', 'NNIL miRSH'}, {'nihl Mirsh', 'nnil mOrsh', 'NIHL MiRSh'}, {'nuil mersh', 'NEle MIRSH', 'nial morSh'}, {'neol mersh', 'NEEL MIRsH', 'naul mirSh'}, {'nihl MIrsh', 'neel mIrsh', 'NELL miRSH'}, {'nail mursh', 'NOIL mIRSH', 'nill Mersh'}, {'nall mIrSh', 'NEUL MIRSH', 'neel mIrsh'}, {'NEOL MIRsH', 'nnal MErsh', 'nuil mOrsh'}, {'NELL MERSH', 'noil mOrsh', 'nnel mIrSh'}, {'NNIL MOrSH', 'naol Mersh', 'nell mIrsh'}, {'nnil mIrsh', 'niol MOrsh', 'NEAL MIRSh'}, {'niel morSh', 'neal mirsh', 'NIIL MIRSH'}, {'neol mersh', 'NELe MORSh', 'nuhl mORsh'}, {'nnil mIrsh', 'NELe MiRsH', 'nuel mORsh'}, {'neal mersh', 'NEli MOrSH', 'nuol Morsh'}, {'nohl MErsh', 'nail mursh', 'NEle MIRSh'}, {'NEle MIRsH', 'nila mIrSh', 'nell mersh'}, {'niul morsH', 'NIOL MirSH', 'neel mirsh'}, {'neul mirsh', 'neli mOrsH', 'NELi MERSH'}, {'NIHL MiRSh', 'nehl morsh', 'nool mOrsH'}, {'nili MErsh', 'NAOL MIRsH', 'neul mIrsh'}, {'nual miRsh', 'neol mIrsh', 'NEli MiRsH'}, {'noel mIrSh', 'neel mirsh', 'NEHL MirSH'}, {'nnul MErsh', 'nuil mOrsh', 'NELL MIRSH'}, {'noil mirsh', 'NEHL MiRSh', 'nnul MIrsh'}, {'NELi MURSh', 'nail mOrsh', 'noul MIrsh'}, {'nuel MIrsh', 'nehl morsh', 'NEOL MOrSH'}, {'nnal MUrsh', 'noil mersh', 'NELI miRSH'}, {'NEHL MURSH', 'neul mersh', 'null miRsh'}, {'NEle MORSH', 'neol morsh', 'nool morsH'}, {'null moRsh', 'noil mOrsh', 'NEli MiRSH'}, {'neol mersh', 'nnul Mersh', 'NEUL MoRSH'}, {'nnil morsh', 'nile morSh', 'NEOL MoRSH'}, {'naal MUrsh', 'neal mirsh', 'NELI MOrSH'}, {'neal mersh', 'nela MIrsh', 'NEHL MiRsH'}, {'nuol mIrSh', 'neel mirsh', 'NOIL MiRsH'}, {'NNIL MiRsH', 'noel mIrSh', 'nuil mirsh'}, {'null mORsh', 'NEUL MIrSH', 'nehl mersh'}, {'NOIL MERSh', 'nool Morsh', 'neol mursh'}, {'nool morSh', 'neel mursh', 'NELe MERSH'}, {'nuul mOrSh', 'NELL miRSH', 'neel mirsh'}, {'niel morSh', 'nnil mOrsh', 'NEAL MORSh'}, {'nila mIrSh', 'NELi MIRSH', 'neel mirsh'}, {'noll mOrSh', 'NAIL miRSH', 'nehl mIrsh'}, {'naal mIrSh', 'NEEL MIRSH', 'nnil mursh'}, {'neal mursh', 'NEle MIRSH', 'nall miRsh'}, {'nnel mIrsH', 'nail mOrsh', 'NEle MIRSH'}, {'nell mirsh', 'nila MErsh', 'NIIL mORSH'}, {'nnol MOrsh', 'NEHL MERSh', 'neol mursh'}, {'naol moRsh', 'NELe mIRSH', 'niil mirsh'}, {'NEli MirSH', 'nall Morsh', 'nell mursh'}, {'naul moRsh', 'NIOL MirSH', 'niil mOrsh'}, {'NELI MORSH', 'nele MOrsh', 'neel mirsh'}, {'niol morsH', 'nail mursh', 'NEUL MURSH'}, {'NIIL MIRSh', 'nail morsh', 'nual mORsh'}, {'nual morSh', 'NEAL mORSH', 'nnil mursh'}, {'NEAL MIRsH', 'neal mOrsh', 'nial Mursh'}, {'niil mersh', 'NIHL MORsH', 'nool mIrSh'}, {'nnel Morsh', 'neul mersh', 'NELI MORSh'}, {'NELi MirSH', 'nnol MIrsh', 'noil mOrsh'}, {'noul mOrSh', 'neel mOrsh', 'NAUL MERSH'}, {'niol Mirsh', 'NELe MORSh', 'nnil mirsh'}, {'nila Mirsh', 'NUIL MIRsH', 'nnil mursh'}, {'NEUL MIRSH', 'nela miRsh', 'nail morsh'}, {'noil mirsh', 'NELL MORsH', 'neli mirSh'}, {'null Mirsh', 'nuil mirsh', 'NIOL MoRSH'}, {'NEUL MIRSh', 'nuol Mursh', 'nnil mursh'}, {'nell morsh', 'noel mIrsH', 'NEEL miRSH'}, {'nell mIrsh', 'nnul Morsh', 'NEle MirSH'}, {'nili mIrSh', 'neul mOrsh', 'NAIL MORSh'}, {'nnil morsh', 'NEHL MIRsH', 'nelu mirsH'}, {'NUIL miRSH', 'neal mIrsh', 'nuol Morsh'}, {'noil mursh', 'NIOL MoRSH', 'nawl mIRsh'}, {'nehl mOrsh', 'nelo Mersh', 'NEAL MORsH'}, {'nell morsh', 'NOIL mIRSH', 'neli mirSh'}, {'NELL MERSh', 'noul mOrSh', 'neul morsh'}, {'neal mIrsh', 'nnal mOrsH', 'NEOL MOrSH'}, {'nnal mirsH', 'nell mOrsh', 'NEli MIRsH'}, {'nuhl moRsh', 'NELL MIRsH', 'niil mIrsh'}, {'neul mirsh', 'nilo morsH', 'NELi MERSH'}, {'nelu morSh', 'noil mOrsh', 'NEli MiRsH'}, {'nila mIRsh', 'nail mursh', 'NEAL miRSH'}, {'NEHL MIRsH', 'nili mOrsH', 'nell mersh'}, {'neal mursh', 'NELe MIrSH', 'nill Mersh'}, {'noil mirsh', 'NNIL MORSh', 'noal Mursh'}, {'nehl mirsh', 'nuel MUrsh', 'NUIL MirSH'}, {'nnil mIrsh', 'NNIL MoRSH', 'nelo Mursh'}, {'nail mirsh', 'nile mIRsh', 'NEHL MIRsH'}, {'nilo mIrSh', 'nnil mersh', 'NIIL MiRsH'}, {'niil mersh', 'nael mIrSh', 'NELI MIRsH'}, {'nnil mOrsh', 'NEUL MORSh', 'nilu mIRsh'}, {'null mOrsH', 'nail morsh', 'NUIL MORSh'}, {'noel moRsh', 'NEAL MiRsH', 'noil mersh'}, {'neal morsh', 'NOIL MIRSh', 'nela mIRsh'}, {'neal mursh', 'nilu moRsh', 'NOIL MERSH'}, {'NEEL miRSH', 'nill moRsh', 'nell mersh'}, {'nili mirsH', 'neal mIrsh', 'NEli MORSH'}, {'NELL MORsH', 'nnil mirsh', 'nool mORsh'}, {'noil mirsh', 'NOIL MOrSH', 'nilu mirsH'}, {'nehl mirsh', 'null MUrsh', 'NEOL MERSh'}, {'nnel Mersh', 'neol mirsh', 'NELI MIRsH'}, {'NEli MORsH', 'nnil mirsh', 'nilu Mirsh'}, {'nahl moRsh', 'neul mersh', 'NOIL MOrSH'}, {'nill mirsH', 'neel mirsh', 'NELe MIRsH'}, {'NIOL MURSH', 'nial mIrSh', 'nell mursh'}, {'NAOL MERSH', 'noil mersh', 'nelu MIrsh'}, {'nall mORsh', 'niil mOrsh', 'NEOL MIRSH'}, {'NNIL MoRSH', 'nuhl mOrsH', 'niil mersh'}, {'nawl mOrSh', 'nail mersh', 'NIIL MIrSH'}, {'nele Mirsh', 'NNIL MirSH', 'niil mirsh'}, {'NOIL MORSh', 'nuil mursh', 'noul miRsh'}, {'neli mOrSh', 'neal mersh', 'NAIL MERSh'}, {'nele Morsh', 'NNIL MiRSH', 'neol mursh'}, {'NEAL MERSh', 'neol mursh', 'nelo mIrSh'}, {'NAOL MIRsH', 'neli miRsh', 'nnil mursh'}, {'nnol mirSh', 'NELe MORsH', 'niil mIrsh'}, {'NAIL mIRSH', 'nail mOrsh', 'nuel Morsh'}, {'NIIL MIRSh', 'nelu mIrsH', 'neol mursh'}, {'NAOL MIrSH', 'niul mIrsH', 'neul mOrsh'}, {'NIIL MIrSH', 'nuil mOrsh', 'nihl mORsh'}, {'NAIL mIRSH', 'nail mirsh', 'nill mirsH'}, {'NOIL MORSH', 'niil mursh', 'nool miRsh'}, {'NAUL MORSh', 'nell mirsh', 'nuhl Mursh'}, {'nilu MUrsh', 'NEOL MORSH', 'nail morsh'}, {'nail mirsh', 'nilo mOrsH', 'NEUL MURSH'}, {'NUIL MirSH', 'niul mOrsH', 'niil morsh'}, {'nawl MIrsh', 'NEUL MORSh', 'nehl mIrsh'}, {'nelo mOrsH', 'noil mOrsh', 'NELe MIRSH'}, {'nile mirsH', 'nail morsh', 'NEle MIRSh'}, {'NEle MiRsH', 'nail mIrsh', 'nuhl Morsh'}, {'nell mOrsh', 'NEle MoRSH', 'null mirSh'}, {'NEEL MIrSH', 'neul mersh', 'nelu moRsh'}, {'nelo mirsH', 'nail morsh', 'NUIL MOrSH'}, {'nnol mIRsh', 'NIIL MiRsH', 'nuil mursh'}, {'nehl mIrsh', 'NAOL MORSh', 'nuel mOrsH'}, {'NEli mORSH', 'neul mOrsh', 'nilo mORsh'}, {'nnil mIrsh', 'NEUL mIRSH', 'nili morSh'}, {'NUIL MIRsH', 'nihl miRsh', 'niil morsh'}, {'nnil mersh', 'NELL MOrSH', 'nuel MErsh'}, {'nnil morsh', 'NNIL MiRSH', 'naul miRsh'}, {'neol mirsh', 'nelu miRsh', 'NEle MirSH'}, {'naol Mirsh', 'nail mIrsh', 'NAOL MOrSH'}, {'nuil mirsh', 'naul miRsh', 'NIOL MIRsH'}, {'nnul mIrSh', 'nell mursh', 'NIOL MiRsH'}, {'nelu mirsH', 'NIOL MORSh', 'neel mOrsh'}, {'NEle MirSH', 'nuil mOrsh', 'nall mirSh'}, {'nuil mersh', 'nila MIrsh', 'NAIL MURSh'}, {'neel mIrsh', 'NIHL MirSH', 'nnal MIrsh'}, {'NUIL MIRsH', 'nail mOrsh', 'nela morsH'}, {'nnil mIrsh', 'NIOL MORsH', 'nuhl Mursh'}, {'NEle MIRsH', 'nuhl morSh', 'neel mirsh'}, {'noil mersh', 'nuul mirsH', 'NELi MORSH'}, {'neli Mursh', 'NELL MORSH', 'neol morsh'}, {'nnil morsh', 'naal Mursh', 'NAOL MirSH'}, {'neul mursh', 'NELI MOrSH', 'nuul Mirsh'}, {'neul mursh', 'nnol moRsh', 'NIOL mORSH'}, {'NIIL MiRSH', 'noil mursh', 'neli mirSh'}, {'nail mirsh', 'nnol mOrsH', 'NEli MiRSh'}, {'NNIL MiRSH', 'nili mirSh', 'niil mirsh'}, {'nela mirSh', 'neel morsh', 'NUIL MURSH'}, {'NNIL MiRSH', 'nell mursh', 'nuel mIRsh'}, {'nual MErsh', 'nuil mirsh', 'NIOL MIRsH'}, {'NNIL MORSh', 'naal morsH', 'neal mIrsh'}, {'NIIL MiRSh', 'neal mirsh', 'nihl mORsh'}, {'neul mursh', 'noul morSh', 'NELi mORSH'}, {'naal mOrsH', 'neul morsh', 'NAOL MiRsH'}, {'NIHL miRSH', 'neal morsh', 'noal mOrsH'}, {'neul mersh', 'nnul mIrSh', 'NOIL MURSh'}, {'noil mursh', 'NIIL MOrSH', 'noul Mirsh'}, {'neel mirsh', 'nnel MOrsh', 'NEEL miRSH'}, {'NELI MirSH', 'neol morsh', 'nihl Morsh'}, {'noul morSh', 'NEHL MiRSh', 'neel mOrsh'}, {'neul mursh', 'NEle MiRsH', 'niul mIrSh'}, {'nuel moRsh', 'NNIL MirSH', 'neel mursh'}, {'nual Mirsh', 'nell mOrsh', 'NEEL MiRSh'}, {'NEEL MIRSH', 'noel mirSh', 'neol mIrsh'}, {'NAIL MERSh', 'noil mursh', 'nile Mirsh'}, {'nuol mIrSh', 'NELi MURSh', 'neel mersh'}, {'neli mirSh', 'NAIL MORsH', 'neel mursh'}, {'nelo MOrsh', 'NIIL MiRSH', 'nehl mersh'}, {'NEAL MOrSH', 'neol mirsh', 'nial morSh'}, {'nuol mOrsH', 'neul mOrsh', 'NEOL MIrSH'}, {'nnil mIrsh', 'NELe MirSH', 'nelu MUrsh'}, {'nehl mirsh', 'nial MIrsh', 'NIOL MIRSh'}, {'neol mersh', 'nohl mirsH', 'NNIL mORSH'}, {'neul mursh', 'NEAL MORSh', 'nuhl MUrsh'}, {'nuel morsH', 'neol mursh', 'NEEL miRSH'}, {'nnil morsh', 'NELI MORSh', 'naal mIRsh'}, {'NEle MURSH', 'nelu miRsh', 'neel mOrsh'}, {'nnil morsh', 'nnel MOrsh', 'NAIL MURSh'}, {'nelo mOrsH', 'NELi MERSh', 'nuil morsh'}, {'nuhl Mersh', 'NIHL MIrSH', 'nehl mersh'}, {'NIOL MiRsH', 'naol MIrsh', 'neol morsh'}, {'nila morsH', 'noil mIrsh', 'NEli MiRSH'}, {'naal mirSh', 'NUIL mIRSH', 'neul mOrsh'}, {'nila mIrsH', 'niil mOrsh', 'NELL MIRSH'}, {'NEHL MIrSH', 'neal mIrsh', 'nihl mORsh'}, {'nehl mOrsh', 'nili MIrsh', 'NEAL MERSh'}, {'neal mersh', 'NELe MURSh', 'neli mirSh'}, {'NOIL MORsH', 'nael mOrsH', 'nuil mOrsh'}, {'neul mIrsh', 'NEHL MiRSH', 'niul MErsh'}, {'NEUL MORSh', 'neel morsh', 'nela Morsh'}, {'neel mirsh', 'NEli MERSH', 'nihl morsH'}, {'NELL MIrSH', 'nuol Mersh', 'nuil mOrsh'}, {'NNIL MIRSH', 'neal mIrsh', 'naal mIrsH'}, {'nehl mirsh', 'NNIL MiRSH', 'noll mIrSh'}, {'neul mersh', 'NNIL mIRSH', 'noul mORsh'}, {'nnul mORsh', 'neel mIrsh', 'NELI miRSH'}, {'nilo mIrsH', 'neel mirsh', 'NIOL MORsH'}, {'neul mirsh', 'NEli mORSH', 'nelo mirSh'}, {'naal mIrSh', 'NEEL MiRSH', 'neol mIrsh'}, {'nehl mursh', 'nohl moRsh', 'NAOL MIRSH'}, {'naal Morsh', 'nehl mIrsh', 'NEHL MERSH'}, {'naul mIRsh', 'NEEL MIRsH', 'niil morsh'}, {'neul mirsh', 'NIHL MIrSH', 'nnol Morsh'}, {'NIHL MIRsH', 'nell mIrsh', 'nall Morsh'}, {'nehl mIrsh', 'NAIL MiRsH', 'naul mIrsH'}, {'nawl MIrsh', 'neul mIrsh', 'NOIL MIRSh'}, {'niel moRsh', 'NEli MOrSH', 'nell mersh'}, {'nihl MOrsh', 'neel mersh', 'NEOL MIrSH'}, {'niil mursh', 'nelu mOrsH', 'NIOL MIRSH'}, {'nele MErsh', 'neul mIrsh', 'NELL MURSh'}, {'nahl mIrsH', 'nuil mirsh', 'NELi MIRsH'}, {'NELi MiRSh', 'nuel Mersh', 'neol mirsh'}, {'neal mersh', 'nael morsH', 'NAUL MiRsH'}, {'nahl mirsH', 'nnil mirsh', 'NIIL miRSH'}, {'nael mirsH', 'noil morsh', 'NEUL MURSh'}, {'nnil morsh', 'NUIL mORSH', 'nuel mORsh'}, {'nnil mIrsh', 'nuhl Morsh', 'NAOL MiRSh'}, {'nail mursh', 'nuhl MOrsh', 'NEli MORSh'}, {'nihl MErsh', 'nell mursh', 'NAIL MIrSH'}, {'nuil mIrsh', 'nelu miRsh', 'NIHL MIRSh'}, {'NNIL MORSH', 'neul mOrsh', 'nilu mIrSh'}, {'nohl morSh', 'NAIL miRSH', 'niil morsh'}, {'NIOL MIRSh', 'neol mursh', 'noll MOrsh'}, {'NEEL MoRSH', 'nail morsh', 'nela mIrSh'}, {'NIHL MORSh', 'neel morsh', 'naul mOrSh'}, {'neul mirsh', 'noal Mersh', 'NAOL MiRsH'}, {'NAOL MORSH', 'nail mOrsh', 'naul MErsh'}, {'nnil morsh', 'NIHL mIRSH', 'nili Morsh'}, {'nual miRsh', 'NNIL MIRsH', 'nuil morsh'}, {'neul morsh', 'NEli MORSh', 'nill MOrsh'}, {'NEHL mIRSH', 'niel mirSh', 'neal mirsh'}, {'nilu Mursh', 'niil mOrsh', 'NEOL MiRsH'}, {'neal mersh', 'NIIL mIRSH', 'naul mirsH'}, {'NEli MIrSH', 'null morsH', 'nuil mirsh'}, {'NEOL miRSH', 'nill mOrSh', 'nell mersh'}, {'neol mersh', 'nahl MOrsh', 'NEle MoRSH'}, {'niil mursh', 'naal MOrsh', 'NEOL MERSh'}, {'NEle MIrSH', 'noil mIrsh', 'nilo Morsh'}, {'nuel Mursh', 'nuil mursh', 'NEAL mORSH'}, {'nual mirSh', 'neal mirsh', 'NEUL MURSh'}, {'neol mIrsh', 'NIOL mORSH', 'nihl morsH'}, {'nual mIRsh', 'NNIL MiRSH', 'noil mersh'}, {'NAOL MIrSH', 'neol mursh', 'nile Mursh'}, {'NAIL miRSH', 'nela Mirsh', 'nell mersh'}, {'nuel mIrSh', 'neel mOrsh', 'NELI MIrSH'}, {'nnil mOrsh', 'NIOL MiRSH', 'niel moRsh'}, {'nnol MUrsh', 'nnil mOrsh', 'NIIL miRSH'}, {'nila mirSh', 'NAOL MoRSH', 'noil mersh'}, {'noil mursh', 'niul moRsh', 'NEAL MIrSH'}, {'niel mIRsh', 'NNIL MORSh', 'neol mursh'}, {'nell morsh', 'NIHL mIRSH', 'nool morsH'}, {'NUIL mIRSH', 'nuul mIrsH', 'neul morsh'}, {'NEEL MERSH', 'nehl mOrsh', 'naal Mirsh'}, {'nail mIrsh', 'nawl morsH', 'NIIL mORSH'}, {'neal mursh', 'nela miRsh', 'NUIL MURSh'}, {'nuil mersh', 'NIHL MORsH', 'nuhl MOrsh'}, {'nall MErsh', 'NNIL MiRSh', 'nuil mIrsh'}, {'nnil mirsh', 'nilu Mersh', 'NELi miRSH'}, {'nelo Mirsh', 'NEOL MORSH', 'neel mirsh'}, {'NEEL MORSH', 'nall MIrsh', 'nnil mursh'}, {'nuol moRsh', 'neol morsh', 'NAIL MiRSH'}, {'nile Mersh', 'NELI MiRSH', 'neol mOrsh'}, {'NEEL MOrSH', 'null Mursh', 'nnil mursh'}, {'NEli MORsH', 'noil mIrsh', 'niul miRsh'}, {'nnal miRsh', 'NEHL MIRSH', 'nnil mursh'}, {'nail mIrsh', 'NOIL MiRSH', 'nnul miRsh'}, {'NNIL MIRSH', 'neal mIrsh', 'niul mIrSh'}, {'NEAL MiRSh', 'nelu MIrsh', 'neel mursh'}, {'NEli mORSH', 'nell mIrsh', 'neli mirSh'}, {'NELi MiRSh', 'nuil mIrsh', 'nile MIrsh'}, {'NNIL MORSh', 'nuil mersh', 'niul mIrSh'}, {'nela mirSh', 'noil morsh', 'NEHL MURSH'}, {'nael Mirsh', 'neel mOrsh', 'NAUL MERSh'}, {'NIIL MORsH', 'nehl mOrsh', 'nnul mirSh'}, {'niel mirsH', 'NEle mIRSH', 'nell mursh'}, {'null morsH', 'NELe MOrSH', 'niil mirsh'}, {'nile mIrsH', 'NAIL MiRsH', 'neul morsh'}, {'nuhl Mirsh', 'nell mIrsh', 'NEAL MERSh'}, {'NELi MURSH', 'nawl mIrsH', 'nuil mersh'}, {'NEUL MIRSH', 'neol mIrsh', 'nnol mIrSh'}, {'neal mursh', 'NEOL MERSH', 'nnol MUrsh'}, {'nilo mIrsH', 'nell mOrsh', 'NELi MiRSh'}, {'naol MOrsh', 'NUIL MORsH', 'nuil mursh'}, {'niil mersh', 'nela Mursh', 'NEle MOrSH'}, {'neul mursh', 'niel mirsH', 'NAOL MERSh'}, {'noil morsh', 'NIOL MiRsH', 'nili morSh'}, {'niol mIRsh', 'neal mIrsh', 'NELL mIRSH'}, {'neal mOrsh', 'NELI MORSH', 'nahl Morsh'}, {'naol Mersh', 'nail mersh', 'NIIL miRSH'}, {'NEUL MiRsH', 'nial moRsh', 'neol mursh'}, {'neul morsh', 'NEle MIRSH', 'nnel mIrSh'}, {'niel miRsh', 'niil mOrsh', 'NEli MiRSH'}, {'noil morsh', 'naol Mursh', 'NEOL MoRSH'}, {'NAUL MirSH', 'nell mOrsh', 'noll MUrsh'}, {'NELe MORSh', 'nuil mirsh', 'nael MUrsh'}, {'NOIL MORSh', 'nall morsH', 'neel mursh'}, {'neol mersh', 'nnol MIrsh', 'NEHL MERSh'}, {'NIIL MoRSH', 'nnil mersh', 'nool mOrSh'}, {'nihl MIrsh', 'nail mursh', 'NELL mORSH'}, {'NEUL MORSH', 'neal mirsh', 'nohl mOrSh'}, {'NIHL MORSh', 'nahl mOrsH', 'neol mursh'}, {'neal mursh', 'NEle MURSh', 'nnol Mursh'}, {'neul mirsh', 'nnal mirSh', 'NNIL MIRSh'}, {'naal mORsh', 'NELe MIRsH', 'nuil mOrsh'}, {'noil morsh', 'nill Mirsh', 'NIIL MIRsH'}, {'noul MOrsh', 'NEOL MURSH', 'nell mursh'}, {'NELe MURSH', 'neul morsh', 'nual moRsh'}, {'neal mersh', 'NIOL MORsH', 'nnol mirsH'}, {'NUIL MIrSH', 'neal mirsh', 'nall moRsh'}, {'noll mOrSh', 'niil mersh', 'NIOL MiRsH'}, {'nihl mIRsh', 'neol mOrsh', 'NEAL mORSH'}, {'nnil mersh', 'NUIL MIRSH', 'null mirsH'}, {'NELL miRSH', 'neel mersh', 'nuel mIRsh'}, {'nehl morsh', 'naul moRsh', 'NELi MURSh'}, {'nnil mersh', 'NIHL MERSh', 'nnul mOrSh'}, {'noil morsh', 'NNIL miRSH', 'nnel mirSh'}, {'nial Mursh', 'neol mOrsh', 'NEli miRSH'}, {'nile morSh', 'NOIL MORSh', 'niil mOrsh'}, {'nell morsh', 'nila Mersh', 'NUIL MiRSH'}, {'nile mirsH', 'NELi MURSh', 'niil morsh'}, {'neul mirsh', 'nila mirsH', 'NAOL miRSH'}, {'noal mORsh', 'NAOL MoRSH', 'nehl mersh'}, {'NEHL MirSH', 'nool Mursh', 'nail mOrsh'}, {'nual Mursh', 'nnil mirsh', 'NIIL mORSH'}, {'nial Mirsh', 'NEUL MERSH', 'nell mursh'}, {'NELI MIRSh', 'nnel MIrsh', 'neol morsh'}, {'noul MOrsh', 'NAIL mORSH', 'neal mirsh'}, {'nnil mersh', 'nool moRsh', 'NEUL mORSH'}, {'NEUL MiRSH', 'nawl miRsh', 'neol mursh'}, {'nahl MErsh', 'NEOL MORSH', 'nnil mursh'}, {'nool mirsH', 'nehl morsh', 'NEAL MiRSh'}, {'nelu mORsh', 'niil mursh', 'NIOL MoRSH'}, {'NAIL mIRSH', 'nnil mersh', 'nnel mOrsH'}, {'NELi MURSH', 'nell mirsh', 'nuhl mirSh'}, {'NAUL MOrSH', 'nnil mOrsh', 'nilo moRsh'}, {'NEle mORSH', 'nail mirsh', 'naul Mirsh'}, {'NEHL mIRSH', 'nnal Mirsh', 'neul mIrsh'}, {'nilu mORsh', 'nail mursh', 'NEUL MirSH'}, {'nnel Morsh', 'noil mOrsh', 'NELI MiRsH'}, {'naol moRsh', 'neol mIrsh', 'NEEL MIrSH'}, {'NIHL MiRsH', 'neol mirsh', 'nawl MUrsh'}, {'nall Morsh', 'NAUL MirSH', 'neel mersh'}, {'noel moRsh', 'NOIL MiRsH', 'neol mursh'}, {'noil mIrsh', 'nela Mursh', 'NELL MIRSH'}, {'NAOL MURSh', 'neol mirsh', 'nuul Morsh'}, {'NEHL mIRSH', 'nehl mIrsh', 'nelu Mersh'}, {'neel mIrsh', 'nuol mOrSh', 'NEUL MERSH'}, {'NEli MURSH', 'nial mIRsh', 'niil mersh'}, {'NAOL MiRSH', 'nili mirSh', 'nehl mersh'}, {'NAOL mORSH', 'nail mOrsh', 'nill mOrsH'}, {'nawl Mersh', 'noil mersh', 'NEle MIRSH'}, {'neul mOrsh', 'NELL MoRSH', 'nela morsH'}, {'niol mirsH', 'neol mIrsh', 'NEHL MiRSH'}, {'nahl Mersh', 'NELe MIRSh', 'neel mOrsh'}, {'naal MIrsh', 'niil mersh', 'NEUL MIRsH'}, {'neli Morsh', 'nehl mersh', 'NEle MirSH'}, {'noil morsh', 'neli mOrsH', 'NIIL mORSH'}, {'niil mersh', 'nelu Morsh', 'NELI MIrSH'}, {'NIOL MiRSh', 'niel MIrsh', 'neul morsh'}, {'NIIL MiRSh', 'nail mursh', 'nuhl Mursh'}, {'NAIL mORSH', 'nehl mOrsh', 'niel Mirsh'}, {'nnil morsh', 'NELe MORSh', 'niol mIrSh'}, {'neul mersh', 'nela mORsh', 'NOIL mORSH'}, {'nnul mIrsH', 'NELe mORSH', 'niil mIrsh'}, {'neul mirsh', 'nuhl Morsh', 'NELI MIrSH'}, {'nile moRsh', 'niil mersh', 'NEUL MORsH'}, {'nuhl MOrsh', 'NEHL MiRSh', 'neul morsh'}, {'nahl morsH', 'neol mirsh', 'NOIL MURSH'}, {'neli Mursh', 'neel mersh', 'NEHL MORSH'}, {'nahl mIrsH', 'nuil mursh', 'NEUL MERSH'}, {'NELL MIRSh', 'nuol Mursh', 'noil mOrsh'}, {'nehl morsh', 'nnol Mursh', 'NEEL MoRSH'}, {'niul MUrsh', 'nehl mersh', 'NELL MOrSH'}, {'nihl Mirsh', 'nuil mursh', 'NELe mORSH'}, {'niul MOrsh', 'NELi MiRsH', 'neul mOrsh'}, {'niil mersh', 'NIHL mIRSH', 'nihl mIRsh'}, {'NEUL MORSh', 'nnal MUrsh', 'nuil mersh'}, {'nela mIrsH', 'nehl mersh', 'NELi mORSH'}, {'nell mOrsh', 'NAIL MIRSh', 'noal mIrsH'}, {'nehl mOrsh', 'NEEL MIRSH', 'nnol Mirsh'}, {'noil mursh', 'nuol MOrsh', 'NAOL MIRSH'}, {'nohl Mirsh', 'NELL MIrSH', 'neul morsh'}, {'nual mirSh', 'neal mOrsh', 'NEEL MoRSH'}, {'niul MOrsh', 'NELi MirSH', 'neel mersh'}, {'nnil mOrsh', 'NELe MoRSH', 'naul mIRsh'}, {'noul mirSh', 'nnil mOrsh', 'NEli mIRSH'}, {'neul mirsh', 'NIHL mIRSH', 'noul Mirsh'}, {'nnil mIrsh', 'naul Mersh', 'NEOL MiRsH'}, {'neul mersh', 'naol mORsh', 'NEli MiRSH'}, {'niul Mersh', 'nehl mursh', 'NAUL MIRSH'}, {'NOIL MiRSh', 'naul mirsH', 'neal mIrsh'}, {'neul mursh', 'niol Morsh', 'NELI MiRSH'}, {'NIHL MIRsH', 'neal mOrsh', 'nnel mirSh'}, {'nael mORsh', 'NIHL mORSH', 'nell mIrsh'}, {'NUIL MiRSh', 'noel mIRsh', 'neol mIrsh'}, {'niol mIrsH', 'NEUL MORsH', 'nnil mursh'}, {'naol morSh', 'nnil mirsh', 'NELe mORSH'}, {'nili Mersh', 'niil mOrsh', 'NELi mORSH'}, {'NOIL MiRSh', 'nail mersh', 'nele moRsh'}, {'neul mursh', 'NUIL miRSH', 'nihl MIrsh'}, {'NOIL MiRsH', 'neal mIrsh', 'naol miRsh'}, {'nuil mursh', 'NELe MirSH', 'nnal MOrsh'}, {'NIOL MiRSh', 'nahl mIRsh', 'neul mIrsh'}, {'neli Mursh', 'neel mOrsh', 'NELi MORsH'}, {'NIHL MIrSH', 'neal morsh', 'nilo Mirsh'}, {'nool mIRsh', 'NEli MORSH', 'nuil morsh'}, {'naol mORsh', 'nail morsh', 'NAOL MirSH'}, {'NEUL MORSH', 'noil mersh', 'nuul morsH'}, {'nool morSh', 'neul mersh', 'NELe MURSH'}, {'noil mirsh', 'NEUL mORSH', 'nilu MIrsh'}, {'NEUL mORSH', 'noil mursh', 'noll mirsH'}, {'nnul MOrsh', 'NIHL MERSh', 'niil mIrsh'}, {'noil morsh', 'nile Mersh', 'NNIL MORsH'}, {'NUIL miRSH', 'nilu MOrsh', 'nehl mursh'}, {'nual mORsh', 'NAIL MORSh', 'nnil mursh'}, {'NELe MURSh', 'neel mirsh', 'nool mIrSh'}, {'NIOL MURSH', 'nial mIRsh', 'noil mersh'}, {'nehl mirsh', 'nile morSh', 'NEUL MIRsH'}, {'NEle MIRsH', 'nelu miRsh', 'neal mIrsh'}, {'neul mOrsh', 'NEHL miRSH', 'nnul mirSh'}, {'nehl mirsh', 'NIHL MiRSh', 'nall miRsh'}, {'nehl morsh', 'nuul mirsH', 'NEEL MiRSh'}, {'neli MOrsh', 'NELL MORSH', 'nnil mursh'}, {'naol MOrsh', 'NAIL MiRSh', 'neol mursh'}, {'noal mORsh', 'NIOL MERSh', 'niil morsh'}, {'naul MOrsh', 'NAUL MORsH', 'noil morsh'}, {'naul Mersh', 'NOIL mIRSH', 'noil mOrsh'}, {'neul mirsh', 'nelu mOrsH', 'NEHL MIRSh'}, {'nnel Morsh', 'nail mersh', 'NEle mORSH'}, {'neal mursh', 'NNIL MIRsH', 'niul Mirsh'}, {'nuil mIrsh', 'nuol mirsH', 'NELI MORsH'}, {'NEle MORsH', 'noil mursh', 'noel Mirsh'}, {'nele morSh', 'nehl mOrsh', 'NEUL MiRSh'}, {'naul Mursh', 'NNIL MIrSH', 'neol mOrsh'}, {'NIOL MIrSH', 'nell mursh', 'noll Mersh'}, {'nell mirsh', 'NEli MIrSH', 'nila mIrSh'}, {'neel morsh', 'NIOL MORSH', 'naol miRsh'}, {'NIHL mORSH', 'nuil mirsh', 'null mOrsH'}, {'NIHL MoRSH', 'nuil mursh', 'naal morsH'}, {'nell mirsh', 'noal Mersh', 'NIHL MOrSH'}, {'nuel Mirsh', 'neel mirsh', 'NEle MERSh'}, {'nnil mersh', 'NOIL mIRSH', 'nilo MUrsh'}, {'nail morsh', 'noll moRsh', 'NELI MIrSH'}, {'nell mirsh', 'noal morSh', 'NIOL MiRSh'}, {'nnil mersh', 'noal mirSh', 'NIOL MIRSH'}, {'nael Mirsh', 'NAUL MiRSH', 'nell mersh'}, {'NEAL MIRsH', 'niil mersh', 'neli MErsh'}, {'naal mirsH', 'nell mursh', 'NAUL mORSH'}, {'NIOL MiRSh', 'nuil mersh', 'noll MUrsh'}, {'nelu morSh', 'NEAL MURSh', 'nail mOrsh'}, {'naul MUrsh', 'NEli MirSH', 'neel mersh'}, {'NAIL MIRSH', 'neul mIrsh', 'nuol mirSh'}, {'NEEL MERSh', 'nail mIrsh', 'nael MUrsh'}, {'nuol mIrSh', 'NEli MIrSH', 'niil mOrsh'}, {'nool Mursh', 'nuil mIrsh', 'NEAL MirSH'}, {'neli Mersh', 'neul mOrsh', 'NEAL mORSH'}, {'nail mirsh', 'niol Mirsh', 'NEEL mORSH'}, {'nehl mIrsh', 'nnul MIrsh', 'NEle MOrSH'}, {'noil mirsh', 'NEEL MERSh', 'nuol miRsh'}, {'niel miRsh', 'nehl mOrsh', 'NOIL MIRSH'}, {'NEle MORsH', 'nool morSh', 'nehl mIrsh'}, {'nnel mIRsh', 'NEEL MIRSh', 'niil morsh'}, {'niel mOrSh', 'noil mIrsh', 'NELi MERSH'}, {'nual MErsh', 'niil mOrsh', 'NAOL MIRSh'}, {'NELL MiRSh', 'nuil mIrsh', 'nahl moRsh'}, {'nall MOrsh', 'neul morsh', 'NELI MIRSh'}, {'neal mersh', 'noul mirsH', 'NEHL MORSH'}, {'NELI MURSh', 'niil mursh', 'nihl morSh'}, {'noil mursh', 'nnul MOrsh', 'NELL MOrSH'}, {'nehl mursh', 'NEAL MORSH', 'nuel mIrsH'}, {'NEUL MURSH', 'neul morsh', 'nile mORsh'}, {'noil mirsh', 'nnul mORsh', 'NIHL MiRSh'}, {'nehl mirsh', 'nael Mirsh', 'NAOL mORSH'}, {'NAUL mIRSH', 'niol MUrsh', 'noil mOrsh'}, {'neol mersh', 'nnol Mersh', 'NEEL MERSH'}, {'NEli MURSH', 'nnil mersh', 'nela mORsh'}, {'neol mIrsh', 'nili Mursh', 'NEAL MIRSh'}, {'neal mOrsh', 'NEli mIRSH', 'nnol mORsh'}, {'nnal MUrsh', 'nehl mIrsh', 'NEli MoRSH'}, {'naul MOrsh', 'NAIL MirSH', 'niil mOrsh'}, {'NOIL MIRSH', 'nnol miRsh', 'neol mOrsh'}, {'nual Mursh', 'NEle miRSH', 'nuil mOrsh'}, {'nell mOrsh', 'NEOL mORSH', 'nnol mirsH'}, {'niul MOrsh', 'nail mIrsh', 'NIOL MORSh'}, {'noil morsh', 'neli mIrsH', 'NAIL MiRSH'}, {'null moRsh', 'nuil mirsh', 'NEOL MOrSH'}, {'niol mirSh', 'NUIL MIrSH', 'neel mOrsh'}, {'NEOL MirSH', 'neli mOrsH', 'neol mursh'}, {'neol mIrsh', 'nahl mOrsH', 'NIHL MORsH'}, {'nehl mirsh', 'NELe MURSh', 'noll mOrSh'}, {'NAIL MERSh', 'nill mOrSh', 'neel mOrsh'}, {'neal mursh', 'nuhl MOrsh', 'NEli miRSH'}, {'nnol mOrsH', 'noil mersh', 'NEOL mIRSH'}, {'NEle MiRsH', 'neel morsh', 'nual mORsh'}, {'NELi MiRsH', 'neal morsh', 'nuul mirSh'}, {'neal mOrsh', 'NELI MORSH', 'noul Mirsh'}, {'nell mirsh', 'NUIL MIRSh', 'niol morSh'}, {'nilu mORsh', 'NELi MirSH', 'neul mIrsh'}, {'nele morSh', 'NEle MIrSH', 'nail mersh'}, {'neul mursh', 'nili morsH', 'NEEL MURSh'}, {'noil mursh', 'nohl mIrsH', 'NEAL MIRSh'}, {'niol morsH', 'nuil mursh', 'NELi MIRsH'}, {'naal Morsh', 'nail morsh', 'NEHL miRSH'}, {'nell mOrsh', 'nuhl MIrsh', 'NEUL MiRSH'}, {'NAOL MURSH', 'nnel Mursh', 'nnil mursh'}, {'NIIL MiRsH', 'nial mOrSh', 'nnil mursh'}, {'nilo miRsh', 'neol mIrsh', 'NELI MORSH'}]
+neil marsh          : DEBUG: Additional rule variations: {'niL maRsH'}
+neil marsh          : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 4
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "neil marsh": {
+            "first_name": {
+                "score": 0.9848851582501288,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.9833333333333334
+                    },
+                    "count": {
+                        "actual": 3,
+                        "expected": 3.9200000000000004,
+                        "score": 0.9659010550008585
+                    },
+                    "uniqueness": {
+                        "unique_count": 3,
+                        "total_count": 3,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "nuil",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "nilu",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "NUIL",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.9848851582501288,
+            "final_score": 0.9879081266001031,
+            "variation_count": 4,
+            "non_rule_compliant_variations_count": 3,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.9848851582501288,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.9833333333333334
+                    },
+                    "count": {
+                        "actual": 3,
+                        "expected": 3.9200000000000004,
+                        "score": 0.9659010550008585
+                    },
+                    "uniqueness": {
+                        "unique_count": 3,
+                        "total_count": 3,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "mersh",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "mirsH",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "miRSH",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_random_vowel": [
+                            "niL maRsH"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "niL maRsH": [
+                            "remove_random_vowel"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.25,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "neil marsh": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_random_vowel": [
+                            "niL maRsH"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "niL maRsH": [
+                            "remove_random_vowel"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.25,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.9879081266001031,
+    "final_reward": 0.9879081266001031
+}
+neil marsh          : DEBUG: ----------------------------------------------------------------------------------------------------

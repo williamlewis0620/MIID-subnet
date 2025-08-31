@@ -1,0 +1,1672 @@
+craig green         : INFO: Generating variations for craig green
+craig green         : INFO: ----------------------------------------------------------------------------------------------------
+craig green         : INFO: Effective rules: ['initial_only_first_name', 'swap_random_letter']
+craig green         : INFO: ----------------------------------------------------------------------------------------------------
+craig green         : INFO: Min Required Rule Variation Set: [{'c.gREEN', 'C. GREeN', 'C.greEn', 'C. gReen', 'C.gREEn', 'c.greeN', 'C.gReEn', 'C.GReEn', 'c. GReen', 'C. gReEn', 'C.GReEN', 'c.green', 'c. gReEN', 'c.GreEn', 'c.gReEn', 'c. gReen', 'C. GReEN', 'c.Green', 'C.GReeN', 'c.GrEeN', 'C.GREEN', 'c. green', 'c. greEn', 'C. GrEEN', 'c.GREEn', 'c.GreeN', 'C. GReeN', 'C. GrEen', 'C. gReEN', 'C. gReeN', 'c. GrEEN', 'c. GrEen', 'C. gREEN', 'C. gREEn', 'c. grEEn', 'c.GREEN', 'C.gREen', 'C. GREen', 'C.grEEn', 'C. gREeN', 'c. grEeN', 'c.gREeN', 'C. GReEn', 'c. GReEN', 'c.GReen', 'C. grEen', 'c. GreEn', 'C. GrEEn', 'c. gReeN', 'c.GReEn', 'C.GREeN', 'C. GREEn', 'C.grEen', 'c.greEN', 'C.GREEn', 'c. GreeN', 'C.GreEn', 'c. GrEEn', 'c.GReeN', 'c. greeN', 'C. GreEN', 'c. GReEn', 'c. grEEN', 'C.gReen', 'C.grEeN', 'C.GrEEn', 'c. gREEn', 'c. GreEN', 'c.grEeN', 'C.Green', 'C.GREen', 'C.gReEN', 'C. Green', 'c.greEn', 'C.gREEN', 'C. greEn', 'c.grEEN', 'C.gREeN', 'c.GReEN', 'C. green', 'C.grEEN', 'c.GrEEn', 'c. GREeN', 'c. gREEN', 'c.GrEen', 'c.grEEn', 'C. GREEN', 'C.GreEN', 'c. gReEn', 'C.gReeN', 'c.GREen', 'c.gREEn', 'c. gREen', 'C.GrEen', 'C.GrEeN', 'c. GrEeN', 'c.gReeN', 'C.GrEEN', 'C. GreeN', 'c.gREen'}, {'criag green', 'craig grene', 'craig geren', 'craigg reen', 'rcaig green', 'crai ggreen', 'cragi green', 'craig rgeen', 'carig green'}]
+craig green         : INFO: ----------------------------------------------------------------------------------------------------
+craig green         : INFO: First name: craig
+craig green         : INFO: Last name: green
+craig green         : INFO: ----------------------------------------------------------------------------------------------------
+craig green         : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (0, 7), (1, 6), (0, 8), (1, 7), (0, 9), (1, 8), (0, 10), (1, 9)]
+craig green         : INFO: ------------------------------Trying rule_count_pair 1 / 14: rule_count/nonrule_count: 0/1------------------------------
+craig green         : DEBUG: O: [0, 0, 0, 1]
+craig green         : DEBUG: P: [0, 0, 0, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [0, 0, 0, 1]
+craig green         : DEBUG: P: [0, 0, 0, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.26575294]
+craig green         : INFO: ------------------------------Trying rule_count_pair 2 / 14: rule_count/nonrule_count: 0/2------------------------------
+craig green         : DEBUG: O: [0, 0, 0, 2]
+craig green         : DEBUG: P: [0, 1, 0, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [0, 0, 0, 2]
+craig green         : DEBUG: P: [0, 1, 0, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.28018345]
+craig green         : INFO: ------------------------------Trying rule_count_pair 3 / 14: rule_count/nonrule_count: 0/3------------------------------
+craig green         : DEBUG: O: [0, 1, 0, 2]
+craig green         : DEBUG: P: [0, 1, 0, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [2]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [0, 1, 0, 2]
+craig green         : DEBUG: P: [0, 1, 0, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [2]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.34624826]
+craig green         : INFO: ------------------------------Trying rule_count_pair 4 / 14: rule_count/nonrule_count: 0/4------------------------------
+craig green         : DEBUG: O: [1, 1, 1, 1]
+craig green         : DEBUG: P: [0, 2, 0, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [1, 1, 1, 1]
+craig green         : DEBUG: P: [0, 2, 0, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.55324051]
+craig green         : INFO: ------------------------------Trying rule_count_pair 5 / 14: rule_count/nonrule_count: 0/5------------------------------
+craig green         : DEBUG: O: [1, 2, 1, 1]
+craig green         : DEBUG: P: [1, 3, 1, 0]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [1, 2, 1, 1]
+craig green         : DEBUG: P: [1, 3, 1, 0]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.5552]
+craig green         : INFO: ------------------------------Trying rule_count_pair 6 / 14: rule_count/nonrule_count: 0/6------------------------------
+craig green         : DEBUG: O: [1, 2, 1, 2]
+craig green         : DEBUG: P: [1, 3, 1, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [1, 2, 1, 2]
+craig green         : DEBUG: P: [1, 3, 1, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.552]
+craig green         : INFO: ------------------------------Trying rule_count_pair 7 / 14: rule_count/nonrule_count: 0/7------------------------------
+craig green         : DEBUG: O: [2, 2, 2, 1]
+craig green         : DEBUG: P: [1, 4, 1, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [2, 2, 2, 1]
+craig green         : DEBUG: P: [1, 4, 1, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.53591685]
+craig green         : INFO: ------------------------------Trying rule_count_pair 8 / 14: rule_count/nonrule_count: 1/6------------------------------
+craig green         : DEBUG: O: [1, 2, 1, 2]
+craig green         : DEBUG: P: [1, 3, 1, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [1, 2, 1, 2]
+craig green         : DEBUG: P: [1, 3, 1, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.652]
+craig green         : INFO: ------------------------------Trying rule_count_pair 9 / 14: rule_count/nonrule_count: 0/8------------------------------
+craig green         : DEBUG: O: [2, 3, 2, 1]
+craig green         : DEBUG: P: [1, 4, 1, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [3, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [2, 3, 2, 1]
+craig green         : DEBUG: P: [1, 4, 1, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [3, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.51846636]
+craig green         : INFO: ------------------------------Trying rule_count_pair 10 / 14: rule_count/nonrule_count: 1/7------------------------------
+craig green         : DEBUG: O: [2, 2, 2, 1]
+craig green         : DEBUG: P: [1, 4, 1, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [2, 2, 2, 1]
+craig green         : DEBUG: P: [1, 4, 1, 1]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.63591685]
+craig green         : INFO: ------------------------------Trying rule_count_pair 11 / 14: rule_count/nonrule_count: 0/9------------------------------
+craig green         : DEBUG: O: [2, 3, 2, 2]
+craig green         : DEBUG: P: [1, 5, 1, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 3, 1, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [3, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [2]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [2, 3, 2, 2]
+craig green         : DEBUG: P: [1, 5, 1, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 3, 1, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [3, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [2]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.50147164]
+craig green         : INFO: ------------------------------Trying rule_count_pair 12 / 14: rule_count/nonrule_count: 1/8------------------------------
+craig green         : DEBUG: O: [2, 3, 2, 1]
+craig green         : DEBUG: P: [1, 4, 1, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [3, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [2, 3, 2, 1]
+craig green         : DEBUG: P: [1, 4, 1, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [3, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.61846636]
+craig green         : INFO: ------------------------------Trying rule_count_pair 13 / 14: rule_count/nonrule_count: 0/10------------------------------
+craig green         : DEBUG: O: [3, 4, 3, 0]
+craig green         : DEBUG: P: [2, 6, 2, 0]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 4, 1, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [4, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [2]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [3, 4, 3, 0]
+craig green         : DEBUG: P: [2, 6, 2, 0]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 4, 1, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [4, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [2, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [2]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.49478217]
+craig green         : INFO: ------------------------------Trying rule_count_pair 14 / 14: rule_count/nonrule_count: 1/9------------------------------
+craig green         : DEBUG: O: [2, 3, 2, 2]
+craig green         : DEBUG: P: [1, 5, 1, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 3, 1, 0]
+craig green         : DEBUG: [3, 2, 2]
+craig green         : DEBUG: [91, 26, 20]
+craig green         : DEBUG: [475, 40, 53]
+craig green         : DEBUG: [279, 20, 65]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [3, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [12, 4, 0]
+craig green         : DEBUG: [319, 39, 8]
+craig green         : DEBUG: [500, 444, 30]
+craig green         : DEBUG: [500, 500, 41]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [13]
+craig green         : DEBUG: [52]
+craig green         : DEBUG: [62]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+craig green         : DEBUG: [46]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [2]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: craig, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+craig green         : DEBUG: name: craig, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: craig, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: O: [2, 3, 2, 2]
+craig green         : DEBUG: P: [1, 5, 1, 2]
+craig green         : WARNING: Remains: 0
+craig green         : DEBUG: p_level: 1, O: [1, 3, 1, 0]
+craig green         : DEBUG: [2, 3, 0]
+craig green         : DEBUG: [32, 29, 0]
+craig green         : DEBUG: [139, 72, 0]
+craig green         : DEBUG: [30, 20, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [3, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+craig green         : DEBUG: [2, 6, 0]
+craig green         : DEBUG: [60, 41, 0]
+craig green         : DEBUG: [441, 240, 0]
+craig green         : DEBUG: [430, 500, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: [1, 0, 0]
+craig green         : DEBUG: [0, 0, 0]
+craig green         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+craig green         : DEBUG: [11]
+craig green         : DEBUG: [34]
+craig green         : DEBUG: [24]
+craig green         : DEBUG: [20]
+craig green         : DEBUG: [1]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+craig green         : DEBUG: [40]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [500]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [0]
+craig green         : DEBUG: [2]
+craig green         : DEBUG: final:
+craig green         : DEBUG: name: green, l_level: 0
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+craig green         : DEBUG: name: green, l_level: 1
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: name: green, l_level: 2
+craig green         : DEBUG: --------------------------------------------------
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+craig green         : DEBUG: scores: [0.60147164]
+craig green         : DEBUG: ----------------------------------------------------------------------------------------------------
+craig green         : DEBUG: Best score achieved: 0.6519999999999999
+craig green         : DEBUG: Best selected: 1/6
+craig green         : DEBUG: Rule variations: [{'c.gREEN', 'C. GREeN', 'C.greEn', 'C. gReen', 'C.gREEn', 'c.greeN', 'C.gReEn', 'C.GReEn', 'c. GReen', 'C. gReEn', 'C.GReEN', 'c.green', 'c. gReEN', 'c.GreEn', 'c.gReEn', 'c. gReen', 'C. GReEN', 'c.Green', 'C.GReeN', 'c.GrEeN', 'C.GREEN', 'c. green', 'c. greEn', 'C. GrEEN', 'c.GREEn', 'c.GreeN', 'C. GReeN', 'C. GrEen', 'C. gReEN', 'C. gReeN', 'c. GrEEN', 'c. GrEen', 'C. gREEN', 'C. gREEn', 'c. grEEn', 'c.GREEN', 'C.gREen', 'C. GREen', 'C.grEEn', 'C. gREeN', 'c. grEeN', 'c.gREeN', 'C. GReEn', 'c. GReEN', 'c.GReen', 'C. grEen', 'c. GreEn', 'C. GrEEn', 'c. gReeN', 'c.GReEn', 'C.GREeN', 'C. GREEn', 'C.grEen', 'c.greEN', 'C.GREEn', 'c. GreeN', 'C.GreEn', 'c. GrEEn', 'c.GReeN', 'c. greeN', 'C. GreEN', 'c. GReEn', 'c. grEEN', 'C.gReen', 'C.grEeN', 'C.GrEEn', 'c. gREEn', 'c. GreEN', 'c.grEeN', 'C.Green', 'C.GREen', 'C.gReEN', 'C. Green', 'c.greEn', 'C.gREEN', 'C. greEn', 'c.grEEN', 'C.gREeN', 'c.GReEN', 'C. green', 'C.grEEN', 'c.GrEEn', 'c. GREeN', 'c. gREEN', 'c.GrEen', 'c.grEEn', 'C. GREEN', 'C.GreEN', 'c. gReEn', 'C.gReeN', 'c.GREen', 'c.gREEn', 'c. gREen', 'C.GrEen', 'C.GrEeN', 'c. GrEeN', 'c.gReeN', 'C.GrEEN', 'C. GreeN', 'c.gREen'}]
+craig green         : DEBUG: Nonrule variations: [{'crcwy garyn', 'cyirs gurom', 'xrhys qynee', 'creig grean', 'crcai greny', 'crake grnei'}, {'cryyk grnww', 'crahg gruen', 'cruwg grenw', 'criic grneh', 'cwhrk girni', 'yariq xyene'}, {'crawg greun', 'corag gruwn', 'crqia grnee', 'coyrs gkrmu', 'crohc grnow', 'yhiag jerem'}, {'ckwrg gwyrn', 'craeg greon', 'crygg grayn', 'cerhq gzrom', 'crywg grnei', 'acirg werin'}, {'crqai grywn', 'crewg garen', 'craiq grean', 'crqew gurnn', 'qargi zerin', 'cirhq garym'}, {'ceryz girmm', 'craoc grryn', 'cuarg griwn', 'jarug qhnee', 'cruki guron', 'craug greon'}, {'cryqo granw', 'craak grnew', 'crywg grnee', 'caers gzurm', 'craug grenn', 'yrhgi zwhew'}, {'jriaw jerne', 'crahc gruwn', 'cerge gxarm', 'crqai grnee', 'crawg groen', 'croyc grnne'}, {'crqee grnue', 'curag garen', 'jroci hyane', 'crqii goren', 'carzu ggrmi', 'craeg gruen'}, {'craug graen', 'cuurg grnnw', 'khiag xwrew', 'crigw grown', 'cyrec gehrm', 'criik gryyn'}, {'carzu gxarm', 'crcai guren', 'gariw ghwne', 'criic greny', 'crcaw grrna', 'cragg grein'}, {'crkih grenw', 'crocu gryna', 'hrogi zerem', 'cwurs gxrmi', 'cracw groyn', 'cruig gruen'}, {'chros gormm', 'cwhgi hyenh', 'crakk grneo', 'cryke goyrn', 'crrig grean', 'craki grnei'}, {'warwg kerem', 'criko guhrn', 'crahc grwyn', 'creig grren', 'curej gzrny', 'craek grayn'}, {'crwga gwryn', 'crqie grneo', 'craeg gruen', 'courj gcrmu', 'chias xeray', 'curag greny'}, {'croig grein', 'srogi gwyne', 'chrwx girni', 'craak gruwn', 'cracw garen', 'crrgw grnae'}, {'corez ghhrm', 'crrik grynn', 'crcay grnoa', 'creik gwren', 'jriaw yrwwm', 'cragg gruen'}, {'crrwg garen', 'craac gwren', 'crcww grwnw', 'crawg grehn', 'qarih geruw', 'cwrxa gjrrm'}, {'cracw grnei', 'cryka grrnu', 'swiag wrnae', 'ceres gqrwm', 'croic grenw', 'creig greun'}, {'crqqu gairn', 'cyroz germa', 'cwrig grney', 'yrhgi zhene', 'criig grren', 'crkai grayn'}, {'hrwgi geryw', 'cwrig grnew', 'corhc gyrnm', 'crkia grnei', 'cwrug gwrnn', 'craiq gruen'}, {'crrqi gryny', 'criik groyn', 'krhys yhene', 'craog gruen', 'cwres gxrmy', 'crayc gruyn'}, {'cuarg grynn', 'crkee gayrn', 'craka goern', 'cirws gxhrm', 'kriaj yywwn', 'creig greun'}, {'cragg greon', 'crqay grniu', 'craqw grneo', 'cryyg grayn', 'curus germa', 'jregi heron'}, {'cyrez gjorm', 'crqai grwnn', 'xariz cyene', 'crqie gwren', 'craug gruen', 'carac grnia'}, {'creyc goorn', 'cruwg griwn', 'yaric jrhne', 'craki goren', 'chrgo gyrrm', 'criig grean'}, {'crrig greon', 'kariy zeran', 'cyrgw gzrnw', 'crkii grney', 'croku gronw', 'crigw griyn'}, {'cryyg gryyn', 'crawg graen', 'cruyg gruwn', 'crqqa grwna', 'jroga ghhne', 'chruj ghrni'}, {'crcow gryni', 'ceryk ghrmm', 'zriaj kerhn', 'criig greun', 'corag grnei', 'cruwg gruwn'}, {'criig grehn', 'zrwgi xhene', 'crrwg garen', 'cirhq gwrym', 'crggw gwran', 'cracu grryn'}, {'craek grywn', 'craiq grean', 'crkee grnuy', 'carus gsrmo', 'craoc griyn', 'garih hynee'}, {'cryki gwrrn', 'crgai grenw', 'cirwk girmw', 'karij gwruw', 'crayk gaern', 'craiq grren'}, {'wrhgi geray', 'corgg grynu', 'craiq grein', 'cruic grnei', 'craqw garen', 'coirz gchrm'}, {'crawc grynn', 'cwrja girna', 'cragg greun', 'jorgi jerem', 'crqew grnna', 'croyg grywn'}, {'craec goren', 'corce gormw', 'xariz sereh', 'cruig groen', 'craok grnew', 'creco gorun'}, {'crqio grryn', 'cirux germo', 'cruqw grnuh', 'criig greon', 'wargi gywni', 'crayq gwren'}, {'crwyg grryn', 'ciurx gorym', 'jwagi gayne', 'caryg grrnw', 'crahg greun', 'crryg grnea'}, {'crcue gahrn', 'churj giorm', 'creic goren', 'carhw geriy', 'crahg grein', 'crkie griyn'}, {'cirgu giorm', 'crric garen', 'cruic greny', 'crrgw grnno', 'qarix xerun', 'craug greun'}, {'cragw grnee', 'crwgw grnuh', 'craag graen', 'cergo gyrmi', 'crauc grnew', 'kwiag zryne'}, {'crrig grehn', 'ceroz gcrnh', 'craco goern', 'yarug qrnhe', 'crkia gaern', 'crrec ggrne'}, {'craeg greon', 'cyrga gurma', 'craec grnee', 'crekk gawrn', 'crcai grneh', 'jriah kerem'}, {'croig grean', 'crguw grwno', 'carza gzrim', 'crwyg grywn', 'kyiag geruy', 'craqy goern'}, {'croqy grnay', 'cwurx germo', 'craoc gaern', 'craag grien', 'cairg grnei', 'jwiag xeray'}, {'craka grryn', 'cowrs gwrmm', 'craag graen', 'cwhgi gyywm', 'cruko gairn', 'crayq grywn'}, {'crkii grnei', 'cruwg gwren', 'curac gorne', 'crahg groen', 'yriak xrhah', 'carza garma'}, {'crrig grehn', 'caarc gorun', 'craoc grnei', 'crqiy grywn', 'kargi hhene', 'ceirz gkrum'}, {'cairg grnea', 'crric gruyn', 'xarog serwn', 'craiq graen', 'crcoa grnoo', 'cyrga gwrmw'}, {'chros gjarm', 'creig grein', 'crkoe goyrn', 'zrwxi xeron', 'crack grneh', 'crwgg grrwn'}, {'cwiaj hynee', 'craka grnee', 'cracu goren', 'carsu gurrm', 'croyk gorin', 'crahg greon'}, {'jroxi hyune', 'crawg greun', 'crkai grneo', 'crcow goran', 'cruic grnei', 'carhs gawrm'}, {'xrogi jyewm', 'criyg grown', 'crahc grayn', 'craeg groen', 'curyg grnau', 'cergy germy'}, {'croik goren', 'crrku grwno', 'warhg jerey', 'crwwg grenw', 'craog greon', 'ciroq garmi'}, {'crgai grenw', 'craog grenn', 'crawc guren', 'jarij yrwye', 'coreg grwne', 'cwyrx gzrnw'}, {'cruak guirn', 'ceirk gjrny', 'craog grren', 'crahk gruwn', 'zriac herun', 'creik grrwn'}, {'cruig greon', 'cwrik grnoa', 'kwagi gyowm', 'cwirc goarm', 'crghg garen', 'crakk griwn'}, {'criig graen', 'criic grrwn', 'carxe geram', 'croik grnea', 'criki garan', 'jhiag hywne'}, {'cryyg gruyn', 'creig greon', 'chrgy gsarm', 'crque gahrn', 'criyg griyn', 'qwiag qerey'}, {'carac guarn', 'sriay cehne', 'ciirz gshrm', 'cracu garen', 'crwyg guern', 'criig grien'}, {'crygu grnoy', 'crkai goren', 'chroc gurhm', 'craag grehn', 'ckarg groyn', 'jariw crhne'}, {'crrig greun', 'cwriq grniy', 'sargi zwiew', 'craok grrwn', 'croic guern', 'cirja girmo'}, {'crauk groyn', 'criqy gurun', 'criig greun', 'zrygi hyane', 'crkii grnee', 'corux gzrni'}, {'cywrs gsrrm', 'criwg grneu', 'crkey garwn', 'qregi jwwem', 'crako gruwn', 'craiq grien'}, {'crahg grehn', 'jruga yruny', 'carhk gkwrm', 'crqih guern', 'crkiw grnee', 'ckric grinw'}, {'crwgw grnua', 'ceruc gormo', 'jrwgi yrwww', 'craiq grren', 'creic grryn', 'criik grnea'}, {'cruwg griyn', 'sareg wrano', 'craca goren', 'crwqe grnnu', 'ceirk gurmu', 'crrig grren'}, {'caurj gkorm', 'craug graen', 'crawk goren', 'creic grenw', 'crgui gaarn', 'xarog yruye'}, {'cuirs garnm', 'croyg greny', 'crqiw grryn', 'croig grren', 'xareg xrhne', 'crgue gurun'}, {'zarih werew', 'cyrhx gyram', 'crggw gorne', 'criwg grrwn', 'craiq gruen', 'cwrig greny'}, {'corys gyrnh', 'yaric yurne', 'craeg grean', 'craoc grney', 'crake grayn', 'crrqi gurne'}, {'cracu griwn', 'crrig greun', 'crack gruyn', 'crcou grnny', 'wruga xheay', 'chrwk gzram'}, {'jrogi hyehe', 'criig graen', 'crwwg grryn', 'crkiu grenw', 'cirgo girny', 'criak ggrwn'}, {'crqie goern', 'crrwg garen', 'caroh gwwum', 'crycw grnny', 'craag grren', 'carju gcrmi'}, {'carhx gjrmh', 'crqqa grynu', 'craag groen', 'caryy gywih', 'curag gruwn', 'crrwg gruyn'}, {'curug grnni', 'sarij qrhne', 'ccrga ggrrm', 'crrwg grnew', 'crawg gruen', 'crkii grwyn'}, {'creqy gryni', 'craoc goren', 'crrig grenn', 'grhgi yruna', 'cyirq ghrym', 'criic grneu'}, {'yriah jrine', 'cuwrs geirm', 'crcah gorwn', 'crack gruwn', 'crqiy grywn', 'craug grien'}, {'coruj girnu', 'crrka grnia', 'craog grehn', 'jroga xerew', 'cairg grrwn', 'cwrig groyn'}, {'craku grynn', 'croig greun', 'crake grwnn', 'crrqy grnie', 'coruj gormo', 'gregi chehe'}, {'craqy goern', 'criig graen', 'crkoa grnoe', 'craka guern', 'corus girmi', 'yarih jeron'}, {'craog greun', 'kargi cheye', 'creky grnio', 'crqiu grwwn', 'chrwq gcrmw', 'crrik grnei'}, {'crrig grehn', 'ciruq ghwrm', 'crkio grnei', 'crrka ggrwn', 'crqiw grrwn', 'warwg wraye'}, {'crcae gohrn', 'creig grean', 'cwugi weron', 'crgai grnew', 'crkia grywn', 'cwrsa gcirm'}, {'carhq gzrmy', 'zrhys xrwne', 'crrwg gruwn', 'carog grnah', 'cruig graen', 'craka grneh'}, {'caark grrnw', 'cirhk gurim', 'jariw gwune', 'criic grenw', 'crewg grney', 'craiq grren'}, {'corwx gsurm', 'jariw gwwne', 'cairk gaorn', 'cryyg grayn', 'craeg groen', 'criic guern'}, {'cyirj ggrmw', 'creyg grwwn', 'crayk grnee', 'craiq greon', 'cyiah cwiin', 'cwrqi grwni'}, {'crqiy gruyn', 'criic garen', 'cyors gkrmw', 'qriax herew', 'craeg grein', 'crywq gwran'}, {'sruga yrane', 'cwrwx garmo', 'croig grehn', 'craoc grnew', 'coreg gaorn', 'crygg grnei'}, {'cirga gshrm', 'carwy xeryn', 'craoc grnew', 'crryq ggryn', 'cruik grayn', 'crawg gruen'}, {'craug grehn', 'creca gwron', 'cerux germo', 'careh hyane', 'crakk grwyn', 'crako guern'}, {'crkai grrwn', 'criwk gwrun', 'chhys xrine', 'cwrge gxrom', 'crahc grwyn', 'croig grenn'}, {'zriax xruah', 'croic groyn', 'carxa gjrny', 'creyg grnew', 'crawg gruen', 'crghq ggrrn'}, {'sruga yrane', 'crowg guern', 'chwrs gxrmh', 'cwrig grayn', 'ckrqi gairn', 'craiq grehn'}, {'crqoy grnoh', 'craug grean', 'caryh yerwn', 'curag grneu', 'crahk grneo', 'chrwj gsrmy'}, {'creik grnei', 'cergh gxrim', 'hrhys xerun', 'curiq grniw', 'crauk goren', 'cragg grenn'}, {'cerhx girni', 'zriaq xheah', 'cruig greun', 'criik guren', 'criak gairn', 'crqiu grnew'}, {'crako groyn', 'croig gruen', 'crgaa guyrn', 'craac grnei', 'yariy yruhe', 'cwrhc giwrm'}, {'crkie guren', 'crgoo grnay', 'srhgi geruw', 'craug grehn', 'cirox gormi', 'crygg grwnn'}, {'yarix seyyn', 'cracw grynn', 'crwky garun', 'cawrs gwrnh', 'craeg grehn', 'crigw grwnn'}, {'carew yrhne', 'cwrja gqhrm', 'craka groyn', 'ckorg garin', 'cracw grwwn', 'criig grien'}, {'qyiag jrune', 'croko gryne', 'cwrig grrwn', 'crawg grehn', 'ceryj gqrmo', 'craky grnei'}, {'curqi grnnu', 'jarwg hyehe', 'cerex gworm', 'creic grenw', 'craek greny', 'cragg grren'}, {'crguw gawrn', 'criig gruen', 'cruic grown', 'cwuez herne', 'cuurj gwrmm', 'crauc griyn'}, {'craku grywn', 'ckyrg grnoe', 'craug groen', 'cruyg grryn', 'yriah hrune', 'curej gqhrm'}, {'craoc grwnn', 'jyogi jrane', 'crghk grrnw', 'cwrhz gjrmu', 'cracw grwwn', 'crahg greon'}, {'zarij yrwwh', 'cairk ggwrn', 'croik guern', 'craag groen', 'crayc grwyn', 'ceirj ghirm'}, {'craiq grean', 'cawrg gryny', 'jroge jerhn', 'craqw guern', 'curag grnea', 'carzh ghrmo'}, {'cowrs gjram', 'harhg yywon', 'crigw grywn', 'crawg graen', 'curig grwnn', 'crwyk gowrn'}, {'syiag yrunh', 'cryyk grnuh', 'craky griwn', 'cyruz goram', 'craag grein', 'crkii gruwn'}, {'hruez ceron', 'craky grwwn', 'crahk grnea', 'crawg greon', 'cargo gwwrn', 'curux gsrma'}, {'crkih gaern', 'creig greon', 'cwrug grrno', 'crywg grayn', 'cerwc gxrmw', 'wriak qeram'}, {'cirga gzrym', 'crkia grney', 'qargi whane', 'cruig grean', 'crrwq gwrwn', 'crric grnee'}, {'crauc goren', 'curoz gyrmw', 'crqou grnui', 'croig grenn', 'crigw grnew', 'haryg hyhne'}, {'cwwxi qriyw', 'craug graen', 'crkie grnei', 'crewc griny', 'cairg grneh', 'cercu ggrnh'}, {'cirka ggrmy', 'cruhk grnoe', 'crcai guren', 'craug graen', 'cracw groyn', 'yarik serun'}, {'crrig grehn', 'cruik grenw', 'zregi qriyy', 'cwryx gxorm', 'crkiu gryyn', 'crkoi goirn'}, {'crahc grneo', 'cyirj gsrom', 'crwqu grnue', 'hargi srwne', 'crahg gruen', 'crkih gruwn'}, {'criak grnai', 'carag griyn', 'curag grnew', 'cyroq gjrwm', 'wrias gerwy', 'crawg grren'}, {'creic gryyn', 'ccrga gurwm', 'waris geruw', 'crwku gurun', 'craag grien', 'crrwg grney'}, {'crqai gryyn', 'crwwc goarn', 'corig groyn', 'craeg grein', 'chias qyewm', 'cerux ghrhm'}, {'kriax wyane', 'caarq ggorn', 'crqai grwyn', 'cyruc gcrno', 'croyg grrwn', 'croig groen'}, {'crrig grehn', 'cyruz gzrmh', 'crkiw grrwn', 'crewg groyn', 'jariq hywne', 'crugw ggrwn'}, {'creik gryyn', 'cracu grneo', 'jroci yruye', 'ciryj gzrni', 'craeg gruen', 'crkuu gorun'}, {'kriaj gwwhm', 'croig greun', 'creyg grnei', 'creky gorwn', 'cwruj gurnh', 'craak guren'}, {'crkia grneu', 'curog gorne', 'gruez srane', 'crake gryyn', 'craag grren', 'cyrec guurm'}, {'creig greon', 'cwrza garmh', 'warog hyehe', 'craok grwnn', 'cargg grnuw', 'cruwg grneh'}, {'crygg grrwn', 'zriaw xruay', 'crahg groen', 'corox germw', 'ckrak gorin', 'crqiu grenw'}, {'corce gxhrm', 'crahg grean', 'crqii gryyn', 'cwrac gahrn', 'crwgg grynn', 'sriak gerww'}, {'crrwg grywn', 'ciroj giirm', 'crygg gaern', 'crgah gayrn', 'zyagi qwrew', 'crahg greon'}, {'ckarc grnae', 'croig greun', 'cwurs gsrno', 'zriaq zwrew', 'cairg groyn', 'corag grneu'}, {'qruez wwene', 'creig grein', 'craak grown', 'cerwk gwrma', 'crwkw gairn', 'crayk grnea'}, {'craog grein', 'zriaq cyewm', 'cires gurma', 'crwwg gruyn', 'crkea gorrn', 'crqai guren'}, {'crwyq grnuy', 'craug grehn', 'criik grenw', 'chryz gjyrm', 'crako garen', 'yrogi gwruw'}, {'crgai grnee', 'hareg herne', 'corsw gjorm', 'cryku garan', 'crahg grien', 'crkih grneu'}, {'crahk grney', 'craag greun', 'cwrwz gkwrm', 'crakw griwn', 'crqae grrnw', 'krwxi gyhwm'}, {'craiq grenn', 'crrik garen', 'crqio grnee', 'jariz gwhne', 'cryqo garne', 'cirqa gzirm'}, {'cwrex gjrni', 'zrhgi herey', 'cruig grehn', 'crayq gruwn', 'croic guren', 'cuark grnna'}, {'crrig graen', 'curhc guurm', 'crayc grney', 'crwgg grwwn', 'cruhk goran', 'waric xhene'}, {'wrhgi gerah', 'coruz gkrym', 'cwrig grayn', 'corwg gorin', 'crqiw grnea', 'craiq groen'}, {'crrig greun', 'cargw ggryn', 'chrhz ggrhm', 'criwg grneu', 'crauk gwren', 'griax yrwhy'}, {'cyrhz gkrym', 'crrig graen', 'crwwg goern', 'crewc gwrrn', 'krwgi serew', 'crakw grnew'}, {'caerj gornm', 'crkio guren', 'crewc grrny', 'craiq gruen', 'crgai grryn', 'yarhg qerem'}, {'croig greon', 'craok grnei', 'ckarg guren', 'ckark garon', 'cyrez gyarm', 'hariq ghhne'}, {'ceyrx gurnh', 'crahk grown', 'crkio grenw', 'craug grenn', 'corrg gwrnn', 'jriaq herhn'}, {'cawrs gyrmm', 'crwqi grinw', 'creyg gruwn', 'craag greun', 'grias cereh', 'crgai groyn'}, {'hrhys swrew', 'crkuh grnnu', 'croyg grayn', 'curwx girym', 'cruyg griwn', 'craag grenn'}, {'crrac goirn', 'crqie grneh', 'cyrux gyyrm', 'crywg guern', 'wrygi zereh', 'cruig graen'}, {'crack grneo', 'cywxi jrone', 'carik grnny', 'cwryx gwrwm', 'craog greon', 'crauk grenw'}, {'crrca guran', 'crrig greun', 'curag grnea', 'chirz gurmm', 'jrozi serin', 'crqii groyn'}, {'craqy guren', 'harix chune', 'craog graen', 'cawrs gqrna', 'crryg goern', 'cryke gorwn'}, {'cwiaw gerah', 'caurx gcrmo', 'craak grnew', 'croig graen', 'crekw gryne', 'creik grryn'}, {'crghg grrwn', 'craec grney', 'crkoh grnnu', 'cyirq gyram', 'creig graen', 'zriaw kirhn'}, {'craky gryyn', 'xarog yywin', 'cirhc gzrom', 'criig grren', 'ckarg garen', 'caurg gruny'}, {'corag grney', 'syagi yrwow', 'cwrhj gurmh', 'criyk ggwrn', 'crygg grown', 'crawg gruen'}, {'crkiu grnee', 'crrik grneu', 'curyj gyurm', 'hrogi seryn', 'craeg gruen', 'cwric grnna'}, {'craiq grenn', 'cirux gqrni', 'crrik gwren', 'curki guwrn', 'hhagi swwem', 'crrwg grwyn'}, {'cierk gjhrm', 'croig grren', 'sregi gerwy', 'carog grnoh', 'crowg grneh', 'croik gruyn'}, {'cracw guern', 'craek gwren', 'cragg grehn', 'xarik chewe', 'crogw gairn', 'cihrk gsrma'}, {'carhz ghrmo', 'creyg grneu', 'crrcw gourn', 'crawg greon', 'wrugi qyaew', 'crric guren'}, {'craag greon', 'crahk garen', 'crwqo grniu', 'cwrig grwnn', 'carhq gcrnu', 'karij zywin'}, {'craky grwnn', 'crkyw guryn', 'caurj gzhrm', 'craeg graen', 'crqio grenw', 'grogi geryh'}, {'yruga wywin', 'cuhrg grnaa', 'criwg grenw', 'cragg graen', 'crywg grneu', 'corhj gurrm'}, {'crcai griyn', 'coerg grnui', 'cyiaz jerew', 'creig grehn', 'cyrok goarm', 'craak guren'}, {'crrig greon', 'craka groyn', 'sarhg qereh', 'coorg grnao', 'chros gwurm', 'crahc garen'}, {'zarwg wraye', 'croig grean', 'crric garen', 'crkyw grrna', 'ciruz gormy', 'cracu gwren'}, {'creig groen', 'yarij hyhne', 'currg grnoe', 'crwgg grnee', 'chrgw gorym', 'curig grown'}, {'ciryk ghrny', 'crkai grown', 'creik garen', 'craag grein', 'jarog werey', 'crihk garan'}, {'crack grwnn', 'craca grneo', 'jarhg qwene', 'cirec gqrmu', 'cargu guran', 'cragg grein'}, {'crygg grrwn', 'khagi zerun', 'crghc grnie', 'cragg graen', 'crwyg grnei', 'cierk ggrrm'}, {'cracw grnee', 'cryyg grwnn', 'cruig greun', 'curug garnn', 'shiag xroah', 'chrez gwwrm'}, {'criic griyn', 'criyc gurrn', 'cursw gzrmi', 'crahg grren', 'kyagi wrhne', 'craky grnee'}, {'crrke grnuy', 'crrig grein', 'cruwg greny', 'griaw chane', 'ckarg gryyn', 'coirz gsrny'}, {'criyg grwnn', 'craag grehn', 'cairg groyn', 'crquu ggwrn', 'xriaz gywiw', 'chrec gurmo'}, {'ckarg grown', 'carjy gjorm', 'creec gaarn', 'cwrig grwnn', 'wriay yrine', 'creig greun'}, {'carza germo', 'xargi xweah', 'crkiu grayn', 'cuarq grniy', 'crayq grrwn', 'craog grren'}, {'hrhgi jerne', 'crcai grywn', 'cruig greun', 'caarg guren', 'crqou guyrn', 'coruj gsrma'}, {'chirz gqrmh', 'craug grehn', 'craku gryyn', 'crakw gwren', 'crrgo gryni', 'sriak srone'}, {'jrhys yrume', 'crrkw grnou', 'crahg gruen', 'crric grney', 'cuarg goren', 'cwroj garmy'}, {'croig grein', 'crqiy grneh', 'crqey gronw', 'creic gruyn', 'corgy gcrhm', 'zariq genue'}, {'crrig grehn', 'crack gruyn', 'yarik hwene', 'chrwq gghrm', 'currg grnnw', 'craac grneo'}, {'creig gruen', 'crrik gruyn', 'caorx gsrny', 'criyg grown', 'xrogi zweow', 'crgoo guirn'}, {'cyrhk gyrom', 'cruig grehn', 'caric gaorn', 'crygg griyn', 'crqiy greny', 'hariq cirin'}, {'crkih grney', 'caorj gxrmw', 'crywg grwwn', 'yariq wrani', 'cruuc grrna', 'cruig graen'}, {'criik grney', 'creig graen', 'crryg greny', 'ywagi hyyne', 'coryg grynu', 'cwirz gwrmm'}, {'crahc goern', 'ciryc garmh', 'karih werhn', 'craka guern', 'crrig grren', 'crkue gryni'}, {'yriaq jereh', 'cragg gruen', 'crrqy gwyrn', 'crygg greny', 'crwwg gaern', 'corhx gurym'}, {'crrqw gornn', 'crakk grrwn', 'kwagi yruny', 'craku grwwn', 'crahg grein', 'cergo gsrim'}, {'cwrox ghrna', 'craeg graen', 'crwgg gryyn', 'croki grrnu', 'jariw herin', 'crrwg grnei'}, {'cyirx girnu', 'sarik cheme', 'crqiy gruwn', 'crkiy grnei', 'crawg grean', 'corik guurn'}, {'hregi hrane', 'craug grren', 'crauc grneu', 'cwrez gwrmo', 'crohk grnno', 'cragw grynn'}, {'criyg grneu', 'zriah qwaew', 'cirhq guhrm', 'crqww ggurn', 'cruig graen', 'crkii grown'}, {'creik grnei', 'crgwy ggurn', 'cwrag grwnn', 'chwxi swrew', 'cirgy gurmu', 'crawg grren'}, {'crghg grneh', 'ciros gkirm', 'crcoh grnay', 'zarik gehre', 'craca grnew', 'creig greun'}, {'cayrs gsyrm', 'crwka gurun', 'crigw grneo', 'crqiy grnei', 'caryw yereh', 'cruig grenn'}, {'crqio gruyn', 'chryk garmw', 'craiq grenn', 'harih chena', 'crahk grneo', 'crwgu goran'}, {'cryqy grnie', 'chias wereh', 'crako griwn', 'craog grehn', 'cirhs gsrmo', 'crqih grayn'}, {'chrux goyrm', 'criig groen', 'crwky grniu', 'crwyg grwyn', 'xyiag hyeni', 'crywg grnea'}, {'crwyg gruyn', 'cyrwz gawrm', 'cruig groen', 'criic grnea', 'yargi serey', 'crcoo gurnn'}, {'crauk grrwn', 'criig greon', 'carjh gqrni', 'craec grnea', 'crquo garne', 'ghiag serew'}, {'coric grwnu', 'crwyg grneh', 'cyrys gzirm', 'wruez gayne', 'ckarg grwwn', 'cragg grein'}, {'zrhgi zeran', 'cyrwc goirm', 'cryyq gowrn', 'craak grrwn', 'cuarg grnee', 'craiq groen'}, {'crkou grnuw', 'caerx girma', 'croyg garen', 'craag greun', 'crghg gruwn', 'jrogh qyewm'}, {'crowg grwyn', 'cryyg grneh', 'craiq grein', 'cwrgh gjrwm', 'gwiag seyan', 'cuwrg guurn'}, {'crrig grehn', 'acirg gyywm', 'coarg grneo', 'corig grrwn', 'crrqw grynw', 'ceros ghrmy'}, {'coirz gzrna', 'crqou ggorn', 'chiaz criiw', 'crkio goern', 'craiq groen', 'crkih grown'}, {'crygg grayn', 'cragg groen', 'courg grnaa', 'jyrix xwwem', 'ciirx gsrum', 'ckarg grnea'}, {'creic grney', 'crcao gurnn', 'hwiag gerhh', 'corag goern', 'craug grenn', 'caerz gcrrm'}, {'craca griyn', 'crqoa gairn', 'craeg grean', 'caerz gyrnw', 'crawc gwren', 'xarog hyeni'}, {'zriaz yrwwm', 'ccrwz girmy', 'crrwg grneo', 'curig grayn', 'craiq grien', 'cricu grany'}, {'crygg guren', 'criak grniu', 'croig graen', 'ciirj ggarm', 'xriay gwrow', 'crwwg griyn'}, {'carag grwnn', 'cyroj gxrnh', 'criuc grnyw', 'craiq grein', 'crqiw griyn', 'xaric cerey'}, {'cwrag gruyn', 'carej gzirm', 'xwagi kyewm', 'criwk grnno', 'criig grren', 'criyg greny'}, {'crrqu grnau', 'crqai goern', 'cryyg grneh', 'zriaj xyeay', 'ciirq gsrmy', 'craeg grien'}, {'craag gruen', 'crkih grnew', 'cyiah jerne', 'cwryz garwm', 'cracu goern', 'cuirg gorne'}, {'chiah qyene', 'cuirz gqrnu', 'craoc grenw', 'crahg greon', 'crycu goron', 'crqai grnea'}, {'cwiay gerhy', 'cargo gwron', 'crakw guren', 'cehrk gjurm', 'crryg griwn', 'craog grren'}, {'crayc gryyn', 'crawg greun', 'cwiay cheny', 'chrus gzrmy', 'carqi ggryn', 'crayq grayn'}, {'craec garen', 'curig grneu', 'xriaz zerew', 'creig grehn', 'ciroz gsarm', 'currg gryni'}, {'creec garrn', 'cerwk gyyrm', 'crywg grnei', 'cruig grien', 'cyiaw ghine', 'criwg grney'}, {'chiax xrhay', 'crrig grenn', 'crqai goern', 'crkiu grryn', 'chrhq garom', 'crgah grinw'}, {'hariz hyenh', 'croig greun', 'croic griwn', 'cryck gryny', 'crqie grneh', 'cyroq gzrum'}, {'criig graen', 'jrgoi yrwye', 'cruca garnn', 'crqia grayn', 'crcai grnee', 'chrge gxrnu'}, {'crrac grwnu', 'corig grryn', 'crawg greon', 'krygi yhwey', 'curge gkrom', 'crayq griwn'}, {'craek grywn', 'crguh grnwy', 'coarg guren', 'craiq graen', 'churj ghrma', 'khagi xwrew'}, {'crqiw garen', 'corgh gyrom', 'cureg guhrn', 'jyogi wwwem', 'crakk grwyn', 'criig grien'}, {'qhagi jwrew', 'crric grney', 'crocw goryn', 'crayk gwren', 'cahrz gcrwm', 'cruig graen'}, {'cyrwq girmh', 'crucu grnwy', 'caarg gaern', 'craco gruyn', 'garhg qrahw', 'cragg grenn'}, {'crkii grnew', 'cahrx gurom', 'cwias yerem', 'croig grean', 'crawc groyn', 'cwrrg gurwn'}, {'craog grein', 'jrhgi xrhah', 'caors gcarm', 'crryg guern', 'creco grnaw', 'crrwg guren'}, {'jhogi criih', 'crrig grehn', 'crqiw garen', 'corig gwren', 'chroc ggrmu', 'cryqi gryno'}, {'creig gruen', 'croic groyn', 'zarhg geryh', 'caurx gzrom', 'criic gryyn', 'cuorg grnao'}, {'crook ggryn', 'xarhg xerwn', 'curyj gzarm', 'crwgg grnea', 'crkie gwren', 'criig grean'}, {'croki grnuu', 'crqiw garen', 'cyroj gxrrm', 'yrhgi kirey', 'craeg grien', 'creik grown'}, {'cryyc gryna', 'wwiag cerey', 'carce gcrmu', 'craog graen', 'cruwg grnee', 'corig grneh'}, {'crkeu gurwn', 'crric grwnn', 'wariz qraww', 'craiq grean', 'crayc grryn', 'cyrku gyrum'}, {'crawc grynn', 'qarij yruye', 'ciirz gqrmo', 'criig greon', 'ckrki grany', 'crkih grneh'}, {'croig grein', 'craku grywn', 'crkie griwn', 'kriaz zwyew', 'cyurx gwrmh', 'crgae grwna'}, {'cruwg grynn', 'zriak qyene', 'cragg grean', 'cuarg guren', 'cirhj gurim', 'crcae gurun'}, {'carag grrwn', 'craac griyn', 'garhg ywune', 'cirus gwrmh', 'crahg grren', 'caerg grwni'}, {'crake garen', 'croig graen', 'crkiu griwn', 'crkae guurn', 'coryz gsirm', 'sriaj yerwn'}, {'cirwc garnh', 'crkia gruyn', 'crkie grown', 'cruig groen', 'cryyq granw', 'sariy zwene'}, {'crryg grney', 'crkuy grwni', 'wrygi chenh', 'cragg grenn', 'crkiu grnea', 'cyirq gzrwm'}, {'crawg greun', 'cawrz gwrmm', 'xaryg ywwwn', 'crkie goren', 'crqii grryn', 'crggo grynu'}, {'cracw greny', 'crahg groen', 'cwrhs gwrmy', 'crrke grrne', 'hregi xerwn', 'caarg griyn'}, {'croig greon', 'crewg gryyn', 'criic goren', 'xruez gwone', 'cyirs gaurm', 'crywk ggrwn'}, {'craug grean', 'waris yrwyy', 'crqay grrnw', 'crqai guren', 'carwj gkram', 'crowg grenw'}, {'crwgo grwny', 'cwroj gkrmi', 'craeg groen', 'zrogi qyiyn', 'caarg grrwn', 'crcai goren'}, {'crwwg grnei', 'cruig greun', 'corag grryn', 'croka gurne', 'hariq ceryn', 'cyirs ghwrm'}, {'caerx gyrni', 'chiay chine', 'caraq grnio', 'craag grehn', 'criwg grayn', 'crkih gruwn'}, {'chrhs gyrmm', 'gwiag hrine', 'cruig grren', 'criyg grneo', 'crqae garwn', 'croic griyn'}, {'crawg greon', 'craqw grryn', 'chrez gjrrm', 'craqy grenw', 'harug serey', 'crqeh grniw'}, {'cwryj gearm', 'crkia grwnn', 'coarg grwyn', 'craog gruen', 'cyiaz yhune', 'crwqe grnuu'}, {'cersa gqrmy', 'crywg griwn', 'crric goern', 'qrias gyiwm', 'crykk grwne', 'cragg grenn'}, {'ciryk gywrm', 'craiq greon', 'crigw gruwn', 'crrqi grrnu', 'griaw qrayw', 'curig grney'}, {'ckric goryn', 'craca goren', 'cruig groen', 'cerwk gcorm', 'craka grayn', 'xarih seyem'}, {'crrig grehn', 'craki goern', 'coyrz gjrnw', 'criic grayn', 'jrhgi xywin', 'crqah grnou'}, {'crrqw guyrn', 'craoc griwn', 'cerwz gcrnu', 'xwagi cheme', 'craiq graen', 'criwg grneo'}, {'qariy qrnwe', 'crawg greun', 'curyz ghrnh', 'cruik grneu', 'croik goren', 'cruwk guwrn'}, {'chryc girnu', 'creqw grnyy', 'yaryg wrany', 'creyg grneo', 'cragg grien', 'crkie goern'}, {'cuyrg ggrne', 'craco grwnn', 'croig graen', 'crywg grneh', 'ciirq ghrmw', 'yarik yrwye'}, {'caruh ywwwn', 'crwyg goren', 'cerhj gurmh', 'cragg gruen', 'creco gryno', 'craoc grnee'}, {'crwyg grenw', 'cyrhs gyrim', 'crewg gwren', 'zrwxi jywin', 'crika grnui', 'cragg grenn'}, {'crric grnew', 'cyruc gurmo', 'croig grean', 'crghg grwnn', 'kriaw zerhn', 'crggw garnn'}, {'cirsa ghirm', 'xyiag gerwy', 'crahk gaern', 'cragg grien', 'crqih grnee', 'cwrak grnah'}, {'craiq grean', 'cwrag grneo', 'sariy cerew', 'crqyw grrno', 'crakk grneu', 'cahrj gkrom'}, {'crqiy guern', 'coarg guren', 'croig grean', 'xrugi ywwey', 'crock gornn', 'cyirk gzrmy'}, {'chugi xwene', 'crawk grayn', 'craeg grehn', 'cwrhk gsrmy', 'craok grneo', 'cruca garon'}, {'cwrig grayn', 'crqii goern', 'sarij xhene', 'chrhx gzwrm', 'cairk grnou', 'craeg grien'}, {'crrco grnay', 'craoc goren', 'crawg greun', 'cryyg grown', 'qriaz yyene', 'ceryk gyrwm'}, {'cirox garmu', 'griaz zweow', 'craiq grren', 'craco grneo', 'crkuw grnne', 'crauk guren'}, {'crqiu gruwn', 'cuwrg gowrn', 'chrec gurum', 'crrig grein', 'wriax yrwno', 'cracw grrwn'}, {'craac guren', 'jriak zrine', 'craeg groen', 'cirez gsrmu', 'crqiw groyn', 'crqah grrno'}, {'chryk gjrrm', 'crack goern', 'croic gwren', 'croki guirn', 'warij zeron', 'criig greun'}, {'cruig greon', 'crauc grwnn', 'hargi swene', 'cerhx gkrnw', 'corag grnei', 'ckrqi grnuu'}, {'carhj gqrhm', 'crcow grrny', 'crqai grneo', 'jhiag hyehe', 'crahg grien', 'corag guern'}, {'crrig greon', 'crqih grwnn', 'crack grneu', 'cyryq geram', 'corqi gwrin', 'cwygi kerey'}, {'cores gjram', 'crawc goren', 'ckarg grney', 'crioc ggrwn', 'chiac wrane', 'crahg greon'}, {'crqiw gruyn', 'crrqi grnwy', 'crqia gruwn', 'creig grean', 'ciurj gurmm', 'cwhgi ywene'}, {'carag gruwn', 'cruig greun', 'hrugi zwehw', 'craqw guren', 'cuurg guorn', 'cyroq ghrnu'}, {'crrek gaurn', 'cyrhz giurm', 'craog greun', 'jrhys chine', 'crqii grwyn', 'craqy goren'}, {'croqy guurn', 'cwirq ghorm', 'craca grynn', 'garis srune', 'crahg greon', 'croik groyn'}, {'carje garwm', 'crwqu gaurn', 'crqiu grneh', 'crayc gruyn', 'crawg gruen', 'cwiak yrwww'}, {'crghk granw', 'craiq grein', 'cuarg grryn', 'craec grnea', 'cyiac zwrew', 'chrcu gzorm'}, {'gyiag jrwne', 'crrky grnuu', 'craeg groen', 'corse gkrni', 'crghg goern', 'crqii gruwn'}, {'crayq grenw', 'chrhx gkrnh', 'yarug xyeay', 'crrwg grnei', 'crwki ggryn', 'creig greun'}, {'crkiu grynn', 'cuwrg guran', 'craiq greon', 'cirge giurm', 'griaz xerwn', 'crwyg griwn'}, {'srwxi cerin', 'crrig grehn', 'ceurs gairm', 'crewg grnea', 'criky grwni', 'crrik grwnn'}, {'cregw grnia', 'crayk gaern', 'craog grean', 'crawk grown', 'chryk gjrym', 'chhgi kerey'}, {'cyryz gwarm', 'ckrak grwna', 'crawg graen', 'cwrig goren', 'craqy grnew', 'qriaz werew'}, {'croig gruen', 'crucw grnaa', 'yriaw yrwye', 'crqii grnew', 'ceirq gzrnw', 'crwwg gaern'}, {'xaric hynee', 'ckarg grney', 'crkie grneu', 'cyrgu girhm', 'craiq grehn', 'crqeh grnie'}, {'cruik grnee', 'kyrix jerhn', 'crghk guryn', 'cerox ggarm', 'cwrig grnei', 'crahg greon'}, {'cyrwq ghrnh', 'creic grneh', 'crawc grrwn', 'cwryg grnue', 'kriaj hyena', 'craug groen'}, {'criig grien', 'hruga cwwem', 'crwgg grwnn', 'creyk grwni', 'craqw gruyn', 'cirwc gswrm'}, {'cerys gkrni', 'crrqa guryn', 'craog greun', 'craak goern', 'hrygi xheah', 'crqio grnei'}, {'cryqi gwrnn', 'cyrwk gzram', 'craak griyn', 'crywg grrwn', 'xarug ceryn', 'cragg grren'}, {'curge gwirm', 'criyg grown', 'creig greon', 'crcoh guyrn', 'zriak geriw', 'cairg garen'}, {'cirus gwrma', 'craeg greun', 'krias gehre', 'curaq grnie', 'corig griwn', 'cracu grney'}, {'cragg greon', 'ckric gawrn', 'cwhrk gkrim', 'creik garen', 'sriak qeray', 'crayc grryn'}, {'cwrgy ghrmu', 'ckarg grown', 'cwogi yrwwm', 'creca guyrn', 'criic grnea', 'craag grren'}, {'cirhq gcrna', 'jroga zwyew', 'caark grnna', 'curag griyn', 'croig grenn', 'cragw grwwn'}, {'craac grryn', 'cwrik grnww', 'crake guren', 'cragg groen', 'qariz qynee', 'ciryq gjrna'}, {'ceyrk gxrny', 'crkou grunw', 'whagi hyine', 'craag grein', 'crqia grney', 'croik goren'}, {'crgow garwn', 'chirj gyrnw', 'crawg greun', 'srugi gyane', 'crghg gruwn', 'criwg grney'}, {'yargi cheno', 'crrcw garrn', 'crawc grenw', 'creig grehn', 'curhc gahrm', 'cragw grayn'}, {'crcui gorwn', 'chrhs ghrma', 'crkiy grryn', 'wriaj kereh', 'cragw grwnn', 'creig greun'}, {'creik gwren', 'craug grein', 'ciurs gjorm', 'crako gruwn', 'jwogi zweow', 'crewq gahrn'}, {'crcae grnah', 'cruig greun', 'jroji gwine', 'cryyg guren', 'chrus ggorm', 'cruyg grenw'}, {'coirj gchrm', 'crrig grehn', 'wriah kwene', 'cruik grrwn', 'crywg gwren', 'crikw grnue'}, {'crowk gwrin', 'crawc grayn', 'coruj gyrom', 'jorgi qeram', 'croig grren', 'crewg gruwn'}, {'cyrox gsram', 'corrg ggrrn', 'cwrag gaern', 'crwgg grwyn', 'craiq greun', 'sariq hrwne'}, {'craog grein', 'crkiy grayn', 'cerys ghrym', 'crcoo gwrne', 'sarhg qeram', 'crqio griyn'}, {'criig groen', 'cerox goirm', 'cruwg grenw', 'craac gwren', 'hrwgi geywm', 'crouc grrne'}, {'crrwc gayrn', 'carja gurma', 'croig grenn', 'crqiw grney', 'karix crwiy', 'crrik grnei'}, {'ceork gzrnw', 'cruyq grnno', 'crawg greun', 'crrwg grwyn', 'gyiag hywin', 'crqiw grnew'}, {'kariz qehan', 'cuurx girwm', 'craku gruwn', 'curki gruny', 'creig greun', 'crakk griwn'}, {'crrig grein', 'crkoi gayrn', 'craku gaern', 'hariy gyune', 'cirze gyrnw', 'corag guern'}, {'zaric yrwuy', 'chrgh girnh', 'craiq graen', 'crkiy groyn', 'ckrac griny', 'crewg grnee'}, {'grwxi yrane', 'crgua gawrn', 'carxa gcyrm', 'crakk grnei', 'cruik grayn', 'crrig grren'}, {'carjy gxorm', 'curac garyn', 'yargi qerhn', 'crewg grwyn', 'craco gaern', 'criig grean'}, {'coriq grnah', 'corig garen', 'yyrix jerew', 'croig grehn', 'cirhs gerym', 'crakw grywn'}, {'craqw grneo', 'crawg grehn', 'cyrwx girnh', 'creko gaurn', 'crqii grwnn', 'qhiag hyenh'}, {'crqiu gruwn', 'craiq grein', 'caruy qywin', 'crwwg grneu', 'carqi grnao', 'coruz gerym'}, {'cyrgo gcrnu', 'crqaa grrny', 'crkii gruyn', 'crghg grnea', 'crrig grren', 'xariy qwiyn'}, {'cerwx gwurm', 'cryyg guern', 'craeg greun', 'criqw gwron', 'kariz wyewm', 'crauc grnea'}, {'circa ghhrm', 'criyc grrnu', 'crrig groen', 'creic grown', 'wrogi seyem', 'crqie garen'}, {'crryc grnay', 'cirws gyurm', 'wariz hyeno', 'crayq grwnn', 'craeg grien', 'crqiu grrwn'}, {'curez gqrnw', 'crkiu gruyn', 'craiq grenn', 'ckirg gayrn', 'crghg grnei', 'srwgi genwe'}, {'craac gryyn', 'crrig grein', 'cares giarm', 'cruqw goryn', 'crqia grneu', 'wrwxi yrunw'}, {'xrogi jrone', 'crrqw gryny', 'cirgy gxrni', 'craak gruyn', 'craug greon', 'carag grneo'}, {'curag gaern', 'crqao ggrrn', 'cirez gqrnh', 'crwgg grnee', 'zarik zwuew', 'criig greun'}, {'cwrag groyn', 'craeg greon', 'garhg zweaw', 'carhj gkrmw', 'crygu grniw', 'craac griwn'}, {'crakk grnea', 'craug grren', 'jrogu gwwme', 'cerex gerhm', 'crawc grneh', 'crgah grnow'}, {'creig gruen', 'craco grwyn', 'creqw grwnw', 'chrwj gxrni', 'kwagi gywim', 'crkie goren'}, {'chrwj gzorm', 'croig greon', 'crowg gruwn', 'crgow grnua', 'jyrix cwwin', 'cairg goren'}, {'craqw grwyn', 'hrhys xeray', 'coyrx gcrmo', 'cruik goren', 'crrqu guirn', 'craug greun'}, {'crryc grinw', 'jyagi heryn', 'cirec gqurm', 'crakk grown', 'criig grren', 'craka guern'}, {'craoc greny', 'jrogo chone', 'croqw grwno', 'craiq grren', 'caroz gwrmu', 'crakk grywn'}, {'cwiaw hyine', 'coarg grrwn', 'cwrig grney', 'cruig graen', 'carhz gaurm', 'crgui grnwy'}, {'creik gryyn', 'gregi kyene', 'crehk gahrn', 'crqiy grwnn', 'coryz gurmh', 'craiq grien'}, {'croic grneo', 'craag greon', 'cuurx ghrmy', 'crwyg greny', 'crqoy grnai', 'zaryg xrhay'}, {'craku grywn', 'cwrys gqrno', 'croku grnno', 'zruga chehe', 'crkiu gwren', 'creig greun'}, {'cairg grwyn', 'sarij qrnwe', 'crggu grrnu', 'carja gyrmm', 'crqie grayn', 'craug greun'}, {'crqia groyn', 'corac grynw', 'criig greon', 'carzu gswrm', 'corig goren', 'harih serhn'}, {'coirj gxrmi', 'crqii gaern', 'craag grehn', 'wriaw yerun', 'creyg grayn', 'crohk grnua'}, {'qhiag gyywm', 'cuirs gzirm', 'cryyk ggryn', 'craku grwwn', 'craog gruen', 'cruic greny'}, {'corag gruwn', 'crqie grnei', 'churx girna', 'crawg grean', 'hrhgi criiy', 'crqqo grnuu'}, {'crikk grnui', 'cwrza gahrm', 'criig graen', 'crkiu grynn', 'qregi chone', 'corig grneu'}, {'curuj gzorm', 'craeg grean', 'craak grnei', 'crkai goern', 'qriax cerun', 'crqew grrna'}, {'corxe gkrmo', 'crkie grown', 'cracw grayn', 'criyc guirn', 'carwy jerem', 'crawg grien'}, {'criic grenw', 'creig grein', 'yariy criim', 'ckark grony', 'cahrz girno', 'crkai grneh'}, {'crrig grehn', 'caryy qwwem', 'cracu goren', 'crqih grnei', 'crwcu grnnu', 'cerwc gwrmo'}, {'crkih guern', 'creig greon', 'carsa gqorm', 'currg grnaw', 'crwwg goren', 'hyagi qereh'}, {'crecw grnou', 'cragg grehn', 'cyiac chenh', 'crewg grenw', 'creik grneo', 'cyros gcwrm'}, {'crrwg grown', 'crwyq guyrn', 'croig grenn', 'wriak ywrew', 'cerys gahrm', 'crkio groyn'}, {'cuurg ggwrn', 'craog greun', 'cruwg grywn', 'chrhx gcrom', 'gwiag qhiyn', 'criyg grwwn'}, {'yaris criiw', 'creig grehn', 'craka griyn', 'crrga grnow', 'carws gwrim', 'crkai grneh'}, {'craak groyn', 'cerhq girim', 'criuc goran', 'crkii griyn', 'cragg grien', 'chygi xheah'}, {'craeg graen', 'chrhs gsrmu', 'crryg grwnn', 'craku grown', 'cyogi qyene', 'cwrog grnia'}, {'crahg grean', 'curyj gjrum', 'cryku garne', 'jwiag yrane', 'craak grnee', 'cruyg grayn'}, {'criwg grown', 'coirz gornh', 'crkiu goren', 'crwyc grony', 'zriaq zrwne', 'craiq gruen'}, {'craqw griwn', 'cragg grehn', 'qyagi yereh', 'crrgw grrno', 'criyg guern', 'cayrs germo'}, {'jrygi srane', 'cragg greun', 'crekw grnow', 'crwwg grneu', 'creik grnea', 'cirek gyrnu'}, {'crghg grrwn', 'cryyg guern', 'corhz gwrrm', 'crrig grenn', 'curki gwryn', 'zriay gyawm'}, {'craeg grenn', 'crrak grunw', 'carhh qhene', 'crcai greny', 'carez georm', 'caarg grrwn'}, {'crqih grneu', 'cruig greun', 'jorgi cerne', 'cuarq grnyw', 'corwx gzwrm', 'creyg garen'}, {'coyrx gerum', 'srugi geroy', 'craug grren', 'cayrg ggrne', 'crywg grywn', 'corag guern'}, {'crahk garen', 'chruk gxirm', 'haryg kywin', 'creig grehn', 'crcai gaern', 'crwyk guwrn'}, {'cruyg guern', 'caurz garmi', 'crwwq grrny', 'wruga heron', 'crrik greny', 'crawg grren'}, {'corwg ggorn', 'coyrx gkorm', 'crwgg grnee', 'cracu gruyn', 'zarij gyhwm', 'craog grren'}, {'cairg guren', 'ciirc gxram', 'cryco gurin', 'crkia grnew', 'qyagi gyawm', 'craug greun'}, {'cerox gerum', 'crayk grnew', 'crghg grneu', 'carog guhrn', 'craeg grien', 'carew hyewm'}, {'craag greon', 'wregi herem', 'crrik grneu', 'criwg grneo', 'crewk garrn', 'cierz gzhrm'}, {'sriah gwwym', 'crywg groyn', 'crqiw griyn', 'crkuw guarn', 'craiq groen', 'curgy gzarm'}, {'crayq grnei', 'cwrez girum', 'crwgg grryn', 'craog gruen', 'caruh geruy', 'cruuk guirn'}, {'zarhg xeryn', 'craiq grenn', 'coarg griwn', 'cirgo ghrma', 'cruwc griny', 'crack grnei'}, {'cwrak garyn', 'crawg grenn', 'ckarg gwren', 'crqiw griyn', 'hwiag ywwwn', 'cwryz gkrmo'}, {'hruez criim', 'criyq garon', 'crqii goern', 'craug grenn', 'curig guren', 'caruj gkrwm'}, {'craug grehn', 'ccrga gkrom', 'crayc groyn', 'cyiax jerey', 'corig goren', 'crquw grnni'}, {'crqea gurnn', 'jruga yeryn', 'crack grnea', 'craeg gruen', 'corag griwn', 'carje gkrhm'}, {'craug grehn', 'crryc guarn', 'cergo gerim', 'criik goern', 'cwiac xraah', 'crqiw grnee'}, {'gariy zerey', 'crqie grrwn', 'crwqy gorwn', 'craqw grryn', 'craog grean', 'cwirq ghyrm'}, {'yareg qrauw', 'coarg gruyn', 'ciyrx ghrno', 'corik grnoe', 'crako goern', 'cragg grren'}, {'cerge gxrum', 'crkio grnei', 'croig grehn', 'crewk gryno', 'cyiaz chenu', 'ckarg grnee'}, {'cirhc gxrmi', 'crkiu grnew', 'crkai griwn', 'kriay hyeno', 'crrwk grnie', 'crahg grenn'}, {'ckrac gruny', 'sruga yrane', 'criyg grnea', 'crqiu grenw', 'crawg grien', 'cersa gzrmh'}, {'creig grenn', 'carhx gyrim', 'qyrix zwwem', 'creic grneh', 'cairg grneo', 'ckryg guran'}, {'cracu grnei', 'coryz gharm', 'yaryg weryn', 'crygg grnew', 'craag grehn', 'crqqa guorn'}, {'cyurs gsrnw', 'crayk griwn', 'criyg grneh', 'craiq grenn', 'jriay qraiw', 'crgah grnoy'}, {'chwgi yruhe', 'crcai goern', 'cryyc gwrnn', 'crkiy grneo', 'chwrs gyrny', 'cragg grren'}, {'carje gwrwm', 'sarug xraay', 'croyg guern', 'crkiu goern', 'craog grehn', 'crqei guhrn'}, {'cruig grehn', 'kwagi geruh', 'curic gurnn', 'crwgg grnee', 'chyrx gjrnw', 'creic grywn'}, {'wriac gwruw', 'crwqo gurun', 'caryx goyrm', 'craac griwn', 'craug grein', 'crkiy guern'}, {'cruik grnee', 'curex garhm', 'jrogy wrwne', 'crkiy grwyn', 'craiq grehn', 'crikw grwne'}, {'cwrwz ghrny', 'crack gruyn', 'crwgg grrwn', 'crywk gwrrn', 'craug groen', 'xariq gwwam'}, {'curyz gsram', 'caarg grneo', 'ckurg gaarn', 'xriak zerin', 'crahg grren', 'craac gruyn'}, {'crkiy gruyn', 'craog groen', 'crgoy grnao', 'jriaq wranw', 'corig gwren', 'cyruz guhrm'}, {'jrias cerun', 'crkia gruwn', 'curig goren', 'crgww grnni', 'cihrk goirm', 'croig grenn'}, {'crrwg gaern', 'crgai greny', 'croig graen', 'criuc guirn', 'khiag chane', 'chrek gjurm'}, {'crygg gruwn', 'yrwgi qyaew', 'crwwg grnea', 'crahg grren', 'cwrhc gurym', 'cruhk grnai'}, {'crewg grynn', 'cyirk gcrnh', 'crqae grnou', 'chuez gerow', 'crawc grrwn', 'craiq grren'}, {'crykw ggurn', 'crayq grnew', 'craca grrwn', 'criig greun', 'caroh srhne', 'ciruc gyrny'}, {'cirxa gurwm', 'xareg wrwne', 'creig greon', 'curwg gwrrn', 'criic grryn', 'crryg grayn'}, {'craok gwren', 'craca groyn', 'chiah gywih', 'cruke gornn', 'cirge gewrm', 'craug greon'}, {'xarug yhene', 'crqow grnaw', 'craeg grenn', 'cyruz gcrum', 'cruic groyn', 'cuarg gaern'}, {'ckarg gruwn', 'kyiag gyowm', 'cwryg grrni', 'craug grein', 'crauk gwren', 'cyrwj gkrma'}, {'hriax gywiy', 'crkuy grnuw', 'craec groyn', 'craog grean', 'craki grown', 'caruj gxrmo'}, {'crooc gruny', 'craco grnei', 'croig grean', 'jriaw jrwne', 'crqii grywn', 'corhz gjorm'}, {'cryqo gaurn', 'yhagi jrwne', 'corag grneh', 'crahg grren', 'crqio griwn', 'coirj gzrnh'}, {'crahg grehn', 'carik goyrn', 'qrugi kerem', 'cerwz gsrym', 'crqiu goren', 'craki grynn'}, {'crqau ggrrn', 'craku guern', 'cyryz gkurm', 'xargi ywwwn', 'crwyg grwwn', 'crawg gruen'}, {'crqeo gwyrn', 'curwz girmm', 'jarug yerhn', 'craec gryyn', 'craiq graen', 'crayq goern'}, {'crcau goorn', 'crakw grenw', 'craug gruen', 'crqiu grryn', 'ceirz germh', 'wwagi serhn'}, {'crkia gryyn', 'craoc goern', 'qregi hrwne', 'cruak grnne', 'cruig graen', 'ciroj guyrm'}, {'crghc goorn', 'craoc goren', 'crigw grrwn', 'craiq grenn', 'griaw sywin', 'cayrz germw'}, {'crauc gruwn', 'jrogh xheay', 'crqwy gorun', 'corig grwwn', 'cragg gruen', 'carzy gyrwm'}, {'crrik gruyn', 'careg grniu', 'crryg grynn', 'criig grenn', 'xaris qwwem', 'chrex gcrnh'}, {'sarij gyone', 'crowg grnea', 'crqiu gruyn', 'cireq ghrmw', 'crrig grien', 'caark grnuy'}, {'crkiw guern', 'carze garom', 'griah zewew', 'crwwg grneo', 'cuarq goorn', 'crrig grien'}, {'ckurg grnih', 'cerhs ghrrm', 'craka grneu', 'cruwg grnea', 'xargi xriah', 'craog grren'}, {'crghq grnoa', 'hregi gehre', 'cirhk gxrwm', 'ckarg griwn', 'crako grywn', 'craog gruen'}, {'chroz gxurm', 'criuc guwrn', 'craco grnew', 'croig greon', 'yrugi gwwym', 'craka gaern'}, {'cwrus gyrnh', 'craeg grenn', 'zrhgi werwn', 'curug grnny', 'crghg grnei', 'crkii greny'}, {'qyrix wrana', 'cyryq gwrom', 'criyg grenw', 'crohk grniw', 'criig grenn', 'curig grneo'}, {'crrik grayn', 'ceyrx ghrmm', 'carwy xrhay', 'crgay gurun', 'crqii grwyn', 'criig grien'}, {'cirwx gcrno', 'cwias kywin', 'caric guwrn', 'criik garen', 'croyg grywn', 'craug greun'}, {'cwogi yrume', 'cuarg guern', 'croig grean', 'crcay gwron', 'cwrej girhm', 'crqia gryyn'}, {'criig gruen', 'crqii gruwn', 'chrgw ghrmy', 'chiaw heron', 'crkie grnea', 'crgoi grnua'}, {'crayk goren', 'croik grney', 'cirwx gyhrm', 'crahg grren', 'crewk gurnn', 'zyrix kirem'}, {'cyrus guhrm', 'crryc garne', 'qriaw kirey', 'croik guern', 'crqai griwn', 'craag grein'}, {'crauk grneh', 'cruhc gornn', 'ceroj gsrmo', 'xrygi jerwn', 'crowg grynn', 'cruig grenn'}, {'ceros gxrni', 'cwrag grneh', 'cwiaw wraye', 'crcao gorwn', 'crawg grren', 'crigw gryyn'}, {'craec grryn', 'hrugi hyone', 'cairg grenw', 'cores gwrmh', 'crawg greon', 'crqeu grniy'}, {'crayk grayn', 'ciryx gwwrm', 'creig grien', 'crayc grnew', 'crqyw grnoe', 'karis seyem'}, {'craeg greon', 'crrka grnnu', 'crwgg grryn', 'caerz gwirm', 'xarwg yyene', 'crkii gruwn'}, {'cersw gjrnw', 'crgai gwren', 'creic grenw', 'crock gorrn', 'craiq grehn', 'yrhys yrwwy'}, {'craeg grenn', 'crghg guren', 'zaris gwwme', 'curge gerrm', 'caerg grnie', 'corag grown'}, {'yariy guyne', 'carkh gwrrm', 'crggu gorin', 'craco gruyn', 'crawg grehn', 'crauk grryn'}, {'hriak genue', 'cruig greun', 'crywg grynn', 'cirga gqhrm', 'craqw grrwn', 'crqww gwrin'}, {'crqee grnuh', 'craug grehn', 'caroy gerow', 'caryx gyram', 'cwrig grynn', 'corag grnea'}, {'jroci xeran', 'cruku grnoa', 'cruig grehn', 'cyryc gjrum', 'crakk garen', 'crqiw gryyn'}, {'cyrsw gyhrm', 'crwgg grenw', 'crquw garon', 'kariy cerem', 'crakw guren', 'cragg gruen'}, {'cyiaz qrauw', 'criig grren', 'crayk garen', 'crygg greny', 'creec grrna', 'cires gcirm'}, {'zwagi gwwme', 'cryyg garen', 'creik guern', 'crahg grren', 'cyrhs germw', 'crugw grnui'}, {'cuhrg grnww', 'krias gwwum', 'craeg grean', 'craac guern', 'crahc grynn', 'carza gjrmu'}, {'crqua grniy', 'cuarg garen', 'craiq grenn', 'hrwgi gwruw', 'crayk gruyn', 'corys gzrim'}, {'cruig greon', 'croik grney', 'xrogi gyywm', 'coyrx gzwrm', 'crqih grneo', 'ckarc gronw'}, {'cuirs ggarm', 'creig greon', 'crwyc grnaa', 'gargi ywwem', 'crqio griwn', 'crauk grryn'}, {'curuz gzarm', 'creik grney', 'craac gwren', 'criok grnaw', 'criig grenn', 'hhagi whane'}, {'ceruc gwyrm', 'ckrak grnuu', 'craki grnei', 'crkiw grnee', 'cruig graen', 'carhw ywrew'}, {'croig gruen', 'cwryz gsrym', 'sarhg zwiew', 'crack grenw', 'crrke griny', 'crghg gwren'}, {'craka griwn', 'griay gerww', 'creke grnio', 'craco gruyn', 'cireq germh', 'cruig grenn'}, {'crqoi gowrn', 'criik grwwn', 'cruig grein', 'sarhg hyane', 'crric grynn', 'cwrza gzirm'}, {'cruik grwwn', 'cirxa gzrmy', 'gwagi qerhn', 'crcui grnah', 'crkio grenw', 'craiq grehn'}, {'crqau grnwy', 'crahk grneu', 'chors gcarm', 'crrig grean', 'crqiy griwn', 'hargi gerhw'}, {'criwg grwwn', 'criig groen', 'crahc grwnn', 'srhys qyaew', 'cwrox ghrmu', 'crcae grnai'}, {'crrwg griwn', 'cwurx gwarm', 'cruig grein', 'cargu gronw', 'wrias jwwem', 'curig grneo'}, {'jroci crwiw', 'crqie guren', 'creyg goern', 'craeg gruen', 'crcoh gorwn', 'cyryj guhrm'}, {'yarug chhne', 'chirk gzrna', 'creig grien', 'crgai griwn', 'crewg grnew', 'crcao guirn'}, {'crauk griyn', 'jyrix zweyw', 'cragg grehn', 'crgai gwren', 'cwyrg guwrn', 'chrex ggyrm'}, {'creyk grnyw', 'cyurs gzrma', 'crrig grien', 'crkiu grneu', 'crygg grryn', 'syiag hyenw'}, {'crrig graen', 'criku grwnu', 'zarix jerin', 'crahc greny', 'crqih guren', 'ciryj gsram'}, {'crghg grrwn', 'cragg greun', 'curwx gjrnu', 'cwryg gryni', 'hriaq yurne', 'crewg grnee'}, {'crquh guran', 'crawg greun', 'caorj gcrmo', 'crqia gruyn', 'crkiy grryn', 'xriax hyene'}, {'crrig grien', 'saric zwaew', 'crrqy gowrn', 'crkie grryn', 'churj gkrmu', 'crrwg grwyn'}, {'cryqe grrna', 'carje gyrrm', 'craiq greon', 'cracw grneo', 'crqiw grnei', 'jrowi serne'}, {'crqii griyn', 'crrig grehn', 'cyroc girrm', 'xareg werhn', 'cwrig grryn', 'cargu grnyy'}, {'craak grnew', 'zruga hyewm', 'creuk grniu', 'crawg gruen', 'cyrgh gkrny', 'cracu grnea'}, {'xarik hyeni', 'crawg grenn', 'cryco grnwy', 'crkio grneh', 'crauk grwyn', 'chroc gwrrm'}, {'qrogi yrwyy', 'coirj ghrmi', 'crrig groen', 'creyg grneo', 'crkiy grenw', 'crouk grynw'}, {'ciruc gxrwm', 'crkoi grwna', 'crkia grnei', 'craag grien', 'zwiag wrnae', 'craoc guren'}, {'crowc guhrn', 'cryyg grryn', 'chroz gqrwm', 'crowg griyn', 'xariy qywin', 'criig grean'}, {'cirek gormo', 'cairg grywn', 'crack guern', 'jwiag xrane', 'crwke grnau', 'crawg grren'}, {'saryg herey', 'cruky gairn', 'criig greun', 'crake goren', 'carzw gsrhm', 'cracw garen'}, {'crayc garen', 'craug grenn', 'coyrs ggwrm', 'cracw gruwn', 'zrwgi seyyn', 'cargg gwrrn'}, {'carww yerem', 'craeg grenn', 'cyrsw ghrnh', 'crguu ggarn', 'crauc grwnn', 'criwg grayn'}, {'crwyk grnue', 'jaric hwwem', 'curig grneu', 'creic grneh', 'carje ghrmm', 'craeg grehn'}, {'crrco grynu', 'ceros gurhm', 'criik grneu', 'zarij gerah', 'crack goren', 'criig grien'}, {'craeg grien', 'carjw gwrmm', 'hwiag ceran', 'curig guren', 'craqy gryyn', 'cryky grnoh'}, {'grias zerey', 'craca garen', 'caerx gwrma', 'crako gryyn', 'cruig graen', 'crcuw guron'}, {'crwyg grayn', 'cruig greun', 'corhz gyirm', 'crrwg gruwn', 'crygo gaurn', 'jarug zerne'}, {'cirhs geirm', 'carey gayne', 'croig graen', 'crqii grrwn', 'carwg grnou', 'crawc grown'}, {'crrig greun', 'jyogi jywin', 'ceruc ghrhm', 'crack gryyn', 'craoc griyn', 'crika grrni'}, {'craku garen', 'cragg groen', 'crwck goryn', 'criik grneh', 'jrogy krhne', 'chrwx gqhrm'}, {'croig grein', 'craak grayn', 'crqua grnaw', 'crwyg grney', 'yrias qraaw', 'carsy girmu'}, {'crywk gwrnn', 'curhj gurmy', 'karij serhn', 'crigw groyn', 'craog groen', 'cwrig grneo'}, {'crewg guern', 'cruig greon', 'croco gaurn', 'cwrhz ggirm', 'carww hyeme', 'corag guren'}, {'criyg grywn', 'crqao grnia', 'sareg ywwon', 'curox gurmi', 'crqiw groyn', 'crawg grren'}, {'cragw grwyn', 'corwg grnue', 'creig grren', 'crauk grwnn', 'coirs gzrrm', 'jriah sryne'}, {'crqiu grneo', 'croic grnew', 'craug graen', 'jroxi zerwn', 'croku grwne', 'chrcu gurmo'}, {'cragw guern', 'crrgo gryno', 'zariq xwrew', 'crowg grney', 'craiq graen', 'cergw gyrni'}, {'crric greny', 'crrak gwryn', 'zarog ghwne', 'cracu grneu', 'creig greun', 'cyrwz gzrnu'}, {'cyors gjrni', 'crgai grnee', 'criig graen', 'yregi xerey', 'crkih griyn', 'crika gayrn'}, {'cyrwx gqorm', 'craec guren', 'crqyy gwrwn', 'wriax wrahe', 'crahg groen', 'croik greny'}, {'crayk goren', 'cryyg grnea', 'craog groen', 'carqi grnau', 'corze gharm', 'kwiag zerhn'}, {'zyiag zrane', 'carag grneu', 'crahg gruen', 'crcwy gryna', 'cruwg grneh', 'corux gxrmu'}, {'cragg greon', 'caarg grwwn', 'curyz gjrum', 'crgai gaern', 'yriak chenu', 'cuerg grniy'}, {'creig greon', 'crrgo grnno', 'zruez jeryn', 'crkiw grneo', 'chors giurm', 'crako grneh'}, {'craka groyn', 'crawc griwn', 'creig grehn', 'sriac chiin', 'chrgo gourm', 'crqao grnie'}, {'craag grenn', 'crrky grnay', 'jyiag werey', 'crauk grywn', 'churs gkrrm', 'crgai gruwn'}, {'ceerk gcrym', 'cwrrg grwnw', 'jariz gerhy', 'creig graen', 'criic grayn', 'cruyg grnee'}, {'craog greun', 'criok guryn', 'swiag hwene', 'cruic guern', 'crahk grenw', 'cyyrx gehrm'}, {'crkoo gwran', 'cruwg grneu', 'craeg grenn', 'yyiag kwrew', 'chrge gwarm', 'crkii gruwn'}, {'zruez yruwe', 'cyruk gcorm', 'craca grrwn', 'cruyk grrno', 'cruig graen', 'crako gruyn'}, {'crrik grnea', 'carag guren', 'hariy serwn', 'cwrik gaarn', 'craiq grien', 'cyryk ggyrm'}, {'syagi yrwiy', 'craca groyn', 'cragg grean', 'corgh gsrym', 'carag grayn', 'coarc guron'}, {'caryj gyrrm', 'craiq greon', 'criik grywn', 'srwgi seyon', 'craqw gruwn', 'crrka grnoi'}, {'zaris seyan', 'crahg grean', 'crric grayn', 'carac gruny', 'cyrox gcrny', 'crowg grenw'}, {'craug grren', 'cwrhj gwram', 'craky gruyn', 'ckarg grwwn', 'xarij cyewm', 'carug gryno'}, {'chiah hwene', 'craok grown', 'cyrgu gormy', 'crawg grein', 'cryke gwron', 'croik grneo'}, {'coyrj gkrhm', 'hareg jryne', 'croic gwren', 'crack grnee', 'croig graen', 'cwreg gwrnn'}, {'criig grehn', 'ceryc gwhrm', 'croqy grinw', 'hhiag xrine', 'crako gwren', 'crawk grayn'}, {'crahk grnei', 'crawg grien', 'caruj gsrnw', 'yriak wraye', 'craki grneh', 'crqou gurin'}, {'cwrez girma', 'cruhk grnne', 'zarog gyine', 'cruik grwnn', 'crawg grean', 'crryg grnea'}, {'crwyg grneh', 'crogw grnio', 'cruig grein', 'hargi ceron', 'cwirk ghrna', 'craco grown'}, {'craiq grenn', 'cyegi xerem', 'crakw garen', 'crcoo gahrn', 'carox gqrmo', 'crakk griwn'}, {'cwurs gcrom', 'harij cehne', 'creig grehn', 'crooc garne', 'crqiy guren', 'crake grnei'}, {'cyurk gsrim', 'sriak jerun', 'curig grneh', 'crghg gryyn', 'crwqu gowrn', 'craog greon'}, {'cyrwc georm', 'crwqu grrnw', 'creig grehn', 'crkiu grown', 'jrhys yyene', 'craac grneh'}, {'crawk griyn', 'cyrys gkrni', 'jariy yrunw', 'crawg grein', 'crouc grniy', 'criwg grney'}, {'craak griwn', 'criig grehn', 'jwiag wrani', 'crqiw grenw', 'coirs gqwrm', 'crqey gruny'}, {'craug grean', 'cwirx gxurm', 'crghc goarn', 'garij zerew', 'crauc goern', 'criyg gruwn'}, {'carag gryyn', 'craog grenn', 'cryqy grnau', 'qrygi wrani', 'cirhq gcrmu', 'crayk grenw'}, {'cyroc ghrny', 'crcai gryyn', 'zareg qwiyn', 'crkeu gohrn', 'craki grynn', 'craog grren'}, {'creig gruen', 'cwric grrnu', 'wriaw cheme', 'cwrhq gehrm', 'crawk grrwn', 'craky greny'}, {'cryqo grrnu', 'crahk grnee', 'cergw gcwrm', 'crako grwnn', 'craag grren', 'caroh cerwn'}, {'crwwg grwnn', 'chrej gjrim', 'craug gruen', 'cruok grnuh', 'craco grneu', 'hruez yrwwy'}, {'crkie grnee', 'cowrs gxrnh', 'wriay gywiw', 'croig grean', 'curqi grniy', 'craqy goren'}, {'cirwj ggrmu', 'ckyrg grnoh', 'crkio grenw', 'carhy gywih', 'craiq greun', 'craok grneh'}, {'curag goern', 'corik grnnw', 'cires gqrnu', 'crauc goren', 'craeg grren', 'wargi gyhne'}, {'crrig grehn', 'crqih goern', 'chiak jrone', 'crkoe gwrun', 'corag gruyn', 'chrok gcrym'}, {'corex gzrmu', 'craak grryn', 'jyagi yrunw', 'crqau goron', 'cwrag gryyn', 'crawg gruen'}, {'craec grnei', 'crawc grney', 'ciryq gkrmi', 'creig grein', 'crrcu grnoi', 'qwiag criiw'}, {'crahc gaern', 'cruig greun', 'gyrix chenw', 'corxe gcrrm', 'cuarg grneu', 'crcui garrn'}, {'craeg graen', 'criic guren', 'ciirc ggrma', 'crywg grwyn', 'crqew gwrne', 'jrhgi crwiw'}, {'cyrso gxrna', 'yruga khene', 'criig groen', 'crahk grnei', 'crrcw grnui', 'crayq grayn'}, {'creig gruen', 'zruez wrame', 'cwrux giurm', 'crqih grwwn', 'criik grown', 'ckerg grrna'}, {'cryqq ggrwn', 'creig gruen', 'craek grwwn', 'yarug guyne', 'craka goern', 'caerx gxram'}, {'caerg gryna', 'krhgi zwaew', 'craeg grean', 'corux ghrrm', 'cruyg goren', 'craqy gwren'}, {'crahg gruen', 'croko grrne', 'criik gruwn', 'craky grynn', 'caerx gwrum', 'zaric chehe'}, {'craog greun', 'croyq grnyw', 'crewg grywn', 'yrwgi seywn', 'ceurj gsarm', 'craka grneh'}, {'criwc grony', 'craeg greun', 'wriay qhiyn', 'crkiy grwyn', 'cyrhz gurmm', 'cuarg grnee'}, {'jrias geryh', 'cuarg griwn', 'coirj gkyrm', 'crykw grynu', 'cragg graen', 'creik garen'}, {'craky gryyn', 'caroy hyeno', 'craog grenn', 'corhs garmm', 'crkoi grnyw', 'crywg guern'}, {'cryyg grnew', 'crkoh grnww', 'crake gaern', 'craag groen', 'ciroq girmw', 'jrgoi xwwem'}, {'jriak hyenh', 'criik grnei', 'cruig grien', 'crryg goern', 'cyryc gcrmu', 'cuorg goyrn'}, {'cyryq gawrm', 'qariw hyenu', 'crakk grwyn', 'crahg grren', 'cruwg grown', 'crwqi grrnw'}, {'crkai grwyn', 'crwyg grney', 'cwrex gkrma', 'ckrqi griny', 'craiq grehn', 'qrogi gwhne'}, {'crack garen', 'carhe chune', 'crrwg greny', 'cwrwz gurwm', 'croyq grnay', 'creig graen'}, {'crqiu guren', 'craac griyn', 'caorz geram', 'creig grein', 'zrhgi kirew', 'corac guhrn'}, {'craco guern', 'crkio grown', 'cersw garwm', 'cwwxi yerin', 'criig grien', 'creca ggrwn'}, {'criyg grywn', 'corge geyrm', 'croik grnew', 'cragg greun', 'jarix qrayw', 'crcoo grrne'}, {'wrogi hyenu', 'creku grnww', 'croic gaern', 'crkiw grneh', 'carzh goorm', 'craug greon'}, {'crika guwrn', 'courx gurmi', 'crghg grneh', 'creig grren', 'sriah qereh', 'crygg guern'}, {'cyiax srine', 'criwg goern', 'criuk gohrn', 'craag graen', 'cruik gruwn', 'ciurs gurnh'}, {'crrig greun', 'crgai grneh', 'ceroc gkrhm', 'cwrug grwno', 'creic gwren', 'xriaw gyywm'}, {'cahrs gearm', 'crcou gurne', 'crric guren', 'cruic grwnn', 'jroga cehne', 'craag grren'}, {'crcuu grnuw', 'cyrku gurmw', 'crric grwwn', 'crahc grneh', 'craeg groen', 'srhys syewm'}, {'cwrac ggarn', 'chirx gawrm', 'kariz criiw', 'creic greny', 'craag grehn', 'crkiy gaern'}, {'cwurs gwyrm', 'crkii guern', 'criic gryyn', 'yaric wrine', 'crcao goran', 'craog grren'}, {'syrix qyaew', 'criig grein', 'crqai grwnn', 'caors gywrm', 'cuark grnoe', 'crahc grnea'}, {'crkio grayn', 'coirj gahrm', 'criac grnoi', 'craeg grean', 'jarug jerey', 'crqii guern'}, {'coyrj garmy', 'crqia grwnn', 'cyiax chenh', 'croig grean', 'craqy grnei', 'cwrgg grnay'}, {'cragw grneo', 'qyiag yrhne', 'craeg greun', 'cryqe grrny', 'criik grryn', 'cwirj girmw'}, {'crghg grneo', 'crwgu gryno', 'cirgw ggrmu', 'crawg grehn', 'corig gwren', 'ghagi zrhne'}, {'craki groyn', 'kariy gwwwm', 'crryk goron', 'churs garum', 'crkiu griyn', 'craiq grehn'}, {'jargi gwryw', 'cirwx gsrno', 'crygu grrno', 'craug grein', 'cwrag gryyn', 'crayq grywn'}, {'warik qynee', 'crkua gwwrn', 'crwwg grown', 'crkie grwyn', 'craiq groen', 'carjy gshrm'}, {'swagi wrany', 'crqoa gurun', 'cruig grein', 'cruwg grwnn', 'crkiy grrwn', 'cergy gzrno'}, {'curuj gsrum', 'crowg garen', 'curag grwyn', 'jriaj hwwem', 'crahg grein', 'crrki gaarn'}, {'crggw guron', 'jrygi xeray', 'crryg goern', 'craoc grrwn', 'craog grean', 'cwrgh gkrny'}, {'ciryz gorwm', 'crkih guren', 'whagi jerne', 'crahg graen', 'carag grnea', 'creoc garun'}, {'ciruk gorma', 'cwuez criih', 'cryki grnie', 'crawg graen', 'crqie greny', 'cragw groyn'}, {'cruig greon', 'crayk grneu', 'crric griyn', 'chrek ghrmi', 'crquh ggarn', 'yaryg yywwn'}, {'cwiaj hyena', 'carwg grnwy', 'creic grney', 'crako goern', 'crawg groen', 'curhs gkrmo'}, {'wriaq serun', 'croik grryn', 'crahg grien', 'corag goern', 'crque grnoh', 'chirx gzrrm'}, {'crawc grneo', 'creak grnwy', 'chryj gyrmm', 'zwiag qrayw', 'crawg grean', 'crkiw grnew'}, {'jrowi jerne', 'cirez gsrim', 'criik gaern', 'crquw gwrnn', 'creyg grnea', 'craag grren'}, {'criyk gurrn', 'ckarg grenw', 'warhg yurne', 'crwwg grown', 'cwurs girim', 'creig grren'}, {'crrwg griwn', 'crauk grneo', 'crokk guyrn', 'creig grehn', 'curuz ghrmu', 'hrwgi yerem'}, {'craog graen', 'cirze gqrny', 'cruik grneu', 'xarwg serhn', 'cuurg gahrn', 'craoc grown'}, {'crrig greon', 'craca grney', 'creko gorrn', 'crkia grwwn', 'zruga weran', 'carhx gjurm'}, {'criki gaorn', 'corex germh', 'coarg grwnn', 'jarik gayne', 'crkii gwren', 'criig grean'}, {'cwurx gyurm', 'craog grein', 'crauc grywn', 'creic grenw', 'crgae grnuh', 'kriay ywune'}, {'crigw grnee', 'cragg greun', 'churx gerwm', 'hriaw chone', 'craek gaern', 'curac grrnw'}, {'crrwc grnni', 'curag grrwn', 'harik zweww', 'corhk gyorm', 'craag graen', 'craqw groyn'}, {'crrig graen', 'curig grrwn', 'chias yrwyy', 'crqio guren', 'cares gcorm', 'crruc gaurn'}, {'crrcw grnui', 'cares gxrmo', 'craeg gruen', 'cairg guern', 'crywg grryn', 'karih qrahw'}, {'cyrsw gkrym', 'kriaw genwe', 'creig grien', 'caark ggorn', 'crqiu grown', 'crkia garen'}, {'ckarg grrwn', 'crrig graen', 'crygg grney', 'cerez gurmy', 'hariq ghwne', 'ckorg grnoe'}, {'qarij qereh', 'craog grren', 'craki grrwn', 'chrws gxrno', 'crqoy grrny', 'crauk grryn'}, {'crcah grnnu', 'criig greun', 'crqiy grnei', 'ceirj gsrmy', 'crqio gwren', 'whiag qhaew'}, {'crgao grrni', 'warog qarew', 'craiq greon', 'crayc grrwn', 'cirka gurmy', 'croic grynn'}, {'crkoo gwrrn', 'craek griwn', 'curhz ghrmw', 'cruwg guern', 'hwiag jerun', 'cragg grenn'}, {'yrhys gwyne', 'crkaa ggarn', 'crawg greon', 'crqiu grown', 'crayk grnea', 'chrhx gxrmi'}, {'croic groyn', 'crkea gawrn', 'cwhys qywin', 'craag grehn', 'curig grywn', 'cahrz gzrnu'}, {'xareg gerwh', 'creig greon', 'crroc ggrrn', 'curhx ghwrm', 'crqiu grnei', 'craoc grynn'}, {'crkai grnew', 'carsa gqrnu', 'crrig groen', 'sargi chena', 'crcuy gryni', 'craco grneh'}, {'craco goern', 'yriaz ghwne', 'cryca gwron', 'craki garen', 'chroj gqrmo', 'cruig grenn'}, {'carag grwnn', 'crqaa garan', 'creig greon', 'qaris syene', 'cwruj gsrum', 'cruic groyn'}, {'wrias kireh', 'coyrs gzrmy', 'crayq guern', 'cruig grein', 'crggo goorn', 'craok grneh'}, {'crkai grywn', 'coraq garon', 'jrogi geryy', 'curge ghrwm', 'crawg groen', 'craac grwyn'}, {'crkio grwnn', 'criig groen', 'croic gaern', 'yriax wrany', 'coarq grnay', 'cyhrk ggyrm'}, {'crygg guren', 'saric zewew', 'crehk grnue', 'cracu grywn', 'coros gkram', 'craeg grien'}, {'croic griwn', 'crggo grnii', 'hwiag kerem', 'cruig grien', 'ciruz gerhm', 'crigw grney'}, {'creic gryyn', 'cracw grneu', 'criig groen', 'cryqi ggorn', 'waryg cyiin', 'chryj gkrym'}, {'cyirs gzrrm', 'crrig grean', 'crahc grown', 'crqia grneu', 'hrhgi yhune', 'ckerg grnuo'}, {'caarc grynu', 'grias gerww', 'craug grren', 'ceruq gzrma', 'crigw grayn', 'crqiy goern'}, {'cruig grien', 'crake gruwn', 'corws gchrm', 'craku greny', 'cywxi gywne', 'croec grnua'}, {'crigw grwwn', 'zrwxi yrwiy', 'corwx gyrnm', 'crrok grony', 'craug groen', 'crwwg griyn'}, {'crrik grnea', 'ckarc grnue', 'harwg gwwhm', 'crgai greny', 'cwirk gkrum', 'cruig grenn'}, {'crwwg garen', 'cruig groen', 'yrogi yruny', 'carxw garnm', 'cwrig grney', 'crkeo grrno'}, {'craak grneh', 'crkai guern', 'crqua gwrnn', 'cragg grien', 'cwhgi yywon', 'cyrys gurmo'}, {'cruyg grneh', 'yriaz xriah', 'corag grenw', 'cruig gruen', 'crrqe grnae', 'cuurj girum'}, {'cahrg guwrn', 'croig grehn', 'crwwg goern', 'grwxi qerey', 'cruwg grneo', 'ceyrk gzrna'}, {'cawrx gyrum', 'yregi seyin', 'crkoo gryny', 'crric goern', 'corag grnea', 'crrig grren'}, {'cracw grwnn', 'craiq grein', 'crigw grneo', 'sriak cwwem', 'cyurx gqrnh', 'crwqq grwna'}, {'cargg gryny', 'creig groen', 'criyg grney', 'corse gzrma', 'whiag xryay', 'crkii grrwn'}, {'crkia grneh', 'crcaa grnuy', 'cawrj gahrm', 'creyg grwyn', 'jrogu yeron', 'cruig grenn'}, {'craky grwnn', 'hrugi cerin', 'cyirz girom', 'craag graen', 'crkia grneo', 'crggu grnay'}, {'xaryg khene', 'cryko ggurn', 'ceruk gsrnw', 'cruic grney', 'cruig gruen', 'curag greny'}, {'cwrhz gehrm', 'cyiay wrune', 'craiq grenn', 'crawk grwwn', 'crkew grnai', 'criyg grrwn'}, {'cryca grrno', 'craqy grnee', 'corig grryn', 'ceurj ggrmy', 'griaj cwwin', 'criig grien'}, {'zriax hyeno', 'criig graen', 'crqiw guren', 'crrak grnow', 'crewg grwyn', 'carxw gsorm'}, {'curac gwrin', 'craug grean', 'whiag yrwiy', 'carch gorum', 'caarg gwren', 'coarg gruwn'}, {'crkuu gronw', 'cragg groen', 'jruga gwyne', 'cires garam', 'cwrig gruwn', 'cruyg goern'}, {'jriaj seyin', 'crawg grenn', 'cwruz gyrnm', 'crkio grnei', 'criyg grneo', 'cowrg gurne'}, {'croig gruen', 'gariz zwene', 'cwrqi gronw', 'crkiu grywn', 'cwrux ghyrm', 'crakw greny'}, {'crkua garwn', 'crahg grean', 'wriaj qerey', 'crahk grneo', 'cwroz gwrmh', 'crygg grnei'}, {'crrig grien', 'crquy gwrun', 'harog cyiin', 'cyryc gwrmm', 'cracu goern', 'crigw grney'}, {'creyg goren', 'zrias xeran', 'ckrki granw', 'craog groen', 'crayk gaern', 'cyirq gzrny'}, {'crqyw goron', 'curyj gyrnu', 'craug grenn', 'carwh guyne', 'crryg grnea', 'curag grnei'}, {'craqw grwnn', 'cruqy goran', 'craag grein', 'cyryc gaurm', 'hrwgi weron', 'crakk garen'}, {'chrej gqrnh', 'cruko gaarn', 'craiq grenn', 'zyiag qriyh', 'crwyg garen', 'crygg grnee'}, {'creyq griny', 'croig grren', 'warog yyune', 'carsa gwhrm', 'craca grnew', 'creik griyn'}, {'corig grnei', 'crwwg grwnn', 'cyrgo gorhm', 'yriaz srhne', 'creig grien', 'crrqi grnui'}, {'crqii grnew', 'craag grean', 'ceirz gurum', 'ckrqi grrny', 'qhagi jeron', 'crqia greny'}, {'croig grein', 'cyrgu gcurm', 'jrosi jrhne', 'crkoh gwyrn', 'crwgg grryn', 'croik guren'}, {'criig grehn', 'criik grwwn', 'cruyq grnne', 'ceruz gkrna', 'craqw grown', 'yarik zweaw'}, {'curig gruyn', 'criig greon', 'carzh gurmm', 'crwgw grrna', 'croyg grney', 'zriaw qraww'}, {'crigw grnee', 'crwcu gryne', 'craug grean', 'wriax xruay', 'cirsa gkrrm', 'craco gaern'}, {'ckrqi ggrne', 'crkie grneh', 'coarg grwyn', 'wriak gyiwm', 'crrig grren', 'coirz gcrni'}, {'curag grneh', 'crkey gaorn', 'cirwj gzwrm', 'caruh srone', 'craag graen', 'cruic groyn'}, {'cwric grnne', 'crawg graen', 'xaric xryne', 'crqii grneu', 'cwrig gruyn', 'curyz gqrni'}, {'crywg grwwn', 'carex garmi', 'cruwg guern', 'crahg graen', 'ckarc grnii', 'warih xrway'}, {'cragg greun', 'cwogi zwewe', 'carog gryno', 'chrox gkrnw', 'crqai griwn', 'craqw goren'}, {'wregi yyene', 'craec grwnn', 'craqy grynn', 'cruig grein', 'cirok girnm', 'cruak grnaw'}, {'warik seyhn', 'crgoy guorn', 'craeg groen', 'cirhk ghrwm', 'crric guren', 'crqie grneo'}, {'craug grehn', 'crqih griwn', 'ckric gryny', 'corgh gxhrm', 'crwwg greny', 'garix herun'}, {'crrig greon', 'criyg grneh', 'criik grnei', 'chruk gsorm', 'cayrg grniw', 'zriaw zwrew'}, {'crrig graen', 'grhys herew', 'creic grwyn', 'caors gzrum', 'criwg groyn', 'crihk grniy'}, {'creyg grwwn', 'cwrwg grnih', 'cerwj gwyrm', 'craug grein', 'syiag zweww', 'crgai grrwn'}, {'grugi zrwne', 'criwc grniu', 'cirwz germw', 'crqai griwn', 'craiq grien', 'crryg gwren'}, {'cryqq guirn', 'croyg grneh', 'crric griwn', 'cyrcu gjrmw', 'qrwgi werem', 'craug greon'}, {'ceruc gwarm', 'crrig grenn', 'corig grwyn', 'crqoy griny', 'jwiag gwwme', 'corag groyn'}, {'crqoo gohrn', 'cwiaz wryne', 'caarg grnei', 'craag groen', 'chhrk goarm', 'ckarg grneo'}, {'crrig greon', 'crygg goren', 'cwrhk gsrnw', 'crigw garen', 'karix criim', 'criyc gryni'}, {'zarix xerin', 'craeg graen', 'crrwg guern', 'cruic grown', 'crcao gryno', 'corez ggrmw'}, {'cyyrx gxrym', 'crykw gairn', 'criyg grwyn', 'craog grien', 'jyagi qynee', 'crayq goren'}, {'crahg grehn', 'crkiu grryn', 'zarix whane', 'crakk grwwn', 'chrga gsrwm', 'crgua gryny'}, {'chruj gyhrm', 'creig grehn', 'harix hyehe', 'crioc gruny', 'crahk grwyn', 'crowg grenw'}, {'ciirs georm', 'craog grenn', 'crcow grnuo', 'craki grryn', 'zariw geraw', 'crawk grrwn'}, {'cricu guhrn', 'sarik xruah', 'corus gyrom', 'crawk grown', 'crahg greun', 'crakw gaern'}, {'curyj gyrum', 'jyogi hynee', 'cwrag goren', 'crkoa gourn', 'criig grren', 'cairg griwn'}, {'chhys jrune', 'crrkw gwyrn', 'churs gsram', 'crqiy gwren', 'crrwg grneh', 'cragg grren'}, {'cragg greon', 'cragw grenw', 'yriah crwim', 'corhq ggrym', 'craok grayn', 'coryg grnnw'}, {'coyrx gworm', 'cragw garen', 'crauk grynn', 'crgou grnni', 'crawg grren', 'qruez ywune'}, {'craku grneu', 'craky griyn', 'ckric gwrun', 'chruz gsrmw', 'croig grenn', 'xhagi cerwn'}, {'craco griwn', 'caarc gaurn', 'craug grein', 'croic grnei', 'sarug xruay', 'ceyrk ggrma'}, {'crkui gurne', 'croig greon', 'chias crwiy', 'cruic grayn', 'craca grneh', 'ciruz germa'}, {'cryqy gourn', 'crrik grayn', 'crqiw grneh', 'kyagi qeram', 'cwrsw ghrym', 'crahg grein'}, {'cirec garma', 'ywiag geruy', 'crqie goren', 'crehk goryn', 'crqiw groyn', 'crrig grren'}, {'craoc gruyn', 'yariy qarew', 'curge gyrim', 'curig grrwn', 'cahrg grrnu', 'craug gruen'}, {'crkuu guran', 'crahk grown', 'jrogy yhwwn', 'cirys ggrwm', 'crygg greny', 'criig grenn'}, {'crawc greny', 'jroxi wrani', 'craka grynn', 'coryz gyrma', 'croko grnww', 'croig grien'}, {'crogw gwrun', 'craug grein', 'craec gaern', 'curag grenw', 'sarhg gwwim', 'carzh gyrhm'}, {'craqy grnei', 'corgg grnou', 'ciwrs guirm', 'craeg grehn', 'zriax kereh', 'crryg grwyn'}, {'crahg grehn', 'creky grrni', 'zriax gwraw', 'cyrec garmu', 'crake grown', 'cruik gruwn'}, {'warug xroay', 'cruig grean', 'crwgg grnea', 'curqi ggwrn', 'crakk grnei', 'cirhk ggrmy'}, {'crauk grrwn', 'sarug genae', 'cwirj gyhrm', 'cohrg gwrne', 'crkio gryyn', 'craug greun'}, {'corex gurwm', 'krwxi jryne', 'cwrag grnew', 'crrig grren', 'crewg gwren', 'cwrki gurnn'}, {'craok groyn', 'criuk granw', 'creig gruen', 'chruz gormu', 'crqii goren', 'zrogi yrnue'}, {'crrqo guurn', 'curhc gxorm', 'jrogy chehe', 'criik grneh', 'carag guern', 'creig greun'}, {'craec grrwn', 'yaris cerew', 'coirx garom', 'crkue guran', 'cragw grown', 'creig graen'}, {'yriay qriyh', 'cruwc garin', 'croic garen', 'cwrhx gcrmu', 'crgai goern', 'crawg grien'}, {'crkyy grnni', 'ceork gjurm', 'cairg grynn', 'criig groen', 'gyagi gwryw', 'crqih grrwn'}, {'carhq garhm', 'craog grenn', 'crqoi gryne', 'cwhgi qrnhe', 'creyg grneu', 'crayk grown'}, {'waryg qhiyn', 'croig greun', 'curag grown', 'cuirs ghrni', 'crkwy gwran', 'crwwg grneh'}, {'chiac cerhn', 'crawk grenw', 'croku garan', 'cwrsa gyrni', 'cragw griwn', 'craog grren'}, {'cuarg grynn', 'curyg goorn', 'cracw guern', 'xwiag yyune', 'cirhc girym', 'criig grenn'}, {'craog grein', 'crqia grywn', 'crowg grney', 'crgue grnyw', 'curwj gjrno', 'jhiag seyyn'}, {'srwgi hyewe', 'corrg grnae', 'cirka girmo', 'crawg grean', 'crayc grnei', 'cwrag grnew'}, {'crgau grnah', 'crrig graen', 'srhys hyane', 'crqih goern', 'craok grwnn', 'chruc gyrnu'}, {'croik grwyn', 'cruhk grrna', 'sriaj zrone', 'cyreq gsrni', 'crywg grneu', 'crahg grenn'}, {'curws gwarm', 'creig grenn', 'crgou grnwy', 'waryg xraah', 'crakk goren', 'crake grenw'}, {'craeg greon', 'grygi yrane', 'corki grnuy', 'cracu grown', 'crwgg grneo', 'caors gwrim'}, {'criig graen', 'cyrwz gwrmu', 'crryc grwne', 'srwxi wrhne', 'caarg grwyn', 'craqw grnei'}, {'cairq gaurn', 'ciirs gcrmi', 'hruga xhene', 'coarg garen', 'craec grwwn', 'criig grren'}, {'crrig gruen', 'corse gxrhm', 'hhagi qriyw', 'corag grwwn', 'cruco grnaw', 'crkia gaern'}, {'curic grnoa', 'ceurs ggarm', 'craiq grein', 'crwyg goern', 'sarik serey', 'crkih grnee'}, {'craku grneu', 'criig groen', 'harwg yyune', 'craky gruyn', 'cuurs gormh', 'cuorg gurrn'}, {'grwxi zweww', 'cwrig grryn', 'cargu grnio', 'crawg grein', 'cairg griwn', 'carej gurhm'}, {'srhys yrwhy', 'crqaw guryn', 'craog grren', 'chrhz ggrmu', 'ckarg grnea', 'crwwg grneh'}, {'crahg gruen', 'crcow grnoy', 'cyirj gwhrm', 'cwiaz whene', 'cruwg grney', 'cuarg greny'}, {'crake greny', 'cyiax warne', 'cyurk gqrma', 'crqiu grryn', 'crawg grehn', 'coreg gwran'}, {'crawk grwyn', 'crewq grnni', 'yrwxi xerhn', 'cruig groen', 'crack grnei', 'carux gormy'}, {'caurg gourn', 'crahg gruen', 'cerux gzrum', 'sriak crwiy', 'craca grneh', 'corag griwn'}, {'ckarg gaern', 'crrwc grnau', 'xarix zrine', 'craug gruen', 'cirqa gzrum', 'crauk grynn'}, {'creik grneo', 'craug grean', 'crwcw grnou', 'carwj gwrmm', 'zhagi chenw', 'crqiy gryyn'}, {'curwj gqyrm', 'crqai grnee', 'hrwgi xrane', 'craiq grren', 'craco greny', 'crwqy grwne'}, {'sriaq gerih', 'corag gruwn', 'chryj gkyrm', 'crakk groyn', 'craeg grein', 'crqui gaorn'}, {'crayc gruyn', 'craog grien', 'zriah zwewe', 'cyrhj garmi', 'crrgu gairn', 'crakk goren'}, {'craqw grwwn', 'cragg groen', 'crewg grnei', 'cwrhc gqrna', 'xaric ywwon', 'cryqy gornn'}, {'curus gzurm', 'crwgo grnnw', 'shagi yhwwn', 'craoc grney', 'croig groen', 'crryg grryn'}, {'karih serwn', 'ckarg grnea', 'cwric grnoi', 'cawrz gzrmo', 'craiq gruen', 'corag guren'}, {'cruwg gryyn', 'craeg groen', 'cwiay xerem', 'corug gwrne', 'chrox gkurm', 'croic grywn'}, {'crigw goren', 'xarik wrany', 'crrga goirn', 'creyg gruyn', 'cyrek gywrm', 'craog greon'}, {'craeg greon', 'crqia groyn', 'crcuw guran', 'xarug hywin', 'crayq gryyn', 'cwroj gurum'}, {'crrek grnnw', 'craqw grenw', 'jruga hyeme', 'chroj gsrma', 'crayk garen', 'craeg grien'}, {'croac guhrn', 'crkii grryn', 'cyhgi wrani', 'craeg grean', 'chirx gewrm', 'crigw grown'}, {'curuz gerim', 'crrwg grwnn', 'crgaw grnyy', 'grwgi cheno', 'craiq groen', 'crqiu grnew'}, {'creki gorun', 'creik grnew', 'craiq greon', 'cyrhj ghrnw', 'craqy grneo', 'sarik gwane'}, {'curaq grnyy', 'corig grenw', 'crkih goern', 'garih chenw', 'ceruk gjorm', 'craeg grren'}, {'crqie griwn', 'craiq grenn', 'cyegi qeram', 'criek grnoe', 'ciyrx gorma', 'crauk grenw'}, {'crqai goern', 'xrygi xheah', 'craug grien', 'creec gwrin', 'crahk grryn', 'cirsw gsrum'}, {'cruig greon', 'cwrgg grrne', 'craky grwwn', 'crqia grneo', 'ccrga gzrmi', 'wriaq hrine'}, {'crwyg grayn', 'crakk grnea', 'sarhg cerne', 'craog grehn', 'cerek garma', 'crwku grrno'}, {'cruig gruen', 'criik grnee', 'crkue guwrn', 'cwrza ghrrm', 'crkie grnea', 'cywgi xweay'}, {'crguy guhrn', 'craka goern', 'corhj gsorm', 'jregi whene', 'crako gruwn', 'criig greun'}, {'curos gurmo', 'craug grren', 'crywk grnuw', 'zariq hyine', 'crrwg grnew', 'crqiw grwnn'}, {'criyc gwryn', 'jrosi geraw', 'crywg grwwn', 'craiq grren', 'crayq grryn', 'cuurj girum'}, {'cyroj gyrym', 'creik grwnn', 'crkio grneu', 'jroji serin', 'craag grren', 'cruqy grunw'}, {'cwwgi gwwwm', 'crrqu goirn', 'crauc gwren', 'curhz ghurm', 'criig grren', 'criic gaern'}, {'craug grehn', 'jriaw xrwne', 'craky grywn', 'cyhrk gurwm', 'crkio groyn', 'crruc garwn'}, {'cirwz gurmi', 'crrca guyrn', 'creic garen', 'crauc grrwn', 'carhe zweww', 'craeg gruen'}, {'chrox gyrmu', 'chwgi chnee', 'crakw guren', 'craag greun', 'crrgw garrn', 'crqai grayn'}, {'croig grein', 'zrwgi wrnae', 'chryq gxrnu', 'cruic grwwn', 'crahk grrwn', 'cryga grnaa'}, {'craqw grwwn', 'crkie grney', 'cwhgi jereh', 'crahg greun', 'caruj gkrrm', 'curic goarn'}, {'cruig grean', 'craky groyn', 'chrwj gsarm', 'zarij werin', 'crggo guron', 'croik grynn'}, {'cxrga gcrwm', 'yriac cheno', 'crcoy grnau', 'craky grwwn', 'crqiu garen', 'craug greun'}, {'chrec gyrrm', 'qrwgi seyon', 'crakk grnea', 'crque grnii', 'craug grren', 'curig grown'}, {'harog gwane', 'carjo giorm', 'crric grwyn', 'craug greon', 'cuarg greny', 'crqew guurn'}, {'crahg grehn', 'crryg gaern', 'crkuy grnuw', 'craky grwyn', 'sriax hyyne', 'cerwj gqrmy'}, {'zriaq xerin', 'corhs gyram', 'crrec grwne', 'cruik grrwn', 'crkii guren', 'cragg grren'}, {'caruh zyene', 'craug grein', 'ciirk gwrmi', 'cruic grwnn', 'crwku guarn', 'crauk gruyn'}, {'criig graen', 'jriay ceron', 'ciruk gqrnw', 'creic grwnn', 'crwgg greny', 'croku ggrrn'}, {'crrwg grnea', 'cragg greun', 'corce gkrym', 'carwg grony', 'hriah zywin', 'craek grrwn'}, {'crawc grnee', 'ceryq gcrno', 'crayq gryyn', 'warih yerem', 'crock grnuo', 'criig grean'}, {'crykk goron', 'cyrez gzrny', 'crygg goern', 'crkii gaern', 'cragg grien', 'hrias xwrew'}, {'craog grenn', 'crqao gurne', 'cawrs gwyrm', 'zriay seyyn', 'criik grwyn', 'curag gryyn'}, {'crryg goren', 'carwz gsrum', 'croig grren', 'cureg grnou', 'criwg griyn', 'cwhgi xerun'}, {'craka grnei', 'cricu grnua', 'jaris yryne', 'craeg grein', 'crakw griwn', 'ceruk gqrny'}, {'crqaa grnua', 'carwj girwm', 'cragg grean', 'crqiw goren', 'zyagi gyine', 'crrwg guren'}, {'cwrsw gyarm', 'craac groyn', 'krias gywni', 'craiq greon', 'crric grwwn', 'crgoh grnay'}, {'qhiag cheno', 'cruca ggrrn', 'crakk gruyn', 'cwrag grywn', 'craag grean', 'chirq ghorm'}, {'caryh yrine', 'craug grren', 'crcay gurin', 'churj gjrmy', 'criwg garen', 'crahc griyn'}, {'craka grnei', 'chrox gayrm', 'craky gruwn', 'srhgi jrhne', 'criig grien', 'crywq goran'}, {'crqqy guirn', 'croig grren', 'crack grneh', 'craki grnee', 'curus gqrnh', 'qriaj yrwiy'}, {'craog greun', 'hariz chhne', 'cruoc gorwn', 'crkia garen', 'crghg gruyn', 'chhrk gkhrm'}, {'crqiw grown', 'crrke gurin', 'cragg grien', 'cyiaq geruh', 'curhz gshrm', 'crako gruyn'}, {'cuirx gwurm', 'cruig grehn', 'crryq ggrwn', 'crkia guren', 'crwgg greny', 'gariy hywin'}, {'crwgo grnao', 'crawk griwn', 'karih xeryn', 'cwrhq gyrnm', 'craug groen', 'crayc goern'}, {'ckarg grryn', 'craog graen', 'crgua grrne', 'caryx gjrum', 'crqie grneo', 'jaric yrunh'}, {'curhj gkrmh', 'crwyq garun', 'craag groen', 'sriaz jwwem', 'cracu gryyn', 'creyg grayn'}, {'craiq groen', 'crake grneo', 'grwgi zwoew', 'crwqu gaarn', 'craky goern', 'cyrok gwrim'}, {'wruga cheye', 'croig greun', 'crohk gwrne', 'craak grney', 'cragw gaern', 'cirsa gjirm'}, {'corig grwyn', 'crquw grnae', 'waric gehre', 'crqai grown', 'craiq graen', 'ceyrx guorm'}, {'croig grein', 'crygg goren', 'carzh gormw', 'crwka ggrrn', 'krwgi werem', 'crkiy guren'}, {'cereq gjram', 'cwrwg ggurn', 'craag graen', 'hruga xrune', 'croyg grnee', 'crkie goern'}, {'crwgg guern', 'cyurs ggarm', 'craug grein', 'qariy qwiyn', 'crrky ggrwn', 'crakw grnea'}, {'crigw griwn', 'crguh grrnw', 'crqiy goren', 'cwrej gyirm', 'qriaj shene', 'criig grren'}, {'crcoe grrno', 'ciwrs gyrnw', 'croig graen', 'xareg xeryn', 'craki grwyn', 'croyg gruwn'}, {'crukk gawrn', 'caryw heran', 'cwrhj girim', 'cairg guren', 'crako gryyn', 'crahg greon'}, {'yarhg hyewm', 'craca grryn', 'carwx ggrhm', 'crkeu grnow', 'craoc grywn', 'craiq groen'}, {'criic grnee', 'crigw grwyn', 'cwurj gyrmy', 'ckarc grnih', 'cyugi gyone', 'craeg grien'}, {'xhiag wwrew', 'croke grnaw', 'cirhc ghrmw', 'criig grren', 'crgai guren', 'crawc grown'}, {'corge ghwrm', 'crook gayrn', 'crauk grown', 'criyg grayn', 'hriaj hyehe', 'craeg grehn'}, {'craeg greun', 'craqy grnee', 'whagi gyane', 'crayk gruyn', 'corej gjirm', 'creak goyrn'}, {'crghk grnne', 'crahg grehn', 'crauk grnee', 'khiag zweiw', 'carcy gurom', 'crako grney'}, {'crrwg grrwn', 'crwwg guren', 'cruuc grnow', 'qargi hywin', 'chrec gwarm', 'craog grren'}, {'crggw grnuw', 'cerox gzrmw', 'craak grnew', 'craag greun', 'craec groyn', 'yyrix gyyne'}, {'crrik guren', 'xrygi gyone', 'crqii gruwn', 'croac gahrn', 'cirga gyrny', 'craog grren'}, {'crkio grayn', 'creyg goren', 'zarog geruh', 'curwj gjhrm', 'creig grien', 'crewk garan'}, {'crrig grehn', 'cryky goorn', 'griax ghwne', 'crqiy griyn', 'crygg grnea', 'carja guirm'}, {'cwiah ghwne', 'cirja gkram', 'crkii grwnn', 'criig grien', 'crayk grown', 'crekw gowrn'}, {'cuirz gcrrm', 'crcoh gryne', 'crkiu grneh', 'craag groen', 'crqii grney', 'gregi gywim'}, {'crggw grnuw', 'jriaw hyewm', 'crawg grenn', 'ckarg grwnn', 'corhq gzirm', 'crake griyn'}, {'crewg garen', 'cwiac syene', 'cirgo gzorm', 'ckurg grwne', 'crawg gruen', 'crqai grayn'}, {'cryke goryn', 'craag greon', 'carxo gormi', 'wrogi qraww', 'criyg grneo', 'crkia garen'}, {'crwgg grayn', 'craek grywn', 'crryc guorn', 'swiag zwene', 'craeg grehn', 'chryk gjrym'}, {'crrig grein', 'criak grnay', 'croic grnee', 'cirwz gjrmi', 'cruic grenw', 'sriaj yyene'}, {'crowg gaern', 'crqwy grwne', 'jyiag jeryn', 'ccrwz gzrym', 'craki griwn', 'craag grein'}, {'cryyg grwwn', 'criik grneo', 'craog greun', 'qarih geywm', 'cerge gwyrm', 'coarq grnne'}, {'crahg gruen', 'kriah yyene', 'crwky grinw', 'crwwg grown', 'cragw goern', 'ciryq girmi'}, {'jroci yerin', 'crkow grynw', 'crake gaern', 'crryg grynn', 'craeg gruen', 'chrus gsrnu'}, {'cyrwk geirm', 'croig greon', 'criic gwren', 'xhiag qwwem', 'crrwg grwnn', 'cruec grnaw'}, {'crkiw grrwn', 'cuwrg gwrin', 'cragg groen', 'cyiax yrine', 'croik grnea', 'chrwx gyrmh'}, {'corac garne', 'crahk gaern', 'criig grenn', 'krhgi jrone', 'craek grrwn', 'carjo germo'}, {'cragg greon', 'srwgi xwrew', 'crack gruwn', 'crqae grynu', 'criwg grnew', 'cirhc gjwrm'}, {'curhz gormh', 'cragg greon', 'crick grwnw', 'crqiu garen', 'crqiw gruwn', 'kargi yrwow'}, {'zrhgi geray', 'crack garen', 'creig greon', 'carga grynw', 'criwg grynn', 'cwrej ggrmw'}, {'craeg grean', 'cryyg griyn', 'ciryj giwrm', 'crecw gwrin', 'crywg guern', 'cwiaj yhene'}, {'craoc gruyn', 'cwrig grnew', 'xriac hrhne', 'cowrs girym', 'crkuy grrne', 'crawg grein'}, {'crkih gaern', 'criuc grrnu', 'ceryz gcrny', 'karih gywwm', 'craag grehn', 'curag grywn'}, {'coirs gjrnw', 'crayc gwren', 'cruhk garun', 'crakk groyn', 'wriax yruwe', 'craag grenn'}, {'crako grown', 'crayk grnee', 'croig greon', 'xriax chenw', 'cwryx ghurm', 'creki gohrn'}, {'crake grrwn', 'creck grwnw', 'ceroq girna', 'qarhg gwone', 'cragg grein', 'crkai grwwn'}, {'crywg groyn', 'creig grean', 'crakw garen', 'criek goirn', 'coruj gqrnw', 'sriaz gywiy'}, {'crycw grnao', 'craku guren', 'craeg groen', 'crywg grnea', 'zriaz yerey', 'corwj gjrnu'}, {'crrig greon', 'ceurk gurrm', 'crqai gruyn', 'caarg grynn', 'jhiag swwem', 'coyrg guirn'}, {'yhiag serem', 'crahc groyn', 'cwres gairm', 'criig grren', 'coreg grniu', 'crayk grown'}, {'craeg greon', 'cruik grwnn', 'cirhj gqwrm', 'carwy herew', 'ckarg garen', 'crryq gowrn'}, {'crwqq garrn', 'crowg goern', 'cyruk gqarm', 'croig grehn', 'jriay srane', 'crryg gryyn'}, {'crewg grneo', 'hrugi geroh', 'crokw grrne', 'crrwg grwnn', 'crawg grean', 'cirhj gjrnh'}, {'jyiag yrune', 'criig grein', 'crkaw grany', 'crayq grneo', 'cwrag griwn', 'cwroz gyyrm'}, {'curig grnew', 'sriaj gyywm', 'ceres gjrma', 'cruig groen', 'crack groyn', 'cryqu gryno'}, {'cwrws gorom', 'crahg graen', 'crgai grywn', 'saric herem', 'criak guorn', 'cuarg groyn'}, {'crrig grein', 'crcai grneh', 'crquu grrna', 'craku grneo', 'cwirj gurmi', 'warij zrwne'}, {'crakk grrwn', 'craug gruen', 'qyagi eqran', 'crowg greny', 'ckryg grnww', 'chruj gurnh'}, {'crrig greon', 'corze geurm', 'carac grony', 'craoc grney', 'crgai gwren', 'wrhgi qerew'}, {'crywg gryyn', 'creke gryno', 'wriaw hrwne', 'curgh gcrmo', 'criig greon', 'crkiu grwnn'}, {'cwiaq wraye', 'cruig grren', 'crgae grnuh', 'cyruj gcrim', 'crayc grnei', 'crkai gruyn'}, {'craug grehn', 'crkaa grnaw', 'crqiy grneh', 'cuarg grwwn', 'cawrs gourm', 'xyrix zwuew'}, {'curez gwrmy', 'crack griwn', 'zriaw seyun', 'crquu grrnu', 'cragw grnew', 'craog greon'}, {'criyg gryyn', 'cyrwx gearm', 'crcai goern', 'warwg wrano', 'criig grren', 'crrka gwyrn'}, {'chwgi wyewm', 'crrig graen', 'coyrg garne', 'crayq grown', 'cyrwk gyrna', 'caarg grynn'}, {'hrwgi qrauw', 'crkow gwrne', 'crqiy griyn', 'crcai grneu', 'cirza giurm', 'crawg gruen'}, {'crkie gryyn', 'crakw grynn', 'coryx gorhm', 'craiq greon', 'cahrg grrni', 'caruy ceron'}, {'corag grneo', 'chrgo gkrhm', 'crwcu grnai', 'crawg graen', 'waris qriym', 'craku grnei'}, {'jrozi genue', 'craog grien', 'crcai gaern', 'crakk groyn', 'crygw grnne', 'ciirs ghhrm'}, {'crgai griyn', 'haryg criim', 'cwrag grneu', 'crukw gronw', 'corhk gcrmh', 'craiq greun'}, {'cryka ggryn', 'carzw ghrna', 'craky guren', 'cragw gwren', 'cwwgi xyene', 'craag grean'}, {'craag greon', 'crkii griyn', 'ckrwg gwrin', 'ceruj gqrno', 'crqih gwren', 'xrogi hyene'}, {'creig grenn', 'crwqw goron', 'sriak serey', 'cwrag grenw', 'croic grnea', 'cierz gkrhm'}, {'crwqu grnio', 'crqie grrwn', 'crwyg grnea', 'chruj girmo', 'cragg grien', 'zwagi gyowm'}, {'crahk greny', 'crakk grneh', 'cerge gjhrm', 'crkoa goryn', 'yyiag crwim', 'craog greon'}, {'jaris qyewm', 'crrwg grrwn', 'cyrwx gzrum', 'cwrig grnea', 'crica garwn', 'croig grien'}, {'criwg gaern', 'crqoi grnww', 'craog groen', 'grugi wranh', 'cirgh gwrmm', 'crywg grywn'}, {'criyg guren', 'cahrg gwryn', 'yruga xerey', 'craug groen', 'crkio griwn', 'cergh gsirm'}, {'griah jrhne', 'creig grein', 'cuurg gwrun', 'curig gryyn', 'cwrge gcirm', 'cairg gaern'}, {'cyurx gerom', 'whagi zwene', 'craag gruen', 'crqia gruyn', 'croyg grrwn', 'crqoh grnio'}, {'cirwj gqrno', 'crcah gryno', 'corig grwyn', 'crakw grwnn', 'craog grien', 'xriax kerhn'}, {'grwxi qewan', 'criig grein', 'cirhk gyrmh', 'criyg grwyn', 'cragw grwnn', 'corug grunw'}, {'yariz kirew', 'ciirs gzrym', 'crywg grnei', 'croac goirn', 'crawg grean', 'crric grynn'}, {'corag grayn', 'creic groyn', 'chrec gjram', 'craog grien', 'crokk grnoo', 'yarwg qeram'}, {'craog grein', 'carjh gcrym', 'caarq grnou', 'yyiag serin', 'crkiu gryyn', 'ckarg grayn'}, {'crrcu grynu', 'creig grein', 'creic garen', 'carzu gkrym', 'chiaj crwim', 'crqii grrwn'}, {'cuurx gjrmo', 'jareg krhne', 'cruwg grwyn', 'craeg groen', 'crkew grnuy', 'criic grnea'}, {'curag goren', 'cireq ggrhm', 'creig grien', 'crrwg gruwn', 'sriay xheah', 'crcoe ggorn'}, {'carej ghorm', 'croig graen', 'cruwg grwwn', 'zrogi xryne', 'crkiu gruwn', 'corog gorwn'}, {'craag grenn', 'crayq grney', 'crako guren', 'chrgo gyrmh', 'carey hyeny', 'crcuo grnio'}, {'xriay xerin', 'crqih goern', 'cours giram', 'cairc grrni', 'crahg groen', 'crack goren'}, {'yarij zwewe', 'crqia grnee', 'cracw grynn', 'crgoy ggryn', 'craiq graen', 'carwx gjorm'}, {'curag goren', 'xriaj gyiwm', 'cuarg gwren', 'ceirc ghrmm', 'coriq guyrn', 'croig grean'}, {'crkee ggrne', 'craog grean', 'crauk gryyn', 'crayc goren', 'qrhgi gerhh', 'cyurs gwirm'}, {'craeg greon', 'crqia grneh', 'croyg grnew', 'crrqu grrny', 'cerys gaorm', 'xriaj wrine'}, {'crwco grwno', 'creig grein', 'carxh germw', 'criwg griyn', 'cruwg grnew', 'jaryg cerwn'}, {'chirk ghrym', 'xriay qeray', 'cargw goryn', 'crqiw grnea', 'carag greny', 'craug greon'}, {'hhagi hyeye', 'cragg groen', 'craky goren', 'caroz gjrnh', 'cargo guran', 'crqih gaern'}, {'crkiw grenw', 'harwg genue', 'craog graen', 'cruwg grwwn', 'cuurx gyrni', 'ckurg gohrn'}, {'cyrhk gxirm', 'craiq grenn', 'criwg grynn', 'wwiag syene', 'crkey ggwrn', 'cwrig griyn'}, {'creak guarn', 'zriac gyhwm', 'craog grien', 'corig grwwn', 'crkie groyn', 'cyryk garnh'}, {'chiac gehre', 'craku grney', 'crkio grwnn', 'crguu grwnw', 'craiq grein', 'cirwk gxrmo'}, {'crikw grnoo', 'cyryk gxirm', 'crahc grynn', 'jyrix yeryn', 'crywg griyn', 'criig grean'}, {'crcai grneo', 'craog groen', 'crauk grenw', 'jarix wyene', 'cruqy gruny', 'cerwz goirm'}, {'curhz gyrnh', 'crowg grryn', 'coreg grnww', 'craku grwwn', 'craag grein', 'wariz hywin'}, {'chres gshrm', 'crquy gourn', 'craky gruwn', 'qhiag cheny', 'crkio gryyn', 'crawg gruen'}, {'craug grien', 'cyrys garmo', 'crqqo ggryn', 'zrias qraow', 'crahc guren', 'crkiy guern'}, {'caruj gxrmi', 'zriak qraiw', 'crrgw grnuw', 'craog grien', 'corag goren', 'crowg gwren'}, {'crqiu grneo', 'coruz gxrma', 'wruez zerhn', 'craog greun', 'cryyg greny', 'crock grnoy'}, {'crawg grenn', 'crkii grynn', 'churj gxrrm', 'zaryg gwrow', 'cuarq goron', 'cruyg grnee'}, {'carwy yruno', 'crygg grywn', 'crqeh grrna', 'cwrwx gxrna', 'crahg grren', 'crrik guern'}, {'jriaz jerin', 'cruig grean', 'craqw goern', 'carag guern', 'crryk grnow', 'curhq gwrmy'}, {'crqqw gaorn', 'crawg greun', 'hrugi zweow', 'cracw grnew', 'crowg grneu', 'cwirx gyrum'}, {'cruig grehn', 'carza gjwrm', 'cruco goarn', 'crqio guren', 'jrogy kirew', 'crauk grwnn'}, {'yarij hyhne', 'cirok gxrmw', 'croig greon', 'crwke gahrn', 'crauk grwwn', 'coarg grwnn'}, {'craag greon', 'crcou grinw', 'crakw grryn', 'cwrhq gxorm', 'crayq gwren', 'cwuez xrwah'}, {'cirka gawrm', 'crcau gwyrn', 'sargi ghine', 'craog grien', 'crayq grwwn', 'cragw groyn'}, {'cragg greon', 'wriay gywiw', 'crkui grnwy', 'crowg grnew', 'carsy ggrmi', 'crakw grnei'}, {'craeg greon', 'crghg grnea', 'chrhs girrm', 'crwqe grnuo', 'chiaz hyehe', 'croyg grneo'}, {'craka grneu', 'curag grynn', 'wriak chune', 'crahg graen', 'coreg goorn', 'cerek girwm'}, {'ckarg griwn', 'crauc grown', 'croig grehn', 'corki ggurn', 'hrwxi swrew', 'corws gkrim'}, {'crqyw grnuu', 'crqio greny', 'harwg xriay', 'cruig grien', 'corgh gwrmu', 'crwyg grnei'}, {'grhgi gerhw', 'craeg grenn', 'crayq grenw', 'craqy grrwn', 'cyrwq gkrmu', 'crkww gurun'}, {'crqii griyn', 'crcai grrwn', 'croig grehn', 'sriaj hyhne', 'cregw garon', 'carza gqrno'}, {'crrqw grnuo', 'craag greon', 'craoc greny', 'xriaw wrani', 'crauk grwwn', 'carus gyrmo'}, {'ywagi zrone', 'cerhc gyurm', 'crgai griwn', 'cruku grrna', 'craug groen', 'crkiy goern'}, {'wwagi qywin', 'crako grnew', 'craeg groen', 'caryj gkrym', 'crcuo gwran', 'crric guern'}, {'cyirk gsrmw', 'crkih grrwn', 'curog grnoh', 'caarg grnea', 'jroxi xrway', 'crrig grren'}, {'crkiw grwnn', 'crygg griyn', 'warwg hyehe', 'craag grean', 'cruyc garin', 'corwj gcrmi'}, {'coarc grany', 'creyg greny', 'corhx gyrmy', 'caroh kyewm', 'craqy groyn', 'craag grren'}, {'crawk grnee', 'crahg gruen', 'crakw goren', 'crkwy grnah', 'cwwgi kereh', 'cirhs garam'}, {'craag greon', 'cyrox girnw', 'craku grrwn', 'crack grown', 'jhagi zerwn', 'crqww grnoy'}, {'cwres gerym', 'hyiag wrnae', 'craag grehn', 'cwrrg gawrn', 'crqiw guern', 'crawc grywn'}, {'craeg greon', 'cyrec gyrom', 'craac groyn', 'crgui gurin', 'waric cerew', 'creik grryn'}, {'creqy grwnu', 'creig grenn', 'ciryq gurwm', 'hriaz serwn', 'crqiy gryyn', 'crauk gaern'}, {'crqqa grony', 'yriah yruny', 'craog grein', 'creyg guern', 'criyg grown', 'coyrs girmh'}, {'kwagi cerwn', 'creig grenn', 'cyurj gkhrm', 'crqou grynw', 'cruik gruwn', 'crqiw grynn'}, {'ceirj gkrnw', 'cruig greun', 'coarg gruyn', 'jroki ghhne', 'coarq gryna', 'crahk gruwn'}, {'criig grehn', 'craac goren', 'cryyc grnoe', 'zriaz yrunw', 'cwrag garen', 'cwrhj gcarm'}, {'crrig grein', 'kwagi geruh', 'crkiw griwn', 'chrsw gsurm', 'croik grnea', 'cwwrg grnoi'}, {'crqia grryn', 'cyrgw goorm', 'jrowi cerin', 'crowg garen', 'creig graen', 'croyc ggrrn'}, {'grwgi serew', 'crake greny', 'croig graen', 'crwke grnie', 'crack grnei', 'cyrej gurhm'}, {'craug grean', 'yrwgi qarew', 'crkiy grney', 'cryku garrn', 'criik guren', 'ceurx gxrmu'}, {'wrhys yhene', 'crayk groyn', 'crqia gruwn', 'criek ggrrn', 'craag grean', 'corge ggrym'}, {'cryqw gohrn', 'cracw gruyn', 'chres ggrmi', 'criig greun', 'caarg gwren', 'xariy xweay'}, {'coryj gzrno', 'crkiu grywn', 'crahg grren', 'crkuw gahrn', 'zriay qwaew', 'cruic gruyn'}, {'cuarg grney', 'craeg graen', 'curoj gurym', 'jrygi zwrew', 'crrik griwn', 'currg gurrn'}, {'chroj gyrwm', 'craek gruyn', 'crywg grwwn', 'sriaw xryah', 'cruyq gurwn', 'craiq groen'}, {'ceirz gjrom', 'criic grenw', 'creig grenn', 'cwyrg gowrn', 'crrwg grayn', 'xriac serin'}, {'crayc grnee', 'crrig grein', 'ceirq gsrnw', 'wyrix qrayw', 'craqw goren', 'cruck gwrun'}, {'cruik guern', 'creuk grnoe', 'crahc grnee', 'craag greun', 'cyrex garmi', 'wriax xrway'}, {'xaris gwwwm', 'ckarg grryn', 'cerej ghrmh', 'craiq greon', 'crayc grnea', 'crqqy grwnu'}, {'crqie goern', 'croic grneh', 'chrgy gzrny', 'coryg garin', 'hhiag qraiw', 'craiq grren'}, {'jroxi xweah', 'craeg graen', 'carsa gsrnu', 'crwkk gryny', 'cwrig griwn', 'corig grnee'}, {'sariz jerem', 'ceryz gwrmy', 'crrcu gryni', 'crawg graen', 'cuarg grown', 'cruic grney'}, {'cuwrg grrnw', 'chrus gorum', 'zruez gwwam', 'craeg grren', 'crewg goern', 'crkai grwwn'}, {'crawg greun', 'ceruq ghrni', 'jarik hyeni', 'caarg grwyn', 'crykw grnoe', 'crahk grwnn'}, {'craog grenn', 'cuarg grywn', 'crrak grnah', 'cwiac ceron', 'curag grenw', 'cirej gkrim'}, {'crako grnei', 'hyagi yruno', 'cruqy grnoy', 'curws gjrnu', 'crawg grein', 'crkio gwren'}, {'craka grwwn', 'croyg grnew', 'caerx gxrny', 'sarik xywin', 'coarq grnay', 'craug grien'}, {'crrig greun', 'crako grnew', 'karix zerhn', 'cwruz ggrmw', 'cwrki garun', 'craok grwyn'}, {'zaric wyene', 'corez gzrma', 'criuc grnoy', 'cragg grean', 'crqie grayn', 'croyg grown'}, {'cerus gurnm', 'crauc garen', 'hrias seyyn', 'crghg gruwn', 'crkuw grnio', 'criig grean'}, {'crwwg grrwn', 'cawrz gyrmy', 'curag gruwn', 'craiq gruen', 'garih seryn', 'creoc ggryn'}, {'craac guren', 'crgai goren', 'xriay xroay', 'cruig grren', 'ciurj girhm', 'crqqi gwrrn'}, {'crawk gryyn', 'crayc grywn', 'cawrg gohrn', 'xriax werin', 'criig grien', 'curgy garwm'}, {'creki grnua', 'criwg grrwn', 'jyiag hwrew', 'craag grehn', 'cwrig grnei', 'chrez gyrmh'}, {'curag goern', 'creig greon', 'crayq grneh', 'cyroq gxrma', 'criak granw', 'yareg wrnae'}, {'crkio grnea', 'saryg yerhn', 'crrku grwnu', 'craak gruwn', 'craiq groen', 'curuz gkrmh'}, {'crric gruyn', 'criko garrn', 'crauc gwren', 'cyrej gsrum', 'criig grenn', 'chwgi wrahe'}, {'yriay jeron', 'ceryj gawrm', 'crwky garun', 'craqy grnei', 'corig grney', 'criig grien'}, {'cruig grehn', 'crick goron', 'coroj gurwm', 'crcai gwren', 'jrias jerwn', 'creic griwn'}, {'cyryz gohrm', 'carag garen', 'wyagi hyhne', 'crgwy gurrn', 'criyg grrwn', 'crawg grren'}, {'qarhg qwrew', 'crqae grwni', 'cwryz gsrmy', 'crauk goern', 'cracu grney', 'crrig grren'}, {'sriac gwine', 'craak grynn', 'crcoe ggrrn', 'coroj gormi', 'cragg graen', 'criic grney'}, {'craqw gwren', 'cryyk gwrne', 'craug graen', 'cwiak cerhn', 'craoc garen', 'corej gcorm'}, {'crawk groyn', 'cragg graen', 'craka grwnn', 'jroqi xereh', 'crgow grnoe', 'corhq gerhm'}, {'craug grehn', 'crkio guren', 'crqiu gruyn', 'zriaz gyiwm', 'cohrg grnni', 'cirys gsrmo'}, {'craky grayn', 'crqyy gwwrn', 'crkiw greny', 'zriah qhaew', 'crahg graen', 'corge gcurm'}, {'cirux gsrum', 'crgai grnee', 'croic groyn', 'jroxi gyhwm', 'cregw grnuu', 'craiq gruen'}, {'curyz gwrum', 'creyg grney', 'cracu grywn', 'karhg srune', 'craeg grien', 'carac gorin'}, {'craog grien', 'cwrki grnah', 'crwyg griwn', 'yriay geriy', 'carjy gyyrm', 'creik grynn'}, {'yriah yyune', 'crcai garen', 'creig graen', 'crkai greny', 'cwrwg ggrne', 'cyrku gsrwm'}, {'crrig gruen', 'cyirk gzorm', 'creyg grneo', 'crawk guern', 'creca gorrn', 'hrias hyane'}, {'crrig grenn', 'crcaa grwnw', 'criik grwyn', 'carja goirm', 'corig gwren', 'qwiag hrune'}, {'crawk griyn', 'cahrs gornm', 'wriac yruny', 'craog grean', 'crgao ggrwn', 'crqii grenw'}, {'crkih gruyn', 'chiax qerey', 'crawg grean', 'chrhj girmm', 'crowk gwrne', 'crwwg greny'}, {'croig gruen', 'criik gaern', 'curyz gyrnh', 'cuarg grnei', 'ckrwg grnna', 'cwugi kyene'}, {'chirq gwirm', 'craec grayn', 'crawg greun', 'curyg ggwrn', 'crwyg goern', 'xaris zwoew'}, {'craog greun', 'crryk goran', 'xriaj yruny', 'cahrx gjwrm', 'crawc garen', 'cracw griwn'}, {'crrki grony', 'crack grneh', 'croyg griyn', 'chwgi chwne', 'cruig graen', 'cwrhc germo'}, {'jriaz wranh', 'crqiu grwnn', 'crawg grehn', 'cwrrg grnuw', 'crwyg grywn', 'caruz gzrnu'}, {'craac grayn', 'cyiaq gayne', 'crygw grnne', 'crqia gwren', 'cyrwq germi', 'craog greon'}, {'crqia grwnn', 'cyyrx gwrmm', 'creyg gruyn', 'cwiak hryne', 'craeg gruen', 'criyc grnni'}, {'crwwg guren', 'hariy hyenu', 'criig grein', 'cwrza germm', 'crwgg griyn', 'crooc gwrnn'}, {'criuk guran', 'craiq greun', 'crgai guren', 'cyrux gxrmw', 'yrugi cirin', 'crqih grenw'}, {'crrig greon', 'carcy gcirm', 'crqio grrwn', 'crcai gaern', 'crqeu gryna', 'gyagi jwene'}, {'chrgh gcarm', 'cruig grean', 'crrik griyn', 'yriah jerew', 'cahrg garon', 'corig gwren'}, {'cyreq germm', 'crawg grenn', 'kyagi cyewm', 'crkaa ggurn', 'criwg grwnn', 'croic grwyn'}, {'cairg grnew', 'craco gryyn', 'cruyk goyrn', 'craiq greun', 'zruga wyene', 'cyrwc gharm'}, {'crahg grehn', 'chrox gwhrm', 'crcai gruyn', 'crqiw griyn', 'jaris yrwye', 'crkuh guhrn'}, {'cirwj gkrmh', 'crrwg gwren', 'crayk grryn', 'qyrix zryne', 'crrgo gurnn', 'craiq groen'}, {'qrugi wranw', 'crqoo grnoo', 'craiq greun', 'cruic groyn', 'crygg grnea', 'cerex gqrni'}, {'cruig greon', 'crowq garin', 'griaj gwriw', 'cracw grneo', 'cwrig gruyn', 'chrsw gzrwm'}, {'cryyg gruyn', 'cirwj gghrm', 'craog grehn', 'crqui garon', 'corag grneu', 'qarhg warne'}, {'cwrsa gurmi', 'craca goren', 'crywc grnih', 'craag graen', 'yrias yerin', 'cragw grown'}, {'cruwg garen', 'cruik grwyn', 'crihk gahrn', 'jhagi geroy', 'cragg grein', 'cyrhq gcrmo'}, {'carhc giurm', 'crkei garrn', 'crryg grywn', 'crawg grean', 'qarix serey', 'craki griyn'}, {'cruig greon', 'crkiy grayn', 'crqae gwrnn', 'ciryz gjrrm', 'gariz ghine', 'craqw grown'}, {'crawk grnee', 'crqoo grony', 'cruwg gaern', 'cwrus gjarm', 'craog gruen', 'qregi criiy'}, {'crowg guren', 'crawk griwn', 'ceyrx gairm', 'cwias cerin', 'craiq grehn', 'criyc grnyw'}, {'crrig grein', 'cariq garrn', 'cracw greny', 'crqiy groyn', 'wariq zwwem', 'corsw gkrim'}, {'jrugi herne', 'cruig grean', 'crwqa grwnw', 'cruic grynn', 'crghg grneu', 'chrcu girym'}, {'criig grein', 'curgy gwurm', 'crcue guhrn', 'crrik grneh', 'chiaq yhune', 'craca grryn'}, {'krygi gyone', 'crewg griwn', 'crrwg greny', 'curoj gwrnm', 'cragg grean', 'cruac grnoi'}, {'caarg grneu', 'craug grren', 'cwrws ghrmi', 'crqai grney', 'ckyrg grnue', 'garhg geruh'}, {'gariy yruno', 'crakk grryn', 'crkie grneu', 'creyq grnww', 'craiq grien', 'chryc gwrmu'}, {'garih xraay', 'cyrcu gqarm', 'crakk grynn', 'crwyq grnoe', 'craug groen', 'cwrag grywn'}, {'chhrk gwrmo', 'creig greon', 'criyg grneh', 'cwhgi yruna', 'crwwg grynn', 'crkou guorn'}, {'crkia grenw', 'craeg greun', 'wriak qwnee', 'cryqe grnne', 'cersa gkrnw', 'crakw gruwn'}, {'crkiu grwyn', 'crakw gwren', 'craeg graen', 'corwj gwrim', 'yargi yhwwn', 'cryyk guryn'}, {'crcwy grrny', 'ciruq gyrom', 'coarg grown', 'crayq grenw', 'cruig grein', 'xriac serwn'}, {'crako grneo', 'croca gorne', 'cyrhk gxrmh', 'crawg grein', 'chwxi zweww', 'crwwg grryn'}, {'syiag crwiw', 'cairg grynn', 'cyres gxirm', 'creig grren', 'crrcu grnuh', 'crwwg groyn'}, {'cragg greun', 'crgai griwn', 'crqwy ggurn', 'qriaj sryne', 'caruj gjrom', 'cruyg grayn'}, {'carag grywn', 'crgai grnee', 'wareg serem', 'cureg garrn', 'crahg gruen', 'cyrec gzirm'}, {'ceirx gsyrm', 'craog gruen', 'crghg griyn', 'crayq grown', 'sarix srune', 'crehk grnua'}, {'yriay wrwne', 'crakw grnee', 'craeg greun', 'cerhs gkrmy', 'cryyq grnny', 'crwgg groyn'}, {'yrias hrone', 'crkyy goarn', 'criyg grnew', 'creik gaern', 'cwirs gwrhm', 'craog grren'}, {'craug grean', 'crqiw gruyn', 'jrygi xwwem', 'crcoy grnah', 'cayrs ghrym', 'crakk guern'}, {'coarg grryn', 'cruig greun', 'corhq gqrmw', 'sriah chwin', 'crryg grneo', 'cricu garwn'}, {'crkui grnih', 'cwrag gaern', 'chirz gsrwm', 'yrhgi xheah', 'crqiw grneu', 'craog greon'}, {'cruwc garan', 'zriaw qhiyn', 'cragg grien', 'craco grneo', 'cuwrs garmh', 'crcai goren'}, {'croic gruwn', 'craog grien', 'cywgi chene', 'chrgw gsrnh', 'crkue grniu', 'craca griwn'}, {'cerek gjorm', 'crwgg guren', 'creco gaarn', 'xhiag yeron', 'cracw grnew', 'creig greun'}, {'craku grynn', 'croqw garyn', 'grwgi wrani', 'corag goern', 'corge gcrma', 'criig grean'}, {'crrig greon', 'curuz gearm', 'hruez qraaw', 'crawk guern', 'creec grnww', 'craka grown'}, {'craiq greon', 'crygg grynn', 'caarq grnnw', 'cwirc gjorm', 'crqiw gryyn', 'karij chenw'}]
+craig green         : DEBUG: Additional rule variations: {'C.gReeN'}
+craig green         : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.14285714285714285,
+        "special_char_variations_count": 1,
+        "total_variations_count": 7
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "craig green": {
+            "first_name": {
+                "score": 0.92,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.7666666666666667,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.8666666666666667
+                    },
+                    "count": {
+                        "actual": 6,
+                        "expected": 5.04,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 6,
+                        "total_count": 6,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "cragw",
+                            "phonetic_score": 0.6223393620831308,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "coyrx",
+                            "phonetic_score": 0.22384117511134022,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "crauk",
+                            "phonetic_score": 0.6223393620831308,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "crgou",
+                            "phonetic_score": 0.6223393620831308,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "crawg",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "qruez",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.8683270083664119,
+            "final_score": 0.7946616066931295,
+            "variation_count": 7,
+            "non_rule_compliant_variations_count": 6,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.8020127758979282,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.3733759196597606,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.6700212931632137
+                    },
+                    "count": {
+                        "actual": 6,
+                        "expected": 5.04,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 6,
+                        "total_count": 6,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "garen",
+                            "phonetic_score": 0.5326225110672459,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "gworm",
+                            "phonetic_score": 0.4111282535965411,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "grynn",
+                            "phonetic_score": 0.5326225110672459,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "grnni",
+                            "phonetic_score": 0.5326225110672459,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "grren",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ywune",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "initial_only_first_name": [
+                            "C.gReeN"
+                        ],
+                        "swap_random_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "C.gReeN": [
+                            "initial_only_first_name"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.14285714285714285,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.5,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 2,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.5,
+        "by_name": {
+            "craig green": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "initial_only_first_name": [
+                            "C.gReeN"
+                        ],
+                        "swap_random_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "C.gReeN": [
+                            "initial_only_first_name"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.14285714285714285,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.5,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 2,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "average_quality": 0.7946616066931295,
+    "final_reward": 0.7946616066931295
+}
+craig green         : DEBUG: ----------------------------------------------------------------------------------------------------

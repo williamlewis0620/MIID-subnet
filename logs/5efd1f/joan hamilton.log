@@ -1,0 +1,1510 @@
+joan hamilton       : INFO: Generating variations for joan hamilton
+joan hamilton       : INFO: ----------------------------------------------------------------------------------------------------
+joan hamilton       : INFO: Effective rules: ['remove_all_spaces', 'name_parts_permutations', 'replace_random_consonant_with_random_consonant']
+joan hamilton       : INFO: ----------------------------------------------------------------------------------------------------
+joan hamilton       : INFO: Min Required Rule Variation Set: [{'joanhamilton'}, {'hamilton     joan', 'hamilton joan', 'hamilton        joan', 'hamilton       joan', 'hamilton    joan', 'hamilton          joan', 'hamilton  joan', 'hamilton   joan', 'hamilton         joan', 'hamilton      joan'}, {'voanFrAriBToV', 'JoAr hamiltOn', 'JoAv HaFiPVon', 'Joar HAMIlFON', 'rOAn HopipTON', 'foAp hAmIlton', 'jOAN hAVilTOn', 'fOAb PApirvoV', 'jOAN HamiLtOr', 'jOan vaPILeov', 'joaN farirbON', 'bOAb vaBIfVEN', 'BOAU vaBIlTOV', 'roan HAmiLtob', 'rOAn PamilTON', 'Foar FAmIPrOF', 'JOAV rAfifTAr', 'POAr HaFIRpoV', 'roAB PaMibfRN', 'JOAn IaMiLfoB', 'BoAn pAMiRfOB', 'boan HaMiLtoN', 'vOAr bfmIpvov', 'JOaN HaMiBvRv', 'foaN vAvIpvOp', 'voaN FAMiRVoV', 'jOAN haMiLTov', 'joAr PamilROn', 'JoanohaMiLfoN', 'joAn HaMiltop', 'voAv RAFiBPov', 'roav RArIvVoR', 'JoAF HaMIlToN', 'joan baRIpton', 'boafRFAfiLPoP', 'Voan FamIoPOn', 'jOAn HeMIbton', 'bOAO FApIpPOF', 'RoaR VafIPTOP', 'joaN paMIptOf', 'foAp VaviBVov', 'ROAf baRILToF', 'roAN hAMILfpp', 'roRp hARIfBOv', 'JoAviramIVtoP', 'joaB IApILpoN', 'FOaP vAbaVPOB', 'ROAN HAMILtoN', 'RoAn HifIVbOn', 'fOap HaviLPON', 'VoaB haMifvov', 'jOaO HARILbon', 'FOab HAMiLTOn', 'poAF FAMiBTon', 'voAv BpPifrOF', 'joAN hamivboe', 'foAn HAmurTor', 'RbAn paFivTon', 'bUaB PAPILvON', 'jOaF hAMIltoN', 'jOan HaMIlfin', 'jRaN rAmILTOn', 'jOan PAmilToa', 'JoAB HRriLVOr', 'Foaf paMILtrN', 'foAP baBipRoP', 'voAboVARiPbon', 'rOaR paFibvFB', 'joAR HAVilPOn', 'VOab vBBiVPop', 'bOAN VEpibTof', 'RoAB pamILror', 'JRAN HAriLTON', 'roAB haMIIPOR', 'ROaN BaPirfOV', 'roap haaiFBoN', 'joaR HapiVROR', 'jOaN AaviRTOn', 'BoAv paFIlPob', 'FoaN PARiLFOn', 'FOAriHaviFrob', 'Roan VariBVoB', 'Voin FaMILtoN', 'bOAR BarirtoN', 'PeAN vavilFOv', 'JOaR VAfilRON', 'AoaR FafILtoV', 'pOaB hAMiLUOb', 'jOap RaBiLtOn', 'Joaf HamIRtON', 'aOar haviLtON', 'JOAN HAPiLTOf', 'JOaE FAMilTOn', 'jOAF FABibBEp', 'ROpp BarIprOp', 'joaR haviltrN', 'FObV pAfifpOv', 'vOab barbLtOR', 'JoafoPamILToF', 'EOAn hAmIbTOp'}]
+joan hamilton       : INFO: ----------------------------------------------------------------------------------------------------
+joan hamilton       : INFO: First name: joan
+joan hamilton       : INFO: Last name: hamilton
+joan hamilton       : INFO: ----------------------------------------------------------------------------------------------------
+joan hamilton       : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8)]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 1 / 20: rule_count/nonrule_count: 0/1------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 1, 0]
+joan hamilton       : DEBUG: P: [0, 1, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [1, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 1, 0]
+joan hamilton       : DEBUG: P: [0, 1, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 1, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [1, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.50774849]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 2 / 20: rule_count/nonrule_count: 0/2------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 2, 0]
+joan hamilton       : DEBUG: P: [0, 2, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 2, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [2, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 2, 0]
+joan hamilton       : DEBUG: P: [0, 2, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 2, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [2, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.52512432]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 3 / 20: rule_count/nonrule_count: 0/3------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 3, 0]
+joan hamilton       : DEBUG: P: [0, 3, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 3, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [3, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 3, 0]
+joan hamilton       : DEBUG: P: [0, 3, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 3, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [3, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.54695661]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 4 / 20: rule_count/nonrule_count: 0/4------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 4, 0]
+joan hamilton       : DEBUG: P: [0, 4, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 4, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [4, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 4, 0]
+joan hamilton       : DEBUG: P: [0, 4, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 4, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [4, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.56]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 5 / 20: rule_count/nonrule_count: 1/3------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 3, 0]
+joan hamilton       : DEBUG: P: [0, 3, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 3, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [3, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 3, 0]
+joan hamilton       : DEBUG: P: [0, 3, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 3, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [3, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.61362328]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 6 / 20: rule_count/nonrule_count: 0/5------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 5, 0]
+joan hamilton       : DEBUG: P: [0, 5, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 5, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [5, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 5, 0]
+joan hamilton       : DEBUG: P: [0, 5, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 5, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [5, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.56]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 7 / 20: rule_count/nonrule_count: 1/4------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 4, 0]
+joan hamilton       : DEBUG: P: [0, 4, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 4, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [4, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 4, 0]
+joan hamilton       : DEBUG: P: [0, 4, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 4, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [4, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.62666667]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 8 / 20: rule_count/nonrule_count: 0/6------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: P: [0, 6, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [6, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: P: [0, 6, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [6, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.54125365]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 9 / 20: rule_count/nonrule_count: 1/5------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 5, 0]
+joan hamilton       : DEBUG: P: [0, 5, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 5, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [5, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 5, 0]
+joan hamilton       : DEBUG: P: [0, 5, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 5, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [5, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.62666667]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 10 / 20: rule_count/nonrule_count: 0/7------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: P: [0, 7, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [7, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: P: [0, 7, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [7, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.52058546]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 11 / 20: rule_count/nonrule_count: 1/6------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: P: [0, 6, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [6, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: P: [0, 6, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [6, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.60792031]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 12 / 20: rule_count/nonrule_count: 0/8------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: P: [0, 8, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [8, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: P: [0, 8, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [8, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.50413612]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 13 / 20: rule_count/nonrule_count: 1/7------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: P: [0, 7, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [7, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: P: [0, 7, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [7, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.55391879]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 14 / 20: rule_count/nonrule_count: 2/6------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: P: [0, 6, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [6, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: P: [0, 6, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 6, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [6, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.67458698]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 15 / 20: rule_count/nonrule_count: 0/9------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 9, 0]
+joan hamilton       : DEBUG: P: [0, 9, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 9, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [9, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 9, 0]
+joan hamilton       : DEBUG: P: [0, 9, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 9, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [9, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.49104447]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 16 / 20: rule_count/nonrule_count: 1/8------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: P: [0, 8, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [8, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: P: [0, 8, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [8, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.53746945]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 17 / 20: rule_count/nonrule_count: 2/7------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: P: [0, 7, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [7, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: P: [0, 7, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 7, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [7, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.65391879]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 18 / 20: rule_count/nonrule_count: 0/10------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 10, 0]
+joan hamilton       : DEBUG: P: [0, 10, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 10, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [10, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 10, 0]
+joan hamilton       : DEBUG: P: [0, 10, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 10, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [10, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.48062513]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 19 / 20: rule_count/nonrule_count: 1/9------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 9, 0]
+joan hamilton       : DEBUG: P: [0, 9, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 9, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [9, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 9, 0]
+joan hamilton       : DEBUG: P: [0, 9, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 9, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [9, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.5243778]
+joan hamilton       : INFO: ------------------------------Trying rule_count_pair 20 / 20: rule_count/nonrule_count: 2/8------------------------------
+joan hamilton       : DEBUG: O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: P: [0, 8, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: [2, 3, 0]
+joan hamilton       : DEBUG: [27, 20, 0]
+joan hamilton       : DEBUG: [69, 59, 0]
+joan hamilton       : DEBUG: [20, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [8, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: joan, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: joan, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: P: [0, 8, 0, 0]
+joan hamilton       : WARNING: Remains: 0
+joan hamilton       : DEBUG: p_level: 1, O: [0, 0, 8, 0]
+joan hamilton       : DEBUG: [244, 0, 0]
+joan hamilton       : DEBUG: [499, 272, 0]
+joan hamilton       : DEBUG: [500, 64, 0]
+joan hamilton       : DEBUG: [160, 20, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: [8, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0]
+joan hamilton       : DEBUG: final:
+joan hamilton       : DEBUG: name: hamilton, l_level: 0
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 1
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: name: hamilton, l_level: 2
+joan hamilton       : DEBUG: --------------------------------------------------
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+joan hamilton       : DEBUG: scores: [0.63746945]
+joan hamilton       : DEBUG: ----------------------------------------------------------------------------------------------------
+joan hamilton       : DEBUG: Best score achieved: 0.6745869807375761
+joan hamilton       : DEBUG: Best selected: 2/6
+joan hamilton       : DEBUG: Rule variations: [{'joanhamilton'}, {'hamilton     joan', 'hamilton joan', 'hamilton        joan', 'hamilton       joan', 'hamilton    joan', 'hamilton          joan', 'hamilton  joan', 'hamilton   joan', 'hamilton         joan', 'hamilton      joan'}]
+joan hamilton       : DEBUG: Nonrule variations: [{'juny hihmltno', 'jwne hiymlotn', 'jnny hmaulodn', 'jneo himlytno', 'jyny hymlutno', 'jnno heumlotn'}, {'junw hwmlidno', 'jyni hmaylwtn', 'jnuw homletno', 'jneu hmayletn', 'jjnw hmaulwtn', 'jnoh homlitnu'}, {'jwna hmayltna', 'jnoe hmahltnw', 'jyna hhmeldno', 'jnii hmaaletn', 'jiny hhmlidno', 'jwni huimldno'}, {'jniy hmowltno', 'jnow hemwldno', 'jenw hhemltno', 'jjny humlitne', 'jyni hwmlitna', 'jnyy hmaalytn'}, {'jiny hmwwlotn', 'jnuy hmaaltnw', 'jnew hmaulutn', 'jnnw hmaulodn', 'jnui hwmlwtno', 'jnei hwmlidyn'}, {'jyny hhmlutno', 'jwny hmaalotn', 'jnww houmltno', 'jnie hhmletno', 'jnee hhymlotn', 'jnny huwmltno'}, {'jnyw himlytno', 'jnni hmohlotn', 'jnua himlidwn', 'jnwy hmaolotn', 'jnnw hymlotno', 'jnii hhmwldno'}, {'jwna hiomltno', 'jwne hmlaitwn', 'jney hiemlotn', 'jnui humlitnw', 'jnou homliden', 'jjnw hhmeldno'}, {'jnow hmalitnw', 'jnni hmawltno', 'jyny himlidun', 'jynu hhimlodn', 'jnea hwmlitny', 'jnew hmueltno'}, {'jnih humlitna', 'jyni hhemltno', 'jnoh hwmlytno', 'jynw hoimlden', 'jjnw huimlodn', 'jyny hmalytno'}, {'jwna hoimlytn', 'jnew humlotno', 'jyno hmaolatn', 'jnoe hhymlotn', 'jnuw hmeyltno', 'jnea hhmlotno'}, {'jwno hmohlotn', 'jjnw hhimltna', 'jnua hmaalodn', 'jnue hmolitno', 'jneu hmaalden', 'jnie humlitnw'}, {'jnoy homlatno', 'jjne hymlwtno', 'jnie heemltno', 'jnoo hiemltno', 'jyni homoldno', 'jnuu heumltno'}, {'jnui hmeylotn', 'jynw hmuulotn', 'jnea hiymlotn', 'jnnu huumlotn', 'jnny hmaoletn', 'jnia hmaioldn'}, {'jyna heumltno', 'jwna hhmlidun', 'jnwy hmealtno', 'jyny hiemlotn', 'jneo hhimlwtn', 'jjne hmaultno'}, {'jnny hhimltnu', 'jnoy hhimltno', 'jwno homlytno', 'jnea hoimltno', 'jnee hmayltna', 'jnou hoimlytn'}, {'jneh hoimlutn', 'jnny himlutno', 'jnow hmoildno', 'jnuo hmayltnw', 'jneu humlytno', 'jnea hiimlwtn'}, {'jwnw heomltno', 'jnew hmeelotn', 'jnia homletno', 'jnii hmaioldn', 'jjny hhmlidun', 'jwne hwmletno'}, {'jnyy hwmlutno', 'jnnu hhimldyn', 'jjna hmaolatn', 'jnoi hmalwtno', 'jnoy hmaulwtn', 'jnio hmaaltnw'}, {'jnew hymlidwn', 'jnuw hiimlwtn', 'jwno hwymltno', 'jiny hymwldno', 'jwnw heimltni', 'jwnu hmowltno'}, {'jnne hmuultno', 'jinw hwwmltno', 'jnii hoomlotn', 'jneo hmayldyn', 'jnnu hmalitny', 'jnwy hmawltno'}, {'jnno hemlitnw', 'jnuh hmauldun', 'jwny hmualtno', 'jynu himletno', 'jnuo hmalotno', 'jjne huimletn'}, {'jjnw himletno', 'jnww hmoaltno', 'jnui homwldno', 'jnea hmuyltno', 'jnni hemletno', 'jyna heimltna'}, {'jwna hmaeltna', 'jjni homlidin', 'jnoi hwmlwtno', 'jnua hmaulutn', 'jnue hmaulwtn', 'jnou hmaaltno'}, {'jniy heymltno', 'jyni hmlaitun', 'jnih hhimlodn', 'jnoy hwmlidwn', 'jjno hmaultni', 'jnni himlwtno'}, {'jneo hhymltno', 'jeny heimlodn', 'jwnw huimlatn', 'jyna huimlytn', 'jnoh hoimlatn', 'jnuh hwmwldno'}, {'jnoy hmawldun', 'jnyy hmaoltne', 'jnno heumltno', 'jwnu hiimlytn', 'jnua hhimltno', 'jnue hywmltno'}, {'jnue huimltno', 'jney hmalidno', 'jwny hhmlitne', 'jnoo hmawltno', 'jyna hmahltna', 'jnih hmaylotn'}, {'jnoo hmoulotn', 'jwne hmuelotn', 'jneu hymlutno', 'jwnu hwmlidan', 'jjni hmahlotn', 'jwna hmahltny'}, {'jnui humlidun', 'jwne huhmlotn', 'jnyw hymlitnw', 'jnuu hmaaltne', 'jjnw hemlwtno', 'jwnw hmahltno'}, {'jnuh hmalitnw', 'jjni himlatno', 'jnwy hhemltno', 'jnih hemuldno', 'jneh hmaulodn', 'jwna hhmlutno'}, {'jnny hwmlitnw', 'jneu hiomltno', 'jynw hmawlwtn', 'jjne hmahlodn', 'jnia hymlitnu', 'jjnu hmaultny'}, {'jenw hmaeldun', 'jniw humlwtno', 'jneo hmuoltno', 'jnou homliden', 'juny hoimltne', 'jnio hoimlden'}, {'jnuy hiimlodn', 'jwni hoimlodn', 'jnii hymlitna', 'jyny himlitnw', 'jnoy heimltnw', 'jnea hmawltna'}, {'jnui hwmlidno', 'jnou hmolitno', 'jnei hiimlytn', 'jnow hmaelodn', 'jnio hihmltno', 'jnua humoldno'}, {'jyna hemwldno', 'jinw hhimlitn', 'jnue hmaultno', 'jnih hmiildno', 'jjna himliden', 'juny humyldno'}, {'jjnu hmaoltne', 'jneu hmaeltne', 'jynw hmaulatn', 'jnow hemlitnw', 'jjne hmahlodn', 'jnne huimlytn'}, {'jnue homoldno', 'jjno hmawltnw', 'jnia hmahlwtn', 'jnuo heimldno', 'jnow hmuolotn', 'jnna hywmlotn'}, {'jniy hoimldan', 'jney hmaoldno', 'jniu homlitny', 'jjne hewmlotn', 'jjna hymlitnu', 'jnoe homlitnw'}, {'jyno hhimltna', 'jnny hhmlytno', 'jnno hmaelitn', 'jwne hmalitno', 'jnou himloitn', 'jney hmaultnw'}, {'jnno hmahltnu', 'jyno hmuylotn', 'jnwy homliden', 'jnee hwmlwtno', 'jney hhimldno', 'jneh hmoeltno'}, {'jnoh hhmlidyn', 'jnih heimltno', 'jnyy hemlytno', 'jnia hmeyltno', 'jjni hmahltny', 'jwne hmoeltno'}, {'jwno hhmlotno', 'jniy hmaolotn', 'jnih hemlitny', 'jynw hoimldan', 'jyna hoimlodn', 'jnww hiimltno'}, {'jyne hhmlitne', 'jnei huimlytn', 'jjnu hiimltno', 'jynu hoimlytn', 'jnoo hoimltne', 'jnyw heomltno'}, {'jnea hiimlytn', 'jwnw hhimltni', 'jwne hohmltno', 'jnuy hmawlodn', 'jnio hmaolutn', 'jnua homlidan'}, {'jwnu humlitna', 'jnuh hmuyltno', 'jniw humletno', 'jwne hmauldno', 'jnni huwmlotn', 'jnew heimltne'}, {'jniu hhmlidyn', 'jinw hmaaldno', 'jniy huimletn', 'jnia hmwwlotn', 'jnoo huumltno', 'juny hmayltnw'}, {'jnoo hymlidyn', 'jjnu hmowlotn', 'jney hmayletn', 'jwno hhimletn', 'jnii huhmlotn', 'jniu hhomltno'}, {'jnou hiymlotn', 'jnie hhymlotn', 'jneu huimlwtn', 'jwny hmaoltnu', 'jneo hoimldyn', 'jnoi hemyldno'}, {'jwna hmaultnw', 'jwni homlidun', 'jyni hemlidwn', 'jnwy hmahletn', 'jwno huimldwn', 'jjno hmaulitn'}, {'jinw himlitna', 'jyni hmawltni', 'jiny huimltny', 'jeny hoomltno', 'jnih hmaultni', 'jneh homwldno'}, {'jwne hhimltny', 'jnih hmaylitn', 'jnie hemlotno', 'jnuh himlidan', 'jeny hmaylatn', 'jenw huimltni'}, {'jwnu hmaultnu', 'jnwy hoimlutn', 'jynw hhomlotn', 'jnoy hhmlitne', 'jnii hiomltno', 'jnoo humlitnu'}, {'jnoo hwmlutno', 'jyni hmaulodn', 'jynu hmaylutn', 'jnni huimltne', 'jnoi hmalitne', 'jnoh hmaildnu'}, {'jniu humlitnu', 'jnou huimltnw', 'jnio hoimltnw', 'jnoo hmwlitno', 'jnih hmaalitn', 'jjne hwmlidan'}, {'jwnw humlutno', 'jjnu hmawltny', 'jnne hmaaltne', 'jnii humletno', 'jnww hymlwtno', 'jjny hmaelytn'}, {'jnuh hmaultnw', 'jjno hmuultno', 'jiny hmahletn', 'jneu hmaaltna', 'jwni hmayldan', 'jnwy hewmlotn'}, {'jnou huimltne', 'jnno hmaeltnw', 'jyny hmuhlotn', 'jnoo hmayldun', 'jnyy hmaulytn', 'jniu hihmlotn'}, {'jnyy homletno', 'jnih huimltnw', 'jneh hmaelitn', 'jjna huimlwtn', 'jnow hhumltno', 'jwny hmawlutn'}, {'jyno hmawlwtn', 'jyna hwmlidno', 'jniw hymlwtno', 'jnoi hymwldno', 'jnoh hmaaltni', 'jnuu hoimlytn'}, {'jwnu humyldno', 'jnii hmaelutn', 'jnuy hymlidyn', 'jnui hywmlotn', 'jnow hmuwltno', 'jjnw hmawltni'}, {'jwnu hmiildno', 'jnoi hhmlatno', 'jwni hmaoletn', 'jyna hmaaltnu', 'jneo hhemlotn', 'jjna hmalitny'}, {'jnuh hmaeltnw', 'jnow heimltna', 'jniy hhymlotn', 'jnui hmaolutn', 'jnuw hiemltno', 'jneh hhimltnu'}, {'jnna hmalutno', 'jnny hmayltnw', 'jnea hymlutno', 'jniu hmylitno', 'jnuo hmaalodn', 'jjni hmaulatn'}, {'jnea hemwldno', 'jnei hmewltno', 'juny hmuwlotn', 'jyna hemlutno', 'jnny heimltny', 'jenw hmayldwn'}, {'jnoy hmaylodn', 'jnne huymlotn', 'jyni homaldno', 'jnow hmaolden', 'jynw hhimltny', 'jnny huimlotn'}, {'jnne hmaaltnu', 'jnoy hmawlitn', 'jnuw hhmlwtno', 'jjni huomltno', 'jnea hmaoltne', 'jneu hhhmlotn'}, {'jnue hemlitnw', 'jjne himeldno', 'jnnu hmawlatn', 'jnou hmahltnu', 'jnoo hmaulwtn', 'jneh hmahltnw'}, {'jwno hemwldno', 'jenw humlitny', 'jeny hmaultnw', 'jnei hymlwtno', 'jynw hoimltno', 'jnuw hmuolotn'}, {'jneh himlitni', 'jnuh hmaeltnw', 'jnee hemlwtno', 'junw himlitne', 'jnno hhmlidun', 'jneo hmawltnu'}, {'jnuw himloitn', 'jwno hmaaltny', 'jnea huimltna', 'jnua hmoildno', 'jnoy homlutno', 'jenw hihmlotn'}, {'jnoh hwmwldno', 'jnoe hhmlidyn', 'jniy hhimlytn', 'jnne hwmlidun', 'jnie hmowlotn', 'jniu homlitne'}, {'junw huumlotn', 'jnoi hiimletn', 'jwno huimlutn', 'jynu hmaildny', 'jwni himlitnu', 'jniu hiimlodn'}, {'jnni hmwylotn', 'jniu huimlotn', 'jnue hwmlidwn', 'jnua hoimlytn', 'jnoy huhmltno', 'jenw hhmlitna'}, {'jnuo hmuulotn', 'jnyw hmaalytn', 'jnua hwmlotno', 'jyny hemlatno', 'jyna homlotno', 'jyni hemlitne'}, {'jnny hemlidwn', 'jnew hoimltne', 'jneh hmeelotn', 'jwnu humuldno', 'jynw hmaeltny', 'jneu hiwmltno'}, {'jnii hmualotn', 'jyno hmaeltne', 'jnio hiwmltno', 'jnyw hmalitne', 'junw hmaoldno', 'jjne hiimlytn'}, {'jinw homlitna', 'jnny hmewlotn', 'jjni hwmlitny', 'jeny hmaulotn', 'jjnw hiimlitn', 'jwny huimltna'}, {'jeny hohmltno', 'jnea hmuolotn', 'jjno hiimlatn', 'jnuh hoimltno', 'jnww hmaolwtn', 'jnow homlutno'}, {'jnei hmahltno', 'jinw hmaoletn', 'jnww hmaylotn', 'jnou himloitn', 'jnne hmuildno', 'jnny humyldno'}, {'jyna hwmlitnu', 'jneu hhimlytn', 'jniu hewmltno', 'jnuw hemlwtno', 'jwnu hemlitne', 'jneo hmawlutn'}, {'jnue huymlotn', 'jnui hhimltny', 'jnea hmalytno', 'jnuw hmaolwtn', 'jnuy howmlotn', 'jiny huimlitn'}, {'jnoy homaldno', 'junw humlotno', 'jnyw hmwylotn', 'jjnu huumltno', 'jjno hhmlitnu', 'jnei huimlatn'}, {'jenw hmuhltno', 'jnuh hoemltno', 'jjnw huimltny', 'jjnu hmylitno', 'jnuw hoomlotn', 'jjna hmeolotn'}, {'jnoe hihmlotn', 'jwnu hwmlwtno', 'jnih huimltnw', 'jnww hmaaltny', 'jjnu hmaaldno', 'jwna hoimldan'}, {'jinw hmialdno', 'jnoi hoymlotn', 'jnow hmayltny', 'jneo homlitnw', 'jjny homeldno', 'jniw hemeldno'}, {'jwna hiwmlotn', 'jnoo hmaaletn', 'jwni huimltno', 'jnnu hmaaldun', 'jnuw heimltne', 'jwnw hhemltno'}, {'jyno hhmlutno', 'jnou hymyldno', 'jjno hmaildny', 'jnea hmywlotn', 'jnna hywmltno', 'jnuy hmawldno'}, {'jniy haemldno', 'jnuu hmayldun', 'jyne hoimlitn', 'jnih hihmlotn', 'jynw hmuultno', 'jnow hhimltnu'}, {'jyno heumltno', 'jynw huimlatn', 'jwne hoimltnw', 'jyne hmuelotn', 'jnuo hemlwtno', 'jjnu hmaildnu'}, {'jynw hoimldun', 'jneu hhomlotn', 'jnuo homlotno', 'jwna humlitny', 'jnia hmaildna', 'jinw hmalitny'}, {'jnne hhmlitnu', 'jnoo hoemlotn', 'jnih hmaalden', 'jnuw heumlotn', 'jyni hmaeldun', 'jyne hmeulotn'}, {'jjne hmuyltno', 'jnew himlitny', 'jnww hmahldyn', 'jnoo humlatno', 'jnwy hawmldno', 'jney hmahlotn'}, {'jnna hoimlatn', 'jinw huimltno', 'jnou hwwmltno', 'jnue huwmltno', 'jnnw hmeultno', 'jniw humlitnw'}, {'jnnu hmawlotn', 'jnne heimltna', 'jenw hmealotn', 'jnuu hemlitni', 'jeny himwldno', 'jjnw hmayltny'}, {'jyne hmayltno', 'jnuw hoimltne', 'jyno heimldno', 'jniy hmahlitn', 'jnne hoimldan', 'jnow hmaildny'}, {'jwna hmaaldin', 'jnoi hhmwldno', 'jenw hemlitna', 'jjny hiomltno', 'jnyy hoimldwn', 'jjni hoimldun'}, {'junw hmywlotn', 'jnuo hmaultnu', 'jnoo hmauletn', 'jnnw hhomltno', 'jynw hmawlwtn', 'jnie hmaalitn'}, {'juny hmayletn', 'jnyy hemlidno', 'jjne huomlotn', 'jnyw hhmlitnu', 'jyny hhmlitna', 'jnee hhimletn'}, {'jnie hmaoltna', 'jinw hhomltno', 'jnia hhmwldno', 'jwno hmawlatn', 'jyny hmalitno', 'jnei hiimltno'}, {'jnei hmohlotn', 'jneu hmaoltno', 'jnuw hmauldno', 'jynu hmaolytn', 'jnoy huimltna', 'jnoi hmuoltno'}, {'jniw hmwyltno', 'jnei hmeeltno', 'jnia hmauldno', 'jwno hoimlden', 'jyno hemlitno', 'jnny hmayldyn'}, {'jnww hmialdno', 'jyne huwmlotn', 'jnnw hmahlwtn', 'jnni hmaultno', 'jnui hymlitno', 'jnoy hemlitnu'}, {'jjna hmayltno', 'jwna heomltno', 'jnna hwmlwtno', 'jyno hhomltno', 'jnee hymletno', 'jwnw hhemltno'}, {'jnni huumlotn', 'jnoh hmahldyn', 'jenw hmueltno', 'jnow huimltna', 'jyni huimltni', 'jjnw hwmlitnu'}, {'jeny humuldno', 'jnia hmawlytn', 'jnny hhmlytno', 'jjni hiimlytn', 'jyna hmohlotn', 'jnuo hiimldin'}, {'jnoo hmayltno', 'jyna hmoaltno', 'jnnu huimlotn', 'jwnw himlitna', 'jnww hwmlitnw', 'jjne hiymlotn'}, {'jnuu hmwylotn', 'jniy heemltno', 'jjna hmuylotn', 'jnne hemuldno', 'jnih himlitni', 'jyny heimlutn'}, {'jnow hmuwlotn', 'jnnw hmaylitn', 'jnoy hmalwtno', 'jwnu hmualotn', 'jnii hmaylatn', 'jjnw hmawlodn'}, {'jnui hmalitnu', 'jneu hmahldan', 'jjny hymlidun', 'jenw hwymlotn', 'jiny hmayltnu', 'jnee humlytno'}, {'jnee hmalwtno', 'jnia hmaolitn', 'jnii hoimlatn', 'jnui hmauldno', 'jnnu hmaultni', 'jiny hmaoltno'}, {'jneu hmywlotn', 'jyno hhimltnu', 'jniy hhomltno', 'junw hhimlutn', 'jnow hmaildny', 'jnii hmalidwn'}, {'jnui hmaulden', 'jjna huimlitn', 'jnie hmuoltno', 'jynw hoemltno', 'jjny hhimlytn', 'jnuw hmuhlotn'}, {'jnui hmawlytn', 'jenw hmuelotn', 'jjnu hmaelodn', 'jnei homlitni', 'jjnw hmaeltnu', 'jneo hmalutno'}, {'jnyw hmahldun', 'jyne homlitnu', 'jwna heimlotn', 'jnue hmaelatn', 'jnua hhmlitna', 'jjni hymlotno'}, {'jnih heimltni', 'jnoe huemlotn', 'jwny hmelitno', 'jnnw humlitnu', 'jwnu hymlutno', 'jnei hohmlotn'}, {'jnow hmylitno', 'jnei humlitna', 'jnui hmualtno', 'jyno hmaelden', 'jnuu huimltna', 'jnna hmuolotn'}, {'junw hhmlytno', 'jwnw hhimltne', 'jnoo hmayltnw', 'jwny hwmlidun', 'jyno hymlwtno', 'jeny humlidun'}, {'jneh hmaildny', 'jnuw himlidno', 'jnua humlitny', 'jwnw hmahletn', 'jnii hoimldno', 'jnne huimltni'}, {'jnou hwwmltno', 'jnui hmaoltno', 'jenw hmaultna', 'jnow humlatno', 'jwny hhhmltno', 'jwne humaldno'}, {'jnww hymwldno', 'jnuw hhimltno', 'jwne hwmlytno', 'jnny hmaolutn', 'jynw hhmeldno', 'jnni hmayltny'}, {'jyni hmaelodn', 'jwni humletno', 'jnnu hmualotn', 'juny hmalotno', 'jeny hemlutno', 'jnei hemuldno'}, {'jnew homlitni', 'jnuo hmawlwtn', 'jenw hmalidno', 'jnua homletno', 'jniw howmltno', 'jjnw hmawlodn'}, {'jeny hmeultno', 'jnio hemlitna', 'jnuo hmahlytn', 'jnuu hmayltno', 'jnui hhimltnw', 'jniy humlutno'}, {'jnea hhimlitn', 'jnoy hoomltno', 'jwno humaldno', 'jnui himlitna', 'jjna hiymlotn', 'jnnu huimltnw'}, {'jneh hmlaitun', 'jnii homlidwn', 'jnee hhmlidwn', 'jwne himlidno', 'jnno hoimldyn', 'jnou himlytno'}, {'jyni hoimldan', 'jyna hmeildno', 'jnuy hmaelodn', 'jnyy hmaelotn', 'jniy hmalidwn', 'jinw hiymlotn'}, {'jnio hmeylotn', 'jnyw hoimldyn', 'jwni hmaoltna', 'jjna houmltno', 'jney hiimlutn', 'jniw himlidyn'}, {'jyni humlitno', 'jwny hmayltnu', 'jyno hmolitno', 'jnew humlotno', 'jnna hymlitny', 'jjna hmaalutn'}, {'jenw hhimlotn', 'jwnu homlidan', 'jyny hwmlidno', 'jnww hhimltnu', 'jnno hymletno', 'jynw hmoelotn'}, {'jnue hmaeldno', 'jynu hwmlatno', 'jnei hmoultno', 'jnnw hhymlotn', 'jniu hhmlitni', 'jnuo hmlaitwn'}, {'jjne hoimletn', 'jnii hmahltno', 'jnne himlitne', 'jnuw hmaaltna', 'jwne hhimlitn', 'jnea hoimldan'}, {'jnue hmahldan', 'jnow hwmlwtno', 'jnoy hmoulotn', 'jnuu hmaaltne', 'jnna houmltno', 'jnoe hhomltno'}, {'jnui himlotno', 'jnee hmuwltno', 'jyne hhmlitnu', 'jwnu hymlitne', 'jynw himlwtno', 'jjni hoimltni'}, {'jnuw huimletn', 'jyny hmalidun', 'jynw hmaildno', 'jyno huimltna', 'jnea hmaeltna', 'jinw hywmltno'}, {'jjny hmawlutn', 'jwnw hwmlotno', 'jnuw homaldno', 'jyna hhmlitny', 'jjnw hemlidno', 'jnna hmawltno'}, {'jnoy hwmlidan', 'jnyw hwmlitny', 'juny hmaulden', 'jnii haemldno', 'jnna hmaylytn', 'jjno himlidwn'}, {'jnwy homeldno', 'jwnw heimlodn', 'jnnu hmawlwtn', 'jyno hohmlotn', 'jnio hmehlotn', 'jniu heimltnw'}, {'jnea hemlidun', 'jniy hymlitna', 'jnyy himlwtno', 'jnuo homeldno', 'jnno hmeildno', 'jjna hmaoletn'}, {'jwnw hwmloitn', 'jnia hmawltni', 'jwny hiemltno', 'jwne hmaildno', 'jnwy hmaulytn', 'jnuo hhimldyn'}, {'jnuw hmawlatn', 'jnea hmahlutn', 'jjna huimlwtn', 'jyny homlitnu', 'jwne homlwtno', 'jnew hmlaitno'}, {'jnoi hmoaltno', 'jnua hhumltno', 'jnno hhimlotn', 'jnuw huimltnu', 'jneo houmltno', 'jnoh homlitnu'}, {'jnoh hymeldno', 'junw huumltno', 'jwna humlitne', 'jjnu huymltno', 'jnie hhimlwtn', 'jnih himlutno'}, {'jnww homlatno', 'jnie hemlidno', 'jynw hwmlatno', 'jnuw hymlidno', 'jney hmaultnu', 'jnue hemlidin'}, {'jyno hhmlwtno', 'juny hemlitnu', 'jwnw houmltno', 'jnny hmaultni', 'jnuy hoimlutn', 'jniw hawmldno'}, {'junw hwymltno', 'jnoo hhmletno', 'jnyy hemlitnu', 'jneu hhmlidwn', 'jeny hmoylotn', 'jnii hmaaldin'}, {'jnih hmuwlotn', 'jniw hmwwlotn', 'jyni hemlytno', 'jnnw hymlitni', 'jjny hmaolatn', 'jjni hmulitno'}, {'jnoy hymlotno', 'jniy hmalitna', 'jnno hihmltno', 'jnnw humlitni', 'jjny homlwtno', 'jnea hmualotn'}, {'jnna hemlitne', 'jnow hmaylotn', 'jenw hmalwtno', 'jnnw himlitnw', 'jiny hwmlidyn', 'jwni hawmldno'}, {'jnny hmaelwtn', 'jnni hhmlitno', 'jeny hmyylotn', 'jnno homlidno', 'jnoe hemletno', 'jynu hemlitni'}, {'jwnu humlitno', 'jjno humlwtno', 'jnow himlidin', 'jnue hmaaldun', 'jjny homliden', 'jjna hmaulutn'}, {'jnuw hmawlatn', 'jwnw hhimltni', 'junw hemlitne', 'jnew hiimlotn', 'jnii humlitny', 'jnou hmaylwtn'}, {'jney himlitni', 'jnoe hymlidwn', 'jnuw haemldno', 'jnii hmawlutn', 'jnuh himlidyn', 'jnuo hhymltno'}, {'jnoo hmuwlotn', 'jwna hmoylotn', 'jnww hoymltno', 'jjnu hhimletn', 'jjna himlidyn', 'jneo himlotno'}, {'jnuu himlitny', 'jyni hemlitni', 'jnuh haimldno', 'jnia hoimlodn', 'jnoe hmaeldun', 'jnie hmuwltno'}, {'jnie hmeeltno', 'jynw hmaultnu', 'jnno heymltno', 'jynu hiimldin', 'jjno hiomlotn', 'jneu hwmlidin'}, {'jjnu haimldno', 'jnuu hhmeldno', 'jyna hmeolotn', 'jnww hmaaldun', 'jyny hmwylotn', 'jjne hhmlitni'}, {'jnni hmuhlotn', 'jniu heimlodn', 'jyno hmaylitn', 'jniw hmuyltno', 'jnii himlwtno', 'jnoo hiimlotn'}, {'jwna hmuwltno', 'jnuw humlytno', 'jjny hmawldno', 'jwne hhwmltno', 'jnuy himlwtno', 'jyne hwmlidno'}, {'jnew hiemlotn', 'jyna hmaaltna', 'jjne himwldno', 'jnny hwmlidwn', 'jwny hhmlitni', 'jnuo hmaalutn'}, {'jnio hemlitno', 'jnoh hoimldun', 'jenw humlitne', 'jnuo hhimltno', 'jnww hhhmltno', 'jyny humlidun'}, {'jwne hmaalodn', 'jneu hemlitno', 'jyne hymlotno', 'jyna humlidun', 'jjnw himuldno', 'jney hwmletno'}, {'jwno hmaeldno', 'jnih hmueltno', 'juny himlidno', 'jyna heimldno', 'jnnw hmwwlotn', 'jnyy heimltnw'}, {'jnnu heimltne', 'jyni hmaultna', 'jnow himlitne', 'jyne hwmlitno', 'jynu hhmlutno', 'jneu hhmlitne'}, {'jnia hhmwldno', 'jwny hoimltna', 'jniu huumlotn', 'jeny humlutno', 'junw hhmletno', 'jnuw homeldno'}, {'jnee hiimlitn', 'jynw hmaalytn', 'jnea homlidun', 'jnii himlotno', 'jnnw homuldno', 'jwnw hmaolitn'}, {'jenw hmwlitno', 'jwni hymeldno', 'jinw hoimlytn', 'jjne houmltno', 'jnue hwymltno', 'jnuo huimlwtn'}, {'jnou hemlitny', 'jenw hmealotn', 'junw homlwtno', 'jjne hmoulotn', 'jniw hmaoldno', 'jwno hmayletn'}, {'jnei homoldno', 'jyna heimltno', 'jyny hmalwtno', 'jniy hmahlwtn', 'jjnu hmaletno', 'jnui hmaalotn'}, {'jnih hmaultna', 'jnii hymlidwn', 'jjne hmaeltna', 'jwna hhwmlotn', 'jnue homlitnw', 'jneo hmaildno'}, {'jwny hhimlutn', 'jnuh hmlaitun', 'jnno hymlidwn', 'jnuw homlitnu', 'jnei hmaaltny', 'jnwy hiomltno'}, {'jnyw hmahlodn', 'jwne homliden', 'jnny hmeyltno', 'jjnw hymlitno', 'jnui homlitnu', 'jnna hmeoltno'}, {'jjnu hwmlitny', 'jnui hmahlitn', 'jwnw hmaylodn', 'jnue hwmlidun', 'jnoo hymlotno', 'jnow hmaolytn'}, {'jyni hiymlotn', 'jnyw hmawltno', 'jnoo huemltno', 'jnnw hymlitnu', 'jnoy hmaoldun', 'jenw hhimletn'}, {'jnuy hmaildnw', 'jwna himlitna', 'jyna hmaelodn', 'jneh hiemltno', 'jnou hmawlatn', 'jnne hohmltno'}, {'jjny huimletn', 'jwne hmaaltni', 'jnny hmoultno', 'jnwy huimltna', 'jnue hmwyltno', 'jneo hemlitno'}, {'jneh hemlutno', 'jnia hmaoletn', 'jneo hmauldno', 'junw hmaultna', 'jnoi hymyldno', 'jeny hwmwldno'}, {'jyne hoimlden', 'jniy humlotno', 'jnii hmyylotn', 'juny himuldno', 'jnwy huhmlotn', 'jnuy hmawldno'}, {'jwno hmeildno', 'jnnw homlotno', 'jnna hoimldwn', 'jyne hmaalutn', 'jjni hhimlatn', 'jneu heomltno'}, {'jiny hmahldun', 'jwna heimltnw', 'jynw hmalatno', 'jnee hoimletn', 'jnno hhmlwtno', 'jwnu himlitne'}, {'jnnw huimltne', 'jnio hmuildno', 'jnuh hmaolutn', 'jwni homlidin', 'jnne hymlidno', 'jynw howmlotn'}, {'jnna hwmlidun', 'jnoi hmawldun', 'jnoy hmaoltno', 'jnww hwmlidwn', 'jniy hmylitno', 'jnea hhmlitnw'}, {'jjni hymlitny', 'jneo hmaalodn', 'jnui hehmltno', 'junw hemlidyn', 'jwni howmlotn', 'jnuy heimlotn'}, {'jnyy heimldno', 'jnua hiimlutn', 'jwnw hmawltni', 'jwnu hemlitno', 'jnuh hmaylutn', 'jnoi hhimltnu'}, {'jnii hmawlitn', 'jneh hoimltna', 'jjnw hmeelotn', 'juny hoimlatn', 'jwnw hawmldno', 'jwny hmawltni'}, {'jnoi hhmlitnw', 'jneo hmaalden', 'jnoy homlidwn', 'junw hemlitni', 'jnuw hoimlitn', 'jjna himliden'}, {'jjni hmawletn', 'jnih hhimltna', 'jnea hiimlitn', 'jnoe hawmldno', 'jwny humyldno', 'jjne hmaulatn'}, {'jynu hmelitno', 'jyne hmahltny', 'jneo hmwylotn', 'jiny heimlutn', 'jynw hmayltnw', 'jwnu humwldno'}, {'jnew hmaalodn', 'jnow hymlitny', 'jnnu hymyldno', 'jyno humlatno', 'jwne hmwyltno', 'jinw hmaulotn'}, {'jwny hmaoldno', 'jneu hmawlotn', 'jnui hmuoltno', 'jneo hmaolotn', 'jnie homeldno', 'jnno hmaaltny'}, {'jiny hoimldin', 'jynu hmaoltni', 'jnih hwmlidan', 'jneh hmayltno', 'jnia heumltno', 'jnuu hoymltno'}, {'jnyw hmylitno', 'jnoe hmahldan', 'jyni hmahldyn', 'jniy huimlwtn', 'jnie hmoaltno', 'jinw hemlitnw'}, {'jnwy himlutno', 'jjni hymlitnw', 'jwno hmaultno', 'jney hmaelutn', 'jwny hmalatno', 'jnyy hiymlotn'}, {'jyna hmwyltno', 'jynu hwmlitnw', 'jnua hhimlotn', 'jniy hmalitnu', 'juny hwmlitna', 'jnoe hmuwltno'}, {'jwnw hmalitni', 'jwne hmwylotn', 'jnoi hymyldno', 'juny hhimlytn', 'jjno heumltno', 'jjna hmoolotn'}, {'jnui hmahlatn', 'jyno hymlatno', 'jnih hmyylotn', 'jnuo homliden', 'jnne hmuhlotn', 'jjno hmaulutn'}, {'jyno hmeelotn', 'jnyw huwmltno', 'junw hhimltno', 'jenw himlidwn', 'jyni hmaildna', 'jnui hwmlidin'}, {'jnuw hoimlatn', 'jnyw humyldno', 'jwnu hmaildnw', 'jnue hmalytno', 'jyny hemlitno', 'jwny hhimletn'}, {'jnne hemlitne', 'juny humlitna', 'jnoi hmaelwtn', 'jnny homoldno', 'jneu hmaolwtn', 'jynw hmahltno'}, {'jjny huimletn', 'jnui hmewlotn', 'jnew homeldno', 'jjnw hmaoltne', 'jenw hohmltno', 'jynu hymletno'}, {'jnua hmaeltno', 'jinw hhymlotn', 'jnne hmalitno', 'junw hmayltnu', 'jniw hiemltno', 'jjnw hmawlatn'}, {'jwnw hmaaltnu', 'jnih hhimldyn', 'jwni hmoalotn', 'jenw hhimlodn', 'jjne hmeelotn', 'jnoh hmawltny'}, {'jenw humlidwn', 'jyni hmohlotn', 'jnua hmahlodn', 'jnoi heumlotn', 'jnoo hymlidun', 'jnea homlytno'}, {'jnww hemlitna', 'jnoe himwldno', 'jiny homaldno', 'jwni hwmeldno', 'jnei hymlytno', 'jwnw hmahldan'}, {'jwni hmalotno', 'jnuh hymlotno', 'jnwy hmaaltnu', 'jnuo hemlidun', 'jnuu homoldno', 'jney hmawltny'}, {'jnii hmaulytn', 'jjne houmlotn', 'jwne hmaoltnw', 'jnny hmaulatn', 'jnuh homlitnw', 'jjnw howmltno'}, {'jynu hmlaitwn', 'jnuu hmowltno', 'jnuy hymlitno', 'jniu hmawltny', 'jjny hmwylotn', 'jjnu hmayldan'}, {'jnoe hwmlidin', 'jwnw hmaoltna', 'jnuh hemwldno', 'jjna hmoulotn', 'jnoo hoimltny', 'juny hmaaltni'}, {'jnuu hhimltne', 'jnuh hemlitne', 'jniu hmaelwtn', 'jnne hmoaltno', 'jnie hymlidun', 'jnny homlytno'}, {'jnyy hhomlotn', 'jney hmayltnw', 'jnnw hmaolotn', 'jnoh hohmlotn', 'jnua hhmlitny', 'jniu himlitno'}, {'jneu hwmlidun', 'jyna hmaoletn', 'jyne hoymltno', 'jnna hemlidwn', 'jnnu hmawldun', 'jnuw hiomltno'}, {'jnii hhmlidno', 'jnou hmayletn', 'jnww hhimltny', 'jnea hmaylotn', 'jyni hmaelden', 'jnoo hmawlutn'}, {'jwne hiimldin', 'jnoy hymlidno', 'jyno hymletno', 'jnuy hhimlwtn', 'jinw hhmlitnu', 'jnii hymlotno'}, {'jjnu hhimltny', 'jjno hmaelitn', 'jnui hmawldun', 'jyni hmueltno', 'jjnw hmaulutn', 'jnni hmaoltni'}, {'jjna hmualtno', 'jnuy himlidyn', 'jinw hoimldno', 'jnii hmaolutn', 'jyni hmaeltne', 'jeny hmuwltno'}, {'jwni hiimlwtn', 'jyno hmaulutn', 'jnow hmuhlotn', 'jnie hwymlotn', 'jniu hmaelytn', 'jnww hmaaltno'}, {'juny hmawletn', 'jnnu hmeoltno', 'jwno hiemlotn', 'jnuu himwldno', 'jwne heimltne', 'jniy hmaultna'}, {'jwno hmalitno', 'jnny hhemlotn', 'jnie hoimldwn', 'jynw hemlytno', 'jnww hmawlytn', 'jjny hoymltno'}, {'jnoe huomlotn', 'jjni hhomltno', 'jnna himlidin', 'jnuo hhimltne', 'jynu himlitny', 'jjny homlitne'}, {'jjni homliden', 'jinw hymlitnw', 'jenw hmaoltni', 'jnoe hymlidwn', 'jyne hmayltna', 'jeny heumltno'}, {'jnie homlidyn', 'jnih hmuwlotn', 'jynw hoimlotn', 'jnno hmawlutn', 'jnoi hmaoltni', 'jnne hwmeldno'}, {'jnuw hmylitno', 'jwno hmaolwtn', 'jnew hmealotn', 'jnuu hoimlwtn', 'jnei hmoultno', 'jyna hmywltno'}, {'jnie hmwyltno', 'jnny hmawltny', 'jwna huhmltno', 'jneo huymltno', 'jnia homlitni', 'jenw hwmlidwn'}, {'jniy hwmlotno', 'jnna hwmloitn', 'jnoy hmialdno', 'jnyw hiumlotn', 'jnue hmuwltno', 'jnoi hmawltni'}, {'jnne humletno', 'jwne hemletno', 'jnui hmalitne', 'jnow hoimlden', 'jjnw hemlidwn', 'jnoh hmaylodn'}, {'jyni hymlidno', 'jenw hmawlytn', 'jniu hmaaltna', 'jwno hmaelwtn', 'jnni hmalitny', 'jnow hmaelitn'}, {'jniw hmywltno', 'jiny hmuylotn', 'jnea hmuhltno', 'jnie humlidyn', 'jenw hhomltno', 'jyne hwmlwtno'}, {'jiny hmueltno', 'jnui huimldno', 'jnuo homlitne', 'jenw hemlutno', 'junw hemlidyn', 'jnoi hywmlotn'}, {'jjno himlidun', 'jney hhimltnu', 'jnny hmalidun', 'jnnu heimltno', 'jnoy hmaalitn', 'jwne hmahltnu'}, {'jwne huimlwtn', 'jniy hymlidyn', 'jniw hhumlotn', 'jney hmawltni', 'jneo hymlitny', 'jwnw hemlytno'}, {'jnuo hmaolodn', 'jnoo hhimlutn', 'jnnu hymeldno', 'jnny hoimletn', 'jwno hmoulotn', 'jnna hmahltny'}, {'jnoi huimltnw', 'jnwy hmaoltno', 'jnno hwmletno', 'jjnu hoimlotn', 'jnny hmawltni', 'jnyw hmayldun'}, {'jyne hmoulotn', 'jnoh hmealotn', 'jnne hmahltnu', 'jnui hmaolytn', 'jniu hymletno', 'jnio humaldno'}, {'jnnu hmaelutn', 'jnoi hoemlotn', 'jnny hmawlodn', 'jnui hmeyltno', 'jjny hmelitno', 'jeny hmaildnw'}, {'jnne hymlitnw', 'jneh himlidwn', 'jnee hiimlatn', 'jeny hmeelotn', 'jwne hhmeldno', 'jnnu hmalitna'}, {'jwno hmoylotn', 'jnwy hhhmltno', 'jjne hwmlitni', 'jnia hmaultnw', 'jnee hymlitno', 'jnoh humlytno'}, {'jnea hmwylotn', 'jnyw homlidun', 'jyna himlidno', 'jynw hhimldyn', 'jneo hoimldin', 'jnuh hmaelwtn'}, {'jnio hmeolotn', 'jnua hmowltno', 'jnoy hmualotn', 'jnnw hhimlytn', 'jiny huimlodn', 'jjna heimltno'}, {'jwny hmlaitwn', 'jnui hmeulotn', 'jnnw hmaaltno', 'jynu hmahlitn', 'jynw hymlitne', 'junw humlidun'}, {'jnou hemlutno', 'jnia hmahldyn', 'jnuy hmalidno', 'jjnw heimltnw', 'jnea hmaylodn', 'jjno hmyylotn'}, {'jnew hmeulotn', 'jjna homeldno', 'jwne huimlodn', 'jnwy hemeldno', 'jniu hwmwldno', 'jnue homuldno'}, {'jnih hhmlitny', 'jnna hmaoltna', 'jnoe hiemlotn', 'jnue hmahltnw', 'jnee hmalotno', 'jnyy hmaaltny'}, {'jnuo heumltno', 'jjnu hemlotno', 'jnoo hmoaltno', 'jwny hwmlutno', 'jnua hoimltnw', 'jwnu homlidun'}, {'jnou hewmlotn', 'jniw hoimlitn', 'jnno himlidan', 'jnne hemlitno', 'jnow hiimlutn', 'jwno hmaoltnw'}, {'jnyy hymlutno', 'jnew hoimlatn', 'jiny huimlitn', 'jneu hhmeldno', 'jnoh humlitno', 'jnei hmahletn'}, {'jinw hymwldno', 'jnni hemlitna', 'jyny hhmlidwn', 'jnou hymlotno', 'jnnu heymltno', 'jwne hihmlotn'}, {'jynu himlitne', 'jeny hmuhlotn', 'jnno homlitne', 'jyni huimlodn', 'jynw hhimlutn', 'jnni hhmlidyn'}, {'jwnw hmaletno', 'jnie hhumlotn', 'jnny hmoeltno', 'jniu hmaelwtn', 'jnuu hmahlitn', 'jnoo hmaaldin'}, {'jnuu houmltno', 'jnnu hmawlwtn', 'jyne hmaelutn', 'jyno homlutno', 'jnna himlitna', 'jenw hhomlotn'}, {'jneo hmaelytn', 'jnni humlitnw', 'jnew hymlidno', 'jnie hmaeldno', 'jyno homlitna', 'jyny hewmltno'}, {'jneh hwwmltno', 'jjni heymltno', 'jenw hemlidun', 'jneu hmyyltno', 'jnou hmalatno', 'jynw hemwldno'}, {'jyni hhymlotn', 'jjno hoimlytn', 'jnny hmahltny', 'jnia humletno', 'jjnu houmlotn', 'jniw humuldno'}, {'jnea hymlitna', 'jjna hemuldno', 'jinw hiimlotn', 'jnwy huomlotn', 'jeny heimlotn', 'jnyw hymlitno'}, {'jwnu hemlidyn', 'jinw hawmldno', 'jnih hoemltno', 'jnii hhmletno', 'jnou homeldno', 'jwnw hiumlotn'}, {'jniw hemwldno', 'jnuy hwwmltno', 'jwna hemyldno', 'jnei hmahlodn', 'jnyw hymletno', 'jeny hmaulatn'}, {'jniy hmaeltnu', 'jnii hmayltnu', 'jjny himlitnu', 'jnoy hmwyltno', 'jyno hmualtno', 'jjnw hmaeletn'}, {'jwno hwmlidan', 'jnna homlidun', 'jnni hmahldan', 'jnyw hmowlotn', 'jwni hhimltna', 'jwnu humlitnw'}, {'jniu hmeulotn', 'jwne hmaeltno', 'jnoi hmahlitn', 'jnih hwmeldno', 'jnei hmaoltne', 'jnia huimlodn'}, {'jwnw hmaoldun', 'jyne hoimlatn', 'juny hhimlotn', 'jjnw hmlaitwn', 'jnnu hymlidyn', 'jyno hwmlitna'}, {'jwny hoimltne', 'jwno hoimlytn', 'jinw hymlitna', 'jnnw hoimldwn', 'jwna hwmlidin', 'jynw hmuildno'}, {'jwno hhmlidyn', 'jjno humlwtno', 'jnee hhmlidwn', 'jnih hmaulatn', 'jnna hmaulwtn', 'jnoo hemlidin'}, {'jnuy hmaalodn', 'jiny huimltni', 'jnne hiimlodn', 'jjnw hihmltno', 'jjny hmaeldno', 'juny hmuildno'}, {'jnoe hoimlwtn', 'jynu hwmlitna', 'jnoy homlidyn', 'jnwy hoimlatn', 'jjnu hmahltnu', 'jwno haemldno'}, {'jnou hymwldno', 'jnih hoimltnu', 'jnew hmuwlotn', 'jjny hmuelotn', 'jnwy hhmlidno', 'jney hmaioldn'}, {'jiny huymlotn', 'jyni hmlaitun', 'jnna hmuyltno', 'jyny hmeoltno', 'jnuh hhimletn', 'juny hoemltno'}, {'jnoe hhwmlotn', 'jneo huimlodn', 'jwni hmahletn', 'jynw hmawlytn', 'jjno huemltno', 'jwnw hmolitno'}, {'jnea hihmlotn', 'jiny humlitnw', 'jnou hhmlidyn', 'jwnu hmowlotn', 'jnuh hmaolden', 'jnuo hmuwlotn'}, {'jnue hiymlotn', 'jjne himlytno', 'jniy hmuildno', 'jyny heimlutn', 'jnno hemlwtno', 'jneu hemuldno'}, {'jjni hemlutno', 'jnoe hmaulotn', 'jnii huhmlotn', 'jjna hmaildnw', 'jyny hmualotn', 'jnow homlitno'}, {'jyni hmaultnw', 'jyny hemlytno', 'jnni hmaolden', 'jnii hhomlotn', 'jjne hmaylatn', 'jniy huimlutn'}, {'jnui homlutno', 'jnue hmaultna', 'jnoh hhimlytn', 'jnie humuldno', 'jnuh hmaultny', 'jnio hmahletn'}, {'jnei hiimltni', 'jwny hhymltno', 'jnoo haemldno', 'jynw hmaioldn', 'jney hmawltny', 'jjnu humlitnw'}, {'jnuu homlidun', 'jnei hmaalden', 'jnne hhimlwtn', 'jiny hmaoldun', 'jwne hewmlotn', 'jnnw hmaultne'}, {'jnei hmehlotn', 'jynw hmaalytn', 'jjne hwmeldno', 'jnyy huimldwn', 'jwni homlitnu', 'jnww hmaelutn'}, {'jjne himwldno', 'jneo hwmlatno', 'jyna hhimldyn', 'jnoy hwwmltno', 'jnuu hihmltno', 'jnia hmaeltno'}, {'jnuw hmoultno', 'jjna hmualtno', 'jyne hwmletno', 'jnni hmuelotn', 'jwny huymlotn', 'jniy hwmlidyn'}, {'jjna hwmlitny', 'jinw hmuwlotn', 'jnoe hhwmltno', 'jjnu huimltni', 'jjno hmaylitn', 'jnow hmawltnw'}, {'jnuo hmawltny', 'jnne hmaeltny', 'jnwy hmaalitn', 'jnno hmeildno', 'jneu hiemltno', 'jnie hmaelutn'}, {'jnoi hmaaltne', 'jynw hmuwlotn', 'jnou hmeylotn', 'jnih hymlitny', 'jnny humlitno', 'jwnw hmahltnu'}, {'jnia heimltno', 'jnuu homlitna', 'jjni himloitn', 'jyni hiumlotn', 'jnyw hmuoltno', 'jnio hhmeldno'}, {'jwnu himlytno', 'jjne himlitne', 'juny hymlytno', 'jjnu hwmlitna', 'jnwy hmaeldno', 'jnuu hoimldan'}, {'jwne hhmlidno', 'jjno hywmlotn', 'jnuo hemlidno', 'jnea hmawltnu', 'jnoo hmalidno', 'jynw hymyldno'}, {'jwna hmaildno', 'jiny hhimltnu', 'jeny hmawlatn', 'jnui hmalotno', 'jyna hiemltno', 'jnia hhymlotn'}, {'jnoe hwmlwtno', 'jnno hmaylytn', 'jnuw himlitny', 'jjnu himlitnu', 'jyno hhimlatn', 'jnoo hhymlotn'}, {'jnuu hhwmltno', 'jniy hmeyltno', 'jwnw huimletn', 'jyny hmewltno', 'jnuh hmawltno', 'jynw hmulitno'}, {'jnww hhmlidno', 'jnnu houmltno', 'jynu hmawlodn', 'jnih hhimlatn', 'jjny hmwwlotn', 'jniw himlidyn'}, {'jniu hymlidyn', 'jnuh hymlitny', 'jneo hmaaltno', 'juny hmaulden', 'jyny hhymlotn', 'jnoe humlatno'}, {'jnwy hmaelitn', 'jneu homaldno', 'jjne homuldno', 'jnei hoimldyn', 'jnyy hmawlytn', 'jiny hemuldno'}, {'jwno hhomlotn', 'jnih hoemltno', 'jnua humlotno', 'jnni hiimldin', 'jnio hoimlden', 'jyno hmoelotn'}, {'junw hmaylodn', 'jneo hmalotno', 'jnew hmaolutn', 'jnno hhmlitnw', 'jnui hmaaltny', 'jnnw hmyyltno'}, {'jnoo hoemltno', 'jjne hwymlotn', 'jyna homeldno', 'jyno hymlidun', 'jnni hhimlitn', 'jneo hwmlitnw'}, {'jnoh hoimltny', 'junw hmaultna', 'jnue hmyylotn', 'jnua hmaeldno', 'jnna heomltno', 'jnei himlatno'}, {'jnuh hmaaltny', 'jnuo hmalitny', 'jjne hmoultno', 'jnny hmahlodn', 'jyno himlitne', 'jnia hohmlotn'}, {'jniw hmalitny', 'jjne hmualtno', 'jnuo hmaoltne', 'jnna hoimlitn', 'jnei homyldno', 'jwnu hymlwtno'}, {'jney himlidyn', 'jenw hmaeltna', 'jnnw hmaultni', 'jnuh hymlitne', 'jiny hmaaltna', 'jnoy humlwtno'}, {'jjne hmawletn', 'jnuu hmwwlotn', 'jnoe hmoildno', 'jney hmahldun', 'jnua hmoulotn', 'jnuy hwmlitnu'}, {'jwne himlytno', 'jjni hwmlidno', 'jnyy hymlitne', 'jnui hwmeldno', 'jnne hmahlatn', 'jiny himlatno'}, {'jyni hmaalutn', 'jnuy homletno', 'jjny hhimldyn', 'jnih hoimlotn', 'jyna hoymlotn', 'jneh huwmlotn'}, {'jwny hhimlytn', 'jniw hmoaltno', 'jnna hemlitnu', 'jyne hhimlatn', 'jwnu himlutno', 'jnee hewmltno'}, {'jnuh hymlitnw', 'jnie hmealotn', 'jeny himlitna', 'jnou hmoolotn', 'jniw hemlidno', 'jnuo hmaaltny'}, {'jnoi hmahlotn', 'jjna homlutno', 'jjne hhomlotn', 'jyno hwmlidan', 'jneo huomltno', 'jjnw hmaelotn'}, {'jenw hmaulutn', 'jyne huimltno', 'jnwy hoimltnu', 'jnoh hmahldyn', 'jniu hoimlitn', 'jnny hhwmltno'}, {'jnne hmalitna', 'jnni hoimltnu', 'jnow hmywlotn', 'jnuh hmoalotn', 'jnnu hmoeltno', 'jnui hmaulatn'}, {'jnoe hmowltno', 'jjne hymlidun', 'jnua hmahldun', 'jyne himlidin', 'jjny hiimltni', 'jenw hmaaltna'}, {'jyni hmaaltnw', 'jeny hmuildno', 'jnii hmooltno', 'jjni hwmlotno', 'jnia huimlwtn', 'jynu hoymltno'}, {'jnih hmuwltno', 'jnoe hiimlotn', 'jnow himliden', 'jnuo homwldno', 'jnnw hmahlutn', 'jnoo hmeildno'}, {'jney hymlitne', 'jnew hemuldno', 'jnne hmahlwtn', 'jnnw huimlotn', 'jjne hemlidwn', 'jnoi hywmlotn'}, {'jnnw hymyldno', 'jyno hmaalden', 'juny hmayltna', 'jnua homaldno', 'jyne hhymlotn', 'jynu huimltnw'}, {'jnnw hymwldno', 'jjni hmalatno', 'jnni humuldno', 'jyna homlidno', 'jnea hmauldun', 'jnui hehmltno'}, {'jnny heimltne', 'jniw hemlitnu', 'jnui hemwldno', 'jwna huimldwn', 'jniu hemlitno', 'jjnw hmaeltna'}, {'jnou hoomltno', 'jwni hmaaltne', 'jnea homlitny', 'jnoo hoimldyn', 'jnuy himlitny', 'jnih humlatno'}, {'jnua himletno', 'jnoy hmahltny', 'jynu hoymltno', 'jwna hhumltno', 'jjny huemlotn', 'jyne himloitn'}, {'jnww hoimlden', 'jnnu hmaylwtn', 'jwnu hmaeletn', 'jnii hhmlwtno', 'jyne hmwyltno', 'jnuh heimlotn'}, {'jnny hmawltnu', 'jjny hiimlatn', 'jnee hmayltno', 'jjne hmaeltno', 'jnnu hmaioldn', 'jnyw humlidwn'}, {'jnow hoemlotn', 'jenw himwldno', 'jwny hmaylotn', 'jiny hmaultna', 'juny hmaoltnw', 'jyno hmaulodn'}, {'jjnw hmawldun', 'jney hmahltno', 'jyni hmalutno', 'junw heumltno', 'jnue hmawlwtn', 'jnyw hemeldno'}, {'jwno hmahlwtn', 'jnni himlytno', 'jnoh hmahlatn', 'junw hymlitnw', 'jnow hymlidun', 'jnui hmalitni'}, {'jnuo hwymlotn', 'jnou hymlidyn', 'jnoi hhimlytn', 'junw hwmlatno', 'jenw hiimlatn', 'jwne hmawltny'}, {'jwni hmaildnw', 'jniu hmaeldno', 'jjnu huimlotn', 'jenw homlatno', 'jyno hoemltno', 'jney hmaeltny'}, {'jnua haemldno', 'jnoo homlotno', 'jnuo hwmloitn', 'jnuh hmlaitwn', 'jyny hmyylotn', 'jnow humlitnw'}, {'jwni hiwmltno', 'junw hymlitne', 'jnoo hhimlitn', 'jjne hwmlotno', 'jnih hhmwldno', 'jnuy hhimltnu'}, {'jynw hmaaltnw', 'jnuy hymlidyn', 'jnoi homwldno', 'jnei hhmlwtno', 'jnii hmawlutn', 'jeny himwldno'}, {'jnuh humlotno', 'jwna hiomltno', 'jnny hmialdno', 'jjnu hmualotn', 'jney hmaelwtn', 'jwnw hmelitno'}, {'jyni hmaeltno', 'jnii hmawltna', 'jnna himlitnu', 'jnee hwmwldno', 'jnwy hmaaltno', 'jniy himeldno'}, {'jnnu hmayltna', 'jwnu hhmlotno', 'jjnu hhimltnu', 'jnee hhymltno', 'jnww hmwwlotn', 'jnio hohmltno'}, {'jnui hemyldno', 'jnnu hemwldno', 'jniw hmwlitno', 'jney hmaulotn', 'jwna heimltni', 'jnii hmaeldno'}, {'jnnw hwmlidun', 'jnih hhimlotn', 'jnou hemuldno', 'jnea hmoultno', 'jyna hemlitne', 'jwni hwmlitni'}, {'jjnw hmaletno', 'jyny hhimlitn', 'jwno hhymltno', 'jwny himlidwn', 'jnew huimlatn', 'jnyw hewmltno'}, {'jwni hemlutno', 'jynu huomltno', 'jyna homlotno', 'jnei homlidin', 'jwnw himlidan', 'jnie hmeeltno'}, {'jnui hhmlitne', 'jwne hmawlytn', 'jwni hmauldno', 'jnoy hmaalotn', 'jneu hmaletno', 'jnou hmalatno'}, {'jnne hwmwldno', 'jeny humlidno', 'jjna hmwylotn', 'jnni humlutno', 'jnoi hmaolotn', 'jnih hmlaitun'}, {'jwna huimlutn', 'jiny hoimltnw', 'jnoe hwmlitny', 'jynw hmealtno', 'jnoy hymlidun', 'jnea hyymltno'}, {'jney hoymlotn', 'jnia hmealtno', 'juny himlitny', 'jneh hmaaltni', 'jnoy hhimlwtn', 'jyno hmywltno'}, {'jniy hmawlodn', 'jwnu huimltna', 'jnno hmwwlotn', 'junw humlwtno', 'jnou hhimletn', 'jnyw hmaelotn'}, {'jjny hhimlodn', 'jwnu hoimltnw', 'jnih huomltno', 'jneh hmaeltny', 'jnna hemlidin', 'jwnw hmaulutn'}, {'jnne hhhmlotn', 'jnie huomltno', 'jnuu hmaylodn', 'jyne hmeulotn', 'jneh hmaalutn', 'jneo hwwmlotn'}, {'jnio huwmltno', 'jnna hymlitna', 'jnuu hemeldno', 'jnee hmaildno', 'jenw hymlitny', 'jnuh hehmltno'}, {'jjne hhumlotn', 'jnoh hmoylotn', 'jjnw hmahletn', 'jnww hmahlodn', 'jnii heimldno', 'jnyw hwwmlotn'}, {'jjny hoimldyn', 'jniu hoimltno', 'jwno hmaoltne', 'jwnu homlitna', 'juny hiomlotn', 'jwni hywmlotn'}, {'jnui hymlotno', 'jnyy hhumlotn', 'jnoe hmaolodn', 'jwne hwmlitna', 'jnou hemlitni', 'jnuh hwmlidan'}, {'jnii hiimldin', 'junw hmaaltno', 'jneh hwmlitne', 'jniu hmuoltno', 'jnnu huwmlotn', 'jniy hmualtno'}, {'jneh hmahldyn', 'jnoi hwmlidno', 'jyna hmawltno', 'jwnu hmuhltno', 'jneu hoimlwtn', 'jnee hwmlitnw'}, {'jjny huhmlotn', 'jneu hemlidwn', 'jnne hoemlotn', 'jnio humlatno', 'jnua himlotno', 'jney heimlutn'}, {'jnyy himlidno', 'jnuw huimlwtn', 'jnoe hmaletno', 'jnwy hhimlwtn', 'jwni hhmeldno', 'jniw hiemltno'}, {'jjny humlytno', 'jnoi hmaultnu', 'jnnw homwldno', 'jyni hyymlotn', 'jjno hhimletn', 'jnni himlidan'}, {'jjno hmahlutn', 'jjnw hemlotno', 'jinw himlitnw', 'jnio hmlaitno', 'jniu hmauldno', 'jnia hhimlodn'}, {'jnoo hhmlatno', 'jwni hymeldno', 'jnne hwmlidan', 'jnia hoimletn', 'jyna hemlidyn', 'jyny homlidun'}, {'jnwy hoemltno', 'jnee hmlaitno', 'jwne hwmlitnu', 'jjno hmwyltno', 'jiny humlitne', 'jnne hymwldno'}, {'jniw huymltno', 'jnie hmaultna', 'jnio himlytno', 'jnyw hhomltno', 'jjno hmaylitn', 'jnia himlidan'}, {'jyny hmoeltno', 'jnny hmalutno', 'jnoe hmahlwtn', 'jnuh hoimltne', 'jyno hmawldno', 'jniw homlytno'}, {'jjno himlidun', 'jyne hhmlitni', 'jnoh hohmltno', 'jnio hywmltno', 'jnii hmowltno', 'jniw hhimlatn'}, {'jniy hmaylutn', 'jnuh hmyylotn', 'jnue hmaaldno', 'jnww haimldno', 'jnno hmaolitn', 'jnia hywmltno'}, {'jnui hmoildno', 'jnuw hhumltno', 'jjnu hemlytno', 'jnii hmaulutn', 'jneo hhomlotn', 'jnoh hymlidno'}, {'jyne hmoildno', 'jjne hiimldin', 'jnuw homaldno', 'jnoy himwldno', 'jiny humlotno', 'jyny hmealtno'}, {'jnui hmalatno', 'jnuu homlitni', 'jnou heimltne', 'jenw hmyylotn', 'jnne hmowlotn', 'jnuo hihmltno'}, {'jjno hmywltno', 'jwne hhimlodn', 'jnni hhmwldno', 'jnuh hhimltny', 'jnnu hmeeltno', 'jjnu hemyldno'}, {'jnea hhymlotn', 'jniy hemuldno', 'jnuh hmoelotn', 'jnne himlidin', 'jwnw hiimldin', 'jnei huemlotn'}, {'jwne hymlitne', 'jnuo hemlitni', 'jnuy hymlidno', 'juny hmualtno', 'jyne hmaoltne', 'jnoi hhimltne'}, {'jnuu hmahltna', 'jniw hmahlatn', 'jnuy hmayltny', 'jinw hmaolden', 'jnui humlidwn', 'jjno hoimlatn'}, {'jjnw homlitna', 'junw hmahlutn', 'jney hwmlidin', 'jnew himlidan', 'jnea hmawlatn', 'jnno hmaildny'}, {'jnuy hemlutno', 'jnua hymlitny', 'jnuu huimldno', 'jyni hmaildno', 'jwnw hhemltno', 'jnoy hehmltno'}, {'jnee hmuulotn', 'jnyw hmuyltno', 'jniu hhmlwtno', 'jwna hmawlotn', 'jnuy hiumlotn', 'jwnu hmalatno'}, {'juny hmaultni', 'jnoy hwmlotno', 'jwni hmaoltnu', 'jnui hymeldno', 'jynw hmalatno', 'jnei himlytno'}, {'jnny hwwmlotn', 'jnuu hoemltno', 'jinw hmawltnu', 'jnnw hmalitna', 'jnui hmalidun', 'jnoy hmawlatn'}, {'jnuo huimltno', 'jnni heemltno', 'jnne hiemltno', 'jnui homeldno', 'jnna humlwtno', 'jwna hoimltni'}, {'jyna hmahldyn', 'jneo heumlotn', 'jwne hwmlytno', 'jnuw homyldno', 'jnoe hwmlitnw', 'jnue hmayldwn'}, {'jnno homlidan', 'juny hmaulatn', 'jnny homlidin', 'jjnu hmaultni', 'jwny huimlitn', 'jenw hmahltna'}, {'jjny hmawltna', 'jnnu hiimlatn', 'jneo hmaeletn', 'jnwy hmaeltna', 'jnnw heimltnu', 'jnow huimltnu'}, {'jnih hoimldin', 'jnea hhomltno', 'jjnw hmayldwn', 'jjny himlidwn', 'jinw hemlitnu', 'jneu hhmlytno'}, {'jjno hymlidyn', 'jnei hhmlidyn', 'jnwy hmeyltno', 'jynw hemlytno', 'jwnu hemletno', 'jjnu hmaoldno'}, {'jnuo hemletno', 'jnea hmaultne', 'jyno hmalotno', 'jyne huimltna', 'jynu hemlitno', 'jnuu hhomltno'}, {'jwnu hmahlotn', 'jney hmehlotn', 'jnyw hoimlwtn', 'jnoy huimldwn', 'junw hmeultno', 'jnuo humlutno'}, {'jnoo hiumltno', 'jnii hywmlotn', 'jnua hmahldan', 'jyna homlutno', 'jnyw hmayldun', 'jnoh hhhmlotn'}, {'jjno hmaelwtn', 'jnia hihmlotn', 'junw huimltny', 'jnoy hmaeldun', 'jnyy huimltno', 'jwnu humuldno'}, {'jwni hemlytno', 'jiny hmaalytn', 'jjnw hhemltno', 'jnii hoimldan', 'jnnu himletno', 'jnia hoimldyn'}, {'jwne huimlwtn', 'jnuy hmaolutn', 'jnoe hymlitna', 'jneu himlitne', 'jneh hiomlotn', 'jjnu hewmlotn'}, {'jnyw hymlitna', 'jnih heimldno', 'jeny hmaaldno', 'jjny hiimltno', 'jwno hmahldan', 'jney humuldno'}, {'jjny hhmlwtno', 'jnih hmawlwtn', 'jnuh heumltno', 'jwno hmwlitno', 'jnou hhmlitnw', 'jneh hhimlatn'}, {'jneh hmaelodn', 'jjna homlidyn', 'jwno hawmldno', 'jnyy hmaylatn', 'jnih huymlotn', 'jiny huemlotn'}, {'jneu hmoolotn', 'jjnw hmoylotn', 'jnuw hhmlidwn', 'jyna hhimltnw', 'jnei hoimldno', 'juny himloitn'}, {'jnno homlidan', 'jyna hoimlden', 'jnuo hemlidyn', 'jniu hmaeltne', 'jyny hyymlotn', 'jwne hmoulotn'}, {'jnyw himlidno', 'jnuw hmaelutn', 'jjny hhmlwtno', 'jnnu himlitnw', 'jjnu homliden', 'jynw hmlaitwn'}, {'jnua hhimlotn', 'jwni himlidwn', 'jnea hhmlitne', 'jneu hymlatno', 'jnwy huimlatn', 'jjny hoimletn'}, {'jniu hwymltno', 'jnoi homlitne', 'jnou hmawltna', 'jnuu hmahlitn', 'jyna hmalutno', 'jeny huimltne'}, {'jnei hiimlodn', 'jnua hymlitna', 'jwny homlidun', 'jniu hihmltno', 'jnnu homlitnw', 'jnuw homlutno'}, {'jnyw hmauletn', 'jnow homlitna', 'jnii hhmletno', 'jnuy hewmltno', 'jnwy humlwtno', 'jnei himlidyn'}, {'jnuh hemlutno', 'jnie hmealotn', 'junw hiimlutn', 'jwnu hmoelotn', 'jjna hhimltny', 'jnuu humlidyn'}, {'jnio homuldno', 'jnew humyldno', 'jnie hmawlytn', 'jwny homaldno', 'jjnu hemlitni', 'jnea hymlidwn'}, {'jneu heimlotn', 'jwno hmaeltnw', 'jyny hmaaldun', 'jjna hmalatno', 'jyne hemeldno', 'jnni heimltne'}, {'jyna homlidun', 'jjny hmaultno', 'jnio humlitne', 'jnyw hhimltne', 'jjnu hmaelytn', 'jneh hoymltno'}, {'jnui hoimlwtn', 'jjne hhomltno', 'jjnu huimldno', 'jnue hmaulatn', 'jnea humoldno', 'jnoy hmawlodn'}, {'jnuu hmaulwtn', 'jnny hwmlidyn', 'jneu hmualotn', 'jnih hmalitny', 'jjno homlidyn', 'jnuo homlidno'}, {'jwni heimltny', 'jnoe hiimletn', 'jnne hhimltno', 'jynw hywmltno', 'jnie hmoildno', 'jynu hiwmltno'}, {'jniu hwmlwtno', 'jnee hmawlwtn', 'jnow hmaelodn', 'jnni himlitna', 'jynu hoemltno', 'jyni hmalitnu'}, {'jnww hwmlitna', 'jnow hmaelodn', 'jnwy hhmlidun', 'jniy hoimltni', 'jnno huimltni', 'jnoi hwmlytno'}, {'jyny hemlidwn', 'jynw hymlitnw', 'jnne hmaalodn', 'jnou hmlaitun', 'jynu hmahldan', 'jwnu hmuultno'}, {'jnua homlitne', 'jenw hhimlitn', 'jnou himwldno', 'jjny humlidwn', 'jyne humuldno', 'jnuw heemltno'}, {'jnnw heimltna', 'jenw hymlitnw', 'jnii hmaultno', 'jnoh hmayletn', 'jnnu hmaoltno', 'junw hymlatno'}, {'jnuu hmuwlotn', 'jyne humaldno', 'jnio humuldno', 'jnew hmalitne', 'jjnu hmauldno', 'jnii huimlodn'}, {'jney hemletno', 'jyni hmoildno', 'jwno hmlaitwn', 'jnne hmueltno', 'jnoy heomltno', 'jenw hmaaldin'}, {'jneo hmayletn', 'jwny humoldno', 'jniy hmaoltno', 'jyne hmaelodn', 'jwnw heimltne', 'jnnw hemlitno'}, {'jjnu hmoylotn', 'jnoy hmeeltno', 'jyni hhmlitny', 'juny hawmldno', 'jnww hiimldin', 'jnio humwldno'}, {'jnou hhumltno', 'jinw himlidan', 'jnuo hemlitne', 'jenw hmoulotn', 'jnuy humlwtno', 'jnua himlidno'}, {'jnua himlitne', 'jnoo hmuultno', 'jnoe hoimlutn', 'jnuw hiemlotn', 'jjnu hoimltnw', 'jnuy hmaolodn'}, {'jjna heimltny', 'jniu hymlitne', 'jynw himlidno', 'jnyw hmaultno', 'jnue hhmlitna', 'jnwy hmaolden'}, {'jnoh hmaoltno', 'jnoy hoimltna', 'jnoi hwmlwtno', 'jnnw hmelitno', 'jnoe hymlidun', 'jney hmowlotn'}, {'jwny himlitna', 'jniw hhomlotn', 'jynw hemuldno', 'jnyy hemeldno', 'jyne hmawlodn', 'jneo hmaalotn'}, {'jnoy hemlytno', 'jjnw hmowltno', 'jjnu hemlutno', 'jynw homlitnu', 'jyno hmlaitun', 'jwne hemlitnu'}, {'jwne hmalytno', 'jjnu hmuolotn', 'jiny hhmeldno', 'jinw hwmlidwn', 'jnuw hwmlotno', 'jnea hmaaltno'}, {'jwno hmeyltno', 'jnei hmayldan', 'jnno hmaaldno', 'jiny hmalatno', 'jniy hmawltni', 'jjnw hmawlotn'}, {'jjno hwymltno', 'jnii houmlotn', 'jjni hwmlidun', 'jwnw hmaultnu', 'jnyy hwmlitna', 'jnww hmowlotn'}, {'jnnw hmayldwn', 'jnew humlitna', 'jyne heimltno', 'jnoy humlitno', 'jyno homlotno', 'jnoo hhmlidwn'}, {'jwnu himlidun', 'jwne heimltny', 'jwny hymlitni', 'jnne hmaaltnw', 'jnnu huhmlotn', 'jnih hoimldwn'}, {'jnii hmuelotn', 'jnyw himlitne', 'jwne hhmlidun', 'jjni huimlytn', 'jnoy homuldno', 'jnie hmaultny'}, {'jnoh hywmltno', 'jnua hemlidin', 'jwni hmulitno', 'jnee huimlwtn', 'jnny hmaelodn', 'jnuy hhimltnw'}, {'jnyy hmealotn', 'jyny hmaeletn', 'jnuu hiymlotn', 'jnoe hmulitno', 'jjnw hmaoltnu', 'jnua hmeelotn'}, {'jnuh hhumltno', 'jnoy hmaoltny', 'jnuy hmuelotn', 'jiny huhmltno', 'jnne hwmlytno', 'jwno huumlotn'}, {'jnni hemlitna', 'jnua howmltno', 'jnyw hwmlutno', 'jnia hawmldno', 'jyny huimletn', 'jiny humlutno'}, {'jnii hmalotno', 'jyna homlitny', 'jenw hmalidwn', 'jnny humlidyn', 'jniy hwmlutno', 'jnio hohmltno'}, {'jnuu hhmwldno', 'jnuw humlutno', 'jinw huomltno', 'jney hmoolotn', 'jnny hmalidun', 'jnee hmalitni'}, {'jnoy hmalytno', 'jjnu hmaalotn', 'jnuo hmaeldun', 'jnnw hmaelotn', 'jwna heemltno', 'jnea hmaletno'}, {'jjny hmaelwtn', 'jjno homletno', 'jnny homlotno', 'jnnw hwmlidan', 'jwna hmayltno', 'jjne hhmlitni'}, {'jnow hmaaldin', 'jneh hymlitna', 'jnyw hmealtno', 'juny hmawltni', 'jnih homlidno', 'jnne hmyyltno'}, {'jnii homlitni', 'jjni humlidun', 'jnih hoimldun', 'jnno hmaoletn', 'jnua hwmwldno', 'jiny hmuwlotn'}, {'jynu hmoalotn', 'jnoo hiomlotn', 'jnee heimldno', 'jnow hhomlotn', 'jjnw hmaoltny', 'jwni homlidno'}, {'jnww hmeultno', 'jnoh hmawletn', 'jnih hmahldan', 'jjne hhmlitnu', 'jwny hohmlotn', 'jyny hhmlatno'}, {'jnuy homliden', 'jneu hoimlwtn', 'jwnu himlwtno', 'jenw hmlaitwn', 'jyno hoomlotn', 'jeny hmaolodn'}, {'jnni hmawlitn', 'jnuu hwwmltno', 'jniu hwymltno', 'jjni homlitnw', 'jnei homyldno', 'jneo hhumlotn'}, {'jwnu hoimlodn', 'jniy homlidan', 'jiny hmoolotn', 'jwne huwmlotn', 'jwny hmaultno', 'jyna hemlitna'}, {'jnuh humaldno', 'jnuw hmelitno', 'jnyy hiimlatn', 'jnow hmalidwn', 'jwnw hmaalden', 'jnih hmuolotn'}, {'jwni hmaaldin', 'jnno hmaildna', 'jiny hmaeltna', 'jnnw hoimldun', 'jjno hmawlatn', 'jnoy humuldno'}, {'jnyw huumltno', 'jnua hihmltno', 'jwno huwmlotn', 'jneu hmywltno', 'jjni hmaultnw', 'jnoo hmahletn'}, {'jwno hoimltnw', 'jnni hwmlwtno', 'jjny himlidwn', 'jyna hhimldno', 'jnno hhhmltno', 'jynw hmawltna'}, {'jnie huimlutn', 'jniy hmaolotn', 'jnyw humlitni', 'jneo hmoaltno', 'jjni huimltne', 'jnoo homlwtno'}, {'jney hhimlitn', 'jniu hmuhltno', 'jnna hemlotno', 'jjny hmwylotn', 'jjno hmaeletn', 'jnww hmyylotn'}, {'jnie humlutno', 'jniu hmaelden', 'jnuw hmywlotn', 'jeny humoldno', 'jyna hymlidyn', 'jnoh hmaylatn'}, {'jniw himlotno', 'jjnw hoimltny', 'jwni humlidun', 'jjni hmaultnu', 'jwnu hhwmlotn', 'jjnu homeldno'}, {'jnoh hhimltny', 'jjni hwymlotn', 'jnew hmalotno', 'jnuy hmealotn', 'jyna hemeldno', 'jneo homlitne'}, {'jwne humlatno', 'jnyw hwymlotn', 'jnoy hmeeltno', 'jnee hoimletn', 'jjno hmaelytn', 'jnei homlatno'}, {'jniw himlidun', 'jwna hmawltnu', 'jjny hmaulodn', 'jnny hmaelwtn', 'jnie huymltno', 'jyno hhumltno'}, {'jwno hmeolotn', 'jnui hemlwtno', 'jnie huwmltno', 'jnuw hmaultnw', 'jnuh hmaalytn', 'jnia haimldno'}, {'jwnw hmaultna', 'jynw homlitny', 'jnnw hmahlytn', 'jjni hhymlotn', 'jnoe humlotno', 'jenw hhimlodn'}, {'jyno hmwylotn', 'jney hmalitnw', 'jjna hmaoltny', 'jnui hmaildna', 'jnie hmuyltno', 'jjno hmolitno'}, {'jjni hmewlotn', 'jnoo hymlitni', 'jnua hmoaltno', 'jniy hmaoltne', 'jneo hhimldyn', 'jyni hmayldan'}, {'jnii homlitnu', 'jnyy hwmlwtno', 'jyne hmaelodn', 'jnee hhmlidun', 'jwnu hiimlytn', 'jwno hhimlitn'}, {'jyni hmayltny', 'jnio himlidin', 'jnuu hmywltno', 'jwne hymlitnu', 'jinw hoymlotn', 'jjny hmwwlotn'}, {'jjna hmaolitn', 'jwni hoimlden', 'jnia hymlutno', 'jinw hymlitna', 'jyni hwmlidan', 'jnie hmawlatn'}, {'junw huimldwn', 'jnnu hmauldun', 'jnuw hymlidno', 'jyna homlutno', 'jnoh heomltno', 'jwna himlitne'}, {'jyno hmaletno', 'jnnw hiwmlotn', 'jwnu hmaaldno', 'jnna hmalidwn', 'jnow hhimlwtn', 'jwnw hmawltnu'}, {'jnww hhwmlotn', 'jyno hwymltno', 'jnyw humlitny', 'jniy hmahltno', 'jwnu hmuolotn', 'junw hoimlden'}, {'jnni hhwmlotn', 'jnnw hmayltny', 'jniw hwwmltno', 'jwno hmawltny', 'jinw hwmlotno', 'jjne hmoaltno'}, {'jjnw hmelitno', 'jnni huomlotn', 'jnuu hmahldun', 'jnih himlidyn', 'jney heimltnu', 'jjnu hmaoldno'}, {'jnie hoimldno', 'jwnu hmeultno', 'jney humoldno', 'jneo hmualtno', 'jnuh homlidun', 'jjny hemlitne'}, {'jnou homwldno', 'jniu haimldno', 'jjnw himliden', 'jeny hmaoltna', 'jjny humlitno', 'jyni hoimlutn'}, {'jyny hmaalden', 'jwne hmeylotn', 'jjna huimldwn', 'jnii hhmlutno', 'juny hhmlwtno', 'jnnw hhmlidwn'}, {'jniu homlwtno', 'juny hmaulwtn', 'jjnw hwymltno', 'jney hmayletn', 'jnuw homlutno', 'junw hmaaltne'}, {'jyne hymwldno', 'jjna hmawldno', 'jnih hmalitna', 'jwni humlitne', 'jnou hiemltno', 'jynu hmuyltno'}, {'jnih hmalitnu', 'jwny heumltno', 'jnwy hmawltna', 'jnne hhmlitny', 'jnyw hmaaldin', 'jjne himlitna'}, {'jjny hhomlotn', 'jyni heumlotn', 'jjni hmauldun', 'jeny hmeolotn', 'jwnw hmaelutn', 'juny hmaalotn'}, {'jniy hmywlotn', 'jnea huimltnw', 'jnio hmawlatn', 'jiny hoimlodn', 'jnyw hmolitno', 'jyno homlidwn'}, {'jwnu homlidyn', 'jjne huwmltno', 'jniw hewmltno', 'jnui hmaelitn', 'jnnu hoymlotn', 'jinw humwldno'}, {'jneh hwmlidno', 'jjny huimltny', 'jneu hiemltno', 'jnna hemlytno', 'jniu hmaaltnu', 'jjnw hwmlitnu'}, {'jnii humlitne', 'jnue hhimldno', 'jjne hoimltno', 'jnee hiomlotn', 'jniy hoimltnw', 'jnei hmlaitwn'}, {'jnoe homuldno', 'juny hwmlytno', 'jneo hhmlitny', 'jnna humlotno', 'jnih hoimltno', 'jwnw homlidno'}, {'jnwy hiomlotn', 'jnno hwmlutno', 'jwni huimletn', 'jnea huimldwn', 'jjni hmaalitn', 'jwna hmlaitun'}, {'jnei hmahlytn', 'jjny haimldno', 'jnwy himlitni', 'jnuu hhmletno', 'jnoy hmuwltno', 'jnue hmawlwtn'}, {'jwna hiumlotn', 'jnne heimltnw', 'jneu himlitne', 'jnoi himlitnw', 'jyny hhimldyn', 'jnuy hwmlitni'}, {'jnia heumlotn', 'jinw homliden', 'jyne heemltno', 'jwne hoimldyn', 'jwnu hmaeltne', 'jnuw humlidyn'}, {'jnuy hymlidno', 'jnwy hoimlden', 'jnih hmaildna', 'jnuh hhmlidwn', 'jwno hmahlotn', 'jnua humlitnu'}, {'jynu hmwlitno', 'jnuy hmaioldn', 'jnnu hoomlotn', 'jyna hemlitnw', 'jnyw hiimlutn', 'jwnu hmawltnw'}, {'jjnu hmlaitwn', 'jnoo hmawlotn', 'jnno huimltno', 'jnna hwmlatno', 'jyno homlidwn', 'jwnw hiymlotn'}, {'jwne hemlitnw', 'jnew hmaalden', 'jjnu houmltno', 'jiny hmaolodn', 'jwnw hmaulodn', 'jnww hemlitna'}, {'jnoe humoldno', 'jwne hymlitny', 'jnow hemlwtno', 'jyno hmalidwn', 'jnii hwmlwtno', 'jwnw hmaeldun'}, {'jnui hmaultny', 'jnua huemltno', 'jyni hmawlotn', 'jyno hmalitno', 'jnow hmahlatn', 'jynw hmaylodn'}, {'jnui huymlotn', 'jnna hmahldyn', 'jnnw hmaolodn', 'jnww hyymltno', 'jnea hmaoletn', 'jnew hmaildna'}, {'jneo hoimlwtn', 'jnue hmalidun', 'jnoo hwmlidwn', 'jnie hmalatno', 'jnii hmaalden', 'jnuh hhmwldno'}, {'jnih hwmlidno', 'jwna hemlidwn', 'jjny humeldno', 'jyno hmaulutn', 'jjni haemldno', 'jnii hmaalden'}, {'jneo hmaeldno', 'jnnw hohmltno', 'jnii hhimltnw', 'jniu hemwldno', 'jnne hiemltno', 'jwna hwmlotno'}, {'jjno hemwldno', 'jwnu hhmlitni', 'junw hmaaltni', 'jnio hmaolden', 'jniw hoimltno', 'jneu heimltne'}, {'jney hmaelotn', 'jnei homlidan', 'jnio hymwldno', 'jnww hmahlodn', 'jnuw hywmltno', 'jnoh haimldno'}, {'jnio hwymltno', 'jnnu hymyldno', 'jney hmayldyn', 'jneh hmaildnw', 'jneo huymltno', 'jjno humlidyn'}, {'jnna hmoeltno', 'jniy hmauldno', 'jnei hwmlidwn', 'jnou hoimltny', 'jwno himlatno', 'jyno hwmlitna'}, {'jwny hhmlitne', 'juny hhhmltno', 'jjni hmaylytn', 'jyny hmayltna', 'jnni hmewlotn', 'jnnu homliden'}, {'jnoe hmayldun', 'jnny hmoelotn', 'jwny hehmltno', 'jjnw hemlitnu', 'jnih heimlodn', 'jniy hmaeltno'}, {'jnie hemlotno', 'jniy hmyylotn', 'jneh hoimltni', 'jnwy hiomltno', 'jnih hiimlitn', 'jinw hmaeletn'}, {'jwna himlutno', 'jinw hwmlidin', 'jnua hmayltnw', 'jyna hmaildno', 'jnuy hmialdno', 'jnii homlidyn'}, {'jnue hemlitni', 'jyny hmaylitn', 'jeny himlidyn', 'jnyw huemltno', 'jjni hiomlotn', 'jwnw heymltno'}, {'jnua hiimldin', 'jnyw homlitnu', 'jniy himlitne', 'jjna huimlutn', 'jjny hwmlitnu', 'jinw hmywlotn'}, {'jnnw hwmlitnw', 'jyni hmaolutn', 'jnui humlidun', 'jnea hiimltni', 'jeny hmawltna', 'jnee hmaylutn'}, {'jnia hmualtno', 'jynu homoldno', 'jnua huemlotn', 'jnio hymlitny', 'jneo huimltny', 'jniw humlitni'}, {'jyni hmayltnu', 'jnou hymlotno', 'jynu hoimlotn', 'jwnw hwmlidun', 'jnua hmahldun', 'jiny hmaultnw'}, {'jnia hmooltno', 'jnoo homlitno', 'jnyy hwmlitno', 'jnni homlitne', 'jwnw huemlotn', 'jnnw hmaultny'}, {'jyne hiumlotn', 'jnea hohmltno', 'jnoo hmaaltni', 'jnww hmoaltno', 'jwny hmahldun', 'jnuy hmaoltny'}, {'jwno heimltna', 'jnei hmuhlotn', 'jneo hmalitni', 'jjni hmiildno', 'jwna hoymlotn', 'jnui hmahldan'}, {'jwni hoimlutn', 'jwnw hmaeltna', 'jjni hmahltnu', 'jnii hiomltno', 'jniu hhimltna', 'jnie hoemlotn'}, {'jwni hemlitne', 'jneh hmeolotn', 'jyni hewmltno', 'jynw hmoultno', 'jnei hiimlatn', 'jneu hmaildnu'}, {'jnuo humlitne', 'jnuy hmaolatn', 'jnii hwmlitnu', 'jniy humlidno', 'jwne hmaioldn', 'jyny homlotno'}, {'jnew howmlotn', 'jnuw hhimlodn', 'jyni hmuolotn', 'jnyy hewmltno', 'jnwy hiimlwtn', 'jnie hmaylotn'}, {'jnio hmeylotn', 'jneu hmaalitn', 'jnoe hoimlatn', 'jjna hmalitno', 'jniw hmaeletn', 'jnoi humlitny'}, {'jnuy hmaulatn', 'jnii hmaultnw', 'jnoi hmaaldin', 'jynw hhmlidno', 'jnne huemltno', 'jnna hmaaltny'}, {'jnew humlitnu', 'jwny hymlitno', 'jnow hhemlotn', 'jnie humoldno', 'jeny humlidno', 'jnea hoymltno'}, {'jnei hhmlitni', 'jnwy humlitnu', 'jnuu humyldno', 'jwna hhmwldno', 'jjno hmahldun', 'jjne hmaeltne'}, {'jnne hmalatno', 'jnuw hoimltny', 'jniu hemlidno', 'jneu hmoultno', 'jnny hmuhlotn', 'jnea hymlytno'}, {'jinw hmoolotn', 'junw hhmlitnw', 'jnww hhomltno', 'jynw hmaaltno', 'jwnw hmeolotn', 'jjni hmaylitn'}, {'jnyw hhimlwtn', 'jneh hymlitne', 'jnuy hmeelotn', 'jnoh hmawlatn', 'jwnu hmaolden', 'jenw himlutno'}, {'jjno hemlidun', 'jyne hmowlotn', 'jyni hoimldno', 'jnew hymlidno', 'jnnu hmaelden', 'jnnw humlitnw'}, {'jneo hmualotn', 'jenw hmaultni', 'jjno hmaolwtn', 'jnoy hmeylotn', 'jwne hhomlotn', 'jnnw huimltno'}, {'jwne himlidun', 'jnow hhmlwtno', 'jneh huwmltno', 'jynw hwmlidin', 'jnyw hmalatno', 'jnoi hoimldun'}, {'jjnw hymlitna', 'jnwy hmaylwtn', 'jyne hymlidun', 'jwnu hyymlotn', 'jniw hiimlatn', 'jwno hymyldno'}, {'jniu hemuldno', 'jnoo hymlitnu', 'jynu hiemlotn', 'jnyy himlutno', 'jney humlidyn', 'jiny hemlitny'}, {'jniy homoldno', 'jjnw hyymltno', 'jyne hoimltna', 'jnou hywmlotn', 'jnoh hmwwlotn', 'jwnu hemwldno'}, {'jwno hmuwlotn', 'jnoh hwymlotn', 'jwny hmaaltny', 'jenw hemlidyn', 'jniy hoimlatn', 'jyne hhimltny'}, {'jwni hmaildny', 'jnua heymltno', 'jnou hemlatno', 'jwny hmaultny', 'jnia hmuwltno', 'jnoy hiomltno'}, {'jnuh hmahlotn', 'jnoh himlidan', 'jyno hmeultno', 'jiny himuldno', 'jnoe heimlodn', 'jnow hiimlodn'}, {'jnnw homlytno', 'jynw hmawldno', 'jnyy hmaulwtn', 'jnne himlidno', 'jniw huymlotn', 'jnua hmaelwtn'}, {'jyny hmoalotn', 'jynw hmeultno', 'jjny hmwylotn', 'jnny hmahltny', 'jnoy hiymlotn', 'jniw hhimltni'}, {'jnih hhmlotno', 'jnoy humlitny', 'jniw hhmlitnw', 'jjni homletno', 'jyna hmahlwtn', 'jjno hmaultni'}, {'jnih hwwmltno', 'jnyw hmuildno', 'jjny hemlidyn', 'jjnw hmaaletn', 'jyna hwmletno', 'jiny hmalytno'}, {'jjni hmaultni', 'jnuh hmualtno', 'jyne hhmlidno', 'jyni himlidno', 'jnny himlitne', 'jwnw hmawlodn'}, {'jwnw hmuyltno', 'jwna hwmlidun', 'jnnw hmahltna', 'jynu hiimldin', 'jynw hmalytno', 'jnwy hymletno'}, {'jnuw hoimlytn', 'jnoh hhimldno', 'jnou himliden', 'jyna hmaalytn', 'jnio himlitni', 'jwne hwmletno'}, {'jnww hmooltno', 'jnoe huimltnw', 'jnou hemlidin', 'junw heimltno', 'jnuy hmaildna', 'jjnu hhimltna'}, {'jnnu hmalidwn', 'jnee homlutno', 'jyna hhemltno', 'jiny hmahlotn', 'jnie hemlatno', 'jneh hmaylutn'}, {'jnoi heymltno', 'jynu hemwldno', 'jneo himliden', 'jjnw hmlaitun', 'jnea hmeulotn', 'jjnu hoymltno'}, {'jnuh heimltni', 'jnuy hmalatno', 'jenw homwldno', 'jwnw humlytno', 'jynu hoomltno', 'jniu homliden'}, {'jneh hmaalytn', 'jinw huymlotn', 'jnne hmahltno', 'jnii hhimltni', 'jnww hmaelutn', 'jwno hmoeltno'}, {'jwnu hmawlitn', 'jjni hmaalodn', 'jnni hmaylodn', 'jyni homlitno', 'jniw hymlutno', 'jyny heumlotn'}, {'jjnw hmaolitn', 'jnii hmaultnw', 'jynw hmalidwn', 'jjne homlwtno', 'jwnu hemlitny', 'jnew homlidwn'}, {'jnua himlidun', 'jnou hmahlytn', 'jnoo hmaolatn', 'jnuy hmiildno', 'jjna humlitnw', 'jiny hmoaltno'}, {'jnii hhmlitni', 'jjne homletno', 'jjnw huimltnw', 'jnou hoimldan', 'jyne hmaultno', 'jnno hmawltni'}, {'jnoy hmawlutn', 'jnei hewmlotn', 'jjnu howmlotn', 'jnuy hmayldwn', 'jnii himlidyn', 'jiny himlitno'}, {'jnue hemwldno', 'jniw hmyylotn', 'junw hmahltny', 'jyni hmaylitn', 'jnew hmahlotn', 'jinw huymltno'}, {'jnou himlitnw', 'jnii homlutno', 'jyni hhmlwtno', 'jynw homlidan', 'jynu hmueltno', 'jjny hwmlidin'}, {'jnua hemlidin', 'jniw huimltno', 'jnno hemlytno', 'jneh hmaildnu', 'jwny hmaulwtn', 'jeny hmaoltnu'}, {'jneo hmuulotn', 'jnei hmaulatn', 'jnoh hmelitno', 'jynw hwmlidno', 'jnow hmeyltno', 'jnua huimltno'}, {'jnoe hemlidyn', 'jnno hiimltni', 'jwnw hemlitno', 'jnea hmaolatn', 'jnoy homlidwn', 'jwne hmaalytn'}, {'jjni hemlotno', 'juny homlidin', 'jnni hemwldno', 'jnny hmyyltno', 'jnnw hhmwldno', 'jjnu hwwmltno'}, {'jnoy hmolitno', 'jnue hwmlidun', 'jjni hemlidwn', 'jnne hmaeldun', 'jneu hwmlidyn', 'jyna hmaolodn'}, {'jwno hoemlotn', 'jynw hemletno', 'jyni humlatno', 'jnyw hemlidwn', 'jnuu hhymltno', 'jnou hmuulotn'}, {'jney hmaelytn', 'jnoo howmltno', 'jnoi huymltno', 'jjnu hiomlotn', 'jnno hoimldyn', 'jniw hmalitna'}, {'junw humlitnu', 'jynu hymlutno', 'jeny hmaeldno', 'jiny hemlotno', 'jnea hmaoltne', 'jinw homlidwn'}, {'jnne homlidun', 'jnia hmaaltnu', 'jnie hiumlotn', 'jwna hmaeltna', 'jyna hwmlutno', 'jnyw hhumlotn'}, {'jnih hhimltne', 'jnii hmaildny', 'jiny hiumlotn', 'jwnw hmalitnu', 'jnei hhmlidno', 'jynu hmaultnu'}, {'jyne hemlwtno', 'jniu hmalytno', 'jnuw hmialdno', 'jnua hmealtno', 'jnii hmealotn', 'jniy humlitno'}, {'jnni homlwtno', 'jnea hmywlotn', 'jjno hmawlodn', 'jniy heimldno', 'jiny hiwmltno', 'jnnu hmaeltnw'}, {'jnoh hmaeltnw', 'jnua hmaalodn', 'jnow hmyylotn', 'jynw hmaeltna', 'jjny humlitni', 'jnei hmoylotn'}, {'jjnw hmoeltno', 'jnuu huimltni', 'jnnw hmeulotn', 'jnuy hwmlitny', 'jnuh hmaultno', 'jnoi hmaioldn'}, {'jnww homlidyn', 'jnnu hhimlotn', 'jjno hmaoltni', 'jnue hemlitna', 'jnow hiimlwtn', 'jyno hemwldno'}, {'jyni himlotno', 'jynw hewmltno', 'jnna hymlutno', 'jnni hymlidwn', 'jnie hemlidun', 'jnne himlitna'}, {'jnuw hmahldan', 'jnyy hoimldin', 'jyna homlitnw', 'jnou hmahlodn', 'jnea hmaaldun', 'jnoh heimltna'}, {'jjno hymlidyn', 'jnyy heimltnu', 'jnny homletno', 'jjnw hwymlotn', 'jnyw hoimltne', 'jnno hmaioldn'}, {'jnui himlytno', 'jneh hmalatno', 'jjnw hmawltny', 'jney hmeultno', 'jnyw hmealtno', 'jynu hmuolotn'}, {'jwnu hymlotno', 'jnoo hmaaltnu', 'junw humaldno', 'jnia huwmltno', 'jney hmaelutn', 'jnni humlutno'}, {'jnoi hwmlitno', 'jwnw humlitni', 'jnno hwmwldno', 'jnnw hemuldno', 'jwna homlwtno', 'jwni hmueltno'}, {'jnoe hhmlytno', 'jneh hmaaltna', 'jjny himlitnu', 'jnih homlitne', 'jnew hmaulutn', 'jnny hhmlitny'}, {'junw heymltno', 'jynw heimltna', 'jniu hwmlitna', 'jnee hmaeltno', 'jnew hmalidwn', 'jney humlidun'}, {'jnee huimltna', 'jnni himlitny', 'juny hmualotn', 'jnne hmaylytn', 'jwne houmltno', 'jnuh hmaalytn'}, {'jynw hwmlatno', 'jyny hiwmltno', 'jwno humlitna', 'jwne hmaoldno', 'jnnw hmaultnu', 'jney hymlitnw'}, {'jnnu huimlatn', 'jnoe himlitnu', 'jiny hhimlatn', 'jnii himlidan', 'jnuy hmwlitno', 'jnie hmaildna'}, {'jyne himlutno', 'jjno hmealotn', 'jnyw hmaultny', 'jwnu hmawldun', 'jwne hemlitny', 'jnie hmawltni'}, {'jniy hmaildnw', 'jnea hmayltnw', 'jyna hmahlwtn', 'jnue hmaioldn', 'jnou hihmltno', 'jnoo hymlitna'}, {'jiny hmwyltno', 'jniy hmawlotn', 'jjni hmaultnw', 'jneu hhwmlotn', 'jniu hoimltne', 'jnww hmyylotn'}, {'jnuu huimlitn', 'jnuw hhimltni', 'jyny hmayletn', 'jnyy hewmltno', 'jney hmaoltne', 'jwnw hhimldno'}, {'jwni homliden', 'jnna hhimltnw', 'jneh hymlatno', 'jnny heimltno', 'jwnw hoimltna', 'jjny hmalitnu'}, {'jiny hmaalitn', 'jnio hmuwltno', 'jnoo hmaaltna', 'jeny hawmldno', 'jyny heimltno', 'jnua hmaaltne'}, {'jnia hwmlwtno', 'jjnw hhmlitno', 'jneu hoimldno', 'jjny hiwmlotn', 'jnee hhymltno', 'jenw hhimltna'}, {'jniw hmalitnw', 'jnih hmahltno', 'jiny hmahldun', 'jniu hymwldno', 'jnoy huimltny', 'jinw hmuhlotn'}, {'jnou hoimldno', 'jnoh heimldno', 'jnne howmltno', 'jnno hmeeltno', 'jjno hmulitno', 'jyna huimlatn'}, {'jnuh hmaildno', 'jyno hyymlotn', 'jwni hmuultno', 'jynu hmewltno', 'jneu hmeoltno', 'jnea hmaaldun'}, {'jjne huemltno', 'jnii hemlitnu', 'juny humwldno', 'jnua hmaeltne', 'jyni humlitni', 'jwnw hoimlatn'}, {'jnee hiimlwtn', 'jnui hymyldno', 'jwna hmaaltny', 'jyny hmayldun', 'jnuo hmaaletn', 'jnih huimlwtn'}, {'jnie hymlotno', 'jniu hmaelatn', 'jnyy homlitny', 'jwnw heimlutn', 'jnne hwmlitne', 'jjno hiomlotn'}, {'jnoy huemltno', 'jenw hmalwtno', 'jjni himliden', 'jnny hmoildno', 'jwni huimlatn', 'jneu hohmlotn'}, {'jneh hwmlytno', 'jnwy hmaultne', 'jnuh hmalotno', 'jnne hhmlitny', 'jnoi huimltnu', 'jyne hmawlytn'}, {'jneh heimlodn', 'jwna hmaultni', 'jnnu humlutno', 'jnuo himliden', 'jnuh humlitno', 'jnnw hmayletn'}, {'jjny hawmldno', 'jjne hwmlitne', 'jnuo hmaolatn', 'jnew hhimltnw', 'jynu hyymltno', 'jnea hmalitni'}, {'jnei hmoildno', 'jenw hiimlodn', 'junw hmaelatn', 'jnih humlytno', 'jnee hmywltno', 'jeny hmoeltno'}, {'jnoy hhmlitny', 'jnyy hwmletno', 'jwne hemletno', 'jjno hmalitny', 'jnuu hymwldno', 'jnne hmaolotn'}, {'jnww hemuldno', 'jnoi hhmlwtno', 'jnyw hmaelutn', 'jinw hmaeltne', 'jnuh hwmeldno', 'jneu hmayltna'}, {'jnuw humlytno', 'jnei homlitnw', 'jnie hmaolden', 'jnui hemlidyn', 'jnia hiimlotn', 'jnnu hoymlotn'}, {'jnih humlitnw', 'jwnu hemlotno', 'juny hmeolotn', 'jjnu humlytno', 'jwni hwmlitnw', 'jnuu hmuoltno'}, {'jnuh hhmlitno', 'jwne hhmlitni', 'jneo hymlytno', 'jnoe hiwmltno', 'jnwy hhmlidno', 'jynw hiimldin'}, {'jnih hwmlidno', 'junw haemldno', 'jnia hwmwldno', 'jnnu humlitnw', 'jwne hmialdno', 'jniu hmaeltna'}, {'jnna hhimlatn', 'jyni hmaolitn', 'jwna hmoylotn', 'jwno hmaeletn', 'jjni hemlidin', 'jnoh homlutno'}, {'jnea huimlwtn', 'jwnw hmaeldno', 'jjna hmawlatn', 'jniy hmayldwn', 'jwne hoimldyn', 'jjno hmalutno'}, {'junw hhimltnu', 'jnuu humlitnu', 'jnue hiimletn', 'jwna humlidyn', 'jnuh hiimlitn', 'jnnw hoimletn'}, {'jwna hymlytno', 'jeny homlatno', 'jjne hmaioldn', 'jjny hemlitne', 'jnue hmaolytn', 'jnio hmeyltno'}, {'jnnu hmahlwtn', 'jnuy hemletno', 'jnww homlitni', 'jnoh hemlutno', 'jnii hmawltny', 'jnne hwmlytno'}, {'jnoe homlitne', 'jnnu hmaultne', 'jnui huimltno', 'jnuu huimltnu', 'jjnu hmahlytn', 'jnne heemltno'}, {'jjno hemlidun', 'jnne heimltnu', 'jnuw hmooltno', 'junw hymlidwn', 'jyne hhimltni', 'jneu himlutno'}, {'jeny hmaoldun', 'jnne hmaylotn', 'jwnw hwmlidun', 'jnie humlatno', 'jjni hmaaletn', 'jwna hymlitny'}, {'jenw howmlotn', 'jnww hmaoltny', 'jyno huhmltno', 'jnuu hmalitni', 'jwny himuldno', 'jney homliden'}, {'jnou hhimltnu', 'jnua hemlatno', 'jyne hhimletn', 'jnwy hwymlotn', 'jenw hmauldno', 'jnne hwmletno'}, {'jyni hhymltno', 'jnoi hiimlwtn', 'jnih humlytno', 'jnuu hmealtno', 'jjna hhhmlotn', 'jnee hmaoltne'}, {'jnou hymlytno', 'jnui hmwwlotn', 'jyna himlotno', 'jjny homlidno', 'jynu hhmlidun', 'jnno hymlidun'}, {'jnii hhmlidno', 'jnoo humlytno', 'jnow hmaulytn', 'jynw humlatno', 'jneo hymlitno', 'jnnw hoimldun'}, {'jniw humlidun', 'jwni hhmlidun', 'junw hmoeltno', 'jnou homlitno', 'jnwy hmaoltnu', 'jnuh huimldno'}, {'jyno hmaeletn', 'jjne heimltne', 'jnii hiimlotn', 'jney hemlitno', 'jnna hhmlitny', 'jnuy heimltno'}, {'jnee hmaalodn', 'jnne humlitnw', 'jnoo hmlaitun', 'jwne hmaaltnw', 'jjno hwmlwtno', 'jynw hmywlotn'}, {'jyne humlitni', 'jnew hemlwtno', 'jnne hiimlitn', 'jjny hmaulatn', 'jnea hhimlutn', 'jneu hymlitno'}, {'jneh hwmlytno', 'jjnu homlidwn', 'jnny himlidyn', 'jnne hhmeldno', 'jnow hmaulden', 'jnuh huomlotn'}, {'jyno hhimlytn', 'jnou hiimlutn', 'jnih hhmlidno', 'jnno huimldno', 'jnuw hymwldno', 'jjna hmoolotn'}, {'jnuy hymlidwn', 'jnei hohmltno', 'jnue humlwtno', 'jenw heimlutn', 'jnow hmaalutn', 'jnno hmelitno'}, {'jjny hwmlidun', 'jwnu hmoaltno', 'jneo hoimlwtn', 'jnei hmayltnw', 'jeny hmalytno', 'jnnw hhimlutn'}, {'jwne hmuolotn', 'jnni himwldno', 'jnii hmawlodn', 'jnna hoimlden', 'jjny hmaelitn', 'jnnw hmalidwn'}, {'jnoy hmoolotn', 'jnew hmoylotn', 'jnoe heimltno', 'jynw hymlitnu', 'jnea hmawltna', 'jyni hmohlotn'}, {'jwno hoimldun', 'jnny hmayltna', 'jnuh hmyylotn', 'jwni hmaelitn', 'jjni hymlitnu', 'jyni hoimlutn'}, {'jnio hmaultne', 'jenw heimltna', 'jnou hmewltno', 'jniy hiymlotn', 'jnoh hemlwtno', 'jnow hemeldno'}, {'jjni hhimldno', 'jnoi hmaulodn', 'jiny hoimltno', 'jnnw humlitni', 'jnei hmoalotn', 'jwne heimltno'}, {'juny hwmlidin', 'jnia hymlitne', 'jniu hmalitni', 'jinw hoimlutn', 'jnoe hmoultno', 'jnoh heimltny'}, {'juny hoemlotn', 'jnew hmahlodn', 'jinw hoimltny', 'jjni huimlodn', 'jnny hiimltno', 'jnee hmahltna'}, {'jnio huimlwtn', 'jyna hmaletno', 'jnww hmalitnw', 'jnih hmualtno', 'jjnu himlitno', 'jnua hhmletno'}, {'jnuh hhomltno', 'jnih humeldno', 'jyni hmaultno', 'jnoy hmelitno', 'jjny hmaolitn', 'jnnu hiumlotn'}, {'jnoh houmlotn', 'jnna hwmlidun', 'jniw huhmltno', 'jneh homyldno', 'jnea humuldno', 'jeny hmahlodn'}, {'jnoe hymlitnw', 'jnei hhimlodn', 'jjna homlidun', 'jeny hmaolatn', 'jnni hemeldno', 'jnuo hhimlutn'}, {'junw hwmlitne', 'jnii hiimletn', 'jwny houmlotn', 'jynw hoimltny', 'jnyw hmaultne', 'jwnu himlitno'}, {'jnoh huimltno', 'jnnw howmlotn', 'jwna hmaoletn', 'jneo hmahlatn', 'jnei hmaalytn', 'jniy hoimletn'}, {'jnoy hmawltnu', 'jnuh hwwmlotn', 'jnnu hywmltno', 'jyni hymlidyn', 'jjny hoimldwn', 'jynw hhmlitna'}, {'jnne hmawltnw', 'jnni hemyldno', 'jnui himlitnu', 'jnnu hmaylitn', 'jyne hmuildno', 'jnnw himlitni'}, {'jneh hymlidwn', 'jnyy hmeultno', 'jwnw hmalutno', 'jwna hmaaltno', 'jnny hewmltno', 'jnuo hoimltnw'}, {'jnuy hmayldyn', 'jniu hhimltny', 'jwnu hmaoltni', 'jnyw himliden', 'jnoy hmahlatn', 'jnni hwmlidin'}, {'jney hoimlitn', 'jnni hmuoltno', 'jnoh hmaoltnw', 'jiny hhmlitna', 'jnei hymlutno', 'jyno homuldno'}, {'jyna homlitny', 'jnea huumltno', 'jjna hmelitno', 'jneo hmaoltno', 'jnii hemwldno', 'juny hmaeldun'}, {'jwna hmaildna', 'jnoo hmaylatn', 'jjnu hiimltni', 'jnuw hmahltny', 'jnih hiimlitn', 'jnyw hmeulotn'}, {'jjny hoimltnu', 'jenw hmuultno', 'jnew hhmlutno', 'jney humuldno', 'jnne humwldno', 'jniy hwmlutno'}, {'jnii huimltnu', 'jwni hmaelatn', 'jnoo hawmldno', 'jnou hoimlatn', 'jnna heomltno', 'jnio homlitnw'}, {'jnee hmawltna', 'jnnw hmaioldn', 'jiny hmoildno', 'jjna hoimldan', 'jjne hoimltni', 'jnni homlitni'}, {'jnih hmaelden', 'jjno hmaeltnu', 'jwno hihmlotn', 'jnuu hmaulutn', 'jynw himlidwn', 'jwni hhmlitno'}, {'jnee hoimltny', 'jenw hoimltni', 'jnoe homlidin', 'jnny hemlatno', 'jjnw hhmlitne', 'jnww hiemlotn'}, {'jnie hmeoltno', 'jnyw hhmlitno', 'jnoo hmaultna', 'jnih heemltno', 'jnoy hmoulotn', 'jwno hymlidno'}, {'jynu hmwlitno', 'jnnw hhimltna', 'jnie huimlytn', 'jiny hemwldno', 'jnna hmeultno', 'jnyw hmayltna'}, {'jjne hmauletn', 'jnou hmawlytn', 'jnyy hehmltno', 'jnnu hymlwtno', 'jjni hmaoltno', 'jnoe hmuyltno'}, {'jjnw hoimltnw', 'jyno hywmltno', 'jwne hmuwltno', 'jnna hmeulotn', 'jwnw hemlidwn', 'jjno hmaoltno'}, {'jjne hmaildno', 'junw hymlitna', 'jnoi hmaeldno', 'jnoo hhimltno', 'jnie hmaolotn', 'jwnw hmahltnw'}, {'jnni hmaolodn', 'jnnw hmaulotn', 'jwna huimletn', 'jjny homlitna', 'jnoi heimltnu', 'jneo hyymlotn'}, {'jniy homlidwn', 'jnna hmahlatn', 'jjny hmlaitun', 'jenw hihmlotn', 'juny humlitnu', 'jwno himlwtno'}, {'jwni hmaylitn', 'jnuw himlitnw', 'jnie hmaolitn', 'jnuh hmeildno', 'jnwy hmayldan', 'jnua hhemlotn'}, {'jnia hmulitno', 'jjny heimlotn', 'jnua hywmltno', 'jnea hmalotno', 'jwnw hmahlatn', 'jnui hmaoltny'}, {'jneu hhmlitni', 'jnoo hmaaletn', 'jnow humoldno', 'jnny hmulitno', 'jwnw heimlutn', 'jjnu hhmlatno'}, {'jnui humlitne', 'jnoh homlitni', 'jnyw hemletno', 'jwno homlidun', 'jnie hmalidwn', 'jjny hwmlitni'}, {'jniw hwmlitnu', 'jnyw hmuyltno', 'jynw hmaultni', 'jnew hhimltny', 'jnoo hhimletn', 'jnue hoimlodn'}, {'jyna hoymltno', 'jnui hhimldyn', 'jneo hmaoldun', 'jwnu hoemltno', 'jwna huomltno', 'jnna hiomltno'}, {'jnii hmayltna', 'jnei hoomlotn', 'jnww heemltno', 'jneh hmaolytn', 'jyno hawmldno', 'jnua hmuulotn'}, {'jneh hymlidwn', 'jwnw himletno', 'jnui humlitne', 'jiny hmawltnw', 'jnoe himlotno', 'jyne hmwlitno'}, {'jnie hwwmltno', 'jnww humlutno', 'jwna hwmlatno', 'jnue huimltna', 'jneu hoimldan', 'jnou himlwtno'}, {'jnoh hmealtno', 'jjni heimltni', 'jynu hoimltny', 'juny humlatno', 'jnoy hhimletn', 'jnue hhimlytn'}, {'jiny hmaelitn', 'jyno hymlatno', 'jnnw hmaalotn', 'jneh hiwmltno', 'jnia hehmltno', 'junw hmoildno'}, {'jnww hmaildno', 'jjni humlutno', 'jnua hymwldno', 'jjny hmaolden', 'junw homlwtno', 'jeny himlytno'}, {'jyna hmaildnu', 'junw hmlaitun', 'jnuo hmaelwtn', 'jnnu himlidno', 'jnuy hmoeltno', 'jnnw hhmeldno'}, {'jyna hwmlatno', 'jyno hmaelwtn', 'jnuh hmaultnw', 'jnio hmawlutn', 'jnyy hemlitna', 'jnua huimltna'}, {'jjnw homlidan', 'jnnw hhimlytn', 'jnuu hhmlwtno', 'jnuo hemlidin', 'jnio huymltno', 'jnua himlidno'}, {'jnuy hmauldno', 'jenw himlwtno', 'jnoe huimlodn', 'jnua hmawletn', 'jnou hmaildnw', 'jinw hwmlotno'}, {'jyno hhimlytn', 'jnie hhmlitna', 'jnww hmaioldn', 'jwnw humoldno', 'jnnu hymlitna', 'jynu huimlotn'}, {'jnuo hmahltnu', 'jnni huimltno', 'jnih heimlodn', 'jinw heimldno', 'jjno heemltno', 'jjny hmehlotn'}, {'jnny hoimltnu', 'jnne hemyldno', 'jnei hhhmltno', 'jnuw hmahlytn', 'jnia hwmlytno', 'jnio hoimlden'}, {'jniw hymlatno', 'jnna homletno', 'jnyw hmlaitun', 'juny hmaoldun', 'jwny hymlidun', 'jnua hoimlotn'}, {'jnuh hmalytno', 'jjne heimltni', 'jyno homlatno', 'jeny humlotno', 'jnoh hmwyltno', 'jnue hmulitno'}, {'jyny hmaelden', 'jnwy homlutno', 'jwnu hemlidin', 'jnei hmaaltne', 'jnuh hmawldno', 'junw hoimlytn'}, {'jynu hiomlotn', 'jwny hwmlitni', 'jnny hmayltnw', 'jneu hmaolodn', 'jynw hohmltno', 'jnuh hmaylytn'}, {'jnie hmaildno', 'jnne hmeultno', 'jjnw hhomltno', 'jneo hmahlwtn', 'jnoy hmaoldun', 'jnyw hmaaltno'}, {'jnnw hemeldno', 'jenw himeldno', 'jnoo heemltno', 'jnee hymlitna', 'jnyy hmalitna', 'jynu hiwmltno'}, {'jnna hhimltnu', 'jnih hwmloitn', 'jynw hmoolotn', 'jnea haemldno', 'jnnu hemlidun', 'jnuy himlwtno'}, {'jnew hmaultnu', 'jyne huomltno', 'jnwy hmaoltne', 'jnue hemlitnu', 'juny humoldno', 'jjne houmltno'}, {'jnoh hmywltno', 'jwne hmahldyn', 'jynu himlytno', 'jnyw hmalutno', 'jneu hmaultna', 'jjni hiumltno'}, {'jwno hhimlwtn', 'jjne hhymlotn', 'jwne hmayltno', 'jnio hoimldwn', 'jnua hoimltnw', 'jjny huemlotn'}, {'jnue himlitni', 'jenw hmeelotn', 'jnnu hmeoltno', 'juny heomltno', 'jnee hemlotno', 'jnnw hwmlytno'}, {'jneo hmalidno', 'jnyw hmaoltnu', 'jiny haimldno', 'jnno hmaultne', 'jjno hmaeltno', 'jneh hwwmlotn'}, {'jnny himlidyn', 'jnyw hmaeldno', 'jnea hymwldno', 'jnua hmaildno', 'jnne hmeelotn', 'jnno homuldno'}, {'jnui hmalitnu', 'jnoy hemwldno', 'jjni hmawlutn', 'jnuo hmoaltno', 'jnoe hhimletn', 'jjno hwwmlotn'}, {'jwny hmuultno', 'jinw hmaaltni', 'jjni himlidun', 'jnow hymlwtno', 'jyna humlitny', 'junw hhimlutn'}, {'jyni hmeyltno', 'jnny hmaylytn', 'jeny hmayltnu', 'jnei hmaylatn', 'jwna hhimltne', 'jwne heimltno'}, {'jnuw hmahlatn', 'jwnu homlidan', 'jnnu hhumltno', 'jney hmaelden', 'jnyy hmuhltno', 'jnuh hwmlitni'}, {'jwny humlidun', 'jnnu hhomltno', 'jnww heumltno', 'jnuo hmalitnu', 'jnih himlidun', 'jnwy hmylitno'}, {'jiny himlitni', 'jwne himlitnw', 'jwno hmalytno', 'jnyw hoimldwn', 'jnua homlidan', 'jnui hmaolden'}, {'jney hmaalotn', 'jnna hmaaldno', 'jnio hmaeldun', 'jenw hhimltni', 'jwni hoemlotn', 'jnnu hmelitno'}, {'jnew hmuoltno', 'jnuh hmywlotn', 'jwni hmaulitn', 'jinw hhhmltno', 'jnoy hhimlatn', 'jeny hmalitni'}, {'jnww hmuhltno', 'jnie hoimldwn', 'jnuo hwmlidan', 'jnoy hhimlatn', 'jniw hmaulotn', 'jinw himeldno'}, {'jjni hoimlatn', 'jnoo homlitni', 'jjna hmauletn', 'jnoi hemlwtno', 'jyny hmaultnu', 'jwnw hwwmltno'}, {'jinw hmauldun', 'jnee hmahltno', 'jyna hwmlotno', 'jniu humlidun', 'jnii hmayltnw', 'jnuh hoimlwtn'}, {'jnuu homlitna', 'jnna hiimlitn', 'jyni heimltnu', 'jnni homlitnu', 'jnue huimlodn', 'jnei hhumltno'}, {'jyni hmeeltno', 'jniw hymlidun', 'jnua hmowlotn', 'jneu hwmlidan', 'jwne homoldno', 'jnne humeldno'}, {'jnny hmulitno', 'jnou hmalotno', 'jneu huhmltno', 'jnni hhmlitno', 'jnuy humaldno', 'jnne hhmwldno'}, {'jnny hwmlidan', 'jnoi hmohlotn', 'jiny hmahldun', 'jyno hmuylotn', 'jney hemlidwn', 'jwnw hmayldan'}, {'jnih hemlitnw', 'jwnu hiimlodn', 'jjna hymletno', 'jyne hmawlotn', 'jniy heumlotn', 'jniu hmawlatn'}, {'jwna huymltno', 'jiny hmowlotn', 'jnea hmayltny', 'jnie homuldno', 'jniy hmuoltno', 'jney hmaolodn'}, {'jynu hmauldun', 'jneh hmuultno', 'jnei hmayltna', 'jnuu hmahldan', 'jnih hmahldyn', 'jniy himlidin'}, {'jjnu hymyldno', 'jwna homlutno', 'jjna huimlwtn', 'jnui hyymlotn', 'jnuy hmaulytn', 'jniu hmaulden'}, {'jyni hmawlutn', 'jnei hmaaldun', 'juny hhimltne', 'jeny hmaildno', 'jnee hhmeldno', 'jjnw hoimlden'}, {'jwnw hmaolotn', 'jwny hhmlytno', 'jyno hmayltnu', 'jnww hmaoltni', 'jjna hmaolwtn', 'jwno hmoeltno'}, {'jnuy hmealtno', 'jenw hmahlotn', 'jnuu hmaioldn', 'jnuh hymlutno', 'jnyy homuldno', 'jnia hmuhltno'}, {'jnow hmayldun', 'jnnu hhimlytn', 'jnuh hhmeldno', 'jjna hemlitnu', 'jyno homlatno', 'jjni hymlidwn'}, {'jnee hywmlotn', 'jnuw hmaolwtn', 'jjny huimltna', 'jnww humlwtno', 'jwne hmoalotn', 'jynw hwmlidan'}, {'jnew himlytno', 'jnno hmylitno', 'jeny homlidin', 'jyne hwmlidin', 'jyna hmaeltna', 'jnyw hoimlwtn'}, {'jnoe hoimletn', 'jnia hmaeldno', 'jnuo hmowlotn', 'jnwy huomltno', 'jynw hymletno', 'jwno hohmlotn'}, {'jnoh hmaelatn', 'jnoe hmealotn', 'jnih hhimletn', 'jnia hmeulotn', 'jyni humuldno', 'jnei huumlotn'}, {'jnnu hmaulwtn', 'jniw hmaalutn', 'jnii hmualtno', 'jnna huimldwn', 'jjno hoimltnw', 'jenw hmahldun'}, {'jnnw hymlitnw', 'jnua heimldno', 'jneu hhimltni', 'jjnu hmoeltno', 'jwno hmalitnu', 'jiny hmawltni'}, {'jyni hhwmlotn', 'jiny hmualtno', 'jjni heimltnu', 'jwnu hmaalodn', 'jnia hhimltni', 'jjno heimldno'}, {'jnui hmooltno', 'jneo hmauletn', 'jwno hmawlytn', 'jjny hemlitni', 'jiny humlitna', 'jeny hmawldno'}, {'jnee hemeldno', 'jnuo hmeultno', 'jnuh himlidun', 'jnuu hmaylytn', 'jneo hmaletno', 'jnno hmawltni'}, {'jnei hmyylotn', 'jnnw hmuultno', 'jnwy homlidun', 'jjne huimltni', 'jwna hmlaitun', 'jnuo hmawldun'}, {'jenw hoimlytn', 'jnyy hmewlotn', 'jnew hwmlidan', 'jnww hymlitnu', 'jnoh humlwtno', 'junw hiimlitn'}, {'jeny hmewltno', 'jnia hmahldan', 'jnow hhmlitna', 'jwnw hmaaltne', 'jnna homlitny', 'jnei hmwylotn'}, {'jniy hmoylotn', 'jnnw homlytno', 'jniw huumlotn', 'jnue homlidin', 'jnui hhimlytn', 'jeny humlutno'}, {'jwnu hemuldno', 'junw hmaelatn', 'jnei homlutno', 'jnew huimltno', 'jyno hwmlitni', 'jnih homletno'}, {'jynw hmalitna', 'jnna himeldno', 'jwni hymlidno', 'jyne hymlitnw', 'jnea homeldno', 'jjne hmayltny'}, {'jnne hmoalotn', 'jnei hhmlidyn', 'jnii homeldno', 'jnea hmuulotn', 'jwne hhimlitn', 'junw hoimlden'}, {'jney hhimlytn', 'jnua homlytno', 'jnoo hiomlotn', 'jnuu hmeildno', 'jnui hemlidwn', 'jnoe hmaaltni'}, {'jwny hmeelotn', 'jnue homlotno', 'jnww hmaeltno', 'jwni himlitno', 'jniu hmawltnw', 'jenw hoymlotn'}, {'jwny hmawlitn', 'jnno hmahltna', 'jniu hmuylotn', 'jnio hmalwtno', 'jnww hmaaldun', 'jinw hmaulwtn'}, {'jnui hmawlitn', 'jwnw himlidun', 'jnuu hhmlitni', 'jnii hmaelutn', 'jniu hemlitne', 'jjnu hmlaitno'}, {'jwny hmaaltni', 'jnew homeldno', 'jneu hmaioldn', 'jnow hmaelytn', 'jjni hiimlotn', 'jjna hmoolotn'}, {'jenw hwmlutno', 'jwne hmayldan', 'jnyy hmaaltna', 'jnew hmolitno', 'jniy hwmlitny', 'jnyw hoymlotn'}, {'jnio hmoaltno', 'jjnw hoimlodn', 'jnui hmaylatn', 'jnoi hhimlwtn', 'jnii hymlitnw', 'jjny huhmltno'}, {'jnei heimltny', 'jwna homlitno', 'jinw hhymlotn', 'jyna hmaultne', 'jynu hmaulitn', 'jeny hmaylotn'}, {'jneo hwmlidan', 'jnni hmowltno', 'jnuw hmuwlotn', 'jynw hmahlutn', 'jjne hmoulotn', 'jwny hmeeltno'}, {'jnii heimlutn', 'jeny hemyldno', 'jneu humaldno', 'jnne hhmlwtno', 'jneh himlitna', 'jnoe homlitnw'}, {'jnoh hmewlotn', 'jnnu hwmlitnu', 'jney himlitno', 'jenw huimlodn', 'jniu hmelitno', 'jnii hmaoletn'}, {'jniu hmaoltno', 'jinw huwmlotn', 'jynw hemlitni', 'jnih hwmlatno', 'jnne himlidin', 'jnea huimletn'}, {'jnua humyldno', 'jjnu hhimltny', 'jenw hmolitno', 'jnuo hhmlwtno', 'jinw hohmltno', 'jnoo hoimldin'}, {'jnuo himlotno', 'jnih hmaelitn', 'jnua himeldno', 'jneh hemlidyn', 'jnew hmahldyn', 'jnyy hewmlotn'}, {'jwno hmahlodn', 'jnuy huimldwn', 'jneo hhmletno', 'jjne hymlitno', 'jnoh hmaalodn', 'jynw hhemlotn'}, {'jnyw hwymltno', 'jjnw hmaaltni', 'jnoi hmaelodn', 'jnoy hmaalitn', 'juny hmayldan', 'jnna hhimletn'}, {'jnni humoldno', 'jwna hmahltno', 'jnei hwymlotn', 'jjny homlitnu', 'jniu hmaoltna', 'jniw hhimlitn'}, {'jnoe hmuhltno', 'jnnu hmaoldun', 'jnwy hoimlodn', 'jnea hhmlidun', 'jwni hemlitny', 'jjnw hmaulodn'}, {'jnna humlitni', 'jeny hmaaltni', 'jnia heumlotn', 'jyne humlitna', 'jneo hoimltne', 'jnow hwmlytno'}, {'jyno hmawltnw', 'jnue homlidin', 'jynu himlytno', 'jwno hhimltni', 'jnio hmaeltnw', 'jwnw hmaeldun'}, {'jwnw hmuulotn', 'jyni hemlutno', 'jeny hoomltno', 'jnoo hmahltnw', 'jwne hemlytno', 'jnnw hymlidyn'}, {'jney hmaelytn', 'jnei hmawldno', 'jyna hmahltnw', 'jnuu hiimlutn', 'jyny huimltno', 'jwnw howmlotn'}, {'jnue hwmlitny', 'jnnw hwmlitnw', 'jyne hemlotno', 'jnoy himeldno', 'jjni huimltnw', 'jniu hmaeldun'}, {'jnea hwmlutno', 'jnuo hwmlitny', 'jnoe heimltna', 'jynu hmoultno', 'jwne hmaulden', 'jnih hemlitnu'}, {'jyni hmeeltno', 'jjnu humlitnu', 'jiny himlidno', 'jyne hohmltno', 'jnyw hwwmlotn', 'jnnw huymlotn'}, {'jnio hmeeltno', 'jnii hemlidno', 'jnni hmawlodn', 'jnee hemwldno', 'jyni hmauldno', 'jneh hwmlitnw'}, {'jjni hhmletno', 'jjnw hmalitni', 'jneo hmauletn', 'jjno hmaalotn', 'jnoi hhimltny', 'jnne hhmwldno'}, {'jniw hemlwtno', 'jyne hmahlitn', 'jnih hemwldno', 'jnua hmaeletn', 'jyno hemlutno', 'junw hyymltno'}, {'jnua hmahlutn', 'jwno hmewltno', 'jnou homoldno', 'jyny hemlitny', 'jjnu humletno', 'jynw hmaaltnu'}, {'jnie hmueltno', 'jnio homlidyn', 'jnoo hiymlotn', 'jneo hihmlotn', 'jyna huimlutn', 'jnea houmlotn'}, {'jnee hemlitni', 'jnwy hiimlotn', 'jnua hhimlotn', 'jnih hemlitne', 'jjno hmuelotn', 'jjnw hmauletn'}, {'junw hoymlotn', 'jniu hemlitnw', 'jyni hymlitni', 'jney hmaylutn', 'jnna hmylitno', 'jnua huumlotn'}, {'jwnw himliden', 'jjni huimlutn', 'jnuw hmeelotn', 'jnew hywmltno', 'jnio humlidwn', 'jney himlutno'}, {'jnni hmoaltno', 'jnih hmawltny', 'jjno hmaalotn', 'jynu hemeldno', 'juny hymlutno', 'jjnw hmauldun'}, {'jnea hymlatno', 'jnow hmaylodn', 'jneo hoimlytn', 'junw hhimltne', 'jjni hemeldno', 'jneu hmaildnu'}, {'jneh huimltno', 'jneo homlidno', 'jnwy huimltni', 'jnne hmeolotn', 'jnni hmalutno', 'jnoh hyymltno'}, {'jnia huemltno', 'jjno hmahldun', 'junw hmooltno', 'jnuu houmlotn', 'jnew huhmlotn', 'jnni hmaoltno'}, {'jnny heumltno', 'jniu hmaelutn', 'jnuo huimltno', 'jnew hmalotno', 'jnia hwmlidin', 'jnww hwmletno'}, {'jnoo hoemltno', 'jnow hmaylitn', 'jnoh hhmlitna', 'jnne heumltno', 'jnew hoimltnu', 'jinw hmeylotn'}, {'jnei hmeylotn', 'jnii hewmlotn', 'jnni hiomltno', 'jnnw hmaaldno', 'jnuy hmalitnu', 'jwna himuldno'}, {'jwno hoimltnw', 'jwne humoldno', 'jyna huimltnw', 'jnyw hmaolytn', 'jjno himeldno', 'jwnu hemlytno'}, {'jyno hoymltno', 'jjni hhimltni', 'jnii hmolitno', 'jneh hymlwtno', 'jniw hmaeldno', 'jnui hoimletn'}, {'jjne homlotno', 'jney hmoeltno', 'jnuu hiimldin', 'jeny hmahlutn', 'jnyy homlitnw', 'jnoh hmawlotn'}, {'jneh hmahlatn', 'jwne hmayldyn', 'jnoe hmealtno', 'jnow heymltno', 'jnoo hymlitna', 'jnia hoimltne'}, {'jynu hmelitno', 'jniu homlitni', 'jenw hhymlotn', 'jnea hmauldun', 'jyno hmaulwtn', 'jnwy heumltno'}, {'jnow himlutno', 'jnoe huimlwtn', 'jyni hywmltno', 'juny hmahlatn', 'jiny hmahlitn', 'jnuo hhimltni'}, {'jnia himwldno', 'jjnw hmahldan', 'jnuh homuldno', 'jniy hmahltnu', 'jyno hehmltno', 'jnoo hmowlotn'}, {'jnnw himlitne', 'jnww huimltnw', 'jnow hmyyltno', 'jney hmeultno', 'jnnu humyldno', 'jnew hmaoltnu'}, {'jnow hmuultno', 'jwny hmayltnu', 'jnoh hwymlotn', 'jney homlidin', 'jnie homlwtno', 'jwna hmealotn'}, {'jenw hemlotno', 'jnoy huemlotn', 'jneu hoimltna', 'jyne hhimlytn', 'jniu hmaaltne', 'jnnw hmealtno'}, {'jyni hoemltno', 'junw hwmlitni', 'jnyy hmaaletn', 'jwno hmuhlotn', 'jnuu hmaylotn', 'jnuo hiimltni'}, {'jwny hhmlutno', 'juny hhimldyn', 'jenw hmaeltny', 'jnnw himlidyn', 'jniu hmeoltno', 'jwni hhimlotn'}, {'jyny himlatno', 'jnuo hmalidun', 'jneu hmewlotn', 'jnue hehmltno', 'jjna hymyldno', 'jnie himuldno'}, {'jyna hwmlidwn', 'jyny hmaaltny', 'jniy hmalitnw', 'juny hmualotn', 'jyne hmaeltny', 'jnua hmyylotn'}, {'jynw himletno', 'jnue hwmlitny', 'jyna hmueltno', 'jnou homlwtno', 'jnni hmewlotn', 'jjnw hmahlatn'}, {'jinw hwwmltno', 'jjna hmauletn', 'jyno hmolitno', 'jneu hmahlatn', 'jjno hemlitni', 'jnii hmueltno'}, {'jnuo himlatno', 'jnno hmayldan', 'juny huomltno', 'jnii hmaolwtn', 'jneo hmawltnw', 'jnuy hmaylatn'}, {'jnua hwmlidin', 'jnuw himlitna', 'jnwy hmalidno', 'jyna humoldno', 'jnna hwmlidwn', 'juny hmaioldn'}, {'jnnu heimltne', 'jnio hoimlodn', 'jyny homlytno', 'jenw hmaoldno', 'jwna hmaylitn', 'jnee hoymltno'}, {'jniy hemlidno', 'jyni hmayltnw', 'jnnu homyldno', 'jnuu hwmlitna', 'jnww hoomlotn', 'jnua hmwylotn'}, {'jnoe hmoelotn', 'jnii hmewlotn', 'jwna hmahlitn', 'jneh hmawldun', 'jenw hmaletno', 'jnow hmyyltno'}, {'jjni hhhmlotn', 'jnyy hhimlotn', 'jnuw hwmlitne', 'jwny humlitny', 'jjnu humeldno', 'jnnw hmoildno'}, {'jnoi hmaolytn', 'jwny himlutno', 'jnuo homlidan', 'jiny hmealotn', 'jjnw himlidno', 'jnea homlitni'}, {'jney homeldno', 'jwnw huimlotn', 'jyne humlitna', 'jnih hoimldwn', 'jnuh hmewlotn', 'jwni himlitny'}, {'jnih hhmlitno', 'jyne hmawlotn', 'jnoo hmawlytn', 'jnuw humlitna', 'jnue hhomlotn', 'jinw hhimletn'}, {'jnno hymlytno', 'jjni hhmlwtno', 'jnia hhmwldno', 'jyne himlwtno', 'jnui humlitny', 'jiny huumltno'}, {'jnue huemltno', 'jneh heemltno', 'jnoy homlidyn', 'jnuu hmealtno', 'jnno hewmltno', 'jwna hihmltno'}, {'jnyw homlatno', 'jnew hmaolytn', 'jniu hmayletn', 'jnne hhumlotn', 'jneo hmalitny', 'jwno huimlodn'}, {'jenw hemlitnw', 'jnuh hwmlidyn', 'jnue hmaylatn', 'jnuu hmaildna', 'jnei hhmlatno', 'jnua hmawlwtn'}, {'jnuh hemyldno', 'junw hmwlitno', 'jnie hmoylotn', 'jjne humeldno', 'jyne hmaoletn', 'jnne hmylitno'}, {'jwnu hmeelotn', 'jnwy hmawlytn', 'jnea homlidan', 'jjnu hwmlatno', 'jnui hmaoltnw', 'jnow huimltna'}, {'jnnw hmaolitn', 'jyni hmaulwtn', 'jnua homlitni', 'jnuu heimltnu', 'jnyy huumltno', 'jwni hyymltno'}, {'jyny homlidin', 'jnyw hwmlytno', 'junw hoimltne', 'jnoo hhimlitn', 'jynu hwymlotn', 'jnuh hmawltna'}, {'jnui humlitno', 'jyna hwwmltno', 'jjny hmalitny', 'jyny hoemltno', 'jnyy hiumltno', 'jniy hmaulwtn'}, {'jyna hiimlutn', 'jnew hmoultno', 'jnuw hmawlutn', 'jnoe hmyyltno', 'jnio hmaulitn', 'jnuy hwmlotno'}, {'jnuo hwmlidin', 'jnih hmaultny', 'jnwy hmuolotn', 'jnoi homlwtno', 'jyno hmewlotn', 'jnow humletno'}, {'jjno hmahldan', 'jnew hmawltno', 'jnow hmelitno', 'junw hiumltno', 'jnoi hmaylwtn', 'jeny hmaolotn'}, {'jiny hmuoltno', 'jnea himlitni', 'jnei hmaelutn', 'jjni hmaylotn', 'jney humyldno', 'jjny hmaaldin'}, {'jyny hmaaldin', 'jnoo hoomltno', 'jnww hoimlodn', 'jyno hwmlitnw', 'jwny humlitne', 'jnee homlidno'}, {'jnue hhimlotn', 'jnoy hoimltna', 'jneo humyldno', 'jjna hmaelodn', 'jnno hhmlatno', 'jniy hmaylytn'}, {'jnou heomltno', 'jnoy humaldno', 'jnih himlutno', 'jnii hmaelatn', 'jnoi hmualtno', 'jjni hwmlitnw'}, {'jnoi hmaeltna', 'jnia himlitne', 'jnuw hmawlatn', 'jnnu hmayltno', 'jnyy hymlitny', 'jnny hhumltno'}, {'jjny hwmlitno', 'jjni humlatno', 'jinw hemlwtno', 'jnei hmaulytn', 'jwna hoomlotn', 'jwny hemlitno'}, {'jnoe hmuhlotn', 'jynw hohmlotn', 'jinw hhmlitna', 'jnww hmalidwn', 'jwnu hmahlodn', 'jnoo hiimltni'}, {'jynw hmualotn', 'jnnw hmuultno', 'jnio hmaolwtn', 'jnoh huimldwn', 'jjne hmeolotn', 'jniu humlitni'}, {'jwne homeldno', 'jnea heimltnw', 'jnnu himlitne', 'jinw hmaulitn', 'jnyy himlutno', 'juny hymlidwn'}, {'juny hmahldun', 'jnow hmaalytn', 'jnuo hmaelatn', 'jwnw houmltno', 'jnuw huwmltno', 'jyne hmaaldun'}, {'jinw hmahlatn', 'jnyw hiimltno', 'jnoh hemeldno', 'jnie hmayldwn', 'jnni hwymlotn', 'jjnw hmaoletn'}, {'jwna hhimltnw', 'jnih huimltnu', 'jnyy huomlotn', 'jnea humlitne', 'jinw hemlitnu', 'jeny hmealotn'}, {'jjny huimldwn', 'jniy hhemltno', 'jnii hymlidwn', 'jnny hmeildno', 'jnoy hhmlidun', 'jwnw hmaalytn'}, {'jjne hhimltnw', 'jwni himlwtno', 'jneo hwmlidan', 'jnoo hhmlidyn', 'jjna hmaalitn', 'jnwy himwldno'}, {'jnoo hmaolodn', 'jinw hmaeltna', 'jnuo hhmlidyn', 'jnii hwmlotno', 'jnnw haimldno', 'jnna humlotno'}, {'jnni humoldno', 'jnoo huymltno', 'jneh heumltno', 'jnow hmahletn', 'jnny hoimlodn', 'jjna hywmltno'}, {'jnou hmaalotn', 'jnih heumltno', 'jjny hhimlotn', 'jnuy hmawlutn', 'jnea hmahltno', 'jwno hohmlotn'}, {'jnie hmwyltno', 'jnow hmayltnw', 'jneo hoimltno', 'jnuw hymlidno', 'jyny hemlitne', 'jyna hwmlidan'}, {'jnow huimltny', 'jnyw himlitna', 'jjnw hoimlytn', 'jnyy houmltno', 'jneo hmaulytn', 'jwna hmaoltny'}, {'jnne hmywlotn', 'jnuh hmalidun', 'jyny hmaalotn', 'jnii hwmlidno', 'jnoi hewmlotn', 'junw hhwmlotn'}, {'jwnw hwymltno', 'jnee hmawlitn', 'jnea hemlotno', 'jwnu hmahlitn', 'jnua hymlidwn', 'jnnu hmaulitn'}, {'jnow hmawlotn', 'jnne hhomlotn', 'jwnw hmalwtno', 'jnni hhmlytno', 'jjnw hmahltnw', 'jnou homlitnw'}, {'juny hmaolitn', 'jneu humlutno', 'jnoy homlidwn', 'jenw humletno', 'jyno hwmlidan', 'jnni hhmlwtno'}, {'jinw hoimlotn', 'jynu hymlutno', 'jyno homlitnu', 'jnna hymlotno', 'jnoh heimlotn', 'jnuw hhymlotn'}, {'jinw huimltnu', 'jnui hmeulotn', 'jnoh hmaoldun', 'jenw hmeelotn', 'jwna hwmlitno', 'jnyy hmaultna'}, {'jnyy hmayldun', 'jnww hhmlitne', 'jnuh hmaalden', 'jnia hmuwltno', 'jniy hymyldno', 'jnna hmeelotn'}, {'junw heymltno', 'jynu hmaioldn', 'jnio hmoultno', 'jnua hymlidwn', 'jyne hihmltno', 'jwno heimldno'}, {'jyno hmaelwtn', 'junw hwmlidan', 'jnoo hmaylotn', 'jinw hmayltnu', 'jwni hmayltnw', 'jjnu hoimltny'}, {'jjnw hmaulitn', 'jnih homlwtno', 'jnnu hhomltno', 'jyny hiimlotn', 'jnoi hmoalotn', 'jwna hmwyltno'}, {'jnoh houmltno', 'jnni hoimltny', 'jwne hmuwlotn', 'jniu hmalitny', 'jnna hyymltno', 'jnuu hoimlden'}, {'jnih hmoaltno', 'jnno huomltno', 'jwna hmaultnw', 'jnia heimltnu', 'jneo huimlytn', 'juny heymltno'}, {'jney hwmlidno', 'jnui hmawlatn', 'jnih hmehlotn', 'jnuu hmaildna', 'jnii hymlitne', 'jenw huimlwtn'}, {'jwny hmuultno', 'jenw hmalotno', 'jiny huimltne', 'jnnw himlitnw', 'jnuw hmayltna', 'jnnu hohmltno'}, {'jnuh himlidin', 'jnoe hiimlitn', 'jneu humletno', 'jnni hhimlwtn', 'jwno hymwldno', 'jnee hihmlotn'}, {'jnuu hmaeltne', 'jinw hmawlytn', 'juny hiimldin', 'jjnu hiomlotn', 'jnne houmlotn', 'jwnu hhimlwtn'}, {'jyna heimltnw', 'jwnu huwmlotn', 'jnuy heimltny', 'jnoe hmoulotn', 'jwna hoomlotn', 'jwne heumltno'}, {'jnoi hmwwlotn', 'jeny hmaalutn', 'jnuo hmayldyn', 'jnnw hwmlytno', 'jenw hoymlotn', 'jnnu hmeylotn'}, {'jiny hmaulotn', 'jwne homlitny', 'jneu hmaeltny', 'jnww hoimlatn', 'jnuu hmaulutn', 'junw hhimldyn'}, {'jnih hhmeldno', 'jnoe himlitni', 'jynw humlitnu', 'jeny hoymlotn', 'jnnu heumlotn', 'jnoy huumlotn'}, {'jnyw hmahldun', 'jnew homlidin', 'jnnw heumlotn', 'jwna hhmlitno', 'jyni huimltnw', 'jney humeldno'}, {'jnia hmalotno', 'jeny homyldno', 'jnua hmueltno', 'jnoi hemwldno', 'juny hewmltno', 'jwna hmaeltnw'}, {'jnna hhimltni', 'jyny hmaylodn', 'jnoi hmialdno', 'jjne hmaylotn', 'jnow himwldno', 'jneu hmaeletn'}, {'jnia hoimlden', 'jiny hmuelotn', 'jnua huimltnu', 'jnee hwwmltno', 'jnii hiimlutn', 'jyni hmaelatn'}, {'jyno heomltno', 'jnii hmuildno', 'jneu humlotno', 'jwne hmaeldno', 'jnew hiomlotn', 'jnyw hiimlitn'}, {'jneo hmaeltno', 'jnwy hmoalotn', 'jnoy hmaultnu', 'jnoe hiumlotn', 'jnee hhymltno', 'jnea heemltno'}, {'jnyy hmahlwtn', 'junw hiimlatn', 'jwne hmwlitno', 'jnoe hmayltna', 'jnna hhumlotn', 'jniw hmaeltny'}, {'jwne hoimlitn', 'jnie hemwldno', 'jneo huimltne', 'jnne hmawltny', 'jnui huimlatn', 'jnue hoemltno'}, {'jeny hmaelotn', 'jnne hmolitno', 'jneh hmawltnu', 'jnww humyldno', 'jnoe heimltnu', 'jnea hhimldyn'}, {'jwna hmewltno', 'jyno hmawltni', 'jnoi hmeolotn', 'jnuo hmaulytn', 'jnww hmuwltno', 'jynw hwmlidyn'}, {'jnow hmaultni', 'jnua hmayletn', 'jyno hmeyltno', 'jjnw hoimlytn', 'jney hmawletn', 'jnuh hmoelotn'}, {'jwnu hmeelotn', 'jyno hoimltno', 'jnoe huhmltno', 'jjnu hmalitna', 'jnea hmeylotn', 'jnio hwymlotn'}, {'jyni hemlwtno', 'jnue hmaoltnu', 'jwne himlitny', 'jniy hmawlytn', 'jeny hoimlodn', 'jnwy hoimltne'}, {'jynu houmltno', 'junw homlitne', 'jnii hmaelotn', 'jjnw hhimldyn', 'jwno hemlitno', 'jiny hoimldan'}, {'jnui himlidin', 'jwny hmaeldno', 'jenw hmaylotn', 'jinw hmaeltne', 'jjne hewmltno', 'juny homlidwn'}, {'jnou himlutno', 'jjny hiemltno', 'jnoy humlidwn', 'jenw hmayltnw', 'jyna hmaelatn', 'jjne houmltno'}, {'jjnu hymwldno', 'jwny hmuultno', 'jnnu hemlitna', 'jneu hhmlidyn', 'jnui hemlitne', 'jinw hmawldno'}, {'jnio hmayldwn', 'jnie himloitn', 'jnwy howmlotn', 'jniy hmalitny', 'juny hwymlotn', 'jnny hmeultno'}, {'jenw hmaoletn', 'jnie hhimlwtn', 'jnoe hmaultnw', 'jnna hhomlotn', 'jnio homlitna', 'jnyw hmaaltno'}, {'jney hmaulitn', 'jjne humlidwn', 'jnih huymlotn', 'jneo hwmlidwn', 'jnoh heimltnu', 'jenw hhimltny'}, {'jneo hmaaldno', 'jnoi hmulitno', 'jwno hmowlotn', 'jynu hoimldwn', 'jynw huimletn', 'jwnw hmahltno'}, {'jyna hmaolwtn', 'jnni hiwmlotn', 'jnnu hyymltno', 'jnny hemuldno', 'jwny heumlotn', 'jjny humuldno'}, {'jnno himletno', 'jwni hemlitno', 'jnui homaldno', 'jjnu hmaalodn', 'jjno hoimltny', 'jinw hymlitno'}, {'jnei hmahlytn', 'jneo hwwmltno', 'jnoh hemlitnu', 'jnue hemlidwn', 'jnni heimlutn', 'jwne hiwmlotn'}, {'jnow hmahlwtn', 'jnua hwwmlotn', 'jnie hymlitna', 'jnee humuldno', 'jynu hoimltnw', 'jwne hmaylwtn'}, {'jnne hhimlutn', 'juny homoldno', 'jnyy hmaelden', 'jnui hwmlidwn', 'jyni hhumlotn', 'jiny hmaletno'}, {'jnno hyymltno', 'jjne hwmlitnu', 'jnue homyldno', 'jjny hmalidno', 'jjni hhimltny', 'jnow hhmlatno'}, {'jniy homlidwn', 'jynw hmayltno', 'jney hmayldan', 'jjne hmaolden', 'jjnu huimlytn', 'jnio heemltno'}, {'jnne himlidun', 'jniy hwmlidan', 'jwno humletno', 'jnnw howmltno', 'jwny hmaultnu', 'jnuh hwmwldno'}, {'jnoh hmayldun', 'jyno hwmletno', 'jinw hemlitny', 'jwni hymlidun', 'jnua hmulitno', 'jnny hwmlitnu'}, {'jnei hmehlotn', 'jiny hmwwlotn', 'jjno hmahldyn', 'jnyw hhimltnu', 'jnue huimlodn', 'jjnw hmaelytn'}, {'jjna hiwmltno', 'jwni hhhmltno', 'jyny hoimlitn', 'jnni hmaeltne', 'jnei huwmltno', 'jnoi hemwldno'}, {'jyna hhhmltno', 'jjnw heimltny', 'jnee hmaaltny', 'jnio howmlotn', 'jnou homlitno', 'jnoh hhemlotn'}, {'jnuo hmaolodn', 'jwne humwldno', 'jeny hmeultno', 'jnee hmaaltna', 'jneh hmealtno', 'jnuu heimltni'}, {'jneu himeldno', 'jnei hmawltni', 'jenw hmowlotn', 'jwny hmaildny', 'jnew huomltno', 'jnia himlidwn'}, {'jjnw hmaaltne', 'jniy hmalwtno', 'jnyy hwmlitne', 'jyny hwmlitny', 'jyno hiimlodn', 'jeny hemlitnw'}, {'jnih hiimlwtn', 'jwnw hemlutno', 'jneo hmahltny', 'jnia hemuldno', 'jnoi hohmlotn', 'jnue hmaeltna'}, {'jnoh hhmlidyn', 'jnno hwmwldno', 'jjna hoimltny', 'jnuw hemlitna', 'jnna hmahltna', 'jjni hmulitno'}, {'jnew hmaultni', 'jwno hymlwtno', 'jnyw hmoaltno', 'jnih hhimlodn', 'jnuh hmaelatn', 'jnii hymlitnw'}, {'jnne huimldno', 'jneu hhimlytn', 'jjny hmawltno', 'jiny hmayletn', 'jnea hiimlitn', 'jnyw hmeoltno'}, {'jnoe hmahlytn', 'jeny heimlodn', 'jnuo homlitnu', 'jjno hmaultne', 'jnea hmawletn', 'jnio hmuhlotn'}, {'jiny himlitny', 'jyne heomltno', 'jneo hhmletno', 'jnwy hmaaldno', 'jeny himliden', 'juny hoimldyn'}, {'jnuo heimltne', 'jnuw humuldno', 'jjno hhmlitna', 'jnwy hmeultno', 'jniu hmaildno', 'jiny heimlotn'}, {'jinw hymlidun', 'jnni hymwldno', 'jjni hmaultne', 'jjno hmaalitn', 'jnia hmalatno', 'jwnw hmaelodn'}, {'jneo hhmlytno', 'jwnu howmlotn', 'jwny huimlwtn', 'jniw hoimlodn', 'jneh homlidyn', 'jinw hmaolatn'}, {'jniw homlitny', 'jnoi hoomltno', 'jnuu hymlytno', 'jwnu hhymltno', 'jnno hmaelwtn', 'jnii hmawlutn'}, {'jwnw hmaoltna', 'juny humyldno', 'jnww humletno', 'jnuu huemltno', 'jnei hmoolotn', 'jnou houmlotn'}, {'jinw hmahlutn', 'jnua heimltny', 'jjna hmalwtno', 'jnee hemwldno', 'jwna hmauldno', 'jnoy hmaelytn'}, {'jwna hmaulotn', 'jyna hmaulodn', 'jjna hmahlytn', 'junw hmayletn', 'jnou hhmwldno', 'jjni hoimlotn'}, {'jniu hmalitno', 'jwny humeldno', 'jjne hwmlitni', 'jnoi himlitna', 'jnwy hmalytno', 'jnea heimltny'}, {'jynu howmltno', 'jnni himlidun', 'jnih hhimlytn', 'jwna homaldno', 'jnna himlitny', 'jwni houmlotn'}, {'jiny hmeultno', 'jnoi hoimltnw', 'jney hmaolitn', 'jwno hwmlitno', 'jyne hmahlutn', 'jnuy hmawltni'}, {'jnei hoomlotn', 'jnoo heomltno', 'jyny hiimldin', 'jeny hmaelden', 'jjne hwmletno', 'jnny hemlidin'}, {'jnoi humlidwn', 'jnei hmeoltno', 'jwni hhmlatno', 'jwno hemlitno', 'jwnw homlidan', 'jniy howmltno'}, {'jnno hhmwldno', 'jnni hemlidyn', 'jnow hiemltno', 'jnuw huimlutn', 'jjno himlitny', 'jyna hmahlitn'}, {'jjnu hmawltni', 'jnny hmaolden', 'jiny hiemlotn', 'jjni hwmletno', 'jjny hhimlutn', 'jnoh hmaylotn'}, {'jney humlitne', 'jwna hymlitni', 'jnue huimlotn', 'jnyw hoemlotn', 'jjny homletno', 'jnuw hmalytno'}, {'jnny huymlotn', 'jnih hmlaitwn', 'jnia hmawlodn', 'juny hemlidno', 'jnno hmahlatn', 'jwne hmlaitno'}, {'jnuy hemlatno', 'jnio hwmloitn', 'jnno hmaildnw', 'jenw homuldno', 'jnei huemltno', 'jnuu hhymlotn'}, {'jnuh hmawlatn', 'jneh hoimldin', 'jnio himlidyn', 'jynu hoimletn', 'jwny himlwtno', 'jnue hmehlotn'}, {'jniy hmealotn', 'jnii hoymlotn', 'jwnu himlwtno', 'jjnw hemlitny', 'jeny hyymlotn', 'jnyy hmaulden'}, {'jyna hmooltno', 'jwnw hmawldun', 'jyni hiimlwtn', 'jniy huwmltno', 'jjno hmaultna', 'jnee hmayletn'}, {'jyno hoimltna', 'jjne himliden', 'jneu hmahlodn', 'jnew hoimltni', 'jnie hmuildno', 'jnuo humlutno'}, {'jnuu heymltno', 'jnio hwmlwtno', 'jneo hmaolotn', 'jnuw hmaaltna', 'jnee hhmlitni', 'jnno hmeulotn'}, {'jneo hmaylitn', 'jeny homlitni', 'jnie hiimlatn', 'junw hmaoltno', 'jnnu hwmlitny', 'jenw hmehlotn'}, {'jwni hmuoltno', 'jnna hemlitnw', 'jnuw homlidin', 'jnou homlitny', 'jnni hhimltno', 'jnuh hmaulodn'}, {'jnui hmaalitn', 'jnee homuldno', 'jjni hmalotno', 'jnno hmaoltni', 'jnua hmaoldun', 'jynw huimltnu'}, {'jnee hmelitno', 'jnyw hmalitnu', 'jyny huimltny', 'jeny hoymltno', 'jjno hhimlatn', 'jnou hmaaltna'}, {'jenw hmewlotn', 'jnee hymlidno', 'jyne hoimltni', 'jnoy himlatno', 'jjnw hmalitny', 'jinw humlitnw'}, {'jneu humoldno', 'jnnw hiemltno', 'jjni humlatno', 'jnuo hmuultno', 'jnue hemeldno', 'jynw hmaalotn'}, {'jjnu huhmlotn', 'jnoi hmayltny', 'jnoh huymltno', 'jjne himuldno', 'jniw homletno', 'jenw hmoolotn'}, {'jyni hmalotno', 'jnni hohmltno', 'jiny hmaoldun', 'jnyw homoldno', 'jjna hmewlotn', 'jwni hhwmltno'}, {'jnih hmoulotn', 'jnuu hwwmlotn', 'jniw hiwmlotn', 'jnea hmawlodn', 'jnei hwmlitne', 'jjnu hwmlidan'}, {'jnuu himlidin', 'jyna homlidun', 'jniy hwymltno', 'jnnw hmuelotn', 'jyne hhimlotn', 'jnna hoimletn'}, {'jnou hmayletn', 'jwnu hmealotn', 'jnna hwmlutno', 'jynu hmahltnu', 'jjne hwmlatno', 'jnno hhmlatno'}, {'junw hmawlodn', 'jneo humeldno', 'jnni hmaoltny', 'jnew humoldno', 'jniw hmahlotn', 'jwni hhmlwtno'}, {'jyny hemuldno', 'jnuw hmawlatn', 'jyno hhmletno', 'jnua hwmwldno', 'jwno hmyylotn', 'jjny hymlitnw'}, {'jniy heimlodn', 'jinw hmayltny', 'jnuh himlwtno', 'jnie hhmletno', 'jney hmyylotn', 'jnui hmylitno'}, {'jnww hmeolotn', 'jneh hemlitnu', 'jwna hiimldin', 'jyno hoemltno', 'jwny hmaoltni', 'jnuu hiemlotn'}, {'jnou hmalitnu', 'jnyw huimldwn', 'jnei hwmlatno', 'jnnu himletno', 'jnyy hmaeltna', 'jnee homlitna'}, {'jnnw hmahltno', 'jnoe hwmlidwn', 'jyna hhemltno', 'jnoi hwmwldno', 'jnyy humyldno', 'jnua hmaaldin'}, {'jnnu hmaultnu', 'jnew hmayldan', 'jnuw hemlidno', 'jniw heumlotn', 'jnuh hemwldno', 'jjni hmahlatn'}, {'jwne homlitna', 'jwnw hmalitno', 'jnua hwwmltno', 'jnih hmauldun', 'jneh hmauldno', 'jjnu hwmeldno'}, {'jwnw hmeylotn', 'jniu hmolitno', 'jnoy hemlitnw', 'jyni homlitne', 'jnuu hemlitnu', 'jnno hmalutno'}, {'jnuy huhmltno', 'jnoi huymltno', 'jnwy hmuhlotn', 'jnoy hmaoldun', 'jnuw hmaalden', 'jyni hiomltno'}, {'jnio hmawlytn', 'jnuo hmaylytn', 'jnoe homyldno', 'jjnw hymlotno', 'jnwy hwmlitne', 'jjny himlidan'}, {'jnnu homyldno', 'jnoy hmoaltno', 'jnoi hmaylwtn', 'jnea hoimlwtn', 'jnna himloitn', 'jiny hmowltno'}, {'jjnu hhimlodn', 'jjno hmaeltne', 'jnnu hoimldno', 'jnoy hoimlodn', 'jnww hoimlitn', 'jnue hmaultnw'}, {'jniw homyldno', 'jnyw hmaeletn', 'jeny hhwmltno', 'jnwy humaldno', 'jnoe huhmltno', 'jnue hmyyltno'}, {'jnuo hmuyltno', 'jnio hmawltny', 'jniw hmaaldun', 'jnoo hmaulden', 'jynu himlitno', 'jenw hmaultnw'}, {'jnui hmahlitn', 'jinw hmaalitn', 'jnnw hwmlotno', 'jjnw hemlytno', 'jyno hhmeldno', 'jwny hwmloitn'}, {'jnie himlytno', 'jnuw hmaelden', 'jyne hhmlidno', 'jnuu hmahltno', 'jwni heimltna', 'jnee hmaoltnw'}, {'jniw hhmlidun', 'jnyw howmlotn', 'jjni huumltno', 'jwnw haemldno', 'jjny homlidan', 'jnue hoimldan'}, {'jnyw hmaildna', 'jnou hmaalytn', 'jnoe hmaolytn', 'jynu hmalitni', 'jnuy hmayltno', 'jnni hymlitni'}, {'jnia hmahlutn', 'jnww hoimltne', 'jwni hoimlitn', 'jnoy hmaulodn', 'jnih hmawlatn', 'jyna hmaolden'}, {'jnio hmalitnw', 'jnwy hyymltno', 'jnne hhhmlotn', 'jnui hhwmlotn', 'jnew hhimlodn', 'jnoo hoimlatn'}, {'jjni hmwwlotn', 'jynw hmaulwtn', 'jnoi hmayltnu', 'junw hmalitno', 'jjna huimlwtn', 'jjnu hmayldwn'}, {'jniu hmayltny', 'jnyw hiemltno', 'jnei hmaalden', 'jynu hmawlytn', 'jyne hwmeldno', 'jnio hymlitnw'}, {'jneo hymwldno', 'jnio huhmltno', 'jyni huymlotn', 'jnia huimldwn', 'jjnw himlitne', 'jnoe hmaaltnw'}, {'jwny hhumltno', 'jnoh hmualotn', 'jnii homlidno', 'jynw hmwlitno', 'jneh himlitny', 'jnuo himlidun'}, {'jinw hmaoltnw', 'jynu huymlotn', 'jwny hmaildnw', 'jnow hwymlotn', 'jeny hmaolden', 'jiny hoimlwtn'}, {'jnyw hmahlodn', 'jniw hmaalutn', 'jyny huumlotn', 'jnow hymlwtno', 'jnno hiimlitn', 'jeny heimltnu'}, {'jnio hmeolotn', 'jnni hmaaltno', 'jiny hmaoltny', 'jjno hemlotno', 'jnow hmahltny', 'jnoo hoimlitn'}, {'jwna hoimlytn', 'jneu huhmltno', 'jynu hmuylotn', 'jyne himuldno', 'jnuh hmalutno', 'jeny hmahlodn'}, {'jnih himloitn', 'jnue himlitny', 'jnou hoimldno', 'jnow hmwylotn', 'jwne hmuwlotn', 'jnio hmaolodn'}, {'jniu hmewlotn', 'jyno hmaeltno', 'jnew himloitn', 'jnnw hmahldyn', 'jnue hmawlwtn', 'jyny heimlutn'}, {'jnio homlitno', 'jjno hmaylodn', 'jiny hmawldun', 'jniy himlitne', 'jnoi hmayltna', 'jnew hmawlitn'}, {'jneo hmayletn', 'jnio hymlytno', 'jnii hmeyltno', 'jnno hmaultnu', 'jeny hmoelotn', 'jnna hmaulodn'}, {'jnni hemlwtno', 'jnno hyymltno', 'jynw humlatno', 'jnww hiimldin', 'jnio heimltno', 'jnyw hhmeldno'}, {'jnna hymlitno', 'jnoe hwmlitny', 'jjni hmaulytn', 'jnnw hywmltno', 'jnie hmaultnu', 'jwni hmoaltno'}, {'jwnw hmaeletn', 'jnuw hmoulotn', 'jnwy hoimlitn', 'jneu hhimlitn', 'jneo hiomlotn', 'jenw homlitne'}, {'jnni heumlotn', 'juny hoimletn', 'jnie hemlitnw', 'jjno himlitni', 'jniw humlitno', 'jjnw hohmlotn'}, {'jjna hhimletn', 'jynw hmawldun', 'jwne hmaalodn', 'jjne heimltni', 'jnoy hhimltny', 'jnne hmuyltno'}, {'jnuw hhmlidno', 'jjne hiimldin', 'jnih homyldno', 'jyny himlidan', 'jiny hmuildno', 'jnio humletno'}, {'jyny hmaulutn', 'jnoo hiomltno', 'jnnu hmoylotn', 'jwne hwmlitne', 'jnww hewmltno', 'jniy hoomltno'}, {'jyny hmawletn', 'jnia hiemlotn', 'jnih hymlwtno', 'jwne hwmlitnw', 'jnna hmawlytn', 'jnuh hmahletn'}, {'jnwy hyymlotn', 'jnuw hmuyltno', 'jnow hywmlotn', 'jnew hemwldno', 'jnni hmealtno', 'jeny hmeyltno'}, {'jjne hmaaltnu', 'jenw hmuhltno', 'jnoi hmayltnu', 'jnou hymlitne', 'juny hymlitnw', 'jnew hhmlitna'}, {'jwnu homlytno', 'jyne hmaelitn', 'jynw homlidno', 'jyno hmalidun', 'jnii homlatno', 'juny hhimlitn'}, {'jjnu hmaultno', 'jnnu hiimlytn', 'jnih hwmeldno', 'jwno hmuylotn', 'jnoi homletno', 'jnni hmahletn'}, {'jwna hiimlotn', 'jinw hmyylotn', 'jnoi hymlytno', 'jjnu hymlwtno', 'jnei homlidno', 'jjnw hywmlotn'}, {'jnii hmaoltny', 'jnio hmalwtno', 'jnoh hwmwldno', 'jyni hhimlitn', 'jnne hhimltni', 'jnuy hmlaitun'}, {'jwnw hhimlytn', 'jnow hmaoldno', 'jneh hiemlotn', 'jyno hmawltno', 'jnuo huimltnu', 'jnna himletno'}, {'jjny hhimlodn', 'jnuy hmahlutn', 'jnne hoimlodn', 'jnoi homlytno', 'jynu hmyyltno', 'jwnu hmaolotn'}, {'jyna hwmlidwn', 'juny hmaelytn', 'jnnu hwmlitnu', 'jniw huomltno', 'jwny hmahlotn', 'jyny hmaoldun'}, {'jnne hmyylotn', 'jwni hhimldno', 'jnou hwmlidan', 'jnue hoimlwtn', 'jwnw hmwwlotn', 'jnny hihmltno'}, {'jwnw homyldno', 'jniw hmialdno', 'jwno hhmlidno', 'jnii hemwldno', 'jjno huimldwn', 'jenw houmltno'}, {'jwne hmaaltny', 'jiny himlitne', 'jnuh heomltno', 'jnyw hhimltnu', 'jwna hmauletn', 'jjnw hoemltno'}, {'jjny hmyyltno', 'jynu hemeldno', 'jneo hmaolodn', 'jnui homletno', 'jnnw humwldno', 'jjnw homlitne'}, {'jwni hiomlotn', 'jynu hmeoltno', 'juny hmeultno', 'jjny hmealtno', 'jwnw hmahltno', 'jyne hymlitne'}, {'jnei hymlitne', 'jwnw hmylitno', 'jnww hwmlitnu', 'jnne hemlutno', 'jwna hhmlidno', 'jjnu hwwmlotn'}, {'jnny hmawlotn', 'juny huomlotn', 'jneo homlidwn', 'jniu heumltno', 'jnoo hwmlitnu', 'jnio hmlaitun'}, {'jjno hmawltnw', 'jwnu hmawltno', 'jnie hmoeltno', 'jnou hhimletn', 'jnee hmaoltno', 'jniw hmawlodn'}, {'jnww heimldno', 'jnii howmlotn', 'jnno hmaultnw', 'jnea hmaoletn', 'jjni hymlitna', 'jnia hmuhltno'}, {'jwnu homeldno', 'jjnu hmaelatn', 'jnea hemlidno', 'jnoi humeldno', 'jnuy hmaoltno', 'jwna hmalitno'}, {'jnuy humlidun', 'jnuo hmeultno', 'jnnw hmaildno', 'jnou hymlitnu', 'jjne hewmltno', 'jyny hoimlytn'}, {'jnoh homlytno', 'jnne hoymlotn', 'jjne hmaelodn', 'jniu hymeldno', 'jwna humlidyn', 'jwno hymlotno'}, {'jenw hmaulotn', 'jnia hmaylitn', 'jeny hmahltnw', 'jniy hmawlotn', 'jnih hmalwtno', 'jnuo huumltno'}, {'jinw humlytno', 'jnii homlotno', 'junw hhmlitni', 'jyna hoomltno', 'jnww hmalatno', 'jneh hmaaltno'}, {'jnuw huimldwn', 'jwna hmeeltno', 'jyna hmywlotn', 'jnoy hymlutno', 'jnne homeldno', 'junw hwmlytno'}, {'jniw hiimltno', 'jney hmywlotn', 'jnyw hmalitna', 'jnoe hmayltno', 'jjnw hmawlatn', 'jnui hwmlidin'}, {'jinw hemlidno', 'jnui hmaeltno', 'jnyw huimlatn', 'jnna haimldno', 'jynw hemuldno', 'jnuw hmaoltne'}, {'jnoh hhimltni', 'jnue hmaoltnu', 'jniw hhimltnw', 'jnui hhemltno', 'jeny humlytno', 'jnuo hmuhlotn'}, {'jnuu hymlytno', 'jynu hmeolotn', 'jjno humlidno', 'jenw hymlitna', 'jniu houmltno', 'jnee hmialdno'}, {'jwnu huimlitn', 'jnuh homlidan', 'jyna hemlidin', 'jnuo himliden', 'jeny huwmltno', 'jjnu hmohlotn'}, {'jnea hiimlotn', 'jnou hmalutno', 'jyna hiwmlotn', 'jnoh himlitnu', 'jjni homlitny', 'jwny humlotno'}, {'jwno hoimltno', 'jwny huimldno', 'jnii hwmloitn', 'jyne hiemltno', 'jnoh hhhmltno', 'jnoe himlotno'}, {'jyne hmaultna', 'jnuu hmaildna', 'jnoh humlatno', 'jnne hwmlitnu', 'jniw hhwmlotn', 'jjno hmualtno'}, {'jnuh hywmlotn', 'jwne hmaulodn', 'jniw hmywltno', 'jyny huimltno', 'jnew hhimldyn', 'jwno huemltno'}, {'jnow hywmltno', 'jnii hmaoltny', 'jnoh hmaildnu', 'jwno homlidun', 'jnui himlutno', 'jnna hmawldno'}, {'jniy homlitne', 'jnyw hmaalden', 'jwne hwmlitnu', 'jenw hmaylotn', 'jwno hymlitnu', 'jnny huimlytn'}, {'jneu hiimldin', 'jnih hmaulotn', 'jwny hmawlutn', 'jnui hmaoldno', 'jnna hmalidno', 'jnou hmaeltna'}, {'jnih hmelitno', 'jnou hmwylotn', 'jney hoimldno', 'jnny hoomltno', 'jniu hoimlotn', 'jneh hmawlytn'}, {'jnoy hhmlitny', 'jwna huhmltno', 'jnoo hmwlitno', 'jnei hhmlidno', 'jnio hymlitno', 'jniu homlidin'}, {'jnuy hmualtno', 'jnni howmlotn', 'jwnu hmahltna', 'jyny hmulitno', 'jnie hemlidun', 'jyno huimlotn'}, {'jyno hemlitne', 'jnuo humyldno', 'jwni hoimlotn', 'jnih heimlotn', 'jneo himletno', 'junw hmayldun'}, {'jneh hmawlodn', 'jnoh hemlidyn', 'juny humlitna', 'jjnu hhomltno', 'jnea huimltni', 'jnna himlitni'}, {'jwni huimltni', 'jyna hmoalotn', 'jyni hwmlidan', 'jyno hwmletno', 'jnea hmehlotn', 'jnoh huymlotn'}, {'jnyy hmahlotn', 'jnoe hmaylwtn', 'jwnu hoimltny', 'jinw hoimldwn', 'jnnu hewmlotn', 'jwna hemlitno'}, {'jjnu hoimlden', 'jnui hoimldun', 'jnna hmualtno', 'jjno hmeeltno', 'jnne hmaolodn', 'jnow hhmlitni'}, {'jwne hmolitno', 'jnnw hmalytno', 'jyna himlidin', 'jjnw hiimlwtn', 'jnei himlidno', 'jjna hmewlotn'}, {'jyna hmooltno', 'jwna hiimldin', 'jnow heimltnw', 'jynw hwmlidno', 'jniw hymyldno', 'jnio hoimltno'}, {'jyny hmowlotn', 'jnea hmaolwtn', 'juny hmoultno', 'jneu hmewlotn', 'jniu hmalwtno', 'jyni hmaelotn'}, {'jnuy himlidan', 'jneu hmayltnw', 'jnea hmaaltnu', 'jnow hmlaitwn', 'jwna hoomltno', 'jjnu humlidun'}, {'jnoh hhimletn', 'jnie humlidwn', 'jnyw hmwyltno', 'jenw hmaylytn', 'jnew hmulitno', 'jneu hoimlatn'}, {'jney hmaeltna', 'jnuy hhmlitny', 'jyni hmaoldun', 'jnnu hmaultni', 'jnua hhimltno', 'jjnw hmaelwtn'}, {'jneu hohmltno', 'jwne huimltna', 'jniw hmuoltno', 'jneo hmahlwtn', 'jnna hhumlotn', 'jnno hhmlitni'}, {'jnyy houmlotn', 'jyne himlwtno', 'jwno hmaultni', 'jnuh homlidyn', 'jneo hymlitne', 'jniy hmualtno'}, {'jnih heumlotn', 'jinw hmaalden', 'jwne heimltnu', 'jnoy hhmlatno', 'jjni himlidno', 'jnoo hmalwtno'}, {'jwne hmaultna', 'jnoy hymlidno', 'jyna humlytno', 'jjnw hmaylotn', 'jyny hmauldun', 'jnnu hymlidwn'}, {'jwnu homliden', 'jnee hhmwldno', 'jneu hymlitnu', 'jnow hmaulotn', 'jjnw hmaultna', 'jniu hmaeletn'}, {'jnee hmaalodn', 'jynw hmaoltnw', 'jnyw hmaelwtn', 'jyny huimltny', 'jjni hoimlwtn', 'jinw hwmlutno'}, {'jney hmuwltno', 'jnww hhmlitne', 'jyno hmaolwtn', 'jnue hmohlotn', 'jniw hmaeltny', 'junw hhmlitno'}, {'jyne hemlidyn', 'jnea himlidyn', 'jniy hmaolwtn', 'jjnu hmaulytn', 'jnih hmuoltno', 'jnou hhymlotn'}, {'jwno hemlitni', 'jnwy hoimldwn', 'jniy hhwmlotn', 'jnii hemlidno', 'jnou hmaulotn', 'jjni hmaylitn'}, {'jnni hohmlotn', 'jnee himlidno', 'jneo howmltno', 'jnie hmylitno', 'jnue hmaultne', 'jinw hmaylatn'}, {'jney himlidwn', 'jnoy hmaoltny', 'jwni hewmltno', 'jjny humlatno', 'jyna hhomlotn', 'jwnu hoimlden'}]
+joan hamilton       : DEBUG: Additional rule variations: {'hamilton          joan', 'joanhamilton'}
+joan hamilton       : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 8
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "joan hamilton": {
+            "first_name": {
+                "score": 0.6765670592553034,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 1.0,
+                        "combined": 0.5
+                    },
+                    "count": {
+                        "actual": 6,
+                        "expected": 4.38,
+                        "score": 0.8437803950353558
+                    },
+                    "uniqueness": {
+                        "unique_count": 6,
+                        "total_count": 6,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "jnuh",
+                            "phonetic_score": 0.8847997785244828,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "jnuo",
+                            "phonetic_score": 0.8847997785244828,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "jjne",
+                            "phonetic_score": 0.8847997785244828,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "jnny",
+                            "phonetic_score": 0.8847997785244828,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "jyno",
+                            "phonetic_score": 0.8847997785244828,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "jnia",
+                            "phonetic_score": 0.8847997785244828,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.6765670592553034,
+            "final_score": 0.6745869807375761,
+            "variation_count": 8,
+            "non_rule_compliant_variations_count": 6,
+            "rule_compliant_variations_count": 2,
+            "last_name": {
+                "score": 0.6765670592553034,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 1.0,
+                        "combined": 0.5
+                    },
+                    "count": {
+                        "actual": 6,
+                        "expected": 4.38,
+                        "score": 0.8437803950353558
+                    },
+                    "uniqueness": {
+                        "unique_count": 6,
+                        "total_count": 6,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "hmaaltny",
+                            "phonetic_score": 0.4086199363978286,
+                            "orthographic_score": 0.375,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hmalitny",
+                            "phonetic_score": 0.4086199363978286,
+                            "orthographic_score": 0.375,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hmoultno",
+                            "phonetic_score": 0.4086199363978286,
+                            "orthographic_score": 0.375,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hmahlodn",
+                            "phonetic_score": 0.4086199363978286,
+                            "orthographic_score": 0.375,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "himlitne",
+                            "phonetic_score": 0.4086199363978286,
+                            "orthographic_score": 0.375,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hohmlotn",
+                            "phonetic_score": 0.4086199363978286,
+                            "orthographic_score": 0.375,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_all_spaces": [
+                            "joanhamilton"
+                        ],
+                        "name_parts_permutations": [
+                            "hamilton          joan"
+                        ],
+                        "replace_random_consonant_with_random_consonant": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "joanhamilton": [
+                            "remove_all_spaces"
+                        ],
+                        "hamilton          joan": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.25,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.6666666666666666,
+        "by_name": {
+            "joan hamilton": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_all_spaces": [
+                            "joanhamilton"
+                        ],
+                        "name_parts_permutations": [
+                            "hamilton          joan"
+                        ],
+                        "replace_random_consonant_with_random_consonant": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "joanhamilton": [
+                            "remove_all_spaces"
+                        ],
+                        "hamilton          joan": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.25,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "average_quality": 0.6745869807375761,
+    "final_reward": 0.6745869807375761
+}
+joan hamilton       : DEBUG: ----------------------------------------------------------------------------------------------------

@@ -1,0 +1,2653 @@
+abu haydar          : INFO: Generating variations for abu haydar
+abu haydar          : INFO: ----------------------------------------------------------------------------------------------------
+abu haydar          : INFO: Effective rules: ['remove_random_vowel']
+abu haydar          : INFO: ----------------------------------------------------------------------------------------------------
+abu haydar          : INFO: Min Required Rule Variation Set: [{'ab hayDAR', 'bU HaYDaR', 'ABu Hydar', 'ab haYdAR', 'ABu hYdAr', 'aBU hydar', 'aB HAydAr', 'Abu haYDr', 'ab HAydar', 'bu HaydAr', 'AbU HyDar', 'ABU HYDar', 'AbU HAYdR', 'aBu HAYdR', 'aBU haYDR', 'bU hAYDAr', 'ABU hAYDR', 'abu hYDar', 'aBU hayDr', 'AB hAYdaR', 'ABU hAYDr', 'aB haYdAR', 'AbU hYDAr', 'aBU HayDr', 'bu hAYdAr', 'Bu Haydar', 'Bu HAYdAr', 'aB HayDar', 'bU HAYdaR', 'Abu HyDAR', 'abU HaYdr', 'Ab haydAR', 'bU hAyDar', 'bU HaydAR', 'BU HAyDar', 'AB haYDAR', 'bu HAyDaR', 'aBu haYdr', 'AbU HYdAr', 'ab hAydAr', 'AbU HydAr', 'ABu hYdAR', 'AbU hYdaR', 'AbU hYDar', 'AB HaYdar', 'Abu HayDR', 'aBu hayDr', 'AbU hyDar', 'ABu HyDAR', 'Ab HAyDaR', 'ABU HayDR', 'abu HAYdR', 'Abu hAydr', 'aB hayDAr', 'aBu HAyDr', 'ab HAyDAR', 'abu hYDAr', 'abu hAYdR', 'ab haYdaR', 'abU HAYdr', 'Bu haYdar', 'AB hAYDAR', 'AB HayDar', 'bU haydAr', 'abu haYdr', 'AbU hydar', 'Abu HyDAr', 'AB hAyDaR', 'bu hAYdar', 'abu hyDaR', 'Ab HayDar', 'ABU HYdar', 'Abu HayDr', 'BU HAydAr', 'BU hAYdaR', 'Abu hAyDr', 'bu hAYDar', 'aB haYDaR', 'Ab HaYdAR', 'Abu hAYdr', 'Ab HaYDAr', 'Bu HaYDaR', 'Bu hAYdaR', 'bu hAYdaR', 'bU hayDar', 'Ab hAYdar', 'bu hayDAR', 'Bu HAYDar', 'bu HAYdAr', 'BU hayDar', 'ABu haYDr', 'Bu HAYDaR', 'Abu HAYdR', 'aBu hAydr', 'BU hAydar', 'AbU HYdAR', 'abu hAydR', 'BU HAydar', 'aBU hYDar', 'ABu hYdaR'}]
+abu haydar          : INFO: ----------------------------------------------------------------------------------------------------
+abu haydar          : INFO: First name: abu
+abu haydar          : INFO: Last name: haydar
+abu haydar          : INFO: ----------------------------------------------------------------------------------------------------
+abu haydar          : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (1, 2), (0, 4), (1, 3), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (0, 7), (1, 6), (2, 5), (3, 4), (0, 8), (1, 7), (2, 6), (3, 5), (0, 9), (1, 8), (2, 7), (3, 6), (0, 10), (1, 9), (2, 8), (3, 7), (4, 6), (0, 11), (1, 10), (2, 9), (3, 8), (4, 7)]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 1 / 34: rule_count/nonrule_count: 0/1------------------------------
+abu haydar          : DEBUG: O: [0, 0, 0, 1]
+abu haydar          : DEBUG: P: [1, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [0, 0, 0, 1]
+abu haydar          : DEBUG: P: [1, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.50958811]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 2 / 34: rule_count/nonrule_count: 0/2------------------------------
+abu haydar          : DEBUG: O: [1, 1, 0, 0]
+abu haydar          : DEBUG: P: [2, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [1, 1, 0, 0]
+abu haydar          : DEBUG: P: [2, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.76039699]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 3 / 34: rule_count/nonrule_count: 0/3------------------------------
+abu haydar          : DEBUG: O: [1, 1, 0, 1]
+abu haydar          : DEBUG: P: [3, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 1, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [1, 1, 0, 1]
+abu haydar          : DEBUG: P: [3, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.78163282]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 4 / 34: rule_count/nonrule_count: 1/2------------------------------
+abu haydar          : DEBUG: O: [1, 1, 0, 0]
+abu haydar          : DEBUG: P: [2, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [1, 1, 0, 0]
+abu haydar          : DEBUG: P: [2, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.96039699]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 5 / 34: rule_count/nonrule_count: 0/4------------------------------
+abu haydar          : DEBUG: O: [2, 2, 0, 0]
+abu haydar          : DEBUG: P: [4, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [2, 2, 0, 0]
+abu haydar          : DEBUG: P: [4, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.79058704]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 6 / 34: rule_count/nonrule_count: 1/3------------------------------
+abu haydar          : DEBUG: O: [1, 1, 0, 1]
+abu haydar          : DEBUG: P: [3, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 1, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [1, 1, 0, 1]
+abu haydar          : DEBUG: P: [3, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.98163282]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 7 / 34: rule_count/nonrule_count: 0/5------------------------------
+abu haydar          : DEBUG: O: [2, 2, 0, 1]
+abu haydar          : DEBUG: P: [5, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 2, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [2, 2, 0, 1]
+abu haydar          : DEBUG: P: [5, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.77894206]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 8 / 34: rule_count/nonrule_count: 1/4------------------------------
+abu haydar          : DEBUG: O: [2, 2, 0, 0]
+abu haydar          : DEBUG: P: [4, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [2, 2, 0, 0]
+abu haydar          : DEBUG: P: [4, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.89058704]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 9 / 34: rule_count/nonrule_count: 2/3------------------------------
+abu haydar          : DEBUG: O: [1, 1, 0, 1]
+abu haydar          : DEBUG: P: [3, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 1, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [1, 1, 0, 1]
+abu haydar          : DEBUG: P: [3, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.98163282]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 10 / 34: rule_count/nonrule_count: 0/6------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.75680508]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 11 / 34: rule_count/nonrule_count: 1/5------------------------------
+abu haydar          : DEBUG: O: [2, 2, 0, 1]
+abu haydar          : DEBUG: P: [5, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 2, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [2, 2, 0, 1]
+abu haydar          : DEBUG: P: [5, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.87894206]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 12 / 34: rule_count/nonrule_count: 2/4------------------------------
+abu haydar          : DEBUG: O: [2, 2, 0, 0]
+abu haydar          : DEBUG: P: [4, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [2, 2, 0, 0]
+abu haydar          : DEBUG: P: [4, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.89058704]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 13 / 34: rule_count/nonrule_count: 0/7------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.73530814]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 14 / 34: rule_count/nonrule_count: 1/6------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.82347175]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 15 / 34: rule_count/nonrule_count: 2/5------------------------------
+abu haydar          : DEBUG: O: [2, 2, 0, 1]
+abu haydar          : DEBUG: P: [5, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 2, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [2, 2, 0, 1]
+abu haydar          : DEBUG: P: [5, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.87894206]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 16 / 34: rule_count/nonrule_count: 3/4------------------------------
+abu haydar          : DEBUG: O: [2, 2, 0, 0]
+abu haydar          : DEBUG: P: [4, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 2, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [2, 2, 0, 0]
+abu haydar          : DEBUG: P: [4, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.89058704]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 17 / 34: rule_count/nonrule_count: 0/8------------------------------
+abu haydar          : DEBUG: O: [4, 4, 0, 0]
+abu haydar          : DEBUG: P: [8, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 4, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [4, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [4, 4, 0, 0]
+abu haydar          : DEBUG: P: [8, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.72235003]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 18 / 34: rule_count/nonrule_count: 1/7------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.80197481]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 19 / 34: rule_count/nonrule_count: 2/6------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.82347175]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 20 / 34: rule_count/nonrule_count: 3/5------------------------------
+abu haydar          : DEBUG: O: [2, 2, 0, 1]
+abu haydar          : DEBUG: P: [5, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 2, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [2, 2, 0, 1]
+abu haydar          : DEBUG: P: [5, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [2]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.87894206]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 21 / 34: rule_count/nonrule_count: 0/9------------------------------
+abu haydar          : DEBUG: O: [4, 4, 0, 1]
+abu haydar          : DEBUG: P: [9, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 4, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [4, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [4, 4, 0, 1]
+abu haydar          : DEBUG: P: [9, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.70907416]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 22 / 34: rule_count/nonrule_count: 1/8------------------------------
+abu haydar          : DEBUG: O: [4, 4, 0, 0]
+abu haydar          : DEBUG: P: [8, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 4, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [4, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [4, 4, 0, 0]
+abu haydar          : DEBUG: P: [8, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.7890167]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 23 / 34: rule_count/nonrule_count: 2/7------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.80197481]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 24 / 34: rule_count/nonrule_count: 3/6------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.82347175]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 25 / 34: rule_count/nonrule_count: 0/10------------------------------
+abu haydar          : DEBUG: O: [5, 5, 0, 0]
+abu haydar          : DEBUG: P: [10, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 5, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [5, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [5, 5, 0, 0]
+abu haydar          : DEBUG: P: [10, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.70166414]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 26 / 34: rule_count/nonrule_count: 1/9------------------------------
+abu haydar          : DEBUG: O: [4, 4, 0, 1]
+abu haydar          : DEBUG: P: [9, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 4, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [4, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [4, 4, 0, 1]
+abu haydar          : DEBUG: P: [9, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.75907416]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 27 / 34: rule_count/nonrule_count: 2/8------------------------------
+abu haydar          : DEBUG: O: [4, 4, 0, 0]
+abu haydar          : DEBUG: P: [8, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 4, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [4, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [4, 4, 0, 0]
+abu haydar          : DEBUG: P: [8, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.7890167]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 28 / 34: rule_count/nonrule_count: 3/7------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.80197481]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 29 / 34: rule_count/nonrule_count: 4/6------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 0]
+abu haydar          : DEBUG: P: [6, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.82347175]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 30 / 34: rule_count/nonrule_count: 0/11------------------------------
+abu haydar          : DEBUG: O: [5, 5, 0, 1]
+abu haydar          : DEBUG: P: [11, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 5, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [5, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [5, 5, 0, 1]
+abu haydar          : DEBUG: P: [11, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [5, 5, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.69334065]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 31 / 34: rule_count/nonrule_count: 1/10------------------------------
+abu haydar          : DEBUG: O: [5, 5, 0, 0]
+abu haydar          : DEBUG: P: [10, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 5, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [5, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [5, 5, 0, 0]
+abu haydar          : DEBUG: P: [10, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [5]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.75166414]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 32 / 34: rule_count/nonrule_count: 2/9------------------------------
+abu haydar          : DEBUG: O: [4, 4, 0, 1]
+abu haydar          : DEBUG: P: [9, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 4, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [4, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [4, 4, 0, 1]
+abu haydar          : DEBUG: P: [9, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.75907416]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 33 / 34: rule_count/nonrule_count: 3/8------------------------------
+abu haydar          : DEBUG: O: [4, 4, 0, 0]
+abu haydar          : DEBUG: P: [8, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 4, 0, 0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: p_level: 0, O: [4, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [4, 4, 0, 0]
+abu haydar          : DEBUG: P: [8, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [4]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.7890167]
+abu haydar          : INFO: ------------------------------Trying rule_count_pair 34 / 34: rule_count/nonrule_count: 4/7------------------------------
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [0, 3, 0, 1]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [10]
+abu haydar          : DEBUG: [15]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: p_level: 0, O: [3, 0, 0, 0]
+abu haydar          : DEBUG: [16]
+abu haydar          : DEBUG: [52]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: abu, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: abu, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: O: [3, 3, 0, 1]
+abu haydar          : DEBUG: P: [7, 0, 0, 0]
+abu haydar          : WARNING: Remains: 0
+abu haydar          : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+abu haydar          : DEBUG: [8]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [20]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [3]
+abu haydar          : DEBUG: [0]
+abu haydar          : DEBUG: [1]
+abu haydar          : DEBUG: final:
+abu haydar          : DEBUG: name: haydar, l_level: 0
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 1
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: name: haydar, l_level: 2
+abu haydar          : DEBUG: --------------------------------------------------
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+abu haydar          : DEBUG: scores: [0.80197481]
+abu haydar          : DEBUG: ----------------------------------------------------------------------------------------------------
+abu haydar          : DEBUG: Best score achieved: 0.9816328190270629
+abu haydar          : DEBUG: Best selected: 1/3
+abu haydar          : DEBUG: Rule variations: [{'ab hayDAR', 'bU HaYDaR', 'ABu Hydar', 'ab haYdAR', 'ABu hYdAr', 'aBU hydar', 'aB HAydAr', 'Abu haYDr', 'ab HAydar', 'bu HaydAr', 'AbU HyDar', 'ABU HYDar', 'AbU HAYdR', 'aBu HAYdR', 'aBU haYDR', 'bU hAYDAr', 'ABU hAYDR', 'abu hYDar', 'aBU hayDr', 'AB hAYdaR', 'ABU hAYDr', 'aB haYdAR', 'AbU hYDAr', 'aBU HayDr', 'bu hAYdAr', 'Bu Haydar', 'Bu HAYdAr', 'aB HayDar', 'bU HAYdaR', 'Abu HyDAR', 'abU HaYdr', 'Ab haydAR', 'bU hAyDar', 'bU HaydAR', 'BU HAyDar', 'AB haYDAR', 'bu HAyDaR', 'aBu haYdr', 'AbU HYdAr', 'ab hAydAr', 'AbU HydAr', 'ABu hYdAR', 'AbU hYdaR', 'AbU hYDar', 'AB HaYdar', 'Abu HayDR', 'aBu hayDr', 'AbU hyDar', 'ABu HyDAR', 'Ab HAyDaR', 'ABU HayDR', 'abu HAYdR', 'Abu hAydr', 'aB hayDAr', 'aBu HAyDr', 'ab HAyDAR', 'abu hYDAr', 'abu hAYdR', 'ab haYdaR', 'abU HAYdr', 'Bu haYdar', 'AB hAYDAR', 'AB HayDar', 'bU haydAr', 'abu haYdr', 'AbU hydar', 'Abu HyDAr', 'AB hAyDaR', 'bu hAYdar', 'abu hyDaR', 'Ab HayDar', 'ABU HYdar', 'Abu HayDr', 'BU HAydAr', 'BU hAYdaR', 'Abu hAyDr', 'bu hAYDar', 'aB haYDaR', 'Ab HaYdAR', 'Abu hAYdr', 'Ab HaYDAr', 'Bu HaYDaR', 'Bu hAYdaR', 'bu hAYdaR', 'bU hayDar', 'Ab hAYdar', 'bu hayDAR', 'Bu HAYDar', 'bu HAYdAr', 'BU hayDar', 'ABu haYDr', 'Bu HAYDaR', 'Abu HAYdR', 'aBu hAydr', 'BU hAydar', 'AbU HYdAR', 'abu hAydR', 'BU HAydar', 'aBU hYDar', 'ABu hYdaR'}]
+abu haydar          : DEBUG: Nonrule variations: [{'abe hiydar', 'aibu HAYDER', 'AWB Huydar'}, {'abo hoydar', 'abiu HOYDAr', 'Aib heydir'}, {'abuo HIYDAR', 'AHB Hayder', 'abO hoydar'}, {'abe hayder', 'Awb heydor', 'abeu HAYDEr'}, {'ahbu HOYDAR', 'abO huydar', 'ABo hiydor'}, {'abiu HAYDOr', 'abI huydar', 'AHB heydor'}, {'aobu HUYDAr', 'AIB hoydor', 'abA hayder'}, {'abA huydar', 'awbu HAYDur', 'ABo hiydur'}, {'abeu HEYDAr', 'ABI heydir', 'abo hiydar'}, {'abiu HAYDur', 'Aib heydor', 'abB hoydar'}, {'ahbu HOYDAr', 'AIB Hayder', 'aba hoydar'}, {'abuh HAYDUR', 'abO hayder', 'ABe HUydar'}, {'abua HAYDIR', 'ABb heydir', 'abI heydar'}, {'ABE hiydor', 'abbu HEYDAR', 'abe haydor'}, {'ahbu HOYDAr', 'Awb Huydar', 'abA hoydar'}, {'abA huydar', 'ABA heydor', 'ahbu HAYDIr'}, {'ABa hiydur', 'abau HAYDOR', 'abb heydar'}, {'abuo HAYDir', 'abi haydir', 'ABB hiydur'}, {'awbu HOYDAr', 'ABE hiydor', 'aba haydor'}, {'ABO huydur', 'aibu HAYDOr', 'abI heydar'}, {'ABA hoydir', 'ahbu HEYDAr', 'abE huydar'}, {'awbu HAYDUR', 'AIB huyder', 'abi haydor'}, {'abo hoydar', 'abua HIYDAR', 'Aub hoydir'}, {'AIb hoydur', 'aobu HAYDir', 'abb heydar'}, {'AWb HUydar', 'abeu HAYDur', 'abA hoydar'}, {'AIB heyder', 'abiu HOYDAr', 'abE huydar'}, {'ABa hoydur', 'abe heydar', 'abui HAYDOr'}, {'AIb heydir', 'abeu HAYDER', 'abA haydur'}, {'abau HAYDir', 'aba hiydar', 'Ahb HUydar'}, {'abo hoydar', 'AIB huydur', 'abuu HUYDAR'}, {'abe hayder', 'aobu HAYDEr', 'ABi hoyder'}, {'aba hayder', 'aubu HIYDAr', 'Ahb Hayder'}, {'abE heydar', 'abiu HAYDER', 'ABE huydir'}, {'ABa heydir', 'abI huydar', 'abuo HAYDER'}, {'abua HEYDAr', 'ABE huydur', 'abe haydur'}, {'AHb hiydor', 'abuu HAYDIR', 'abb haydor'}, {'abui HAYDor', 'AHb heydor', 'aba haydor'}, {'AWB huydor', 'abB hoydar', 'aubu HOYDAr'}, {'aba haydur', 'Awb hiydur', 'abiu HAYDor'}, {'abau HUYDAr', 'abe haydor', 'ABE Huydar'}, {'abou HAYDER', 'Aib huydor', 'abA hayder'}, {'abuh HAYDur', 'aba hayder', 'ABe hoydor'}, {'aba hayder', 'ABe hiyder', 'abou HAYDUR'}, {'AWB Hayder', 'abou HAYDer', 'abI hayder'}, {'abI hayder', 'ABI hoydor', 'aibu HUYDAr'}, {'aubu HEYDAr', 'Aub hiydor', 'abB hiydar'}, {'abeu HEYDAr', 'abO haydor', 'Aub hiyder'}, {'abe hiydar', 'abuo HAYDur', 'Aib hiydir'}, {'abui HAYDOr', 'abb huydar', 'ABI huydor'}, {'aibu HUYDAr', 'ABE Huydar', 'abI haydur'}, {'abiu HIYDAR', 'abb haydur', 'ABI heyder'}, {'abuh HAYDIR', 'abb huydar', 'Awb heyder'}, {'AWB hiydor', 'abe hoydar', 'abuu HUYDAR'}, {'abo haydur', 'Aib hiydor', 'abau HOYDAr'}, {'abo huydar', 'ahbu HEYDAr', 'Awb huydor'}, {'ABi HUydar', 'abou HAYDUR', 'abO hoydar'}, {'abiu HOYDAR', 'AHb hiyder', 'abE haydir'}, {'AHb hoydur', 'abB hoydar', 'abou HOYDAr'}, {'abuh HAYDur', 'ABE hiydor', 'abe hiydar'}, {'abB haydir', 'ABI HAyder', 'abeu HEYDAr'}, {'Ahb hiydir', 'aba hiydar', 'abue HUYDAr'}, {'abo hoydar', 'ABB hoydor', 'abau HEYDAR'}, {'ahbu HUYDAR', 'ABa hiydir', 'abb hiydar'}, {'ABI hoydir', 'abuo HIYDAR', 'abO huydar'}, {'ABI hiydur', 'abuu HIYDAr', 'abE hoydar'}, {'Aib HUydar', 'abbu HAYDUR', 'abo hiydar'}, {'abuh HIYDAR', 'ABe heydur', 'abb hiydar'}, {'Ahb Hayder', 'abi huydar', 'ahbu HAYDUr'}, {'abou HAYDIR', 'abb hoydar', 'ABA heyder'}, {'abua HOYDAr', 'ABB HAyder', 'aba hoydar'}, {'Aib hoyder', 'abB heydar', 'aubu HAYDur'}, {'abuh HOYDAr', 'ABb hoydur', 'abi hoydar'}, {'abi hayder', 'abue HAYDEr', 'ABo heyder'}, {'abI hoydar', 'ABE hiyder', 'abeu HOYDAr'}, {'abua HAYDEr', 'abA haydor', 'ABE hiydur'}, {'abB haydir', 'aubu HAYDUR', 'Awb huydor'}, {'abE hiydar', 'Aub heydur', 'aobu HAYDIr'}, {'Aub heyder', 'abI huydar', 'abbu HUYDAr'}, {'aobu HAYDOr', 'ABe hiydir', 'aba huydar'}, {'abeu HAYDer', 'Awb hoydur', 'abA hayder'}, {'abB haydir', 'ABB Hayder', 'abue HAYDER'}, {'aibu HAYDUR', 'abO hoydar', 'AWb hoydur'}, {'abO hoydar', 'Ahb heyder', 'aobu HAYDor'}, {'aubu HAYDIR', 'ABi hiydur', 'abi haydur'}, {'abI hoydar', 'AHB huydor', 'abau HAYDIr'}, {'abbu HAYDUr', 'abI huydar', 'AIB hiyder'}, {'aibu HUYDAR', 'ABi HUydar', 'abb hoydar'}, {'ABe heydur', 'abiu HAYDUr', 'abB huydar'}, {'abuh HAYDer', 'ABO Huydar', 'abA hoydar'}, {'abb haydur', 'ABe huydor', 'abue HAYDEr'}, {'abB hayder', 'abou HAYDur', 'ABA huyder'}, {'abE haydor', 'ABO heydir', 'abeu HIYDAr'}, {'abo haydir', 'ahbu HAYDOR', 'ABa HAyder'}, {'ABE hoydur', 'abB huydar', 'aubu HAYDer'}, {'abbu HOYDAR', 'ABb hoydur', 'abI heydar'}, {'aubu HEYDAr', 'ABA huyder', 'abE huydar'}, {'AHb hoyder', 'abbu HAYDIr', 'abi hayder'}, {'Awb Hayder', 'abi huydar', 'abue HAYDIR'}, {'Ahb Hayder', 'aubu HAYDUR', 'aba haydor'}, {'AHB heydor', 'abO haydir', 'abou HUYDAR'}, {'Aib huydur', 'abb hiydar', 'abuh HAYDir'}, {'ABe Hayder', 'abi hayder', 'abuu HAYDUr'}, {'AIb hiydur', 'abau HIYDAr', 'abo hiydar'}, {'abue HIYDAR', 'AHB hiydor', 'abo hayder'}, {'ABo hiydir', 'abI heydar', 'abue HOYDAr'}, {'abue HUYDAR', 'aba hayder', 'ABB HAyder'}, {'ABi huydor', 'abe heydar', 'abua HEYDAR'}, {'Aib Huydar', 'abou HAYDIR', 'abA hoydar'}, {'aba haydur', 'abua HOYDAr', 'ABB hoydur'}, {'ABo hoydur', 'abB huydar', 'abbu HAYDur'}, {'abiu HAYDUR', 'abA hoydar', 'AIb Hayder'}, {'abui HAYDEr', 'ABB HAyder', 'abb hayder'}, {'Aib Huydar', 'abo huydar', 'abeu HAYDUr'}, {'ABb huyder', 'abO hoydar', 'abui HAYDIR'}, {'abui HIYDAr', 'Awb hiydor', 'abi haydor'}, {'ABa hiydur', 'abA hiydar', 'abui HIYDAr'}, {'ABO hoydir', 'abe heydar', 'ahbu HAYDEr'}, {'abO haydor', 'abuo HEYDAr', 'AIb hiyder'}, {'abua HAYDOR', 'abe haydur', 'AIb hiydir'}, {'abe heydar', 'awbu HAYDer', 'Ahb heyder'}, {'abi hiydar', 'abui HAYDER', 'ABA heyder'}, {'abE haydur', 'AWb heydur', 'abou HAYDOr'}, {'ABI heydur', 'abb haydor', 'abau HIYDAR'}, {'ABI heydur', 'abe hoydar', 'abau HAYDEr'}, {'abuo HIYDAr', 'abI huydar', 'AHb hoydir'}, {'abuo HAYDir', 'ABi hoydor', 'abe huydar'}, {'ahbu HAYDUR', 'abo haydor', 'AWB hiydur'}, {'ABi huydur', 'abuh HAYDOR', 'abA haydor'}, {'Awb huyder', 'abO hoydar', 'abui HEYDAR'}, {'abbu HAYDIr', 'abi hoydar', 'ABb hoydir'}, {'ABa heyder', 'abA heydar', 'aibu HAYDer'}, {'abO haydor', 'ABA huydor', 'abue HAYDOR'}, {'Awb hoydir', 'aibu HAYDur', 'abb heydar'}, {'AIb hoydur', 'abb haydor', 'abou HIYDAR'}, {'abB heydar', 'awbu HUYDAR', 'Aub hoydor'}, {'abbu HAYDir', 'abi heydar', 'ABE heydor'}, {'abiu HAYDOr', 'abe haydur', 'AHb Huydar'}, {'abA huydar', 'ABo heydir', 'abuo HEYDAr'}, {'awbu HUYDAr', 'ABA hiydor', 'abi hoydar'}, {'AWB hiydur', 'abuu HUYDAr', 'abi haydur'}, {'AHb hiyder', 'abI hayder', 'abuu HEYDAR'}, {'aobu HAYDUr', 'abi hiydar', 'ABb huydir'}, {'aobu HEYDAR', 'AWb HAyder', 'abi huydar'}, {'aubu HIYDAR', 'ABb hiyder', 'abi haydur'}, {'ABo hiyder', 'abI heydar', 'abau HOYDAr'}, {'aobu HEYDAR', 'abB huydar', 'AWB heydir'}, {'Aub HUydar', 'abbu HAYDEr', 'abb haydir'}, {'abui HUYDAr', 'abA huydar', 'Aib HUydar'}, {'abua HAYDUR', 'AHB HUydar', 'abe haydir'}, {'aibu HAYDir', 'abI heydar', 'ABB hoydur'}, {'ABb heydur', 'abI hayder', 'abui HOYDAR'}, {'ABA hoydir', 'abbu HAYDEr', 'aba hiydar'}, {'AIb Huydar', 'abui HAYDEr', 'abA hayder'}, {'awbu HOYDAr', 'Awb Huydar', 'abB haydor'}, {'abi heydar', 'AWb heydir', 'abua HAYDir'}, {'aobu HOYDAr', 'abb hoydar', 'Aib hoydur'}, {'abA huydar', 'abua HAYDOr', 'AHB hiydir'}, {'Aub heydur', 'abeu HAYDOr', 'abI haydur'}, {'ABb heydur', 'ahbu HAYDur', 'abi hoydar'}, {'abeu HAYDEr', 'abA hiydar', 'AHB Hayder'}, {'abua HUYDAR', 'ABi hoydir', 'abb haydor'}, {'abB hayder', 'aibu HAYDIR', 'AWB Hayder'}, {'abau HAYDOR', 'abA haydir', 'ABB huydur'}, {'abE heydar', 'Aib heydor', 'awbu HAYDIr'}, {'abI hayder', 'AHb hoydur', 'abau HAYDer'}, {'abO heydar', 'abiu HAYDUr', 'AIB hiydur'}, {'ABi hiydor', 'abuh HAYDOR', 'abB haydur'}, {'aba haydur', 'ABo Hayder', 'abeu HAYDUr'}, {'abI haydor', 'ahbu HEYDAR', 'AHb hiydur'}, {'aba haydur', 'awbu HEYDAr', 'ABb hiydir'}, {'abuh HEYDAR', 'abA huydar', 'AIb hiyder'}, {'aba hayder', 'ABI HUydar', 'aubu HAYDIr'}, {'abb haydur', 'abeu HAYDOR', 'AWb hiydor'}, {'ahbu HAYDur', 'AHb hoydir', 'abi heydar'}, {'Ahb huydir', 'abe hoydar', 'abua HAYDUr'}, {'abI hayder', 'AIB heydor', 'aubu HAYDur'}, {'abE haydur', 'ABI hiyder', 'awbu HEYDAR'}, {'aba heydar', 'AHB hiydur', 'abue HAYDor'}, {'abE haydor', 'ABo heydir', 'abua HIYDAR'}, {'abo haydur', 'Aub heydur', 'awbu HUYDAR'}, {'aba heydar', 'ABO HAyder', 'abua HAYDUR'}, {'ABb hiydir', 'abb haydir', 'abui HUYDAR'}, {'ABB hiyder', 'abui HOYDAR', 'abE hoydar'}, {'abo haydur', 'AWB huydir', 'abou HAYDer'}, {'ABO HUydar', 'abe haydor', 'abuh HAYDEr'}, {'abo huydar', 'aubu HAYDir', 'Aub heydor'}, {'abiu HUYDAR', 'ABa hoyder', 'abo hayder'}, {'abo haydir', 'AHb hoydur', 'abeu HUYDAR'}, {'ABa hoydur', 'abi huydar', 'aobu HOYDAR'}, {'abau HOYDAR', 'aba haydir', 'ABE hoydur'}, {'aubu HOYDAR', 'abe hoydar', 'ABO huyder'}, {'abI hayder', 'Awb heydur', 'abiu HOYDAr'}, {'abue HUYDAR', 'ABO hiydur', 'abb haydir'}, {'abue HAYDor', 'AHB Huydar', 'abe haydir'}, {'abau HAYDIr', 'abe hiydar', 'Awb heydor'}, {'Awb HAyder', 'abi heydar', 'abui HAYDER'}, {'AHB huydir', 'abou HAYDur', 'abO huydar'}, {'abe heydar', 'abue HEYDAr', 'ABe HUydar'}, {'AIb hoyder', 'abuo HAYDUR', 'aba haydor'}, {'ABb huydur', 'abE heydar', 'abuo HAYDER'}, {'abou HIYDAR', 'ABe heydur', 'aba haydor'}, {'abA huydar', 'AWB hiydir', 'aibu HEYDAR'}, {'aibu HAYDER', 'AWb huydir', 'abO haydur'}, {'ABb huyder', 'abB huydar', 'abbu HAYDUR'}, {'ABA hoydir', 'abi heydar', 'abue HAYDor'}, {'abO hiydar', 'abue HAYDEr', 'Aib hiyder'}, {'abau HAYDir', 'abo haydir', 'ABI hiydor'}, {'aubu HAYDIr', 'abE heydar', 'ABI HUydar'}, {'abuh HOYDAR', 'AWb HAyder', 'abe huydar'}, {'abB hiydar', 'abau HAYDIR', 'Ahb HUydar'}, {'AIB hiydor', 'abo haydir', 'abou HAYDIR'}, {'abE haydur', 'AIB hoydur', 'abou HOYDAR'}, {'abue HAYDUr', 'abA heydar', 'AIB hiydur'}, {'abe hayder', 'ABo HUydar', 'abuh HAYDIr'}, {'AWb huydor', 'abb hayder', 'aobu HIYDAr'}, {'Ahb hiyder', 'abI heydar', 'aobu HAYDUr'}, {'AWb huyder', 'aba hayder', 'abou HAYDEr'}, {'abeu HIYDAR', 'abi heydar', 'ABO huydor'}, {'aba haydir', 'ABB heydir', 'aobu HAYDOR'}, {'AHb HAyder', 'abb huydar', 'abbu HAYDur'}, {'AIB huydor', 'abO haydor', 'abue HAYDir'}, {'awbu HAYDOR', 'abA haydor', 'AIB huyder'}, {'abuo HUYDAr', 'AIB hoydur', 'abB huydar'}, {'ABa hiydor', 'abiu HAYDUR', 'aba huydar'}, {'aobu HEYDAR', 'abE haydor', 'AIB HUydar'}, {'abI hiydar', 'ahbu HUYDAR', 'ABa HUydar'}, {'abb hiydar', 'Aib hiydor', 'abiu HAYDer'}, {'ABb Hayder', 'abui HEYDAR', 'abB hoydar'}, {'AWB hoydor', 'abB huydar', 'abui HAYDur'}, {'abau HAYDIr', 'Aib HUydar', 'abi hiydar'}, {'aubu HAYDER', 'ABB huydur', 'aba hoydar'}, {'AIb Huydar', 'awbu HAYDUR', 'abo hiydar'}, {'abau HAYDur', 'Aib Hayder', 'abO huydar'}, {'ABo huydor', 'abua HEYDAr', 'abb haydir'}, {'abI haydir', 'AHB Huydar', 'abuh HIYDAR'}, {'awbu HAYDIr', 'AWb hiyder', 'abI haydur'}, {'abE hayder', 'abuu HUYDAR', 'Aub huydor'}, {'abeu HAYDur', 'abA hiydar', 'AIB hoydor'}, {'abou HAYDEr', 'AWb hiydor', 'abi haydor'}, {'ABI huyder', 'abb hoydar', 'abou HUYDAR'}, {'abo heydar', 'ABI Huydar', 'abiu HAYDir'}, {'ABA Huydar', 'abO hoydar', 'ahbu HOYDAR'}, {'ABA hoyder', 'abbu HIYDAr', 'abO haydur'}, {'ABI Hayder', 'aba hayder', 'aibu HAYDUR'}, {'awbu HAYDIr', 'Aib Hayder', 'abb heydar'}, {'aba haydur', 'ABo HUydar', 'abiu HAYDor'}, {'ABA heydur', 'abuo HAYDer', 'abB hoydar'}, {'abua HAYDUR', 'abi haydir', 'Aub hiydir'}, {'ABA hiydir', 'abau HAYDIR', 'abE huydar'}, {'aubu HAYDUr', 'ABa hoydir', 'abb haydor'}, {'ABE HUydar', 'aba hayder', 'abua HUYDAr'}, {'abB hayder', 'aobu HUYDAR', 'Ahb Hayder'}, {'ABe heyder', 'abB hiydar', 'ahbu HIYDAR'}, {'AHb huydur', 'abeu HOYDAr', 'abb haydor'}, {'aubu HAYDor', 'Aub huyder', 'abb huydar'}, {'abB hayder', 'abou HAYDIr', 'ABa Huydar'}, {'ABe huydur', 'abO heydar', 'abou HIYDAR'}, {'awbu HIYDAR', 'abA huydar', 'Awb HAyder'}, {'abo haydir', 'aibu HEYDAR', 'AWB hiyder'}, {'abB heydar', 'Awb huydor', 'aobu HAYDUr'}, {'aba haydur', 'abeu HAYDir', 'ABb HAyder'}, {'ABi heyder', 'abA hiydar', 'abou HAYDur'}, {'abI hoydar', 'abua HEYDAR', 'ABo huyder'}, {'abo haydir', 'abbu HIYDAR', 'Awb hoydur'}, {'abau HAYDIr', 'Aub hoydur', 'aba huydar'}, {'abo hoydar', 'ABE hoydir', 'abuo HAYDor'}, {'AWB hoydir', 'abb haydur', 'abbu HIYDAr'}, {'abbu HAYDIr', 'abe heydar', 'ABA heydir'}, {'abua HEYDAr', 'Awb huydur', 'abb heydar'}, {'abuh HEYDAR', 'abO hoydar', 'ABE heydor'}, {'ABB Hayder', 'abO hiydar', 'abou HAYDER'}, {'AWB huydor', 'abo haydor', 'abuu HAYDUr'}, {'aobu HIYDAR', 'ABi HUydar', 'abb hiydar'}, {'aibu HAYDir', 'ABB hoyder', 'abo hayder'}, {'ABE huydir', 'abuu HAYDIr', 'abO haydur'}, {'AIB huyder', 'abuu HAYDir', 'abe huydar'}, {'abou HOYDAr', 'abe haydor', 'ABB heyder'}, {'abe heydar', 'ABi hiydir', 'abau HAYDer'}, {'AWB Hayder', 'abua HAYDir', 'abB haydur'}, {'abua HUYDAR', 'AIb heyder', 'abE hayder'}, {'abua HUYDAr', 'AWB heydir', 'aba hoydar'}, {'abou HAYDOR', 'AHB hoydir', 'abO hiydar'}, {'ABa hoydor', 'abou HIYDAr', 'abB huydar'}, {'abiu HAYDer', 'AWb heyder', 'abi haydur'}, {'abI haydor', 'ABb HUydar', 'ahbu HAYDOR'}, {'abo haydur', 'abiu HAYDir', 'ABE hoyder'}, {'abo haydir', 'ahbu HEYDAR', 'Aib hoydur'}, {'abuh HIYDAR', 'AIb heydur', 'abO haydur'}, {'Ahb huydor', 'abO haydir', 'aibu HEYDAr'}, {'AWb huyder', 'aobu HAYDEr', 'abb heydar'}, {'ABb HAyder', 'abO haydir', 'abui HOYDAr'}, {'ABb Hayder', 'abB hoydar', 'abbu HAYDUr'}, {'ahbu HUYDAR', 'abA haydir', 'Ahb heyder'}, {'ABO huydor', 'abuu HAYDIr', 'aba haydor'}, {'abo hoydar', 'ABi heydur', 'abuh HUYDAr'}, {'ABB HUydar', 'ahbu HAYDOR', 'abO haydur'}, {'AIb hiydor', 'abou HAYDEr', 'abI haydur'}, {'abO hoydar', 'abbu HUYDAr', 'AWb hiydir'}, {'aobu HAYDOR', 'AWb huydur', 'abB huydar'}, {'AWB heydur', 'abE haydir', 'ahbu HOYDAR'}, {'abbu HEYDAr', 'AIB Hayder', 'abb hoydar'}, {'abua HIYDAr', 'AIb hiydur', 'aba hoydar'}, {'awbu HEYDAr', 'ABE hoydor', 'abe haydir'}, {'abuu HAYDir', 'AHB huydir', 'aba hiydar'}, {'abo heydar', 'Aub Huydar', 'awbu HUYDAR'}, {'aobu HAYDir', 'abi huydar', 'AWb Huydar'}, {'abiu HIYDAR', 'abe heydar', 'AWB hiydur'}, {'AIb heydir', 'awbu HAYDur', 'abe hiydar'}, {'abO heydar', 'aobu HUYDAR', 'Aib hiydor'}, {'abo hoydar', 'ABo heydur', 'abui HUYDAR'}, {'abuo HAYDOR', 'AWB hoydur', 'abO huydar'}, {'abui HUYDAr', 'abI haydor', 'ABI huydor'}, {'abeu HIYDAr', 'ABA hoydor', 'abo hiydar'}, {'AWB huydor', 'abbu HAYDOR', 'aba huydar'}, {'Aib heydur', 'abi haydir', 'abuu HAYDer'}, {'abB haydir', 'aibu HAYDor', 'Aub huydor'}, {'abI huydar', 'abui HAYDer', 'Aub huydur'}, {'abe hiydar', 'Ahb huydor', 'abui HUYDAR'}, {'abbu HOYDAR', 'abI hiydar', 'ABa hoydir'}, {'ABE Huydar', 'abeu HAYDUr', 'abi haydor'}, {'abb haydur', 'abue HAYDur', 'AWb Hayder'}, {'abau HUYDAr', 'ABo hoydur', 'abB hoydar'}, {'abue HAYDUR', 'ABb hiydir', 'abo hiydar'}, {'aobu HAYDur', 'AHb hoydor', 'abi huydar'}, {'abui HAYDUR', 'abO hayder', 'Ahb hoydir'}, {'abuu HUYDAr', 'abI hayder', 'ABB HAyder'}, {'abuh HUYDAr', 'abE hayder', 'ABE huydor'}, {'abO haydir', 'AIb huyder', 'abuu HEYDAR'}, {'abe hayder', 'ABA hoydor', 'aobu HAYDer'}, {'abbu HEYDAr', 'ABI HAyder', 'abb hoydar'}, {'ABo hiydir', 'abO hoydar', 'abuo HAYDur'}, {'aibu HAYDOr', 'AWB hoydor', 'abA haydir'}, {'AIb hoydur', 'abO haydir', 'aobu HAYDOr'}, {'ABa heydir', 'abuu HAYDor', 'aba huydar'}, {'AWB hoydir', 'abou HAYDER', 'abb hoydar'}, {'AWb hoyder', 'abiu HUYDAr', 'abI haydur'}, {'AHB heydor', 'abe heydar', 'abui HAYDOR'}, {'abua HAYDIR', 'abb hoydar', 'Aib heydir'}, {'ABe HAyder', 'awbu HAYDIr', 'abA hoydar'}, {'aba haydur', 'abuh HOYDAr', 'ABb huydur'}, {'aubu HAYDOr', 'ABb HAyder', 'abb hoydar'}, {'abI haydir', 'ABa HUydar', 'ahbu HAYDUR'}, {'abou HIYDAr', 'ABi huydir', 'abi haydur'}, {'Aub hiydur', 'abou HAYDer', 'abi haydur'}, {'abI huydar', 'Aib HUydar', 'ahbu HIYDAr'}, {'ABa hoydir', 'abau HIYDAr', 'abO huydar'}, {'abiu HIYDAR', 'abi hayder', 'ABa hoyder'}, {'ABO hoyder', 'abA hoydar', 'aobu HIYDAr'}, {'aibu HAYDUr', 'ABA hiyder', 'abi hiydar'}, {'abi hoydar', 'aibu HAYDER', 'AWb heydor'}, {'abuh HOYDAR', 'abB heydar', 'ABI Huydar'}, {'aobu HUYDAr', 'abo heydar', 'Aub hoydir'}, {'abO haydir', 'abuu HAYDor', 'Aib hoydur'}, {'AHb huydur', 'aibu HAYDor', 'abi hoydar'}, {'AHB hiydor', 'abb hayder', 'abuh HAYDOr'}, {'AHb huyder', 'abo haydur', 'abiu HUYDAr'}, {'ABB huydir', 'abua HIYDAr', 'abI haydur'}, {'abI haydor', 'aobu HEYDAr', 'AWB heydor'}, {'aba haydir', 'ABo hiydir', 'abuu HOYDAr'}, {'ABe Huydar', 'abue HAYDIr', 'abA hayder'}, {'abi hayder', 'ABI huydir', 'aobu HAYDUR'}, {'abuh HIYDAR', 'aba hayder', 'AIB hiyder'}, {'abI huydar', 'abuh HEYDAr', 'ABI huydor'}, {'abI heydar', 'ABa Hayder', 'abui HAYDUr'}, {'aba hayder', 'ABB hoydor', 'abou HOYDAr'}, {'ABe heyder', 'abuh HEYDAr', 'aba haydor'}, {'Aib hiyder', 'abbu HEYDAR', 'abA haydir'}, {'abiu HUYDAR', 'AWB hoydur', 'abA hayder'}, {'ABE huydor', 'abA heydar', 'ahbu HAYDor'}, {'abau HOYDAR', 'AWb Hayder', 'abA haydor'}, {'Ahb hiyder', 'abiu HUYDAR', 'abO haydur'}, {'aibu HUYDAR', 'ABi heyder', 'abO haydor'}, {'abou HEYDAR', 'abE hayder', 'ABi huydir'}, {'abeu HUYDAr', 'AIb heydir', 'abo hiydar'}, {'abE heydar', 'abuo HAYDUr', 'Awb hoydur'}, {'abua HEYDAr', 'abi hoydar', 'AIb hoydir'}, {'abe heydar', 'ABi Huydar', 'aubu HUYDAR'}, {'AIb hiydor', 'abi heydar', 'abau HAYDEr'}, {'Ahb HAyder', 'aobu HAYDIr', 'abo hiydar'}, {'abuh HAYDUR', 'AHb hiyder', 'abE hayder'}, {'Ahb HAyder', 'abeu HAYDOR', 'aba hoydar'}, {'abI hoydar', 'ABa heyder', 'ahbu HAYDOR'}, {'abI haydir', 'AWB heydor', 'awbu HUYDAR'}, {'abua HOYDAr', 'ABO hoydir', 'abI haydor'}, {'AHb heydir', 'abau HAYDOR', 'abo hiydar'}, {'abua HAYDir', 'ABo heydor', 'aba huydar'}, {'AWB heydur', 'abi hoydar', 'abeu HAYDUR'}, {'Ahb Hayder', 'abue HAYDUr', 'abI haydur'}, {'abou HAYDIr', 'ABa hoydor', 'aba hiydar'}, {'abuo HEYDAr', 'ABO heyder', 'abO haydur'}, {'aobu HAYDIR', 'abA heydar', 'Aib hiydir'}, {'abeu HAYDur', 'abI hayder', 'ABo hoyder'}, {'abue HEYDAR', 'Aib hiyder', 'abE hoydar'}, {'AIB huydor', 'abuo HAYDEr', 'abi haydur'}, {'abO haydor', 'abue HAYDER', 'AWB heydir'}, {'AHb heydur', 'abau HAYDER', 'abI haydur'}, {'aba heydar', 'Awb hiydor', 'awbu HAYDOR'}, {'abue HEYDAr', 'AWB heydir', 'abo hiydar'}, {'abuh HAYDor', 'abO huydar', 'Ahb HUydar'}, {'abo huydar', 'ABa heydor', 'aobu HAYDUr'}, {'abuu HEYDAr', 'Aub hoydur', 'aba hoydar'}, {'Aub hiydur', 'abE hayder', 'abuo HUYDAr'}, {'abui HIYDAr', 'abI hiydar', 'AWb heydur'}, {'abE hiydar', 'ABb HUydar', 'ahbu HOYDAR'}, {'abiu HAYDor', 'abA haydor', 'Ahb HUydar'}, {'Ahb hoydir', 'abO haydor', 'abou HIYDAR'}, {'abo haydur', 'aubu HAYDUR', 'ABe HAyder'}, {'AHb hoydor', 'abou HOYDAr', 'aba huydar'}, {'AIb Hayder', 'awbu HAYDIR', 'abO huydar'}, {'ABa hoydur', 'abE hayder', 'abua HAYDIr'}, {'aba haydur', 'abuu HEYDAR', 'ABE HUydar'}, {'abI hiydar', 'ABb HUydar', 'abua HAYDIr'}, {'ABb heydor', 'abI heydar', 'ahbu HOYDAr'}, {'abui HAYDEr', 'Awb Huydar', 'abB haydur'}, {'aibu HOYDAR', 'abe haydor', 'Aib hiydir'}, {'abiu HAYDOr', 'abo haydir', 'ABB huydir'}, {'abe hiydar', 'abuu HIYDAr', 'Aub hoydor'}, {'abe hiydar', 'ABi HAyder', 'awbu HAYDIR'}, {'ABO hiyder', 'abuu HAYDir', 'abb haydor'}, {'ABi huyder', 'abi heydar', 'aobu HAYDUR'}, {'abuu HAYDEr', 'abe hiydar', 'ABA heydur'}, {'abE hiydar', 'ABE hoydor', 'abeu HUYDAR'}, {'abue HIYDAR', 'abi hayder', 'AHB hoyder'}, {'ABA hoyder', 'abe heydar', 'abeu HAYDUR'}, {'abe hayder', 'abuo HAYDOR', 'ABb heyder'}, {'abue HAYDur', 'Ahb huyder', 'abo hayder'}, {'ABA huydor', 'abO hoydar', 'awbu HAYDor'}, {'abuh HAYDur', 'abo huydar', 'Ahb huyder'}, {'Awb hoydor', 'abE hiydar', 'ahbu HAYDIr'}, {'awbu HEYDAr', 'abb haydur', 'AIB heydur'}, {'abE haydur', 'ABb Huydar', 'ahbu HAYDOr'}, {'aobu HOYDAr', 'AWb Hayder', 'abi haydir'}, {'abeu HOYDAr', 'ABA HAyder', 'abb haydir'}, {'AHb heydir', 'abue HUYDAr', 'abi haydor'}, {'ABI heydur', 'awbu HAYDer', 'aba hiydar'}, {'aba heydar', 'abuu HAYDOR', 'Aib heydor'}, {'ABB hoydur', 'abo haydor', 'abui HOYDAr'}, {'abue HEYDAr', 'ABB huydur', 'abi haydur'}, {'abe hayder', 'AHB heydur', 'abuo HAYDOR'}, {'abiu HEYDAr', 'abI hiydar', 'ABo heyder'}, {'Awb heydir', 'abb hayder', 'abuu HEYDAR'}, {'ABE hoydir', 'abB heydar', 'abeu HIYDAr'}, {'abI haydir', 'ABo huydur', 'aubu HAYDER'}, {'abou HAYDUr', 'abe haydur', 'ABO hoydor'}, {'AIB Hayder', 'aba hiydar', 'abau HIYDAr'}, {'Awb huydur', 'abA hoydar', 'abiu HUYDAr'}, {'ABI huydir', 'abB heydar', 'abeu HOYDAR'}, {'AIb Huydar', 'abe haydur', 'abuu HAYDER'}, {'abuo HAYDOR', 'ABI heydir', 'abB haydor'}, {'ABB heydur', 'abi haydir', 'abau HAYDer'}, {'aibu HAYDir', 'abI haydor', 'ABA huyder'}, {'ABB hiyder', 'abau HAYDER', 'abe heydar'}, {'abuh HAYDur', 'abI hayder', 'Aib heydir'}, {'abua HAYDur', 'ABB hiydur', 'abO haydur'}, {'abI haydir', 'abiu HAYDOr', 'AIb hiydor'}, {'aobu HAYDur', 'abA haydir', 'Aib hiydor'}, {'abua HAYDor', 'abi haydir', 'Aib heydir'}, {'abI haydir', 'Awb heydur', 'ahbu HAYDUR'}, {'AWb huyder', 'abA hoydar', 'abuo HEYDAr'}, {'aibu HAYDir', 'abA huydar', 'AWB hiyder'}, {'abou HAYDur', 'Aub hoydir', 'aba haydor'}, {'abua HIYDAr', 'AWB hoydur', 'abe huydar'}, {'ABo HAyder', 'abo haydir', 'abui HAYDUr'}, {'abuo HAYDOR', 'ABI huyder', 'abA hayder'}, {'AIb Huydar', 'abou HAYDer', 'abB haydur'}, {'abO haydor', 'ABO Huydar', 'abuu HAYDOR'}, {'AHb hiydur', 'abO hiydar', 'ahbu HUYDAr'}, {'abou HAYDUR', 'ABO hoydor', 'abb heydar'}, {'Awb heydor', 'abuu HAYDOr', 'abb heydar'}, {'AWB huydor', 'abe hiydar', 'ahbu HIYDAR'}, {'abo huydar', 'aobu HAYDer', 'Awb HUydar'}, {'abI huydar', 'Awb heyder', 'aibu HUYDAr'}, {'aibu HAYDOR', 'ABa HUydar', 'abO hoydar'}, {'awbu HUYDAR', 'abA hoydar', 'Aub Hayder'}, {'aubu HAYDur', 'ABA huyder', 'abb heydar'}, {'aubu HIYDAr', 'Aub huydur', 'abE huydar'}, {'abue HUYDAr', 'ABA hiydur', 'abB huydar'}, {'aobu HAYDIR', 'AHB HUydar', 'aba hiydar'}, {'abE haydur', 'aubu HUYDAr', 'ABA heydir'}, {'abI haydor', 'ABe hiydir', 'abuh HUYDAr'}, {'abI hoydar', 'AWb hoyder', 'abuo HAYDer'}, {'Awb huydur', 'abI heydar', 'abuh HAYDEr'}, {'abua HOYDAR', 'AWb Huydar', 'abE haydir'}, {'abI hoydar', 'abua HOYDAR', 'ABi hiydor'}, {'abI hiydar', 'AWb heyder', 'abou HIYDAR'}, {'abI haydor', 'ABE huydur', 'abou HAYDUr'}, {'abA hiydar', 'ABo hiydir', 'awbu HAYDIR'}, {'abE heydar', 'AWb heydir', 'abou HAYDUr'}, {'aobu HAYDur', 'Aub hiydur', 'abi huydar'}, {'abE heydar', 'ABO hoydur', 'aibu HIYDAr'}, {'abua HAYDEr', 'Ahb heydur', 'abO hiydar'}, {'aba haydir', 'awbu HUYDAR', 'AIB huydir'}, {'aobu HIYDAR', 'AWb heyder', 'abb haydir'}, {'abua HAYDEr', 'abe haydur', 'ABE huydor'}, {'ahbu HAYDIR', 'ABe hoydor', 'abb hoydar'}, {'aobu HAYDIR', 'abB hiydar', 'AWb heyder'}, {'abI haydir', 'abou HAYDor', 'AHB HAyder'}, {'awbu HOYDAR', 'AWb hiydur', 'aba hoydar'}, {'abI hayder', 'Ahb hiyder', 'abui HAYDir'}, {'AIB hoydir', 'abO haydir', 'abuo HOYDAr'}, {'AIB huydor', 'abuh HAYDOR', 'abe haydor'}, {'abI hiydar', 'AWB huydur', 'abau HAYDer'}, {'AHb HAyder', 'abO haydir', 'abuo HEYDAr'}, {'abeu HAYDer', 'abO heydar', 'ABA hoydur'}, {'ABA hoyder', 'abe haydir', 'abou HUYDAR'}, {'awbu HIYDAR', 'Awb heydir', 'abi huydar'}, {'abau HAYDIr', 'ABA heydur', 'abA heydar'}, {'abau HAYDER', 'ABe heydur', 'abO haydir'}, {'abua HUYDAr', 'AWB HUydar', 'abA hayder'}, {'ABO huyder', 'abau HAYDur', 'abb hayder'}, {'abe haydur', 'AWB hiydir', 'awbu HEYDAR'}, {'AIb Hayder', 'abau HAYDOr', 'abo hayder'}, {'abua HAYDEr', 'AIB huydir', 'abB hiydar'}, {'abau HOYDAR', 'ABo hiydur', 'abA hayder'}, {'abI hiydar', 'abeu HIYDAR', 'Ahb hiydor'}, {'abI huydar', 'Ahb heyder', 'abuh HAYDOr'}, {'abA hiydar', 'ABi hoydur', 'aibu HAYDIr'}, {'ahbu HOYDAr', 'ABb hoydir', 'abb haydir'}, {'abuh HIYDAr', 'abi hoydar', 'ABa heyder'}, {'aubu HEYDAr', 'ABi hoydor', 'abo hiydar'}, {'abui HAYDEr', 'abe hoydar', 'ABo hoydur'}, {'abo haydir', 'awbu HAYDOR', 'AWb HAyder'}, {'abiu HEYDAR', 'abB hiydar', 'ABE heydir'}, {'AWB Hayder', 'abE haydor', 'abui HAYDOr'}, {'abuu HUYDAr', 'ABA huydor', 'abO hoydar'}, {'Awb huyder', 'abo haydor', 'abuo HAYDIR'}, {'AHb hiydur', 'abuo HAYDIr', 'abo hayder'}, {'aubu HEYDAR', 'AIb heydor', 'abO haydur'}, {'AIB hoydor', 'aba hiydar', 'ahbu HUYDAr'}, {'AIB hoydor', 'ahbu HEYDAr', 'abE hoydar'}, {'ABi hoydur', 'abA haydur', 'aubu HUYDAR'}, {'Aub hiydur', 'abB hiydar', 'abbu HAYDUR'}, {'ABO heydor', 'abA haydir', 'abou HAYDor'}, {'ABe hoydor', 'abo haydor', 'aibu HOYDAr'}, {'abui HAYDEr', 'ABA heydor', 'aba hiydar'}, {'abI huydar', 'AIb hoydir', 'awbu HAYDIR'}, {'abB haydir', 'ABb HUydar', 'ahbu HAYDOr'}, {'aba hiydar', 'abou HUYDAR', 'Aib hiydir'}, {'awbu HUYDAr', 'AHB hiydir', 'abi haydor'}, {'ABe hoydur', 'abO haydor', 'aubu HIYDAr'}, {'ABa hoydor', 'abe heydar', 'abuu HIYDAr'}, {'abiu HOYDAR', 'ABA huydur', 'abE haydir'}, {'abue HAYDUR', 'AIB hoydur', 'abI haydur'}, {'abua HAYDIR', 'ABi heyder', 'abb hayder'}, {'AWB hiydor', 'aba heydar', 'abue HAYDOr'}, {'aba heydar', 'ABO heydir', 'abiu HAYDir'}, {'abue HAYDOR', 'ABE heydur', 'abA hayder'}, {'abua HUYDAR', 'ABi hoydor', 'abA hoydar'}, {'ABB heydor', 'abi hiydar', 'abua HAYDUr'}, {'abA haydor', 'AWB HAyder', 'abui HAYDER'}, {'abau HAYDER', 'abi hayder', 'ABo heydir'}, {'ABE hiydor', 'abui HOYDAr', 'abB haydur'}, {'abou HAYDIr', 'abA haydur', 'ABO Huydar'}, {'abuh HAYDEr', 'Ahb heydir', 'abE hoydar'}, {'Aub heydir', 'ahbu HAYDIR', 'abB haydur'}, {'ABa huydir', 'abA haydur', 'aobu HAYDEr'}, {'abeu HAYDor', 'abo haydor', 'ABa heydor'}, {'abeu HIYDAr', 'AIb hiydir', 'abB hoydar'}, {'abeu HIYDAR', 'abi heydar', 'Ahb huydor'}, {'ABO hiyder', 'aobu HAYDUR', 'aba hoydar'}, {'abau HAYDir', 'abe hoydar', 'Awb hoydur'}, {'abui HUYDAr', 'Ahb huydir', 'abO haydur'}, {'ahbu HIYDAR', 'AWb hiydur', 'abB huydar'}, {'aba heydar', 'ABe heyder', 'ahbu HAYDor'}, {'ABI heydor', 'aibu HAYDEr', 'abI haydur'}, {'abo huydar', 'ABO hiydor', 'awbu HEYDAR'}, {'ABb Hayder', 'abE haydir', 'abuo HEYDAr'}, {'AIb heydir', 'abO hoydar', 'awbu HAYDor'}, {'AWB huydor', 'aubu HEYDAR', 'abB hoydar'}, {'Ahb hiydur', 'abeu HAYDor', 'abB huydar'}, {'AHb hoyder', 'abI hayder', 'abuh HUYDAr'}, {'ABa hiydur', 'abiu HIYDAR', 'abB huydar'}, {'Awb hiyder', 'abI haydor', 'abbu HIYDAr'}, {'Ahb hiydur', 'abuo HAYDur', 'abA heydar'}, {'abuo HEYDAR', 'Aub HAyder', 'abB hoydar'}, {'abo heydar', 'abuu HAYDer', 'AIB hoydur'}, {'abE haydur', 'abuh HOYDAr', 'ABe hiydir'}, {'aibu HOYDAr', 'abe huydar', 'ABE hoyder'}, {'ABB heydur', 'abbu HUYDAr', 'abi haydur'}, {'abau HAYDIr', 'abo haydor', 'ABo heydor'}, {'abb haydur', 'abuu HAYDUR', 'AWb hiyder'}, {'Aub huydir', 'abui HAYDer', 'abA hayder'}, {'aobu HAYDur', 'abA haydor', 'AWB Huydar'}, {'aba heydar', 'abuu HEYDAr', 'AIb huydur'}, {'ABb hiydor', 'abe hiydar', 'abau HUYDAR'}, {'AWb hoyder', 'abua HAYDOR', 'aba huydar'}, {'ABb HAyder', 'abue HAYDir', 'abO huydar'}, {'ABI hiydir', 'abeu HAYDER', 'abo hayder'}, {'ABa huydir', 'abuh HAYDUR', 'abI haydur'}, {'abo heydar', 'Awb heydur', 'aubu HUYDAr'}, {'abE heydar', 'AHB hoydur', 'aubu HAYDer'}, {'ahbu HAYDUr', 'ABi HUydar', 'abI haydor'}, {'abO haydir', 'aibu HOYDAr', 'ABA heydir'}, {'abui HUYDAr', 'abi heydar', 'AWb hoyder'}, {'AHB Hayder', 'abb hoydar', 'awbu HAYDOr'}, {'ABa heydir', 'abiu HAYDIr', 'abI haydur'}, {'ABA hoydir', 'abB heydar', 'abui HAYDOR'}, {'AHb hoydor', 'aibu HAYDor', 'abo haydor'}, {'AIb huyder', 'aubu HUYDAR', 'abA hayder'}, {'abbu HAYDIr', 'abI hayder', 'Ahb huyder'}, {'abB hayder', 'ABb Hayder', 'abou HAYDOr'}, {'abau HAYDUR', 'abe hoydar', 'ABI heyder'}, {'aubu HAYDir', 'abe haydir', 'ABb hiydur'}, {'AHb heyder', 'abiu HAYDur', 'aba hoydar'}, {'Awb hiydur', 'abo haydir', 'awbu HAYDur'}, {'ABA huydir', 'abb hayder', 'aubu HAYDur'}, {'Aib huydur', 'abbu HAYDor', 'abI haydur'}, {'abI hiydar', 'ABb hiydir', 'abiu HUYDAr'}, {'abbu HAYDUr', 'abe haydir', 'AIb hiyder'}, {'aobu HIYDAr', 'abO huydar', 'ABI hoydur'}, {'abi hayder', 'AWB huyder', 'abui HAYDIr'}, {'abue HOYDAR', 'ABa huyder', 'abB hiydar'}, {'ABi huydor', 'abua HAYDIr', 'abE huydar'}, {'abui HAYDEr', 'abe hoydar', 'ABi hoydor'}, {'Aib HAyder', 'abO hoydar', 'aobu HAYDor'}, {'abB haydir', 'Ahb heyder', 'abou HIYDAR'}, {'ABi hiydir', 'abuo HIYDAr', 'abb heydar'}, {'ABo Huydar', 'abo haydor', 'aubu HAYDUR'}, {'abE haydur', 'abua HAYDEr', 'AIb hoydor'}, {'abO haydir', 'ABi Huydar', 'abui HAYDIR'}, {'AIb hiydor', 'abo haydir', 'ahbu HAYDir'}, {'ABA heydor', 'abi hiydar', 'abuu HAYDer'}, {'AWb Hayder', 'awbu HIYDAr', 'abE haydir'}, {'abB heydar', 'AWb hoydir', 'abua HAYDUr'}, {'ABi heyder', 'abo haydur', 'abua HAYDER'}, {'abo hoydar', 'ABe hiyder', 'abui HOYDAR'}, {'AWB huydir', 'abuo HEYDAr', 'abI haydur'}, {'abuh HUYDAR', 'ABi heyder', 'abo huydar'}, {'abuu HIYDAr', 'ABI hiydur', 'abb haydir'}, {'Aib HUydar', 'abe heydar', 'abuu HAYDIr'}, {'aibu HAYDir', 'ABo heydur', 'abO haydor'}, {'abA haydur', 'aubu HAYDur', 'Ahb HUydar'}, {'abiu HAYDIr', 'ABO huydor', 'abe huydar'}, {'AIB HAyder', 'abo haydur', 'ahbu HIYDAr'}, {'Aub huydir', 'abe haydur', 'abuo HUYDAr'}, {'abbu HAYDER', 'AHB hoydur', 'abo hayder'}, {'ABi hoydir', 'abA haydir', 'abuh HAYDIR'}, {'ABE hoydur', 'abA heydar', 'ahbu HAYDIr'}, {'ABI HAyder', 'aba hiydar', 'aubu HAYDir'}, {'abO haydor', 'abau HUYDAR', 'AHB hoyder'}, {'aobu HAYDer', 'Ahb huydur', 'aba hoydar'}, {'abO heydar', 'ahbu HAYDIr', 'ABE Huydar'}, {'awbu HAYDOR', 'abB heydar', 'ABe heydir'}, {'ahbu HOYDAr', 'ABA hoydor', 'abA hoydar'}, {'abui HEYDAR', 'Ahb huydur', 'abe huydar'}, {'Awb hoydor', 'abe heydar', 'aobu HAYDOR'}, {'abI hiydar', 'abiu HAYDIr', 'ABe hiydir'}, {'aobu HOYDAr', 'ABe huyder', 'abA heydar'}, {'aobu HAYDER', 'Aub huydur', 'abO haydur'}, {'aubu HAYDUr', 'ABo heydur', 'abe haydir'}, {'abe hayder', 'abua HAYDIR', 'Ahb heydor'}, {'abE haydur', 'Aub hoydir', 'abua HAYDIR'}, {'Ahb hiyder', 'abO haydor', 'abuu HAYDOr'}, {'Ahb huydir', 'abO haydir', 'abuh HAYDEr'}, {'ABA huydir', 'abau HAYDor', 'abe haydir'}, {'ABA hoydur', 'abe haydur', 'abui HUYDAR'}, {'abuo HEYDAr', 'abb hayder', 'AHb Hayder'}, {'abE haydur', 'abuu HUYDAR', 'Awb hiydir'}, {'abA haydur', 'abiu HOYDAr', 'AHB HAyder'}, {'abbu HAYDor', 'ABo huydur', 'abE hoydar'}, {'abue HAYDor', 'ABo huydur', 'abA heydar'}, {'ABo HUydar', 'abI hayder', 'abua HAYDir'}, {'abI heydar', 'abuo HUYDAR', 'AIb hiyder'}, {'abbu HAYDOR', 'AIb heydur', 'abB haydur'}, {'aba heydar', 'AHB hoydor', 'aubu HAYDur'}, {'ahbu HAYDir', 'abe hiydar', 'ABI hiyder'}, {'AWb Hayder', 'abE hayder', 'ahbu HAYDOr'}, {'ABI huydur', 'abi haydir', 'abau HAYDOR'}, {'ABI hoydur', 'abua HAYDEr', 'abE huydar'}, {'AHb HAyder', 'abua HAYDOr', 'abe huydar'}, {'AIB hoydir', 'abau HEYDAr', 'abI haydur'}, {'AIb Huydar', 'abuh HAYDer', 'abB haydor'}, {'AWb Hayder', 'abua HAYDer', 'abi haydor'}, {'Aib Huydar', 'abI hayder', 'abiu HEYDAr'}, {'abuo HOYDAR', 'abI huydar', 'ABe heydur'}, {'AHB heyder', 'aba hiydar', 'abuo HOYDAr'}, {'abiu HAYDIr', 'abI hayder', 'Aub Huydar'}, {'abo hoydar', 'ABa huydor', 'abui HIYDAR'}, {'abb haydur', 'awbu HAYDur', 'Awb hoydur'}, {'abI haydir', 'ABO hiydur', 'abou HAYDER'}, {'AWb huyder', 'abB haydir', 'aubu HAYDEr'}, {'abiu HAYDIR', 'Aub Huydar', 'abB haydor'}, {'aba haydur', 'aubu HAYDOR', 'ABi huydir'}, {'abO hiydar', 'Awb hoydir', 'abou HIYDAr'}, {'abua HUYDAR', 'abE heydar', 'ABb HAyder'}, {'abI hiydar', 'ABi Hayder', 'aubu HUYDAR'}, {'ABa hoyder', 'abO haydir', 'abiu HAYDir'}, {'abuh HOYDAR', 'Aub heydir', 'abI haydor'}, {'abb haydur', 'abue HAYDER', 'ABe huydir'}, {'Aib heydur', 'abb hayder', 'aibu HUYDAr'}, {'ABa heydir', 'abE heydar', 'abiu HAYDIR'}, {'ABb huydur', 'abeu HEYDAr', 'abi hoydar'}, {'abua HAYDOR', 'abb haydor', 'ABE heydor'}, {'ABB hoydor', 'abbu HIYDAR', 'abB huydar'}, {'aba haydur', 'AHB Huydar', 'awbu HAYDOr'}, {'abA hiydar', 'abue HAYDir', 'ABE hoyder'}, {'ABe hoydur', 'abE heydar', 'abeu HAYDer'}, {'abE haydur', 'Ahb heydur', 'aobu HAYDEr'}, {'abbu HAYDer', 'abB haydor', 'AWB HUydar'}, {'abo hoydar', 'abuh HAYDOR', 'AWb hiydur'}, {'abou HAYDIr', 'ABE hoydir', 'abb hoydar'}, {'awbu HAYDIr', 'abB huydar', 'ABe hoyder'}, {'abuu HAYDIR', 'abe haydir', 'AWb huydir'}, {'AHB hiydor', 'abau HUYDAR', 'abA haydir'}, {'ABA hoydur', 'abA hoydar', 'aubu HAYDer'}, {'ABO HUydar', 'abb hiydar', 'ahbu HAYDer'}, {'abui HEYDAR', 'AIB hiydor', 'abe haydor'}, {'Aub HUydar', 'ahbu HOYDAr', 'abi haydur'}, {'abbu HAYDUr', 'ABO HUydar', 'abA haydir'}, {'ABI heydor', 'abb hiydar', 'abui HAYDIr'}, {'abe hayder', 'ahbu HEYDAr', 'Awb hoydur'}, {'abO hiydar', 'ABa heydor', 'abou HAYDOr'}, {'abA hiydar', 'ABB HAyder', 'abuo HAYDOr'}, {'abi huydar', 'Awb hoydir', 'abua HAYDor'}, {'abI haydor', 'abuu HOYDAR', 'AWB Huydar'}, {'abo haydur', 'Aub hiydur', 'abuu HEYDAR'}, {'AHb huydur', 'abou HAYDor', 'abo hiydar'}, {'ahbu HAYDUr', 'abO heydar', 'AWb huydor'}, {'AHb hoydur', 'abB hoydar', 'abua HAYDIr'}, {'Awb heydir', 'abe haydir', 'aobu HOYDAR'}, {'abau HAYDur', 'abo haydir', 'AHb HUydar'}, {'abuh HAYDur', 'AHb hiydir', 'abe hiydar'}, {'aubu HUYDAR', 'abA haydor', 'ABO hoydor'}, {'abI hiydar', 'abau HUYDAr', 'ABI heydir'}, {'ABi hoydur', 'abo hayder', 'ahbu HAYDOR'}, {'ABb heydor', 'abo haydur', 'abuu HAYDir'}, {'AHB heydur', 'abou HAYDUR', 'abi hiydar'}, {'ahbu HAYDUr', 'AHb hoydor', 'abO haydir'}, {'abiu HAYDIr', 'ABb HUydar', 'abb haydor'}, {'abO hayder', 'ABI hoydor', 'abua HAYDOr'}, {'ABa heydir', 'abi haydir', 'abuo HIYDAR'}, {'abO haydir', 'abua HAYDIr', 'Awb heyder'}, {'ABE huydir', 'abua HAYDor', 'aba hoydar'}, {'ahbu HEYDAR', 'Awb heydor', 'aba huydar'}, {'aba haydir', 'ABI huydur', 'abua HAYDOR'}, {'abo hoydar', 'AWB hiydir', 'abui HAYDIr'}, {'ahbu HEYDAr', 'ABi hoydor', 'abO huydar'}, {'abB hayder', 'aubu HAYDUr', 'ABA heydir'}, {'aibu HAYDOr', 'AHB huydor', 'abe huydar'}, {'aibu HAYDir', 'ABi heydur', 'abe haydir'}, {'AWB huydir', 'abau HEYDAR', 'abI haydur'}, {'AIb huydur', 'abui HAYDEr', 'abO hiydar'}, {'ABi hoydur', 'abuo HAYDUr', 'abe haydor'}, {'abou HEYDAr', 'abB heydar', 'AHB heydir'}, {'ABi heydor', 'abua HEYDAr', 'abB haydur'}, {'abe hayder', 'ABb hiydir', 'abuh HOYDAR'}, {'abi hoydar', 'AWB hoyder', 'abua HIYDAR'}, {'Awb hiydor', 'ahbu HAYDir', 'abO haydur'}, {'abiu HOYDAR', 'ABA HUydar', 'abb haydur'}, {'abA haydir', 'AHb heydor', 'aibu HAYDer'}, {'aibu HAYDUR', 'ABO huyder', 'abA hayder'}, {'aubu HAYDIr', 'Aib HAyder', 'abe haydor'}, {'abb haydur', 'abou HOYDAr', 'Aub huydur'}, {'abE haydur', 'abbu HAYDOr', 'ABb hoydir'}, {'abui HOYDAR', 'abb hiydar', 'ABB heyder'}, {'aba hayder', 'abbu HAYDOR', 'AHb heydor'}, {'ABB hoyder', 'abO hoydar', 'aobu HOYDAR'}, {'AIb heydur', 'abO hoydar', 'aibu HUYDAr'}, {'abua HOYDAr', 'AHb huydur', 'abB hiydar'}, {'ABo huydor', 'abou HAYDir', 'abB huydar'}, {'abe hiydar', 'AIB Hayder', 'aibu HAYDIR'}, {'Aub HUydar', 'abI hiydar', 'aubu HAYDER'}, {'AHb hiyder', 'abbu HEYDAr', 'abE hoydar'}, {'abuh HAYDUr', 'AIb heydir', 'abA haydur'}, {'abuu HOYDAR', 'ABa Hayder', 'abB haydur'}, {'ABb heydor', 'abe haydur', 'abui HUYDAR'}, {'abbu HAYDor', 'ABO HUydar', 'abe haydor'}, {'Aub HUydar', 'abau HAYDOr', 'abo hiydar'}, {'abuu HAYDOR', 'ABB heyder', 'aba haydor'}, {'AIb HUydar', 'abeu HIYDAR', 'abE huydar'}, {'abbu HIYDAr', 'abE haydir', 'Aib heydir'}, {'ABi heydur', 'abO haydir', 'abua HAYDIr'}, {'abo heydar', 'ABa huydor', 'abau HIYDAR'}, {'AIB hiydir', 'abau HAYDOR', 'abB hoydar'}, {'abou HIYDAr', 'ABb huydor', 'abe haydor'}, {'abeu HAYDer', 'abe haydur', 'AWB heydir'}, {'abuo HEYDAR', 'Aib huydur', 'abi hiydar'}, {'ABO Huydar', 'abA haydor', 'aubu HAYDUR'}, {'abA huydar', 'abua HAYDer', 'Aib heyder'}, {'abau HAYDER', 'Aub HAyder', 'abe huydar'}, {'abi huydar', 'AWb heydur', 'abue HAYDur'}, {'abb haydor', 'abou HIYDAr', 'ABE Huydar'}, {'abuh HAYDOR', 'ABa hiyder', 'abi haydor'}, {'ahbu HEYDAR', 'abb hiydar', 'AHB hoydor'}, {'aobu HUYDAr', 'ABB huydor', 'abB hoydar'}, {'abeu HAYDur', 'Awb huydir', 'abb haydor'}, {'abbu HOYDAR', 'ABB HAyder', 'abA hoydar'}, {'awbu HAYDIr', 'AIb hiydur', 'aba hoydar'}, {'Ahb hoydor', 'abi hoydar', 'ahbu HIYDAR'}, {'abou HAYDOR', 'AIb huyder', 'abB huydar'}, {'aubu HEYDAr', 'ABe hoydir', 'abo hiydar'}, {'abe heydar', 'abuo HUYDAR', 'ABo hiydor'}, {'ABb heydur', 'abau HAYDor', 'abA hoydar'}, {'abI heydar', 'AWB HUydar', 'abuu HAYDUR'}, {'abau HAYDIr', 'AIB HUydar', 'abO huydar'}, {'ABa hiydir', 'aobu HAYDEr', 'abe haydur'}, {'aibu HAYDUR', 'ABi hoyder', 'aba huydar'}, {'abau HAYDir', 'ABB hoydor', 'abA hoydar'}, {'aba hayder', 'AWb hoydir', 'abbu HAYDUR'}, {'AIB hoydur', 'aibu HAYDIR', 'abE huydar'}, {'ABi huydur', 'abuo HUYDAR', 'abO haydur'}, {'Aub HUydar', 'abI haydor', 'abiu HAYDEr'}, {'abI haydir', 'ABe HUydar', 'awbu HAYDir'}, {'abI heydar', 'ABb hiydir', 'abua HAYDER'}, {'AIB hiydor', 'abi hiydar', 'aibu HUYDAr'}, {'abue HAYDor', 'abe heydar', 'ABe hiydir'}, {'Aib hoydir', 'abb haydor', 'ahbu HAYDor'}, {'ABO heydur', 'abO haydir', 'aibu HEYDAR'}, {'abua HOYDAr', 'ABi heyder', 'abO hayder'}, {'abuh HAYDUr', 'ABo hiydir', 'abi haydur'}, {'abi hayder', 'abau HAYDEr', 'ABI huydor'}, {'abiu HAYDOr', 'ABi huydir', 'abi haydur'}, {'abo haydur', 'aibu HIYDAr', 'ABo hoyder'}, {'ABO huydur', 'abe haydir', 'abuh HAYDor'}, {'abou HEYDAR', 'ABe Huydar', 'abi haydur'}, {'abue HAYDOR', 'ABO hiydor', 'abE huydar'}, {'ABi HUydar', 'abuu HAYDor', 'abA haydir'}, {'aba hayder', 'AWb huydor', 'abuh HUYDAr'}, {'AHB heydur', 'abE hiydar', 'abiu HOYDAr'}, {'abiu HEYDAr', 'abE hiydar', 'ABE hoyder'}, {'abe hayder', 'Aub hiydur', 'abue HIYDAr'}, {'ABO huydur', 'aibu HAYDEr', 'aba haydor'}, {'aobu HOYDAr', 'abB huydar', 'Aib hoydur'}, {'AIB HAyder', 'aobu HEYDAR', 'abB heydar'}, {'abO heydar', 'ABO HAyder', 'ahbu HIYDAr'}, {'ABi huydur', 'abbu HIYDAr', 'abA hoydar'}, {'ABa huydir', 'abau HEYDAr', 'abE huydar'}, {'AHb hiydur', 'ahbu HAYDEr', 'abB haydur'}, {'abuu HAYDEr', 'abA haydir', 'AHb Hayder'}, {'ahbu HIYDAr', 'abb haydor', 'ABe hiydor'}, {'aibu HAYDER', 'abe huydar', 'ABB heyder'}, {'abua HAYDIR', 'Awb hoydir', 'abE haydir'}, {'abeu HAYDir', 'ABE huydor', 'abO hoydar'}, {'abeu HAYDir', 'abb haydur', 'ABi Hayder'}, {'abbu HAYDUr', 'abO haydir', 'ABA heydir'}, {'AWb huydor', 'abuo HAYDor', 'abA hayder'}, {'Ahb hiyder', 'abiu HAYDEr', 'abA heydar'}, {'AHB huydur', 'abb huydar', 'abua HEYDAr'}, {'abou HIYDAR', 'abO heydar', 'ABb hoyder'}, {'abo hoydar', 'ABe heyder', 'aibu HOYDAR'}, {'ABB hiyder', 'abo haydir', 'abuh HAYDir'}, {'abua HOYDAr', 'AWb heydir', 'abe huydar'}, {'abe haydor', 'ABo huydir', 'abou HOYDAR'}, {'ABo HUydar', 'abua HAYDIr', 'abb heydar'}, {'AWB hoydor', 'abO hiydar', 'abuo HAYDIr'}, {'Ahb Hayder', 'abuo HIYDAr', 'abA hayder'}, {'aba haydir', 'abeu HAYDUR', 'ABb hoyder'}, {'ABb HUydar', 'abou HAYDor', 'aba haydor'}, {'abo hoydar', 'awbu HIYDAR', 'AWB heydir'}, {'abuu HAYDor', 'ABe HAyder', 'abo hiydar'}, {'abB hayder', 'AHB hiyder', 'awbu HAYDOR'}, {'AWb huyder', 'abI hayder', 'ahbu HAYDOr'}, {'AIB hiydor', 'abA haydur', 'abue HAYDEr'}, {'ABe Huydar', 'abe haydur', 'abiu HAYDER'}, {'abue HIYDAr', 'abi hayder', 'ABO huydor'}, {'AHB huydor', 'abE heydar', 'abbu HAYDOR'}, {'AIB hiyder', 'abbu HIYDAR', 'abB haydur'}, {'abua HOYDAR', 'abO hoydar', 'AIb hoyder'}, {'AWb huydur', 'abau HEYDAr', 'aba huydar'}, {'abI haydir', 'ABO heydur', 'ahbu HOYDAR'}, {'ABB hoydor', 'abA haydir', 'abuh HAYDIR'}, {'aobu HAYDEr', 'ABB hoydor', 'abi haydir'}, {'abeu HAYDEr', 'abI haydor', 'ABI huydur'}, {'abe hayder', 'abau HUYDAR', 'AHB heydir'}, {'AHb huyder', 'abue HAYDOr', 'abA haydor'}, {'abi huydar', 'abuo HAYDEr', 'AIb hoydor'}, {'abE hayder', 'ahbu HAYDOr', 'ABA heyder'}, {'abi hayder', 'AIB hiyder', 'aibu HUYDAr'}, {'ABa huydur', 'abO hayder', 'abeu HEYDAR'}, {'aba heydar', 'Awb hoydir', 'ahbu HAYDIr'}, {'aubu HAYDIr', 'abI hayder', 'Awb hiydor'}, {'abuh HAYDUR', 'Awb hiydur', 'abI hayder'}, {'AIB hiydir', 'abiu HAYDOr', 'abE hiydar'}, {'ABa Huydar', 'abo haydur', 'abui HAYDUR'}, {'abe hayder', 'abiu HAYDUr', 'Ahb huydur'}, {'abeu HAYDIr', 'abA hoydar', 'ABo hoyder'}, {'ABa Huydar', 'awbu HOYDAr', 'abE haydor'}, {'Ahb hiydur', 'abI hiydar', 'abue HEYDAr'}, {'AHB hoydir', 'abE hayder', 'abbu HAYDor'}, {'abou HEYDAr', 'abI heydar', 'ABI huyder'}, {'ABI heydur', 'abiu HAYDER', 'abA hoydar'}, {'AWb huydor', 'abA haydor', 'abui HOYDAR'}, {'ABE huyder', 'abA hoydar', 'aobu HIYDAr'}, {'aba haydur', 'ABA Hayder', 'abue HAYDER'}, {'ABb huydur', 'abue HAYDER', 'abb haydir'}, {'AIb HUydar', 'abI heydar', 'abue HAYDEr'}, {'abau HAYDIR', 'abI heydar', 'ABb hoydir'}, {'aobu HEYDAR', 'Ahb huydor', 'abi haydur'}, {'abo hoydar', 'abau HAYDOR', 'AHB hoyder'}, {'AIB huydur', 'aobu HAYDIR', 'abi haydor'}, {'ahbu HOYDAr', 'abo haydor', 'ABe HAyder'}, {'aba hayder', 'abuo HUYDAR', 'ABb hoydir'}, {'abau HAYDur', 'abb haydur', 'Aub heydur'}, {'abue HEYDAR', 'AIB heydor', 'abE huydar'}, {'ABe hiyder', 'abi huydar', 'abou HAYDir'}, {'aobu HEYDAR', 'abB haydir', 'AIb heydur'}, {'ABo hiydir', 'abE haydor', 'abou HAYDor'}, {'abua HOYDAR', 'AIB heyder', 'abb hoydar'}, {'AIB hiydor', 'abo haydor', 'ahbu HAYDUR'}, {'ABB hiydur', 'aobu HAYDER', 'aba hoydar'}, {'abE haydur', 'AHB Huydar', 'abuh HAYDIR'}, {'ABe huydur', 'abb haydur', 'abau HAYDer'}, {'ABE huydir', 'abou HAYDUR', 'abO huydar'}, {'ABO huydur', 'abeu HAYDIr', 'aba hoydar'}, {'abI hoydar', 'ABE huyder', 'aobu HUYDAr'}, {'abbu HAYDUr', 'abi huydar', 'Ahb hiydor'}, {'abB heydar', 'abui HAYDIR', 'AHB heydir'}, {'abB haydir', 'ABa HUydar', 'abuo HIYDAR'}, {'abiu HEYDAR', 'abi hoydar', 'ABO huydir'}, {'ABa hiydor', 'abb hiydar', 'aobu HAYDOR'}, {'abE haydur', 'AHb hiydir', 'aibu HOYDAR'}, {'abuu HAYDIR', 'Awb HUydar', 'abo hiydar'}, {'ABI hoydor', 'abe hoydar', 'ahbu HAYDOr'}, {'abo heydar', 'aubu HAYDEr', 'Ahb hiydor'}, {'abe hayder', 'ABa Hayder', 'abuu HAYDER'}, {'AWB huydor', 'abo hoydar', 'abau HAYDur'}, {'abue HIYDAR', 'ABE hoydor', 'aba huydar'}, {'abo haydir', 'Aub huydor', 'ahbu HAYDIR'}, {'awbu HUYDAr', 'abo hoydar', 'Awb huydur'}, {'ABb hiydor', 'aobu HIYDAR', 'aba haydor'}, {'aobu HAYDOr', 'abo heydar', 'AIB heyder'}, {'ABB huyder', 'abI hiydar', 'abau HAYDer'}, {'abbu HAYDUr', 'abo haydur', 'ABB hoyder'}, {'ABA hiydir', 'abua HAYDUr', 'abE hoydar'}, {'Ahb hoydir', 'abeu HAYDER', 'abO hiydar'}, {'AIB hiydir', 'abE hiydar', 'abou HUYDAr'}, {'aba hayder', 'abou HOYDAR', 'ABA heydir'}, {'abe hayder', 'Aub hiydor', 'abeu HAYDUr'}, {'abuo HAYDir', 'AIB heydor', 'abb hoydar'}, {'abi hayder', 'AWb hoydir', 'abuh HAYDIR'}, {'aobu HAYDOr', 'AWb HUydar', 'abb haydur'}, {'ABB heydur', 'abE hayder', 'abuh HAYDOR'}, {'abua HEYDAR', 'abE hayder', 'ABI heydor'}, {'aba haydir', 'ABo Huydar', 'abue HOYDAr'}, {'abB heydar', 'Ahb hoydur', 'abeu HUYDAR'}, {'abau HAYDir', 'abo haydir', 'Ahb heyder'}, {'abI hoydar', 'abuh HUYDAR', 'ABO huydir'}, {'ABA heydor', 'abiu HAYDER', 'abe huydar'}, {'abbu HOYDAr', 'abE hiydar', 'AWB HUydar'}, {'AIB hoydur', 'abe haydor', 'abbu HAYDUR'}, {'aba heydar', 'ABa hoydor', 'aubu HAYDER'}, {'AWb HUydar', 'abuo HUYDAr', 'abA hayder'}, {'abB hayder', 'abiu HAYDUr', 'Aub hiydir'}, {'aobu HAYDir', 'Awb hoyder', 'abo hiydar'}, {'abo haydur', 'abbu HAYDEr', 'Aub huydur'}, {'abO hayder', 'ABE heydur', 'abeu HAYDOR'}, {'Aib Huydar', 'abiu HIYDAR', 'abi heydar'}, {'ABA hoydur', 'abiu HAYDUR', 'abe huydar'}, {'Aub heydir', 'abB hoydar', 'abuo HAYDIr'}, {'aobu HEYDAR', 'ABO hoydir', 'abe haydur'}, {'abI haydir', 'abua HEYDAr', 'ABO hiydir'}, {'abE haydur', 'ahbu HIYDAR', 'ABa Hayder'}, {'ABb hoydor', 'abuo HAYDer', 'abI haydur'}, {'abuo HOYDAR', 'abA huydar', 'ABI hiydor'}, {'aobu HAYDur', 'abB haydir', 'ABe heyder'}, {'ABi hiyder', 'aobu HAYDUR', 'abi haydur'}, {'AHb hiydir', 'aba huydar', 'abbu HAYDUR'}, {'AWb HUydar', 'aba hayder', 'aubu HOYDAR'}, {'ABB heydor', 'abuu HUYDAr', 'abo huydar'}, {'Awb huydur', 'abue HAYDur', 'aba hoydar'}, {'abI hiydar', 'abau HAYDER', 'Awb heydor'}, {'ABa heyder', 'abA hoydar', 'abiu HAYDUR'}, {'awbu HEYDAR', 'Aib huydor', 'aba haydor'}, {'abI heydar', 'abue HAYDEr', 'Aub huydur'}, {'aobu HAYDur', 'ABo hoydur', 'abb haydor'}, {'abbu HAYDer', 'AWB hiyder', 'abb heydar'}, {'ABb heydor', 'abA hiydar', 'ahbu HAYDIr'}, {'abuh HAYDer', 'abo heydar', 'ABO huydor'}, {'abe hiydar', 'ABb huydor', 'aubu HAYDOR'}, {'abbu HAYDIR', 'Ahb heydir', 'abO haydur'}, {'aobu HAYDur', 'ABb hoydur', 'abB heydar'}, {'Awb huydur', 'abA haydur', 'abua HIYDAR'}, {'abou HAYDOr', 'abe haydir', 'ABa hiyder'}, {'awbu HAYDIR', 'abA haydir', 'Awb huydor'}, {'ABB HAyder', 'abb hiydar', 'abuo HAYDUR'}, {'abuo HAYDor', 'abE haydir', 'ABB hiydor'}, {'abuu HAYDir', 'abo haydor', 'AHB hoyder'}, {'abI hayder', 'ABA Hayder', 'abui HAYDUr'}, {'abA haydur', 'aibu HEYDAr', 'AWB hiydur'}, {'ahbu HOYDAr', 'abO heydar', 'AHB hoydur'}, {'ABB huyder', 'aibu HAYDER', 'abb hayder'}, {'aubu HAYDIr', 'Ahb hiyder', 'abI heydar'}, {'aobu HAYDIr', 'ABo Hayder', 'abB hoydar'}, {'abbu HAYDUr', 'ABB hiydir', 'aba haydor'}, {'abE haydur', 'abuo HAYDUR', 'ABI huydor'}, {'abue HIYDAr', 'AWb HAyder', 'abe hoydar'}, {'abI haydir', 'ABe hoydor', 'ahbu HIYDAR'}, {'abbu HOYDAR', 'ABo hiydur', 'abo hayder'}, {'abI hoydar', 'abue HAYDOR', 'ABi huydir'}, {'abuh HAYDUR', 'Awb HAyder', 'abe heydar'}, {'ABi HAyder', 'abe huydar', 'abou HAYDor'}, {'ABi heyder', 'abB heydar', 'abbu HUYDAr'}, {'abiu HAYDIr', 'AWB hoydor', 'abI heydar'}, {'abE hiydar', 'ABi huyder', 'aibu HAYDer'}, {'abe hoydar', 'Awb hoydir', 'abeu HAYDUR'}, {'abuh HIYDAR', 'abb haydur', 'ABi hiyder'}, {'abuh HIYDAR', 'abB hiydar', 'ABb HAyder'}, {'Aib hiyder', 'abou HAYDur', 'abO hoydar'}, {'Aib Huydar', 'abo haydir', 'abua HUYDAR'}, {'Aub heydor', 'abO huydar', 'abuo HAYDIR'}]
+abu haydar          : DEBUG: Additional rule variations: {'Bu HAYDaR'}
+abu haydar          : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 4
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "abu haydar": {
+            "first_name": {
+                "score": 0.9598851582501288,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.9833333333333334
+                    },
+                    "count": {
+                        "actual": 3,
+                        "expected": 3.9200000000000004,
+                        "score": 0.9659010550008585
+                    },
+                    "uniqueness": {
+                        "unique_count": 3,
+                        "total_count": 3,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 0.8333333333333334
+                    },
+                    "variations": [
+                        {
+                            "variation": "ABE",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "aobu",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.3333333333333333
+                        },
+                        {
+                            "variation": "abA",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.9770410237838285,
+            "final_score": 0.9816328190270629,
+            "variation_count": 4,
+            "non_rule_compliant_variations_count": 3,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.9848851582501288,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.9833333333333334
+                    },
+                    "count": {
+                        "actual": 3,
+                        "expected": 3.9200000000000004,
+                        "score": 0.9659010550008585
+                    },
+                    "uniqueness": {
+                        "unique_count": 3,
+                        "total_count": 3,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "huyder",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "HIYDAr",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.16666666666666663,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hoydar",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_random_vowel": [
+                            "Bu HAYDaR"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "Bu HAYDaR": [
+                            "remove_random_vowel"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.25,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "abu haydar": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_random_vowel": [
+                            "Bu HAYDaR"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "Bu HAYDaR": [
+                            "remove_random_vowel"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.25,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.9816328190270629,
+    "final_reward": 0.9816328190270629
+}
+abu haydar          : DEBUG: ----------------------------------------------------------------------------------------------------

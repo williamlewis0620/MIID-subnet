@@ -1,0 +1,2356 @@
+sarah oliver        : INFO: Generating variations for sarah oliver
+sarah oliver        : INFO: ----------------------------------------------------------------------------------------------------
+sarah oliver        : INFO: Effective rules: ['remove_random_vowel']
+sarah oliver        : INFO: ----------------------------------------------------------------------------------------------------
+sarah oliver        : INFO: Min Required Rule Variation Set: [{'SaRah OlveR', 'sARh OlIveR', 'saRah LIVer', 'SaraH lIvER', 'sArah OliVR', 'SarH oLIveR', 'SArH OLIVER', 'SArAH OLivR', 'SaRAh oLIvr', 'sRAh oLIveR', 'Srah oLivER', 'saRAH LiveR', 'SArah OLVeR', 'saraH oliVr', 'SArH OLIVEr', 'sArAH OlVer', 'saRH oLiver', 'saRah OlveR', 'saRAh LIveR', 'saRAh LIVEr', 'SRaH OLiVEr', 'sarAh OlIvr', 'SARH OlIvEr', 'sarAh LiVEr', 'sRaH OLIveR', 'sARh OLIvER', 'sARAh lIveR', 'SArAH LIvEr', 'sarah OLiVr', 'SRah olivER', 'sRAH oLiVER', 'SarAh oLVER', 'Sarh oliver', 'sraH olIVER', 'sARAh LiVEr', 'SraH olIVeR', 'sraH OlivEr', 'SArh olIVEr', 'sRah olIVeR', 'SarAH OlvER', 'SRah olIver', 'SAraH OlIVR', 'Srah OliveR', 'SArah olIVr', 'SaRAH lIvER', 'sAraH OlVer', 'sAraH olIVr', 'SARAh olivr', 'SaraH lIveR', 'sArAH oliVr', 'srah OLiVer', 'sAraH liveR', 'SArh OlIvEr', 'SaRah olVER', 'SrAH olIVER', 'srAH OliVEr', 'SarAH oliVr', 'sArh oLiVeR', 'saRAH OlveR', 'SaRaH liVeR', 'sARAH liVer', 'SaRH OlIVER', 'SARAH OlIvR', 'SARAh olver', 'SaRAh lIvER', 'sARah OLIvr', 'sRaH olIveR', 'sRaH oLIvEr', 'SAraH OLiVR', 'srAH olIver', 'sARAH OlVER', 'sArah OLVer', 'sarah oLveR', 'sARAH liVEr', 'sARH OLIvEr', 'saraH oLVer', 'SARah liVeR', 'SArh oLiveR', 'sAraH LIVeR', 'sraH oLIvEr', 'sarAH oLiVR', 'srah oLIver', 'sArh OLiVEr', 'sArAH lIveR', 'sarah OlivR', 'sARah oLver', 'Sarah olivR', 'saRH olIVEr', 'SaRaH liVer', 'SARH OlIVer', 'SArh oLIvEr', 'Srah OlIvEr', 'saRAh olIvr', 'Srah oLIVer', 'SArAH OLiVr', 'SArah OLIVR', 'SarAH OLivr', 'sARAH livEr', 'SaRH OLIver', 'srah oliveR'}]
+sarah oliver        : INFO: ----------------------------------------------------------------------------------------------------
+sarah oliver        : INFO: First name: sarah
+sarah oliver        : INFO: Last name: oliver
+sarah oliver        : INFO: ----------------------------------------------------------------------------------------------------
+sarah oliver        : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (1, 2), (0, 4), (1, 3), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (0, 7), (1, 6), (2, 5), (3, 4), (0, 8), (1, 7), (2, 6), (3, 5), (0, 9), (1, 8), (2, 7), (3, 6), (0, 10), (1, 9), (2, 8), (3, 7), (4, 6), (0, 11), (1, 10), (2, 9), (3, 8), (4, 7)]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 1 / 34: rule_count/nonrule_count: 0/1------------------------------
+sarah oliver        : DEBUG: O: [0, 0, 0, 1]
+sarah oliver        : DEBUG: P: [1, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [0, 0, 0, 1]
+sarah oliver        : DEBUG: P: [1, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.50958811]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 2 / 34: rule_count/nonrule_count: 0/2------------------------------
+sarah oliver        : DEBUG: O: [1, 1, 0, 0]
+sarah oliver        : DEBUG: P: [2, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [1, 1, 0, 0]
+sarah oliver        : DEBUG: P: [2, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.76980995]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 3 / 34: rule_count/nonrule_count: 0/3------------------------------
+sarah oliver        : DEBUG: O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: P: [3, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: P: [3, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.78790813]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 4 / 34: rule_count/nonrule_count: 1/2------------------------------
+sarah oliver        : DEBUG: O: [1, 1, 0, 0]
+sarah oliver        : DEBUG: P: [2, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [1, 1, 0, 0]
+sarah oliver        : DEBUG: P: [2, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.96980995]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 5 / 34: rule_count/nonrule_count: 0/4------------------------------
+sarah oliver        : DEBUG: O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: P: [4, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: P: [4, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.8]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 6 / 34: rule_count/nonrule_count: 1/3------------------------------
+sarah oliver        : DEBUG: O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: P: [3, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: P: [3, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.98790813]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 7 / 34: rule_count/nonrule_count: 0/5------------------------------
+sarah oliver        : DEBUG: O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: P: [5, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: P: [5, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.78647243]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 8 / 34: rule_count/nonrule_count: 1/4------------------------------
+sarah oliver        : DEBUG: O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: P: [4, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: P: [4, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.9]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 9 / 34: rule_count/nonrule_count: 2/3------------------------------
+sarah oliver        : DEBUG: O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: P: [3, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: P: [3, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [1, 1, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.98790813]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 10 / 34: rule_count/nonrule_count: 0/6------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.76621805]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 11 / 34: rule_count/nonrule_count: 1/5------------------------------
+sarah oliver        : DEBUG: O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: P: [5, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: P: [5, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.88647243]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 12 / 34: rule_count/nonrule_count: 2/4------------------------------
+sarah oliver        : DEBUG: O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: P: [4, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: P: [4, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.9]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 13 / 34: rule_count/nonrule_count: 0/7------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.7433764]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 14 / 34: rule_count/nonrule_count: 1/6------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.83288471]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 15 / 34: rule_count/nonrule_count: 2/5------------------------------
+sarah oliver        : DEBUG: O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: P: [5, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: P: [5, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.88647243]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 16 / 34: rule_count/nonrule_count: 3/4------------------------------
+sarah oliver        : DEBUG: O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: P: [4, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: P: [4, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.9]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 17 / 34: rule_count/nonrule_count: 0/8------------------------------
+sarah oliver        : DEBUG: O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: P: [8, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: P: [8, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.73176299]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 18 / 34: rule_count/nonrule_count: 1/7------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.81004306]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 19 / 34: rule_count/nonrule_count: 2/6------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.83288471]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 20 / 34: rule_count/nonrule_count: 3/5------------------------------
+sarah oliver        : DEBUG: O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: P: [5, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: P: [5, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [2, 2, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [2]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.88647243]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 21 / 34: rule_count/nonrule_count: 0/9------------------------------
+sarah oliver        : DEBUG: O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: P: [9, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: P: [9, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.71744124]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 22 / 34: rule_count/nonrule_count: 1/8------------------------------
+sarah oliver        : DEBUG: O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: P: [8, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: P: [8, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.79842966]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 23 / 34: rule_count/nonrule_count: 2/7------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.81004306]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 24 / 34: rule_count/nonrule_count: 3/6------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.83288471]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 25 / 34: rule_count/nonrule_count: 0/10------------------------------
+sarah oliver        : DEBUG: O: [5, 5, 0, 0]
+sarah oliver        : DEBUG: P: [10, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [5, 5, 0, 0]
+sarah oliver        : DEBUG: P: [10, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.7110771]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 26 / 34: rule_count/nonrule_count: 1/9------------------------------
+sarah oliver        : DEBUG: O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: P: [9, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: P: [9, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.76744124]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 27 / 34: rule_count/nonrule_count: 2/8------------------------------
+sarah oliver        : DEBUG: O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: P: [8, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: P: [8, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.79842966]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 28 / 34: rule_count/nonrule_count: 3/7------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.81004306]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 29 / 34: rule_count/nonrule_count: 4/6------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: P: [6, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.83288471]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 30 / 34: rule_count/nonrule_count: 0/11------------------------------
+sarah oliver        : DEBUG: O: [5, 5, 0, 1]
+sarah oliver        : DEBUG: P: [11, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [5, 5, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [5, 5, 0, 1]
+sarah oliver        : DEBUG: P: [11, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [5, 5, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.70189788]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 31 / 34: rule_count/nonrule_count: 1/10------------------------------
+sarah oliver        : DEBUG: O: [5, 5, 0, 0]
+sarah oliver        : DEBUG: P: [10, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [5, 5, 0, 0]
+sarah oliver        : DEBUG: P: [10, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [5, 5, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [5]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [5, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.7610771]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 32 / 34: rule_count/nonrule_count: 2/9------------------------------
+sarah oliver        : DEBUG: O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: P: [9, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: P: [9, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.76744124]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 33 / 34: rule_count/nonrule_count: 3/8------------------------------
+sarah oliver        : DEBUG: O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: P: [8, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: P: [8, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [4, 4, 0, 0]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [4]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [4, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.79842966]
+sarah oliver        : INFO: ------------------------------Trying rule_count_pair 34 / 34: rule_count/nonrule_count: 4/7------------------------------
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [14]
+sarah oliver        : DEBUG: [81]
+sarah oliver        : DEBUG: [226]
+sarah oliver        : DEBUG: [233]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: sarah, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: sarah, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: P: [7, 0, 0, 0]
+sarah oliver        : WARNING: Remains: 0
+sarah oliver        : DEBUG: p_level: 0, O: [3, 3, 0, 1]
+sarah oliver        : DEBUG: [7]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [20]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [3]
+sarah oliver        : DEBUG: [0]
+sarah oliver        : DEBUG: [1]
+sarah oliver        : DEBUG: final:
+sarah oliver        : DEBUG: name: oliver, l_level: 0
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [3, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 1
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: name: oliver, l_level: 2
+sarah oliver        : DEBUG: --------------------------------------------------
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah oliver        : DEBUG: scores: [0.81004306]
+sarah oliver        : DEBUG: ----------------------------------------------------------------------------------------------------
+sarah oliver        : DEBUG: Best score achieved: 0.9879081266001031
+sarah oliver        : DEBUG: Best selected: 1/3
+sarah oliver        : DEBUG: Rule variations: [{'SaRah OlveR', 'sARh OlIveR', 'saRah LIVer', 'SaraH lIvER', 'sArah OliVR', 'SarH oLIveR', 'SArH OLIVER', 'SArAH OLivR', 'SaRAh oLIvr', 'sRAh oLIveR', 'Srah oLivER', 'saRAH LiveR', 'SArah OLVeR', 'saraH oliVr', 'SArH OLIVEr', 'sArAH OlVer', 'saRH oLiver', 'saRah OlveR', 'saRAh LIveR', 'saRAh LIVEr', 'SRaH OLiVEr', 'sarAh OlIvr', 'SARH OlIvEr', 'sarAh LiVEr', 'sRaH OLIveR', 'sARh OLIvER', 'sARAh lIveR', 'SArAH LIvEr', 'sarah OLiVr', 'SRah olivER', 'sRAH oLiVER', 'SarAh oLVER', 'Sarh oliver', 'sraH olIVER', 'sARAh LiVEr', 'SraH olIVeR', 'sraH OlivEr', 'SArh olIVEr', 'sRah olIVeR', 'SarAH OlvER', 'SRah olIver', 'SAraH OlIVR', 'Srah OliveR', 'SArah olIVr', 'SaRAH lIvER', 'sAraH OlVer', 'sAraH olIVr', 'SARAh olivr', 'SaraH lIveR', 'sArAH oliVr', 'srah OLiVer', 'sAraH liveR', 'SArh OlIvEr', 'SaRah olVER', 'SrAH olIVER', 'srAH OliVEr', 'SarAH oliVr', 'sArh oLiVeR', 'saRAH OlveR', 'SaRaH liVeR', 'sARAH liVer', 'SaRH OlIVER', 'SARAH OlIvR', 'SARAh olver', 'SaRAh lIvER', 'sARah OLIvr', 'sRaH olIveR', 'sRaH oLIvEr', 'SAraH OLiVR', 'srAH olIver', 'sARAH OlVER', 'sArah OLVer', 'sarah oLveR', 'sARAH liVEr', 'sARH OLIvEr', 'saraH oLVer', 'SARah liVeR', 'SArh oLiveR', 'sAraH LIVeR', 'sraH oLIvEr', 'sarAH oLiVR', 'srah oLIver', 'sArh OLiVEr', 'sArAH lIveR', 'sarah OlivR', 'sARah oLver', 'Sarah olivR', 'saRH olIVEr', 'SaRaH liVer', 'SARH OlIVer', 'SArh oLIvEr', 'Srah OlIvEr', 'saRAh olIvr', 'Srah oLIVer', 'SArAH OLiVr', 'SArah OLIVR', 'SarAH OLivr', 'sARAH livEr', 'SaRH OLIver', 'srah oliveR'}]
+sarah oliver        : DEBUG: Nonrule variations: [{'saraa olivor', 'suuir OLIVOr', 'suraw OLAver'}, {'sorai olavur', 'soori OLIVIR', 'saroh oluver'}, {'seara oluvir', 'sorah olivar', 'ssuhr OLIVir'}, {'sirah olivur', 'soreh Olaver', 'souri OLAVOr'}, {'surih oluvar', 'siior OLUVER', 'saruh olover'}, {'saraw olivir', 'sarre oluvur', 'soaer OLIVUr'}, {'seehr OLIVUr', 'saara OLivar', 'saruh olaver'}, {'saroa Olivar', 'sarih olivur', 'siure OLAVEr'}, {'seraw oluvar', 'serah olivir', 'seure OLIVUr'}, {'saraw oluver', 'saroi oluvor', 'sssir OLIVIr'}, {'sorah olaver', 'saera olovir', 'ssuro OLAVEr'}, {'soeer OLIVIR', 'saora oluvar', 'sarao oluver'}, {'sorai OLaver', 'serah olivir', 'ssere OLAVor'}, {'sihre OLOVER', 'saruo oluvor', 'sareh olivar'}, {'sareo oluvir', 'suiri OLIVOr', 'saroh olivur'}, {'sieur OLUVER', 'sarau olivur', 'saora oluvur'}, {'sarih olivur', 'ssero OLIVar', 'sareo olovir'}, {'serau olavar', 'siire OLIVAR', 'sarih olivar'}, {'seroh OLaver', 'soire OLIVOR', 'sorah olivar'}, {'saroa oluvar', 'siuru OLAVor', 'saroh olivur'}, {'sserr OLAVOr', 'sarai olaver', 'saear Olivar'}, {'saaar oluvor', 'suoro OLUVER', 'surah olaver'}, {'ssuor OLIVIR', 'sarae olivor', 'sarrr olavir'}, {'surae oluvor', 'sihrr OLIVOr', 'sarae olivur'}, {'soiir OLAVER', 'sarru oluvar', 'sarao olivur'}, {'sarrr olavar', 'saraw olivar', 'ssuri OLIVUR'}, {'ssori OLIVIr', 'sawra olavur', 'sareh olaver'}, {'sarai olivor', 'soorr OLIVAR', 'saoar OLover'}, {'serah olivor', 'surae Olover', 'souir OLIVor'}, {'sirah olivar', 'seeur OLOVEr', 'sarrr olovur'}, {'sirah olivur', 'sahra olovur', 'souir OLIVIr'}, {'sarai oluver', 'sarea oluvur', 'suuhr OLUVEr'}, {'seuhr OLUVEr', 'saruu olavor', 'surah oluver'}, {'suruh OLaver', 'saraw olivur', 'sieer OLOVER'}, {'sirah olivar', 'ssara OLivar', 'sseer OLIVAr'}, {'soere OLUVEr', 'saruu oluvir', 'sarau olivir'}, {'saura Olover', 'saroh olivor', 'suuro OLIVIR'}, {'ssori OLIVOR', 'sareh olivor', 'sareu OLAver'}, {'sarea Olaver', 'seiro OLIVAR', 'saruh oluver'}, {'suraw OLAver', 'sareh olivir', 'soawr OLIVUr'}, {'seuru OLIVIr', 'saraw olivur', 'sarui OLAver'}, {'sirah olivar', 'sieri OLIVAR', 'saroo oluvur'}, {'surah olivar', 'suruh Olover', 'siurr OLIVir'}, {'serau Olover', 'seihr OLIVOR', 'saraa oluver'}, {'suohr OLAVor', 'sarui OLOver', 'surah olivur'}, {'sarai oluver', 'ssair OLAVEr', 'soara Olaver'}, {'surau olavur', 'saraw olivur', 'siihr OLUVER'}, {'sareh olivur', 'serih olovur', 'soier OLIVIr'}, {'serae oluvur', 'saraw olivur', 'suuir OLOVEr'}, {'sarau olover', 'saruo oluvir', 'seiro OLUVEr'}, {'saraa olivor', 'sohri OLAVOr', 'surau olovor'}, {'souor OLIVOr', 'sarai olivur', 'soroh olavar'}, {'ssaor OLAVOr', 'sarau olivur', 'saruu olavar'}, {'ssoor OLAVER', 'sorih Olover', 'saroh olover'}, {'serah olaver', 'saear oluvir', 'seurr OLIVor'}, {'surah olover', 'serae OLaver', 'soiri OLAVor'}, {'sarei olovur', 'suorr OLAVEr', 'sareh olover'}, {'soere OLIVAR', 'saroh oluver', 'saora OLOver'}, {'seoer OLIVUR', 'sorah olover', 'sariu OLaver'}, {'sserr OLOVEr', 'saruh olivur', 'suroh olavor'}, {'suero OLUVEr', 'soraa oluvar', 'saraw olivor'}, {'sueur OLIVur', 'saroh olover', 'sirai OLivar'}, {'suraw oluvar', 'surah olover', 'ssoru OLIVir'}, {'seure OLOVER', 'sirae olavur', 'surah olivir'}, {'ssser OLIVir', 'sarue OLover', 'saruh oluver'}, {'serah olivar', 'ssser OLIVIr', 'saear olavar'}, {'sirah oluver', 'seuer OLIVir', 'sirai OLivar'}, {'sereh oluvor', 'sareh olivor', 'suuer OLIVAr'}, {'ssour OLOVEr', 'serai oluvor', 'sarao oluver'}, {'sserr OLIVOr', 'sirah olover', 'saroi olavar'}, {'soeri OLIVUr', 'sarih olaver', 'sorau olovur'}, {'sarro Olaver', 'saruh olaver', 'seair OLIVAR'}, {'saear OLaver', 'siiri OLIVUr', 'serah olover'}, {'ssuru OLIVAr', 'suraa OLOver', 'sarae olivur'}, {'sohru OLIVAr', 'saroi olavar', 'sareh olover'}, {'saroo olovor', 'sseer OLIVOr', 'saroh olover'}, {'surau OLaver', 'siihr OLIVar', 'sorah olivur'}, {'seiur OLIVar', 'sorih OLOver', 'sorah olivur'}, {'seroh OLOver', 'sarau oluver', 'sihro OLIVor'}, {'suore OLAVor', 'saraa oluver', 'saira olovir'}, {'serae oluvir', 'sorah olover', 'ssuri OLIVIR'}, {'siior OLIVur', 'sarre olavur', 'sarae olivir'}, {'sarea olovir', 'soeor OLIVUR', 'sirah olivir'}, {'saroh oluver', 'sorau Olaver', 'souri OLOVEr'}, {'sirah olaver', 'seire OLIVUr', 'serih olavir'}, {'sareh olivur', 'saura olovir', 'sohro OLUVEr'}, {'seruh olavir', 'seere OLAVEr', 'surah olivur'}, {'sarro olavur', 'siirr OLOVER', 'sareh oluver'}, {'sarra olavur', 'saraa olover', 'ssoer OLUVEr'}, {'saroi olavir', 'saraw olivur', 'seiir OLIVur'}, {'surah olover', 'suuru OLOVER', 'sarue OLAver'}, {'sarih olivar', 'sorai olavar', 'soaor OLIVAR'}, {'saura olovar', 'sarae olivor', 'soori OLIVir'}, {'sarrr Olover', 'seier OLIVAR', 'surah olaver'}, {'saira OLOver', 'suaer OLAVOr', 'sorah olover'}, {'sarae olover', 'soaor OLIVur', 'sirao oluvor'}, {'seraw oluvur', 'surah olivar', 'ssiri OLIVar'}, {'suuhr OLOVER', 'sarih olover', 'sarrr OLAver'}, {'sariu olovur', 'ssirr OLIVar', 'sorah olivar'}, {'soawr OLIVAR', 'sarau olivar', 'ssara olovor'}, {'surai oluvir', 'sarau olivur', 'seaur OLIVAR'}, {'seier OLIVur', 'saroi olavar', 'sarao olivor'}, {'seroh olovor', 'seeur OLIVIr', 'sorah olivir'}, {'soeir OLIVir', 'sarau olaver', 'soraw oluvar'}, {'soroh olavor', 'sarau olivur', 'soeir OLAVER'}, {'sarui oluvor', 'saruh olivir', 'seoor OLUVEr'}, {'soiur OLIVAr', 'sarao olaver', 'siraw Olaver'}, {'siiur OLAVER', 'saear oluvur', 'sarau olaver'}, {'suore OLIVUR', 'sario OLAver', 'surah olivar'}, {'seeir OLIVUR', 'sorah olover', 'suraw olovor'}, {'sihri OLIVUR', 'seraw olovor', 'sarae olivur'}, {'sahra oluvur', 'sseor OLIVIr', 'sirah olivir'}, {'soreh olavar', 'suoru OLIVur', 'sarao olover'}, {'sahra OLOver', 'soier OLUVER', 'sareh olover'}, {'saruh olaver', 'sorau oluvur', 'suour OLAVEr'}, {'saraa olivar', 'saura OLaver', 'ssoir OLIVOr'}, {'souro OLIVar', 'sirah olover', 'sarua OLover'}, {'sorau Olaver', 'sihrr OLUVEr', 'sarae olaver'}, {'sirau oluvar', 'saraw olivor', 'siuhr OLIVOR'}, {'serao OLOver', 'saraa olaver', 'seuer OLUVEr'}, {'seirr OLIVUr', 'sarih olivor', 'saria oluvar'}, {'suraa oluvur', 'seaur OLAVEr', 'sarau olivor'}, {'sarih olivur', 'suroh olavur', 'suiir OLIVOR'}, {'saruh olivur', 'sorao OLaver', 'suhru OLIVAr'}, {'saura olavar', 'souru OLAVOr', 'surah olaver'}, {'sarue olovir', 'sarih olivir', 'ssiro OLOVEr'}, {'saroo oluvor', 'suoro OLAVER', 'sorah olivor'}, {'sarih olivor', 'saaar olavur', 'siure OLIVAR'}, {'sarai olover', 'suara oluvor', 'siuor OLAVOr'}, {'ssiri OLAVOr', 'serah olivir', 'sarua OLaver'}, {'saraw olivir', 'sorao olovur', 'suoer OLIVIr'}, {'sarre olavir', 'sohri OLUVER', 'saruh olivir'}, {'siiro OLAVor', 'sariu OLivar', 'saruh olivir'}, {'suraa OLOver', 'seeor OLIVIR', 'sarih olaver'}, {'saroh olivar', 'seraw olavir', 'souru OLUVER'}, {'sarae oluver', 'serao olovar', 'ssoro OLOVEr'}, {'sarih olivur', 'saroa oluvur', 'sssir OLIVIr'}, {'sereh Olivar', 'sarao olaver', 'soerr OLIVor'}, {'sirah olivur', 'seara olovur', 'suehr OLIVar'}, {'saroh olivor', 'ssaor OLIVUr', 'sawra Olivar'}, {'surah olivor', 'siuur OLIVUR', 'siruh olavor'}, {'sareh olivur', 'sseru OLIVar', 'sarro oluvor'}, {'saraa olivar', 'sierr OLIVUr', 'soara olavur'}, {'suhri OLIVOr', 'soreh Olivar', 'saraw olaver'}, {'siure OLIVAR', 'sareh olivir', 'serae olovor'}, {'seawr OLIVar', 'sarou OLaver', 'saruh olivar'}, {'seoir OLIVIR', 'sarao olivir', 'sarre oluvur'}, {'sohro OLIVor', 'sarih oluver', 'siraa oluvar'}, {'sarai olover', 'siuru OLIVAr', 'suraw OLover'}, {'seerr OLIVOr', 'sirah olivar', 'soraw oluvor'}, {'surau OLivar', 'saruh olivur', 'siurr OLAVOr'}, {'sarau olover', 'sseur OLAVOr', 'sarui OLOver'}, {'sarai olivor', 'saaar oluvur', 'ssure OLIVir'}, {'siure OLIVur', 'siruh Olivar', 'sarao olivar'}, {'ssuru OLUVER', 'saraa olivar', 'sareo OLOver'}, {'seeor OLOVER', 'sorih Olaver', 'sarae olivur'}, {'sserr OLAVor', 'sarih oluver', 'soraw OLaver'}, {'serao Olover', 'saroh oluver', 'suere OLAVER'}, {'seraw oluvor', 'saruh olivar', 'soohr OLOVEr'}, {'sseer OLOVEr', 'suraw Olover', 'sarai olaver'}, {'saraa olivor', 'suraa olavor', 'ssuru OLIVUr'}, {'saraw oluver', 'ssoer OLIVur', 'sirao olovar'}, {'ssuor OLOVEr', 'ssara olavar', 'sarai olivir'}, {'saora OLAver', 'soeri OLIVar', 'sarau olivir'}, {'surao olovor', 'surah olivar', 'suoro OLIVir'}, {'seraw oluvar', 'soeir OLIVOR', 'saruh olaver'}, {'sirah olivar', 'seore OLIVOr', 'saruo oluvar'}, {'sehri OLAVOr', 'sereh oluvar', 'sarau olaver'}, {'soraw olovar', 'saraa olover', 'soour OLIVar'}, {'saraa olaver', 'seuri OLIVUR', 'surai olovir'}, {'ssiro OLIVOr', 'sireh olavor', 'sorah olivar'}, {'saroh olaver', 'sueur OLIVar', 'ssara olavir'}, {'suraa OLaver', 'saraw olivur', 'ssoru OLIVAR'}, {'siraw olovar', 'sarao olivir', 'seiur OLOVER'}, {'soior OLIVOr', 'saoar Olover', 'saruh olivor'}, {'saiar Olivar', 'sarih olover', 'ssiru OLIVOR'}, {'sarau olaver', 'siraa Olover', 'soiri OLUVEr'}, {'saear oluvor', 'saroh oluver', 'seire OLOVEr'}, {'sauar oluvir', 'sarih olivir', 'siiri OLUVEr'}, {'ssiur OLAVER', 'sarao olaver', 'serae olavar'}, {'saroh oluver', 'sserr OLIVir', 'sarua olovor'}, {'sooer OLIVor', 'sorah olivir', 'saruo Olivar'}, {'sahra olavir', 'serah olivur', 'sssor OLIVAR'}, {'ssure OLIVIr', 'sarau olover', 'sereh olavir'}, {'suoor OLAVor', 'soara olovar', 'sarih olover'}, {'sarui olovar', 'sarae olivor', 'siehr OLAVOr'}, {'siiru OLOVEr', 'sorah olivar', 'surao olovir'}, {'surih olovor', 'suire OLIVIR', 'sarau olivir'}, {'sohri OLIVUr', 'sarae olivor', 'soraw OLover'}, {'saroh olivar', 'ssihr OLIVir', 'suraa olavar'}, {'sehre OLIVir', 'sereh OLaver', 'sarih oluver'}, {'siroh OLover', 'saraa olaver', 'suire OLIVIR'}, {'suhri OLIVUR', 'siroh olavir', 'sorah olivar'}, {'saraa olivar', 'saera olavar', 'seuro OLUVER'}, {'sariu olavur', 'suawr OLIVAR', 'surah olivir'}, {'serau olavir', 'saraa olivur', 'souro OLIVAr'}, {'sirau Olivar', 'serah olivir', 'seair OLAVor'}, {'souri OLIVir', 'soara oluvar', 'sarae olivur'}, {'seraw olovar', 'sareh oluver', 'seehr OLUVEr'}, {'saroh olaver', 'seeir OLIVIR', 'suroh olovar'}, {'ssurr OLAVor', 'serah olivir', 'surih Olover'}, {'sueer OLIVIR', 'saruo oluvir', 'sorah olivar'}, {'siier OLUVEr', 'suroh OLOver', 'sarih olover'}, {'saroh olivir', 'saara oluvar', 'suorr OLIVor'}, {'seair OLIVir', 'saraa oluver', 'saroe oluvor'}, {'sarau olover', 'suhri OLOVER', 'saroa OLOver'}, {'sarai oluver', 'sooru OLAVOr', 'serih olavar'}, {'saroh oluver', 'saiar Olivar', 'sseor OLAVER'}, {'siure OLOVEr', 'soroh Olaver', 'sarao olivur'}, {'siiro OLIVIR', 'sarih olivar', 'surau Olaver'}, {'saiar oluvar', 'saraa olivar', 'sehrr OLAVOr'}, {'seeor OLUVEr', 'saira OLover', 'sarao olover'}, {'sarra OLaver', 'saraa olivar', 'soaur OLIVOR'}, {'suawr OLOVEr', 'sarih oluver', 'sario olavar'}, {'saroa olovur', 'ssair OLOVEr', 'saraw olaver'}, {'soorr OLUVER', 'sirah olivor', 'saura oluvor'}, {'sirah olaver', 'saroe Olaver', 'suiir OLIVUr'}, {'saroh olivor', 'suruh olovur', 'soere OLUVEr'}, {'seuor OLOVEr', 'seroh Olaver', 'serah olover'}, {'siraw Olover', 'soiru OLAVEr', 'sorah olivor'}, {'souor OLIVAR', 'sarai oluver', 'seraa oluvor'}, {'saruo OLover', 'seure OLIVIR', 'sarau oluver'}, {'sarao olivir', 'seori OLOVEr', 'soreh Olivar'}, {'saroh olivir', 'siurr OLIVIR', 'sareu olavar'}, {'sarei olavor', 'soeru OLIVUR', 'sarao olivor'}, {'seeor OLIVAR', 'sarro olavar', 'surah olaver'}, {'soaer OLOVEr', 'soraa olavar', 'surah oluver'}, {'soiro OLIVUR', 'saraa olivar', 'sorih OLover'}, {'soiur OLUVER', 'saraw olivar', 'saroe olovir'}, {'serai olavir', 'saraw olaver', 'soaor OLIVAR'}, {'serah olivor', 'sorae OLaver', 'sieur OLIVor'}, {'serae olavur', 'sourr OLAVER', 'sorah oluver'}, {'sirah olivur', 'siuor OLIVAR', 'sarui OLOver'}, {'sehro OLIVAR', 'sawra OLAver', 'saraa olover'}, {'saria OLivar', 'saraa oluver', 'suiro OLIVUr'}, {'sarai olivor', 'sahra OLaver', 'seero OLIVOr'}, {'sarae oluver', 'seaer OLIVIr', 'sireh olovur'}, {'sarao olaver', 'soeri OLIVir', 'suara Olivar'}, {'siuor OLAVEr', 'serah oluver', 'sorih OLivar'}, {'ssoru OLIVUr', 'sawra olovar', 'sareh olover'}, {'sarae oluver', 'sueir OLOVEr', 'saahr olovir'}, {'sarai olivur', 'siirr OLIVAR', 'seraa olavir'}, {'siure OLIVur', 'sorah olivir', 'suruh oluvur'}, {'siroh oluvor', 'sserr OLIVIr', 'saruh olover'}, {'sarao olivir', 'sareu Olaver', 'suoor OLIVAR'}, {'sarao olivur', 'ssara OLaver', 'soeur OLIVOr'}, {'sohrr OLAVor', 'sarih olover', 'surai Olover'}, {'sarae oluver', 'seerr OLIVir', 'surao olavar'}, {'siiro OLAVor', 'sarro OLivar', 'sorah olivur'}, {'sareh olivur', 'ssire OLOVEr', 'sireh oluvir'}, {'soore OLIVIr', 'sawra OLaver', 'sarau olaver'}, {'saroh olivir', 'sorae Olivar', 'suoor OLAVEr'}, {'sorae OLivar', 'soure OLAVER', 'sareh olaver'}, {'sarua Olaver', 'sareh olivar', 'sihrr OLAVor'}, {'suurr OLIVOr', 'serah olivar', 'sarii olavor'}, {'sarai olover', 'sorae OLover', 'sieer OLUVEr'}, {'soure OLOVEr', 'sireh olovor', 'sarao olivar'}, {'seoru OLIVOr', 'sarae olivar', 'siruh oluvor'}, {'suair OLIVIR', 'saahr OLAver', 'sarao oluver'}, {'sssor OLIVUr', 'sirah olivar', 'soruh olovir'}, {'sihrr OLAVOr', 'sarai olover', 'saruu Olaver'}, {'sirah olivur', 'sueru OLIVAr', 'sarou olavar'}, {'seraa oluvar', 'sarau olaver', 'souur OLIVUR'}, {'seruh olovir', 'suuir OLUVEr', 'saruh olaver'}, {'sarru olavir', 'sihre OLIVOr', 'sarau oluver'}, {'souur OLAVER', 'sarai olivur', 'sarro olovir'}, {'saora OLAver', 'saraw olivir', 'ssero OLUVER'}, {'siiur OLOVER', 'ssara oluvor', 'sarao oluver'}, {'sarrr Olover', 'ssuhr OLIVAR', 'surah olaver'}, {'soruh Olover', 'saraa olivar', 'soeur OLIVir'}, {'sssor OLIVOr', 'sarrr oluvor', 'sarao olover'}, {'seraw oluvor', 'saraa olivar', 'ssier OLOVEr'}, {'sawra OLivar', 'ssuru OLIVir', 'sarau olaver'}, {'saroh olaver', 'sarre oluvur', 'siier OLAVor'}, {'seerr OLIVor', 'sarue oluvir', 'sarae olivur'}, {'siuro OLIVor', 'saruu olovor', 'saroh olivur'}, {'sarea Olivar', 'soawr OLIVUR', 'saruh olivar'}, {'sieir OLIVOr', 'sarru oluvar', 'sarao olivur'}, {'saraa olivir', 'sarru olovar', 'ssiur OLIVUR'}, {'soiir OLAVOr', 'sorae oluvur', 'surah olivir'}, {'seuor OLIVar', 'siroh oluvor', 'saraa olivur'}, {'saraa olivor', 'sohri OLAVor', 'sorao oluvor'}, {'ssaor OLAVOr', 'saraa olover', 'saura olavir'}, {'saoar olavir', 'suuer OLIVOR', 'sarae olivur'}, {'sarei Olover', 'seoro OLAVOr', 'serah olover'}, {'soaur OLIVUr', 'sarih olivir', 'siroh olovor'}, {'saear olavir', 'suiri OLIVIr', 'sarao olover'}, {'siuri OLOVER', 'surao OLaver', 'saruh olover'}, {'sirah olivur', 'suure OLOVEr', 'saruu OLAver'}, {'sareh oluver', 'soeer OLIVIr', 'sorai oluvar'}, {'saroh olaver', 'souor OLOVER', 'soara OLOver'}, {'seara OLAver', 'seori OLIVOR', 'surah olaver'}, {'saroo OLover', 'seuur OLIVar', 'saroh olivur'}, {'sorae olavar', 'surah olivir', 'ssoir OLIVar'}, {'soiur OLIVOR', 'sarih olover', 'surao olovir'}, {'sarue olovar', 'sarae olover', 'sehro OLIVor'}, {'seeur OLIVOr', 'sariu Olivar', 'sarai olaver'}, {'sareo OLover', 'surah olivar', 'soeur OLIVOr'}, {'soara olovir', 'siurr OLIVir', 'sareh olover'}, {'siurr OLAVOr', 'sorah oluver', 'sirau olovor'}, {'serau OLover', 'seoir OLIVUr', 'saraa olivur'}, {'sarau olivur', 'sireh olavur', 'suere OLIVar'}, {'seara Olover', 'saruh olover', 'siere OLAVor'}, {'soere OLUVER', 'saraw olivar', 'sirih olovur'}, {'ssuur OLUVEr', 'saraa olaver', 'saroo oluvar'}, {'soruh OLAver', 'sarih olover', 'souhr OLIVur'}, {'suruh oluvar', 'soeer OLIVUr', 'saroh olover'}, {'sooro OLIVAR', 'saira OLAver', 'sareh olivor'}, {'soorr OLIVar', 'sarai olivar', 'saura oluvor'}, {'sarii OLAver', 'saroh olover', 'ssori OLIVOr'}, {'suiri OLIVOr', 'sarau olivar', 'sereh olavar'}, {'seuri OLIVAr', 'sirau olovir', 'sirah olivor'}, {'saraw oluver', 'saroi OLover', 'seeur OLUVEr'}, {'sirah oluver', 'saruu Olover', 'sseri OLAVEr'}, {'surih olavir', 'ssier OLIVAr', 'sarae olivur'}, {'sarri oluvar', 'siuhr OLAVER', 'sarao olivur'}, {'serao OLAver', 'sirah olover', 'siuri OLUVEr'}, {'seier OLIVUR', 'saraa olaver', 'sarea olovor'}, {'soeur OLAVor', 'serah olivir', 'surao olavar'}, {'suire OLUVER', 'sareh oluver', 'sorao olovor'}, {'soohr OLOVER', 'siruh OLivar', 'sarao olaver'}, {'sawra olavor', 'sueri OLIVur', 'sarao oluver'}, {'sorao OLivar', 'saraw olivur', 'seoro OLIVir'}, {'soeri OLOVER', 'ssara olavor', 'surah oluver'}, {'ssiri OLOVEr', 'sorah olaver', 'serau OLaver'}, {'saraa olivur', 'siire OLAVOr', 'serae OLivar'}, {'soaer OLIVIR', 'saear Olaver', 'surah olivar'}, {'sirah olaver', 'ssuur OLAVEr', 'sarre OLOver'}, {'siroh Olover', 'serah olivir', 'ssuur OLIVur'}, {'sarao olaver', 'siiro OLIVAR', 'ssara Olivar'}, {'sarii OLAver', 'seiir OLAVEr', 'sareh oluver'}, {'seraw oluvar', 'soirr OLIVUR', 'sarau olaver'}, {'sarih olivur', 'sario OLAver', 'seori OLUVER'}, {'suara oluvor', 'seuru OLIVIR', 'sarao olivar'}, {'saahr oluvar', 'soior OLIVir', 'sarao olivor'}, {'sawra OLivar', 'sueur OLIVir', 'saroh olivur'}, {'sarih olivor', 'sohrr OLIVor', 'saoar OLivar'}, {'soure OLAVor', 'sariu oluvor', 'saruh oluver'}, {'sarue OLover', 'ssier OLIVIR', 'sareh olover'}, {'ssuhr OLIVOR', 'saruo OLOver', 'sarau olivor'}, {'siuir OLUVER', 'sarue Olover', 'sarae olivur'}, {'ssuri OLUVEr', 'sarau oluver', 'serau oluvar'}, {'souru OLIVUR', 'sareh olaver', 'saahr olovor'}, {'saruu Olivar', 'suiru OLIVOR', 'saroh oluver'}, {'saora Olaver', 'sarae olaver', 'siihr OLAVOr'}, {'ssohr OLAVOr', 'surih OLaver', 'saraw olaver'}, {'serah olivur', 'soara olovar', 'seaur OLIVor'}, {'seraa Olivar', 'soehr OLAVor', 'serah olover'}, {'suroh olavur', 'sooor OLIVor', 'sarau oluver'}, {'serai olovar', 'serah olaver', 'suirr OLIVur'}, {'sarao olivir', 'saroe Olaver', 'sssur OLUVEr'}, {'saruh olaver', 'sarro olavir', 'sieer OLIVur'}, {'seaer OLAVor', 'surah olivur', 'sarii oluvar'}, {'surai OLAver', 'sareh olivir', 'siiro OLAVER'}, {'seorr OLAVEr', 'sorih olavar', 'sarau olivir'}, {'saara Olover', 'serah olivir', 'sieor OLIVIR'}, {'sirah olover', 'sueru OLAVor', 'sireh olavar'}, {'surah olover', 'sarri olovur', 'soiir OLIVir'}, {'soirr OLIVir', 'sarae olaver', 'saria olovur'}, {'souer OLIVOr', 'sarae olivir', 'soraa olovir'}, {'siuor OLIVar', 'sarih olivor', 'suruh olavor'}, {'suraa olovur', 'soaor OLOVER', 'serah oluver'}, {'sorah oluver', 'ssara oluvor', 'ssuru OLIVur'}, {'siire OLOVER', 'sorah oluver', 'sorao oluvor'}, {'sserr OLIVAR', 'surah olivar', 'sureh oluvor'}, {'soirr OLIVIR', 'surah olivir', 'saroa olavar'}, {'saroh olivir', 'sarei olavir', 'soaor OLUVER'}, {'seruh Olivar', 'seuur OLOVER', 'surah oluver'}, {'soaur OLIVUR', 'sorah oluver', 'suara OLAver'}, {'saruu oluvur', 'saraa olivir', 'siire OLIVOr'}, {'sario Olivar', 'saraa olaver', 'soior OLOVEr'}, {'saear olovur', 'seiir OLAVEr', 'surah oluver'}, {'sarua OLOver', 'suoer OLIVur', 'saruh olivur'}, {'saroh olivor', 'soruh OLAver', 'soure OLIVIR'}, {'saraw olivir', 'sirao OLivar', 'seaur OLIVUr'}, {'saruh olivir', 'saara olovor', 'suiri OLIVIR'}, {'sarre olovor', 'sarau olivar', 'seawr OLIVur'}, {'suuor OLAVor', 'sarih oluver', 'suara Olivar'}, {'serah olivur', 'ssuru OLAVER', 'sario Olaver'}, {'sareu olavur', 'sieur OLIVAR', 'surah olivar'}, {'saroh olivir', 'suhro OLIVir', 'sahra Olover'}, {'sarae olaver', 'soreh Olivar', 'seori OLAVEr'}, {'saroh olivor', 'soeer OLIVOR', 'serau olavor'}, {'saruh olivir', 'sarru olavar', 'sihri OLOVEr'}, {'serah olivor', 'saroa olovir', 'ssire OLIVOr'}, {'siroh OLover', 'saraa olivir', 'sueir OLAVOr'}, {'saara OLOver', 'sarau olivur', 'ssori OLOVEr'}, {'sarei olavur', 'sareh olivir', 'sueor OLIVOR'}, {'siroh OLover', 'seero OLAVEr', 'sarae olivur'}, {'sareh olivir', 'seiur OLAVER', 'sarri OLaver'}, {'sarai olivur', 'sauar OLAver', 'soorr OLAVER'}, {'saroh olivar', 'saruu OLover', 'suiro OLAVEr'}, {'suair OLIVur', 'sarao olivir', 'surao olovir'}, {'serah oluver', 'sseur OLUVER', 'sirih olavur'}, {'seoer OLIVIr', 'saruh olaver', 'saoar olovor'}, {'surau Olivar', 'saraa olivar', 'soehr OLIVUr'}, {'soeur OLAVEr', 'sarae olivor', 'saruu OLOver'}, {'sarue OLaver', 'sarao olivur', 'seeri OLIVOr'}, {'soara olavar', 'suuer OLIVur', 'sirah olivor'}, {'suoir OLUVEr', 'saear oluvur', 'sarai olaver'}, {'serih oluvur', 'siuru OLIVOR', 'sareh olaver'}, {'soroh oluvir', 'seuri OLIVIr', 'sarih olivir'}, {'saroe olavur', 'siuer OLIVAr', 'sirah olivir'}, {'serau Olover', 'sorah oluver', 'sieru OLIVIR'}, {'sooro OLIVor', 'saraw olaver', 'saruo olovur'}, {'saroe oluvur', 'seior OLIVOR', 'sarao oluver'}, {'sirah olaver', 'saroe oluvir', 'sseor OLIVOR'}, {'suore OLIVur', 'suruh oluvar', 'sareh olivar'}, {'sorae olavur', 'suoru OLIVir', 'sarao olover'}, {'sarau olover', 'sireh Olivar', 'suoor OLOVER'}, {'seuro OLAVER', 'soraa oluvir', 'saraw olaver'}, {'suuhr OLOVEr', 'sarih oluver', 'sarrr OLivar'}, {'saroo oluvor', 'ssuer OLAVEr', 'sarau olover'}, {'sorae OLOver', 'sserr OLOVER', 'saraw olivor'}, {'sareh olivur', 'sieor OLIVur', 'suroh oluvir'}, {'siuer OLUVER', 'saraa olivur', 'sorae oluvor'}, {'sueri OLIVUR', 'saroe oluvor', 'sarao olover'}, {'seraa OLaver', 'seiro OLIVIr', 'sarae olaver'}, {'sario oluvor', 'saraw olivir', 'ssero OLAVEr'}, {'suier OLAVOr', 'soroh olovar', 'sarao olivor'}, {'serah olivur', 'seuur OLIVAR', 'sereh olovor'}, {'sirih Olaver', 'suirr OLAVER', 'sarao olivar'}, {'soeur OLUVEr', 'seraa OLivar', 'saraa oluver'}, {'sarih olivar', 'sarrr olavur', 'suore OLOVEr'}, {'seore OLIVOR', 'soreh oluvir', 'sarae olivir'}, {'sarih olover', 'ssire OLIVAr', 'suruh oluvur'}, {'seeir OLUVER', 'sarae olivor', 'saria oluvor'}, {'ssoer OLIVUR', 'soroh oluvur', 'sarau olaver'}, {'suraw oluvar', 'suurr OLUVEr', 'saraa olivur'}, {'soeru OLIVur', 'saaar olavir', 'saruh olivar'}, {'saraa olivor', 'sariu olavur', 'siire OLAVOr'}, {'saroa OLAver', 'sihrr OLUVEr', 'sarao oluver'}, {'sarua olavur', 'soeir OLIVUr', 'sorah olivar'}, {'saroe olovur', 'suiro OLIVAR', 'sarai olivar'}, {'surau oluvur', 'sourr OLAVER', 'sarao olover'}, {'saruu olovar', 'sarai olaver', 'ssuor OLAVOr'}, {'serah olivur', 'suiri OLIVUR', 'sarre oluvor'}, {'soara oluvar', 'sareh olivar', 'ssure OLUVEr'}, {'ssuro OLIVur', 'serah olivar', 'soara olovar'}, {'sireh Olivar', 'soeri OLAVER', 'sarau olivir'}, {'saroh olivir', 'suuru OLIVIr', 'suraa olavar'}, {'seere OLAVER', 'suraw Olaver', 'surah olivur'}, {'suoer OLAVor', 'surai Olivar', 'sarae olivur'}, {'sirah olivur', 'seoer OLIVir', 'sarre OLover'}, {'ssiri OLIVIR', 'saroh olivur', 'sarea OLOver'}, {'saraa oluver', 'suior OLIVIR', 'seruh OLover'}, {'seruh oluvar', 'sorah oluver', 'soere OLIVar'}, {'sarea olavur', 'ssoru OLAVOr', 'sarao oluver'}, {'soiur OLUVEr', 'saruh olaver', 'sarii oluvir'}, {'ssire OLUVEr', 'sirah oluver', 'suruh OLivar'}, {'siiro OLIVor', 'sarro OLOver', 'sarao olivor'}, {'ssehr OLIVUR', 'sareh oluver', 'saoar OLover'}, {'sirah olivur', 'soerr OLIVur', 'serau oluvar'}, {'saroh olaver', 'seraa oluvir', 'sseor OLAVOr'}, {'sarra OLaver', 'saraw olivur', 'sssir OLOVEr'}, {'sarei OLOver', 'sserr OLAVor', 'sarae olivar'}, {'suuru OLOVEr', 'sarae olivor', 'sarrr olavir'}, {'saaar OLOver', 'sarau olaver', 'soiir OLAVEr'}, {'sorao Olaver', 'serah olivir', 'sieri OLIVor'}, {'siuir OLIVor', 'saroi olavir', 'sarai olivar'}, {'siurr OLIVur', 'sarih olivor', 'saroe olovar'}, {'siirr OLIVor', 'sorah oluver', 'saaar oluvur'}, {'sieir OLUVEr', 'sareh olivor', 'saera OLAver'}, {'suraw olovur', 'sarai olaver', 'sueor OLIVOR'}, {'sieer OLIVor', 'saruh olaver', 'sirau oluvir'}, {'suraa Olover', 'sarae olivor', 'suohr OLAVOr'}, {'serah olivor', 'sirae OLaver', 'siier OLAVEr'}, {'sirah oluver', 'soore OLOVEr', 'seraa olovur'}, {'sorah oluver', 'serai olavur', 'sehrr OLIVIR'}, {'saraa olivor', 'surao OLover', 'soire OLAVOr'}, {'saoar olovur', 'surah olover', 'soero OLAVor'}, {'soirr OLUVEr', 'saraa olivar', 'sorae olavir'}, {'saraw oluver', 'sireh Olover', 'soeri OLAVOr'}, {'sarue oluvor', 'saraa olivar', 'sseor OLIVAr'}, {'saroh olivar', 'sohro OLAVOr', 'saera olavar'}, {'seara olovar', 'sarih olaver', 'ssohr OLAVor'}, {'soruh oluvir', 'ssaur OLOVEr', 'sorah olover'}, {'saroh olivar', 'sehru OLAVER', 'serao olavir'}, {'suihr OLAVOr', 'sarua olovir', 'sorah olivor'}, {'sareo oluvur', 'ssuor OLAVOr', 'sarao olover'}, {'ssuru OLIVir', 'saahr Olover', 'saruh olivor'}, {'saroh olaver', 'sauar oluvar', 'suuor OLIVOR'}, {'saraw olivur', 'sohre OLIVOr', 'saroa OLivar'}, {'seiru OLIVir', 'sarih olivur', 'sario OLAver'}, {'sirae OLaver', 'sarih olivir', 'sihru OLIVAr'}, {'siroh OLover', 'surah olover', 'suero OLIVir'}, {'soroh Olivar', 'sueir OLOVEr', 'sirah olover'}, {'sauar oluvar', 'saraw olivar', 'seihr OLAVER'}, {'sirah oluver', 'ssirr OLIVir', 'sarei Olaver'}, {'sarae olover', 'sariu Olivar', 'suiir OLOVER'}, {'sareh olivir', 'serao oluvor', 'suiri OLIVAR'}, {'sarae olivar', 'sarua olavor', 'seihr OLIVor'}, {'seara olovur', 'sirah olover', 'siiro OLIVOr'}, {'seara olavur', 'sohru OLIVor', 'sorah olivur'}, {'sirah olivur', 'siraa Olivar', 'ssire OLOVER'}, {'sarih olivar', 'sieru OLIVOR', 'soraw oluvor'}, {'saraw olover', 'surae oluvor', 'ssohr OLUVEr'}, {'sareh olivur', 'souri OLUVEr', 'sorao OLover'}, {'saroh olivir', 'suire OLIVir', 'sarei olavar'}, {'suiir OLIVor', 'sorah olover', 'surai olovar'}, {'suaor OLIVIr', 'sorai OLover', 'sarao oluver'}, {'suhrr OLIVar', 'sireh OLover', 'saraw olivor'}, {'saroh olaver', 'sauar OLivar', 'ssere OLIVOR'}, {'siuur OLAVOr', 'surau Olaver', 'sorah olivar'}, {'sarui OLivar', 'soohr OLIVar', 'surah olivir'}, {'suaor OLIVor', 'sorau olavar', 'sareh olaver'}, {'saroh olaver', 'soerr OLIVir', 'suraa oluvir'}, {'ssoer OLIVIr', 'sarau oluver', 'surai olovar'}, {'sseur OLIVur', 'saroo OLover', 'sarae olivor'}, {'siruh oluvir', 'sarau olaver', 'ssour OLIVur'}, {'serao OLOver', 'sirah oluver', 'souru OLOVER'}, {'seeru OLIVir', 'sarau olivur', 'serau olovar'}, {'seire OLIVOR', 'sarae olivir', 'sauar oluvur'}, {'saroh olaver', 'suoer OLAVER', 'surih OLover'}, {'sureh olavur', 'sarae olivar', 'siire OLAVor'}, {'soara OLOver', 'sihru OLUVEr', 'saraw olivor'}, {'ssori OLIVOR', 'sirah olivar', 'seroh Olover'}, {'saraw olover', 'seeru OLIVur', 'saear olavar'}, {'sarro olavur', 'sehre OLIVIr', 'sarau olivar'}, {'ssiur OLIVir', 'saroe olavor', 'saraa olivar'}, {'sorah olivor', 'sueir OLAVOr', 'sarru oluvir'}, {'sehru OLIVur', 'sorau OLOver', 'sarau oluver'}, {'seair OLIVUr', 'siraw olavir', 'surah oluver'}, {'saraw oluver', 'seori OLAVor', 'sarre oluvur'}, {'saroi olavur', 'sareh olivir', 'siuhr OLAVER'}, {'sirah olover', 'suori OLOVER', 'sorih oluvur'}, {'ssure OLIVUr', 'sareh olaver', 'sereh olavar'}, {'saroh olivor', 'siruh oluvir', 'ssiur OLOVER'}, {'suurr OLAVOr', 'saruh olivar', 'sarre OLOver'}, {'sorae olavar', 'ssorr OLIVur', 'sorah oluver'}, {'sarau olivur', 'ssuur OLIVIR', 'sarre oluvur'}, {'sorao Olaver', 'siiru OLIVAR', 'surah olivir'}, {'saura oluvur', 'soore OLIVor', 'surah olaver'}, {'seior OLUVEr', 'serae OLaver', 'sarao olivar'}, {'seour OLIVur', 'saahr OLover', 'sirah olivor'}, {'sarai olivur', 'soiir OLIVUR', 'sarra olovur'}, {'ssser OLIVir', 'soraa oluvur', 'saroh olover'}, {'sarai olivor', 'sieer OLAVER', 'surai OLover'}, {'sirae olovar', 'sieri OLIVUr', 'serah olover'}, {'soere OLAVor', 'sarra Olaver', 'sareh olivar'}, {'saruu OLaver', 'sorah olaver', 'soeri OLIVIR'}, {'seuhr OLOVEr', 'sarra OLOver', 'sarih olaver'}, {'saraa olivar', 'seuro OLOVER', 'serai olavur'}, {'serai oluvar', 'sehru OLOVER', 'surah oluver'}, {'soraa OLover', 'suiro OLUVEr', 'sarae olivor'}, {'sirah olivur', 'sareu Olivar', 'siere OLOVEr'}, {'suurr OLIVAr', 'surao Olover', 'surah olivar'}, {'saraw olivar', 'suuer OLUVER', 'sirau olavir'}, {'serah olivor', 'siiro OLIVar', 'serao olovir'}, {'ssiir OLIVIr', 'sorah olivor', 'sureh oluvor'}, {'sarih olivar', 'sawra OLAver', 'ssure OLAVER'}, {'sereh OLaver', 'suuhr OLUVER', 'sarih olover'}, {'saraw olivor', 'sorai olovur', 'seuir OLAVor'}, {'sirah oluver', 'saear Olaver', 'siior OLIVIR'}, {'saroh olaver', 'seaur OLIVUR', 'sarri olavur'}, {'suerr OLIVar', 'saria olovir', 'sarae olivur'}, {'siraw olovar', 'serah olivur', 'soeru OLAVOr'}, {'serah olivar', 'suure OLUVEr', 'sarue olavur'}, {'soraa OLivar', 'ssier OLOVEr', 'saraa oluver'}, {'sirah olover', 'soaer OLIVOR', 'siraw OLover'}, {'sarai olivor', 'seihr OLIVIR', 'soruh Olivar'}, {'saraa olivar', 'soiru OLOVER', 'sirai Olover'}, {'saiar oluvar', 'ssuhr OLOVEr', 'saruh oluver'}, {'seiro OLIVAR', 'sarai olivir', 'surae OLAver'}, {'sseor OLIVUR', 'soraw olavor', 'saraa olover'}, {'suaor OLAVor', 'sareh olivur', 'soraa Olover'}, {'soruh OLaver', 'suhro OLIVIr', 'sirah olivor'}, {'saraw olivar', 'soeri OLIVur', 'sarea oluvar'}, {'seiru OLIVIr', 'saahr olavar', 'sarae olivur'}, {'saara Olover', 'sarao olaver', 'siure OLIVur'}, {'sirah olivur', 'sarei olavar', 'suaur OLIVOR'}, {'sirah oluver', 'sariu olovar', 'seaor OLOVER'}, {'sohrr OLUVEr', 'sarau olover', 'ssara Olaver'}, {'suuro OLIVar', 'sarru OLAver', 'surah olivir'}, {'sauar olovir', 'sseri OLIVAR', 'saraw olaver'}, {'sarru OLAver', 'siehr OLUVER', 'saraa olivur'}, {'seraw olovur', 'soehr OLIVar', 'sarau olaver'}, {'siior OLIVOR', 'sirae Olivar', 'saroh olover'}, {'sorah oluver', 'seurr OLIVAr', 'soara olavar'}, {'sarui OLivar', 'sarae olivar', 'seoir OLIVor'}, {'ssire OLIVUr', 'saaar Olaver', 'sarau oluver'}, {'saraw olivur', 'saoar OLaver', 'ssori OLIVAr'}, {'souhr OLIVar', 'sarih oluver', 'sarei OLaver'}, {'seure OLIVOr', 'sereh Olaver', 'sarau olivar'}, {'siehr OLOVEr', 'saraa olivur', 'serih Olover'}, {'surao oluvar', 'sareh olivor', 'ssoer OLAVor'}, {'sarre olavir', 'serah oluver', 'sourr OLIVUr'}, {'sehri OLUVER', 'sarao olivur', 'seruh oluvir'}, {'serah olivor', 'suara oluvur', 'sieir OLAVER'}, {'saroh olaver', 'sarue olavor', 'sieer OLIVOr'}, {'soeru OLIVur', 'sarro Olivar', 'sarih olover'}, {'sieur OLIVOr', 'serah olaver', 'ssara olovur'}, {'sieor OLIVUr', 'serai OLivar', 'sarao olover'}, {'sarih olivor', 'siiur OLAVor', 'sauar olavor'}, {'sareo olavur', 'seuor OLIVAr', 'saraw olover'}, {'sareh olivur', 'sariu olovur', 'sseri OLIVUR'}, {'sooer OLIVAR', 'siraw OLOver', 'surah olivir'}, {'souro OLIVUr', 'saruo olavir', 'serah oluver'}, {'sarro olovur', 'siure OLIVir', 'surah olivur'}, {'ssirr OLAVER', 'sirau OLaver', 'sarau oluver'}, {'seuor OLIVor', 'sareu olovur', 'sarih olover'}, {'suier OLAVOr', 'saaar oluvar', 'surah olaver'}, {'seurr OLIVar', 'sarua olovur', 'saraa olover'}, {'surah olover', 'saroe Olover', 'seuir OLIVIr'}, {'sirah olivur', 'seeur OLOVEr', 'saear olavur'}, {'suehr OLIVor', 'soraw Olivar', 'sarao olivar'}, {'saroe OLOver', 'sarae olivar', 'seuir OLOVEr'}, {'sihru OLIVor', 'serih olavor', 'sorah olivir'}, {'saroo Olivar', 'suehr OLIVir', 'sareh olivar'}, {'saria oluvur', 'sarih olivor', 'siuri OLUVER'}, {'surah olover', 'serao olovur', 'seuhr OLIVar'}, {'serah olivar', 'sooro OLIVIr', 'sario oluvor'}, {'sarua Olaver', 'sieer OLOVEr', 'serah olaver'}, {'sauar OLover', 'suerr OLAVER', 'surah olivar'}, {'soreh olavir', 'souri OLIVUR', 'serah oluver'}, {'surai OLAver', 'surah olivur', 'sseir OLUVEr'}, {'sarue olovir', 'ssoer OLIVOR', 'sarae olivur'}, {'saroh olivor', 'soraa oluvor', 'siiir OLIVIr'}, {'sohru OLIVOR', 'saira OLAver', 'sarao olivor'}, {'serah olivar', 'sorao OLaver', 'ssiri OLIVAr'}, {'serao OLAver', 'sohre OLIVAr', 'saruh olover'}, {'ssurr OLAVor', 'surae oluvor', 'saruh olivur'}, {'saraw olover', 'soara OLaver', 'suere OLIVor'}, {'suore OLIVir', 'sareh olivir', 'sareu OLivar'}, {'sssir OLOVEr', 'sireh olavur', 'sarih olivir'}, {'saroa OLaver', 'surah olover', 'ssair OLOVEr'}, {'sserr OLIVAr', 'saura OLaver', 'saruh olivar'}, {'seoer OLIVAR', 'saiar OLaver', 'sarau olivor'}, {'saraa olivir', 'sorae olovur', 'suori OLAVEr'}, {'sarre OLivar', 'ssoor OLIVur', 'saruh olover'}, {'saroh olaver', 'suraw olavur', 'ssaer OLAVor'}, {'sureh olavur', 'saraw olivur', 'sssur OLIVOr'}, {'sareu OLover', 'suerr OLIVIR', 'sarau olivar'}, {'surae olavar', 'sohre OLIVor', 'sareh olover'}, {'saroh olivir', 'surih olovir', 'sooor OLIVAR'}, {'sieor OLAVOr', 'surau olovir', 'saroh olivur'}, {'sahra OLAver', 'soori OLAVOr', 'saruh olivar'}, {'serah olivir', 'soiri OLIVAR', 'sorao OLaver'}, {'saraa olivur', 'sohro OLAVEr', 'soruh Olivar'}, {'serah olivor', 'surao OLover', 'suuhr OLAVER'}, {'suhru OLIVIr', 'sarih olover', 'seroh olavor'}, {'seraw oluvir', 'suurr OLUVER', 'sarae olivur'}, {'suire OLAVER', 'sorah olivir', 'sirau OLaver'}, {'sarao olivir', 'suroh oluvur', 'sieer OLIVIR'}, {'sirah olaver', 'sseru OLIVir', 'siraw OLAver'}, {'soair OLIVir', 'seraw olovor', 'saruh olivor'}, {'siroh olovir', 'seiur OLIVIR', 'saroh olivur'}, {'soeri OLIVAr', 'saroe Olivar', 'surah olaver'}, {'sureh Olaver', 'saraw olover', 'suoir OLIVUR'}, {'ssara Olover', 'sarih olover', 'seawr OLIVIr'}, {'sueor OLIVur', 'saroh olivur', 'surao olovir'}, {'suour OLIVUR', 'serae olovar', 'sarau olivor'}, {'soeor OLIVar', 'sareh oluver', 'sorai Olover'}, {'siire OLIVIR', 'saraa olivar', 'sarii olavur'}, {'ssoir OLIVir', 'saora Olivar', 'sareh olivar'}, {'ssour OLIVAr', 'saruu olavar', 'saruh olaver'}, {'saraw olivir', 'siuri OLIVIR', 'sarru OLivar'}, {'saraw oluver', 'sarra olovor', 'souhr OLOVER'}, {'serah olivir', 'seuro OLIVAr', 'surae oluvar'}, {'siruh OLover', 'soiir OLIVAR', 'sarih olivir'}, {'seorr OLIVIr', 'sorai olovir', 'sirah olivir'}, {'sirah oluver', 'suruh OLOver', 'sueru OLAVER'}, {'sarih olivar', 'sirao olovur', 'sseri OLIVir'}, {'sareh olivur', 'seraw olavur', 'sohrr OLIVir'}, {'suiri OLIVir', 'suraa Olover', 'sarau olivar'}, {'sirah oluver', 'siire OLIVir', 'sarru olavur'}, {'siruh OLivar', 'sooor OLIVOR', 'sorah olivur'}, {'soori OLUVER', 'saroo OLover', 'sorah oluver'}, {'sahra olavir', 'saraa olivar', 'seoru OLOVEr'}, {'sarrr olavor', 'saroh olivor', 'suoru OLOVEr'}, {'sarae olivar', 'suaur OLAVOr', 'saoar OLaver'}, {'saraw olover', 'sario OLivar', 'suuor OLIVor'}, {'soire OLIVUR', 'saora OLover', 'saraw olaver'}, {'suraa OLaver', 'seurr OLAVor', 'saruh olover'}, {'saoar Olivar', 'sareh oluver', 'suiri OLIVIr'}, {'sarei Olivar', 'sueir OLUVER', 'sareh olover'}, {'ssoor OLIVir', 'serah olivir', 'sariu olovor'}, {'sarre olovor', 'surah olivor', 'sohro OLIVAr'}, {'saraw olivor', 'siuur OLUVEr', 'saroe oluvur'}, {'sirae olavar', 'ssour OLIVOr', 'sirah olivor'}, {'saira olavar', 'seaer OLIVar', 'saruh olover'}, {'sorah olivor', 'suihr OLIVIR', 'sawra Olover'}, {'saraw olivir', 'suara OLOver', 'ssihr OLIVOR'}, {'seaor OLUVER', 'sirah olivar', 'serae Olivar'}, {'ssara oluvir', 'sareh olivir', 'suuor OLIVUR'}, {'surai oluvir', 'sarai olover', 'ssiir OLOVER'}, {'suiir OLUVER', 'sarih olover', 'serih Olivar'}, {'sawra olavir', 'saraw olivur', 'sihre OLIVOR'}, {'seoru OLAVor', 'saura OLOver', 'sarao olover'}, {'sooer OLIVur', 'saruh olivar', 'saruo Olivar'}, {'sohre OLIVir', 'saera OLaver', 'sarau olivor'}, {'serah olivur', 'saiar oluvor', 'seuor OLIVir'}, {'saraa olaver', 'sarui oluvir', 'soero OLOVER'}, {'seohr OLOVER', 'surae OLOver', 'saraw olivur'}, {'sarae olover', 'sieur OLUVER', 'sareu Olover'}, {'soroh Olivar', 'sareh olivur', 'suier OLAVOr'}, {'seroh Olover', 'sehri OLIVUR', 'sirah olivir'}, {'serih olovir', 'saroh olover', 'suuor OLIVor'}, {'sirah olivar', 'sieur OLUVER', 'sorau oluvor'}, {'ssuri OLUVEr', 'sorao olovar', 'surah olaver'}, {'saura olavar', 'sssor OLIVUR', 'sarai olaver'}, {'saira OLAver', 'surah olivar', 'seuro OLIVIr'}, {'sirah olaver', 'ssuir OLIVIR', 'sareo Olover'}, {'siraw oluvor', 'souor OLIVUR', 'sirah olivir'}, {'sarro Olaver', 'sorah olover', 'ssuir OLOVER'}, {'sueru OLIVUr', 'seroh OLOver', 'sarau olivor'}, {'ssuer OLIVOR', 'sireh olavur', 'sarao oluver'}, {'sarrr olavir', 'sihro OLIVAR', 'sorah olivur'}, {'suara olovor', 'sarai olover', 'ssure OLIVAr'}, {'ssuro OLIVAR', 'saraa oluver', 'sirau oluvor'}, {'serau olovur', 'ssuru OLAVER', 'sarai olaver'}, {'saroi Olivar', 'saroh olivur', 'soehr OLIVOr'}, {'sihru OLAVEr', 'sareu OLaver', 'sareh olover'}, {'surao oluvir', 'sirah olivor', 'suuer OLIVor'}, {'sorao OLivar', 'soour OLUVER', 'saruh oluver'}, {'surau oluvir', 'souri OLIVIr', 'sarao olivor'}, {'sarae olover', 'seore OLUVEr', 'saroo olovor'}, {'saroh olivor', 'suuru OLOVEr', 'saora olavar'}, {'sarih olivor', 'suour OLIVur', 'saora olovor'}, {'saroh oluver', 'siuer OLIVor', 'siraw olovor'}, {'sarai olivor', 'souru OLOVEr', 'sirai OLOver'}, {'siirr OLIVAr', 'sirih olovir', 'sarao olivar'}, {'sihre OLIVOr', 'saruh olivur', 'sorai OLover'}, {'sarai olover', 'soraa olavir', 'ssohr OLIVor'}, {'sohrr OLUVEr', 'soraa Olaver', 'sareh olivar'}, {'serah olivur', 'surae OLivar', 'siiri OLIVAr'}, {'serah olivir', 'soerr OLIVIR', 'saear olovir'}, {'saroh olaver', 'sariu Olivar', 'sssor OLIVOR'}, {'sorau olavur', 'sarau olivur', 'ssihr OLIVOr'}, {'serah olaver', 'sareu OLAver', 'sueor OLIVAR'}, {'seoir OLOVER', 'serau olovir', 'sorah olivar'}, {'saroh olivar', 'sariu oluvur', 'sihrr OLAVOr'}, {'saroh olaver', 'ssohr OLOVEr', 'sarri OLaver'}, {'sueor OLIVOr', 'sarrr olovur', 'sarau olover'}, {'seiri OLOVEr', 'sorah oluver', 'saria olovir'}, {'surau oluvur', 'souhr OLIVir', 'sarih olivir'}, {'seoor OLIVAr', 'surae olovir', 'sarao olivur'}, {'sauar olavar', 'soero OLIVir', 'sarae olivur'}, {'ssurr OLOVEr', 'sawra olavar', 'saruh olover'}, {'sarih olivor', 'seire OLUVER', 'sawra olovur'}, {'sirau olovar', 'sarau olover', 'soure OLAVEr'}, {'ssirr OLIVor', 'sorih OLivar', 'sarao oluver'}, {'soaer OLIVUR', 'surah olivor', 'soruh Olivar'}, {'sorau olavar', 'surah olivur', 'suair OLIVIR'}, {'saraw oluver', 'sorau Olaver', 'ssirr OLIVUR'}, {'saaar olovar', 'suiro OLAVOr', 'saroh olover'}, {'saraa olivar', 'suara Olover', 'ssuhr OLIVAr'}, {'suohr OLIVUR', 'saruh olivir', 'sawra oluvur'}, {'sirah olivur', 'sarrr OLOver', 'sseor OLAVor'}, {'suuro OLAVEr', 'sarru oluvor', 'saraw olivor'}, {'seour OLIVIr', 'siroh oluvar', 'sarai olivar'}, {'saria olovor', 'sieor OLIVOR', 'surah olivur'}, {'sarao olivir', 'suara OLOver', 'suere OLAVER'}, {'suuro OLIVUr', 'sarae olivar', 'saoar olavar'}, {'sseru OLIVAr', 'seroh OLaver', 'sarih olaver'}, {'sieru OLIVUR', 'serao oluvir', 'sarau olivir'}, {'suurr OLIVAR', 'sireh olavor', 'sarao olivar'}, {'saroe Olaver', 'seire OLIVOr', 'saruh olivir'}, {'suori OLOVEr', 'suara olovar', 'sarau olover'}, {'seeur OLAVER', 'sarue Olivar', 'serah olover'}, {'sarai olivur', 'ssihr OLIVir', 'saroa Olaver'}, {'sirai oluvir', 'serah olivir', 'suorr OLIVir'}, {'saroh olivor', 'sarue olovir', 'ssuri OLOVER'}, {'serah olivor', 'suuer OLIVOr', 'soara OLivar'}, {'serai oluvar', 'sorah olivar', 'sieir OLIVOR'}, {'serah olivar', 'saera olavor', 'siiro OLOVER'}, {'sirae OLover', 'sarao olivir', 'suoor OLOVEr'}, {'sarai olivor', 'serai OLOver', 'soiri OLIVIr'}, {'sirau Olover', 'seair OLIVUr', 'saruh olivar'}, {'suirr OLIVAR', 'sareh olivir', 'saruo OLivar'}, {'ssiru OLIVUr', 'saraa oluver', 'sureh Olover'}, {'serau Olivar', 'ssoer OLIVor', 'sarih olover'}, {'ssair OLAVOr', 'sarae olivir', 'sario olovir'}, {'suhrr OLIVar', 'sarau oluver', 'saura oluvor'}, {'suure OLIVUR', 'saruh olivar', 'sariu OLaver'}, {'sireh olavir', 'sarai olover', 'seoro OLIVir'}, {'saria olovor', 'sareh olivur', 'siuri OLIVUr'}, {'seiro OLIVor', 'surau oluvir', 'surah olaver'}, {'serah olivir', 'siroh olovor', 'seeor OLAVER'}, {'saroh oluver', 'siraw olavor', 'ssoer OLIVOr'}, {'suuer OLIVOr', 'surae oluvor', 'saroh olivur'}, {'suruh oluvir', 'sarau olivur', 'siuru OLUVER'}, {'sarea Olover', 'suuur OLIVur', 'sorah olivor'}, {'sawra OLover', 'sarai olover', 'seoir OLIVur'}, {'seair OLIVIR', 'saria olavur', 'surah olivor'}, {'serah olivar', 'sarua Olivar', 'suhre OLIVUr'}, {'saera olavur', 'sarae olivar', 'suior OLIVUR'}, {'saraw oluver', 'seara Olover', 'soair OLIVOr'}, {'saraw olivar', 'siuor OLOVER', 'ssara Olivar'}, {'seeor OLIVor', 'sarra Olaver', 'serah olover'}, {'sarae olivar', 'suraa olavur', 'siiur OLIVIR'}, {'saiar OLover', 'saraw olivar', 'seaer OLIVOR'}, {'suior OLIVor', 'soraa olavor', 'sareh olivor'}, {'ssoru OLIVOR', 'sareo olavar', 'sareh olivor'}, {'ssaur OLOVER', 'saruh olivir', 'surih Olivar'}, {'saraw oluver', 'saroa OLAver', 'suoor OLAVEr'}, {'sarii olovir', 'sarae olivor', 'siere OLIVIr'}, {'sawra olavur', 'surah olivar', 'sueer OLAVor'}, {'suraa olovar', 'sareh olivur', 'soerr OLIVOr'}, {'seruh oluvur', 'sarau olivur', 'sohro OLIVUR'}, {'surau OLivar', 'sierr OLIVUr', 'sarao olover'}, {'sarre OLivar', 'sseer OLIVar', 'sarao oluver'}, {'sssir OLIVor', 'sareo olavir', 'sirah olivir'}, {'sehru OLOVEr', 'saiar OLaver', 'sarau olivor'}, {'sirau oluvur', 'seiir OLAVEr', 'saraa oluver'}, {'saura olovor', 'sarih oluver', 'suero OLIVAr'}, {'surau oluvur', 'seiru OLIVur', 'sarae olivur'}, {'soaur OLIVIR', 'sarau olivar', 'soraw olavir'}, {'saroh olivar', 'soara olovir', 'suuor OLAVER'}, {'sarae olivor', 'suaur OLIVOR', 'saruo olovir'}, {'serah olivur', 'soraw OLAver', 'suier OLIVur'}, {'sarai olivur', 'sirau Olover', 'seuhr OLIVIr'}, {'suroh olovor', 'soeur OLIVUr', 'sarao olivor'}, {'sirah olover', 'saara OLivar', 'suerr OLIVUR'}, {'seuur OLAVER', 'sarei oluvor', 'sarau olivor'}, {'seere OLIVAr', 'sareh olivir', 'saria olovar'}, {'siehr OLOVER', 'soraa OLaver', 'sarae olaver'}, {'siraa olovar', 'sseir OLAVEr', 'sirah olover'}, {'sarii olovir', 'serah olivur', 'suiru OLAVEr'}, {'sireh olavir', 'suire OLAVOr', 'surah olaver'}, {'suaor OLAVER', 'surah olover', 'sirao olovar'}, {'sarai olivor', 'siruh olovur', 'ssoru OLIVIR'}, {'sarai olover', 'siiur OLAVER', 'saora oluvor'}, {'serau olovur', 'sarai olivir', 'suair OLIVAr'}, {'suuru OLIVur', 'seruh olovir', 'saruh olivor'}, {'siraw Olover', 'suire OLAVER', 'sarao olivor'}, {'sarai olivur', 'surih olavar', 'suuru OLIVUr'}, {'sarau olover', 'sieur OLAVER', 'sirai OLivar'}, {'suoro OLIVIr', 'sorah olivir', 'suruh Olover'}, {'suawr OLIVir', 'sarau olivur', 'saara Olaver'}, {'saira Olivar', 'suoir OLIVOr', 'sarao olivor'}, {'seore OLIVIR', 'sarai olivar', 'sirih olavur'}, {'saear oluvor', 'suuhr OLIVIr', 'saruh olover'}, {'ssser OLIVIr', 'saruo olovir', 'sarao olivur'}, {'sereh Olover', 'suaur OLIVOR', 'sorah olivar'}, {'sirai olovir', 'seirr OLAVor', 'sarao olivar'}, {'ssure OLUVEr', 'sereh oluvur', 'serah olover'}, {'seruh OLOver', 'sseer OLIVUr', 'surah oluver'}, {'saroa oluvor', 'siere OLIVur', 'sirah olivir'}, {'sirau OLivar', 'sarau olover', 'suiur OLIVar'}, {'sarui Olover', 'sarae olivir', 'suawr OLIVIr'}, {'siuir OLIVIR', 'sarau olivur', 'sarre olavir'}, {'sarai oluver', 'sorau olovir', 'siuhr OLIVOR'}, {'sorai Olaver', 'saraw olivar', 'sierr OLIVIr'}, {'suoor OLIVAR', 'sarai olivir', 'saaar olavar'}, {'seraa olavir', 'sarae olivar', 'ssaur OLUVEr'}, {'saraw oluver', 'sihru OLIVor', 'saruo olavar'}, {'sirah olivur', 'serae olovur', 'souur OLIVUR'}, {'suara OLAver', 'saraw olaver', 'souir OLIVAr'}, {'seerr OLAVor', 'sereh Olaver', 'saroh olover'}, {'seurr OLIVar', 'sahra olavor', 'sareh olivar'}, {'saraa olivar', 'seoir OLIVUR', 'soreh OLover'}, {'ssuur OLIVir', 'sarae olivir', 'sarra OLover'}, {'siraw olovur', 'sarai olivir', 'suawr OLOVER'}, {'soior OLAVER', 'sireh OLOver', 'surah olivur'}, {'saroh olivar', 'siraw OLover', 'soiir OLAVEr'}, {'saroh olivir', 'soire OLIVIr', 'sereh olavar'}, {'seuur OLIVar', 'sarau olivur', 'sareu olavir'}, {'sueru OLIVOr', 'saraa oluver', 'saera olovir'}, {'sarui olavur', 'serah olivir', 'seaur OLIVar'}, {'soero OLIVor', 'seruh olavor', 'sirah olivir'}, {'ssure OLOVEr', 'sarrr olavur', 'sarau olivor'}, {'sirah olivur', 'sarri Olivar', 'sehru OLOVER'}, {'sarii oluvor', 'sihre OLIVur', 'sarae olivur'}, {'sarue oluvor', 'seohr OLOVER', 'sarau olaver'}, {'ssier OLIVIr', 'seraw olavur', 'sorah olivir'}, {'suair OLIVUr', 'saruu OLaver', 'saruh olivar'}, {'ssser OLIVOr', 'seara oluvor', 'saraa olivir'}, {'sarae oluver', 'sahra OLOver', 'soour OLUVEr'}, {'saera olavur', 'siehr OLIVUr', 'sirah olivir'}, {'sarih olivir', 'suiro OLIVOr', 'siraw oluvar'}, {'seraw olovir', 'souhr OLIVIr', 'sareh olivar'}, {'sarai olover', 'sarru oluvar', 'siuor OLIVUr'}, {'saear oluvar', 'sarih olaver', 'sseor OLUVER'}, {'saoar oluvir', 'ssiur OLOVER', 'saruh olivor'}, {'sarii oluvor', 'sarae olover', 'ssiri OLAVOr'}, {'sorau olavur', 'siere OLIVOr', 'surah oluver'}, {'saora oluvir', 'ssier OLUVER', 'sarau olivir'}, {'soreh OLAver', 'suiri OLOVER', 'sarae olivar'}, {'sareh oluver', 'sssur OLIVar', 'saora olavur'}, {'ssuri OLIVUr', 'seraa olavur', 'sarao olivor'}, {'ssuro OLIVur', 'sario Olivar', 'saruh olivar'}, {'sarro OLAver', 'seoro OLUVEr', 'saruh olover'}, {'serah olivar', 'sourr OLIVAr', 'sarri OLOver'}, {'sorih Olaver', 'saraa oluver', 'suhrr OLIVIr'}, {'seiir OLIVIR', 'sarru olovir', 'sarao oluver'}, {'surah olivor', 'siuer OLIVor', 'soraa OLOver'}, {'saroh olivir', 'sooer OLIVor', 'seraw Olover'}, {'seawr OLIVar', 'saraa olivur', 'surai OLaver'}, {'saraw olivar', 'suara oluvar', 'suohr OLIVOr'}, {'sureh OLivar', 'sseri OLIVur', 'sorah olivir'}, {'sarro Olivar', 'suhre OLIVar', 'sarau olivir'}, {'surao olovor', 'saraw olivur', 'sueor OLAVER'}, {'saraa olivar', 'suuro OLIVUR', 'siraa OLivar'}, {'suraa OLaver', 'suere OLOVEr', 'saraw olaver'}, {'sirah olivar', 'saara OLivar', 'sssir OLIVOR'}, {'sarru OLivar', 'soire OLIVIR', 'serah olover'}, {'sarae olivir', 'sseur OLUVER', 'sarre olavar'}, {'seoru OLAVEr', 'sarau olover', 'sarri olavar'}, {'saara Olover', 'surah olivor', 'sohru OLOVER'}, {'sehro OLAVor', 'sarih olover', 'serih OLivar'}, {'sarau olivar', 'siiri OLUVEr', 'siraw Olaver'}, {'sirau oluvur', 'seuru OLAVor', 'surah olivir'}, {'saroi OLover', 'sueor OLIVAr', 'saraa olivur'}, {'ssori OLAVOr', 'sarih olivur', 'sarri Olaver'}, {'serao Olover', 'sarih olover', 'soore OLIVOr'}, {'seier OLOVEr', 'saraa olaver', 'suraw olavar'}, {'sihru OLIVIr', 'saira OLover', 'sarai olivar'}, {'saera Olover', 'sarai olivur', 'seuhr OLIVur'}, {'saraw olivor', 'sureh OLover', 'souur OLIVIr'}, {'sareo Olivar', 'sarao olaver', 'sihre OLIVir'}, {'ssoro OLIVor', 'saahr oluvur', 'sorah olover'}, {'sarri OLOver', 'saraa olivir', 'sieur OLIVir'}, {'serau olavur', 'serah olivir', 'suihr OLIVor'}, {'seerr OLOVER', 'surae OLover', 'sarao olivar'}, {'saroh olivor', 'surae olavur', 'seuhr OLIVor'}, {'suior OLAVER', 'sarau olivar', 'suraw oluvor'}, {'sarai olivor', 'seroh Olover', 'ssser OLIVAr'}, {'suruh olavor', 'sehrr OLIVUR', 'saruh olover'}, {'saoar olovor', 'sseur OLIVUR', 'sarih olaver'}, {'suhrr OLIVir', 'siruh olavir', 'serah olivir'}, {'saira olovor', 'soohr OLAVOr', 'serah olover'}, {'serau OLAver', 'surah olivir', 'souir OLAVEr'}, {'sarea olovir', 'sueur OLOVER', 'sarau olover'}, {'sarra OLaver', 'suuri OLIVAr', 'sorah olivor'}, {'ssihr OLOVEr', 'sereh oluvar', 'serah olover'}, {'sohru OLAVOr', 'saroi oluvur', 'sarao olivur'}, {'saroh olaver', 'ssawr OLAVor', 'sireh olavor'}, {'seeor OLUVEr', 'saroh oluver', 'serih OLaver'}, {'sarai oluver', 'suruh OLOver', 'suore OLAVEr'}, {'suuer OLAVEr', 'sarih olivir', 'seraw olavar'}, {'siiri OLAVOr', 'sarih olivir', 'surao OLaver'}, {'saiar olavir', 'suhru OLUVER', 'saraa olover'}, {'soraa oluvor', 'ssiro OLOVEr', 'serah olover'}, {'suire OLIVIr', 'sureh olovar', 'saroh olivur'}, {'seruh oluvor', 'sareh olaver', 'ssier OLIVUr'}, {'seohr OLIVAR', 'suruh Olover', 'sirah olivir'}, {'siiro OLAVor', 'sahra oluvor', 'saruh olivir'}, {'sahra oluvir', 'ssser OLIVar', 'sarau olivur'}, {'siiri OLIVor', 'sarri olovar', 'serah olivir'}, {'soaur OLAVEr', 'serah olivur', 'suruh olovur'}, {'sarao olivir', 'siuor OLIVOr', 'sahra olovar'}, {'suior OLIVUr', 'sareu olovir', 'saraw olivur'}, {'serau OLivar', 'sirah olivar', 'sueru OLIVAR'}, {'sirah olivar', 'ssara olovur', 'suore OLOVER'}, {'surae oluvur', 'saruh olivar', 'seuri OLIVur'}, {'sorai Olaver', 'serah olaver', 'soeur OLIVur'}, {'suruh OLAver', 'soaer OLIVIR', 'sorah olivor'}, {'suara olovor', 'suiro OLUVEr', 'saruh olivur'}, {'serao OLAver', 'saraa olivur', 'sieur OLIVOR'}, {'sirah oluver', 'ssuur OLOVER', 'sorai Olover'}, {'saura Olivar', 'siero OLOVER', 'sorah olivur'}, {'saraw oluver', 'ssara olovur', 'suere OLIVur'}, {'sarue Olivar', 'sseri OLUVER', 'surah olivir'}, {'saraa olivor', 'sooru OLIVOR', 'soreh olovir'}, {'soeri OLIVar', 'surai olavir', 'sarau olaver'}, {'sarao olivir', 'seori OLOVEr', 'surao Olover'}, {'suior OLUVEr', 'seraw OLAver', 'sarao olivar'}, {'sirah olivur', 'ssirr OLAVER', 'sarue oluvor'}, {'sarii OLOver', 'ssere OLIVAR', 'sarau olaver'}, {'suuro OLIVur', 'sario oluvar', 'saraw olaver'}, {'saria OLivar', 'sarau olivur', 'seior OLIVOr'}, {'serae Olivar', 'siuor OLUVEr', 'surah oluver'}, {'sarae oluver', 'soeir OLAVER', 'ssara olovor'}, {'sareo Olivar', 'suuhr OLIVAR', 'saruh olivur'}, {'sihro OLIVIR', 'suara olavur', 'sarau olivar'}, {'seara OLOver', 'seaur OLIVIR', 'sarae olivar'}, {'soaur OLUVER', 'sorah oluver', 'sarou olovir'}, {'sarrr OLaver', 'serah olivar', 'seuir OLOVER'}, {'sariu olavur', 'suire OLIVor', 'sorah olivur'}, {'sarae olivar', 'saora OLover', 'ssoer OLIVOr'}, {'sieur OLOVER', 'soroh olavur', 'sarau oluver'}, {'suuro OLIVIr', 'sareh oluver', 'surao OLAver'}, {'sarau olover', 'sarii olavur', 'suiri OLIVir'}, {'sarii olavar', 'sarih olivar', 'suihr OLIVOr'}, {'sarre olovir', 'sarih olivir', 'sohre OLAVEr'}, {'ssirr OLIVOr', 'sarre Olivar', 'saruh oluver'}, {'suirr OLIVir', 'saoar olavar', 'sarau olivir'}, {'sareh olivir', 'souri OLIVUR', 'surae olovor'}, {'sarih olivur', 'saura OLaver', 'suiru OLAVEr'}, {'seiro OLIVOr', 'sareh oluver', 'soreh OLOver'}, {'soara olovur', 'ssore OLIVir', 'sarao olover'}, {'saroi olavur', 'souer OLOVER', 'sarau olaver'}, {'serah olivor', 'saira OLAver', 'sehrr OLIVir'}, {'sarai olivur', 'sarui OLaver', 'sourr OLOVEr'}, {'sarao olivir', 'saroo OLover', 'siior OLIVUr'}, {'sssur OLIVor', 'sarua OLivar', 'sarih olaver'}, {'sieur OLIVIR', 'saruu oluvor', 'sareh olivor'}, {'sarai olivor', 'soier OLAVER', 'surih olavar'}, {'saraw olivar', 'sirau olavor', 'ssour OLAVEr'}, {'sueur OLOVEr', 'sarra oluvir', 'serah olover'}, {'sarru OLOver', 'sarai olivir', 'siier OLAVor'}, {'seere OLUVEr', 'saaar olavur', 'saroh olover'}, {'sauar oluvir', 'saruh olivir', 'sohre OLOVER'}, {'seraw olavor', 'ssuor OLOVER', 'saruh olover'}, {'saura OLAver', 'souur OLIVir', 'saruh olivar'}, {'sirah olaver', 'ssurr OLIVir', 'sawra olavar'}, {'soraa olovor', 'sarae olivir', 'seaor OLOVER'}, {'saruo Olover', 'sohre OLIVur', 'sarau olaver'}, {'saear oluvar', 'siier OLIVAR', 'saruh oluver'}]
+sarah oliver        : DEBUG: Additional rule variations: {'saraH oLVer'}
+sarah oliver        : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 4
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "sarah oliver": {
+            "first_name": {
+                "score": 0.9848851582501288,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.9833333333333334
+                    },
+                    "count": {
+                        "actual": 3,
+                        "expected": 3.9200000000000004,
+                        "score": 0.9659010550008585
+                    },
+                    "uniqueness": {
+                        "unique_count": 3,
+                        "total_count": 3,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "ssiri",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "saroh",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "sarea",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.9848851582501288,
+            "final_score": 0.9879081266001031,
+            "variation_count": 4,
+            "non_rule_compliant_variations_count": 3,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.9848851582501288,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.9833333333333334
+                    },
+                    "count": {
+                        "actual": 3,
+                        "expected": 3.9200000000000004,
+                        "score": 0.9659010550008585
+                    },
+                    "uniqueness": {
+                        "unique_count": 3,
+                        "total_count": 3,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "OLIVIR",
+                            "phonetic_score": 0.9999999999999999,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "olivur",
+                            "phonetic_score": 0.9999999999999999,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "OLOver",
+                            "phonetic_score": 0.9999999999999999,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_random_vowel": [
+                            "saraH oLVer"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "saraH oLVer": [
+                            "remove_random_vowel"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.25,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "sarah oliver": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_random_vowel": [
+                            "saraH oLVer"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "saraH oLVer": [
+                            "remove_random_vowel"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.25,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.9879081266001031,
+    "final_reward": 0.9879081266001031
+}
+sarah oliver        : DEBUG: ----------------------------------------------------------------------------------------------------

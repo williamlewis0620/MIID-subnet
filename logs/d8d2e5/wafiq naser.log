@@ -1,0 +1,2302 @@
+wafiq naser         : INFO: Generating variations for wafiq naser
+wafiq naser         : INFO: ----------------------------------------------------------------------------------------------------
+wafiq naser         : INFO: Effective rules: ['swap_random_letter']
+wafiq naser         : INFO: ----------------------------------------------------------------------------------------------------
+wafiq naser         : INFO: Min Required Rule Variation Set: [{'wafiq nasre', 'wafiqn aser', 'wafiq naesr', 'wafqi naser', 'waifq naser', 'wafiq nsaer', 'wfaiq naser', 'awfiq naser', 'wafi qnaser', 'wafiq anser'}]
+wafiq naser         : INFO: ----------------------------------------------------------------------------------------------------
+wafiq naser         : INFO: First name: wafiq
+wafiq naser         : INFO: Last name: naser
+wafiq naser         : INFO: ----------------------------------------------------------------------------------------------------
+wafiq naser         : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8), (3, 7)]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 1 / 22: rule_count/nonrule_count: 0/1------------------------------
+wafiq naser         : DEBUG: O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: P: [0, 0, 0, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: P: [0, 0, 0, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.26889543]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 2 / 22: rule_count/nonrule_count: 0/2------------------------------
+wafiq naser         : DEBUG: O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: P: [0, 0, 1, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: P: [0, 0, 1, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.28803089]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 3 / 22: rule_count/nonrule_count: 0/3------------------------------
+wafiq naser         : DEBUG: O: [0, 1, 0, 2]
+wafiq naser         : DEBUG: P: [0, 0, 1, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [0, 1, 0, 2]
+wafiq naser         : DEBUG: P: [0, 0, 1, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.39248117]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 4 / 22: rule_count/nonrule_count: 0/4------------------------------
+wafiq naser         : DEBUG: O: [1, 1, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 2, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [1, 1, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 2, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.554]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 5 / 22: rule_count/nonrule_count: 1/3------------------------------
+wafiq naser         : DEBUG: O: [0, 1, 0, 2]
+wafiq naser         : DEBUG: P: [0, 0, 1, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [0, 1, 0, 2]
+wafiq naser         : DEBUG: P: [0, 0, 1, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.59248117]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 6 / 22: rule_count/nonrule_count: 0/5------------------------------
+wafiq naser         : DEBUG: O: [1, 2, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 3, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [1, 2, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 3, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.55217983]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 7 / 22: rule_count/nonrule_count: 1/4------------------------------
+wafiq naser         : DEBUG: O: [1, 1, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 2, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [1, 1, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 2, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.754]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 8 / 22: rule_count/nonrule_count: 0/6------------------------------
+wafiq naser         : DEBUG: O: [1, 2, 1, 2]
+wafiq naser         : DEBUG: P: [0, 1, 3, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [1, 2, 1, 2]
+wafiq naser         : DEBUG: P: [0, 1, 3, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.52355167]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 9 / 22: rule_count/nonrule_count: 1/5------------------------------
+wafiq naser         : DEBUG: O: [1, 2, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 3, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [1, 2, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 3, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.75217983]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 10 / 22: rule_count/nonrule_count: 0/7------------------------------
+wafiq naser         : DEBUG: O: [2, 2, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [2, 2, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.50822231]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 11 / 22: rule_count/nonrule_count: 1/6------------------------------
+wafiq naser         : DEBUG: O: [1, 2, 1, 2]
+wafiq naser         : DEBUG: P: [0, 1, 3, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [1, 2, 1, 2]
+wafiq naser         : DEBUG: P: [0, 1, 3, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.62355167]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 12 / 22: rule_count/nonrule_count: 2/5------------------------------
+wafiq naser         : DEBUG: O: [1, 2, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 3, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [1, 2, 1, 1]
+wafiq naser         : DEBUG: P: [0, 1, 3, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.75217983]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 13 / 22: rule_count/nonrule_count: 0/8------------------------------
+wafiq naser         : DEBUG: O: [2, 3, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [2, 3, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.49307597]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 14 / 22: rule_count/nonrule_count: 1/7------------------------------
+wafiq naser         : DEBUG: O: [2, 2, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [2, 2, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.60822231]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 15 / 22: rule_count/nonrule_count: 2/6------------------------------
+wafiq naser         : DEBUG: O: [1, 2, 1, 2]
+wafiq naser         : DEBUG: P: [0, 1, 3, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [1, 2, 1, 2]
+wafiq naser         : DEBUG: P: [0, 1, 3, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.62355167]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 16 / 22: rule_count/nonrule_count: 0/9------------------------------
+wafiq naser         : DEBUG: O: [2, 3, 2, 2]
+wafiq naser         : DEBUG: P: [0, 2, 5, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [2, 3, 2, 2]
+wafiq naser         : DEBUG: P: [0, 2, 5, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.47855328]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 17 / 22: rule_count/nonrule_count: 1/8------------------------------
+wafiq naser         : DEBUG: O: [2, 3, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [2, 3, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.59307597]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 18 / 22: rule_count/nonrule_count: 2/7------------------------------
+wafiq naser         : DEBUG: O: [2, 2, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [2, 2, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.60822231]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 19 / 22: rule_count/nonrule_count: 0/10------------------------------
+wafiq naser         : DEBUG: O: [3, 4, 3, 0]
+wafiq naser         : DEBUG: P: [1, 3, 6, 0]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 1, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 3, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9]
+wafiq naser         : DEBUG: [25]
+wafiq naser         : DEBUG: [21]
+wafiq naser         : DEBUG: [20]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [1, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [3, 4, 3, 0]
+wafiq naser         : DEBUG: P: [1, 3, 6, 0]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 1, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 3, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+wafiq naser         : DEBUG: [9]
+wafiq naser         : DEBUG: [24]
+wafiq naser         : DEBUG: [20]
+wafiq naser         : DEBUG: [20]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [1, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.47434689]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 20 / 22: rule_count/nonrule_count: 1/9------------------------------
+wafiq naser         : DEBUG: O: [2, 3, 2, 2]
+wafiq naser         : DEBUG: P: [0, 2, 5, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [2, 3, 2, 2]
+wafiq naser         : DEBUG: P: [0, 2, 5, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [2]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.54521995]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 21 / 22: rule_count/nonrule_count: 2/8------------------------------
+wafiq naser         : DEBUG: O: [2, 3, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [2, 3, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 2]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [3, 0, 0]
+wafiq naser         : DEBUG: [1, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.59307597]
+wafiq naser         : INFO: ------------------------------Trying rule_count_pair 22 / 22: rule_count/nonrule_count: 3/7------------------------------
+wafiq naser         : DEBUG: O: [2, 2, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [8, 0, 0]
+wafiq naser         : DEBUG: [113, 0, 0]
+wafiq naser         : DEBUG: [466, 0, 0]
+wafiq naser         : DEBUG: [487, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+wafiq naser         : DEBUG: [23, 0, 0]
+wafiq naser         : DEBUG: [499, 2, 0]
+wafiq naser         : DEBUG: [500, 20, 0]
+wafiq naser         : DEBUG: [500, 31, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [31]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: wafiq, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: wafiq, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: wafiq, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: O: [2, 2, 2, 1]
+wafiq naser         : DEBUG: P: [0, 2, 4, 1]
+wafiq naser         : WARNING: Remains: 0
+wafiq naser         : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+wafiq naser         : DEBUG: [9, 0, 0]
+wafiq naser         : DEBUG: [116, 0, 0]
+wafiq naser         : DEBUG: [392, 0, 0]
+wafiq naser         : DEBUG: [190, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+wafiq naser         : DEBUG: [22, 0, 0]
+wafiq naser         : DEBUG: [500, 12, 0]
+wafiq naser         : DEBUG: [500, 38, 0]
+wafiq naser         : DEBUG: [500, 78, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [2, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0]
+wafiq naser         : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+wafiq naser         : DEBUG: [43]
+wafiq naser         : DEBUG: [499]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [500]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [0]
+wafiq naser         : DEBUG: [1]
+wafiq naser         : DEBUG: final:
+wafiq naser         : DEBUG: name: naser, l_level: 0
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+wafiq naser         : DEBUG: name: naser, l_level: 1
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: name: naser, l_level: 2
+wafiq naser         : DEBUG: --------------------------------------------------
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+wafiq naser         : DEBUG: scores: [0.60822231]
+wafiq naser         : DEBUG: ----------------------------------------------------------------------------------------------------
+wafiq naser         : DEBUG: Best score achieved: 0.754
+wafiq naser         : DEBUG: Best selected: 1/4
+wafiq naser         : DEBUG: Rule variations: [{'wafiq nasre', 'wafiqn aser', 'wafiq naesr', 'wafqi naser', 'waifq naser', 'wafiq nsaer', 'wfaiq naser', 'awfiq naser', 'wafi qnaser', 'wafiq anser'}]
+wafiq naser         : DEBUG: Nonrule variations: [{'wafjg nosgr', 'wafqq nasrr', 'awfus wusre', 'wwvic nuqor'}, {'wipis nuqur', 'wficq neszr', 'wafqq naswr', 'yhfqi wsaur'}, {'wwvij nexur', 'wafyq nasrr', 'ayvyq nuesw', 'wyviq nahkr'}, {'wwbij neghr', 'whfiq nasrr', 'wpfwq njssr', 'awfah ywqhr'}, {'wbfiz nysxr', 'wafqq nsser', 'hahow ansah', 'wypyq nshre'}, {'wafxz nhszr', 'wibiz nwxar', 'wafik nassr', 'awyiw yesre'}, {'wfiak nygyr', 'wafyq nasrr', 'owfaw anghw', 'wpfoq njyer'}, {'wyviz najry', 'weifh ansrw', 'wwfwq nacxr', 'whfiq nyser'}, {'waybq nqher', 'wafik nsser', 'awhig hhesr', 'wfwaq ncaar'}, {'waibs nhsry', 'awbiw noesh', 'wafkg nqcer', 'whfiq nacer'}, {'wafes nesgr', 'awfhk yahre', 'waffq nwser', 'wefax nyqwr'}, {'wyifh ansre', 'wafhx nahkr', 'whfiq nasrr', 'whbuq niqor'}, {'wafic nasrr', 'ayhyq misre', 'wafox nayjr', 'wofax nekhr'}, {'wfaew wyesr', 'wfaix nshor', 'waviq naswr', 'wabbq ncoer'}, {'aifqy msauw', 'wefuj nagri', 'whfiq naswr', 'wwfuq nmxer'}, {'waboq nssgr', 'wafqq naswr', 'wivis nekhr', 'awpaq angor'}, {'wwfqi nswhr', 'wafhs nqskr', 'wfaow haesw', 'waffq naswr'}, {'wfeix nekir', 'wafic nwser', 'yefci yngew', 'wavzq nacrr'}, {'wafwq nyser', 'wfayy mseaw', 'wbfyq nahqr', 'waphx nykar'}, {'whifh inhur', 'whfiq naswr', 'wfuig nhexr', 'wpfix neqer'}, {'wafyq nyser', 'awbqi anxwr', 'wafqx nxsgr', 'wwbaq nugur'}, {'wafik nyser', 'wbfaq nzsgr', 'fahqy nhquy', 'whbuq noeqr'}, {'wobaq noqhr', 'wafge nawkr', 'whfiq nasrr', 'awbiz onsre'}, {'wwfhz nhsry', 'woifw anhyr', 'wwfxq nqswr', 'wafwq nasyr'}, {'awyuq ansry', 'wafjx nkqer', 'wyfuz nxawr', 'waffq naswr'}, {'uwfaw nuesw', 'wavsq ngsyr', 'whfiq naswr', 'wupij nhcar'}, {'awfyg anwhr', 'wfaig njair', 'wafsy nakhr', 'wafwq nnser'}, {'wafxj nagir', 'awwic ankey', 'wafik nnser', 'wyfhg nhusr'}, {'waviq nasyr', 'wifoj nagra', 'wafge najrr', 'yeifq ankor'}, {'wyfuq naxyr', 'waviq nasrr', 'wyfhz nwxhr', 'awfqe anzwr'}, {'wabhq njwer', 'awwqi muzwr', 'wwfas nixur', 'wafwq nasyr'}, {'wefos nwekr', 'wafqz niqer', 'whifh anxre', 'wafwq nassr'}, {'wbauq nuecr', 'wybiq ngger', 'wafwq naswr', 'hahoc muzur'}, {'awfoc ansuy', 'wypiz nixyr', 'wofiz nsscr', 'wafqq nasrr'}, {'waffq nasyr', 'wufwj nhcwr', 'wavpq nmswr', 'awbeq ysaar'}, {'wapiz nesxr', 'yaifc msaey', 'wafqq nwser', 'wyfuk neeqr'}, {'wabic nhcer', 'wwfhz nwqyr', 'aypiz nsaoh', 'wafic nsser'}, {'wfaji neeqr', 'heifq mhsre', 'wafsu nqshr', 'wafyq nassr'}, {'wafik nyser', 'yaifx wyesr', 'wbfeq nxyer', 'wabsi nwkor'}, {'awfog haesw', 'wwfwj nhexr', 'wafze nmsqr', 'wafic nyser'}, {'wafik nasrr', 'wwfkq najsr', 'wwfsi nwkwr', 'wfauw nyesh'}, {'wapqi nukir', 'whfis nsyer', 'awphq ankey', 'wafwq nsser'}, {'hfaiz wsaor', 'webis nyesr', 'wafys ncaer', 'whfiq nacer'}, {'waffq nasyr', 'ayfyz anqar', 'wbpiq nyjer', 'wifox nekyr'}, {'wafyq naswr', 'whwqi ancwy', 'wvfig nyjer', 'wufhs naqro'}, {'wyafq nakgr', 'aphaq anjor', 'wifus niqwr', 'whfiq nnser'}, {'wafqq nyser', 'hapqi niyre', 'wobhq nhzhr', 'wafxh ngzer'}, {'wafwq nyser', 'wifhz nugwr', 'wbfyq nhswr', 'wehci anzew'}, {'waffq nasyr', 'wibaq nhcor', 'awfhh msayr', 'wafoj njher'}, {'wyfbq ngsgr', 'wafqq nasyr', 'awfuc anwhr', 'wabux ncawr'}, {'awhaq nwyre', 'wofcq nyscr', 'wafqq nasrr', 'wabus noegr'}, {'wepij nhzor', 'wafik naswr', 'hahok ysawr', 'wafyj naagr'}, {'woifh muzew', 'wofws nswur', 'wavis nmcer', 'wafyq nsser'}, {'wiifw hncey', 'wafhx nqqer', 'wapwj njaar', 'wafic nsser'}, {'waboc nojor', 'wafic naswr', 'hhhoq mazre', 'wyfig naiqr'}, {'wbaig nswar', 'wuifh ysawr', 'waffq nwser', 'wafbc nzswr'}, {'wifox nojor', 'afqui answw', 'wvaiq ngsgr', 'wafyq nacer'}, {'hfaic macre', 'wfoik nhzor', 'wofbq nacrr', 'waviq nacer'}, {'wypik nwgor', 'wfwiq neker', 'awfyy nsauw', 'waviq nacer'}, {'wafyq nyser', 'wiifw anhre', 'wifux nujur', 'wvfiz nnsgr'}, {'wafcc njsor', 'hehoq hngew', 'waffq nasrr', 'wofoz nhxhr'}, {'wypis nyjar', 'wpfig njzer', 'waviq naswr', 'awviw msauw'}, {'wafqq nsser', 'yhifq wuesr', 'wabyq nhsyr', 'wobiz nwezr'}, {'whfiq nassr', 'wwfoz ncare', 'awvic anjhr', 'wupiq nhsrr'}, {'wafgc ncsxr', 'wabaj nuchr', 'wafic naswr', 'awfhs nhesy'}, {'waviq nasyr', 'wefhq njqer', 'wwwqi ansuy', 'wyvig nijor'}, {'wpfij naycr', 'yaifk anwew', 'waviq nasyr', 'wwfyc njair'}, {'wafcg nkjer', 'wwvuq nykar', 'awwis hsair', 'whfiq nacer'}, {'wobic noeqr', 'wafqq nacer', 'wwifw anzey', 'wafpk nhshr'}, {'wyfug nighr', 'wafwq nyser', 'hfaiy msaew', 'wwfic nhsrr'}, {'wafic nasrr', 'awfhi muzre', 'wvfij ngssr', 'wobis nqawr'}, {'wafzh nahgr', 'wvaix neekr', 'hoifq anxyr', 'waffq naswr'}, {'awvig anyhr', 'wvfix ncshr', 'wofuz nwxyr', 'whfiq nnser'}, {'wwfhk nhkhr', 'wafhj nkshr', 'waffq nasrr', 'awfex wsare'}, {'wafqq nyser', 'aiwfq anecy', 'wpaij nwesr', 'waibq nagyr'}, {'wufkq nacur', 'waffq nwser', 'yfaux niesy', 'wwfqa nkawr'}, {'waviq nasyr', 'wafsi ngyer', 'wufoj neekr', 'awbuq wsaor'}, {'waffq nacer', 'wafqh niszr', 'awfuj yoesr', 'wefoj nsior'}, {'wvaig nwisr', 'yfaux msauw', 'wafik nassr', 'wafxa nzsur'}, {'waffq nacer', 'awfqu hhsre', 'wafgk nhxer', 'wubhq nwkar'}, {'awbuq nihre', 'wvyiq naxjr', 'whfiq naswr', 'waefz nwzhr'}, {'wffuq nagzr', 'wafyq nwser', 'wibis nokwr', 'awfex anshw'}, {'awpaq msawe', 'wafwq nwser', 'wwviq nkzer', 'whfuj nekur'}, {'awfji hwesr', 'wafhj naczr', 'waviq nwser', 'wapzi nhysr'}, {'wfaey anchy', 'wvbiq nakcr', 'wfagi nocor', 'waffq naswr'}, {'hawqi anwhr', 'wipik njahr', 'wafsa nzwer', 'wafwq nasyr'}, {'waviq nyser', 'wyboq nukyr', 'wbyiq niszr', 'awyig ankhr'}, {'wafqq nsser', 'yyfqi mkaew', 'wifsq ncszr', 'wefhj niqur'}, {'wafyq naswr', 'wofxq nosjr', 'wifaj nhkur', 'awpaw ankeh'}, {'wavgq njher', 'wfahy ansrw', 'wafqq nasyr', 'wfayq nhqyr'}, {'wwfis nazhr', 'wupij nixhr', 'whhqi hesre', 'wafwq nasyr'}, {'waufz nsyir', 'waffq nnser', 'wpuiq nakwr', 'yfahq ansoh'}, {'yawqi meesr', 'waffq nasrr', 'wayfs nejyr', 'wafwj naxir'}, {'whfiq nsser', 'whwqi inhar', 'wifiz nhsur', 'waibj niejr'}, {'wapyc nwkur', 'whfiq nwser', 'wffyq nauqr', 'ayfyj noyre'}, {'ayfyh angey', 'wabax nwcwr', 'wafic nyser', 'wpviq nakgr'}, {'wavpq nzsxr', 'wifas nygwr', 'hihoq answy', 'wafwq nasyr'}, {'wifes nhegr', 'wffis nxger', 'wafqq nasrr', 'fahqy anzeh'}, {'waviq nasyr', 'whpic nikyr', 'wvyiq nackr', 'wihqi waesy'}, {'wubiq nzjer', 'wafqq nacer', 'waibj nqaar', 'awyaq muzor'}, {'waviq nassr', 'wppiq nhsxr', 'ayfyy mosre', 'wyfax nwecr'}, {'waviq nassr', 'wapwq ngsur', 'wwbaq nexyr', 'afqhi noxwe'}, {'hihoq ansoh', 'wyfuz nagru', 'wfisq nawkr', 'wafic nacer'}, {'whpuq nhzar', 'wewqi anzhr', 'whfiq nasrr', 'wafcs nuskr'}, {'wafwq nyser', 'wfiag niegr', 'wafxs neszr', 'wfaww ansra'}, {'wfiqy ngsyr', 'waffq nassr', 'awifx msaur', 'wufhj naxrw'}, {'whfiq nassr', 'wypiq nssjr', 'hahoy hesre', 'wfwaq nekor'}, {'awhiw hiesr', 'wafyq nasrr', 'wwpaq nhsrh', 'wpfaq nahxr'}, {'waffq nasyr', 'waebq neker', 'weify msoew', 'wifaj naqrh'}, {'awfqw angir', 'wafic nwser', 'waips nijyr', 'wafkg nosxr'}, {'wobik nacre', 'ayfaw ansro', 'wafhx naqar', 'wafqq nasrr'}, {'waviq nassr', 'awfok ansuy', 'wfaic neagr', 'wfiqe njier'}, {'waffq nassr', 'wwfhz naqra', 'awyoq nsayh', 'wbfij njoer'}, {'awvyq miesr', 'wafwq nwser', 'wifsi nixar', 'wbfyq nosgr'}, {'wyfeg nhxar', 'wafik nasyr', 'awbiy nocwe', 'wfiqe nmskr'}, {'wfhix njaar', 'whfiq nsser', 'awfhx wsaew', 'wufvq nayxr'}, {'wafyq naswr', 'wfyix nixar', 'yefqi nsaoy', 'wpfik nqsor'}, {'waffq nasyr', 'wavax nekor', 'wafvc nusqr', 'wuify onswe'}, {'waffq nasyr', 'wavbq nacor', 'yufqi nhesh', 'wyfsi nukar'}, {'wafvc nzskr', 'awfow wngew', 'wyfhz nuekr', 'waffq nsser'}, {'ahfaw yhesr', 'wfhuq nikyr', 'waffq nassr', 'wvwiq nwskr'}, {'wpfhq noshr', 'aphiw nsaaw', 'wwbhq nykor', 'wafyq nacer'}, {'awfux nsaih', 'wafqq naswr', 'wafqk nisjr', 'wifyz noejr'}, {'waviq nasrr', 'wavxq ngsor', 'wapoc nwgur', 'awfyk anecy'}, {'wafzy nachr', 'wfyoq ncawr', 'wihqi ansyy', 'waffq nsser'}, {'wyfwq nxcer', 'wfayh muezr', 'whfiq naswr', 'wupwq neeqr'}, {'whbij nwkhr', 'wwfzq neskr', 'waviq nwser', 'afqyi angey'}, {'wophy hsaeh', 'wafyq nasyr', 'wabis nyqer', 'wfayq neqwr'}, {'awfwx unsre', 'wavkq nacxr', 'waffq nasrr', 'wifys nusrh'}, {'wwvik nugar', 'wafyq nasyr', 'aiyfq nywre', 'wufgq nyskr'}, {'wybig neacr', 'wafik nasrr', 'ahfqi nohwe', 'wafps nyxer'}, {'yhifq wysre', 'wevix ncawr', 'waffq naswr', 'wafpg naekr'}, {'wafpj nacrr', 'whfuz nukhr', 'yupiz yeesr', 'wafyq nassr'}, {'wafik nasrr', 'wyfiz nzsar', 'eaifz haqre', 'wyufq nequr'}, {'wfyoq neagr', 'whfiq nwser', 'hfauq anzyr', 'wwfsq nuxer'}, {'wafjg nacur', 'wyufq nwegr', 'awfuc awcey', 'whfiq nyser'}, {'waviq nyser', 'wfieq ngeer', 'wfehq naqro', 'hehoq anhur'}, {'wpoiq naxhr', 'ayfyc anjre', 'whfiq nnser', 'wyvik nicur'}, {'wyfaq nzqer', 'wibik nyqyr', 'wafwq nasyr', 'awbaq anjre'}, {'wyfwq nxxer', 'wfoic nykwr', 'ayfaw ancew', 'wafic nsser'}, {'wabji nqaar', 'aphqi anwew', 'wpfig nwskr', 'wafic nsser'}, {'awfox anwhr', 'wypiq nmskr', 'wafik nassr', 'wfiaj nuqhr'}, {'yoifq wusre', 'wafqq nassr', 'wybiz nweqr', 'wofis neskr'}, {'wbfaq nmsqr', 'yapzi anjir', 'wawfz negwr', 'wafwq nnser'}, {'aphuq anqew', 'wafps nzsxr', 'wfeix nyqyr', 'waffq naswr'}, {'waffq nacer', 'wufvq ncswr', 'wupix nikur', 'awify awsre'}, {'wafwq nyser', 'awifk nwyre', 'wuvix nwosr', 'wafsj neqer'}, {'wbwiq naecr', 'wofuz nhxyr', 'waffq nnser', 'awifx nsawy'}, {'wefej nhzar', 'yawqi mshew', 'wafik nassr', 'wafoj nyger'}, {'wafyq naswr', 'hfauq msaow', 'wabsq ncsar', 'wifys nhqwr'}, {'afqai msiew', 'waffq nyser', 'wfwix nyhsr', 'waboq nhker'}, {'wafxe nnxer', 'waviq nsser', 'awfuk ankre', 'wfiik nujor'}, {'wafyq nyser', 'wyfhq nacjr', 'awfej angyw', 'wfouq negur'}, {'wafyq naswr', 'aofqi ankar', 'wyboq nikwr', 'wafch nhsur'}, {'wefux nakru', 'wafik nsser', 'haifc muzur', 'wbfyq nqher'}, {'hfaik angaw', 'wffuq nyscr', 'waviq naswr', 'wwvik nshor'}, {'wyfyz nwxar', 'aiwfq anzur', 'whfij njier', 'waviq naswr'}, {'wofxq nhxer', 'awvig angww', 'waffq nasrr', 'wopuq nyghr'}, {'awfah inhre', 'wyfag noqyr', 'wabcq nksjr', 'wafic nsser'}, {'wafkx nssxr', 'wofuz nwkir', 'waviq nnser', 'awwaq anjur'}, {'wufhc nkair', 'awfax anqwr', 'wofpq nhsur', 'wafyq nwser'}, {'awhyq ankhr', 'wifkq nnxer', 'wwvij nacre', 'wafwq nnser'}, {'wafic nasyr', 'wifxq najar', 'awwwq nohre', 'wwvoq nhjor'}, {'wfaqu nwgur', 'wafic nwser', 'aphik nowwe', 'wifzq njshr'}, {'waviq nwser', 'wyfkq nhsgr', 'wefys njayr', 'awfwx mesre'}, {'ayfaw ansoh', 'whfiq nassr', 'wpahq nighr', 'wafxi nhsir'}, {'wafqq nasyr', 'wfioq naccr', 'wefhc nswor', 'awpaw anxwr'}, {'woviz nixir', 'wafvz nhger', 'ayfyx haesh', 'wafic nnser'}, {'wafqq nassr', 'wufhc nekhr', 'wafbx njshr', 'yawqi anyhr'}, {'webic noxyr', 'wafqq nacer', 'wfpiq nkqer', 'awyyq ankwr'}, {'waffq nnser', 'wufhk nwqir', 'wafbc nhsgr', 'wfauh anxor'}, {'ewfci yosre', 'whfwj ncaor', 'wvbiq nagzr', 'wafik nacer'}, {'waefz nwcor', 'yaify ankew', 'whfvq noxer', 'wafwq nnser'}, {'wafkj ngxer', 'hhaoq nhwuy', 'wafik nacer', 'wyphq nyjyr'}, {'waabq nagrr', 'awbiw noqwe', 'whbic nicur', 'waviq nacer'}, {'wbfwq nwsjr', 'whfuj nyesr', 'waffq nasrr', 'wwhqi yngew'}, {'wfahh inhew', 'wafwq nyser', 'wafsa nqjer', 'wyfek nyezr'}, {'wufkq nwsxr', 'woifw hahre', 'wafqq nasrr', 'whpic nakri'}, {'wubiq nksyr', 'hfahq mkaew', 'wafyq nassr', 'wwfhk negor'}, {'wfyuq nhesr', 'wafik nsser', 'ahfqi haesh', 'wafgh naksr'}, {'awwuq hhesr', 'wafic nwser', 'wbfhq nmsyr', 'wfehq nwqhr'}, {'whbic nyjwr', 'whfiq nasyr', 'hahoc nykah', 'wbfhq ncscr'}, {'wobij nwkhr', 'wafik nasrr', 'wffyq nhsar', 'yapuz ansih'}, {'awvoq majre', 'waafz noqyr', 'wafwq nasyr', 'waffz nusxr'}, {'wvbiq ngker', 'awpwq angow', 'wafic nnser', 'wfiik ngair'}, {'wufux nyjwr', 'wafik nasyr', 'awfhc anyeh', 'wvyiq njsar'}, {'wafwq nyser', 'wefsi noxor', 'wbpiq njswr', 'hyifq anyar'}, {'wafyq naswr', 'waphx neakr', 'awfgi angey', 'wufij nhsyr'}, {'awyig ansow', 'wbfeq nguer', 'wafwq naswr', 'wybig nokar'}, {'waffq nasyr', 'wafhg nojer', 'wfauw anzew', 'wapux nijhr'}, {'waffq nyser', 'wfaeh answw', 'wafyz ngcer', 'wuboq nwkir'}, {'hophq inhar', 'wbfyq naaqr', 'wafic nacer', 'wfeoq ncare'}, {'wafyq naswr', 'awvwq hakre', 'wafkg nxqer', 'whfyz nuqir'}, {'awbeq misre', 'wfyuq nygor', 'waviq naswr', 'wavjq ncszr'}, {'awpiz haesw', 'wfhik nyzhr', 'wpfaq ncscr', 'whfiq nyser'}, {'wafyq nyser', 'wfoig negir', 'wffaq neqer', 'weyci answy'}, {'wapus nwchr', 'wfiiq nesjr', 'wafic nyser', 'awwaq inheh'}, {'awfyy anshy', 'wafik nwser', 'wafsj nszer', 'wpauq nukur'}, {'aypiz hsawr', 'wvyiq ngscr', 'wafwq nassr', 'wabhx nusrh'}, {'whfiq nasyr', 'wfuwq ngawr', 'wvuiq naijr', 'hfaux haqre'}, {'hfais ankeh', 'wifax nhsrh', 'wapiz naaxr', 'wafwq nasyr'}, {'waviq nassr', 'whfij ngscr', 'wypaq nwkur', 'awfec ansih'}, {'ayfyh hsaur', 'wpuiq nqzer', 'whfiq naswr', 'wfohq nyxir'}, {'weifw anshh', 'wbeiq nmxer', 'wafwq nassr', 'wwvik nejhr'}, {'wfwwq nhesr', 'wafqq nasyr', 'wafvj noqer', 'hyfqi majre'}, {'waffq nasrr', 'wyfeg nichr', 'wwfpq nyszr', 'awbix hhsre'}, {'whfiq nassr', 'wavij ngier', 'wibik nujir', 'awyqi muzwr'}, {'wafjz naqwr', 'awfhy answw', 'wifax nhcwr', 'wafwq nacer'}, {'wfiqh nkaer', 'hfaix anqwr', 'waibz naqre', 'wafic nnser'}, {'aiefq wsahr', 'wifis nzsyr', 'whfiq nnser', 'wofwz neqir'}, {'wufoz naqrh', 'wafqq nasrr', 'aywyq hsaur', 'wafju nxyer'}, {'wafvc njxer', 'wafwq nassr', 'webic nswir', 'ayfyj anxeh'}, {'wafoj nijer', 'wafqq nacer', 'hyhoq awcey', 'wwfhk nychr'}, {'ayfqi muzeh', 'wabkq nkyer', 'waffq nnser', 'wuvhq ncawr'}, {'wpviq nagkr', 'whfiq nasrr', 'wwfqa nigyr', 'aifqw anqir'}, {'awhik yesre', 'wifux nqaur', 'wafik nsser', 'wffik naexr'}, {'wafik nasyr', 'wafxg nisxr', 'awbaw ysair', 'wyfzi nhgar'}, {'wafik nasyr', 'wwfoq ngjer', 'awwiz inhwr', 'wufex nijur'}, {'aiefq anshe', 'waviq nyser', 'wavax nojhr', 'wyfgq ncshr'}, {'wbaiq nosjr', 'wophh anecy', 'whfiq nasyr', 'waibj nhesr'}, {'wafux nqjer', 'hhifq ansoh', 'wafyq nassr', 'wwveq nqaur'}, {'wafxz nazcr', 'whfuj nxaor', 'awfax inhhr', 'wafwq nnser'}, {'hfaix anshe', 'wyfak nwxor', 'wapiz nysgr', 'wafyq nacer'}, {'wfiqe ngshr', 'wypwq nqare', 'whfiq nasyr', 'awpig whesr'}, {'weyci inhre', 'wafqq nacer', 'wobiz nykhr', 'wwpiq ncxer'}, {'wawbq nzscr', 'whfiq nassr', 'whibq nsarh', 'awpij anzeh'}, {'wwfpq nakur', 'wwfaj nyxar', 'awhix hnsre', 'wafic nsser'}, {'wabqi nwxir', 'wabaq noqer', 'huifq hacre', 'wafwq nacer'}, {'awfak anjur', 'wufhs neeqr', 'wahbq nacxr', 'wafic nnser'}, {'wifox nyejr', 'waipq nakhr', 'wfaey hawre', 'wafwq nacer'}, {'waffq nacer', 'yeifq wisre', 'wwvis nughr', 'wpfig nacur'}, {'wefix nhker', 'awfhs encey', 'wafqq naswr', 'wufyj nykwr'}, {'wbuiq ncaer', 'wafik nnser', 'waboz nugwr', 'wfauh nehre'}, {'wafcg nzsor', 'wapwj nexhr', 'hahoh ansiy', 'wafic nsser'}, {'wabhq njker', 'whfiq nsser', 'wowqi msaow', 'wfohq nuejr'}, {'waffq nasyr', 'awhis ansiw', 'whpyq nkaor', 'wefis njskr'}, {'wvbiq nazhr', 'wvaoq ncaor', 'hapqi muzew', 'wafyq nsser'}, {'waibs nigor', 'wafyj nqwer', 'efaiz ankey', 'waviq naswr'}, {'wafqq nsser', 'wwvig nexir', 'wfawy nogwe', 'wifij nzjer'}, {'wafaj nzsir', 'wuify nyesw', 'wfhij nogwr', 'wafic nsser'}, {'wbfwq ncker', 'havqi macre', 'whfiq naswr', 'wabux nwcar'}, {'wophh nsaaw', 'wafhg naxrr', 'whfux nhzar', 'wafic nnser'}, {'wafwq nasrr', 'wfhix noxir', 'wafbc nszer', 'aphwq insre'}, {'wypiz nwjyr', 'aphig anesh', 'wufij naksr', 'wafic nsser'}, {'wpaiz ngahr', 'wafik nasyr', 'awvic msayr', 'wwfkq nkuer'}, {'wafqq nyser', 'yipiz nhxuy', 'wpfwq ngaer', 'wobyq neaqr'}, {'wvfix nxscr', 'yfaoq anyeh', 'wafyq nasrr', 'wyfgi nyjhr'}, {'wyfik ncszr', 'wafyq nasrr', 'wyifq negor', 'haifw anzir'}, {'awbhq ansoh', 'wepaq noxyr', 'wafgs nojer', 'wafqq nnser'}, {'wepic negir', 'wwfix nauxr', 'aphhq wsaey', 'wafwq nnser'}, {'wfhhq nequr', 'wafks nawcr', 'awifw anwor', 'wafqq nnser'}, {'waviq nsser', 'wefbq nhsgr', 'wwbij nwesr', 'yopiz anzur'}, {'wwfvq nkscr', 'wafqq nasyr', 'wiviz nsior', 'ywfaw hnsre'}, {'wafic nasrr', 'wfiij nikir', 'wvwiq nackr', 'wfaaw msahr'}, {'wafji nzqer', 'wfuwq njawr', 'aphuq anjur', 'wafwq naswr'}, {'whfax nshur', 'wufkq nesxr', 'wafyq nwser', 'awifk ancir'}, {'wwfjq noqer', 'whfiq nwser', 'wfaaq nukur', 'awwiz wwsre'}, {'wopix nigor', 'wabgq naqqr', 'whfiq nyser', 'awbaq wsaar'}, {'wafic nwser', 'wwfaq ncsxr', 'wufoz nshur', 'hwfaw anxew'}, {'wafqq nacer', 'wifcq naeqr', 'yapez mshew', 'wwfyx nokar'}, {'wbahq naqrw', 'awfws nuwre', 'waviq nnser', 'wafgc naqwr'}, {'wafik nyser', 'whhqi wysre', 'wfwuq ngahr', 'wvviq noqer'}, {'awifk wyesr', 'wfuwq nekyr', 'wafci nnsjr', 'wafik nacer'}, {'waviq nassr', 'awvwq ansre', 'wfiix nygwr', 'wafkz nqxer'}, {'wafqq nyser', 'wbaij nagrh', 'wafzh nmssr', 'hihoq yosre'}, {'wfahu huesr', 'wvviq nksar', 'waffq nasrr', 'wapoz nwecr'}, {'wafqq nyser', 'aphoq anhew', 'wfowq naqru', 'wafhz najqr'}, {'wffyq najrr', 'waffq nasrr', 'whboq nwejr', 'awbig inhyr'}, {'awfuc nihre', 'waviz nusjr', 'wapuz nwkir', 'wafic nacer'}, {'wafik nsser', 'awfej nogwe', 'wwpwq nxaur', 'wvviq njzer'}, {'wfaew ansri', 'wufbq nnshr', 'wafic nnser', 'wyfux nhzar'}, {'wafza nzscr', 'waffq nwser', 'waifz nazrh', 'weyqi nowre'}, {'wwfic nxxer', 'wuvhq nieqr', 'aifqh nyesy', 'wafqq nnser'}, {'waofz nugwr', 'wahbq nxsgr', 'wafik naswr', 'hufqi anjew'}, {'wayfz nhxir', 'wffyq nkuer', 'waviq nasrr', 'hophq whsre'}, {'wwfhq nxher', 'whfiq nsser', 'awwiw wwesr', 'wwfak nokor'}, {'waviq nyser', 'awfwj neesy', 'wafsx njswr', 'wofwx nykwr'}, {'wafic nasyr', 'wfeic nhgur', 'awfyz haesh', 'wfiyq nmger'}, {'waviq nyser', 'hoifq mwaew', 'wficq naxxr', 'wifes nwgur'}, {'hefqi wsaur', 'wefiz naghr', 'wfeik neecr', 'wafyq nacer'}, {'wayfz naxrw', 'hophq yaqre', 'wafik nassr', 'wabik nszer'}, {'awfec wusre', 'wfiax nyegr', 'whfiq naswr', 'wvfik naqjr'}, {'waafz nwesr', 'wafxj nakrr', 'awwwq ysawr', 'whfiq nacer'}, {'wivis nwjar', 'waviq nwser', 'wafsj nzssr', 'uwfaw nsawh'}, {'wfiqw nzskr', 'wafqq nasyr', 'wwyqi ansyh', 'wifaz nujor'}, {'wafxy nahqr', 'waviq nasyr', 'awpqi anhre', 'wefej njayr'}, {'whfsi nexar', 'wafik nasyr', 'awfec nhesy', 'wwfpq njsor'}, {'wyfez nieqr', 'wafik nnser', 'yoifq yosre', 'wefij nujer'}, {'hyifq wisre', 'wfhoq naxro', 'waviq nwser', 'wwfgq nhsur'}, {'yfauq hahre', 'wbhiq nqwer', 'wipik nwgur', 'wafyq nacer'}, {'wafic nasyr', 'wepwq njaor', 'awwih noesh', 'wabvq nkyer'}, {'wfaay ancoy', 'wifhs necar', 'wpfyq nescr', 'wafyq nsser'}, {'waviq nasyr', 'wwfsq nsqer', 'wwfas noxhr', 'awfwc ahgew'}, {'wavix nhssr', 'wwfyx nygyr', 'wafik nnser', 'hahos hsaey'}, {'wafik nwser', 'awbiy nsaiy', 'wayfs nwcor', 'wfiqh nnscr'}, {'wufwj nixwr', 'wofij nssqr', 'awfqy muzwr', 'wafqq nnser'}, {'wfwhq nekyr', 'whfiq nasyr', 'awfwa anyar', 'wyfwq nksjr'}, {'ywpiz wosre', 'wvfoq nyger', 'wafyq nwser', 'wifys nwisr'}, {'whfiq nasrr', 'wfiax nexar', 'wafgs niker', 'awfwa ysair'}, {'wafik naswr', 'wafys nyqer', 'wypij nwgur', 'awwih nsaoy'}, {'wvfuq nxoer', 'whfiq nasyr', 'wiyqi nhxuy', 'wopix nkaar'}, {'wafwq nasrr', 'awfzi maesy', 'whpuq neagr', 'wyafq naigr'}, {'awfyk hsaor', 'wabos nycwr', 'waapq njker', 'wafqq nnser'}, {'wifaz nykar', 'wapyq nzher', 'wafik nwser', 'aphaq wsaeh'}, {'wabax nogir', 'whfiq nasyr', 'wapic njcer', 'whaux angiw'}, {'wfioq ncuer', 'yayqi anjhr', 'wafwq nasyr', 'wfyix nagro'}, {'wwvij nhxar', 'waviq nasyr', 'wafbg nguer', 'aphoq wngew'}, {'wapwq nnsxr', 'aypiz niesy', 'whfiq nyser', 'wupij nwjor'}, {'waviq nassr', 'wubiq nwger', 'waibz nigwr', 'awhwq whsre'}, {'wafyq naswr', 'wafjh nwskr', 'wwfaj naxri', 'awfug wawre'}, {'wwpiz nejar', 'whfiq nasrr', 'wafjs nwsqr', 'awfwg ansyy'}, {'waviq nyser', 'awbyq msaar', 'wapwj ncair', 'wbaiq nojer'}, {'wfijq nnszr', 'whfoz nexwr', 'awbix angey', 'wafyq nassr'}, {'wypix njaar', 'wwifw ansuw', 'wafaz ngsgr', 'wafyq nsser'}, {'wwvuq ngear', 'wfbiq najwr', 'awwik nhhuy', 'waviq naswr'}, {'whfvq nzsar', 'whfiq nasrr', 'wyufq nwecr', 'awpaw ankwr'}, {'wafqq nyser', 'haifj mhaew', 'whfij najor', 'wfohq nakre'}, {'wafqq nyser', 'wfeic nykor', 'wfiaq nksar', 'huifq anhwr'}, {'yaify ancoy', 'wwfcq nysgr', 'wafqq nacer', 'wabog najre'}, {'whfkq nksjr', 'wwveq nxaar', 'waviq nacer', 'awvhq yusre'}, {'ywfaw yaxre', 'wafwq nwser', 'wfaki nykhr', 'wafys naxwr'}, {'wahpq nuscr', 'wepij nhsrw', 'wafic naswr', 'awpeq nsauy'}, {'wbaiq nxssr', 'waffq nwser', 'aiwfq hakre', 'wupig nuejr'}, {'awyoq msuew', 'wafik nasrr', 'wofzq naygr', 'wyfyc ngare'}, {'waffq nacer', 'wfayq ngair', 'wvuiq nzwer', 'awfuc mhsuy'}, {'wafjx nhsyr', 'awfqh nyesw', 'wvawq nicor', 'wafwq nnser'}, {'awpij ansay', 'wafqq nsser', 'wufuz nexir', 'waupq nwsgr'}, {'wafbj nqjer', 'wabog nhhsr', 'apheq anqyr', 'wafic nyser'}, {'waifz nhkwr', 'awfhz ancyr', 'wwfeq nexer', 'wafqq nwser'}, {'wpoiq naqxr', 'whfiq nasrr', 'aphwq nuhre', 'wfoic nuqir'}, {'wafyq naswr', 'yufqi mahre', 'wypik nwxyr', 'wffig nhsor'}, {'wapqi nshor', 'wfioq nqjer', 'wafqq nasrr', 'awfwk onswe'}, {'wafqq nsser', 'awyis ahcey', 'wyfki nukor', 'wbfaq nacar'}, {'wafyq naswr', 'wabuj nshar', 'awyaw anjey', 'wfigq ncsir'}, {'aypyq anzir', 'wfiwq njher', 'whfiq nasrr', 'wiafs nykor'}, {'wafyq nasrr', 'wufhk nejor', 'wafux njsor', 'hhfqi anshe'}, {'wyfus nhxor', 'awwuq anxwr', 'waffq nassr', 'wyfiz nagyr'}, {'wafqh nkuer', 'awwik myesr', 'wafyq nassr', 'wwfhj nugir'}, {'waffq nacer', 'wefji nxear', 'awwiy angur', 'whfix nqoer'}, {'webis naqrh', 'wavsq nhszr', 'awpiy nyhre', 'waffq naswr'}, {'wafso nakor', 'wafqq nassr', 'haifg ysaur', 'wipoq nwjhr'}, {'wefxq nsscr', 'hwfqi msawe', 'wevhq nhjir', 'waffq nassr'}, {'wwvig nigwr', 'whfiq nasrr', 'wafhj naigr', 'awfwi msair'}, {'wafik nasrr', 'yaipz nsaiw', 'wvfwq nkoer', 'wabox nuegr'}, {'waupq nxeer', 'wwpyq nkaur', 'wafwq nassr', 'awfoy mxaew'}, {'awfyk angwe', 'waffq nassr', 'wabqi njayr', 'wafpz naexr'}, {'wafsc nzssr', 'hfaqi anhey', 'waviq nnser', 'wavux nokur'}, {'whfgq nwqer', 'wafik nasrr', 'yefci nihre', 'wufox nwexr'}, {'haifg magre', 'wafhx nosjr', 'wafwq nassr', 'waufx nicwr'}, {'yhpiz ansuh', 'wapqq nqssr', 'wfiis nhqor', 'whfiq nnser'}, {'hhhoq whesr', 'wyvik nyqir', 'whfkq ngsor', 'wafqq nwser'}, {'haifg yeesr', 'wfhhq neqwr', 'wafgs nqcer', 'whfiq nnser'}, {'wafic nasrr', 'waafz nhjhr', 'wifcq naygr', 'awvaw answh'}, {'whfiq nasyr', 'wyfek nuxar', 'yfaij ancwr', 'wahpq nnskr'}, {'wafyq nnser', 'waupq naxwr', 'awfec waesy', 'wufhk nwjur'}, {'wafas ngjer', 'wfaik nyjor', 'awfow awcey', 'wafqq nwser'}, {'wfwaq nyusr', 'awfwh nhquy', 'wufix najsr', 'wafwq nnser'}, {'whfkq nysgr', 'wafwq nassr', 'wwfyk nequr', 'awwij hsawr'}, {'awpyq ancre', 'waphx nokor', 'waffq nwser', 'wavix nkger'}, {'whibq nagra', 'yofqi anhew', 'wufsq naqgr', 'wafqq nnser'}, {'awhig anwey', 'wepyq niegr', 'wapwq noxer', 'wafqq nwser'}, {'hfaik noyre', 'wypeq neecr', 'wafjo nsher', 'wafyq nacer'}, {'wafic nasyr', 'wwfhj nhsra', 'wafej nakhr', 'ahhoq ankir'}, {'wwfus najri', 'wuwqi amcey', 'waffq nnser', 'wfeiq nkier'}, {'wfisq ncsar', 'wyfhz nuqir', 'wafic nassr', 'awhuq ahgew'}, {'awfwc inehr', 'wfwik nekwr', 'wafwq nassr', 'wyfcq naqar'}, {'awfyx mawre', 'wabhq nijer', 'wafic nyser', 'wfaqi nojar'}, {'whfux nhecr', 'wafic nacer', 'wafox nakrr', 'hehoq anxeh'}, {'yfais angww', 'wafqq nasyr', 'wwfaq nssqr', 'wpaig nhqhr'}, {'yayqi wsayr', 'wofus nuxhr', 'wafoj ngker', 'wafyq nacer'}, {'wpfij nksar', 'wayfz nuekr', 'awfhw ancar', 'wafwq nsser'}, {'wuvix nikur', 'whfiq nsser', 'yfaig mawre', 'wabkq nazjr'}, {'wofwx naqre', 'yuifq mseew', 'wapik nzher', 'waviq nacer'}, {'hihoq wsayr', 'wapus nujhr', 'wafyq nwser', 'wofbq nsskr'}, {'waviq nassr', 'wofgq nxaer', 'awvhq anshh', 'wpahq nwkar'}, {'waffq nacer', 'whfuj nwjor', 'wpiiq najir', 'yeifq anjeh'}, {'wafjc nuker', 'awhwq ancyy', 'wafic nnser', 'wufyj nujyr'}, {'awfsi mseew', 'wyphq neqar', 'whfiq nasrr', 'wfiqh nnxer'}, {'wufjq nisjr', 'waffq nyser', 'yaphz wwsre', 'wabej nqare'}, {'whfiq nassr', 'aiefq ancwr', 'wapzi nykar', 'wvyiq neqer'}, {'wfaah nsaww', 'wafik naswr', 'wyfus nsyar', 'wafqj nnjer'}, {'wafwq nyser', 'wwfwq ncscr', 'wyfyc neqir', 'yiifq muzor'}, {'awphq anxre', 'wafsh najkr', 'wafic nacer', 'wfhaq nikur'}, {'awfyz maesh', 'wpbiq nazjr', 'wiviz nhxar', 'wafyq nsser'}, {'wepeq nwgar', 'wafpc nisqr', 'awwis waesh', 'wafqq nnser'}, {'waubq nqskr', 'waffq nyser', 'yfaaq angwr', 'wfhig nukir'}, {'awvic uncey', 'wifcq nyszr', 'waviq nasyr', 'waboc nhkwr'}, {'wofhq ngskr', 'awyiz hiesr', 'wapoc nagre', 'wafqq nwser'}, {'wwfhs nyjur', 'whfiq naswr', 'wufvq nxaer', 'yefci noywe'}, {'wbhiq ncsur', 'waviq nwser', 'wabaj nuxyr', 'ahhoq ansuh'}, {'waviq nasyr', 'wvfaq najzr', 'awfak msayr', 'wwfhs nhjor'}, {'ayfyh anyeh', 'wwvyq nyqhr', 'wafjy nxsir', 'waffq naswr'}, {'wfahy ysaey', 'waffq nassr', 'wbaoq nygyr', 'wobiq ngger'}, {'waviq nsser', 'whhqi wusre', 'wafjj nzskr', 'wapwc naqre'}, {'wafik nyser', 'awfew mjaew', 'wafjg nxyer', 'wyfgi nsyir'}, {'wfigq naqkr', 'wafik nassr', 'wbaij nyjur', 'awfox wyesr'}, {'wafic nasyr', 'wafoz nsqer', 'wfahy anyir', 'wypeq nugwr'}, {'afqhi answw', 'whfgq naiqr', 'waviq nnser', 'wwfhc nwjur'}, {'awvuq nhyre', 'wafwq nyser', 'wwpiz nyjir', 'wvfeq nxsur'}, {'wfahq nyxar', 'awheq hwesr', 'whfiq nnser', 'wfpiq nxker'}, {'wafic naswr', 'wowqi huesr', 'wapaq nzger', 'wefax nwqhr'}, {'wwhqi hayre', 'waviq nnser', 'wpwiq nahkr', 'wyfug nhjhr'}, {'wfuij nkare', 'awfuj anjey', 'wafqq naswr', 'wfiwq nhsir'}, {'wwfyk nhecr', 'yfais aysre', 'wafqg nyscr', 'whfiq nacer'}, {'wufhk nacro', 'wafqq nsser', 'wufkq nqwer', 'awpij maxre'}, {'wafic nwser', 'wifyz nsyor', 'whfcq najzr', 'yfaoq wwsre'}, {'wafik nnser', 'wofci nacru', 'wavgq nesqr', 'awifz hngew'}, {'wuhqi anhur', 'wafbg naajr', 'waviq nnser', 'wfehq neajr'}, {'waviq nyser', 'ahfaw nuwre', 'wffix ngzer', 'wovix naxry'}, {'yaify magre', 'wapqq nxshr', 'wifas najrw', 'wafyq nacer'}, {'awwqi angir', 'waviq nwser', 'wapoz ncaor', 'wafhs neger'}, {'ewfaw anghw', 'waafs nokir', 'wafwq nasyr', 'wapkq nesqr'}, {'wwvix nwqhr', 'haifg anecy', 'wabis nacsr', 'waviq naswr'}, {'hahoy anyhr', 'wapwz noxhr', 'waviq nwser', 'wwbiq nakar'}, {'wapwc nugyr', 'wafik nsser', 'haifh mseew', 'wwfwq nhsur'}, {'wafvx nmssr', 'wwvis nygyr', 'awwic waxre', 'waviq nnser'}, {'yapyz anjew', 'wyfzi nucur', 'whfiq nyser', 'wyfeq niker'}, {'wyfij nnxer', 'wefws nykir', 'wafyq nwser', 'aphaq nykay'}, {'yipiz moswe', 'waffj naxgr', 'waffq nasrr', 'wobwq noxar'}, {'awfwj yagre', 'wfhwq nhexr', 'wafqs nhsor', 'wafqq nasrr'}, {'wfiik nshyr', 'wafze nuker', 'waffq nnser', 'yapaz ensre'}, {'wafwj nwsqr', 'whfiq nsser', 'wfaow anchr', 'wfuik nhqir'}, {'wyfgq njsur', 'wefaj nyjyr', 'wfaoh wakre', 'wafic nnser'}, {'wifyz nwkwr', 'ayvyq anjew', 'wbfoq nnxer', 'wafic nacer'}, {'wafkh nnsqr', 'waviq nwser', 'whify nwesw', 'wubij nocar'}, {'whfzq naijr', 'awfyw makre', 'wapwj nuqwr', 'wafyq nsser'}, {'wafyq nasrr', 'awpih anwey', 'waffx najzr', 'wibij nkaur'}, {'waffq nassr', 'whfvq nxskr', 'wofoz naxri', 'awfwx nhkuy'}, {'wofuj nhkur', 'whaux answe', 'waybq najcr', 'waffq nnser'}, {'wafws nysxr', 'wufuz nwekr', 'waviq naswr', 'aiufq hngew'}, {'waviq nassr', 'wufix ngscr', 'wapyz nwgwr', 'awvij musre'}, {'whfiq nwser', 'wibik nshre', 'awfqi nsaay', 'wyffq njker'}, {'wpfis nagzr', 'ypaiz hsaar', 'wufwj nyqar', 'wafwq nnser'}, {'ayfyh anzwr', 'waviq nnser', 'wfauq nykur', 'wavzq ncswr'}, {'waffq nacer', 'wafzx nisqr', 'haifk nwesy', 'wwfak nhekr'}, {'yophq anghr', 'wfuix nshur', 'wafqq nasrr', 'wafzc nzsxr'}, {'wevhq nygir', 'wfaew anxeh', 'wafik nassr', 'wafsc naqcr'}, {'wobis noeqr', 'waviq nnser', 'wwhqi nogwe', 'wofvq nqsyr'}, {'wabqo neecr', 'afqai anqor', 'wbfiz naykr', 'waviq nacer'}, {'wafqq nsser', 'wifux nwkor', 'waupq nxjer', 'yaifx mwqhr'}, {'waviq nyser', 'wvfwq naqor', 'awfac anzew', 'wawfs nogir'}, {'wafjh naejr', 'wfaik nocor', 'awfeh aygew', 'wafyq nsser'}, {'wufsi necwr', 'awfuw ankir', 'wafic nassr', 'wwfbq nzsqr'}, {'yfaiz msaaw', 'wfiax njare', 'wafic nassr', 'wfuiq nushr'}, {'wwvig ncaur', 'yyifq anesy', 'whfiq nnser', 'wapiz njsar'}, {'wfawh ysawr', 'wawfz nezhr', 'wafik nwser', 'wffuq nzwer'}, {'hahoy inehr', 'waviq nasrr', 'wufsq njsur', 'wabux nacru'}, {'whfiq nsser', 'wafbz naekr', 'yfaiz anecy', 'wabhx nuzhr'}, {'wufzq ncuer', 'wwphq nekwr', 'waviq naswr', 'awwuq yisre'}, {'wufhx nxawr', 'wafqq nacer', 'awfhw inhur', 'wafzw nhxer'}, {'waefs nokar', 'wafik nsser', 'wwfwq nxqer', 'hahoy msaor'}, {'aypiz nuesh', 'wfiqi njsur', 'wybig nokir', 'wafic nnser'}, {'waffq nasyr', 'wyfwg nwisr', 'awfyz ancwr', 'wafaz neker'}, {'wafic nasyr', 'wafqk nwszr', 'ayfyz ankre', 'wapwj nagrw'}, {'wafqq nyser', 'wvauq nugwr', 'wbfeq nosqr', 'yofqi msaey'}, {'awpiw muzhr', 'waafx nucar', 'wffaq njher', 'wafyq nsser'}, {'awfhy anyur', 'wofsq ncssr', 'wafyq nasyr', 'wuvix nhkar'}, {'wpuiq nakzr', 'wafic nwser', 'wufji nhgyr', 'awfhu hsare'}, {'wafwj nagqr', 'awfoc nohre', 'wafqq nasrr', 'wfewq nijyr'}, {'waviq nassr', 'waivs neajr', 'wafbc nkker', 'awfuz wykar'}, {'wwfhg noqwr', 'wyyqi hiesr', 'wavij nxsjr', 'wafic nassr'}, {'wafsa nqcer', 'waviq nnser', 'whfuj nagrh', 'hapqi anjew'}, {'wafax nzker', 'wafik naswr', 'wfooq niexr', 'ayfyy engew'}, {'wabej nkaur', 'wyfij nguer', 'aiofq mhsuy', 'waviq naswr'}, {'wefoj nwxyr', 'wafik naswr', 'awbij nhjuy', 'wafqh ncger'}, {'hoifq ysaew', 'whfuz nagry', 'wufsq nzsqr', 'wafyq nacer'}, {'wybik nycwr', 'wafik nassr', 'wwfkq nkqer', 'whifh ansah'}, {'waviq nyser', 'wapis nqcer', 'awfhu anzeh', 'wapwj nhsry'}, {'waffq nacer', 'weifh muesr', 'wffaq ncsor', 'wfeuq naqre'}, {'awfog anqar', 'wafwq nassr', 'wafbg nguer', 'wufgi nakry'}, {'haifz anghr', 'wafhc ncsqr', 'wafwq naswr', 'wovij nhhsr'}, {'wifwj nogur', 'awvhq angir', 'wafzu naxor', 'wafik nacer'}, {'whfci nacro', 'iwfaw anghr', 'wabgq ncshr', 'whfiq nacer'}, {'wfehq nyxyr', 'hahqi hnsre', 'wabiz neger', 'whfiq nacer'}, {'awfew muesr', 'wepig nyqur', 'wwfij nsqer', 'wafyq nsser'}, {'wfiqh nosjr', 'wwfyg nuegr', 'awbiy anhhr', 'wafic nyser'}, {'wpfig nagur', 'hfaeq anxre', 'wyfek naqro', 'waffq nsser'}, {'awpiy yaesh', 'whfiq nasrr', 'wafkh njjer', 'wupix neejr'}, {'wafwq nasrr', 'wewqi msauw', 'wyfix nkier', 'wubij nshwr'}, {'iwfaw ansiw', 'wbpiq naokr', 'wwfsi nhsry', 'wafwq nnser'}, {'awfhu anesy', 'wyfqq nsshr', 'waviq nacer', 'wfoaq nhkir'}, {'awify hsaor', 'waffz nhsyr', 'waffq naswr', 'wfooq nuegr'}, {'yaifh ansro', 'wafwq nasrr', 'wyfyq njshr', 'wwbyq nsyor'}, {'wobwq nhjyr', 'wafsx nxsir', 'wfaah hsare', 'wafik nacer'}, {'wapsq naecr', 'yepiz msahw', 'waffq nwser', 'wufhj njear'}, {'wafzw nqsur', 'wafic nassr', 'aifqw woswe', 'wvaig nsyhr'}, {'wwvyq nigwr', 'waepq nhsrr', 'wafyq nasrr', 'awvuq anyyr'}, {'wafyq nyser', 'awfzi mswew', 'whfwj nygor', 'wafzz njswr'}, {'whfiq nassr', 'wfaig nuqhr', 'hayqi nsahy', 'wefhq najhr'}, {'wefci nwcar', 'wafuj nkzer', 'wfauh anecy', 'wafqq nwser'}, {'wafik nasyr', 'wapic nmxer', 'wfahu hayre', 'wwfwj nwesr'}, {'wuifw nuesy', 'whfiq nasyr', 'wfuuq nikir', 'wafqk nzcer'}, {'iwfqi mwqhr', 'wofwz nuxor', 'wafic nnser', 'wafse ngker'}, {'wafux nysxr', 'wfaaw msare', 'wafik naswr', 'wypis nhjar'}, {'wfikq njsor', 'wafqq nsser', 'wfhig nokir', 'ewfqi nhguy'}, {'awfyy mhsuy', 'wyfag najri', 'wofxq nserh', 'wafik nassr'}, {'wffuq nhxer', 'wafik nwser', 'awwaq hncey', 'waefz nxaur'}, {'wffeq nagqr', 'waviq nsser', 'wwifh msoew', 'wfowq nojor'}, {'wvfis nkyer', 'wefws nychr', 'aphij nwesh', 'wafwq naswr'}, {'whwqi muzor', 'whfiq nasyr', 'wafhk nzcer', 'wwfyg nokhr'}, {'wafqk nqaer', 'wafik nnser', 'wabux njaar', 'hifqi nhwre'}, {'wafqq nassr', 'awvoq ancur', 'wapux nujhr', 'wafxo nqoer'}, {'wvfix nqsjr', 'waivz nogyr', 'waffq naswr', 'yhfqi anghw'}, {'yypiz anwwr', 'wupij nexor', 'wafyq nassr', 'wafvz nagar'}, {'wvfij nwshr', 'aihfq nyesw', 'waviq nwser', 'wybij nhcor'}, {'wafhs naqzr', 'waffq nnser', 'wufox nuqhr', 'hophq nykah'}, {'wepis nycar', 'wafwq nyser', 'awifz ywqhr', 'wbfic nzsqr'}, {'wvfeq nakyr', 'wafic naswr', 'whyqi msahw', 'wefyj nacry'}, {'whfiq nwser', 'wafgk nnsjr', 'wfhwq naxra', 'hyhoq anyew'}, {'wufiz naigr', 'wfuoq nuekr', 'wafic nacer', 'ayfyj nsaah'}, {'waffq nyser', 'wyifq nwkir', 'yoifq noesy', 'wafsz nyasr'}, {'wpfoq nkssr', 'awifs mcaew', 'wafic nassr', 'wofws naxrw'}, {'wavpq nnsqr', 'aifqw ysaew', 'wafik naswr', 'wabyj nosrh'}, {'wafqq nyser', 'awhuq anxir', 'whbic niekr', 'wvfiz nagqr'}, {'awfoy anhey', 'wfuuq nakrw', 'wafcj nxsgr', 'wafic nnser'}, {'whbiq nksyr', 'whfiq naswr', 'hfais inehr', 'wwfqi nyqyr'}, {'wapvq nhxer', 'wupix neecr', 'ayfyk mawre', 'wafwq nnser'}, {'wapix najor', 'hohoq msayr', 'wobhq nwusr', 'waffq nsser'}, {'wvauq nwsrh', 'wafik nsser', 'wbfic nwasr', 'awyiy anesy'}, {'wafqq nyser', 'awbwq yeesr', 'wavhx nyjir', 'wviiq niker'}, {'wafik nyser', 'awfag anghw', 'wabjq ncker', 'wepix nogor'}, {'wabwq nsszr', 'wafqq naswr', 'aifqy huesr', 'wyfez najry'}, {'wafqq nasyr', 'hahox haqre', 'wufyx nxaor', 'wpeiq nakqr'}, {'wapsq noszr', 'wafqq nacer', 'webic najrw', 'aphiy ancoy'}, {'whfhc nsyhr', 'wafwq nassr', 'awfxi ansre', 'wabij njshr'}, {'wvviq nacgr', 'wefsi nuexr', 'hhaoq wakre', 'wafic nyser'}, {'awfyw yngew', 'whfiq nasyr', 'waibz nixor', 'waepq nawjr'}, {'wuyqi nsaiy', 'wabus nikor', 'wafik nsser', 'wafvz naoxr'}, {'wafwq nasrr', 'yapoz yakre', 'wahfs nwcor', 'wifsq nazqr'}, {'wabaj nyhsr', 'wafqq nsser', 'hehoq muzeh', 'wefis nakxr'}, {'wbpiq naxar', 'waviq nasyr', 'wuvhq nswir', 'awwij ahsre'}, {'wafyq nnser', 'haifg hngew', 'wofiz ngqer', 'waifj nwxyr'}, {'wefiz naecr', 'wfuig nhzur', 'awwik ysaeh', 'wafic nnser'}, {'wfoig nqahr', 'wbeiq ngwer', 'waffq nassr', 'awwic nyhre'}, {'wofyx nikor', 'wafhz nuqer', 'wafyq nwser', 'aphix anshy'}, {'wafik nyser', 'ayfyk oncey', 'waifj nikor', 'wpfij nishr'}, {'yaifk ysaeh', 'wfuig nhezr', 'wpyiq ngskr', 'wafyq nsser'}, {'hyifq answe', 'wboiq naikr', 'waviq nnser', 'wybig nhsro'}, {'waffq nasyr', 'ahhoq wiesr', 'wofws nswhr', 'wabxq nqsgr'}, {'waviq nwser', 'hfaij answh', 'wafes nixer', 'wwfoz neaqr'}, {'waviq nassr', 'haifg mhesr', 'wfuik nwejr', 'wpbiq nzsgr'}, {'wapkq nkker', 'wfiiz nhzir', 'awpaq ansiy', 'wafic nsser'}, {'wbauq nhqhr', 'wabfq nnszr', 'wafwq nasyr', 'awfux hahre'}, {'wfiwq ncsxr', 'hahoz neesw', 'wupuq neqyr', 'wafic nyser'}, {'wafwq nwser', 'wefix ngher', 'wifas nuchr', 'aefqi ysair'}, {'aphiz nsauw', 'wafzc naacr', 'wafyq nasyr', 'wawfs nijor'}, {'ayfys ancre', 'wbiiq nwsjr', 'wafyq nasrr', 'wofax nhghr'}, {'wafqq nassr', 'awfqh ankre', 'wffoq ngwer', 'whfys nswor'}, {'whfiq nasrr', 'wewci wsare', 'wafhc nzsor', 'wwvoq nucur'}, {'wapsq najwr', 'awpyq awgew', 'whfci nogir', 'wafwq naswr'}, {'wappq nzsir', 'awfah onswe', 'waffq nsser', 'wfeis nuxor'}, {'waffq nassr', 'wupwq nwgwr', 'ayvyq muzir', 'wapsq nksur'}, {'wafyq nnser', 'wufej nacra', 'wabxq nksir', 'ayfyw anecy'}, {'wawpq ngwer', 'awfey anxeh', 'wyfax nqair', 'waffq naswr'}, {'wufuz nshar', 'awbik anywr', 'waffq nassr', 'wwfis nazxr'}, {'wvfoq nqeer', 'waifs nekor', 'awwix hyesr', 'wafwq nsser'}, {'awhig yaesy', 'wyfbq naexr', 'waviq nnser', 'wyfoc nyegr'}, {'waubq nesxr', 'waibz njaor', 'wafyq nassr', 'hfaih majre'}, {'waviq nsser', 'awifg neesh', 'wvaig niegr', 'wefgq nazcr'}, {'wabpq nahcr', 'wevix nhzur', 'wafic naswr', 'yfawq nhxuy'}, {'wvahq nswur', 'yaifz hawre', 'wafkz nserh', 'wafwq naswr'}, {'wafik nsser', 'wayfz najry', 'awpuq engew', 'wafcz ngyer'}, {'awbaw mzaew', 'wypaq nhjyr', 'wafyq nassr', 'wabic ncszr'}, {'wafwq nwser', 'heifq anheh', 'wbeiq nqsur', 'wefws naqru'}, {'wfywq nyqyr', 'whfiq nasyr', 'wafzi nusxr', 'wehqi anxur'}, {'wafwq nasrr', 'awpwq woesr', 'wufuj nekir', 'wapgq nagur'}, {'awwig ingew', 'wibis nhxor', 'wafik naswr', 'wafox naxar'}, {'wafps njsjr', 'wapwg neqar', 'wafic naswr', 'awfuw mwaew'}, {'wbaij nwxir', 'wwfig naxrr', 'whfiq nyser', 'awfah answh'}, {'awfeg miesr', 'whfhq nwjer', 'wbaig nwjir', 'wafic nsser'}, {'wafwq nyser', 'yefci msaww', 'wavax neajr', 'wabpq naiqr'}, {'wfiqy ngsyr', 'wabux nhejr', 'wafqq nacer', 'haifx anhar'}, {'wefzq nacor', 'wafik nasrr', 'hufqi maqre', 'wifaj nhcar'}, {'wfijq naghr', 'awfoj onswe', 'wwfhc njare', 'wafyq nacer'}, {'wfiaj nhjhr', 'wafqq nasyr', 'hfawq noyre', 'wafax naeqr'}, {'ayfyc anesw', 'wavix ncsjr', 'wafqq naswr', 'wfuix nxayr'}, {'awfec hsayr', 'wyfhq nmsjr', 'waffq nasrr', 'wovis nwjar'}, {'awwwq wsaey', 'wafhg nmsor', 'wafic nnser', 'wfiix ncare'}, {'wapux nhxur', 'wwifh anxur', 'waffq nnser', 'wwfaq nysxr'}, {'awviz msahw', 'waviq nasrr', 'wabaj nhwsr', 'wafss nzsar'}, {'wafyq nyser', 'awpik mysre', 'wifux nychr', 'waffz nssxr'}, {'aifqw inheh', 'wafqq nsser', 'wafjc nzszr', 'wfwuq nygar'}, {'wafsy naxur', 'waviq nasyr', 'wfaiz nagra', 'awpaq hajre'}, {'wafys nksgr', 'awifc yakre', 'waffq nsser', 'wyfuz nqaor'}, {'wufxi negwr', 'wafqq nsser', 'haifs anyre', 'wufbq njqer'}, {'wafik nnser', 'wfaoh nhhuy', 'wfuig nhcyr', 'wapsq nhsyr'}, {'wafwq nyser', 'wfayq nhxar', 'wafhs nsjer', 'hfawq nyesh'}, {'wafqq nyser', 'wafwz nacxr', 'wevis nexhr', 'yaifw angyw'}, {'hahos waesw', 'wefuj nwcar', 'wefvq naxyr', 'wafqq nnser'}, {'wyfij nxsir', 'wbahq nagrw', 'aiphq encey', 'wafwq nnser'}, {'aefqi aensr', 'wefox nhxwr', 'wapzq nwger', 'wafyq nacer'}, {'wofsq nzsor', 'wufyx noqwr', 'awfxi anhey', 'wafwq nacer'}, {'wubhq neeqr', 'waviq nwser', 'whfis njsxr', 'awfqa yawre'}, {'owfaw wyesr', 'waffq nasrr', 'wfeig nicur', 'wafse ngcer'}, {'wafic nasrr', 'wufpq ncshr', 'aofqi inheh', 'wavhx nyezr'}, {'wafic nasrr', 'wafjw nxzer', 'wfaeq nwjar', 'awyaw amgew'}, {'whboq nwjyr', 'wafwq nyser', 'wwfvq ncker', 'wfauh anesy'}, {'whfax nosrh', 'wwbiq ncscr', 'awfah heesr', 'whfiq nnser'}, {'ayyyq nsawy', 'wfohq noecr', 'wafic nassr', 'wyafq nakar'}, {'wypik nwgwr', 'awfey anshy', 'wafqq nasrr', 'wabjq nagjr'}, {'whfiq nassr', 'wafzg nawgr', 'wepis nyjor', 'hwhoq nowwe'}, {'waviq nyser', 'awwaw newre', 'wobiq ngjer', 'wufhz nuqur'}, {'wfuig nwsrh', 'wafjx naqcr', 'ayfyk anjre', 'wafwq nasyr'}, {'wufhq nqshr', 'wifws neghr', 'awpic hsair', 'wafwq nasyr'}, {'waboz ngare', 'wafyq nwser', 'awpij nowwe', 'waepq nwxer'}, {'wafwq nasrr', 'wifoj necwr', 'awfys mhesr', 'wafbz nxaer'}, {'wwfux nhkur', 'awfhy msayr', 'wafcy naxsr', 'whfiq nnser'}, {'wafik nyser', 'yaifh yysre', 'wafji naxzr', 'wwpaq nhkar'}, {'wafqq nyser', 'wfyhq nyejr', 'wwfig naxyr', 'awify wayre'}, {'wffoq nusjr', 'weipq nagry', 'wfawy ywesr', 'wafic nassr'}, {'wfahy yuesr', 'wfhig neqor', 'wbfis nkssr', 'waviq nacer'}, {'wafyq nyser', 'wufpq njsar', 'wfoik nshar', 'ayfyy wajre'}, {'wafqq nyser', 'wefws nyusr', 'apheq nyesy', 'wafxx nosjr'}, {'yapaz wesre', 'wwvij nhkyr', 'waviq nnser', 'wefcq nakwr'}, {'wabux nigar', 'whfiq nsser', 'wafzs nakxr', 'awhis anzor'}, {'wafyq nasrr', 'wabej negwr', 'awwij anciy', 'wafge nahgr'}, {'wfaji nuqhr', 'waviq nwser', 'aufqi ancay', 'wvfhq naxqr'}, {'wafce ncszr', 'waviq nasyr', 'wufoz nugyr', 'afqyi mseaw'}, {'wahpq nuker', 'wafic naswr', 'wfuix naxry', 'hiifq muzey'}, {'wfyix nagra', 'wafwq nasrr', 'awfqy nsaoy', 'whfcq njeer'}, {'awfzi hnsre', 'wofzq nmasr', 'wafic nnser', 'wavux nhzhr'}, {'wafzk nysxr', 'awfws maesh', 'waviq nwser', 'wypix nxear'}, {'wafyq nasrr', 'wwfzq nmsyr', 'awpaq nhguy', 'wfaeq nhkur'}, {'wafik nnser', 'hfais ankyr', 'wafgj naczr', 'wipis neqyr'}, {'wafyq naswr', 'wafzi nzxer', 'wwfoc nexor', 'awfah nhquy'}, {'wafej ncscr', 'wufoz njair', 'wophh yiesr', 'wafwq nacer'}, {'yhfqi anshe', 'wypic nuxor', 'wafhj nawcr', 'whfiq nyser'}, {'wafxh naksr', 'wafik nasrr', 'wuwqi anzwr', 'wbaix nwxir'}, {'wafic nasyr', 'wpfig nzsxr', 'awfac nsawy', 'wyfax nacra'}, {'wwifw anwre', 'wafqj nxswr', 'wbaig negwr', 'wafic nassr'}, {'wfaaw ysare', 'wafik nasyr', 'wopic nychr', 'wvuiq naigr'}, {'wepic neexr', 'waffq nassr', 'awyeq maesy', 'wefzq nagjr'}, {'wobyq nogur', 'wafqq nsser', 'wafzx njswr', 'wfayh anxar'}, {'wafwq nwser', 'awhuq anzew', 'wyfus nyjor', 'wwfqq nmasr'}, {'wafxz nsyer', 'wafyq nwser', 'awwaw yeesr', 'whfus nuxor'}, {'waivz nwekr', 'awfek nhguy', 'wavix naqrr', 'waffq nassr'}, {'wfayw magre', 'wafqq nassr', 'wfioq nwjer', 'whfhx necur'}, {'wofkq neqer', 'wafwq nwser', 'aybyq maesy', 'wfwhq nwqhr'}, {'awfux nsayy', 'wifoj nhcur', 'wifix nqher', 'wafwq nacer'}, {'wyfaz niqhr', 'wavbq nhskr', 'wafqq naswr', 'awfug hayre'}, {'haifk mesre', 'wofuz naxru', 'wavjq njswr', 'wafwq naswr'}, {'wabqq nsskr', 'waviq nsser', 'wabej nhqar', 'hfaiz ongew'}, {'ewfaw yncey', 'wfaix nyezr', 'wfiqq ngsur', 'wafic nsser'}, {'hawqi nsaiy', 'wyfis naccr', 'waffq nassr', 'wyviz nyghr'}, {'wafic nasrr', 'wwifw anyor', 'waips neaxr', 'wafzx nagxr'}, {'aiefq yoswe', 'waviq nasyr', 'wwfcq naegr', 'wyvik nhsre'}, {'wyfbq nnjer', 'wafwq nassr', 'wfawy ancwr', 'waufx nocur'}, {'wwfwj nysrh', 'waffq nwser', 'wvoiq nwsgr', 'wiwqi ysaur'}, {'wviiq nuscr', 'haifj msayw', 'wafqq nasyr', 'wwfyg njahr'}, {'awfoc yhsuy', 'wafqk naagr', 'wabox nxair', 'wafwq nasyr'}, {'waffq nasyr', 'wafqh nxjer', 'wabyj nagru', 'wwyqi hhsre'}, {'wapyz nacro', 'whfiq nwser', 'wapwq neker', 'awifk maxre'}, {'awwaq nuwre', 'wapfq nwsjr', 'wyfhx nykor', 'whfiq nacer'}, {'wavcq neszr', 'wayfs ngair', 'awvik ansye', 'waffq nasrr'}, {'wewqi anqeh', 'wipoq nuxwr', 'wafyq nasyr', 'wafvc nqqer'}, {'wafyq nyser', 'wyify wysre', 'wvaik nejhr', 'wpeiq ngszr'}, {'wapaz nygar', 'wafas nisgr', 'wfauh ysaur', 'wafyq nsser'}, {'awpic nhguy', 'wafcs nzsar', 'wafik nassr', 'wwbaq nakre'}, {'yifqi maesw', 'wypig nwcar', 'wafwq nasyr', 'wifjq ncsar'}, {'hawqi anshe', 'wefos nwxar', 'waviq nacer', 'wafvz nhsyr'}, {'wifys nwkhr', 'awfws ongew', 'wafwq nassr', 'wafxe ncscr'}, {'wefkq nqger', 'awbis hhsre', 'wwfyj nyqur', 'wafqq nwser'}, {'yhifq yesre', 'wafqq naswr', 'wafsx naaxr', 'wobaq nukur'}, {'wefhs nusrh', 'wafwq nwser', 'wihqi anqeh', 'wyfiz najjr'}, {'wfahq nyxhr', 'wafik nasyr', 'awhoq wahre', 'wafze nksor'}, {'wifis ncsyr', 'wofus nyghr', 'wafik nassr', 'aphyq mwqhr'}, {'yfaaq nsahh', 'wufwj njaar', 'wafza nisqr', 'whfiq nacer'}, {'wofuz nxaar', 'ayfyk anweh', 'wafqq naswr', 'wwfzq neger'}, {'waffq nacer', 'wvfyq nyskr', 'awfax anxey', 'wypic nekar'}, {'wifzq naxwr', 'awfwg anyir', 'wafic nyser', 'wipwq nixhr'}, {'awvis ansuh', 'wubij nhgur', 'wafyq nwser', 'wafuj nsjer'}, {'wipiz nikur', 'whfiq nassr', 'awfhj inheh', 'wufij nawqr'}, {'wafjh naojr', 'yupiz ansow', 'wwfas nhghr', 'wafwq nacer'}, {'wafic nasyr', 'wfiag njair', 'wifis naikr', 'awwyq msaeh'}, {'hohoq mhaew', 'wafik nasrr', 'wfaiz noejr', 'wafgx njsgr'}, {'awpuq inhhr', 'waviq nasyr', 'wfihq najor', 'wyfwj nagro'}, {'wfhaq nhexr', 'wufzq nzsar', 'wfaaw anciy', 'wafwq naswr'}, {'yfahq anyyr', 'waffq nnser', 'wefus nagry', 'waboq njzer'}, {'wafyq naswr', 'wyfjq niskr', 'wifhx naqre', 'hhhoq haesh'}, {'weifh ysaey', 'wapoq noker', 'waivz nshre', 'wafyq nassr'}, {'wyaux hsahr', 'waviq nwser', 'wfaik najrh', 'wvwiq njcer'}, {'wayfs nagru', 'wiifw anqyr', 'wafyq nassr', 'wpfoq nxger'}, {'wophh hsare', 'whfiq nwser', 'wpfic nujer', 'wufex ngare'}, {'wafqq nasyr', 'ewfci awcey', 'wyufq nojhr', 'wbfaq nagqr'}, {'waviq nasyr', 'hwfaw ankyr', 'wpoiq ncssr', 'wfhix nojyr'}, {'wavix ncaer', 'hophq angew', 'wafqq nasrr', 'wyfhx nhzhr'}, {'yefqi nuesh', 'wafyq nasrr', 'wufuz nhcwr', 'wefsq najcr'}, {'wafwq nyser', 'wapuq neszr', 'wupwq nixwr', 'wfaay nyesw'}, {'wafik nasrr', 'wefpq nzszr', 'wfhik nhesr', 'whifh hykar'}, {'wafic nasrr', 'wabqo nsyhr', 'wafxo nagsr', 'yapqi mysre'}, {'uwfaw anyyr', 'wfiis nuekr', 'waviq nnser', 'wabij naqar'}, {'wwfsi nshir', 'waffq nasrr', 'aifqi nsaww', 'wfiqu naxgr'}, {'wafqq nsser', 'awfex ancye', 'wafxa nsxer', 'wufus nyghr'}, {'wufuz nwexr', 'wifij njcer', 'wafqq nacer', 'wiwqi yajre'}, {'wafhz ncoer', 'hfaiz inhhr', 'wfouq nqear', 'wafyq nassr'}, {'wafik nasrr', 'webic nogor', 'wyfig nyscr', 'yfaig nsayh'}, {'wafqq nsser', 'wfhoq nhcor', 'wifgq nqskr', 'yfaiz msaor'}, {'wfiqh ngwer', 'wafwq nassr', 'yfaux anghw', 'wwpyq nekhr'}, {'waviq nsser', 'wfauy onsre', 'wefhj nyxor', 'wufzq nzsqr'}, {'wafic nasrr', 'waibq ncszr', 'awyhq nyhre', 'wupig nwzhr'}, {'wafcj nmsar', 'waffq nassr', 'yfaij wahre', 'wabhj nughr'}, {'aphqi heesr', 'waviq nsser', 'wfbiq nagor', 'wfhwq nhxwr'}, {'wehqi nwhre', 'wofsq njcer', 'wypyq nhcar', 'waviq nacer'}, {'wafqq nyser', 'afqai ysawr', 'wovij nswhr', 'wpiiq nayjr'}, {'weyci nokwe', 'wafyq nasyr', 'wufsi nicor', 'wafxe naucr'}, {'wafyq nnser', 'wfiqo nserh', 'whhfq nagre', 'awvis hsaeh'}, {'wufhc naxro', 'wbaiq nazsr', 'aiwfq wwesr', 'wafik nacer'}, {'wifas nwkwr', 'whfiq nwser', 'wefbq njswr', 'awwiw anjyr'}, {'wapxq naqor', 'wavus nochr', 'waffq nwser', 'hfauq ankeh'}, {'yapez muzor', 'wufhg neegr', 'wafvk nswer', 'waffq nsser'}, {'wafic nasyr', 'awyuq nsayw', 'wafzw ncger', 'woibq nhchr'}, {'waibz nughr', 'wafqq naswr', 'wuify angwr', 'wwfyq nagyr'}, {'wyfqi nexur', 'woyqi ancur', 'wyfwq nazcr', 'whfiq nnser'}, {'waviq nyser', 'awyoq noesh', 'wefji nxayr', 'wafbg nxsgr'}, {'wifaj nuqyr', 'wafic nwser', 'awfyz encey', 'wabhq nahjr'}, {'wafjz nxqer', 'whyqi mawre', 'wafwq nassr', 'wawfs nswir'}, {'awfyk hyesr', 'wfiij nhcwr', 'wwfis nagqr', 'wafic nacer'}, {'yifqi hisre', 'wypoq nuqyr', 'wafyq nasrr', 'wafes nxjer'}, {'wfpiq naqar', 'wepij nhqhr', 'awfes anqir', 'wafwq naswr'}, {'wufyx njayr', 'whfiq nwser', 'wophy yawre', 'wafgk nqyer'}, {'wbiiq naycr', 'wafwq nyser', 'hahox nhesw', 'wyipq nhcar'}, {'aiwfq nsauw', 'wibiz niekr', 'wafwq nassr', 'wvfeq nagsr'}, {'aufqi ysaor', 'wbfoq nzjer', 'wafik nacer', 'wwfhs nwchr'}, {'wafik nasyr', 'wafcc najcr', 'wfaji nuecr', 'yyifq msauw'}, {'wafqz ncsur', 'wafyq nasyr', 'aphwq anhew', 'whfyz nyjhr'}, {'wafqq nassr', 'wbpiq nmshr', 'wwvhq nhecr', 'awify nsaow'}, {'awfyc nhwuy', 'wifes naqry', 'wafik naswr', 'wufgq naqzr'}, {'wufaj nwecr', 'wafbj naghr', 'wafwq nsser', 'awpig mjaew'}, {'wafik nnser', 'awfwy anjwr', 'whpic nuqor', 'wfiqo nhcer'}, {'waviq nyser', 'hyfqi wsaey', 'wfaiz nhgwr', 'waboq najgr'}, {'waffq nacer', 'wufus neegr', 'wfiqi nakir', 'awhoq anqir'}, {'wepig nwezr', 'ayfyx ysayr', 'waviq nnser', 'wpaiq naxyr'}, {'wobik nwgor', 'wafik nnser', 'wyfyq nqsjr', 'wfayh hsaur'}, {'wufij nazgr', 'ewfci wosre', 'whfiq nasrr', 'wfooq noqwr'}, {'waofz nhcyr', 'wafwq nassr', 'wyfwq ncuer', 'whify woswe'}, {'wefis ngoer', 'wafik nasyr', 'ayfyx hnsre', 'wyfok noxwr'}, {'waffq nasyr', 'wyfhz nhkir', 'awpoq anwyr', 'wefbq nazjr'}, {'awfuw hawre', 'wbfig nwsgr', 'waffq nwser', 'wefes nygar'}, {'hyfqi anxyr', 'wafik nsser', 'wahbq naiqr', 'wufex neqar'}, {'wyifw ankey', 'wafja nnsjr', 'wupwq nwexr', 'wafwq nacer'}, {'weviz nhzwr', 'wafsi nescr', 'whfiq nyser', 'wfauh msaeh'}, {'wbfic nuskr', 'wafik nasrr', 'whaux yaesh', 'wuboq noqur'}, {'wafyq nyser', 'wufus nuqhr', 'wahbq nyshr', 'wfayy anxwr'}, {'waofs nykor', 'wifsq ncjer', 'aypiz misre', 'wafik nassr'}, {'waibs noxor', 'wifij nzshr', 'wafyq nasrr', 'hfaiy nyesy'}, {'wifes negur', 'awvqi ysaur', 'wifjq naxgr', 'whfiq nyser'}, {'waipz nagrw', 'whfiq nasrr', 'wwfig nxxer', 'yapez niesw'}, {'waefs nyqor', 'awyix anjhr', 'wufjq naqwr', 'wafqq nnser'}, {'wufcq nxsur', 'wyfhz necar', 'whfiq nasyr', 'haifg amgew'}, {'wyfhk nixir', 'waviq nwser', 'wepiq nakor', 'yfaih msair'}, {'yiifq anxor', 'wpviq nagor', 'wefaj nwkor', 'wafqq nnser'}, {'owphq nohwe', 'wabig njcer', 'wafwq naswr', 'wpaiz naqre'}, {'wafqq nassr', 'awwhq noyre', 'wwfkq nyxer', 'whhfq nejur'}, {'awbis yazre', 'wufgi neqhr', 'wafsx nkzer', 'wafwq nasyr'}, {'yiifq inhor', 'wefij ncuer', 'wafic nacer', 'waafz nueqr'}, {'yufqi nwesw', 'wabuj nuxwr', 'wafyz ngjer', 'wafyq nacer'}, {'wopix nwqur', 'wafqq nacer', 'wiify muzre', 'wbeiq nayjr'}, {'wfiig nycor', 'whfiq nasyr', 'wveiq nzger', 'awfyy anqwr'}, {'wafyq nasrr', 'hifqi nsawy', 'wyfoc ncair', 'wwfqq noger'}, {'aifqw nohwe', 'wfhoq nhkor', 'wafhj nsker', 'wafwq nnser'}, {'wefws nuxar', 'awyih anywr', 'wefvq naqyr', 'wafqq nasrr'}, {'awbiz anhwr', 'wiboq nkaor', 'wofsq nqsir', 'waffq nnser'}, {'wafqq nyser', 'wybig nyjar', 'yuifq mysre', 'wwpiq nkoer'}, {'wafyq naswr', 'wafhx nwsjr', 'wivis nwkyr', 'wfaoy yeesr'}, {'waviq nassr', 'awwic ysaur', 'wfyoq nejyr', 'wafqj nqsur'}, {'wapsi nyqwr', 'wyfeq nawqr', 'yipiz anjre', 'wafyq nacer'}, {'wafwq nwser', 'wapuq nqsyr', 'aiufq msawe', 'wobis noxor'}, {'wevix ncayr', 'wbyiq nqjer', 'wafic nassr', 'awfys anguw'}, {'waviq nassr', 'owfaw nhcuy', 'wifhq nnsxr', 'wyfax nhegr'}, {'aphis anxur', 'whfhx nhzar', 'waviq nwser', 'wypiq nkoer'}, {'wafqq nacer', 'hahos hahre', 'wafoj niker', 'wbahq nuzhr'}, {'wufhs negor', 'wifsq nayqr', 'waviq nnser', 'yupiz nsaaw'}, {'wafqx nkoer', 'wfaow nsaoh', 'whfyx nesrh', 'wafic nsser'}, {'wepeq nekir', 'habqi anzre', 'wapgq njker', 'whfiq nacer'}, {'wifij nzsgr', 'wevix nexar', 'waffq nnser', 'wuhqi wsaor'}, {'wyfyg nwgyr', 'wafja nxscr', 'waffq naswr', 'awfaj angew'}, {'wafwq nyser', 'waabq nakar', 'hahqi insre', 'wfaik nkaar'}, {'waffq nasrr', 'wwfaj nechr', 'awwuq mwaew', 'wafqs nagqr'}, {'awbqi maxre', 'waviq nsser', 'whbiq nwsqr', 'wyfak nezhr'}, {'wavcq ngsar', 'wwfhz nokir', 'hhhoq anhar', 'wafyq nsser'}, {'wwbij ncaor', 'waffq nnser', 'ayfyj ysaor', 'wafjy nexer'}, {'wufpq nhsir', 'wfywq nighr', 'awhig anwhr', 'waffq naswr'}, {'fahqy awsre', 'wypix nwejr', 'wafvj nawgr', 'whfiq nacer'}, {'wowqi anciy', 'wibiz nagra', 'whfiq naswr', 'whfhq nzger'}, {'wafik nnser', 'wyfyq njsyr', 'aphuq wsayr', 'wifsi nuqar'}, {'waffq nacer', 'yaifz anxor', 'wwpyq nxahr', 'wpfuq ncger'}, {'wifez nxaor', 'wafqq nassr', 'wpbiq naojr', 'awfug angeh'}, {'awyis anhar', 'wpyiq nacsr', 'wwfyx noxor', 'waviq nacer'}, {'wafyq naswr', 'wfayy angwe', 'whfyj negyr', 'wvpiq naczr'}, {'whfiq nsser', 'wafsj ngcer', 'awbqi ankew', 'wfoik nhqyr'}, {'waufs nygyr', 'wafxx nuxer', 'wafic nwser', 'wfayy ysahr'}, {'ahfaw yaesw', 'wapaz nwjyr', 'waffq nnser', 'whfbq nquer'}, {'awbij oncey', 'waffq nnser', 'wyfcq njger', 'wfuij nieqr'}, {'wafic nasrr', 'wabux neecr', 'wafgx ncker', 'aifqy angww'}, {'wafqq nsser', 'wfuix neecr', 'wabxq niskr', 'hahow nohwe'}, {'wafic nasyr', 'wfhiq nxqer', 'hfauq anyir', 'whfci nwexr'}, {'wyafq ncher', 'yayqi nhcuy', 'wabwj nyesr', 'wafwq nasyr'}, {'wyffq njsur', 'wafwq nassr', 'havqi ysaeh', 'wayfs nogwr'}, {'wyfez nyosr', 'wafbs nwszr', 'yapez nsawy', 'whfiq nnser'}, {'wafwj nmswr', 'hfawq anxir', 'wepoq nhkhr', 'wafqq nwser'}, {'wafic nasrr', 'awfqo nozwe', 'wwboq nwjwr', 'wefgq naugr'}, {'wofis nqwer', 'haifw waqre', 'wafwq naswr', 'waufs nswor'}, {'wafic nasrr', 'hohoq muzey', 'waibz necar', 'wavix najjr'}, {'wvfix nhcer', 'wufoj nyqar', 'afqui ansiy', 'wafic nsser'}, {'wabvq nmker', 'waphz nkaur', 'awpis nwhre', 'wafwq naswr'}, {'wuwqi muzur', 'wpaix naxri', 'wafax nqqer', 'waviq nacer'}, {'wafyq nnser', 'wfyij negwr', 'awfow ysaew', 'wafgk nxsar'}, {'wupwq nyezr', 'wafik nwser', 'awfoz anhey', 'wafvk niker'}, {'wafos naygr', 'wafqq nsser', 'whpuq nujir', 'hyhoq yawre'}, {'waviq nassr', 'wopix nhwsr', 'wyfic nkscr', 'haifs anyar'}, {'wfayw inhir', 'wafic nwser', 'wefux nhcur', 'waobq nayxr'}, {'wwfhs nhisr', 'awpix anxre', 'whfiq naswr', 'wafjj ngsjr'}, {'wafyq naswr', 'wufhg niexr', 'haifk makre', 'wvwiq nmger'}, {'wabsi nhjor', 'awpeq anwwr', 'wafwq nassr', 'wwfcq nwasr'}, {'wepiq nxscr', 'wabqo nuxur', 'ayfyx awgew', 'whfiq nyser'}, {'wubig ncaor', 'wfayw nwesh', 'waffq nwser', 'wafox nmshr'}, {'wvuiq naqyr', 'whfiq nsser', 'wopic njaor', 'awhik anqor'}, {'wwfyq njyer', 'hfaiz msawr', 'waviq naswr', 'wfiiz nhexr'}, {'whfys nwqhr', 'aihfq angwe', 'wafik nassr', 'wwfig nnger'}, {'wfixq nxyer', 'wafwq nyser', 'wfaay engew', 'wyfus nhcwr'}, {'wwfac nwkwr', 'whify mhaew', 'waffq naswr', 'wabjq nazsr'}, {'wbaoq naqra', 'wwfeq nwsgr', 'waffq nsser', 'awbiw maxre'}, {'waabq naqir', 'wiifw anqey', 'wafik nnser', 'waefs nuxur'}, {'wufiz nhxer', 'wufuz nuxhr', 'waffq nnser', 'yaifk anzar'}, {'wubix noxur', 'wabis nosxr', 'wuifh maqre', 'wafwq nacer'}, {'wafik nasrr', 'wefjq nhxer', 'wuboq nwqir', 'hahqi nsayy'}, {'wafyq nasyr', 'wwfis naqzr', 'wyfek nhsre', 'haifw noesh'}, {'wafik nyser', 'awfos maxre', 'waifj negwr', 'wafoj njskr'}, {'wyfig nkxer', 'waviq nasrr', 'wfhik nojwr', 'awifc ansru'}, {'awfuz ancew', 'wapqq najqr', 'wafik nwser', 'wibaq nwkhr'}, {'ywpiz nhesw', 'wavix nqsgr', 'wafic nnser', 'wvaoq nwqhr'}, {'wybiq naczr', 'wafqq nasyr', 'ahfaw husre', 'whpuq nwejr'}, {'wwifh nywre', 'whpiq nacqr', 'wofhx nagra', 'waviq nacer'}, {'wafwq nyser', 'wabej nicor', 'hahoj anesw', 'wofix naxar'}, {'waviq nassr', 'wwfuq naogr', 'wobhq nixyr', 'awwik yoesr'}, {'wwfqa neqwr', 'wifjq naycr', 'awbwq ungew', 'wafwq nsser'}, {'wwfhz nojur', 'yahqi anjar', 'whfkq niqer', 'waviq naswr'}, {'awwik mcaew', 'whfiz nzcer', 'wefas neakr', 'wafik nassr'}, {'haify anesh', 'wfaix noqwr', 'wafqx nhsxr', 'waffq nsser'}, {'wfoaq nakrh', 'waviq nyser', 'waapq ncskr', 'ayfaw anjre'}, {'wwphq nwxhr', 'wbiiq nazhr', 'waffq nwser', 'haifs nhjuy'}, {'awvhq anjor', 'whfiq nwser', 'wefyj naqry', 'wbfeq nzher'}, {'waufx nijur', 'hhifq ankeh', 'wafic nacer', 'wvwiq nkqer'}, {'wvfoq nzswr', 'wafyq nasyr', 'wwfaz nxaor', 'yfaic anshw'}, {'yfaix anhre', 'wafik nsser', 'waibz nagri', 'wfbiq nkier'}, {'aphyq muzew', 'whfiq nassr', 'wbfix ngxer', 'wefaj nkaur'}, {'hfaix wsare', 'wbfij nagjr', 'wvahq nucor', 'wafyq nacer'}, {'wefxq ngszr', 'awpiz amsre', 'wafqq naswr', 'wevis nyxur'}, {'wvfuq nyskr', 'hfaix anchr', 'waffq nwser', 'waivs nyegr'}, {'wafyq nnser', 'wwfyj nacrh', 'awhic anjey', 'wafcg neker'}, {'wobaq nhsrw', 'ayfyg yykar', 'wafwq nassr', 'wpaiq noscr'}, {'awfas ancyy', 'waviq nsser', 'wifws neqar', 'wafkg nkger'}, {'wbuiq nsyer', 'wfeik nhzur', 'weyci nykay', 'wafyq nacer'}, {'wfaey nhxuy', 'wafqq naswr', 'wefys naqry', 'wbfij nzswr'}, {'wafik nasrr', 'wfohq nwexr', 'wyfhq nwger', 'aphaq anyar'}, {'wafsk ngqer', 'wfywq neecr', 'wafqq nacer', 'hoifq anjyr'}, {'wafzy nakir', 'awfew wusre', 'waviq naswr', 'whpyq nshyr'}, {'waffq nasrr', 'awwqi nhkuy', 'wufex ngare', 'wafqc njzer'}, {'wapwg nwcwr', 'wafqq nasrr', 'wyfzq njger', 'hifqi nsahh'}, {'wafwq nasrr', 'awfaz moswe', 'wppiq naqyr', 'waips ncahr'}, {'wofsq noger', 'waviq nnser', 'wvaij nixhr', 'awfwx ancar'}, {'wefhx nigor', 'wafkh njoer', 'wafik naswr', 'hfaic msaww'}, {'whfiq nwser', 'wyfxq ngjer', 'wyfhz nexir', 'awfuj anshe'}, {'yufqi muezr', 'wuvhq nakre', 'whfiq naswr', 'wafux ngsur'}, {'wifxq niger', 'wwvyq nuqar', 'wafik nacer', 'awfuk mahre'}, {'awfyy ancyy', 'waibz nexwr', 'wabjq nescr', 'waviq naswr'}, {'awvic mosre', 'wafwq nwser', 'wyfsq nssjr', 'wpahq nyqur'}, {'wpfyq naagr', 'wafik nasrr', 'whwqi mseaw', 'wufji nucur'}, {'wopiz nyxar', 'owphq hsawr', 'waebq ncsgr', 'wafic nassr'}, {'wpbiq nagcr', 'yfaik anxew', 'whfiq nnser', 'wfwoq nxair'}, {'wapoq naqjr', 'aphiz yakre', 'waipz nueqr', 'wafyq nsser'}, {'wapix nzwer', 'waboc nixar', 'awfos ansuw', 'wafic nsser'}, {'waffq nasyr', 'awbiy inhur', 'wufbq nazsr', 'wfoaq nyesr'}, {'waffq nacer', 'wafzw ngjer', 'wubix nyjar', 'awpiw hosre'}, {'awifs anxew', 'whfiq nasrr', 'wbfuq nksor', 'wfaix noxir'}, {'wifhz nwchr', 'whfiq nassr', 'awwic inhor', 'wafjj nnqer'}, {'aifqy hwsre', 'waviq nasrr', 'whhfq nyqur', 'wafpj nayxr'}, {'hahqo oncey', 'wafwq nwser', 'wevhq nshwr', 'wafqs noxer'}, {'wfiak nujor', 'waviq nsser', 'wafzi nzxer', 'awfyg mqaew'}, {'whfuj nhkir', 'whfiq nasyr', 'wifis nqwer', 'hfaaq anhir'}, {'wfiax neexr', 'awpqi yakre', 'wafik nassr', 'wafhz nacor'}, {'wafyq nasrr', 'wwfzq nuskr', 'ayfyh yaqre', 'wfeix necar'}, {'wybik nhzhr', 'awyiz mjaew', 'wfieq nhsur', 'wafyq nsser'}, {'wvahq nhxir', 'awyoq nhzuy', 'waviq nnser', 'wwfgq naxxr'}, {'waffq nasyr', 'wefhx najrh', 'wipiq naukr', 'hfaoq aysre'}, {'wvfiz nkscr', 'weifw mjaew', 'wafwq nassr', 'wfyix nxaor'}, {'waffq nacer', 'whwqi anweh', 'wifkq nqcer', 'wyfoc noexr'}, {'waffq nyser', 'yfaig hsaey', 'wwviq najsr', 'woviz nixwr'}, {'wfisq njxer', 'waviq nsser', 'wobig niqhr', 'woify msiew'}, {'wyhqi anhhr', 'wafso nssgr', 'wafqq naswr', 'whbic neajr'}, {'wafzg nnxer', 'wafqq nacer', 'wuwqi yesre', 'wfuaq nuxor'}, {'awpih nhguy', 'wypij nyhsr', 'waffq nasrr', 'waviz ngskr'}, {'waffq nacer', 'wiyqi ancuy', 'wafjc naocr', 'wapyz nyexr'}, {'wiboq najru', 'yfaqi hahre', 'wafic nacer', 'wapic nysgr'}, {'waviq nsser', 'wfeik nhqar', 'wbeiq nxshr', 'hihoq angur'}, {'waufz nhzyr', 'wafsj nwscr', 'hahox anhey', 'waviq naswr'}, {'wobix njaor', 'hfaiw ankor', 'wafzy nakur', 'wafwq naswr'}, {'wafyq nyser', 'awfuw anhur', 'wafja noger', 'wofoz nujir'}, {'awfuz angew', 'wafju nackr', 'wafic nwser', 'wvaij nxair'}, {'wapyq nzqer', 'wyyqi msahr', 'wwfsi nuxor', 'wafic nsser'}, {'wwfhs nexor', 'wafqs naajr', 'wafik nwser', 'wfaey nsawy'}, {'waviq nasyr', 'wwvyq nhjyr', 'awwis nyhre', 'wabvq nhasr'}, {'wafjk naxar', 'wafik nsser', 'yfaiw hhsre', 'wuvij naqrh'}, {'awhaq anhir', 'wafqq nacer', 'wabwj nhzhr', 'wafkj nxsor'}, {'waffq nwser', 'wwbhq nueqr', 'whfsq nqoer', 'afqei wesre'}, {'ayhyq angur', 'wepeq nokor', 'wafic naswr', 'wapij nwsjr'}, {'waibq nxjer', 'wafik naswr', 'waivs nhcar', 'yufqi nwesh'}, {'wabos nakri', 'waviq nasrr', 'waepq nsher', 'awfos yahre'}, {'wbuiq nagir', 'awpij muzir', 'wyfug nekur', 'whfiq nacer'}, {'aphiz msaey', 'wwfkq naeqr', 'waffq naswr', 'wypoq nighr'}, {'wefvq ngeer', 'wafik nnser', 'wfhhq nwusr', 'awfej angyr'}, {'waviq nsser', 'wuvix nexwr', 'wafpx nagsr', 'awfec anqew'}, {'awyic anwhr', 'wafzh njuer', 'wafwq nsser', 'wabog nyxor'}, {'wefoj neqar', 'wafqq nassr', 'wofvq ngker', 'hufqi wsayr'}, {'waviq nassr', 'wfasi najro', 'wafgx nswer', 'awvwq nogwe'}, {'wofcq njsyr', 'wbaik nwejr', 'awyaw aycey', 'whfiq nnser'}, {'wafqq nassr', 'wfaoq nokar', 'wiifw anqir', 'wofix nakhr'}, {'wafic nasyr', 'wfhaq nhwsr', 'awbiy wajre', 'whfiz nnscr'}, {'wipis nakro', 'yofqi musre', 'waffq nwser', 'wafez nkoer'}, {'wafwq nyser', 'awfqo ysaar', 'wwfsq ncsor', 'wfoik naqru'}, {'awfuj yacre', 'wafgy njoer', 'waffq nsser', 'wefci nwgar'}, {'wabaq nawgr', 'wavoz niecr', 'awvik anjyr', 'whfiq nyser'}, {'wavax nocor', 'wafyj nhqer', 'afqai ankre', 'waviq nacer'}, {'wuifh weesr', 'whfij ngwer', 'wfiig nwgir', 'wafwq nnser'}, {'wafqq nyser', 'awbuq ancwy', 'wifoz nocor', 'wphiq njsjr'}, {'awfos inhhr', 'wafzx nsszr', 'wafic nyser', 'wyfaz nikwr'}, {'wyfcq nksar', 'awwih hosre', 'wahfs naxri', 'wafyq nacer'}, {'wubix nhgur', 'awvyq ansuh', 'wyviq nazkr', 'wafwq nsser'}, {'wafvc nqscr', 'awifx waesh', 'wfouq noxyr', 'wafyq nassr'}, {'awyig anzyr', 'wypoq noxyr', 'wafic nyser', 'wabaq nwjer'}, {'wyafq nkskr', 'wafic nwser', 'yipiz ancir', 'wfuik nwusr'}, {'wubij nhjir', 'wafic naswr', 'awfci anshy', 'wavhq naxkr'}, {'wafji niskr', 'waffq nasrr', 'yypiz yacre', 'wabhj nxahr'}, {'wwvik njayr', 'awfqe angiw', 'wyviq nisjr', 'wafqq nnser'}, {'wafyq nyser', 'wafkc nsskr', 'awfqw anxur', 'wfhuq neakr'}, {'awfos ysaar', 'wafcc nakcr', 'wfuix nyxur', 'waffq nnser'}, {'wpeiq nesgr', 'wafqq nsser', 'awyih anwew', 'waibz nwegr'}, {'aiyfq anxre', 'wffis nuskr', 'wevij noqar', 'wafyq nsser'}, {'awfwg hysre', 'wyfcq nagwr', 'waffq nwser', 'wyfwz nhkor'}, {'wafxu nsker', 'whyqi ansrw', 'whfiq nyser', 'wufuj niexr'}, {'wafyq nnser', 'ywfaw nyesy', 'waopq nqyer', 'wifws nhqur'}, {'wpfwq nyshr', 'wafwq nasrr', 'wyfug nxaor', 'afqai yykar'}, {'wffik nishr', 'waibz nkaor', 'ywfaw majre', 'whfiq nyser'}, {'awyic noesw', 'wafik nwser', 'whfuz nhsre', 'wofix nhker'}, {'wwfpq nishr', 'wafik nsser', 'yepiz woswe', 'webij nogwr'}, {'wohqi anhar', 'wapwg nyecr', 'wabaq nssqr', 'wafqq nwser'}, {'wafxo ncjer', 'yfaoq anzor', 'waviq nasrr', 'wabwj noqyr'}, {'awbic ancye', 'wafos naqqr', 'wuboq nwcor', 'wafwq naswr'}, {'wafqs ncger', 'whfiq nassr', 'hfaij nsawh', 'wyfyg nwegr'}, {'wafic nasyr', 'wofis nyshr', 'yfaij anghr', 'wovhq nexhr'}, {'awpik anesy', 'wvaij nkair', 'wafwq nsser', 'wofxq ncsxr'}, {'waviq nsser', 'wahfs nyjur', 'wafbs ncjer', 'yfaiy mahre'}, {'whfiq nsser', 'yahqi anceh', 'wfwuq nyusr', 'wafxu nwsqr'}, {'wafwz najqr', 'awwik nsahy', 'wapwj nugor', 'wafwq nasyr'}, {'awvih muzir', 'wabyj nhcur', 'wafqq nwser', 'wafkc nqsir'}, {'wafik nyser', 'wwvij nuecr', 'awfki haqre', 'wifhq naxzr'}, {'wafik nyser', 'wfeiq ncszr', 'afqhi hsair', 'wfwwq nwcwr'}, {'wobyq nycwr', 'wufhq nzskr', 'wafic naswr', 'hufqi myesr'}, {'wafpj ngxer', 'awwis nhguy', 'waafx nqare', 'wafic nassr'}, {'wafqq nasyr', 'whfyz ngair', 'wufij nhker', 'awfah ywesr'}, {'hhifq nwyre', 'wufhq naxor', 'wafyq nasyr', 'waefs njaar'}, {'awfaj wsare', 'wepeq nwxyr', 'wpfhq nysgr', 'wafqq nwser'}, {'wofuj nhcur', 'whfiq nwser', 'wapik nqyer', 'yefqi angow'}, {'wfoix nhxyr', 'wavgq nksor', 'wafik naswr', 'awbyq yazre'}, {'wapsq nxsir', 'wapqi nshir', 'wafik nassr', 'awfey waesh'}, {'wafik nyser', 'wyviz nuqwr', 'awbij woesr', 'wafpj nwszr'}, {'waffq nacer', 'awbix hwsre', 'wafzy ngcer', 'wabji nhwsr'}, {'wbviq naiqr', 'awfyw mayre', 'whfiq nnser', 'wepic neekr'}, {'awwyq msawr', 'wfiqh naxxr', 'wufhs nyxur', 'wafwq naswr'}, {'wefgq nagsr', 'waffq nyser', 'wubuq nhsre', 'awbaw aycey'}, {'wapwq ncher', 'awpiz unsre', 'wupig nyxur', 'waffq nsser'}, {'wifws nyjir', 'wafik nassr', 'awfww mjaew', 'wffoq nauqr'}, {'wavsi nwesr', 'awbic yaesh', 'wbbiq nwskr', 'waviq nnser'}, {'wavhx nswhr', 'waffq nyser', 'hufqi anqir', 'wafes nqier'}, {'yeifq nsaow', 'wfyij naqrw', 'waffq nnser', 'wahbq nxwer'}, {'ayfaw wwesr', 'wybig ncaar', 'wafxx naaqr', 'wafic nsser'}, {'wavoz nwkar', 'wafuj nqshr', 'hufqi nsauy', 'wafqq nasrr'}, {'wafvz nkssr', 'wafic naswr', 'awpeq anjwr', 'wfhaq noexr'}, {'wafic nasyr', 'woyqi inhey', 'wafkx nqzer', 'wepaq nuxor'}, {'wafyq naswr', 'wafzx nnsqr', 'awvij nsayy', 'whfyz nuxar'}, {'wafyq nnser', 'wyfeq nkxer', 'hfaux ancew', 'wiboq nyjhr'}, {'wipis noxar', 'awbik ysaeh', 'wafsk nqsur', 'wafic nyser'}, {'wofax negur', 'wfiiq naghr', 'wafwq nassr', 'afqhi anyar'}, {'waffq nassr', 'wafqk nagwr', 'awfzi inheh', 'wifws nhqor'}, {'wafik nyser', 'wvahq nujur', 'wafsu noszr', 'hyhoq nyhre'}, {'wafxk nagir', 'awifw majre', 'waffq nasrr', 'wapqi nhsre'}, {'whfiq nassr', 'awywq yusre', 'wfiis nyeqr', 'waubq nakwr'}, {'wffig nqqer', 'whify anceh', 'wobik njair', 'whfiq nyser'}, {'wafwq nasrr', 'wipik nhxir', 'wbeiq nsker', 'hahox ankhr'}, {'wafic nasyr', 'awwyq muzur', 'wwpiq nhxer', 'wifyz nwosr'}, {'wafwq nyser', 'wapyz nhzwr', 'awbuq wsayr', 'wyfsq naxur'}, {'wfaik nexwr', 'yuifq angir', 'waffq nsser', 'wavjq naaxr'}, {'wapzi ncaor', 'wafyq nasrr', 'wfaoy mshew', 'wafwz najwr'}, {'wophw ankre', 'waufx nhsra', 'waviq nsser', 'wbuiq najzr'}, {'yaphz wiesr', 'wapwc niqyr', 'wyfeq naxar', 'wafyq nsser'}, {'wufaj nuqur', 'whfiq nwser', 'wupiq nahcr', 'aphwq anecy'}, {'wafik nasyr', 'wufhc njawr', 'wifxq nzcer', 'aphqi wsair'}, {'owphq nsahh', 'waffq nnser', 'wwfwj negur', 'wafgi nnskr'}, {'wfiqh nkuer', 'wavwj nhqur', 'whfiq naswr', 'awfji ysahr'}, {'wafic nasrr', 'wofhx nugir', 'wafzy nscer', 'yapwz ansiw'}]
+wafiq naser         : DEBUG: Additional rule variations: {'awfiq naser'}
+wafiq naser         : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "wafiq naser": {
+            "first_name": {
+                "score": 0.8574999999999999,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.5499999999999999,
+                        "orthographic": 0.975,
+                        "combined": 0.7625
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.08,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "wwvyq",
+                            "phonetic_score": 0.4599828825690166,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "awwis",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "waviq",
+                            "phonetic_score": 0.9555690896741944,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wabvq",
+                            "phonetic_score": 0.4599828825690166,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.9058676118587499,
+            "final_score": 0.9246940894869999,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 4,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.955,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.8749999999999999,
+                        "orthographic": 0.975,
+                        "combined": 0.9249999999999999
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.08,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "nhjyr",
+                            "phonetic_score": 0.37597138883003745,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "nyhre",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "nasyr",
+                            "phonetic_score": 0.6390483539222749,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "nhasr",
+                            "phonetic_score": 0.37597138883003745,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "awfiq naser"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "awfiq naser": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "wafiq naser": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "awfiq naser"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "awfiq naser": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.9246940894869999,
+    "final_reward": 0.9246940894869999
+}
+wafiq naser         : DEBUG: ----------------------------------------------------------------------------------------------------

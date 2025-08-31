@@ -1,0 +1,2458 @@
+lin wei             : INFO: Generating variations for lin wei
+lin wei             : INFO: ----------------------------------------------------------------------------------------------------
+lin wei             : INFO: Effective rules: ['swap_random_letter']
+lin wei             : INFO: ----------------------------------------------------------------------------------------------------
+lin wei             : INFO: Min Required Rule Variation Set: [{'li nwei', 'lin ewi', 'lni wei', 'linw ei', 'iln wei', 'lin wie'}]
+lin wei             : INFO: ----------------------------------------------------------------------------------------------------
+lin wei             : INFO: First name: lin
+lin wei             : INFO: Last name: wei
+lin wei             : INFO: ----------------------------------------------------------------------------------------------------
+lin wei             : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8), (3, 7)]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 1 / 22: rule_count/nonrule_count: 0/1------------------------------
+lin wei             : DEBUG: O: [0, 0, 0, 1]
+lin wei             : DEBUG: P: [0, 0, 0, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [20]
+lin wei             : DEBUG: [240]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [0, 0, 0, 1]
+lin wei             : DEBUG: P: [0, 0, 0, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [17]
+lin wei             : DEBUG: [109]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.26889543]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 2 / 22: rule_count/nonrule_count: 0/2------------------------------
+lin wei             : DEBUG: O: [0, 0, 0, 2]
+lin wei             : DEBUG: P: [0, 0, 1, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [20]
+lin wei             : DEBUG: [240]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [0, 0, 0, 2]
+lin wei             : DEBUG: P: [0, 0, 1, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [17]
+lin wei             : DEBUG: [109]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.28803089]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 3 / 22: rule_count/nonrule_count: 0/3------------------------------
+lin wei             : DEBUG: O: [0, 1, 0, 2]
+lin wei             : DEBUG: P: [0, 0, 1, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [20]
+lin wei             : DEBUG: [240]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [0, 1, 0, 2]
+lin wei             : DEBUG: P: [0, 0, 1, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [17]
+lin wei             : DEBUG: [109]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.35171973]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 4 / 22: rule_count/nonrule_count: 0/4------------------------------
+lin wei             : DEBUG: O: [1, 1, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 2, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [1, 1, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 2, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.539]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 5 / 22: rule_count/nonrule_count: 1/3------------------------------
+lin wei             : DEBUG: O: [0, 1, 0, 2]
+lin wei             : DEBUG: P: [0, 0, 1, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [20]
+lin wei             : DEBUG: [240]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [0, 1, 0, 2]
+lin wei             : DEBUG: P: [0, 0, 1, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [17]
+lin wei             : DEBUG: [109]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.55171973]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 6 / 22: rule_count/nonrule_count: 0/5------------------------------
+lin wei             : DEBUG: O: [1, 2, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 3, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [1, 2, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 3, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.54017983]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 7 / 22: rule_count/nonrule_count: 1/4------------------------------
+lin wei             : DEBUG: O: [1, 1, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 2, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [1, 1, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 2, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.739]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 8 / 22: rule_count/nonrule_count: 0/6------------------------------
+lin wei             : DEBUG: O: [1, 2, 1, 2]
+lin wei             : DEBUG: P: [0, 1, 3, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [20]
+lin wei             : DEBUG: [240]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [1, 2, 1, 2]
+lin wei             : DEBUG: P: [0, 1, 3, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [17]
+lin wei             : DEBUG: [109]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.51355167]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 9 / 22: rule_count/nonrule_count: 1/5------------------------------
+lin wei             : DEBUG: O: [1, 2, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 3, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [1, 2, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 3, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.74017983]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 10 / 22: rule_count/nonrule_count: 0/7------------------------------
+lin wei             : DEBUG: O: [2, 2, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [2, 4, 0]
+lin wei             : DEBUG: [68, 20, 0]
+lin wei             : DEBUG: [176, 22, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [2, 2, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [4, 2, 0]
+lin wei             : DEBUG: [49, 20, 0]
+lin wei             : DEBUG: [117, 46, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.49107945]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 11 / 22: rule_count/nonrule_count: 1/6------------------------------
+lin wei             : DEBUG: O: [1, 2, 1, 2]
+lin wei             : DEBUG: P: [0, 1, 3, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [20]
+lin wei             : DEBUG: [240]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [1, 2, 1, 2]
+lin wei             : DEBUG: P: [0, 1, 3, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [17]
+lin wei             : DEBUG: [109]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.61355167]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 12 / 22: rule_count/nonrule_count: 2/5------------------------------
+lin wei             : DEBUG: O: [1, 2, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 3, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [1, 2, 1, 1]
+lin wei             : DEBUG: P: [0, 1, 3, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.74017983]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 13 / 22: rule_count/nonrule_count: 0/8------------------------------
+lin wei             : DEBUG: O: [2, 3, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [2, 3, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.47807597]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 14 / 22: rule_count/nonrule_count: 1/7------------------------------
+lin wei             : DEBUG: O: [2, 2, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [2, 4, 0]
+lin wei             : DEBUG: [68, 20, 0]
+lin wei             : DEBUG: [176, 22, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [2, 2, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [4, 2, 0]
+lin wei             : DEBUG: [49, 20, 0]
+lin wei             : DEBUG: [117, 46, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.59107945]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 15 / 22: rule_count/nonrule_count: 2/6------------------------------
+lin wei             : DEBUG: O: [1, 2, 1, 2]
+lin wei             : DEBUG: P: [0, 1, 3, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [20]
+lin wei             : DEBUG: [240]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [1, 2, 1, 2]
+lin wei             : DEBUG: P: [0, 1, 3, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 1, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [17]
+lin wei             : DEBUG: [109]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.61355167]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 16 / 22: rule_count/nonrule_count: 0/9------------------------------
+lin wei             : DEBUG: O: [2, 3, 2, 2]
+lin wei             : DEBUG: P: [0, 2, 5, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 2]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [2, 3, 2, 2]
+lin wei             : DEBUG: P: [0, 2, 5, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 2]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.46521995]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 17 / 22: rule_count/nonrule_count: 1/8------------------------------
+lin wei             : DEBUG: O: [2, 3, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [2, 3, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.57807597]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 18 / 22: rule_count/nonrule_count: 2/7------------------------------
+lin wei             : DEBUG: O: [2, 2, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [2, 4, 0]
+lin wei             : DEBUG: [68, 20, 0]
+lin wei             : DEBUG: [176, 22, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [2, 2, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [4, 2, 0]
+lin wei             : DEBUG: [49, 20, 0]
+lin wei             : DEBUG: [117, 46, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.59107945]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 19 / 22: rule_count/nonrule_count: 0/10------------------------------
+lin wei             : DEBUG: O: [3, 4, 3, 0]
+lin wei             : DEBUG: P: [1, 3, 6, 0]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 3, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [8]
+lin wei             : DEBUG: [16]
+lin wei             : DEBUG: [8]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: p_level: 2, O: [3, 0, 0, 0]
+lin wei             : DEBUG: [2, 4, 0]
+lin wei             : DEBUG: [68, 20, 0]
+lin wei             : DEBUG: [176, 22, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 3, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [1, 3, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 3, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [3, 4, 3, 0]
+lin wei             : DEBUG: P: [1, 3, 6, 0]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 3, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [10]
+lin wei             : DEBUG: [29]
+lin wei             : DEBUG: [20]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: p_level: 2, O: [3, 0, 0, 0]
+lin wei             : DEBUG: [4, 2, 0]
+lin wei             : DEBUG: [49, 20, 0]
+lin wei             : DEBUG: [117, 46, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [1, 3, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.45634689]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 20 / 22: rule_count/nonrule_count: 1/9------------------------------
+lin wei             : DEBUG: O: [2, 3, 2, 2]
+lin wei             : DEBUG: P: [0, 2, 5, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 2]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [2, 3, 2, 2]
+lin wei             : DEBUG: P: [0, 2, 5, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 2]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.53188662]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 21 / 22: rule_count/nonrule_count: 2/8------------------------------
+lin wei             : DEBUG: O: [2, 3, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [2, 3, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 2]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 1, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [2, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [2]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.57807597]
+lin wei             : INFO: ------------------------------Trying rule_count_pair 22 / 22: rule_count/nonrule_count: 3/7------------------------------
+lin wei             : DEBUG: O: [2, 2, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [8, 2, 0]
+lin wei             : DEBUG: [18, 20, 0]
+lin wei             : DEBUG: [20, 18, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [3, 0, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [2, 4, 0]
+lin wei             : DEBUG: [68, 20, 0]
+lin wei             : DEBUG: [176, 22, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [15]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: lin, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: lin, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: O: [2, 2, 2, 1]
+lin wei             : DEBUG: P: [0, 2, 4, 1]
+lin wei             : WARNING: Remains: 0
+lin wei             : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [6, 0, 0]
+lin wei             : DEBUG: [14, 8, 0]
+lin wei             : DEBUG: [20, 8, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [0, 0, 2, 1]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [12, 6, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [2, 0, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: p_level: 2, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [4, 2, 0]
+lin wei             : DEBUG: [49, 20, 0]
+lin wei             : DEBUG: [117, 46, 0]
+lin wei             : DEBUG: [20, 20, 0]
+lin wei             : DEBUG: [1, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0]
+lin wei             : DEBUG: p_level: 3, O: [1, 0, 0, 0]
+lin wei             : DEBUG: [12]
+lin wei             : DEBUG: [233]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [500]
+lin wei             : DEBUG: [1]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: [0]
+lin wei             : DEBUG: final:
+lin wei             : DEBUG: name: wei, l_level: 0
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 1
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: name: wei, l_level: 2
+lin wei             : DEBUG: --------------------------------------------------
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+lin wei             : DEBUG: scores: [0.59107945]
+lin wei             : DEBUG: ----------------------------------------------------------------------------------------------------
+lin wei             : DEBUG: Best score achieved: 0.7401798323313684
+lin wei             : DEBUG: Best selected: 1/5
+lin wei             : DEBUG: Rule variations: [{'li nwei', 'lin ewi', 'lni wei', 'linw ei', 'iln wei', 'lin wie'}]
+lin wei             : DEBUG: Nonrule variations: [{'lln wee', 'LMM WYu', 'alin iwei', 'lHn wyi', 'lma wye'}, {'lhN wya', 'lmn wyi', 'Hlin owei', 'Lmy WYu', 'lwn weE'}, {'Ilin Awei', 'lhn wYi', 'LMM WYH', 'lmy wyo', 'lwn weE'}, {'Ilin Iwei', 'lym wyo', 'LNH WYH', 'lhn wyi', 'lnn wee'}, {'lmh wyh', 'LHN WYh', 'lYn wey', 'lHn wYi', 'Hlin iwei'}, {'alin awei', 'Lmn wyh', 'lWn weY', 'lmn wYi', 'Lmw WYU'}, {'lHn wyi', 'lyn wey', 'lnin Uwei', 'lhN wyI', 'LMw WYe'}, {'lwn wey', 'lnm wyu', 'lmn wYi', 'Lmi WYH', 'ilin awei'}, {'alin Uwei', 'Lhn wya', 'lLn wee', 'LNH WHh', 'lHn wYi'}, {'ulin owei', 'lNn wey', 'lmn wyi', 'lym Wyi', 'Lmy Wyw'}, {'liln Hwei', 'lmn wYi', 'Lnh WYI', 'lln wew', 'lmi wyo'}, {'LMy Wwy', 'lmn wYi', 'lhN wye', 'lyn wew', 'ilin awei'}, {'lmin ewei', 'lhn wyi', 'lWn wew', 'lnh wyy', 'LMM WYE'}, {'Olin Awei', 'Lmy WYW', 'lhn wyi', 'lnn weY', 'lme wyy'}, {'elin awei', 'lwm WYi', 'lHn wyi', 'lwn wee', 'Lnh WYW'}, {'lhn wyi', 'Lnh WYH', 'lwn wee', 'lnm wwy', 'ilin Iwei'}, {'lwn wey', 'lmn wyi', 'elin iwei', 'LHm Wyh', 'lmw whh'}, {'lym wyo', 'lWn weY', 'lmn wYi', 'Ulin awei', 'Lnh WYH'}, {'LMy Wyh', 'lmn wyi', 'lme wyu', 'Hlin ewei', 'lln wey'}, {'lhn wYi', 'lnin uwei', 'lmu Wyi', 'LHM WYe', 'lwn wee'}, {'lmn wyi', 'LMM WHh', 'lln weE', 'lme whh', 'lnin Ewei'}, {'lma whh', 'LMw WHh', 'lhn wyi', 'lmin Awei', 'lWn wey'}, {'LMN WYh', 'lmn wYi', 'Lhn wyI', 'liln iwei', 'lnn weE'}, {'lhn wYi', 'lmin Iwei', 'LMN Wyo', 'lNn weW', 'lmi wyo'}, {'alin Awei', 'lhN Wyi', 'lhn wyi', 'LHM WYu', 'lnn weE'}, {'lmn wyi', 'lWn weY', 'LMM Wyo', 'lhm wyw', 'Ilin Owei'}, {'lhn wYi', 'Ilin iwei', 'lwn weW', 'LHM WYW', 'lmw wyh'}, {'Lmn Wyi', 'lHn wyi', 'LMW WHH', 'lwn wee', 'olin Uwei'}, {'lhn wyi', 'lnm wye', 'elin Ewei', 'LMY WWy', 'lLn weY'}, {'ilin Awei', 'lWn wee', 'lhn wyi', 'Lmw WYu', 'lme wyo'}, {'LMY WYW', 'lmn wyi', 'llm wwy', 'lWn wew', 'Ilin uwei'}, {'lhn wYi', 'lmy WYi', 'LNH WYI', 'lnn weW', 'ulin Uwei'}, {'lwn wey', 'lmn wyi', 'lmm wwy', 'Lmm WYW', 'elin Hwei'}, {'LMN WYI', 'lhn wyi', 'lma wyw', 'olin Uwei', 'lnn wew'}, {'lmn wyi', 'Lmi WYe', 'lnn weW', 'Alin Hwei', 'lhm wyu'}, {'llm wyI', 'lmn wYi', 'lYn wee', 'Lnh WHH', 'elin Owei'}, {'ulin awei', 'LNH Wyh', 'LMn wwy', 'lmn wYi', 'lLn weY'}, {'lme wyI', 'lWn weW', 'lHn wyi', 'Ilin awei', 'Lmi WHH'}, {'lYn weW', 'alin Awei', 'lme wyI', 'lhn wyi', 'LHM WYH'}, {'olin awei', 'lhm wyI', 'LHN WYw', 'lln wey', 'lHn wYi'}, {'lln wee', 'lhn wyi', 'Ilin awei', 'Lmy Wyu', 'Lhn Wyi'}, {'LMw WYI', 'lwn wey', 'lmn wyi', 'Hlin Hwei', 'lmm wyo'}, {'ulin ewei', 'lHn wyi', 'LHM Wyo', 'lln wey', 'lhm wwy'}, {'alin hwei', 'lmy wyu', 'LMI WWY', 'lHn wYi', 'lLn weW'}, {'Hlin uwei', 'lmu wyy', 'lnn weW', 'lHn wYi', 'LMM WYw'}, {'LMY WYH', 'lhn wYi', 'ulin Awei', 'lYn wew', 'LHn wye'}, {'olin Owei', 'lmn wYi', 'lNn weY', 'LHn wwy', 'LMy WYH'}, {'lWn weE', 'lhn wYi', 'LNH WYH', 'lnin Owei', 'Lhn wwy'}, {'lhn wYi', 'lWn wee', 'alin ewei', 'LMm Wyw', 'lmu wyh'}, {'lhn wYi', 'Ulin awei', 'lnh wyI', 'lNn wew', 'LMw WYU'}, {'lhn wYi', 'Lnh WHH', 'Elin Awei', 'lln wew', 'LHn wyy'}, {'lhn wyi', 'LMW WYI', 'Hlin awei', 'Lmn wyo', 'lNn weW'}, {'lhn wYi', 'LMn wyo', 'lLn wee', 'LHM WYH', 'lmin hwei'}, {'lhn wyi', 'lmm wyh', 'Lmi WYw', 'Hlin awei', 'lwn wee'}, {'LMy Whh', 'lHn wyi', 'Alin ewei', 'lmw wye', 'lYn weY'}, {'lWn weE', 'lmn wYi', 'lwm whh', 'Lnh Wyh', 'Olin Hwei'}, {'Alin owei', 'lHn wyi', 'lnn weE', 'Lmn wyu', 'LHm WYh'}, {'lmw wyu', 'lHn wYi', 'lyn wee', 'ulin Uwei', 'LHm WWY'}, {'lmn wyi', 'lmh wyu', 'lNn weY', 'LMM Wyo', 'elin ewei'}, {'LNH Wyh', 'lnin hwei', 'lwm wwy', 'lNn wee', 'lHn wYi'}, {'lhn wYi', 'alin Uwei', 'LMW Wyo', 'lmu wya', 'lyn wee'}, {'lmo wyh', 'lHn wyi', 'LNH WYI', 'ulin Ewei', 'lYn weY'}, {'hlin Iwei', 'lhn wyi', 'lnn wee', 'Lmy WWY', 'lym wye'}, {'lYn weW', 'Lmw WYu', 'lHn wYi', 'elin ewei', 'LMn wyh'}, {'lmn wyi', 'lwm wyo', 'Lnh WYw', 'lln weE', 'Alin hwei'}, {'olin Ewei', 'lhn wyi', 'LMN Wwy', 'lmo WYi', 'lNn weW'}, {'lmn wYi', 'Hlin ewei', 'lnm wwy', 'LHM Whh', 'lLn wey'}, {'lmn wyi', 'alin hwei', 'LMY WYu', 'lNn weY', 'lmm wyw'}, {'Lmw WYW', 'lWn weW', 'lmn wYi', 'lnin Hwei', 'lhm wyh'}, {'LMN WYE', 'lnin Iwei', 'lWn weY', 'lHn wyi', 'lhN wye'}, {'lHn wyi', 'Ilin ewei', 'Lmy Wyh', 'lme wyo', 'lnn wew'}, {'lmn wYi', 'LNH WHH', 'ilin Uwei', 'lmi wye', 'lln wew'}, {'lmm wya', 'LMm Wyw', 'lHn wyi', 'lWn wew', 'Ilin Owei'}, {'lln wee', 'lmn wyi', 'Lhn wyh', 'LHN WYw', 'liln Awei'}, {'lhn wYi', 'Lhn wyw', 'Lmi WYh', 'lNn wee', 'ulin Iwei'}, {'lmn wyi', 'lmh wya', 'Hlin Uwei', 'lWn wey', 'Lmy WYH'}, {'LMi WHh', 'lhn wYi', 'Lhn wyh', 'lmin Hwei', 'lln wew'}, {'LMN WYu', 'LHn wyy', 'lHn wYi', 'lNn weW', 'ilin hwei'}, {'Hlin hwei', 'lyn wey', 'LMi WYh', 'lHn wYi', 'lmh wyI'}, {'Lmm WYw', 'Lmn WYi', 'Alin hwei', 'lHn wYi', 'lln wew'}, {'lmn wyi', 'lLn weW', 'Olin Hwei', 'lma wyy', 'LHm WYh'}, {'LHN Wye', 'liln owei', 'lHn wYi', 'lmu wyI', 'lyn wee'}, {'lyn weY', 'lHn wyi', 'LNH WYU', 'liln awei', 'Lhn wyo'}, {'Elin Owei', 'LHn wya', 'lHn wYi', 'lYn wee', 'Lmm Wyw'}, {'LMN WHh', 'lNn weE', 'lhn wyi', 'elin ewei', 'lmm wyI'}, {'lmi wyy', 'LMY Wyh', 'hlin Hwei', 'lnn weW', 'lHn wYi'}, {'Ulin iwei', 'LMN Wwy', 'lnm wyy', 'lHn wyi', 'lYn wey'}, {'lNn wey', 'lmu wyy', 'alin owei', 'lhn wyi', 'LMy WYH'}, {'lmm wyy', 'lHn wyi', 'lyn wew', 'Lnh Wyh', 'olin Hwei'}, {'lmn wyi', 'LHm WYw', 'elin Hwei', 'lLn weE', 'lmm wyI'}, {'lhn wYi', 'LHM WWy', 'lYn wey', 'ilin awei', 'Lhn wyo'}, {'lln wee', 'lmn wyi', 'lmi whh', 'ulin iwei', 'LHN Wyh'}, {'lhn wYi', 'LMI WWY', 'Ulin ewei', 'lwn wew', 'lnh wyy'}, {'lmn wyi', 'lWn wew', 'LHN Wyu', 'lma wye', 'Alin owei'}, {'Elin Uwei', 'lNn weE', 'lmn wYi', 'lmw Wyi', 'LMm WWy'}, {'Lmm WHh', 'lmw wyu', 'alin hwei', 'lhn wyi', 'lnn wey'}, {'hlin Ewei', 'lhn wyi', 'LMW WYe', 'lnh wyh', 'lln wew'}, {'lmn wYi', 'lyn wey', 'Lmy Wyu', 'ilin Awei', 'llm wyy'}, {'lwn wey', 'lwm wyo', 'lmin ewei', 'Lmi WYw', 'lHn wYi'}, {'lmn wyi', 'Lmm WYu', 'lmi wyw', 'ulin hwei', 'lYn wey'}, {'lWn weW', 'lmn wyi', 'lmo wwy', 'LMw Wye', 'Elin owei'}, {'lhn wYi', 'Ilin Uwei', 'lma wyw', 'lln wew', 'LMM WYU'}, {'lhn wYi', 'lma wwy', 'lyn weE', 'Olin awei', 'Lhm WYh'}, {'LMw WYI', 'lmm wyh', 'lHn wYi', 'ilin iwei', 'lLn weW'}, {'lmn wyi', 'Elin Uwei', 'lma wyo', 'lLn weY', 'LMw Wyu'}, {'Lmn wyh', 'lhn wyi', 'hlin iwei', 'LMw WWy', 'lln wey'}, {'lyn weE', 'Elin Ewei', 'lmm wyu', 'lhn wyi', 'LNh WWy'}, {'lmh wyh', 'lHn wyi', 'LMM Wyu', 'lnn weW', 'ulin Hwei'}, {'lhn wYi', 'LMY WYw', 'Ulin awei', 'lmo WYi', 'lLn wey'}, {'lWn weE', 'lnh wye', 'alin Uwei', 'lmn wYi', 'LMi WYE'}, {'elin awei', 'lhn wYi', 'lwn weW', 'LMi WHH', 'lnm wwy'}, {'lmn wYi', 'lwm WYi', 'LMy WYu', 'lwn weE', 'Alin owei'}, {'Hlin Hwei', 'lmn wyi', 'lym WYi', 'LHm WYH', 'lWn wey'}, {'lhn wYi', 'Olin Awei', 'LMm WWY', 'lyn wew', 'lmu wyw'}, {'lmh whh', 'lmn wYi', 'liln owei', 'Lmi Wyo', 'lnn weW'}, {'lmo wyw', 'lmn wyi', 'lwn weY', 'Lmw WYU', 'Ulin Uwei'}, {'LMi WWy', 'lmu wyy', 'olin owei', 'lHn wyi', 'lNn wee'}, {'lhn wyi', 'Lmm WYW', 'lyn wey', 'Ulin Hwei', 'lym wyI'}, {'lhm Wyi', 'Lhm WYh', 'alin Iwei', 'lHn wYi', 'lLn wew'}, {'LMN WHh', 'lWn weY', 'lhn wyi', 'Olin hwei', 'lnh Wyi'}, {'Lmw WYe', 'lmn wYi', 'lnh wyw', 'Hlin iwei', 'lyn wee'}, {'lmn wyi', 'LMw Wwy', 'liln Ewei', 'Lhn wye', 'lLn wey'}, {'lhn wYi', 'Lmi Wye', 'lmw wyo', 'alin owei', 'lYn weY'}, {'LMy Whh', 'lLn wee', 'lme WYi', 'lHn wYi', 'lnin awei'}, {'LMi WHh', 'lmh wyu', 'Olin Awei', 'lHn wyi', 'lNn wew'}, {'lmh wwy', 'lmn wYi', 'lnin owei', 'Lnh WWY', 'lln weY'}, {'lYn weW', 'lhn wYi', 'lmy wyo', 'LMi WYU', 'ilin Iwei'}, {'lmn wYi', 'lnn weW', 'Lnh Wyw', 'ulin Uwei', 'lma wyu'}, {'lhn wYi', 'lWn weW', 'lmh whh', 'lmin awei', 'Lmw WWy'}, {'LMy Wyh', 'ilin Hwei', 'lHn wYi', 'lym wye', 'lln wew'}, {'Olin awei', 'lhn wyi', 'lhm wyy', 'lYn wee', 'LMY Wwy'}, {'LHN WYW', 'lyn weE', 'lHn wyi', 'lwm wyw', 'ilin Awei'}, {'lwn wey', 'LMI WYh', 'lhn wyi', 'lnm wyh', 'Elin ewei'}, {'alin owei', 'lhn wyi', 'Lmy WYe', 'lme wya', 'lln weY'}, {'lnh wyo', 'lyn weY', 'lHn wYi', 'Alin Hwei', 'Lhm WYE'}, {'LNh WYe', 'lmu whh', 'ilin Uwei', 'lHn wyi', 'lnn weY'}, {'lhn wyi', 'lyn wew', 'Ulin Ewei', 'lmi WYi', 'Lnh Wyu'}, {'lmn wyi', 'lmh wya', 'lYn wew', 'hlin hwei', 'LMm WYW'}, {'lWn wee', 'lmn wYi', 'LHn WYi', 'Alin awei', 'LMi Wye'}, {'lhn wYi', 'LMi Wyo', 'lmy wyu', 'hlin owei', 'lwn wee'}, {'Lmy Whh', 'Hlin Iwei', 'lHn wyi', 'lWn wew', 'llm wyw'}, {'lYn weW', 'lhn wYi', 'elin Awei', 'LMy Wyu', 'lym whh'}, {'lnh wyo', 'lyn weY', 'lmn wYi', 'olin hwei', 'LHM Wyo'}, {'Hlin Iwei', 'lYn wew', 'lHn wYi', 'Lhm WHh', 'lme wyw'}, {'lmn wyi', 'LNh WYE', 'elin ewei', 'lLn weY', 'lnh wyI'}, {'alin Hwei', 'lhn wyi', 'llm wwy', 'lLn weY', 'LHN Wyh'}, {'lmm wyy', 'Lmw WYw', 'lwn weY', 'lmn wYi', 'Alin uwei'}, {'lmm wyy', 'ilin Hwei', 'lmn wYi', 'LMN WWy', 'lnn weY'}, {'lhn wyi', 'LMM WYe', 'elin Ewei', 'lmi wye', 'lwn weE'}, {'lwn weW', 'ulin awei', 'lhn wyi', 'LMw WYw', 'lnm wyo'}, {'lmn wyi', 'lNn weE', 'lym wwy', 'LMy WYW', 'ilin hwei'}, {'lmn wYi', 'lnin Ewei', 'lLn weE', 'lym wyI', 'LMw WYu'}, {'lNn wey', 'Lmi WYE', 'Ulin owei', 'lHn wyi', 'lma wyy'}, {'Alin Iwei', 'Lmw WHh', 'LHn wya', 'lnn weW', 'lHn wYi'}, {'lnin owei', 'lHn wyi', 'lNn wee', 'lhN wyy', 'LMw WYU'}, {'LHN WYe', 'lHn wyi', 'ilin Owei', 'lLn weE', 'lmy wwy'}, {'lln wee', 'lhn wYi', 'LMY WYI', 'lmin Iwei', 'lhm wyw'}, {'LMW WHh', 'Elin Iwei', 'lmn wYi', 'lmm wyo', 'lnn weW'}, {'lmn wyi', 'Elin hwei', 'LMm WYu', 'lLn wee', 'Lmn wyu'}, {'Lmw WYI', 'Lhn wyw', 'liln iwei', 'lHn wYi', 'lyn wee'}, {'lmn wyi', 'lYn wey', 'ulin Ewei', 'LMN Wyo', 'lnh whh'}, {'lln weE', 'lmn wYi', 'Lmm WWy', 'lmi wyI', 'ilin iwei'}, {'liln Hwei', 'Lmw Wyh', 'Lmn whh', 'lHn wYi', 'lYn weY'}, {'lNn wey', 'hlin Ewei', 'LMi WWY', 'lHn wYi', 'lhN WYi'}, {'lhn wYi', 'lyn weE', 'LHn whh', 'Olin Owei', 'LMN WYW'}, {'lhn wYi', 'lmh wyh', 'Lnh Wyh', 'lLn weY', 'elin Owei'}, {'lhn wYi', 'lnin iwei', 'lyn wey', 'LHn wya', 'LMW Wyw'}, {'lmn wyi', 'LHn WYi', 'lyn wew', 'ilin iwei', 'LMY Wwy'}, {'lhn wYi', 'ilin Ewei', 'LMm WYu', 'lln wey', 'lme wya'}, {'lhn wyi', 'lnin Ewei', 'lYn weY', 'lmi wyo', 'LNH Wyu'}, {'LNh WYw', 'liln hwei', 'lhn wyi', 'lmo WYi', 'lwn weE'}, {'Ilin Iwei', 'Lnh WYw', 'lmm wyh', 'lHn wYi', 'lYn wee'}, {'lhN wya', 'lmin owei', 'lHn wYi', 'LHM Whh', 'lyn weW'}, {'lmi wyo', 'lhn wyi', 'lYn wee', 'Alin Owei', 'Lmw Wyu'}, {'Alin Ewei', 'LMy Wye', 'lWn wee', 'lmn wYi', 'Lmn wyy'}, {'Ulin uwei', 'lnn wey', 'lHn wyi', 'Lmw WYu', 'LMn wye'}, {'lmu WYi', 'lhn wYi', 'elin Ewei', 'Lhm WYU', 'lln wew'}, {'lmin owei', 'LHN WYh', 'lHn wyi', 'lnn weW', 'lme Wyi'}, {'LMM WYH', 'lmn wYi', 'ulin Iwei', 'lhm wyw', 'lwn wee'}, {'lhn wYi', 'LMy WYU', 'lnin Uwei', 'lYn wew', 'lnm wwy'}, {'LMM Whh', 'lNn wey', 'lmn wYi', 'Lhn wye', 'Alin hwei'}, {'Ilin Iwei', 'lmn wYi', 'lln weW', 'LMW WYe', 'llm wye'}, {'lmn wyi', 'LHm WYW', 'lhN Wyi', 'lnn wee', 'Ilin Owei'}, {'lwm wyu', 'lWn weW', 'LMN WYh', 'alin Ewei', 'lHn wYi'}, {'lmo wyw', 'ilin Hwei', 'LMw WHh', 'lWn wew', 'lHn wYi'}, {'lmn wyi', 'liln uwei', 'LMw Wyh', 'lnn wew', 'lwm wyy'}, {'LMY WHH', 'lHn wyi', 'lWn wey', 'lmy wyy', 'lmin Uwei'}, {'lhn wYi', 'elin Awei', 'lmo whh', 'lyn wee', 'LMw Wyu'}, {'lmw Wyi', 'lHn wyi', 'Lnh Wyw', 'lNn weW', 'lmin hwei'}, {'lmn wYi', 'lnm wye', 'elin Ewei', 'LMw Wyw', 'lLn wew'}, {'elin Uwei', 'lHn wyi', 'lmu wyw', 'LHM Whh', 'lyn weW'}, {'LMN WYH', 'hlin hwei', 'lHn wYi', 'lhm wyw', 'lYn weY'}, {'lhn wYi', 'hlin Iwei', 'lln weE', 'LHM WYu', 'lmu wyo'}, {'LHM WYW', 'alin uwei', 'lhn wyi', 'lhm whh', 'lwn weE'}, {'lwn weY', 'Lhn wyw', 'lHn wyi', 'elin hwei', 'LHm WYH'}, {'lwn wey', 'lmn wyi', 'LNh WHH', 'lma wye', 'lmin Owei'}, {'lNn wey', 'liln Owei', 'lHn wyi', 'lmu wyI', 'Lnh WYU'}, {'lln wee', 'lmn wyi', 'lnm wwy', 'ilin Awei', 'Lnh Wye'}, {'lma wya', 'lmn wyi', 'Elin Hwei', 'lyn wey', 'LNH WYW'}, {'lmi wyw', 'LMm Wyw', 'lHn wyi', 'Hlin Uwei', 'lwn weE'}, {'Ilin Uwei', 'lhm whh', 'lHn wYi', 'lwn wee', 'Lnh WYW'}, {'lmm wye', 'LMm WYu', 'lHn wyi', 'lmin awei', 'lyn wee'}, {'lhn wYi', 'lmw Wyi', 'Lmi WYh', 'lwn wee', 'Ilin owei'}, {'Ilin Uwei', 'lhn wyi', 'lmy wyh', 'lYn wew', 'LHM WYw'}, {'lmn wyi', 'elin uwei', 'lLn wey', 'lme wyo', 'Lnh WHH'}, {'alin uwei', 'lhm wya', 'lHn wyi', 'LMW Wyo', 'lwn wew'}, {'lhn wYi', 'lmw wyo', 'LMI Whh', 'lyn weW', 'ilin uwei'}, {'lhn wyi', 'lnh wyu', 'Lmw WYu', 'ilin awei', 'lln wew'}, {'hlin Uwei', 'lmn wyi', 'lma wyo', 'Lmi Wwy', 'lWn wey'}, {'lhn wYi', 'llm wyo', 'lNn weE', 'ulin Iwei', 'LMY Whh'}, {'Alin Uwei', 'lym wyu', 'lhn wyi', 'LNh WWY', 'lwn weE'}, {'lmi whh', 'lhn wyi', 'Olin iwei', 'LMw WYH', 'lYn weY'}, {'LHn wyI', 'LMM WWy', 'Hlin Owei', 'lHn wYi', 'lLn wew'}, {'LMy WYW', 'elin Hwei', 'lHn wYi', 'Lhn wyo', 'lYn weY'}, {'Lmi Wwy', 'lmn wYi', 'lnn weY', 'llm wya', 'Hlin iwei'}, {'Lmi Wwy', 'lhn wyi', 'lhN whh', 'Hlin Ewei', 'lNn wew'}, {'lhn wyi', 'lln wey', 'LHM WYw', 'hlin ewei', 'LHn wyI'}, {'lmy whh', 'lmn wYi', 'Lmw WHh', 'Ulin ewei', 'lwn wew'}, {'lmn wYi', 'lhm wyw', 'LMy WYI', 'lnin Hwei', 'lNn weW'}, {'LMn wyw', 'lmn wYi', 'lnn wey', 'hlin Awei', 'LHM WYw'}, {'lhn wyi', 'LMm WYH', 'lmu wyu', 'lLn weY', 'Ilin owei'}, {'lhn wYi', 'alin ewei', 'LMY Wyw', 'lYn wee', 'lnm wwy'}, {'lYn weW', 'lmn wyi', 'LMI WYw', 'lnh wyy', 'olin uwei'}, {'hlin Ewei', 'lNn weY', 'lHn wyi', 'Lnh WYU', 'lme wyy'}, {'lhn wYi', 'Hlin uwei', 'lhN wyI', 'LHm Wwy', 'lYn weY'}, {'lwn weY', 'Elin iwei', 'lHn wyi', 'Lmm WYe', 'lme wye'}, {'elin Awei', 'lnn wey', 'lHn wyi', 'LMm WHH', 'LHn wyw'}, {'lwn weW', 'lmn wyi', 'lhm whh', 'ulin Ewei', 'Lhm WYW'}, {'lmn wYi', 'liln Ewei', 'Lmy WYw', 'lwn wew', 'Lhn wyo'}, {'lmn wyi', 'liln Hwei', 'Lhm Wyu', 'llm wyh', 'lLn weW'}, {'Olin Iwei', 'lhn wyi', 'lWn wew', 'lme wyh', 'LMw Wyu'}, {'lma wyh', 'lHn wYi', 'liln awei', 'lLn wew', 'Lmm Wyu'}, {'lmn wYi', 'Olin Owei', 'Lhn wyw', 'LHM WYw', 'lnn weE'}, {'lmn wyi', 'lhN wyo', 'LMW WYu', 'lyn wew', 'Alin hwei'}, {'lmn wyi', 'LMW WYI', 'lmw wyh', 'hlin ewei', 'lnn wew'}, {'llm wyI', 'lhn wyi', 'LMw Whh', 'liln Awei', 'lln wew'}, {'Ulin Awei', 'lHn wyi', 'LMi WYe', 'lwn wew', 'lmm WYi'}, {'LMI WYh', 'liln ewei', 'lLn weE', 'lHn wYi', 'lhN whh'}, {'lyn weE', 'lmn wYi', 'LHm WYe', 'Lmn whh', 'Ilin owei'}, {'lmn wyi', 'lnin owei', 'lmm whh', 'lyn wew', 'LMY WYe'}, {'Lmm WHH', 'elin Uwei', 'lHn wYi', 'lmo wyo', 'lnn weE'}, {'lmi wyu', 'lmn wYi', 'lmin Awei', 'LHm Wyh', 'lLn weY'}, {'Hlin uwei', 'lmn wyi', 'lym whh', 'Lmm Wwy', 'lln wew'}, {'LHN WYe', 'lHn wYi', 'lwm Wyi', 'lYn wee', 'Olin uwei'}, {'lhn wyi', 'lmh WYi', 'olin iwei', 'LNH Wyw', 'lwn weE'}, {'lhn wYi', 'lnin Iwei', 'LHN WYh', 'Lmn wyo', 'lYn weY'}, {'lnn wee', 'lym WYi', 'liln Iwei', 'lHn wyi', 'Lmy Wye'}, {'lHn wyi', 'LNH Wyo', 'lnn weW', 'lmy wwy', 'Ilin Owei'}, {'lma wwy', 'LMi WYH', 'lnn wey', 'lHn wYi', 'olin Uwei'}, {'ulin Ewei', 'lLn weE', 'lHn wYi', 'LMM Wyh', 'LMn wyu'}, {'Alin Iwei', 'LMY WYw', 'lHn wYi', 'LMn wye', 'lwn weE'}, {'lhn wYi', 'Elin Ewei', 'lyn wey', 'lhN wyh', 'LMI WHh'}, {'lmi wyu', 'lln weW', 'elin ewei', 'lHn wYi', 'Lmw WYe'}, {'liln Uwei', 'LMI WHh', 'lHn wYi', 'lWn wey', 'LMn wyh'}, {'lnin Owei', 'lnn wee', 'lHn wYi', 'LMM WYw', 'lnm wwy'}, {'elin awei', 'lhn wyi', 'Lmy Whh', 'lnn wey', 'lym wyh'}, {'Lhn whh', 'hlin Hwei', 'lmn wYi', 'LNH WYI', 'lnn weY'}, {'Ilin Awei', 'lHn wyi', 'lhN wyu', 'lYn weE', 'Lmm Wwy'}, {'ulin ewei', 'lym wyo', 'lHn wyi', 'lnn weE', 'LHm WYI'}, {'lmn wYi', 'Alin ewei', 'lYn weE', 'lnm wwy', 'Lnh WHH'}, {'Lhn wyh', 'lhn wyi', 'Ulin awei', 'lyn weW', 'LMi Wye'}, {'Ilin Awei', 'LHm Whh', 'lmn wyi', 'lhm wyo', 'lnn wew'}, {'Lhn wyy', 'lHn wyi', 'Lhm WYh', 'Alin ewei', 'lLn weW'}, {'lYn weW', 'Ulin uwei', 'lmo wye', 'lHn wyi', 'Lmy Wye'}, {'lhn wYi', 'Lmi Wyh', 'LHn wwy', 'Elin uwei', 'lln wey'}, {'hlin Uwei', 'lmn wyi', 'LMm Wyu', 'lyn wey', 'lme wyh'}, {'lmn wYi', 'Lnh WWY', 'Hlin Awei', 'lln wey', 'lmo wya'}, {'Ilin hwei', 'lmh wyh', 'lHn wyi', 'Lmm Wye', 'lLn weY'}, {'Olin Awei', 'Lmn Wyi', 'lhn wyi', 'lnn weY', 'LMW WHH'}, {'lhn wYi', 'Hlin owei', 'LMW Whh', 'lmw whh', 'lNn wew'}, {'lyn weY', 'lmn wYi', 'hlin awei', 'lmu wyu', 'LMm Wwy'}, {'lYn weW', 'hlin Uwei', 'lmn wYi', 'lhN WYi', 'Lhm Wye'}, {'lmn wyi', 'LMw Wwy', 'lwn wee', 'llm Wyi', 'elin Owei'}, {'lma wya', 'hlin Hwei', 'lHn wyi', 'Lmw WYu', 'lLn weY'}, {'olin owei', 'lhn wyi', 'lyn wey', 'lhN wyI', 'LMI Wwy'}, {'lhN wyo', 'lHn wyi', 'lyn wew', 'liln awei', 'Lmy Wwy'}, {'lmu wyy', 'lHn wyi', 'Hlin ewei', 'Lhm WYw', 'lwn wee'}, {'lhn wYi', 'lmi Wyi', 'lYn wey', 'Lhm WYU', 'lmin hwei'}, {'lhn wYi', 'lWn weW', 'alin ewei', 'LNh Wyu', 'llm wyy'}, {'LMi Wyo', 'lyn weE', 'lHn wyi', 'Lmn whh', 'Elin Awei'}, {'lNn wey', 'lmh wyo', 'lmn wYi', 'Lmm Wyo', 'lnin Awei'}, {'elin Iwei', 'lhn wYi', 'lmy wyw', 'lnn weW', 'LMw Wye'}, {'lhn wyi', 'lnn wee', 'alin Owei', 'lmo wyu', 'LNH WYe'}, {'lmn wYi', 'lmy wya', 'lyn wew', 'LMw Wyu', 'lmin Owei'}, {'lmn wyi', 'LNh WHH', 'LHn whh', 'Hlin iwei', 'lWn wey'}, {'LNh WYw', 'lhn wyi', 'lmh wyh', 'ilin Ewei', 'lLn weY'}, {'lym wyh', 'ilin Hwei', 'lhn wyi', 'LMM WYW', 'lYn weY'}, {'LMM Wye', 'lln wew', 'lnm wyu', 'lHn wyi', 'olin ewei'}, {'lmn wYi', 'lmw wye', 'Ulin ewei', 'lWn wey', 'LHm WHH'}, {'lhn wYi', 'elin iwei', 'LHM WYe', 'lmy wwy', 'lyn weW'}, {'lmn wYi', 'lln wey', 'LHN Wyu', 'lme wyw', 'Alin iwei'}, {'lmn wYi', 'Ulin uwei', 'lwm whh', 'lyn wew', 'LNh Wye'}, {'lhn wYi', 'Olin hwei', 'LMn whh', 'lyn weW', 'LNH Wyu'}, {'lYn wey', 'LMw WYe', 'lHn wYi', 'Lhn wye', 'lmin Uwei'}, {'LMY WYw', 'lwn weY', 'lhn wyi', 'lnm whh', 'olin Awei'}, {'lmn wyi', 'Elin Hwei', 'LMn wya', 'lnn wey', 'LMy WYH'}, {'lhn wYi', 'lym wyu', 'LMM Wyh', 'olin ewei', 'lln weY'}, {'Lnh Wwy', 'ilin Uwei', 'lHn wyi', 'LHn WYi', 'lLn weE'}, {'LMn WYi', 'olin hwei', 'lHn wYi', 'Lnh Whh', 'lln wew'}, {'lHn wyi', 'Lmm Wyh', 'lmm wyI', 'Ilin ewei', 'lwn weE'}, {'lWn weW', 'lhn wyi', 'lhN wye', 'LMw WYw', 'Alin iwei'}, {'lmu WYi', 'lhn wYi', 'LMW WHh', 'lyn wew', 'Elin uwei'}, {'lln wee', 'alin uwei', 'lhn wyi', 'LMI Wyw', 'lmu Wyi'}, {'lhn wYi', 'lmw wyI', 'LMy WYW', 'ulin iwei', 'lnn weE'}, {'ulin ewei', 'lmw wyo', 'LNh WYU', 'lHn wyi', 'lYn wee'}, {'lhn wyi', 'elin Uwei', 'lwm whh', 'lLn wew', 'LMi Wye'}, {'LMI WYU', 'lmn wYi', 'Alin ewei', 'lmw wye', 'lnn wew'}, {'Olin Iwei', 'lnn wey', 'lHn wyi', 'LMw WYh', 'llm wyI'}, {'lhn wYi', 'Alin ewei', 'lmw wyh', 'lLn wey', 'Lmw WHH'}, {'lmn wYi', 'Ulin Awei', 'LMm WHH', 'lwn wee', 'LMn wye'}, {'hlin uwei', 'lln weE', 'lhn wyi', 'lhm wya', 'LMN WYe'}, {'lhn wYi', 'lym wyo', 'Lmw WWY', 'Alin hwei', 'lln weY'}, {'Ilin hwei', 'lwm wyo', 'LMI Wyo', 'lhn wyi', 'lln wew'}, {'lhn wYi', 'liln Owei', 'lmh wyu', 'Lnh WYI', 'lln weY'}, {'lNn weE', 'lhn wyi', 'Ulin uwei', 'LNh WWy', 'Lmn wyo'}, {'LMN WHH', 'lhn wyi', 'lme wwy', 'ilin Owei', 'lLn weE'}, {'hlin Owei', 'lmn wyi', 'Lhm WYI', 'lYn wee', 'lmm wyw'}, {'lWn weW', 'lmn wYi', 'Ulin Uwei', 'LHn WYi', 'Lhm Wyu'}, {'lhn wYi', 'elin Awei', 'lWn weY', 'lym WYi', 'LHm WHH'}, {'lhn wYi', 'lmi wyy', 'lYn wew', 'LHM Wwy', 'elin hwei'}, {'lhn wYi', 'lmm wyy', 'lnin uwei', 'lnn wey', 'LHm WHH'}, {'lmn wyi', 'Lhn wyw', 'LMN Whh', 'lLn wey', 'ilin uwei'}, {'lwn wey', 'lmn wYi', 'LNH WYI', 'hlin Awei', 'lmy wye'}, {'olin Owei', 'Lmm WYw', 'lmn wYi', 'lwm wwy', 'lNn wew'}, {'LMy WWy', 'lhn wyi', 'lym wyw', 'olin Uwei', 'lnn wew'}, {'lmn wyi', 'lmo wye', 'lLn wee', 'Hlin awei', 'LHm WWY'}, {'LHN Wwy', 'lHn wyi', 'Ulin Hwei', 'lwn wee', 'lmu wyh'}, {'lmn wYi', 'elin Ewei', 'lLn wee', 'Lnh WYI', 'lmy wyy'}, {'LMw WYI', 'Alin Iwei', 'lmw Wyi', 'lHn wyi', 'lYn weE'}, {'lhn wYi', 'lme wyu', 'alin uwei', 'Lhm Wyw', 'lLn wey'}, {'lhn wYi', 'Lhn whh', 'olin Owei', 'LNh Wwy', 'lNn wew'}, {'lhn wYi', 'lwm wyh', 'LMm WHh', 'lln wey', 'Olin Hwei'}, {'LMi Wyw', 'lhn wyi', 'Olin Owei', 'lhN whh', 'lwn wee'}, {'Lmy WHH', 'lWn wee', 'lmn wyi', 'ilin owei', 'LHn Wyi'}, {'Olin Awei', 'Lmy Whh', 'lHn wyi', 'lwn wee', 'lmi wyo'}, {'LNh WHH', 'lHn wyi', 'Alin hwei', 'lNn wew', 'lme wyy'}, {'lmo wyy', 'lHn wyi', 'ulin hwei', 'Lmi WYu', 'lLn weY'}, {'lmn wyi', 'lmu wyI', 'LMN Wyu', 'Olin Hwei', 'lLn weY'}, {'lmn wyi', 'lym wyu', 'Lnh WYu', 'lLn wew', 'ulin Hwei'}, {'Hlin hwei', 'LNh WWy', 'lHn wYi', 'lLn wew', 'lmo wyh'}, {'lhn wYi', 'lWn wee', 'alin owei', 'llm wya', 'LMM WYw'}, {'alin owei', 'LMy Whh', 'lmy Wyi', 'lHn wYi', 'lLn wew'}, {'lwm wyh', 'lmin Ewei', 'lLn wee', 'LMm WYE', 'lHn wYi'}, {'LMW WYI', 'lHn wyi', 'lhm whh', 'Ulin Ewei', 'lYn weE'}, {'lmm Wyi', 'lmn wYi', 'Olin owei', 'LMI WHh', 'lNn wew'}, {'lhn wYi', 'lWn weW', 'lmi wyu', 'olin hwei', 'LMi WYE'}, {'LHm WYW', 'lmn wYi', 'hlin iwei', 'lnm wyy', 'lLn weY'}, {'lln weE', 'lmn wYi', 'Elin iwei', 'lnh wyI', 'LMY WYe'}, {'lWn weE', 'lnh wyu', 'LMm Wye', 'lHn wYi', 'ilin iwei'}, {'lYn weW', 'Alin ewei', 'lme WYi', 'LHN WYU', 'lHn wYi'}, {'lln wee', 'LHn whh', 'LHN WYh', 'liln uwei', 'lHn wyi'}, {'alin owei', 'lmy whh', 'lmn wYi', 'LMI Wyu', 'lwn wew'}, {'LMN WYI', 'lWn weW', 'lhn wyi', 'lnm Wyi', 'ulin Iwei'}, {'lwn weW', 'lmn wYi', 'lmh wya', 'alin Iwei', 'LMm WHH'}, {'lnm wyu', 'lhn wyi', 'ulin Iwei', 'Lnh Wyw', 'lWn wey'}, {'Ulin Owei', 'lmm wya', 'lhn wyi', 'lln wew', 'LHm WWy'}, {'lhn wyi', 'lmin uwei', 'lNn weY', 'Lmm WYW', 'lmy wya'}, {'lhn wYi', 'lmm wyh', 'lNn wee', 'LMN Wyu', 'olin uwei'}, {'lmn wyi', 'LMw WWy', 'lmm whh', 'Ulin Ewei', 'lNn weW'}, {'lhn wYi', 'lmi whh', 'lwn wee', 'lnin ewei', 'LMM WYU'}, {'lhn wYi', 'lnm wyI', 'lnn weY', 'hlin hwei', 'Lnh WWy'}, {'lmn wYi', 'LHn Wyi', 'liln Ewei', 'LMW WWy', 'lyn weW'}, {'olin owei', 'lma Wyi', 'lNn weY', 'lHn wyi', 'LHM WYH'}, {'alin Hwei', 'lNn weE', 'lHn wyi', 'Lnh Whh', 'LMn wyh'}, {'lWn weE', 'lma whh', 'lmn wyi', 'Lmy WHh', 'Hlin Awei'}, {'lmn wyi', 'Olin awei', 'lln weW', 'LMw Wye', 'LMn wye'}, {'lNn weE', 'LNh WHh', 'lHn wyi', 'Hlin awei', 'lwm Wyi'}, {'LHM WYW', 'alin Owei', 'lHn wYi', 'lym wye', 'lln weY'}, {'olin Owei', 'lmm wyo', 'lnn wew', 'lHn wyi', 'LHM Wyu'}, {'Olin hwei', 'lHn wyi', 'LHN WWy', 'lmy WYi', 'lWn wew'}, {'LMn WYi', 'Hlin Iwei', 'lnn wey', 'lHn wyi', 'LMm WYH'}, {'lhn wYi', 'LMM WYu', 'Alin Uwei', 'lwn weE', 'lnh whh'}, {'lln wee', 'lmn wyi', 'lmm wyo', 'Ilin uwei', 'Lnh WWy'}, {'lYn weW', 'lhn wYi', 'alin Owei', 'lym wyI', 'Lmm Wwy'}, {'lmn wyi', 'LMW Wye', 'lwn weY', 'lnin hwei', 'llm Wyi'}, {'lwn weW', 'Lhn wyh', 'lmn wYi', 'Elin awei', 'LNH Wyu'}, {'lhn wyi', 'lym Wyi', 'LMN WYH', 'hlin hwei', 'lnn weE'}, {'lyn weY', 'lHn wYi', 'lwm wyw', 'elin uwei', 'LMW WYw'}, {'lhN wya', 'Olin Iwei', 'lWn weY', 'lhn wyi', 'LNh WYh'}, {'olin awei', 'lhn wyi', 'lNn wee', 'lnm wyo', 'Lmi WWY'}, {'Lmy WHH', 'lhn wYi', 'Elin Owei', 'lLn wee', 'lmu wyh'}, {'LMY WWY', 'Ulin Owei', 'Lmn Wyi', 'lhn wyi', 'lnn weW'}, {'lhn wYi', 'lwm wyu', 'olin Iwei', 'LMm WYe', 'lYn wew'}, {'lHn wyi', 'LMi Wyh', 'Lmn wwy', 'olin Uwei', 'lln weY'}, {'Lmy WHH', 'lhn wYi', 'Elin Ewei', 'lnn weE', 'lme Wyi'}, {'lhn wyi', 'olin hwei', 'lln wey', 'LHM WYe', 'lnm wwy'}, {'lhn wyi', 'Alin ewei', 'Lnh WYE', 'Lmn wwy', 'lLn wew'}, {'lhn wyi', 'Olin owei', 'lnh wyu', 'LMI WHh', 'lNn weW'}, {'lmn wYi', 'lme WYi', 'Hlin ewei', 'LMW Wyo', 'lLn weW'}, {'elin Iwei', 'lmn wyi', 'lmh wyh', 'LMi WHH', 'lLn weW'}, {'lHn wyi', 'lmi wyh', 'Ilin awei', 'LMW WHH', 'lLn wey'}, {'elin Iwei', 'Lmw WHh', 'lHn wYi', 'LHn wye', 'lNn wew'}, {'hlin Iwei', 'Lmn WYi', 'lHn wyi', 'lLn wee', 'Lnh WYI'}, {'lnh wya', 'lnn wee', 'lHn wyi', 'olin Awei', 'LMN Wyo'}, {'liln Owei', 'lnm wyI', 'lHn wYi', 'LHm Wyo', 'lNn wew'}, {'lYn weW', 'lhn wyi', 'elin Uwei', 'Lhm WYU', 'LMn whh'}, {'Ilin hwei', 'lmn wYi', 'LNH WHH', 'lyn weW', 'lmy wyy'}, {'alin Hwei', 'lmh wye', 'LMm WYu', 'lHn wyi', 'lnn weE'}, {'lnm Wyi', 'LMY Whh', 'lHn wYi', 'lyn weW', 'elin uwei'}, {'lYn weW', 'lme wyI', 'lmn wyi', 'LMM Wyu', 'liln iwei'}, {'LMi WWy', 'lhn wyi', 'Elin iwei', 'lNn wee', 'lmw wwy'}, {'LMi Wyu', 'lyn weY', 'lmw wyo', 'lHn wyi', 'ulin Hwei'}, {'lmin owei', 'lhn wyi', 'lmi wye', 'Lhm WYU', 'lLn weY'}, {'LNh WYe', 'lmn wYi', 'lyn wey', 'alin Iwei', 'lme Wyi'}, {'Lmm WYw', 'lHn wYi', 'lYn weY', 'lhm WYi', 'ilin uwei'}, {'lmn wYi', 'lmh wyh', 'liln Ewei', 'lLn wew', 'LHM WYE'}, {'lwm wwy', 'lHn wyi', 'Ulin hwei', 'lyn weW', 'LHM Wyu'}, {'lmy wyo', 'LHN WYw', 'lHn wYi', 'lYn weE', 'olin Uwei'}, {'Lhn wyh', 'lmn wYi', 'lnin uwei', 'lLn wey', 'Lmw Wwy'}, {'lmn wyi', 'lme WYi', 'LMM WWY', 'lmin Uwei', 'lLn weW'}, {'lmn wyi', 'LHm Wye', 'lhm wyw', 'olin Hwei', 'lLn wew'}, {'lhn wyi', 'lwm wwy', 'lNn wee', 'Hlin Awei', 'LHM Whh'}, {'lWn weW', 'alin uwei', 'lmn wYi', 'LHn Wyi', 'LNH WHh'}, {'lhn wYi', 'Lnh WYw', 'olin Awei', 'lWn wew', 'lmm WYi'}, {'hlin Owei', 'lmn wyi', 'LMy WYE', 'lhN wyo', 'lLn wee'}, {'hlin Iwei', 'lnm wya', 'Lmy WHh', 'lmn wYi', 'lLn weY'}, {'lmn wyi', 'lmw Wyi', 'lWn wew', 'LHN WYU', 'liln awei'}, {'lhn wYi', 'Ulin hwei', 'lmu wye', 'LNH WYU', 'lYn weY'}, {'lmn wyi', 'lmy whh', 'Lmw WYw', 'lln wew', 'lmin hwei'}, {'LMi Wyu', 'lmn wyi', 'elin owei', 'lnh WYi', 'lLn weY'}, {'lmn wyi', 'olin Ewei', 'lwn weY', 'LMY Wyw', 'lnm wyw'}, {'lmn wyi', 'lmy wyu', 'olin Awei', 'lWn wew', 'LMW Wyw'}, {'LMi WWy', 'lhn wYi', 'elin ewei', 'lyn wee', 'LHn wyw'}, {'hlin uwei', 'lhn wyi', 'lNn weY', 'lma wyh', 'LMm Wye'}, {'lmn wyi', 'LHm Wyw', 'lmi wyw', 'lLn weY', 'Olin Ewei'}, {'lhn wYi', 'LHn wyy', 'LMy WYu', 'lyn weW', 'elin Owei'}, {'LMY Wye', 'liln Owei', 'lhn wyi', 'lyn wew', 'lme wye'}, {'lhn wyi', 'lNn wee', 'LHM Wyh', 'Alin uwei', 'lmu wya'}, {'Ulin Owei', 'lmh whh', 'LMY WYu', 'lHn wyi', 'lwn weE'}, {'lhn wYi', 'lmo wyy', 'lNn weY', 'LHM Wyh', 'hlin Awei'}, {'LHm Whh', 'lym wyo', 'ulin awei', 'lhn wyi', 'lNn wee'}, {'Lnh Wwy', 'lmn wyi', 'lma wyo', 'Elin uwei', 'lln weY'}, {'lhn wYi', 'LHm WYe', 'hlin owei', 'lmm wyI', 'lwn wee'}, {'ulin awei', 'lmn wyi', 'lNn weY', 'Lmm Wyo', 'lym wyh'}, {'Lmn wyy', 'liln Uwei', 'lln wey', 'lHn wYi', 'Lmm Whh'}, {'lhn wYi', 'LHm WYE', 'lme whh', 'lwn wew', 'lmin Owei'}, {'hlin Uwei', 'lnm Wyi', 'lHn wYi', 'LNh WWY', 'lnn wew'}, {'LMy Wyo', 'lNn weE', 'lHn wyi', 'Lmn wyu', 'olin Hwei'}, {'lhn wyi', 'lmw wyh', 'lYn wew', 'Olin uwei', 'Lmm Wwy'}, {'Olin owei', 'lnn wey', 'lHn wyi', 'Lmy WWY', 'lwm Wyi'}, {'lmn wyi', 'LHm WYE', 'lnin Uwei', 'lnh wyw', 'lWn wey'}, {'lwn wey', 'Elin Uwei', 'lmn wYi', 'Lhm WYI', 'Lmn wya'}, {'lHn wyi', 'lnin awei', 'lLn weY', 'llm wyI', 'LMI WYW'}, {'lmn wYi', 'alin Owei', 'Lhm WHh', 'llm wye', 'lnn weE'}, {'lnm wyI', 'Lmw WWY', 'lnn weY', 'liln iwei', 'lHn wYi'}, {'lmn wyi', 'alin Uwei', 'LMi WYH', 'lln weW', 'lme Wyi'}, {'lhn wYi', 'alin owei', 'lmi wyw', 'lNn wee', 'LMW WYw'}, {'lhn wYi', 'lyn weE', 'Ulin owei', 'LMM Wwy', 'lmo wyo'}, {'Lmy WHh', 'Olin Awei', 'lym wyu', 'lhn wyi', 'lYn wey'}, {'ulin owei', 'lmn wYi', 'lnn wee', 'lym wwy', 'LHm Wyh'}, {'LMN WWY', 'lmi wyu', 'lnin uwei', 'lmn wYi', 'lYn wee'}, {'lmn wYi', 'LMw Wyo', 'lmu wye', 'Ilin Owei', 'lNn wew'}, {'lYn weW', 'alin Awei', 'lmn wyi', 'lmm wya', 'LMW WYe'}, {'Ilin hwei', 'lmn wYi', 'LMY WHH', 'llm wyh', 'lNn wew'}, {'lmn wyi', 'Lhm WWY', 'lnm wwy', 'Ilin owei', 'lLn weW'}, {'Alin Ewei', 'Lmw WYw', 'lhn wyi', 'lnh wyw', 'lwn wew'}, {'Elin iwei', 'Lmn wyy', 'lHn wyi', 'lYn wey', 'Lhm WHh'}, {'lhn wYi', 'LMY WYw', 'lnin uwei', 'lhN wye', 'lWn wey'}, {'lmn wyi', 'lmu Wyi', 'Ulin Hwei', 'LHM Wye', 'lLn wew'}, {'lmn wYi', 'Hlin Uwei', 'lwn wee', 'Lmm Wyu', 'LMn Wyi'}, {'lhN wyI', 'lHn wYi', 'LHm WYU', 'lwn weE', 'elin Owei'}, {'LMn wyI', 'liln Iwei', 'lHn wyi', 'LMw Wyw', 'lNn weW'}, {'LNh WYe', 'lln wee', 'lmn wyi', 'lmw Wyi', 'Olin uwei'}, {'lln weE', 'lmi wyw', 'lHn wYi', 'LHm WYH', 'ulin iwei'}, {'Elin Ewei', 'lmn wYi', 'lma WYi', 'LNh WHh', 'lNn weW'}, {'lmn wyi', 'elin owei', 'LHN Wyo', 'lnn weY', 'llm wyh'}, {'lHn wyi', 'Alin ewei', 'lyn weW', 'LMw WYh', 'lmi wyo'}, {'hlin Iwei', 'lmn wYi', 'LMy WYI', 'lmy wwy', 'lWn wey'}, {'lHn wyi', 'lLn wee', 'Lmn wyw', 'Lnh Whh', 'Olin Ewei'}, {'lyn weE', 'LMM WWy', 'Ulin Awei', 'lhm wyw', 'lHn wYi'}, {'lmm wye', 'LHm Wyw', 'Hlin Owei', 'lHn wYi', 'lWn wey'}, {'lhn wYi', 'lhm wyI', 'Elin iwei', 'LMw WYw', 'lWn wew'}, {'ulin owei', 'lhn wyi', 'llm WYi', 'LHM WYh', 'lYn wee'}, {'lma wya', 'Ulin Owei', 'LNH WYH', 'lnn weY', 'lHn wYi'}, {'LNH Wye', 'lmh wyu', 'ulin Uwei', 'lHn wYi', 'lNn weW'}, {'lhn wYi', 'liln hwei', 'lln weE', 'lhm Wyi', 'LNH WYE'}, {'lWn weE', 'lmi wyy', 'LHN Whh', 'lmn wYi', 'alin Iwei'}, {'lmn wyi', 'lnin owei', 'LMm WWY', 'lyn wey', 'lmi WYi'}, {'Ilin Iwei', 'lhn wyi', 'lln weW', 'Lnh WWy', 'lym wyh'}, {'LHN WYe', 'lmn wYi', 'lwm WYi', 'lYn wee', 'Ilin Owei'}, {'alin ewei', 'lmn wYi', 'lhm whh', 'LHM WYh', 'lLn weW'}, {'lWn weW', 'lhn wyi', 'LMI WWy', 'Elin owei', 'lmy wyy'}, {'Lmm WHh', 'lln wee', 'lnh wye', 'lmn wYi', 'Hlin Ewei'}, {'LHn wyu', 'lNn weE', 'lhn wyi', 'alin Owei', 'LMI WHH'}, {'lmn wYi', 'lmw Wyi', 'LMw Wyw', 'Ilin ewei', 'lLn wey'}, {'lWn wee', 'lmn wyi', 'lmm wwy', 'Lmy WYE', 'Ilin ewei'}, {'lmn wYi', 'lwm wye', 'LNH WYE', 'liln iwei', 'lYn weE'}, {'lhn wYi', 'lnn wee', 'ilin Uwei', 'LMi WYU', 'lmw wye'}, {'lln weE', 'lhn wyi', 'LHn whh', 'LMw Whh', 'Ulin ewei'}, {'LMW Wye', 'lhm wyI', 'lHn wyi', 'Alin ewei', 'lLn weW'}, {'lWn weW', 'lhn wyi', 'Lmy Wyo', 'ulin Uwei', 'llm wyw'}, {'lmn wYi', 'lnin Ewei', 'lnn wew', 'Lmw Wwy', 'lma wye'}, {'LHN WYW', 'lyn weE', 'lmn wYi', 'lmi wye', 'olin Uwei'}, {'lhn wYi', 'lnm wyI', 'lmin Awei', 'Lmy Wyw', 'lNn weW'}, {'lnin iwei', 'lmn wyi', 'Lmw WHh', 'lmu wya', 'lLn wew'}, {'lhn wyi', 'Lnh Wyw', 'lnm wwy', 'lLn weW', 'lmin Owei'}, {'Lhn whh', 'ulin Owei', 'lmn wyi', 'LMI Wyw', 'lnn weW'}, {'lwn weY', 'lmn wYi', 'lnh wyu', 'LMI WYu', 'liln Awei'}, {'lNn weE', 'lhn wyi', 'Lmi WYe', 'Ulin owei', 'Lhn wyu'}, {'lwn wey', 'Lmw WYU', 'lhn wyi', 'lnin owei', 'lnm wyy'}, {'lma wyI', 'lnn weY', 'lHn wYi', 'LMy WYu', 'hlin owei'}, {'lln wee', 'lmn wYi', 'lmy wyh', 'Hlin awei', 'LMw WYe'}, {'elin owei', 'lmn wYi', 'lmy wyh', 'LHN WYU', 'lnn wew'}, {'lmn wyi', 'lmu Wyi', 'LMw WWy', 'Ulin Hwei', 'lnn weE'}, {'LMN WWY', 'lmn wyi', 'lma Wyi', 'liln owei', 'lLn wey'}, {'lhn wYi', 'lln weW', 'Ulin iwei', 'lnh wyh', 'Lnh WHH'}, {'lhn wyi', 'lNn weY', 'lmin Iwei', 'LMy WYI', 'lym whh'}, {'lWn weE', 'Ilin iwei', 'lHn wyi', 'Lmm Wyu', 'lme wyh'}, {'LNh WYW', 'lmh wyy', 'lHn wyi', 'Olin Uwei', 'lNn weW'}, {'LMY Wye', 'lhn wyi', 'lhN wyu', 'lnn weY', 'liln Ewei'}, {'elin awei', 'lNn wey', 'lHn wyi', 'LHM WYe', 'lme wye'}, {'lmn wYi', 'Ulin Uwei', 'Lmw WYu', 'lYn wee', 'lnh wyh'}, {'lhN wyo', 'Lmw WYI', 'Hlin Owei', 'lyn wew', 'lHn wYi'}, {'LNH WYh', 'Elin uwei', 'lHn wYi', 'Lhn wye', 'lLn weY'}, {'Lmw WYW', 'olin Owei', 'lmn wYi', 'lnn wey', 'lmy WYi'}, {'lhn wYi', 'LMw Wyh', 'lwm Wyi', 'lnn wew', 'lmin Owei'}, {'lmn wyi', 'lWn weY', 'lnm wyh', 'LMm Wyu', 'ilin Uwei'}, {'LMY WWY', 'Ulin iwei', 'lWn wew', 'lHn wYi', 'lmw wya'}, {'lmm wyy', 'olin Owei', 'lhn wyi', 'lWn wew', 'LMy WYu'}, {'Lmm WYw', 'lmn wYi', 'lhN wyh', 'Hlin ewei', 'lyn wee'}, {'olin awei', 'lmn wyi', 'lmh wya', 'Lmm WWy', 'lNn wee'}, {'LHn wyu', 'Elin Hwei', 'lHn wyi', 'lWn wew', 'LHN WYU'}, {'LMY WYW', 'lmn wyi', 'lnm wyy', 'lwn weE', 'lmin hwei'}, {'lhn wYi', 'ulin ewei', 'lhN Wyi', 'lwn weY', 'LNh Wyo'}, {'lWn weE', 'lnm wya', 'lhn wyi', 'ulin Ewei', 'LMI Whh'}, {'LMY Wye', 'lNn weE', 'lmn wYi', 'elin Hwei', 'LMn Wyi'}, {'lYn weW', 'lmw wyo', 'lHn wyi', 'LMN Wwy', 'olin Hwei'}, {'lhn wYi', 'lLn wee', 'alin Ewei', 'lma wyI', 'LMW WWY'}, {'Ilin iwei', 'lmi whh', 'lHn wyi', 'lyn wew', 'LMY WYe'}, {'lmn wyi', 'elin owei', 'lwm WYi', 'LHN WYI', 'lyn wew'}, {'lWn weY', 'lhn wyi', 'LHM WHh', 'lhm wyw', 'Olin Ewei'}, {'lhn wyi', 'lhN wyo', 'Lhm Wyh', 'lNn weY', 'Ulin Iwei'}, {'lWn wee', 'lmn wyi', 'LHN WYE', 'liln uwei', 'lhN wyI'}, {'lmn wyi', 'lhm wyo', 'Alin ewei', 'LHN Wyo', 'lnn weE'}, {'lhn wyi', 'lNn weY', 'LMi Whh', 'Lhn WYi', 'Hlin Uwei'}, {'lNn wey', 'LMw WHh', 'lhn wyi', 'Hlin Owei', 'llm wyw'}, {'lmin owei', 'lmn wYi', 'LMN Wwy', 'lwn weE', 'lmw wya'}, {'lWn weW', 'lhn wyi', 'lmm wyh', 'Lnh WYI', 'Ulin Ewei'}, {'Lmy WHH', 'lmn wyi', 'lnm Wyi', 'Olin uwei', 'lNn weW'}, {'alin awei', 'lhn wyi', 'lnh wyu', 'LMw Wyw', 'lLn weW'}, {'LHN WYW', 'alin Awei', 'lhn wyi', 'lYn wew', 'lmh wyw'}, {'LMW WYU', 'ulin Ewei', 'lmi wyI', 'lln wey', 'lHn wYi'}, {'lhn wyi', 'lhN wye', 'Elin ewei', 'lnn wew', 'LMY WYh'}, {'lwn wey', 'liln ewei', 'lHn wyi', 'lma wyI', 'LMW Wyo'}, {'elin owei', 'LHN WYI', 'lHn wyi', 'lmy WYi', 'lLn weE'}, {'lhn wYi', 'LMY WWY', 'lwn weY', 'lnin uwei', 'llm wwy'}, {'ulin Owei', 'lWn weW', 'Lhn wyI', 'lHn wYi', 'LMw Wyh'}, {'lmh wyu', 'LMM WWy', 'lWn wew', 'lHn wYi', 'Alin uwei'}, {'ulin Uwei', 'lmn wYi', 'lmw Wyi', 'LMw Wyo', 'lNn weW'}, {'alin Awei', 'lwn weW', 'lmn wyi', 'LMi Wyw', 'lmw WYi'}, {'lwn wey', 'lmn wYi', 'lhN wyh', 'Alin Hwei', 'Lnh WWy'}, {'LMY WYE', 'lWn wee', 'lmi whh', 'Olin Uwei', 'lHn wYi'}, {'lhn wyi', 'lyn wey', 'Lmm Wye', 'elin hwei', 'LMn whh'}, {'lhn wYi', 'lmo wyw', 'elin iwei', 'lWn wew', 'Lhm WYW'}, {'lhn wYi', 'lmo Wyi', 'LMw Wyw', 'lYn weE', 'Alin hwei'}, {'Olin iwei', 'lmn wYi', 'lnm Wyi', 'LMw Wyo', 'lLn weY'}, {'lmn wyi', 'LMi WYU', 'llm wwy', 'Alin uwei', 'lwn wew'}, {'lhn wYi', 'LMy WYw', 'lmw WYi', 'lYn weY', 'ulin iwei'}, {'lhn wyi', 'lLn wee', 'lnh wwy', 'ilin awei', 'LMw WYh'}, {'lmn wYi', 'Lmy WYe', 'Ulin Ewei', 'lLn wey', 'lmi wya'}, {'Ilin Iwei', 'lmn wyi', 'Lmw WHh', 'Lmn wyu', 'lyn wee'}, {'lmn wyi', 'ilin Hwei', 'lmu wye', 'LMW Wyo', 'lnn wew'}, {'Ilin Ewei', 'LHN Whh', 'lHn wYi', 'lyn wee', 'lym wya'}, {'lhn wyi', 'lnm whh', 'lmin Hwei', 'LMI WYI', 'lYn weE'}, {'Lhn wya', 'lHn wyi', 'ulin uwei', 'lLn weW', 'LMw WYU'}, {'lhn wYi', 'lln weE', 'lmy wyo', 'Lmi WYh', 'lmin Hwei'}, {'lYn weW', 'lhn wYi', 'lmi wyw', 'LNH WWY', 'hlin ewei'}, {'lhn wYi', 'lmw wyh', 'LMi WYE', 'lnn weW', 'Hlin ewei'}, {'lhm wyo', 'Lmy WYU', 'lHn wYi', 'liln Awei', 'lnn weE'}, {'hlin Iwei', 'lln wew', 'lhn wyi', 'lnm wyo', 'Lmm WYH'}, {'Lhm Wyo', 'lhn wYi', 'Ulin Owei', 'lmi wyu', 'lLn wew'}, {'elin Iwei', 'LMY WWY', 'lmn wYi', 'lmo wye', 'lWn wey'}, {'lmi wyu', 'Hlin hwei', 'lhn wyi', 'lwn wee', 'Lmw Wye'}, {'LMy Wwy', 'lWn weY', 'lHn wYi', 'lmi WYi', 'olin ewei'}, {'LMy Whh', 'ilin owei', 'lHn wyi', 'lmy wyI', 'lLn wey'}, {'lmn wYi', 'Elin Owei', 'LMn WYi', 'lYn wew', 'LNH Wyu'}, {'lWn weY', 'lhn wyi', 'LMN Wwy', 'lnm wyw', 'Hlin ewei'}, {'olin owei', 'lmn wYi', 'LHN WHH', 'lwn weE', 'Lhn Wyi'}, {'lmn wyi', 'lnn weE', 'liln awei', 'LMN WYe', 'Lhn Wyi'}, {'lhn wYi', 'Elin iwei', 'LMi Wyh', 'lYn wew', 'lme wyo'}, {'lwn wey', 'lmh wye', 'lnin Ewei', 'lHn wyi', 'LNH WYh'}, {'LMw WHh', 'lmn wYi', 'lym WYi', 'ulin hwei', 'lnn weY'}, {'lNn wey', 'Alin awei', 'lHn wYi', 'Lmw WYe', 'lhm wyh'}, {'Olin awei', 'lhn wyi', 'LMi WWY', 'lYn wey', 'llm wya'}, {'Lhn wyh', 'LNH WYh', 'hlin awei', 'lHn wYi', 'lnn wew'}, {'lmi wyy', 'liln ewei', 'LHN Wyu', 'lHn wyi', 'lLn weY'}, {'lym wyy', 'lhn wYi', 'ilin Hwei', 'LHM WYH', 'lnn weE'}, {'lmn wyi', 'Ilin Hwei', 'lym wyo', 'lwn wew', 'LHm WWY'}, {'lnm wya', 'Olin awei', 'lWn weY', 'lhn wyi', 'LMI WYh'}, {'Lmn wye', 'elin Awei', 'Lmy WWy', 'lHn wYi', 'lYn wee'}, {'lmi wwy', 'lmin Awei', 'lHn wyi', 'lYn wey', 'LNH WYU'}, {'lmn wyi', 'LMN WHH', 'lhN wwy', 'ulin Ewei', 'lnn weW'}, {'lhn wyi', 'Olin Owei', 'lYn wey', 'Lmn wwy', 'LNh Wyw'}, {'lhn wYi', 'lwn wey', 'LMn wyw', 'ulin Hwei', 'Lmi WYW'}, {'lme wyu', 'lmn wYi', 'lwn weE', 'LHm WHh', 'lnin ewei'}, {'alin owei', 'LMn wwy', 'LHm WYw', 'lWn wew', 'lHn wYi'}, {'LMW WHh', 'lHn wyi', 'Elin awei', 'lLn wey', 'lym wya'}, {'lhn wYi', 'lWn wee', 'Lmn whh', 'hlin hwei', 'LMy WWY'}, {'lhn wYi', 'lwn wey', 'lmw wyw', 'ulin owei', 'LMI Wye'}, {'hlin uwei', 'Lmi WHh', 'lHn wyi', 'lnm wwy', 'lnn weE'}, {'LMw WYE', 'lmn wyi', 'lnin uwei', 'lmo wwy', 'lnn wew'}, {'lmn wYi', 'LHM WYu', 'lmo wye', 'lnin Hwei', 'lLn wey'}, {'lhn wYi', 'alin awei', 'Lnh WYw', 'lLn weE', 'lhm wyw'}, {'lln wee', 'lmn wyi', 'Olin Awei', 'Lmm WWY', 'lwm wyy'}, {'lhn wYi', 'LMI Wyw', 'lyn wey', 'ilin Owei', 'LMn wyh'}, {'LMw WYw', 'lHn wYi', 'lmu wyI', 'lNn weW', 'olin ewei'}, {'lhn wyi', 'LHn Wyi', 'Alin awei', 'Lnh WHh', 'lnn wew'}, {'lNn wey', 'lmh wye', 'lmin Iwei', 'lHn wyi', 'LMN Wyu'}, {'lhn wYi', 'LMn wwy', 'lwn weY', 'LHM WHH', 'alin Owei'}, {'lWn weW', 'lmn wyi', 'Alin Uwei', 'LMW Wye', 'lmh wwy'}, {'lYn weW', 'lhn wYi', 'Olin Owei', 'LMi Whh', 'lnm wyo'}, {'LHM WWy', 'Alin Iwei', 'lhn wyi', 'lnn wee', 'lhm WYi'}, {'lhn wyi', 'lmh wyh', 'lyn wew', 'Lmw WWy', 'ilin iwei'}, {'lWn weW', 'lhn wyi', 'LMN Wyh', 'Ilin awei', 'LMn wyu'}, {'lLn wee', 'lmw wyh', 'lHn wYi', 'LMw Wye', 'ulin Hwei'}, {'lmy wyu', 'Lmi WYI', 'lHn wyi', 'lln wey', 'lmin Owei'}, {'alin iwei', 'lhn wYi', 'lWn wew', 'Lhn wye', 'Lhm WWy'}, {'LMi WWy', 'lhm wyI', 'liln uwei', 'lHn wyi', 'lwn wee'}, {'lhn wYi', 'lWn weW', 'Lmm WYE', 'lmi wyo', 'lmin hwei'}, {'lhn wYi', 'Elin Iwei', 'lNn wee', 'lwm wyI', 'LMM WYU'}, {'lhn wYi', 'lma Wyi', 'lln weE', 'Lhm WYH', 'olin Awei'}, {'lhn wYi', 'LHM WYI', 'lWn weY', 'Lmn wya', 'ilin iwei'}, {'lmn wYi', 'Ulin Awei', 'lhN wyw', 'lln weY', 'LMi WYu'}, {'LHN WYH', 'lhn wyi', 'lwm wyI', 'lyn wew', 'olin uwei'}, {'lhn wYi', 'lwn wey', 'LNh WYu', 'lnh wyu', 'hlin owei'}, {'lhn wYi', 'lwm whh', 'LMw Wyo', 'lYn wew', 'Hlin iwei'}, {'Elin Hwei', 'lHn wyi', 'LHn wyh', 'Lmy Wyw', 'lLn weW'}, {'Ulin Uwei', 'LNh WYU', 'lnh wyw', 'lHn wYi', 'lnn wew'}, {'lHn wYi', 'Olin Hwei', 'LMw Wyu', 'lln wew', 'lmy wyy'}, {'lmh wya', 'Alin Awei', 'LHm WYw', 'lHn wYi', 'lYn weE'}, {'lNn wey', 'lhn wyi', 'LMW WYI', 'ilin Ewei', 'lnh Wyi'}, {'Lmw Wyw', 'lhn wYi', 'lwn wey', 'lmm wyu', 'Hlin iwei'}, {'lmn wYi', 'lym wwy', 'Olin Owei', 'lYn wew', 'Lmi WYu'}, {'LNh WYw', 'lwn weY', 'Ulin Uwei', 'lHn wyi', 'LHn wyo'}, {'Lmm WHh', 'lmn wYi', 'lmin iwei', 'lmu wyw', 'lLn weY'}, {'lWn wee', 'lmn wyi', 'llm wyI', 'LMW Wyh', 'elin Owei'}, {'LHm Whh', 'lln weE', 'lhn wyi', 'lmu wyo', 'ilin Awei'}, {'LHM WHH', 'lHn wyi', 'lLn wee', 'Lmn wyw', 'Ulin ewei'}, {'elin awei', 'lmi wyu', 'lhn wyi', 'LMI Whh', 'lLn wey'}, {'lwn wey', 'Ilin Ewei', 'lmn wyi', 'lmm wyu', 'LHM WYe'}, {'alin uwei', 'LMw Wwy', 'lHn wyi', 'lNn wee', 'Lhn WYi'}, {'lWn weY', 'lmn wYi', 'liln Uwei', 'lnm wyy', 'LHM Wyu'}, {'lhn wYi', 'LMY WYE', 'lma Wyi', 'Hlin hwei', 'lln weY'}, {'lmn wyi', 'lnn wey', 'Hlin Uwei', 'lmo WYi', 'Lmy Wyw'}, {'LHn wyu', 'lwn weY', 'lmn wYi', 'elin Uwei', 'LMN WYe'}, {'lWn weW', 'Elin hwei', 'LMw WHh', 'lmw Wyi', 'lHn wyi'}, {'lln wee', 'LMm WYU', 'Lmn wya', 'lHn wYi', 'liln awei'}, {'LMM Whh', 'liln hwei', 'lhn wyi', 'lLn wee', 'LHn wyw'}, {'lmn wyi', 'LMI WWY', 'lyn wew', 'lmw wye', 'ulin Hwei'}, {'LMi Wwy', 'lmn wyi', 'Olin awei', 'LMn wyI', 'lYn wew'}, {'lmn wyi', 'Ulin awei', 'LHM Wyh', 'lln wey', 'Lhn wyo'}, {'lhN wya', 'lhn wyi', 'LHM Wyh', 'hlin hwei', 'lNn wew'}, {'lhn wyi', 'lmin iwei', 'lnn wew', 'Lmn whh', 'LHM WYE'}, {'lhn wYi', 'alin Owei', 'lLn wee', 'LMm WYH', 'LHn wyI'}, {'Lmw Wyh', 'lma wyo', 'lhn wyi', 'lmin Iwei', 'lwn wee'}, {'LMM WYu', 'lhn wyi', 'lnm whh', 'ilin awei', 'lNn wew'}, {'LHM WYW', 'lnn wee', 'Lhn wyy', 'lHn wyi', 'hlin owei'}, {'lhn wyi', 'Lmi WYI', 'ilin owei', 'lhm wya', 'lWn wew'}, {'lwn weW', 'hlin iwei', 'lHn wYi', 'Lmn wwy', 'LNh WWY'}, {'lmin owei', 'lmn wYi', 'LHN Wwy', 'lmi wyh', 'lwn weE'}, {'lhn wYi', 'ulin ewei', 'LHn Wyi', 'LHm WYH', 'lNn weW'}, {'lWn weY', 'lmn wYi', 'ilin iwei', 'LMM WYE', 'lwm wyy'}, {'lln wee', 'lmm wyu', 'lmn wYi', 'lmin Awei', 'Lmw WHH'}, {'alin ewei', 'lhn wyi', 'lnn wee', 'LMi WWY', 'lhN wyy'}, {'Lmn wyI', 'ilin Hwei', 'lhn wyi', 'LHM WYH', 'lLn weE'}, {'LNh WYW', 'lhm wyo', 'olin Ewei', 'lmn wYi', 'lLn weW'}, {'lmu WYi', 'lmn wyi', 'lWn weY', 'lnin Hwei', 'Lnh WYH'}, {'lnh wyo', 'Olin Iwei', 'lmn wYi', 'LHM WHH', 'lLn wee'}, {'LMM WYH', 'lNn wey', 'Elin Uwei', 'lhn wyi', 'lwm wyw'}, {'lhn wyi', 'Olin Uwei', 'LMW WWy', 'lyn weW', 'lwm wyy'}, {'lme wyI', 'lhn wyi', 'lnin owei', 'lln weW', 'LMN Wyh'}, {'lhn wyi', 'lnn wey', 'lnin Hwei', 'lme wyh', 'Lmm WYU'}, {'Hlin uwei', 'lhn wyi', 'LNH WYI', 'lln wey', 'lmo wyo'}, {'Lmi WWy', 'lNn weE', 'lma wyh', 'lHn wYi', 'Ilin Owei'}, {'lhn wYi', 'lmin owei', 'lma WYi', 'lYn weE', 'LHm Wyh'}, {'lmo wyu', 'Elin awei', 'lHn wYi', 'LMm Wyo', 'lnn weE'}, {'lwn weW', 'lmn wyi', 'ulin Awei', 'lym wyw', 'LHm WYh'}, {'lmn wyi', 'ilin owei', 'LHN WHh', 'lnn wey', 'lhN whh'}, {'lmh wyu', 'lhn wyi', 'ilin Ewei', 'LMm WYW', 'lNn wew'}, {'LMM Wye', 'lnh wya', 'lmin awei', 'lHn wYi', 'lLn wew'}, {'lmh wyo', 'LMI WYE', 'Olin hwei', 'lHn wYi', 'lNn wew'}, {'lhn wYi', 'lyn weY', 'llm wyo', 'Lhm WYh', 'ulin Ewei'}, {'lhn wYi', 'lln weE', 'Olin hwei', 'lhN wyw', 'LMN Wyo'}, {'Ilin Ewei', 'Lhn wwy', 'lmn wYi', 'lwn wew', 'Lmy Wye'}, {'lhm wye', 'lmn wYi', 'lnn weY', 'Elin ewei', 'Lmy Wwy'}, {'Ilin Awei', 'lmn wYi', 'Lhn wyI', 'lYn wee', 'LMw Wye'}, {'Ilin Awei', 'lme wyI', 'lhn wyi', 'Lmi Wyw', 'lLn wew'}, {'lhn wYi', 'olin iwei', 'Lmy Wyw', 'lnn wew', 'lmh wyI'}, {'lmh wwy', 'lHn wyi', 'lLn wee', 'LHm WYU', 'elin uwei'}, {'lmh wye', 'lmn wYi', 'lln weW', 'alin Ewei', 'LMy WYI'}, {'LMN WYh', 'lhn wyi', 'lLn weE', 'hlin hwei', 'lmw wye'}, {'lmn wYi', 'Ulin Uwei', 'lmw wwy', 'LHM WYh', 'lNn wew'}, {'lYn weW', 'lhN wya', 'lmn wyi', 'LMw Whh', 'Hlin Ewei'}, {'Lmn wyh', 'lHn wyi', 'lNn wee', 'Lmm WYI', 'Ilin owei'}, {'lmn wyi', 'lmw wyu', 'LNh WHh', 'lNn weW', 'olin uwei'}, {'lmn wYi', 'LMw WYw', 'Lmn whh', 'lWn wew', 'ilin Awei'}, {'lhn wyi', 'LHm WYe', 'lYn weE', 'lym whh', 'Ulin Iwei'}, {'Elin Hwei', 'LMy WYU', 'lhn wyi', 'lwn wee', 'lnh wyI'}, {'alin Awei', 'Lhm WYH', 'lHn wYi', 'lln weY', 'Lhn Wyi'}, {'Lmw Wyo', 'alin Awei', 'lmi wyy', 'lmn wYi', 'lyn weW'}, {'lmn wYi', 'LHM WYu', 'lmy wyw', 'lYn wey', 'ulin uwei'}, {'lln weE', 'lhn wyi', 'LMM Wyo', 'lmi wyh', 'Hlin ewei'}, {'lhn wyi', 'lyn wew', 'LNH WWY', 'Olin uwei', 'lme wye'}, {'ulin Owei', 'lmn wyi', 'LMI Wyo', 'Lmn wyy', 'lln wew'}, {'lHn wyi', 'LMi WYU', 'elin Hwei', 'lmu wyw', 'lln weY'}, {'lmw wyw', 'lyn weE', 'lhn wyi', 'LMy WYI', 'Ilin ewei'}, {'hlin Iwei', 'lyn wey', 'LMY WHh', 'lHn wYi', 'lmo WYi'}, {'lwn weY', 'LNh WYH', 'ulin uwei', 'lHn wYi', 'lmm WYi'}, {'lhn wYi', 'liln ewei', 'lyn wey', 'LHn wya', 'Lmw WWy'}, {'lmn wyi', 'lyn weE', 'Alin Uwei', 'lhm wye', 'LMw WHH'}, {'lWn weE', 'lmn wyi', 'LNH Whh', 'Olin iwei', 'lhN wyy'}, {'Ulin owei', 'lhN wwy', 'lHn wyi', 'LMN WYW', 'lLn wey'}, {'Lmm WHh', 'lYn weW', 'lmn wYi', 'Ulin awei', 'lmo wya'}, {'lhn wYi', 'lwn wey', 'lnh wya', 'Lnh WYI', 'elin ewei'}, {'lhn wYi', 'ulin Owei', 'LMY WYE', 'lme WYi', 'lLn weE'}, {'Olin Iwei', 'Lmi Wwy', 'lmn wYi', 'lyn wey', 'llm wwy'}, {'lhn wYi', 'LHn whh', 'LHN WYh', 'lnn weW', 'lmin Owei'}, {'lhn wYi', 'alin iwei', 'lmi wyw', 'lyn wew', 'LMi WYu'}, {'lyn weE', 'LMY Wyw', 'lHn wYi', 'lmm wyI', 'ilin Awei'}, {'lma Wyi', 'lHn wyi', 'lLn wee', 'Elin Awei', 'Lmw WHH'}, {'LMI WWY', 'lmn wYi', 'lma WYi', 'lyn wew', 'lnin Hwei'}, {'Lhn whh', 'LNH Wwy', 'lhn wyi', 'Hlin Iwei', 'lyn weW'}, {'Lmw WYW', 'lyn weY', 'ulin Iwei', 'lHn wYi', 'lwm wyy'}, {'lmn wyi', 'ilin Ewei', 'lmi wye', 'lLn wew', 'Lhm Wye'}, {'lmw wyw', 'hlin Ewei', 'lNn weY', 'lHn wyi', 'Lhm Wwy'}, {'lhn wYi', 'Lmy WYE', 'lhN wwy', 'olin Awei', 'lYn wee'}, {'LHN WYH', 'LMn wyI', 'lHn wyi', 'Ulin iwei', 'lln weY'}, {'alin iwei', 'lwm wyu', 'lmn wyi', 'LMM WYu', 'lLn weW'}, {'lym wye', 'lmin owei', 'lhn wyi', 'LMI WYI', 'lyn wee'}, {'lmn wyi', 'Alin Uwei', 'LMN WYh', 'lNn weE', 'lme wyy'}, {'lmy wyw', 'Hlin ewei', 'lHn wYi', 'lLn wew', 'LNH WYW'}, {'LMN WYu', 'alin ewei', 'lmn wYi', 'lwn wew', 'lym wyh'}, {'lhn wyi', 'Ulin Uwei', 'lNn weY', 'lmy WYi', 'LHM Wye'}, {'lhn wYi', 'alin ewei', 'lmw WYi', 'Lmm WYH', 'lNn wew'}, {'LMY WYE', 'lhn wyi', 'lmi Wyi', 'olin Iwei', 'lYn wey'}, {'lhn wYi', 'lyn weE', 'LMW WYI', 'liln iwei', 'lmh wyw'}, {'lln wee', 'LMM Wyw', 'lme whh', 'liln uwei', 'lHn wYi'}, {'lmn wyi', 'LHM WYI', 'lmh wyu', 'lmin Iwei', 'lLn weY'}, {'Lhn wyy', 'lHn wyi', 'ulin Iwei', 'lwn wee', 'Lmy Wyu'}, {'lhn wYi', 'LNh WYh', 'Hlin Owei', 'lwn wee', 'lme wyo'}, {'lmn wyi', 'ulin Uwei', 'lhN whh', 'LMw Wyu', 'lln weY'}, {'lhm Wyi', 'lhn wyi', 'elin Uwei', 'lLn weW', 'LMw WYu'}, {'lmn wYi', 'lmy wyw', 'Elin ewei', 'Lnh WHH', 'lln weY'}, {'Lnh WYw', 'lHn wyi', 'lnn weY', 'lme wyo', 'elin Owei'}, {'lma wyo', 'lnn wey', 'lHn wYi', 'ulin iwei', 'Lmw Wyu'}, {'LHm Whh', 'Ulin awei', 'lnn wey', 'lHn wyi', 'lmi wyI'}, {'lwn wey', 'alin hwei', 'lnm wyh', 'lHn wyi', 'LMy Wyw'}, {'Lhn whh', 'lHn wyi', 'Lmy Wyo', 'lYn wee', 'Olin Ewei'}, {'lmm Wyi', 'lhn wYi', 'olin owei', 'LMM WYh', 'lNn weE'}, {'lWn wee', 'hlin iwei', 'Lhm WYU', 'lHn wYi', 'lnh wyy'}, {'lhn wyi', 'ilin owei', 'LHn WYi', 'Lmw WYu', 'lyn weW'}, {'lyn weY', 'olin hwei', 'lHn wyi', 'LMM Wyo', 'lhm wyu'}, {'lwm wyh', 'lHn wYi', 'liln awei', 'lNn wew', 'LMw WYe'}, {'lhn wYi', 'LMI WYE', 'Lhn wyy', 'liln uwei', 'lLn weW'}, {'lWn weY', 'lhn wyi', 'lhN wyo', 'Lmi WYH', 'lmin Awei'}, {'lhn wYi', 'olin Ewei', 'lLn wee', 'LHM Wyu', 'lhm wyh'}, {'lhn wyi', 'liln uwei', 'LHN WYu', 'lYn wee', 'lma wye'}, {'LHn wyu', 'LMM WYu', 'Olin Iwei', 'lHn wyi', 'lLn weE'}, {'lhn wYi', 'lwn weY', 'hlin iwei', 'lym wwy', 'LMI WYH'}, {'lnn wey', 'lHn wyi', 'hlin ewei', 'Lhm WWy', 'lma wye'}, {'lhn wYi', 'LMi WYI', 'lNn wey', 'Olin iwei', 'LHn wyh'}, {'lYn weW', 'LMM WYH', 'lmn wYi', 'llm wwy', 'ulin iwei'}, {'lmw wyo', 'lHn wYi', 'Ilin awei', 'Lhm WYE', 'lyn weW'}, {'lhn wyi', 'lma wyI', 'Lmi Wyu', 'Alin Hwei', 'lNn weW'}, {'lWn wee', 'lmh wye', 'lhn wyi', 'LMN Whh', 'ilin iwei'}, {'Alin Uwei', 'lmn wYi', 'lYn wey', 'lmi wyh', 'LMW Wyw'}, {'lyn weY', 'lmn wYi', 'Lmw WWY', 'lnm wyy', 'alin Iwei'}, {'LMW Wye', 'lhn wyi', 'ilin Uwei', 'lmu wyI', 'lLn wew'}, {'lmn wyi', 'LMn WYi', 'lnn weY', 'Hlin Ewei', 'LMW Wyh'}, {'lhn wYi', 'LMI Wyo', 'lmy wwy', 'lwn wew', 'Alin iwei'}, {'lmn wYi', 'Ulin Awei', 'Lmi Wyw', 'lnn weW', 'llm wyI'}, {'olin awei', 'LMY WWY', 'lmn wYi', 'lNn wee', 'lme wya'}, {'lmn wYi', 'liln Iwei', 'LMM Wwy', 'lyn weW', 'lme wyw'}, {'Ilin Awei', 'Lhm WYH', 'lnn weY', 'lHn wYi', 'LMn wyu'}, {'lyn weY', 'lmu wyy', 'lmn wYi', 'Ulin Iwei', 'LNH WYU'}, {'liln hwei', 'lWn weY', 'LHm Wwy', 'lHn wYi', 'lme wye'}, {'lma wya', 'lHn wyi', 'lLn weE', 'Elin Awei', 'LNH WYU'}, {'lwm wyu', 'Ulin iwei', 'lHn wyi', 'LNh WYH', 'lWn wey'}, {'lhn wYi', 'lYn wey', 'hlin Awei', 'lmo wya', 'Lmw WHH'}, {'lmn wYi', 'liln Iwei', 'lnh wyh', 'lYn weY', 'Lmm WYH'}, {'Alin Iwei', 'lmn wYi', 'Lnh Wyw', 'llm Wyi', 'lNn wew'}, {'lln weE', 'ulin Awei', 'lHn wyi', 'LMN Wwy', 'Lmn wyo'}, {'lhn wyi', 'liln ewei', 'lYn wew', 'lnm wyo', 'LMY Wwy'}, {'Lhm WYu', 'lHn wYi', 'lLn weY', 'Alin Owei', 'llm wyy'}, {'Hlin Hwei', 'lwn weY', 'lmn wYi', 'LMn wyh', 'Lmy WYh'}, {'lhn wYi', 'LMy WWy', 'lwm WYi', 'lnn weW', 'olin uwei'}, {'lhn wYi', 'Hlin uwei', 'Lmi Whh', 'lNn weE', 'lmi wyI'}, {'lhn wYi', 'lmm wyo', 'Ilin awei', 'lYn wee', 'LMM WYE'}, {'lhn wYi', 'lmo wyw', 'Hlin Awei', 'Lmm Wye', 'lwn wee'}, {'lwn weY', 'lnm wyh', 'LMm WYE', 'lHn wYi', 'lnin awei'}, {'lmn wyi', 'LMY Wyh', 'lnn wee', 'olin hwei', 'lme wyy'}, {'lmn wYi', 'Olin Owei', 'lmm wyw', 'lLn wey', 'LMi Wye'}, {'Lmw WYU', 'lmin Awei', 'lHn wYi', 'lWn wey', 'LMn wyh'}, {'LMw WYI', 'alin hwei', 'lhm wye', 'lNn weE', 'lhn wyi'}, {'LHM WWY', 'lnn wey', 'Ulin iwei', 'lHn wYi', 'LMn wyh'}, {'lNn weE', 'LMI WYE', 'lmn wYi', 'liln owei', 'lnh wwy'}, {'lhn wYi', 'lWn weW', 'liln hwei', 'lhm wye', 'LNH WYh'}, {'lhn wYi', 'LNH WHH', 'elin Hwei', 'lNn wew', 'lwm wyy'}, {'Ilin hwei', 'LMn wwy', 'lnn wee', 'lHn wyi', 'LHm WYI'}, {'lnin Owei', 'lln weE', 'lmn wYi', 'LMw WYw', 'lmw wye'}, {'lln wee', 'lnin Uwei', 'lHn wYi', 'LHn wyI', 'LMw WYU'}, {'lWn weE', 'lhn wyi', 'LMW WYW', 'Elin awei', 'LHn WYi'}, {'lhn wyi', 'Lhn wya', 'olin iwei', 'lnn weW', 'LMi WHH'}, {'lwn wey', 'LMy Wyu', 'liln ewei', 'lHn wyi', 'llm wyw'}, {'lhn wyi', 'LMw Wyo', 'Alin uwei', 'Lmn wyo', 'lLn weW'}, {'lmh wyo', 'Lnh WYw', 'lmn wYi', 'liln owei', 'lwn wee'}, {'LMI WYU', 'lmh wyy', 'alin Ewei', 'lHn wYi', 'lWn wey'}, {'lmn wyi', 'Elin Hwei', 'lmw wyy', 'lln weW', 'LHm WYU'}, {'lmo wya', 'LMw WHh', 'lhn wyi', 'lwn wee', 'Ilin owei'}, {'lnh wye', 'lwn weY', 'lmn wYi', 'LMN WYW', 'Alin owei'}, {'lhN wyh', 'lln wey', 'lHn wYi', 'olin Uwei', 'Lhm Wye'}, {'lmn wYi', 'LNh WYU', 'lnm Wyi', 'Ulin Hwei', 'lln weY'}, {'LHM WWy', 'lhn wyi', 'liln uwei', 'lhm wyu', 'lwn weE'}, {'lhn wyi', 'lyn wey', 'LMw Whh', 'hlin ewei', 'LHn wyI'}, {'lmn wyi', 'lwn weY', 'lmo wyy', 'ulin Awei', 'Lmw WYH'}, {'LMi WYI', 'lma wya', 'Elin Owei', 'lHn wyi', 'lLn weW'}, {'lme whh', 'LMY WWy', 'lHn wYi', 'elin ewei', 'lwn weE'}, {'lhn wYi', 'lln weW', 'ulin Iwei', 'lmo wyh', 'LMW WYh'}, {'LHM WYU', 'lmn wYi', 'lYn wew', 'lmy wya', 'elin uwei'}, {'Lmm WWY', 'lmn wYi', 'lnn wee', 'Ulin iwei', 'LHn wye'}, {'Lmi WHh', 'lmn wYi', 'lym Wyi', 'lmin uwei', 'lYn weY'}, {'lln weE', 'lmn wYi', 'lmin uwei', 'lhN wyu', 'Lmm Wye'}, {'alin Awei', 'lym wyw', 'lHn wYi', 'lwn wew', 'Lmw Wwy'}, {'lhn wYi', 'lnn wee', 'ilin Ewei', 'lym wyI', 'LHm WYI'}, {'lmn wYi', 'lma wyh', 'LMN WYW', 'Ilin uwei', 'lln weY'}, {'lNn wey', 'lHn wyi', 'elin Hwei', 'Lmm WYI', 'lmi wya'}, {'lNn wey', 'lmn wYi', 'LMM WYW', 'olin Uwei', 'llm wyh'}, {'lmn wyi', 'LMI Wyo', 'Olin Owei', 'lYn wey', 'LHn WYi'}, {'hlin uwei', 'lyn weY', 'lHn wyi', 'lnm wyy', 'LHm WYu'}, {'lhn wyi', 'lme wwy', 'ulin Ewei', 'LMW WHH', 'lNn weW'}, {'ulin Owei', 'lmo wyI', 'lWn weY', 'lHn wyi', 'LNh Wye'}, {'Lmw Wyo', 'lmn wYi', 'lmm wyh', 'lLn weY', 'olin ewei'}, {'Hlin Hwei', 'lmn wyi', 'llm Wyi', 'lNn wee', 'Lmm Wyw'}, {'lyn weE', 'lmn wYi', 'LHM Wyh', 'lym wyI', 'elin Owei'}, {'lnn wee', 'lHn wyi', 'LNh WYH', 'Olin Hwei', 'lma wyy'}, {'lwn wey', 'lmn wyi', 'Lmi WWy', 'lhm wyI', 'olin iwei'}, {'lmm wyy', 'lhn wyi', 'Lhm WYH', 'Ulin hwei', 'lwn wee'}, {'LMY WYI', 'ilin Hwei', 'lhn wyi', 'lhN wye', 'lLn weW'}, {'lln wee', 'lmn wyi', 'LMI WYh', 'liln awei', 'lhm WYi'}, {'lmn wyi', 'LMn wya', 'liln Ewei', 'LHm WYH', 'lnn weE'}, {'Lmw WYW', 'lHn wyi', 'lmu wye', 'elin ewei', 'lLn wey'}, {'LMM Wye', 'lmn wYi', 'lmi wyh', 'lln wey', 'Alin hwei'}, {'lmn wyi', 'Lmy WYW', 'lnin hwei', 'lNn weY', 'lmy wyw'}, {'lNn wey', 'LMw WHh', 'lhn wyi', 'liln uwei', 'LHn wya'}, {'lmn wYi', 'ilin Owei', 'lnm WYi', 'lNn wew', 'Lmw Whh'}, {'lmn wyi', 'lnin Owei', 'lnn wey', 'LMM Wwy', 'lme wya'}, {'lYn weW', 'lhn wYi', 'Ulin owei', 'LMm WYE', 'lmu wyh'}, {'Hlin Iwei', 'lHn wyi', 'LHn wyo', 'lLn weE', 'LHN WYw'}, {'Alin Ewei', 'lhn wyi', 'LMm WYu', 'lwn wee', 'llm Wyi'}, {'lmn wyi', 'lhN wyw', 'Lmi WYw', 'Ilin ewei', 'lyn wee'}, {'Ilin hwei', 'Lmm WYu', 'lmn wYi', 'Lmn wyy', 'lLn wew'}, {'lmn wyi', 'lyn wey', 'liln iwei', 'lmi wyI', 'LNH WYW'}, {'lhn wYi', 'Hlin hwei', 'lmm wyo', 'lln wey', 'LMw WYU'}, {'lhn wyi', 'lmin Ewei', 'lYn wew', 'lmo WYi', 'LMN WYe'}, {'LMW Wye', 'lwm whh', 'lHn wyi', 'lyn wey', 'Alin hwei'}, {'llm wyo', 'liln Owei', 'LNH WYI', 'lHn wYi', 'lyn weW'}, {'lmn wYi', 'elin Uwei', 'Lhm WYh', 'lnn weW', 'lma wyy'}, {'lnh WYi', 'elin Uwei', 'lHn wyi', 'lyn wey', 'LMI Whh'}, {'lhn wYi', 'LHn wyu', 'Elin Ewei', 'Lhm WHh', 'lLn weW'}, {'lmw wyu', 'LNH WHH', 'lHn wyi', 'lLn wee', 'ilin ewei'}, {'lhn wYi', 'LMi WWy', 'lnh wyw', 'hlin hwei', 'lNn wew'}, {'LMW WHh', 'llm wyu', 'lhn wyi', 'lyn wey', 'lmin awei'}, {'lwn weW', 'liln Owei', 'Lmm WYu', 'lhn wyi', 'lme wya'}, {'Ulin Owei', 'lmn wYi', 'lYn wey', 'LHn wyw', 'LMY Wwy'}, {'lyn weY', 'lmm wyy', 'lhn wyi', 'liln awei', 'LNh WYI'}, {'lWn weE', 'Lmn wye', 'lnin iwei', 'lmn wyi', 'LHN Wyo'}, {'LMM Wye', 'lNn wey', 'lmn wyi', 'liln Uwei', 'lnm WYi'}, {'lmin ewei', 'Lmn Wyi', 'lyn wew', 'lHn wYi', 'Lmm Wyw'}, {'Elin Iwei', 'lhn wyi', 'LMw WWy', 'lnn weY', 'lma wyy'}, {'Lmn whh', 'lHn wYi', 'LHm Wyo', 'lNn wew', 'Alin Owei'}, {'lmn wYi', 'liln owei', 'lnm wyw', 'Lmy WYw', 'lLn wew'}, {'lwn wey', 'LHm Whh', 'lhn wyi', 'Elin iwei', 'lmy wya'}, {'lHn wyi', 'Lmi WYw', 'Elin Awei', 'lNn wew', 'lym wya'}, {'lyn weY', 'lhn wyi', 'LMn wyo', 'Lmy Wyw', 'ulin Uwei'}, {'lwm wyu', 'lhn wyi', 'Ulin uwei', 'lYn wey', 'LMm WYh'}, {'Hlin Hwei', 'lNn wey', 'lwm wyh', 'lhn wyi', 'LHm WYH'}, {'lmn wyi', 'Lhn wyh', 'Olin iwei', 'Lmm WYW', 'lnn weW'}, {'olin Iwei', 'lmm wyo', 'lHn wYi', 'Lnh Wyo', 'lnn weE'}, {'LMW WYU', 'lnm wye', 'lNn weY', 'olin Awei', 'lHn wYi'}, {'LMN WYI', 'lyn weY', 'llm wyu', 'lHn wYi', 'ulin Hwei'}, {'lmh Wyi', 'Olin ewei', 'lHn wyi', 'lLn weE', 'Lmm Wyh'}, {'LMN WYI', 'lma wwy', 'lyn weE', 'lHn wyi', 'liln owei'}, {'LHN Wye', 'lhn wyi', 'lWn wey', 'llm wyh', 'elin uwei'}, {'lmn wYi', 'Elin awei', 'Lmi Wyu', 'lLn weY', 'llm wyw'}, {'LMY WYW', 'lmn wYi', 'LHn wwy', 'lln wey', 'Alin owei'}, {'LMM WHh', 'lmm wya', 'lhn wyi', 'Olin hwei', 'lyn wew'}, {'lhn wYi', 'LMy WYE', 'alin hwei', 'LMn wyo', 'lNn wew'}, {'Ilin hwei', 'lNn wey', 'LMN Wyw', 'lmh Wyi', 'lHn wYi'}, {'lhn wYi', 'llm wyo', 'lyn wey', 'lnin Uwei', 'LMw Wyh'}, {'Lmy WYW', 'lmn wYi', 'Elin Owei', 'Lhn WYi', 'lNn weW'}, {'lln weE', 'lwm wyI', 'Lmm Wye', 'hlin awei', 'lHn wYi'}, {'lHn wyi', 'lnin Uwei', 'lnn weW', 'Lmm Whh', 'llm wyy'}, {'LMY Wyh', 'lhn wyi', 'lmm WYi', 'lYn wew', 'ulin Hwei'}, {'lnn wee', 'LMw WWy', 'lHn wyi', 'Hlin Ewei', 'lhm WYi'}, {'llm whh', 'lhn wyi', 'elin Uwei', 'lYn wee', 'LHM WYw'}, {'elin owei', 'lHn wyi', 'lWn wew', 'LHn wyI', 'LNH Wyu'}, {'lWn weE', 'lmn wYi', 'liln iwei', 'Lnh WHh', 'llm Wyi'}, {'hlin uwei', 'lNn wey', 'lmn wyi', 'lmo wyy', 'Lmi WYW'}, {'lNn wey', 'LMN WYu', 'lnin uwei', 'lmu Wyi', 'lHn wyi'}, {'Ilin iwei', 'LHM WYI', 'Lhn wwy', 'lmn wYi', 'lnn wee'}, {'LMN WYI', 'lmin ewei', 'lWn weY', 'lHn wYi', 'lmo wya'}, {'lmm wya', 'lmn wYi', 'LMy WYI', 'liln awei', 'lLn weW'}, {'Ilin Iwei', 'lyn weY', 'lhn wyi', 'lnh wyh', 'LMi Wye'}, {'lhn wYi', 'lmi wyI', 'lYn weE', 'Lnh Wyw', 'lnin ewei'}, {'lmn wYi', 'lmin uwei', 'lmy Wyi', 'lWn wew', 'LMN WYe'}, {'lln wee', 'llm wyo', 'hlin Hwei', 'lhn wyi', 'LNH Wyw'}, {'lNn wey', 'LNH WYH', 'alin owei', 'lHn wyi', 'lmw wwy'}, {'lhn wYi', 'lmi wwy', 'lwn weY', 'ulin Hwei', 'LMw WYh'}, {'lHn wyi', 'ilin Owei', 'lYn weE', 'lhN whh', 'LNh Wyw'}, {'alin iwei', 'lhn wYi', 'lwn weW', 'LMy WYE', 'lhN Wyi'}, {'lHn wyi', 'lNn wee', 'lmy WYi', 'ulin Iwei', 'Lmm Whh'}, {'LMy WYE', 'lln weE', 'lHn wYi', 'LHn wyh', 'ilin Iwei'}, {'lma wyo', 'lHn wyi', 'alin Ewei', 'LNH WHh', 'lwn weE'}, {'Hlin uwei', 'lNn wey', 'lmn wyi', 'Lmi WYh', 'lmu wyo'}, {'Ilin Awei', 'lhn wYi', 'LMM WYW', 'lYn wee', 'lmi wya'}, {'lhn wYi', 'lwn weW', 'lmh wyo', 'liln hwei', 'Lhm WHH'}, {'lhn wYi', 'LMi WWy', 'lwn weW', 'Lhn wyh', 'Ilin Owei'}, {'elin Iwei', 'lhn wyi', 'llm wwy', 'LMm Wyo', 'lLn weY'}, {'hlin Iwei', 'lhm wyo', 'LMw WYw', 'lHn wYi', 'lln weY'}, {'LHM WYI', 'lmn wYi', 'Lmn WYi', 'olin hwei', 'lYn weY'}, {'LMm Wyh', 'lmn wYi', 'lmw wye', 'Ilin uwei', 'lln wew'}, {'LMM Wyw', 'lmn wYi', 'alin Ewei', 'lYn wew', 'lmi WYi'}, {'lWn weW', 'lmn wyi', 'lmi wwy', 'LMY WHH', 'Ulin Iwei'}, {'lwm wya', 'lmn wyi', 'lWn weY', 'liln awei', 'Lmm Whh'}, {'lmo Wyi', 'lhn wyi', 'LMN Wyu', 'ilin Iwei', 'lnn weE'}, {'LNH Wye', 'lnin Iwei', 'lhn wyi', 'lYn wee', 'LHn wye'}, {'lmn wyi', 'alin ewei', 'lYn weY', 'lmu wyu', 'LMN Wyo'}, {'lwn weW', 'lhn wyi', 'LMn WYi', 'Lmm WWy', 'Ilin awei'}, {'LMi WYW', 'lmm wyy', 'lmn wYi', 'elin Uwei', 'lnn weE'}, {'lhn wYi', 'LMY Wye', 'lnh WYi', 'lln wey', 'lnin Hwei'}, {'lnn wee', 'liln Iwei', 'LMw WWy', 'lHn wYi', 'llm wyh'}, {'lmn wyi', 'lln weE', 'LMm WWY', 'LHn wya', 'elin uwei'}, {'lhn wYi', 'lwn wee', 'lmm WYi', 'olin uwei', 'LMw WYu'}, {'lmn wYi', 'elin Uwei', 'lhN wyu', 'lwn weE', 'LMY WYe'}, {'lhn wYi', 'LMy WYe', 'lmh wyy', 'lnn weW', 'Alin iwei'}, {'LHn wyu', 'lmn wyi', 'Alin Awei', 'LHm Wwy', 'lWn wey'}, {'lNn wey', 'LMy WYU', 'lnm wyI', 'lHn wyi', 'ilin Owei'}, {'lNn wey', 'Ulin Hwei', 'lHn wYi', 'Lmn wyu', 'LMY Wwy'}, {'lmm wye', 'alin owei', 'lWn wew', 'lHn wYi', 'LMM Wyh'}, {'Elin Iwei', 'lhn wyi', 'Lhm WYu', 'lLn wew', 'lmo wyo'}, {'lmn wyi', 'lnin Owei', 'lym wyw', 'lln wey', 'LMM Wyh'}, {'Olin awei', 'lhN wyo', 'LMi Wyh', 'lyn wey', 'lHn wYi'}, {'lhn wYi', 'Ulin Awei', 'Lhm WHH', 'lWn wew', 'lwm wyw'}, {'LHN Wye', 'Hlin uwei', 'lmh wwy', 'lmn wYi', 'lln weY'}, {'lyn weY', 'lma wyo', 'alin uwei', 'Lmw WWY', 'lHn wyi'}, {'LHm Wyu', 'olin owei', 'lyn weW', 'lHn wyi', 'lmm WYi'}, {'lmn wYi', 'liln uwei', 'lln weW', 'LNh Wye', 'LHn wyw'}, {'lhm wyo', 'LNH Whh', 'lhn wyi', 'alin Ewei', 'lln wey'}, {'elin awei', 'lHn wyi', 'LMY WHh', 'lhm wyw', 'lNn wew'}, {'Lmy WHH', 'lmo Wyi', 'lmn wYi', 'ulin Hwei', 'lnn wew'}, {'Elin Iwei', 'lhn wyi', 'LMY Wyo', 'LHn wya', 'lln wey'}, {'Elin Uwei', 'lHn wyi', 'LMy WYh', 'lmy wya', 'lWn wey'}, {'Lhn whh', 'lHn wyi', 'lLn wew', 'LHm WYu', 'Alin owei'}, {'lwn weW', 'lmh whh', 'Lmw WYu', 'lHn wYi', 'ilin iwei'}, {'lwn wey', 'lHn wyi', 'lmy Wyi', 'liln iwei', 'LMI WYH'}, {'lnin iwei', 'lmn wYi', 'Lmm WYI', 'lyn weW', 'lnh whh'}, {'lmn wyi', 'lmh wyy', 'LMm Wyu', 'lnn wey', 'ulin Uwei'}, {'olin Ewei', 'lhn wyi', 'LHN WHh', 'lmm wyw', 'lYn weY'}, {'lmy wyu', 'lnn wee', 'ulin Iwei', 'lHn wYi', 'Lmy WYw'}, {'Lmi Whh', 'Ulin Hwei', 'lmy Wyi', 'lHn wYi', 'lLn weY'}, {'lhn wYi', 'lNn wee', 'liln owei', 'lhN WYi', 'Lmw Wwy'}, {'Lmy WHh', 'lhn wyi', 'lma WYi', 'Hlin Iwei', 'lln weY'}, {'lmn wYi', 'Lhm WHH', 'hlin ewei', 'LHn wye', 'lNn weW'}, {'LNh WHH', 'Lhn wya', 'lmin Awei', 'lHn wyi', 'lLn weW'}, {'lWn weE', 'Lmw Wyo', 'alin uwei', 'lhn wyi', 'llm wyh'}, {'lmin owei', 'LMn Wyi', 'lnn wee', 'lHn wYi', 'LMI Wwy'}, {'lmn wyi', 'lmw wyu', 'LMM WYe', 'Alin awei', 'lnn weY'}, {'lwn weW', 'liln hwei', 'lhn wyi', 'LMi WYE', 'Lhn wyo'}, {'lmn wYi', 'LMm WWY', 'Ulin owei', 'lme WYi', 'lln wew'}, {'Hlin hwei', 'lHn wYi', 'lYn weE', 'LNh Wyw', 'lnh wyI'}, {'LNH Wye', 'alin ewei', 'lmn wYi', 'lYn wew', 'lnh wyh'}, {'lyn weY', 'lmo Wyi', 'lHn wyi', 'lmin awei', 'LMW WHH'}, {'lnm wya', 'lnn weE', 'lHn wYi', 'lmin Uwei', 'Lmy WYh'}, {'lmw wyw', 'lmn wYi', 'Alin awei', 'LHm WYu', 'lnn weE'}, {'lmn wyi', 'Lmw Wyh', 'lnm WYi', 'lWn wey', 'olin uwei'}, {'LHM WHH', 'lhn wyi', 'alin Iwei', 'lmu wwy', 'lyn wee'}, {'lhn wYi', 'lWn wee', 'LHM WWY', 'liln uwei', 'lmw wya'}, {'Ilin Awei', 'lme wyu', 'lmn wYi', 'LMw Wwy', 'lLn weE'}, {'lhn wYi', 'LMI WYe', 'LHn wwy', 'lnn weW', 'Alin owei'}, {'lHn wYi', 'LNh Wye', 'lmm wyw', 'ilin Awei', 'lln weY'}, {'lmn wyi', 'Olin owei', 'Lhn wyy', 'lnn wey', 'LHm WYU'}, {'lmn wyi', 'alin Hwei', 'lln weE', 'lnh Wyi', 'LHN WHH'}, {'Lmy WHH', 'lhn wYi', 'LMn WYi', 'Ulin ewei', 'lNn weW'}, {'lhn wyi', 'lhN wyw', 'LMm WYH', 'lyn wee', 'lmin hwei'}, {'lNn wee', 'lmm whh', 'liln iwei', 'Lnh Wyh', 'lHn wYi'}, {'lnin iwei', 'Lmy WYU', 'lmn wYi', 'lmu wya', 'lNn weW'}, {'Alin Ewei', 'LMi WYW', 'lHn wYi', 'lmu wyh', 'lln weY'}, {'Ilin Awei', 'lhn wYi', 'lln weY', 'lme WYi', 'LHM WHh'}, {'Ilin hwei', 'lwn weY', 'lmy Wyi', 'Lmi Wyo', 'lHn wYi'}, {'lmin owei', 'lWn wew', 'lHn wYi', 'LHM Wyu', 'LHn wyy'}, {'lhn wYi', 'Lnh Wwy', 'lNn weE', 'olin hwei', 'llm wya'}, {'LMN WWY', 'lme wyI', 'lmn wyi', 'ilin Hwei', 'lNn wew'}, {'Lmy WHH', 'ulin Owei', 'lmn wYi', 'lmo wye', 'lyn wee'}, {'lwn weW', 'lnin Owei', 'lnm wye', 'LHN WYU', 'lHn wYi'}, {'lWn weW', 'lnin uwei', 'lhn wyi', 'LHn wya', 'LMN Whh'}, {'Ilin hwei', 'lmn wYi', 'lnn wee', 'LMN WYw', 'lhm wya'}, {'lhn wyi', 'Ulin owei', 'Lmy WWY', 'lhN WYi', 'lWn wey'}, {'lmn wyi', 'lwm wyh', 'elin Ewei', 'Lnh Wyh', 'lLn weY'}, {'lwm wya', 'lln weE', 'lhn wyi', 'Ulin iwei', 'Lnh WYH'}, {'LMY WYW', 'lhn wyi', 'lmw wyy', 'Ulin uwei', 'lLn wew'}]
+lin wei             : DEBUG: Additional rule variations: {'li nwei'}
+lin wei             : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 6
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "lin wei": {
+            "first_name": {
+                "score": 0.8432247904142104,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.5599999999999999,
+                        "orthographic": 0.98,
+                        "combined": 0.77
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.08,
+                        "score": 0.9748319360947364
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 0.9
+                    },
+                    "variations": [
+                        {
+                            "variation": "lln",
+                            "phonetic_score": 0.8483293207028395,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "LHM",
+                            "phonetic_score": 0.4215466938827284,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hlin",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.3333333333333333
+                        },
+                        {
+                            "variation": "LHn",
+                            "phonetic_score": 0.4215466938827284,
+                            "orthographic_score": 0.33333333333333337,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "lhn",
+                            "phonetic_score": 0.4215466938827284,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.7854794102568342,
+            "final_score": 0.8283835282054675,
+            "variation_count": 6,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.7412247904142104,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.21999999999999997,
+                        "orthographic": 0.98,
+                        "combined": 0.6
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.08,
+                        "score": 0.9748319360947364
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 0.9
+                    },
+                    "variations": [
+                        {
+                            "variation": "wey",
+                            "phonetic_score": 0.7049306988155033,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "WYw",
+                            "phonetic_score": 0.29935078540320964,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ewei",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.3333333333333333
+                        },
+                        {
+                            "variation": "wyI",
+                            "phonetic_score": 0.29935078540320964,
+                            "orthographic_score": 0.33333333333333337,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wyi",
+                            "phonetic_score": 0.29935078540320964,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "li nwei"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "li nwei": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.16666666666666666,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "lin wei": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "li nwei"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "li nwei": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.16666666666666666,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.8283835282054675,
+    "final_reward": 0.8283835282054675
+}
+lin wei             : DEBUG: ----------------------------------------------------------------------------------------------------

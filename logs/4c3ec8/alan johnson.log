@@ -1,0 +1,2228 @@
+alan johnson        : INFO: Generating variations for alan johnson
+alan johnson        : INFO: ----------------------------------------------------------------------------------------------------
+alan johnson        : INFO: Effective rules: ['shorten_name_to_initials', 'name_parts_permutations', 'duplicate_random_letter_as_double_letter']
+alan johnson        : INFO: ----------------------------------------------------------------------------------------------------
+alan johnson        : INFO: Min Required Rule Variation Set: [{'A.J.', 'a.j.', 'a. j.', 'Aj', 'AJ', 'A.j.', 'aJ', 'a. J.', 'A. j.', 'A. J.', 'aj', 'a.J.'}, {'johnson       alan', 'johnson  alan', 'johnson alan', 'johnson    alan', 'johnson      alan', 'johnson     alan', 'johnson         alan', 'johnson   alan', 'johnson          alan', 'johnson        alan'}, {'alan johhnson', 'aalan johnson', 'alan johnnson', 'alan johnsson', 'alan  johnson', 'alan joohnson', 'allan johnson', 'alan johnsonn', 'alann johnson', 'alan johnsoon', 'alan jjohnson', 'alaan johnson'}]
+alan johnson        : INFO: ----------------------------------------------------------------------------------------------------
+alan johnson        : INFO: First name: alan
+alan johnson        : INFO: Last name: johnson
+alan johnson        : INFO: ----------------------------------------------------------------------------------------------------
+alan johnson        : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8)]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 1 / 21: rule_count/nonrule_count: 0/1------------------------------
+alan johnson        : DEBUG: O: [0, 0, 0, 1]
+alan johnson        : DEBUG: P: [0, 0, 0, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [0, 0, 0, 1]
+alan johnson        : DEBUG: P: [0, 0, 0, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.26818561]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 2 / 21: rule_count/nonrule_count: 0/2------------------------------
+alan johnson        : DEBUG: O: [0, 1, 0, 1]
+alan johnson        : DEBUG: P: [0, 0, 1, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [0, 1, 0, 1]
+alan johnson        : DEBUG: P: [0, 0, 1, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.41822631]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 3 / 21: rule_count/nonrule_count: 0/3------------------------------
+alan johnson        : DEBUG: O: [0, 1, 0, 2]
+alan johnson        : DEBUG: P: [0, 0, 1, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [0, 1, 0, 2]
+alan johnson        : DEBUG: P: [0, 0, 1, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.43704025]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 4 / 21: rule_count/nonrule_count: 0/4------------------------------
+alan johnson        : DEBUG: O: [0, 2, 0, 2]
+alan johnson        : DEBUG: P: [0, 1, 2, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [0, 2, 0, 2]
+alan johnson        : DEBUG: P: [0, 1, 2, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.452]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 5 / 21: rule_count/nonrule_count: 1/3------------------------------
+alan johnson        : DEBUG: O: [0, 1, 0, 2]
+alan johnson        : DEBUG: P: [0, 0, 1, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [0, 1, 0, 2]
+alan johnson        : DEBUG: P: [0, 0, 1, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.50370692]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 6 / 21: rule_count/nonrule_count: 0/5------------------------------
+alan johnson        : DEBUG: O: [1, 3, 1, 0]
+alan johnson        : DEBUG: P: [0, 1, 3, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 3, 1, 0]
+alan johnson        : DEBUG: P: [0, 1, 3, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.56]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 7 / 21: rule_count/nonrule_count: 1/4------------------------------
+alan johnson        : DEBUG: O: [0, 2, 0, 2]
+alan johnson        : DEBUG: P: [0, 1, 2, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [0, 2, 0, 2]
+alan johnson        : DEBUG: P: [0, 1, 2, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.51866667]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 8 / 21: rule_count/nonrule_count: 0/6------------------------------
+alan johnson        : DEBUG: O: [1, 3, 1, 1]
+alan johnson        : DEBUG: P: [0, 1, 3, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 3, 1, 1]
+alan johnson        : DEBUG: P: [0, 1, 3, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.53342093]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 9 / 21: rule_count/nonrule_count: 1/5------------------------------
+alan johnson        : DEBUG: O: [1, 3, 1, 0]
+alan johnson        : DEBUG: P: [0, 1, 3, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 3, 1, 0]
+alan johnson        : DEBUG: P: [0, 1, 3, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.62666667]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 10 / 21: rule_count/nonrule_count: 0/7------------------------------
+alan johnson        : DEBUG: O: [1, 4, 1, 1]
+alan johnson        : DEBUG: P: [0, 2, 4, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 4, 1, 1]
+alan johnson        : DEBUG: P: [0, 2, 4, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.51360946]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 11 / 21: rule_count/nonrule_count: 1/6------------------------------
+alan johnson        : DEBUG: O: [1, 3, 1, 1]
+alan johnson        : DEBUG: P: [0, 1, 3, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 3, 1, 1]
+alan johnson        : DEBUG: P: [0, 1, 3, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.56675426]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 12 / 21: rule_count/nonrule_count: 2/5------------------------------
+alan johnson        : DEBUG: O: [1, 3, 1, 0]
+alan johnson        : DEBUG: P: [0, 1, 3, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 3, 1, 0]
+alan johnson        : DEBUG: P: [0, 1, 3, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.69333333]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 13 / 21: rule_count/nonrule_count: 0/8------------------------------
+alan johnson        : DEBUG: O: [1, 4, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 4, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 4, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 4, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.49491975]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 14 / 21: rule_count/nonrule_count: 1/7------------------------------
+alan johnson        : DEBUG: O: [1, 4, 1, 1]
+alan johnson        : DEBUG: P: [0, 2, 4, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 4, 1, 1]
+alan johnson        : DEBUG: P: [0, 2, 4, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.5469428]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 15 / 21: rule_count/nonrule_count: 2/6------------------------------
+alan johnson        : DEBUG: O: [1, 3, 1, 1]
+alan johnson        : DEBUG: P: [0, 1, 3, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 3, 1, 1]
+alan johnson        : DEBUG: P: [0, 1, 3, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.66675426]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 16 / 21: rule_count/nonrule_count: 0/9------------------------------
+alan johnson        : DEBUG: O: [1, 5, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 5, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [4, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 5, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 5, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [4, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.48284049]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 17 / 21: rule_count/nonrule_count: 1/8------------------------------
+alan johnson        : DEBUG: O: [1, 4, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 4, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 4, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 4, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.52825309]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 18 / 21: rule_count/nonrule_count: 2/7------------------------------
+alan johnson        : DEBUG: O: [1, 4, 1, 1]
+alan johnson        : DEBUG: P: [0, 2, 4, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 4, 1, 1]
+alan johnson        : DEBUG: P: [0, 2, 4, 1]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.6469428]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 19 / 21: rule_count/nonrule_count: 0/10------------------------------
+alan johnson        : DEBUG: O: [2, 6, 2, 0]
+alan johnson        : DEBUG: P: [1, 3, 6, 0]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [4, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [8]
+alan johnson        : DEBUG: [20]
+alan johnson        : DEBUG: [20]
+alan johnson        : DEBUG: [7]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [2, 6, 2, 0]
+alan johnson        : DEBUG: P: [1, 3, 6, 0]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [4, 0, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+alan johnson        : DEBUG: [115]
+alan johnson        : DEBUG: [319]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [20]
+alan johnson        : DEBUG: [1]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.47809465]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 20 / 21: rule_count/nonrule_count: 1/9------------------------------
+alan johnson        : DEBUG: O: [1, 5, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 5, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [4, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 5, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 5, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [4, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.51617382]
+alan johnson        : INFO: ------------------------------Trying rule_count_pair 21 / 21: rule_count/nonrule_count: 2/8------------------------------
+alan johnson        : DEBUG: O: [1, 4, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 4, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [6, 2, 0]
+alan johnson        : DEBUG: [20, 15, 0]
+alan johnson        : DEBUG: [20, 20, 0]
+alan johnson        : DEBUG: [20, 18, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [2, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [20, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [25]
+alan johnson        : DEBUG: [482]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: alan, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: alan, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: alan, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: O: [1, 4, 1, 2]
+alan johnson        : DEBUG: P: [0, 2, 4, 2]
+alan johnson        : WARNING: Remains: 0
+alan johnson        : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+alan johnson        : DEBUG: [145, 60, 0]
+alan johnson        : DEBUG: [500, 392, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [500, 500, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+alan johnson        : DEBUG: [500, 19, 19]
+alan johnson        : DEBUG: [500, 127, 43]
+alan johnson        : DEBUG: [500, 500, 145]
+alan johnson        : DEBUG: [500, 500, 20]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: [3, 0, 0]
+alan johnson        : DEBUG: [1, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0]
+alan johnson        : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [500]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [0]
+alan johnson        : DEBUG: [2]
+alan johnson        : DEBUG: final:
+alan johnson        : DEBUG: name: johnson, l_level: 0
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+alan johnson        : DEBUG: name: johnson, l_level: 1
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: name: johnson, l_level: 2
+alan johnson        : DEBUG: --------------------------------------------------
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+alan johnson        : DEBUG: scores: [0.62825309]
+alan johnson        : DEBUG: ----------------------------------------------------------------------------------------------------
+alan johnson        : DEBUG: Best score achieved: 0.6933333333333334
+alan johnson        : DEBUG: Best selected: 2/5
+alan johnson        : DEBUG: Rule variations: [{'A.J.', 'a.j.', 'a. j.', 'Aj', 'AJ', 'A.j.', 'aJ', 'a. J.', 'A. j.', 'A. J.', 'aj', 'a.J.'}, {'johnson       alan', 'johnson  alan', 'johnson alan', 'johnson    alan', 'johnson      alan', 'johnson     alan', 'johnson         alan', 'johnson   alan', 'johnson          alan', 'johnson        alan'}]
+alan johnson        : DEBUG: Nonrule variations: [{'alYn joynswn', 'alhm jynsonh', 'olwh wehnsno', 'almu jhanjon', 'alym jyhncom'}, {'elya qohnosy', 'almm jihnkin', 'almh jwhnxan', 'alLn jywnson', 'alwm jhongon'}, {'alwn joensnn', 'almo jwonsin', 'eyay kohnzno', 'Aaln jonqoen', 'almm jyhngen'}, {'almi joncoyn', 'allm jonwshn', 'alyn joinsyn', 'ylne ojwnsyn', 'alnh jehnkyn'}, {'alym jhynsan', 'almy jwhnkun', 'eluh shonshn', 'Aaln jwhnxun', 'alyn joahnsn'}, {'aaln jonqoun', 'olim xyhnosn', 'alma jownjan', 'almu jwhnkan', 'alnn johncen'}, {'alnm jahnkwn', 'Almn jihngun', 'elww ojhnjwn', 'alnh jonwkon', 'alyn johnizn'}, {'iyen gohngno', 'almu joymsen', 'alym jehnqom', 'alLn johnznn', 'aaln jhhnqom'}, {'ihen khonsoh', 'almy jownqom', 'Aaln jyhnkom', 'aeln jehnqen', 'alYn joanswn'}, {'aaln jonguon', 'ulya okhnosn', 'almw jwhngyn', 'alnn joynsyn', 'Alhn jownkin'}, {'almi juhnjwn', 'almm johmkyn', 'almu jyhncyn', 'alyn johynsn', 'iham johhgno'}, {'wloh jhhhosn', 'almh jonsoym', 'alyn jwwnson', 'almu jonqoon', 'almo jownxin'}, {'Aaln jyyngon', 'aaln jonqhon', 'uwin yohnjno', 'alnh jwhnkun', 'alnn jonoson'}, {'aaln jhhnjin', 'Almn jehnjwn', 'aahh whonsom', 'alwn jownsan', 'allm jyymson'}, {'alhm jwhnghn', 'alwm jownswm', 'almi jehnqwn', 'alwn jownsyn', 'eyun xhonsom'}, {'wway khonxon', 'alym jahnqwn', 'almy jwhngom', 'Almn jonqeon', 'alwn johnasn'}, {'almu jyhnsam', 'almi jonjoyn', 'allm joymsen', 'alln joynsnn', 'laow yohhosn'}, {'alLn jwnnson', 'allm jyhmgon', 'Alhn jyhmsom', 'hyin gohyosn', 'Almn juhmjon'}, {'aaln joymsom', 'Alhn joymqon', 'alLn jehnswn', 'alnh johmzwn', 'hlha ojhysin'}, {'almi jwhnxun', 'ilhm yohnyno', 'Almn johnjna', 'alYn johnizn', 'alme jhonsyn'}, {'alym jywngon', 'alwn jownsin', 'Alhn jahnjan', 'almo joyngun', 'ylni ojhysyn'}, {'aeln jwhnkan', 'alLn johnizn', 'alnh jonjoyn', 'ylnh yoynsno', 'almm jhhmjon'}, {'aaln joynogn', 'alnn johnsni', 'almw jwwnkon', 'wlhm ojwnsoh', 'allm jyhnxin'}, {'alme jownkom', 'ylna ojhysan', 'alnh jyhnsim', 'alnn jownssn', 'almu juhnjan'}, {'alhm jhanshn', 'Aaln jewnsom', 'almm johncwm', 'haly ojhwhon', 'alyn joynswn'}, {'ieln qihnsno', 'alhm juhngun', 'Aaln joyngen', 'alLn jownsen', 'almh jownkyn'}, {'uhin gahnsno', 'Almn jhhnogn', 'almh jihnjan', 'alyn jounsyn', 'almi johmojn'}, {'lawa ojhyxon', 'almm johnocm', 'alYn joensnn', 'alma jonqony', 'almy jhhnqin'}, {'almo johnqem', 'almi jwhncan', 'almm jyhnkom', 'alnn jghnsen', 'haah khonxon'}, {'almu jyhnsem', 'hloy jhonsaw', 'alyn joynzon', 'Alhn jyhnsmo', 'allm jeynkon'}, {'Almn jehnxin', 'almw jiynjon', 'alhm jonxoen', 'olma wohncno', 'alYn joahnsn'}, {'alyn jownswn', 'alme jihngwn', 'alma jwhmgon', 'almu jyyngon', 'yyen zohhsno'}, {'alyn jewnson', 'Almn jehnjwn', 'almy joynjwn', 'whwn gwhnosn', 'almh jonwosn'}, {'almi joymqon', 'alnn jouhnsn', 'almm joymswn', 'allm juhngun', 'wlhh wohysno'}, {'alwn joynsen', 'Alhn jonkaon', 'alym jhhmjon', 'ahni ojwnsom', 'alhm jhynzon'}, {'allm johnocm', 'aaln jonyxon', 'almy jhonkon', 'alYn joynsun', 'awyw jyhyosn'}, {'uwen jwhhsno', 'alyn jahnssn', 'almi jhanshn', 'almh jownqom', 'alma johngmo'}, {'elhh sohnqno', 'aeln jyonqon', 'alma jonkoyn', 'alln jihnsnn', 'almu johmjun'}, {'alYn juhnsyn', 'alma jonwkon', 'almm johmjwn', 'almo jonqoyn', 'hain sohhosn'}, {'almu jwhncun', 'Almn johngmo', 'alhm jonqoan', 'awne jownosy', 'alwn jownsyn'}, {'alyn jghnsen', 'aeln jahmswn', 'almw jyhnkhn', 'almy jhhngwn', 'ahwh xohnzno'}, {'alln johnssn', 'Almn juhnkin', 'awni wohhosn', 'almo johncim', 'Aaln jonwqon'}, {'alnn johnezn', 'allm jwynkon', 'Alhn johnqmo', 'lhaw xhonjon', 'almo jhangon'}, {'alYn joonsnn', 'almh jhwnjon', 'eeln jhoyxon', 'alwm jyhnghn', 'almm jowngen'}, {'Alhn jownkhn', 'alnm johmjun', 'alhm jhonkon', 'eyon khonsun', 'alYn jwnnson'}, {'almm jwhncom', 'laya sihnsno', 'almi jyhnkin', 'alwn juhnsnn', 'alnh juymson'}, {'alma jyhnsem', 'alln joonswn', 'lawa oyhnosn', 'alnh joncown', 'Alhn jhonkon'}, {'alLn johnesn', 'olem kwhnosn', 'almm jihnkyn', 'aaln jowmjon', 'alym jownjom'}, {'almu jahnswm', 'uhyn jowyosn', 'alYn johnazn', 'Aaln jhonsyn', 'alnm jonqonw'}, {'allm juhngwn', 'alnn johnezn', 'alme jonkkon', 'ulem ojhwjon', 'almw johmojn'}, {'aaln joynkun', 'almi joynkin', 'almh jyhnzwn', 'olny ajhnosn', 'alyn jahnswn'}, {'alme jwonqon', 'Alhn jyynsom', 'almi jonxuon', 'uluy ojhwwon', 'alyn jahnsyn'}, {'almy jwhmsun', 'ohwn xhomson', 'alyn johnsni', 'Aaln jhansyn', 'alhm joymxon'}, {'almi jownshm', 'hyin khonshn', 'almu johongn', 'Almn johmjun', 'alnn jjwnson'}, {'almi jewnqon', 'whin ojwnsom', 'almu johmjwn', 'alYn johnzwn', 'almh jhynsan'}, {'Aaln jwonswn', 'alnn joahnsn', 'alme johnqem', 'elma jahhsno', 'alym johnkym'}, {'alwn jonnsyn', 'owwn jhonosy', 'alma jehngun', 'alhm jhynsun', 'alwm joymjon'}, {'alnm jonkuon', 'almi jehnqen', 'Aaln johmgun', 'alyn joinssn', 'ihen ojhwsen'}, {'Aaln jhangon', 'alme juhncom', 'yluh ghoyson', 'alnh johmjwn', 'alln johnsyn'}, {'alnh johmkyn', 'alLn jonoson', 'Alhn johncym', 'hhah ozhnosn', 'alnm johnoqm'}, {'alwn jehnsnn', 'leen gahnsno', 'allm jwhnkin', 'alwm jwhnkyn', 'almy johmgen'}, {'Alhn jwynkon', 'uuln xohngno', 'allm johnkno', 'alnn jownzon', 'almm jyhnghn'}, {'Aaln johncym', 'ulwm zohnyno', 'almu johngwm', 'alyn joehnsn', 'almw juoncon'}, {'alhm jwhncun', 'uwin ojhwwon', 'alLn jownson', 'alme jihnkin', 'Alhn jyhnoqn'}, {'almy jwhncom', 'aeln jonwjon', 'alme jyhncom', 'alYn johnznn', 'uhin khonswn'}, {'aeln jyhnosn', 'alYn jnohson', 'alnm jehngwn', 'almh joymsun', 'ylim ojynkon'}, {'almo jhhngen', 'almi jonguon', 'ohyn cwhnosn', 'aaln jownkom', 'alnn johncen'}, {'alwm jionqon', 'alnh jahnjwn', 'whyn zhonsow', 'allm johmoqn', 'alln joahnsn'}, {'alnn joinswn', 'almo jownkhn', 'alnh jonwjon', 'loaw khonshn', 'almh jhynswn'}, {'alym juhngwn', 'awny johwcno', 'almi jehnkhn', 'alln juwnson', 'alma jahngwn'}, {'aeln jwhnghn', 'alnh jwyngon', 'hlih kownsno', 'alln jahnswn', 'alhm johmzwn'}, {'almm jwhngun', 'alym jihmjon', 'alnn juynson', 'almi jyymson', 'uyen qahnosn'}, {'almu jwhnkwn', 'almy jihnkhn', 'almm jyhncyn', 'alyn jownsun', 'ulya kwhnosn'}, {'almi johmjun', 'alyn jihnswn', 'Almn jonwqon', 'Alhn juoncon', 'ayhh ojhwgon'}, {'almi jonqonw', 'aeln jhanswn', 'ulyh ojhnogn', 'alnm johngny', 'alln joonsyn'}, {'alhm jahnxwn', 'alln jownsin', 'almy jwonqon', 'layw qhoyson', 'almi joncown'}, {'alnh jyhnjwn', 'alln jghnssn', 'allm jwhmkon', 'elyw zohysno', 'almy jhonqon'}, {'aeln jhwnsom', 'alhm jongonh', 'almm jyhnogn', 'iluy jhonsyy', 'alYn jeohnsn'}, {'aeln joynokn', 'hyen gohngno', 'Alhn jiymson', 'alyn joenssn', 'allm jahnsnh'}, {'alma jyonsun', 'alym juhnoqn', 'allm johmoqn', 'ilhh yohnkno', 'alwn joynswn'}, {'almh jihnsmo', 'alLn jonsown', 'elne xhonhon', 'almw jonqyon', 'allm jwhncan'}, {'olno jwhhosn', 'almw jyhngin', 'alnn joenswn', 'almu jownsum', 'alhm jahnoqn'}, {'aeln jwhmjon', 'yhin joynosh', 'alnm jwonsom', 'Alhn jhonsyn', 'alnn joihnsn'}, {'alln jnnnson', 'alme johmjin', 'almy johnqam', 'hlwh kwhnosn', 'Alhn jonkwon'}, {'uwah yohnzno', 'Almn jhhnsno', 'Aaln jwhnqan', 'alLn johnssn', 'aeln jownjan'}, {'alnn jonison', 'almo jonqown', 'alnh johnjno', 'eley kohngno', 'alnm jihnkyn'}, {'alwm jhonjon', 'lwen ojwnsen', 'allm jonhswn', 'alln joonsnn', 'almy jhhnjun'}, {'yaen johhosy', 'alwm jownkhn', 'almw jwhnjan', 'almu jhansyn', 'alwn johnzzn'}, {'alym johmoqn', 'olna khoncon', 'alme jhanxon', 'Almn jowngom', 'alYn johnwsn'}, {'alnm johnqem', 'alLn jjwnson', 'aaln joyncom', 'alwm jownsum', 'yhyn yhonzon'}, {'yhay ojhnjwn', 'alym jhanshn', 'alLn jjwnson', 'aeln jhnoqon', 'almi jehnoqn'}, {'alym joymsan', 'alme jwhnogn', 'hwaw jahnhno', 'Aaln jhanshn', 'alyn jonsony'}, {'aeln joynokn', 'alhm jhanshn', 'alwn juhnswn', 'wway oyhnosn', 'almw jehnqwn'}, {'alme jiynxon', 'alln johncyn', 'alym joynxin', 'oahn ojhwsin', 'almu jahnqom'}, {'allm jahnxwn', 'Alhn jwhnkyn', 'alma jahnkwn', 'ulom jhonyan', 'alnn johnsnn'}, {'alwn jjohnsn', 'almw jiyncon', 'whyn khonkon', 'almm johncwm', 'alym jyhnkin'}, {'alma jonqeon', 'alhm joncown', 'alwn jihnsyn', 'olma jihnhno', 'Alhn johnxim'}, {'ihwn kohhosn', 'Alhn johnqmo', 'aaln jihnqom', 'alwn jynnson', 'aeln johmcyn'}, {'Aaln jonwgon', 'alnn jahnssn', 'alnh jwhncun', 'almm joynqom', 'ylya ojhyxon'}, {'eley jhonsyo', 'Almn jonyxon', 'almw jhhnqen', 'alym jyhnkom', 'alln joenssn'}, {'ahma kohnyno', 'Aaln johnkni', 'almh jiynsom', 'alnn joanssn', 'almi jhynsyn'}, {'Aaln jhynswn', 'alyn jghnsun', 'alnh jhansyn', 'almu jownkyn', 'wyon qahnosn'}, {'alnn jjohnsn', 'almw jyhnjan', 'almm joymswn', 'aalw ojwnwon', 'allm jyhnzom'}, {'almh jwhnjun', 'allm jownjwn', 'alnn jiwnson', 'eley oyhnsno', 'alym jyhnshm'}, {'oloy ojwnsyn', 'almu jhhnojn', 'almi jhanshn', 'alwn jahnsyn', 'almm jehnkhn'}, {'almw jehnqhn', 'almi jwonqon', 'alLn johnsny', 'almo johnosm', 'elni ojhhosn'}, {'almy johmjhn', 'aaln jahnkhn', 'ohyn khonwon', 'almo joyngen', 'alwn jounsyn'}, {'almo jiynxon', 'almy jhhnqan', 'almi jownxom', 'alYn johnsnn', 'wayn ojwncon'}, {'almo johnxni', 'alym jhhngen', 'iiln johhosy', 'alnh jwhngun', 'alYn jounsnn'}, {'almu jonwjon', 'almw jownogn', 'alLn johnswn', 'alwm jyhnogn', 'uyam wohnosm'}, {'alme jhonjon', 'aaln jyhncom', 'alln jownsun', 'eeln ojhnshy', 'almh juhngin'}, {'alnn jonsonw', 'Aaln jehnqom', 'uhun zohwsno', 'alnh jonqwon', 'almi jownjan'}, {'uwon kohngno', 'Almn jonxoyn', 'alwn johnsnw', 'almo jonqoen', 'alnh jwhnkyn'}, {'Almn jonwkon', 'wiln ojhnsaw', 'alyn jonwson', 'alnh johnxim', 'almh jhangon'}, {'alLn johncyn', 'almw jonqwon', 'whln jhoysoy', 'almi jwwnkon', 'alnh jhanqon'}, {'alln johnzzn', 'ayom qhonxon', 'alnm jihnjwn', 'almy johngnh', 'almm jhhnqen'}, {'aaln jahnsmo', 'alLn joanssn', 'almw johncmo', 'loyn kownsno', 'almo jhhngun'}, {'alme jowngom', 'awya ojhnshw', 'almw jonxaon', 'alln jounswn', 'Almn jwhncun'}, {'alLn johnwzn', 'almy johnqum', 'lyaw xhonsoy', 'almo jahnsnh', 'almh jwhnqun'}, {'alLn jonsony', 'eeln jehhosn', 'almh jahngwn', 'Almn jhoncon', 'allm jhynsin'}, {'Almn joymgon', 'almo jihnsmo', 'almi jonqoen', 'liaw jhonsyo', 'alyn jiynson'}, {'alma jowngwn', 'alYn joanssn', 'alnh jonwjon', 'almy jyhnjan', 'yham kohhosn'}, {'alyn johnasn', 'allm jonwshn', 'almy joymjon', 'aaln jwhnken', 'wlyw chonsun'}, {'alyn jihnswn', 'alnm jhinqon', 'aaln johnjna', 'eahn jhoyhon', 'aeln jyhngen'}, {'alLn jihnssn', 'alme jhhngwn', 'laya yohnqno', 'Aaln jwonsin', 'alwm joynjan'}, {'alln joynsin', 'lway johhgno', 'aeln jwhnqom', 'Alhn jyhnogn', 'alym joymxon'}, {'laym oyhnosn', 'alym jyhnjan', 'alme juonqon', 'alwm jjonqon', 'alln jjynson'}, {'eyen ojhygon', 'Alhn johonqn', 'alLn jjohnsn', 'allm jeymson', 'alhm jhhnjhn'}, {'alyn johnazn', 'almh johmjhn', 'wwon ghonsom', 'almw jownswm', 'aeln johnocm'}, {'almu jiynsom', 'ehyn zohngno', 'alhm jonswhn', 'alwn jounsnn', 'Aaln jhanqon'}, {'alym jhynswn', 'Almn jehnjan', 'alwn juwnson', 'ileh zohnyno', 'almi jehmjon'}, {'alyn johnusn', 'Alhn jahngwn', 'lhaw jahwsno', 'almm jahmswn', 'almu jyhnswm'}, {'almi jehnqun', 'alwn johnsyn', 'laya khonsoh', 'aeln johmoqn', 'almh jonwgon'}, {'Aaln johnqym', 'alnn juynson', 'laay ojhysan', 'almy jhonswn', 'Alhn joynkhn'}, {'alYn joonswn', 'ylnu kohysno', 'almw jonqoen', 'almu jongoan', 'aeln jhunqon'}, {'almw jihnjan', 'alYn johnzzn', 'allm joymswn', 'whah ojhwkon', 'alwm jyonswn'}, {'Aaln johmogn', 'aaln johngem', 'aeln johngum', 'hlww joynosh', 'alln johnsnu'}, {'almo jhhngun', 'almm jihnsmo', 'almw jehncom', 'alln joonswn', 'hwin kohnxno'}, {'laha qohyosn', 'alYn johnzzn', 'alym jonsyen', 'alme jhynsom', 'alwm jahngen'}, {'alme jonhqon', 'awny kohwosn', 'alym jwonsin', 'alnn joynsyn', 'Alhn jhynsun'}, {'almm jjonxon', 'iluw johhcno', 'aaln jahnkwn', 'alnn juhnssn', 'alnh jonquon'}, {'alLn joynsun', 'Alhn joynokn', 'uwah shonzon', 'alhm joymshn', 'Aaln johngnu'}, {'olne ghonsom', 'alym jonjonh', 'almu jhhnjin', 'alwn juhnswn', 'almi jwhnqom'}, {'alLn jwnnson', 'alwm jahmjon', 'almh jhonxon', 'Alhn jownkin', 'oiln jahnhno'}, {'alme jynsonh', 'yhun jhonshw', 'alnm jyhnghn', 'almu jyhnkin', 'alln juwnson'}, {'alnm johncum', 'alyn jiohnsn', 'almm jyonqon', 'haam cohngno', 'aaln johnkni'}, {'allm jehmjon', 'almo johnqmo', 'alln juhnsyn', 'almu jihnkhn', 'iley ojhnjan'}, {'almo jonqonw', 'whay qhonxon', 'Almn jehncom', 'alma jhhnjen', 'alnn joonssn'}, {'alym johngni', 'ihah wohnosm', 'alme jonwqon', 'alma jonxonh', 'alnn juhnsnn'}, {'almh jjonqon', 'alnm jehnkyn', 'lwon ojhwsom', 'Aaln jiynsom', 'alyn johnsne'}, {'alym johnkni', 'alyn jihnsnn', 'aaln joynoqn', 'alma jahnjan', 'ylom sohnzno'}, {'Almn jhynswn', 'alhm jhhnoqn', 'yywn xhonsen', 'aeln johnxno', 'alln johnisn'}, {'alwm johnkym', 'aeln jahnxwn', 'ilhm jhonsuy', 'alym jahnkwn', 'alLn johnsni'}, {'alym jhhnqen', 'alln jghnssn', 'almu jhenqon', 'almh johncem', 'elww ojhnshw'}, {'alym johncam', 'Alhn johnqwm', 'aaln jomsoyn', 'alnn jownsin', 'ohln kwhnsno'}, {'almh joyngen', 'allm juhmjon', 'alnm joynoqn', 'alyn joohnsn', 'iwwn kohnzno'}, {'almy jehnqen', 'uluh ojhhsyn', 'alyn juwnson', 'aeln jehmqon', 'almi jonqoyn'}, {'alYn johnysn', 'almw joymcon', 'aaln jyonqon', 'lwyn ojhwsyn', 'alme jonguon'}, {'almm jhanqon', 'alwn jghnson', 'uhln kahnosn', 'almi jyhnshm', 'alnh joymsan'}, {'alLn johnyzn', 'almw jyhnjan', 'alwm johncem', 'elya ojhmjon', 'alme jownkhn'}, {'alyn jjnnson', 'loah khoncon', 'aeln jwhncom', 'almy jahncom', 'Almn joynoqn'}, {'alme johnqmo', 'alln jihnsyn', 'almh jwhnosn', 'alhm jyomson', 'olma sohnqno'}, {'alnh johncim', 'uloy ojhwsno', 'alme juhnkhn', 'alnn jonyson', 'alwm jwhmjon'}, {'ihin ojwnsan', 'Almn juhngin', 'alnh joncoen', 'alyn joinsyn', 'almm jhhnjyn'}, {'yhin chongon', 'alma johnxno', 'alYn joynsyn', 'alnm jiyngon', 'almy jonconh'}, {'alln jeohnsn', 'alme jownjom', 'almu jhhnjom', 'ewun zohwosn', 'alwm jwhnsno'}, {'almm jwhngun', 'ayeh ojhngno', 'allm johngne', 'alYn jjnnson', 'alnm jihncom'}, {'alYn jeynson', 'alme jwhngwn', 'oalm khonsno', 'aeln jownogn', 'alnm jyhngyn'}, {'alym jihnsmo', 'aeln jonsynh', 'almy jowngen', 'alLn johnwsn', 'elni khonxon'}, {'alwn jghnsan', 'almy joymjon', 'luyn chonqon', 'Alhn johncim', 'almw jownjan'}, {'Alhn jonqeon', 'alLn jownsyn', 'Aaln jwynkon', 'alwm johnjna', 'ahuh wehnsno'}, {'alnh jyomson', 'Aaln jehngwn', 'alln jihnsnn', 'olwm xhonosn', 'alma jwwngon'}, {'almw jonqhon', 'ylom zohwosn', 'almy jonhswn', 'alnh jowmjon', 'alwn jonsown'}, {'wluy ojhnsno', 'alyn jwynson', 'alme jwhmsan', 'almo jonshyn', 'alym jionqon'}, {'aaln joymxon', 'almm johnjna', 'elwh khonjon', 'alme joymqon', 'alyn juynson'}, {'ilwy xohnosy', 'alnn jouhnsn', 'alym johnqam', 'Almn joynkin', 'almw jehnxin'}, {'alnh johngna', 'alwm jhenqon', 'almu jwynkon', 'hlya sohhosn', 'alyn johnysn'}, {'elna zohhsno', 'almy jomsoyn', 'Almn jyhnshm', 'almh johncno', 'alwn jouhnsn'}, {'allm jonswen', 'almy jonhswn', 'Almn johmgen', 'alYn joenswn', 'ylwy yyhnsno'}, {'owun ojhhkon', 'alma jwhnzan', 'alln jownsnn', 'almo jyhnjan', 'alnh jonyxon'}, {'alYn juhnsnn', 'aeln johncem', 'alhm jwhnsum', 'alnh juhnoqn', 'hlya johyosh'}, {'almu jyhnkom', 'alme jonhswn', 'alyn jeohnsn', 'laay ojhwkon', 'almo jwhnjwn'}, {'alnh jonhgon', 'ahoy khonqon', 'Aaln jyonsun', 'almy jahnswm', 'alln johnsnu'}, {'alnh jonsomh', 'ohyn jehnosy', 'almw jhhnxin', 'almo jyhngen', 'alnn jehnssn'}, {'almo jonxonh', 'alnh jyhnzom', 'aeln jwhnjan', 'yyam yoynsno', 'alYn jounssn'}, {'eyyn yohhsno', 'alhm jhymson', 'alyn joynssn', 'alme jihnsmo', 'alwm johnqam'}, {'almw jyhnogn', 'almi johncam', 'wlyy khonsun', 'alme johmjom', 'alyn jwnnson'}, {'aeln joynkin', 'almy johncum', 'alYn jghnson', 'alym jhhnqom', 'ahem ojwnqon'}, {'alhm jwonqon', 'Alhn jownsam', 'allm jwhngen', 'olha xhonxon', 'alln joensnn'}, {'Almn jhhnqom', 'almo jhhnjan', 'almu jhwnsom', 'hhyn ojhwjon', 'alwn jownsnn'}, {'almu joncoyn', 'hhah khonsen', 'almy johnqem', 'aaln jongonh', 'alYn jahnswn'}, {'almi johngmo', 'alnm johmogn', 'aaln jonswen', 'lien khonsyn', 'alwn jghnsen'}, {'hayn qohnhno', 'allm jhhnqin', 'alym jwhngin', 'alYn johnsnu', 'alhm jhynjon'}, {'almh jyhmgon', 'olom ojhwsow', 'alln jehnsnn', 'almy jownsym', 'Alhn jwhnkin'}, {'Almn joynjwn', 'alnh jihnxin', 'alYn joonssn', 'alma jonsyen', 'awly jihysno'}, {'almo juhncom', 'ohin jhoysom', 'almi jhonswn', 'Alhn jwyngon', 'alYn johnezn'}, {'alym jhonsyn', 'ahym ojhwgon', 'alln johnwzn', 'alwm jhhmjon', 'almy johncem'}, {'almm johnjwm', 'olhm wehnosn', 'alym jhhnogn', 'alhm juhnogn', 'alwn jehnswn'}, {'Aaln joymsen', 'wluw khonsen', 'alhm jonqoan', 'alLn johnzzn', 'almy jhhnqen'}, {'Alhn johncam', 'ayem johygno', 'almw jwhnsna', 'alYn jounswn', 'almy jwonsom'}, {'Almn jehnjwn', 'almy jiwnsom', 'wway gohnosm', 'alyn joenssn', 'alhm jwhnqom'}, {'alnh jwhmjon', 'alnn joinsyn', 'allm jhhmqon', 'luaw ojhnogn', 'almo jwhnxin'}, {'almy jhynsun', 'uhin hohngno', 'alhm jhhnjan', 'alYn juhnssn', 'alwm johmjen'}, {'aeln joyngun', 'laoh ojwyson', 'alLn johnsni', 'alma jonqonw', 'almm juhngin'}, {'alnh jahngen', 'wliy yyhnsno', 'Aaln joncown', 'alym jhinqon', 'alnn johnnzn'}, {'alhm jwwnkon', 'alln jeynson', 'almi jhhnqan', 'aaln jwhmsun', 'awuy ojynsoh'}, {'alhm johmgun', 'alYn jonoson', 'awni xhomson', 'almy jownkyn', 'almh jonswhn'}, {'aheh yohnjno', 'alnh joynkun', 'alnn joansyn', 'allm jhwnsom', 'almi jehmjon'}, {'yhah ojwngon', 'almh jhhnxin', 'alhm johngni', 'alwn jghnsan', 'alwm jwhmjon'}, {'alma jyonjon', 'alhm jyhnkin', 'almu jhhnqen', 'olom ojhnosy', 'alyn joynzon'}, {'almo juhnkhn', 'alhm jownjan', 'almh jonsyhn', 'hlww kownosn', 'alLn jehnsnn'}, {'almw johmzwn', 'alln johwnsn', 'almo jownogn', 'awno chongon', 'alme johnogm'}, {'Aaln jhhnjhn', 'aeln jehnqhn', 'hywn kohnosw', 'almh jhhnjin', 'alnn johnswn'}, {'alnn jihnsnn', 'allm joymjon', 'iluh yohnyno', 'alma jyhncom', 'aaln jihmjon'}, {'alwn joehnsn', 'almh jyhnswm', 'alme jonhjon', 'alnm jyhnsym', 'lyaw ojhnshy'}, {'almh jhanqon', 'Alhn jhhnjom', 'Aaln jyonjon', 'ualm ojwnsow', 'alnn jounswn'}, {'oaly ojhysyn', 'almu jwhnkwn', 'alym jhhmqon', 'aaln jhymson', 'alln johncin'}, {'alln johncyn', 'laih khonshn', 'allm jonsomh', 'alwm jowncom', 'alym johnqim'}, {'lwam jhoysom', 'alnn joynsin', 'aaln jihnqom', 'alma jhinqon', 'almw johnjno'}, {'ylha kyhnsno', 'alma johnjwm', 'almu jahngen', 'alYn johnyzn', 'alnm jaynkon'}, {'almw jhoncon', 'aaly ojwnxon', 'alme jonswnh', 'almm juhnoqn', 'alyn jghnson'}, {'alnh jonshno', 'alln joynssn', 'ylya zhonqon', 'almu juhnkhn', 'alme jonsoym'}, {'almu jehnqhn', 'alyn joinsnn', 'Aaln joynoqn', 'almy johnosm', 'aalh jhoyzon'}, {'waah ojhyshn', 'almh jahnjwn', 'almy joynkwn', 'almm juhngin', 'alLn jahnswn'}, {'aeln jhhnjan', 'Aaln jihnqom', 'alLn jahnsnn', 'eyun jhoywon', 'almu jwhncom'}, {'Almn jhancon', 'almi jonkoen', 'ylny whoncon', 'almu johnqim', 'alYn jeohnsn'}, {'alYn jeynson', 'alnm jihngwn', 'ylim kyhnosn', 'alwm johnogm', 'almo jhangon'}, {'alLn joynsin', 'Aaln johnkno', 'Almn johmoqn', 'uiln qohnosy', 'alme juhnjin'}, {'almy jownsam', 'almo jahnkwn', 'alnn jehnswn', 'yaaw ojhnosy', 'alma jwyngon'}, {'whln khonsow', 'alhm jwhmjon', 'aaln joynogn', 'allm jwhncyn', 'alln jehnswn'}, {'Alhn jonwosn', 'almy johmjyn', 'alnn jghnsun', 'oluh ojhysun', 'almm johmogn'}, {'waly ojhwswn', 'Almn jownoqn', 'alwm joyngen', 'almy joymgon', 'alnn johncin'}, {'olya ojhngun', 'alnh jonxonh', 'alwn joynsyn', 'Alhn jonjoyn', 'allm jhonkon'}, {'Almn jehnjan', 'alym jyomson', 'hyin yehnsno', 'almh jhhnoqn', 'alYn jounswn'}, {'alym johnogm', 'wluh jahnyno', 'alwm jhinqon', 'alnh jownkhn', 'alnn johnzwn'}, {'almi jowngom', 'ylny kohnwno', 'alLn jghnzon', 'almw jihnoqn', 'almy jonqoun'}, {'alwn jnohson', 'Alhn jwhnjan', 'alwm juhngin', 'eyun cihnsno', 'almy jihnjwn'}, {'alym jyhmsom', 'eyah zohwosn', 'almh jowngom', 'almy jwnsonh', 'alnn johnasn'}, {'almh johmgen', 'olym hahnsno', 'alln jiwnson', 'almu joynxin', 'almw jonsyen'}, {'Alhn johnkym', 'Aaln johnkno', 'aahm ojhwjon', 'almh johngnu', 'alyn jehnswn'}, {'ahne kohnosh', 'aaln jonwcon', 'alyn joynssn', 'allm jahmswn', 'almh jonkuon'}, {'elni whonqon', 'Almn johmkhn', 'alLn joansnn', 'almy johmosn', 'aaln jhhnqen'}, {'almy jhhnqwn', 'aeln johncim', 'alLn joynswn', 'allm jwhnxin', 'lwon ojhwjon'}, {'Almn jewnqon', 'alyn jonason', 'aeln jyhmjon', 'eyen cohyosn', 'almo jongoen'}, {'lyaw xhonwon', 'alyn johnisn', 'alhm jhymson', 'almh jwhmsan', 'Aaln jahnkin'}, {'Aaln jownxin', 'ayha chonqon', 'alwm jwhnqom', 'alln jownsan', 'almu jhhnjwn'}, {'almu jwhnqan', 'alym johmkyn', 'uahn goynosn', 'almm jwhngyn', 'alwn jonwson'}, {'almu jonsyhn', 'Aaln jhhncyn', 'eywn ojhycon', 'alyn joahnsn', 'almo jownxin'}, {'alyn jownsan', 'Alhn joncoen', 'alnh johmsno', 'awnu xhonyon', 'allm juhnkhn'}, {'aily khonsow', 'alnn jghnsan', 'Almn jwwngon', 'Alhn johmgun', 'almy johmgen'}, {'Almn jhymson', 'almu jwhnxun', 'elwh yhonzon', 'alln johnsni', 'almi jihnogn'}, {'alln jihnswn', 'Almn jyhngan', 'Aaln jihngwn', 'allm jynsonh', 'uwhn ojhwshn'}, {'wlna ojhnjan', 'alLn johwnsn', 'almi johmxin', 'almu jyymson', 'almy jwhnxan'}, {'ehwn khonyon', 'alme johngnu', 'Almn johonqn', 'alym jonshnh', 'alln jghnson'}, {'layw kownosn', 'almy jownqom', 'almh jwwnkon', 'alyn jghnsin', 'almi jhhnjen'}, {'almo joynken', 'alwm jwnhson', 'awly xhoyson', 'alwn johnizn', 'almi jwhnzan'}, {'allm jhynsun', 'ilwm ojhnsno', 'alnn jjjnson', 'Aaln johngni', 'almw joymqon'}, {'Almn jhangon', 'alma joyncom', 'alnn joihnsn', 'almm jwwnsom', 'ylni yohnhno'}, {'almi jhhnjwn', 'Alhn jwhnogn', 'alwm johnosm', 'alYn joenswn', 'lwah ghonqon'}, {'almm jwhngyn', 'alyn jeohnsn', 'alnm joymsun', 'ilna sihnosn', 'almi jowngen'}, {'alma jehmqon', 'almu jhonxon', 'alnh jwwngon', 'owwn kohmosn', 'alln johnisn'}, {'alwn johnizn', 'alma jahnogn', 'aaln joynkin', 'ilew ijhnsno', 'allm jownsam'}, {'almo jonhjon', 'almh joynxin', 'alYn jihnswn', 'ayew gohnosy', 'alnh jwhnosn'}, {'almm jahncom', 'loaw ojwnxon', 'alln johnysn', 'alwm johmgen', 'alma jhhnkin'}, {'Almn jihngen', 'almm jownsim', 'ylnw whonsoh', 'almi johngum', 'alyn johnsyn'}, {'almo johnchm', 'alhm jonhgon', 'alym jhhngen', 'alnn johnwzn', 'eiln wihnsno'}, {'elww zoynsno', 'allm jonkaon', 'alln jounsyn', 'alwm jwhngwn', 'alnh jonwkon'}, {'almm johnjwm', 'alLn johnozn', 'hliw yohhsno', 'alnm jyhnsno', 'alme jownkhn'}, {'yyhn zohnwno', 'alyn johnnzn', 'almi jwhngun', 'almo jhhnkyn', 'almw jyhnsem'}, {'almw jahnkwn', 'alLn jjynson', 'ulwm jhowsoy', 'Almn jhyngon', 'almm johnkni'}, {'alln jghnzon', 'alnm jyhngin', 'alhm joynqom', 'alma jionqon', 'ylna johhkno'}, {'ihin kehnosn', 'alYn jyynson', 'almi jeynqon', 'alhm jehnkhn', 'aaln jwwnsom'}, {'Almn jwnhson', 'ahne zhoyson', 'alnn joynsun', 'almu jjonxon', 'alym jongoyn'}, {'almu jyonjon', 'alnn jonoson', 'alma jwhnqan', 'olni khowson', 'alwm jhhnkin'}, {'almm jonwosn', 'ilno ajhnsno', 'aeln jewnqon', 'alwm jonqoon', 'alLn jonuson'}, {'Alhn jhonxon', 'alLn juhnsnn', 'alwm jyhnkom', 'aheh khonkon', 'almi jwhngyn'}, {'laww khonsun', 'alym jehncom', 'Almn jownsam', 'Aaln johmjun', 'alln joonsyn'}, {'almh jonxoen', 'wlha xhonsoh', 'alnn johnysn', 'Alhn jihnoqn', 'alma johncum'}, {'uham ojhwsin', 'almi jhyngon', 'alnh johngum', 'alln jahnsyn', 'almy jahnkyn'}, {'alyn jownswn', 'alma jyhnsmo', 'almm jwnsonh', 'Almn joynken', 'awma khomson'}, {'alym jwhncun', 'alme jhinqon', 'alwn johnezn', 'aahw qohnxno', 'alnm jiwnsom'}, {'almu jyhnsmo', 'hloy whonsun', 'Alhn jhhnqyn', 'almw jonwshn', 'alLn joynssn'}, {'alnh johngne', 'alln joinssn', 'aaln jongoan', 'ahiw gwhnsno', 'almo jonwsom'}, {'olma yhonsno', 'aaln jihnkhn', 'almo jehnkhn', 'Alhn jwwnsom', 'alYn johnosn'}, {'alyn jonyson', 'alym jonqonw', 'lwon khomson', 'allm jownsym', 'aaln joymcon'}, {'alwm jwhnsna', 'Almn jwhmjon', 'alhm johncno', 'wlow khonkon', 'alnn jwwnson'}, {'Almn johnjno', 'aeln jomsoyn', 'alwm jhenqon', 'alLn jjnnson', 'aalw jhowcon'}, {'almm jwhngun', 'alnn joneson', 'yyam xhoncon', 'allm johnqhm', 'aaln jyhnkhn'}, {'alwm jonwcon', 'almo juhngen', 'awnw yohwsno', 'alln juhnswn', 'alma juhnjan'}, {'alnn johnsnw', 'alwm joyngwn', 'alym jownzom', 'elnh kohnxno', 'alma johncno'}, {'aeln jonxuon', 'almo jihnjan', 'alyn jonnsyn', 'alme johmxin', 'lyaw yhonsno'}, {'aeln jihnsnh', 'almy joymsan', 'alnm jonqoyn', 'yalm kahnsno', 'alyn johnzzn'}, {'almm joymsen', 'alln joansyn', 'Almn jonswen', 'allm juhnjan', 'iyen khonzon'}, {'alYn jaohnsn', 'almu jownxom', 'alme jonjonh', 'lwon sohnqno', 'Alhn jownkom'}, {'aeln johnoqm', 'alym jonsynh', 'alLn jownzon', 'almu jwhngwn', 'awnh ojhnxin'}, {'Aaln jownjom', 'iwen jahnwno', 'almh jwhnsna', 'alln johnsni', 'almo jiynshn'}, {'alwn johnsyn', 'almi jonkuon', 'allm jhhnjhn', 'ilhm xhoyson', 'alym jyhngom'}, {'Aaln jwhnsum', 'oyam ojywson', 'alLn juhnsyn', 'alhm johnxni', 'almo jowngen'}, {'alwn johnsyn', 'almi jwhnzun', 'aeln joymgon', 'oham jhoyjon', 'almh jonqoin'}, {'almm jhongon', 'Almn jehnqun', 'whwn kohyosn', 'almi jwwnkon', 'alLn jynnson'}, {'alnm juhngin', 'almu jwnsonh', 'ulha whoncon', 'alym joynken', 'alLn jehnsnn'}, {'almw juhnogn', 'luah xhongon', 'almu jonkaon', 'alhm jyhnoqn', 'alLn joinssn'}, {'almi jhhnjom', 'almy jhhnojn', 'whwn khonjon', 'alYn jounswn', 'alme jwhnoqn'}, {'almi jownkin', 'almm jyymson', 'alYn juohnsn', 'alnh jownkyn', 'olnh kwhnosn'}, {'alma jwhmgon', 'hluh jhonqoy', 'aeln jhonswn', 'alwn jounsnn', 'allm jowmjon'}, {'alLn jonnssn', 'elyw ojhyxon', 'Aaln jonqony', 'alnh jonxoyn', 'almw jahncom'}, {'yiln ojhyzon', 'almy jwhnkwn', 'almo jwhnjan', 'almi johngny', 'alln johnazn'}, {'almy jonsoym', 'allm jhhnogn', 'alln jounswn', 'uhah jhoysan', 'almw jownsim'}, {'alLn johnsnn', 'alme juhnoqn', 'alma jwhnqan', 'almu jehnqwn', 'auly johhosy'}, {'alwn joehnsn', 'ylwh ozhnsno', 'alma jahnxwn', 'aeln juymson', 'Alhn jownjan'}, {'alym jwhncun', 'alnh jwhmgon', 'alYn jonason', 'eahn jhoyqon', 'almm jwhncan'}, {'alwn joinsnn', 'aeln johngmo', 'iluh kohnosy', 'Almn jonqhon', 'almh jhanswn'}, {'yham ojhywon', 'almw jwnhson', 'alym jehmjon', 'alnn juhnssn', 'almu jonyxon'}, {'almy jiynqon', 'Almn joyngun', 'alnn johnizn', 'layw wohncno', 'aaln johnjno'}, {'alnm jhwnqon', 'alnh jhhnosn', 'hhln khonhon', 'alln joinsyn', 'Almn johnkni'}, {'aaln jonqoyn', 'alhm jwhmsan', 'yhwn ojhysan', 'alYn joynsin', 'alwm juhnxin'}, {'alma jhhnkhn', 'haly cwhnosn', 'almi johnocm', 'Aaln johnqmo', 'alln joenssn'}, {'almy joymsin', 'alnm joyncom', 'alLn johnssn', 'ihen xyhnsno', 'alnh johongn'}, {'almu joynkin', 'elna xhonqon', 'alme jaynkon', 'alma jwhnkwn', 'alYn jghnsin'}, {'aaln jwwngon', 'alnm jiyngon', 'almu jonsoym', 'awya wohhosn', 'alwn jownsen'}, {'almu jonyqon', 'Aaln jyhnjom', 'alln joneson', 'ylnw ojwnsno', 'alym jyhnogn'}, {'aaln jyhnogn', 'alwn jonyson', 'almw jhanshn', 'almo jihnkyn', 'oywn ojhyjon'}, {'alLn joinswn', 'almw jonswhn', 'almu jhhnzwn', 'allm joncown', 'yiln johhosy'}, {'alLn johnasn', 'almi juhnkin', 'Alhn jhhnjin', 'ileh xhonwon', 'Aaln jonhjon'}, {'almw jonxuon', 'alma johnxno', 'Alhn juhnxin', 'alln juhnswn', 'ulha ojwnsan'}, {'alyn jihnsyn', 'alme jehnqen', 'luam xhonkon', 'alym jyhnqom', 'Aaln johncmo'}, {'wluy jhoysen', 'Alhn jwhnusn', 'alLn jonnsyn', 'almh jhunqon', 'allm johnqem'}, {'alnh jonkoen', 'hlih ojhyjon', 'alhm joynkwn', 'alnm joynogn', 'alwn joonssn'}, {'Alhn jhhncom', 'alyn jonnsnn', 'Almn jonshnh', 'layy ojhwyon', 'allm johmqom'}, {'almo jonquon', 'alyn jghnsan', 'alwm johnxno', 'Almn johnkni', 'laiw khonsin'}, {'alhm jihnkin', 'almw johmxin', 'alwn jonnssn', 'almo jonsomh', 'ieln xhonwon'}, {'Almn jahngwn', 'uwen jihysno', 'almo jyhnoqn', 'alLn jynnson', 'almi johmzwn'}, {'yahn sahnsno', 'almo jehnqyn', 'almm jwhnxin', 'alYn jonwson', 'alnm johnqam'}, {'alyn joansnn', 'owwn goynosn', 'allm joynkhn', 'almu jownswm', 'aaln jehnqwn'}, {'alln jnnnson', 'aaln jownkyn', 'allm jhynsen', 'Almn jongoyn', 'yloy jahnosy'}, {'ilya xhonswn', 'alnn johnsnw', 'almu jhhnoqn', 'alwm jwymson', 'almy joynjan'}, {'alYn joonswn', 'Alhn jeynqon', 'eeln yohnyno', 'allm jonwsom', 'almw jwhnghn'}, {'alYn jownswn', 'almi juonqon', 'hhyn zahnsno', 'almm joymshn', 'alnh jaonqon'}, {'alln johnzzn', 'almw jwhnjun', 'almo jhhnqun', 'ayew jhoyosn', 'almi jwhngom'}, {'iyen johhosm', 'alyn jiwnson', 'Alhn jiyncon', 'alhm jonkaon', 'alme jonsyen'}, {'almu jehnqin', 'ilha qoynosn', 'alyn jnnnson', 'alme jhwnjon', 'allm jonconh'}, {'alnm jhhnosn', 'alma juhnkhn', 'aeln joyngwn', 'whln jyhysno', 'alYn johnasn'}, {'almy jensyon', 'alme joymzon', 'alln johnezn', 'alma johmosn', 'ahya johhosh'}, {'Almn jonxoen', 'almy jyhnsem', 'alwn joynsyn', 'aeln jehnqan', 'yhln ojhysoh'}, {'alhm jahnjwn', 'alnn joahnsn', 'alma jihnkyn', 'wway jhonshw', 'almm johnxni'}, {'alhm jewnsom', 'uluy ghonqon', 'allm jwhmkon', 'alme jehnjan', 'alYn johncyn'}, {'alln jeynson', 'alwm jhynqon', 'almm joynkin', 'yluh ojhwsoy', 'Almn jiwnsom'}, {'alwn jnohson', 'ayha jhonsyy', 'Almn jhwnjon', 'almm jhhnqyn', 'allm jyhnosn'}, {'almo jonqoon', 'alYn johnzyn', 'eyun xohnzno', 'allm jhynsan', 'alym johnqum'}, {'aaln joynkwn', 'eyam ojhhkon', 'almo jownshm', 'alLn jonuson', 'almi jonshnh'}, {'ylhh ojhngen', 'alnn jghnswn', 'alnh johonqn', 'almo joynxin', 'Alhn joynkwn'}, {'almy joncoen', 'alYn jonsonw', 'almm jaonqon', 'yluh kohnqno', 'Alhn jywnsom'}, {'almh johmjhn', 'almw johmgen', 'almi jiynsom', 'alwn joanswn', 'yhhn zohmsno'}, {'allm joymsin', 'aeln jonshnh', 'alnn jghnsun', 'almo jownsam', 'awyw jahnyno'}, {'almy jyhmjon', 'alnm jwhnken', 'Aaln jhnoqon', 'alwn jahnsyn', 'ilew johyosw'}, {'aeln jyhnkhn', 'ulne wehnsno', 'alhm johmcom', 'alma jhynsyn', 'alnn joonsnn'}, {'almh jyhnkin', 'alhm jwhnkom', 'alYn jonnsnn', 'alma jihnsnh', 'ylom ojwnsan'}, {'alLn johnwzn', 'alnh jahnkhn', 'ayem ijhnsno', 'alma jyhnjom', 'almh jehnqin'}, {'almy jhanshn', 'ayne yehnsno', 'alym johmjun', 'Alhn jihncom', 'alnn johnzwn'}, {'aaln jyonsun', 'aeln joyngwn', 'Aaln johngno', 'alln johnezn', 'ilne okhnsno'}, {'alhm jonqaon', 'alwn jownzon', 'almm johmoqn', 'alma jhonswn', 'wwun jehhosn'}, {'Alhn jeynqon', 'iham ojhwsyn', 'alnn joynsnn', 'allm jehngun', 'aeln jhynsen'}, {'almu jonqonw', 'alln jwynson', 'almm jyonqon', 'alnh jihnxin', 'ilhh jhoysow'}, {'Almn jahnsnh', 'alyn jiwnson', 'lhah ojhyshn', 'alnm jhhnqyn', 'almm jwoncon'}, {'alwm jyhnswm', 'hluh hhhnosn', 'allm johnqym', 'alLn joihnsn', 'alym jongoyn'}, {'Almn johnqmo', 'almw jhanshn', 'alLn jonyson', 'ilhm qhonhon', 'alnh jhhnojn'}, {'alym jyonjon', 'almm jhynsyn', 'wlom zohnzno', 'almy jonwxon', 'alln jghnson'}, {'alLn jjynson', 'aahh juhhosn', 'Alhn jihnjan', 'alnh jonxoyn', 'alma jwhngyn'}, {'alln juynson', 'Alhn jowngom', 'almh jonjonh', 'yyam ajhnsno', 'alme johnqno'}, {'Almn juhnjan', 'whaw sohhosn', 'alnm jyonsun', 'allm johmsno', 'alnn joynssn'}, {'alYn jownzon', 'alhm jwhnqun', 'almm jyonsun', 'almy jihnjwn', 'hhah qohnhno'}, {'alYn jonuson', 'Almn jehmjon', 'aaln jonwcon', 'almo jyhngen', 'luah yohnxno'}, {'almy jyonsun', 'almu joymsin', 'hloy gahnsno', 'alLn jihnsyn', 'almm jhhncom'}, {'wluh jhoysno', 'alLn jownzon', 'alwm jjonxon', 'alme juynkon', 'aaln jehnjan'}, {'alym jahngun', 'laoy khowson', 'alnh johngum', 'alyn jownssn', 'almw jahngwn'}, {'almw johncum', 'wlno ojhyqon', 'almo jhynxon', 'alLn jihnswn', 'alma jhonkon'}, {'almo jahngen', 'alLn jownsen', 'ylne yohnxno', 'Alhn jomsoyn', 'alnm jyhnjwn'}, {'almm jahnxin', 'alLn johnswn', 'alnh jyynsom', 'almw jwoncon', 'ayhh xohngno'}, {'alnm johmjhn', 'alYn jiohnsn', 'almm jonqqon', 'awya yohnzno', 'almi jyhngan'}, {'alhm jwhngan', 'alyn jehnsyn', 'almu jwhngin', 'almo jownsum', 'elne whoncon'}, {'almm jownxom', 'alln juhnsyn', 'almy jiymson', 'allm joynkin', 'ulyy xhonkon'}, {'lawh ojwnqon', 'almy joynkun', 'alme jonwcon', 'alma johmzwn', 'alLn jahnswn'}, {'alnm jonxoen', 'aeln juynkon', 'alwn joynsin', 'Almn jonsoym', 'ahyy yhoyson'}, {'Alhn jonwqon', 'hluw ojhncan', 'alYn johnsne', 'allm johnxni', 'almu johnqem'}, {'alnn johnazn', 'alwm joncoyn', 'alme jonjonh', 'almm joynjan', 'olym ojymson'}, {'almo jhonswn', 'almu jyhngan', 'alma jwhmkon', 'ahhh ojhyzon', 'alyn juynson'}, {'Almn jonqyon', 'alym jownswm', 'alnh jonwcon', 'alYn johnswn', 'awyw ojhwgon'}, {'aeln johmjan', 'elww juhnosy', 'Alhn jeonxon', 'alYn jounsyn', 'alnm jowmjon'}, {'alln joanswn', 'aaln jhhncyn', 'wana ojhwsno', 'almh jwhmkon', 'alnm jeymson'}, {'eayn xohnosy', 'aaln joynkom', 'alwm juhnogn', 'alYn jghnssn', 'almy jhhngun'}, {'alnh johnqym', 'alym jiynsom', 'almy jongoen', 'hloy ojhncyn', 'alwn jiynson'}, {'hlha ojyyson', 'alhm jongonh', 'alyn jghnsan', 'alwm jihngen', 'Alhn johmjhn'}, {'almi jihnqom', 'wyay kohyosn', 'alnn jynnson', 'almy johncum', 'alhm jeymson'}, {'whyn jhoysun', 'almh jihnjwn', 'alyn juhnswn', 'alnm jyymson', 'Almn jjonqon'}, {'alyn jjnnson', 'aeln joynkhn', 'luam chonqon', 'alme johngnu', 'alwm jhynzon'}, {'alhm jonjonh', 'alnm johmkin', 'alyn jehnsyn', 'ylum ojynsoh', 'almh jiyncon'}, {'elww khonsin', 'almy jownjwn', 'alnn joynzon', 'alma joymsen', 'aeln jonsyhn'}, {'almy jhhnkin', 'ylom sohnqno', 'almh jonqoen', 'alnh jwhngom', 'alnn jihnsnn'}, {'Alhn jwhnghn', 'almw jiwnsom', 'alym johmcyn', 'ilwy xhonyon', 'alnn jounssn'}, {'alnm johnkim', 'alLn johnsne', 'alwm jownsim', 'eyin khonsan', 'alma jonxuon'}, {'alwm joymshn', 'Almn jehnkhn', 'lwon ojhngno', 'alLn joynsyn', 'alym jeonxon'}, {'alnh jhynsom', 'Almn johngum', 'uluw jehyosn', 'almw jwhnusn', 'alln jehnsyn'}, {'alyn jownsan', 'almi johngni', 'ylym johhkno', 'almh johnjna', 'allm jonwqon'}, {'alnh jaymson', 'alyn johnysn', 'ahoy qoynosn', 'almw jihnsmo', 'alhm jhynxon'}, {'almh jehmqon', 'alnn johnwzn', 'almy jonswen', 'ylhh xhonsoh', 'alwm jhyncon'}, {'alnh jhenqon', 'alwm jahnkin', 'aaln jahnogn', 'hwun yyhnsno', 'alLn juynson'}, {'alnh jongoan', 'ahem xyhnsno', 'alLn jihnswn', 'alma jyhngwn', 'alhm juhngen'}, {'almo jonsyen', 'loaw ojhnosy', 'almh johmsno', 'alwn johnsni', 'alnm johncno'}, {'almm johmsno', 'aaln johmjyn', 'Aaln jehnkin', 'olem jhoyhon', 'alnn jihnsyn'}, {'almu jhonswn', 'alhm jwhnqun', 'alYn joahnsn', 'alnm joynkwn', 'elny ojhysow'}, {'ulhh jhoyshn', 'almm jongoyn', 'alLn jonison', 'almu jownjom', 'alnm joymsin'}, {'almo juhnkyn', 'Alhn johngno', 'alYn jjjnson', 'alhm jehnqen', 'ilhh yuhnsno'}, {'aaln jonqoen', 'alyn joehnsn', 'aulh ojhwxon', 'almh jonsyen', 'Aaln jiynsom'}, {'elyw wihnsno', 'alLn johnizn', 'alnm jhymson', 'Aaln jyhngin', 'almu jiwnsom'}, {'almw jwhnxun', 'aeln jonkion', 'alym jihnjan', 'wlne wjhnosn', 'alln juhnswn'}, {'almm jhhncyn', 'alma jonqoin', 'eyay yohnwno', 'alme jyhnjwn', 'alnn johnsnu'}, {'alwn joinsnn', 'almy jehmqon', 'almh jahngen', 'ualy ojhnwow', 'almm johnkim'}, {'ehln sohnqno', 'almi jwhnsna', 'alln jwnnson', 'almh jonguon', 'aaln jwnhson'}, {'alme johmkyn', 'yaen whonkon', 'alnn johnsno', 'Alhn jhhnoqn', 'aeln jehnkhn'}, {'Almn jhhnqun', 'alYn jaohnsn', 'uwin ojhnsyo', 'alme juonqon', 'almw jhhnqwn'}, {'allm jhhnkin', 'almw juhnoqn', 'alnn jghnsyn', 'yaen xihnsno', 'almy jeonxon'}, {'alyn johnusn', 'almy jahngun', 'alme jiynkon', 'alnh jwhngin', 'hhaw ojwnsan'}, {'olna ojhwjon', 'almw johnkni', 'almi johmkin', 'alnh jonkkon', 'alyn joynsyn'}, {'ahum qahnosn', 'almi jhanxon', 'alyn jahnssn', 'almh jyonqon', 'Aaln jownqom'}, {'aaln jownjan', 'almu jyhngan', 'ilwh ojhyosn', 'alwn juynson', 'almh jehnqyn'}, {'almu joymsin', 'ohin kwhnosn', 'alma joncoen', 'alwn johnasn', 'allm joynkom'}, {'olyw cihnsno', 'alnh jwhnoqn', 'Alhn jonkion', 'alme jownxom', 'alwn johnswn'}, {'almm jehncom', 'iyun kyhnsno', 'Aaln johmgwn', 'almy joymsen', 'alYn joynson'}, {'alwn johncin', 'alme jwnsonh', 'aeln jonqohn', 'Alhn johncim', 'hlno ojwnsno'}, {'Almn jehnqan', 'almo jhonjon', 'ahne ojhywon', 'alyn joahnsn', 'alma jyhnghn'}, {'alwn johnysn', 'alme jhynsun', 'aeln johnkim', 'almo joynkom', 'ulne khonswn'}, {'almy jowngun', 'Aaln johonqn', 'alma jonsyen', 'uhyn gyhnsno', 'alyn jnohson'}, {'alYn jjohnsn', 'lwaw ojhykon', 'alma jonsyen', 'almi jownkyn', 'alhm jhynjon'}, {'alma jonkkon', 'lwon cwhnsno', 'aeln jonshwn', 'Alhn jonkoyn', 'alwn joenssn'}, {'ilww jwhhosn', 'alwn jownssn', 'almi jahnkhn', 'alhm johnjno', 'Almn jjonxon'}, {'almy johnkym', 'Aaln jhynkon', 'awuh ojhnjwn', 'almo johncno', 'alyn johnesn'}, {'allm jehnjan', 'alnn johwnsn', 'ulha ojhwsun', 'alma jyhngin', 'Almn jwwngon'}, {'ahlh whoyson', 'alym jjonqon', 'alnn joynsun', 'aeln jihnsmo', 'alnm johmosn'}, {'almh jwhngom', 'alln jjnnson', 'awhh ojhysan', 'alym jihnsnh', 'alnm jhanqon'}, {'olom whonsun', 'Aaln juhngun', 'allm jonwkon', 'alwm johnkno', 'alYn johnsnn'}, {'alnh jehnkin', 'ulym yhonzon', 'alme jehnqom', 'almo jonjoyn', 'alnn joansnn'}, {'alln jonsony', 'aaln jyhnkom', 'alme jyynkon', 'iyon whonsun', 'alma jhynsen'}, {'almo jonkkon', 'aaln jownsym', 'hlih cahnsno', 'alhm jonsynh', 'alLn joneson'}, {'alnh johncim', 'elew kahnosn', 'almu johnkhm', 'alnn jjohnsn', 'allm johnqno'}, {'alln jouhnsn', 'eyay qhonqon', 'alma joyngen', 'alwm johmcom', 'Almn jiymson'}, {'alyn juhnssn', 'awyw hhhnosn', 'almm jonqonw', 'alma jownoqn', 'aeln juhnqin'}, {'almy johngnw', 'alhm jyhnkyn', 'alwn joynsen', 'almu juhnoqn', 'ylne ojhnkoh'}, {'almw jehnjwn', 'alhm jhyngon', 'aalh khonsoh', 'alln juhnswn', 'almu jwhnkun'}, {'almw jonqoan', 'ylne coynsno', 'Alhn jyhnjwn', 'alYn jonsony', 'almh jonqony'}, {'alwm jiynxon', 'alnm jwhnusn', 'alyn jaynson', 'aeln jongoen', 'uhah jahnwno'}, {'alym jwhnsnu', 'alln jwwnson', 'Aaln jywngon', 'alnm jihnjan', 'hlyw ojhnsyo'}, {'ahwh qhonxon', 'alLn jonnsyn', 'alym jhonkon', 'allm johngnu', 'alhm jahnsnh'}, {'alnh jownoqn', 'alyn joenssn', 'almm juhnqin', 'eyah qahnsno', 'almh jownogn'}, {'alwm jonconh', 'alYn joinssn', 'allm jonhjon', 'ayyw jhhhosn', 'almy jwhnkan'}, {'uluh zohnxno', 'almi johmjom', 'alln jehnssn', 'alwm jonshnh', 'alym johmkhn'}, {'alwm jyhncom', 'wwon yohhsno', 'alym jwhmsun', 'alLn joynson', 'Aaln jhhnjom'}, {'almy jahngun', 'alnm jonwxon', 'aaln jownkom', 'alyn jeohnsn', 'olni johyosh'}, {'almy johnqno', 'almh jyhmsom', 'almo jwnsonh', 'alwn jiwnson', 'ulwm qoynosn'}, {'almi johonqn', 'alwm jyonkon', 'olom jahnyno', 'alnh jonqwon', 'alwn johnasn'}, {'alym jwnsonh', 'alnn jjohnsn', 'yyon wohnosm', 'almy jhhngun', 'alme jonxonh'}, {'alma johmkhn', 'alme johncym', 'alyn jahnsyn', 'allm jhanjon', 'iyen qahnosn'}, {'almu johngnu', 'ylnu jihwsno', 'alnh jhhmqon', 'alyn jywnson', 'almo jhhnkyn'}, {'uway xhonsan', 'alme jonswen', 'aaln jonkkon', 'alyn joonswn', 'alhm jahnkwn'}, {'Almn johnocm', 'almm jwwngon', 'ihwn khonhon', 'almh jiynqon', 'alLn johnzwn'}, {'olym xohnzno', 'aaln jownxin', 'almh jyhnsum', 'aeln johnosm', 'alYn jounssn'}, {'almo juhnoqn', 'alLn johnosn', 'alhm jhonkon', 'Almn jyonkon', 'laam xhonsno'}, {'alnm jehnkyn', 'alwn joehnsn', 'almu juhngen', 'ayno ojhnsaw', 'allm jyhnkhn'}, {'alYn jahnsnn', 'eley ojhwsen', 'alym jhynswn', 'Alhn jihnxin', 'almw jwhmsun'}, {'aeln jehnkyn', 'alwm juhngun', 'Aaln jyhmsom', 'alyn joohnsn', 'whah xyhnsno'}, {'Alhn jhynsan', 'ayew whonsan', 'alYn joinssn', 'alhm juhnkin', 'allm jhhnjhn'}, {'alln johnsnw', 'alwm jhankon', 'alnm jwhngyn', 'liyn xhonsen', 'aaln joymcon'}, {'hwun cwhnsno', 'alYn joonsnn', 'alym jwhngwn', 'alhm jehngun', 'aaln jonyqon'}, {'allm jihncom', 'ehah ojhnqom', 'Aaln johmojn', 'alnn juhnsnn', 'alnm jhhnqan'}, {'alln johnssn', 'Almn johmjyn', 'olwm juhnosy', 'almm jwhmgon', 'aeln jwhnkun'}, {'alwn joanssn', 'ahly sohnosy', 'alme johnjno', 'almu jiyngon', 'alma johmjyn'}, {'alwn jonoson', 'almm jwhnkan', 'liaw johhosh', 'alwm juwnsom', 'aeln jyhngun'}, {'alnh jonhswn', 'Almn johngnu', 'alYn jounswn', 'lona kohnqno', 'alma jehnjwn'}, {'Almn joynken', 'liyn ojhnjwn', 'aaln juhncom', 'alwn jehnswn', 'almo jyhnsum'}, {'Aaln jhhncyn', 'eyam qohhosn', 'Alhn jwhnzan', 'allm jhoncon', 'alyn johnsyn'}, {'alwn jonason', 'wliw yhoyson', 'alwm jwhnusn', 'almm jahncwn', 'alma jwhncyn'}, {'almy jiynqon', 'Almn johngno', 'alln johnnsn', 'alma jhhnogn', 'woln jyhnhno'}, {'alnn joonsyn', 'almi jihngun', 'ailw khhnsno', 'aeln jwwnsom', 'almw jhhnjun'}, {'hlwy jyhyosn', 'alwm jyhnogn', 'alwn juhnssn', 'Alhn jhhnqin', 'almh jhhnjom'}, {'almu juhncom', 'almw jownxom', 'alYn jonwson', 'Almn jahnjwn', 'hlya ojwnwon'}, {'almy jonsynh', 'alwm jhhnjom', 'hyon ozhnosn', 'Alhn johmosn', 'alyn jahnswn'}, {'almu johngnw', 'alym jehnqin', 'hiln jhoyxon', 'alnh jonqion', 'alYn johnsne'}, {'alwn johnizn', 'uyyn kohnwno', 'alnm jonxaon', 'Alhn jyonjon', 'almo jonyqon'}, {'alnh jahnswm', 'waun choyson', 'alLn jeohnsn', 'alwm johongn', 'alma jehnoqn'}, {'aeln jwnsonh', 'alYn jiynson', 'almu jehnoqn', 'liyn xhonswn', 'almh jihncom'}, {'alwm juhnjin', 'Alhn jiyngon', 'allm joynjan', 'eywn sohyosn', 'alwn joynsnn'}, {'almh johmjen', 'Alhn jonwsom', 'alln johnwsn', 'lwin okhnosn', 'almo jhonshn'}, {'Almn jyhnogn', 'laeh yhoyson', 'alLn jonoson', 'almm jhonkon', 'alnh jehnqwn'}, {'almy johmjun', 'lwun qhonqon', 'alyn johnwzn', 'aeln jwwngon', 'Alhn jahnjan'}, {'Aaln jwwngon', 'alYn johnysn', 'alhm joynqom', 'alme jahnjan', 'ulhm ojhnshy'}, {'yahn kohysno', 'Almn jhinqon', 'alwn johncyn', 'alym jonshnh', 'alwm jihnogn'}, {'ilnu ojhncan', 'allm jhhnzwn', 'alyn jwnnson', 'Aaln jyhnkhn', 'alym jowngen'}, {'Aaln jonkwon', 'aeln jiynshn', 'ahlh zownsno', 'alLn joynson', 'alme jwwnkon'}, {'allm jwhnkhn', 'olnh ojhyxon', 'alyn joinssn', 'alma jyyngon', 'alme johmcyn'}, {'alwm jhwnqon', 'alwn joonsyn', 'almm jwnsonh', 'alhm jongonh', 'elny jhoyyon'}, {'Almn jehnoqn', 'almo jehnjwn', 'ulhm jhonshw', 'alYn jjnnson', 'alwm jyhmsom'}, {'almi jyhnsem', 'alnm jehncom', 'almh jwhnkan', 'alnn juynson', 'ayne ojhnsno'}, {'almm jhongon', 'alme johncwm', 'Almn jwhnken', 'iyon zohnxno', 'alnn jonoson'}, {'alwn johwnsn', 'elwa kuhnosn', 'almm jhnoqon', 'Alhn jahnswm', 'alme juhnkyn'}, {'alYn joonswn', 'almo johnoqm', 'leen zhhnosn', 'almh joynkhn', 'alnm jewnsom'}, {'alym jhwnsom', 'alwm jyhnshm', 'yhaw ojhyswn', 'alln jihnssn', 'almi jwhnkwn'}, {'almi jhancon', 'Aaln jwhngun', 'uhin zhoyson', 'alYn jonyson', 'aaln jehnxin'}, {'alln juhnsnn', 'lhah yhonsno', 'alhm jonqeon', 'almm jonkaon', 'Alhn jhynsin'}, {'alhm jhwnjon', 'Aaln jehnkhn', 'alnn jonsown', 'elwh ojhngen', 'almw jhynsun'}, {'almw jhongon', 'elww gohnosy', 'alLn johnosn', 'alym johmojn', 'aaln jhhnqhn'}, {'alLn jonsown', 'alma jonwcon', 'allm johnogm', 'laam gohnosy', 'almy jhoncon'}, {'allm jonhgon', 'alhm johngwm', 'alnn jnohson', 'iyun zohhsno', 'alme jonwgon'}, {'almh joynkwn', 'awha chonsun', 'aaln jwhncyn', 'Aaln jahnsnh', 'alYn jehnssn'}, {'alyn johnazn', 'alme jyyngon', 'almi jownkhn', 'almh johmcyn', 'iluh ojhnosy'}, {'almu johnogm', 'alln jiwnson', 'hlim yahnsno', 'aaln jehngwn', 'almh jehnoqn'}, {'iahn kohhosn', 'alnn jouhnsn', 'alwm jyynsom', 'almu jyhnzom', 'aeln jonsyhn'}, {'alme jhhnjan', 'uluy ojwnsoy', 'alhm jonkaon', 'almh joymsom', 'alYn jwwnson'}, {'almy joynxin', 'almm johnkhm', 'allm jyhnghn', 'alln jahnsyn', 'aawy ojhycon'}, {'almh jonswnh', 'ahna khonxon', 'alhm johnqhm', 'allm jonkuon', 'alLn juhnswn'}, {'almw juynkon', 'alwm jyhnsym', 'ylhh yohhosn', 'alyn jonsown', 'alnh jhunqon'}, {'elya zhowson', 'almu joynkin', 'aeln johnkym', 'alnm jwhnxan', 'alln joinsyn'}, {'almo jonquon', 'ulhh sihnosn', 'alnh jwonqon', 'alhm johncmo', 'alYn joonssn'}, {'almh jonkion', 'alyn jownswn', 'almo jongonh', 'uwaw ojhysno', 'almi jehmjon'}, {'almh jahnswm', 'olnu wohngno', 'alYn jonnsnn', 'almm jonwshn', 'alnm johnjam'}, {'almh johngni', 'alyn johnuzn', 'liah yohhsno', 'almu jhhnjun', 'Almn jyynkon'}, {'alwm johmxin', 'alme jwhncun', 'aaln jahnsmo', 'awnu jhoyshn', 'alln jghnsan'}, {'eahn oyhnsno', 'Alhn jownjom', 'alym jwhncom', 'almy johncim', 'alLn jonnsyn'}, {'almu jownzom', 'wway ojhwsan', 'Almn jwhnqom', 'Alhn johnjno', 'alyn jonsoyn'}, {'alwn joinsyn', 'alme johnqum', 'alwm juhngwn', 'allm johncem', 'lwam chonsun'}, {'alwn johnssn', 'almi jhyncon', 'Aaln jyhnzwn', 'aeln jiynkon', 'awma jahnwno'}, {'alme jhynsan', 'alnm jihnoqn', 'uwon xhonqon', 'alwn joenswn', 'almi joymjon'}, {'allm jiynqon', 'yhaw ozhnsno', 'almy jwhnosn', 'almu jonkaon', 'alnn juhnsyn'}, {'alnn jehnsnn', 'almh jhhnjin', 'laeh ojhwhon', 'almy johmkyn', 'almo juhngwn'}, {'Alhn jhanqon', 'ahoy yownsno', 'Aaln jonjoyn', 'alnn jihnswn', 'aeln jihngen'}, {'alma jynsonh', 'almw jowmsom', 'alwn jounswn', 'lyah xhonsno', 'almy jonswnh'}, {'alnn joonsyn', 'lwen kuhnosn', 'almu jiynshn', 'Alhn joynjan', 'alma jyhnghn'}, {'olni hhonswn', 'almu johmosn', 'alnh jihncom', 'alln johnizn', 'almy joymxon'}, {'iluy ojhwsyn', 'Alhn jyomson', 'almi jyhnsim', 'almu jehnqom', 'alln jjjnson'}, {'alma jownsum', 'almw jhongon', 'hluw cohngno', 'alnn jownzon', 'alwm jonkony'}, {'Almn jhenqon', 'alwn jjohnsn', 'ayom kohnosm', 'almu jwonqon', 'allm jwhnqan'}, {'almh johmxin', 'almy jwhnzun', 'almo jwhmsan', 'olwm ojhhcon', 'alyn joonssn'}, {'Aaln joynogn', 'alyn joynsun', 'lwhn jhowcon', 'almw jyonsun', 'almy jonconh'}, {'awno johyosh', 'alwn jwwnson', 'alwm jwhnusn', 'allm johmjhn', 'Aaln jhynxon'}, {'alma jhhnkhn', 'alnm jhynswn', 'ohah ojhysin', 'Almn johnqem', 'alnn jahnssn'}, {'elya sihnsno', 'alLn johnswn', 'alme jyhnkin', 'almu johngna', 'aeln johnqno'}, {'eyam cohhosn', 'alwn jihnssn', 'almi jwhnjun', 'alwm jyonqon', 'almh jhynsan'}, {'alwn johwnsn', 'Aaln jhhnsno', 'alnh jyhmgon', 'almi jywnsom', 'wlwy chonsun'}, {'alhm jyhnzwn', 'alYn jaohnsn', 'hwun choyson', 'almo jwhmsun', 'almw jiyngon'}, {'alwm jhynsan', 'alwn jownswn', 'almi jhonshn', 'elwh whonsan', 'almw jonwcon'}, {'awna ojhywon', 'alnm jownkhn', 'alma jhhnjen', 'alhm jhankon', 'alyn johnwsn'}, {'alma jonwxon', 'almy johmsno', 'alwn joynsun', 'lown jhonshy', 'allm jonconh'}, {'alme jahnxwn', 'almi jonguon', 'wiln kohnosh', 'alwn joohnsn', 'alwm johmkin'}, {'alln joynson', 'alym jownsam', 'allm jownjan', 'ahym ojwnsoy', 'alwm jonhqon'}, {'alnm johmjhn', 'almw juhngun', 'alLn jonnssn', 'whin shoyson', 'aeln jiwnsom'}, {'alYn jownssn', 'ihin jyhhosn', 'allm jhynsom', 'Aaln jehnxin', 'aaln jyonqon'}, {'alLn johncyn', 'haaw kuhnosn', 'almm joynkan', 'aeln jihnxin', 'alhm johngmo'}, {'luyn ojhnkoh', 'alyn jjwnson', 'alym johnqhm', 'almh jiynqon', 'Alhn jongoan'}, {'almi joynkan', 'alyn joehnsn', 'allm juhmjon', 'ahiw khonsen', 'almo jwhmsun'}, {'alnh juhncom', 'alln joensyn', 'almo joynkwn', 'yyhn jhoysoy', 'allm jwhnghn'}, {'lyyn xhonxon', 'almu jonqqon', 'alwn jaohnsn', 'alnm joynjwn', 'almy jongoyn'}, {'aeln jhonkon', 'almy juhnjan', 'alln johnwzn', 'ulne johwosy', 'almo jownsim'}, {'almw joynokn', 'liwn jhoyqon', 'almh johnxni', 'alme jehnqyn', 'alYn jounswn'}, {'ulem xhomson', 'aeln johmcom', 'alln johnsnn', 'almu johmgun', 'almi johngno'}, {'almo jihnsmo', 'alYn jownsan', 'ayna johyosy', 'almu jahnoqn', 'alnh jwhnsno'}, {'alwn johnsyn', 'alhm johnqem', 'almh jyhnjan', 'aeln johmojn', 'ylom xohhosn'}, {'ulma kuhnosn', 'allm johnxno', 'Alhn jhhnqhn', 'alwm jyhnzwn', 'alYn jjnnson'}, {'alwn jghnsyn', 'alnh jonqony', 'yhay ojhnsuy', 'alym jonshno', 'almu jensyon'}, {'aaln jehncom', 'alme jwnsonh', 'almh jehnxin', 'alln jounssn', 'ilya yohnjno'}, {'alwn jehnsnn', 'ayya ojhwyon', 'Almn johngno', 'almo jeynkon', 'alym jwhnzun'}, {'Almn jihngwn', 'yaly kohncno', 'allm johnxno', 'Alhn jyhnzwn', 'alwn jonsoyn'}, {'lhah khongon', 'aaln jyhnkin', 'alhm johmoqn', 'almw jonhjon', 'alln jonyson'}, {'almy jiwnsom', 'alnh jonqqon', 'yluw sohnosy', 'Aaln jwhnqom', 'alwn johnzwn'}, {'alme jhwnsom', 'alwm jahnxwn', 'almh jonsyhn', 'alLn joneson', 'ailh ojhnjan'}, {'lwhn johmosy', 'alwn johncin', 'allm jhynxon', 'alme jownsym', 'aeln jonwgon'}, {'almi jwonqon', 'ylwm ojhwsyn', 'alnn jonsown', 'alhm jhonkon', 'alwm joynkwn'}, {'alwn jonoson', 'alma jhhnqan', 'alme jehnqun', 'almy johmjom', 'olni koynsno'}, {'aeln jhhnkyn', 'alnh jhynzon', 'almo jhyngon', 'alln jahnssn', 'eyah ojhngun'}, {'alym jyhnjom', 'almi jiynqon', 'alwn johnuzn', 'oloy ghonsom', 'almw johngum'}, {'almh joynkyn', 'alwn jghnsyn', 'aeln johnqym', 'olnh johygno', 'alma jwnsonh'}, {'oloy jhowqon', 'alnh johnqam', 'Almn jownkin', 'almu jhanjon', 'alLn jjohnsn'}, {'alln jownson', 'alma jownsum', 'alme joymswn', 'hloy zhonsno', 'alnm jownkom'}, {'almw jwhnkwn', 'alln joynssn', 'aawy jwhhosn', 'alnh jihnsnh', 'aeln jehmjon'}, {'alLn juhnssn', 'almo jonyxon', 'aeln jiymson', 'aalw zwhnsno', 'alnh jonsoym'}, {'ahiw zahnsno', 'alyn joanssn', 'allm jehnqwn', 'almu jwhnghn', 'alym johmjen'}, {'ylim yownsno', 'aeln johmkin', 'Almn jonxoen', 'alYn jehnssn', 'almy jownsym'}, {'laeh whonsan', 'alnm jihnkyn', 'alLn johnznn', 'alhm johnqmo', 'almi jhankon'}, {'ayhm ojhwkon', 'alln jewnson', 'Aaln jonjonh', 'alhm jiynqon', 'almy jhonqon'}, {'yiln ojhnxoy', 'almu jhhnqhn', 'aaln jwymson', 'almh jomsoyn', 'alLn johnsnw'}, {'alnn jonwson', 'alnm jwhngen', 'almm jhhnjom', 'ahyh chonsun', 'almu jahnqwn'}, {'alnh jensyon', 'Alhn jiyngon', 'alwm jahmswn', 'ayoh jahyosn', 'alln joehnsn'}, {'ulhh yohwsno', 'Aaln jihngun', 'Alhn johnxni', 'aeln jahnogn', 'alyn johnsnw'}, {'almi jwhnosn', 'Aaln jyhnsym', 'eiln ojhykon', 'alyn joihnsn', 'Almn juhncom'}, {'alme jeynqon', 'alnm johmcyn', 'haaw sihnosn', 'alLn jahnsnn', 'aeln jhhnogn'}, {'almh jhonqon', 'almm jhhncyn', 'alyn jonason', 'yaaw ojhwsyn', 'alma jwhnsno'}, {'almu joynokn', 'alYn johnsnu', 'oluh johyosh', 'Almn jhhnosn', 'alym johmqom'}, {'almu jonhgon', 'Alhn jonquon', 'alnh jhanshn', 'eyam gahnsno', 'alYn johnsnu'}, {'almw juonqon', 'almm jaynkon', 'alwn johnusn', 'eyin khonhon', 'almh jownogn'}, {'alma jwhmjon', 'alme jongonh', 'aahm zhonsno', 'alwn jwynson', 'alwm jyhngyn'}, {'Aaln johmxin', 'alln joynson', 'almm jyhnjwn', 'ylhy xhonqon', 'alma juhngen'}, {'alwn johwnsn', 'alnh jwhnusn', 'lien jahnosh', 'alma jownsim', 'almi jhynsyn'}, {'Alhn jyhngin', 'haam ojwnqon', 'almh jyhnqom', 'alYn johnsnw', 'alwm joymsen'}, {'ailw shonxon', 'alnn johnsni', 'almo juymson', 'almi jonshwn', 'Alhn jwhmgon'}, {'almw jwhnsam', 'Alhn jyhnzom', 'alwn johnwzn', 'ohah yohnzno', 'alnm jownkom'}, {'almi jehmqon', 'Alhn jaonqon', 'alln jehnsnn', 'hhwn cahnsno', 'alym joymzon'}, {'laew qhonhon', 'alnh jhynxon', 'almw jyhnsno', 'alyn johnsny', 'Aaln johnqmo'}, {'alnn jonsoyn', 'almu johnjwm', 'Almn jehmjon', 'hywn xhonsyn', 'alma jonjoen'}, {'alhm jhonjon', 'alnn johwnsn', 'aaln johnqem', 'almo jahnjan', 'whun jhonxoy'}, {'almh jehnqen', 'ayom jhhnhno', 'alLn jownsan', 'Aaln jonshwn', 'alhm jeymson'}, {'almm joynoqn', 'alhm jowngom', 'alwm jyhnkom', 'alYn jonnsnn', 'lauh ojwnosn'}, {'Aaln jwhnzun', 'alnn johnwzn', 'almo juymson', 'almh jyhnsno', 'ulim yhoyson'}, {'almy jyhnshm', 'almi jyynkon', 'alwm jwhnusn', 'alYn joahnsn', 'yhah jhoyqon'}, {'lwon jhoycon', 'allm jwynkon', 'almu jhhnqhn', 'alYn johnyzn', 'Alhn jonqoen'}, {'alnh jyomson', 'Almn jehnjwn', 'almu johnkno', 'alLn johnsni', 'uhun jihnyno'}, {'Almn johmjen', 'alym johmjhn', 'almi jihnqom', 'alnn jjohnsn', 'ulum xhonsoh'}, {'alwn jyynson', 'hlno ojhncom', 'alnh joynkin', 'alym jeynkon', 'Alhn jyhnoqn'}, {'almy johngnw', 'almh jiymson', 'uhin jehnosy', 'almm jihnkyn', 'alwn jonsoyn'}, {'Almn jwhnjun', 'alLn joynsin', 'alhm jonwkon', 'aeln jyhnqom', 'ywun ajhnosn'}, {'yliw kwhnosn', 'almy jahngen', 'alyn joynsin', 'aeln johmoqn', 'almi jehngwn'}, {'Aaln juhnjan', 'alLn jehnssn', 'almh juhnqom', 'lewn ojhwhon', 'alwm johmcom'}, {'allm jwhnasn', 'alwm jownxom', 'almy jownjan', 'aayy xhonkon', 'alnn johnyzn'}, {'aaln johmjen', 'lwna zohngno', 'aeln jihnjan', 'alwn jownsyn', 'alme jwonswn'}, {'alnh jyhnkom', 'alwn juhnsyn', 'almy jahmswn', 'uwhn ojhysoy', 'alym johmgun'}, {'alwn johwnsn', 'alwm juymson', 'ywun johwcno', 'alme jehnqyn', 'aeln jhonqon'}, {'almh jhanqon', 'alym jensyon', 'hlwm kohnzno', 'Almn jonqeon', 'alln jehnsnn'}, {'ilya ghonsom', 'alln jynnson', 'almw jonswnh', 'Alhn jiynjon', 'almy jonqeon'}, {'alme jihngwn', 'alwn jwynson', 'ihyn kownosn', 'alnh johmjin', 'almi johmjyn'}, {'alym jonqoun', 'almu jhhnjom', 'hwwn ojhnjwn', 'alyn jahnswn', 'Almn jhonkon'}, {'alnh joymxon', 'alln joansyn', 'almy johmzwn', 'iluy jyhhosn', 'almu jhwnjon'}, {'alln joohnsn', 'almi jhynxon', 'aeln johmoqn', 'leaw khhnsno', 'alym jongoyn'}, {'alwm jonkaon', 'alLn joansyn', 'alnh jhhnogn', 'waly wohyosn', 'aaln jyhngin'}, {'awhm khonxon', 'aeln johnkno', 'alln jghnsen', 'alme johnqwm', 'alnm jiynqon'}, {'alnn joinssn', 'hhln xhonsen', 'almy jehnqen', 'almh jewnsom', 'allm jwhnkwn'}, {'awhm cwhnosn', 'alwn joynsen', 'alma jonqwon', 'alhm jhymson', 'almi johmqom'}, {'alnh jywngon', 'alnn joenssn', 'alma johncem', 'wluy ojhnshw', 'alnm jonqqon'}, {'alln jownson', 'alme jeynkon', 'almw jwhnsna', 'whaw ojhnkyn', 'almo jhansyn'}, {'aeln johmjwn', 'alwn juhnswn', 'almy jahnxwn', 'alhm jwonswn', 'iwwn zohnqno'}, {'allm jwhnzan', 'alme jhynsun', 'alnn jjynson', 'alhm johmqom', 'ahuh johwgno'}, {'alma jwhncom', 'alyn jownzon', 'ayey xhonsoy', 'almy juhngen', 'almh jahnjan'}, {'alYn jyynson', 'alhm johnxno', 'ahiy ojhyzon', 'Aaln jyhngwn', 'almh johnocm'}, {'ihah cihnsno', 'Almn jonqqon', 'alhm joymkon', 'almh jhangon', 'alYn johnosn'}, {'loam zohngno', 'almu joynogn', 'alLn johnazn', 'alnh jyhmsom', 'alnm jyhngyn'}, {'aeln jyonqon', 'almw jhynqon', 'hlwh jehnosy', 'almo johmjan', 'alnn jonsony'}, {'almm jahnxin', 'lawh whonsun', 'almo jownkyn', 'alln jahnssn', 'almw jehngen'}, {'alnh jhanswn', 'hlne wohngno', 'alYn johnswn', 'alym joynoqn', 'almi jwhnken'}, {'alwm johngnw', 'alyn jonnssn', 'Alhn jownqom', 'eham ojhhcon', 'Aaln jyymson'}, {'alwm joymswn', 'almh jahnjwn', 'almu jwwngon', 'leah xhonswn', 'alyn johnzzn'}, {'alym jonhgon', 'alnh johmkhn', 'alLn johwnsn', 'allm jhhnqin', 'lahh ojhwsin'}, {'yliw ojhnwow', 'almh joymswn', 'alma jhhnqan', 'Aaln jeynkon', 'alyn jonsonw'}, {'Aaln jownkhn', 'almi jwhnjan', 'alyn jonuson', 'uuln ojhncyn', 'alma jwhnkan'}, {'alLn johncyn', 'almu jhonxon', 'Aaln jonqonw', 'almw jonquon', 'elne zohnzno'}, {'alme jyhngwn', 'ylma xhonqon', 'almo jywnsom', 'Aaln jiynsom', 'alwn jghnsen'}, {'alnh jowngwn', 'aeln jhonxon', 'Aaln jhynsom', 'alYn johnsyn', 'olwa joynosy'}, {'alwn jownson', 'almw juhnkhn', 'ahiy kohnjno', 'alym jonqoan', 'alme juhngwn'}, {'alwm jhhncom', 'almu johnxno', 'uway ojwnshn', 'alyn johnezn', 'aaln jyhnjwn'}, {'alma jonqhon', 'alhm jehnoqn', 'alln johnizn', 'waah qohngno', 'almo jhynsyn'}, {'almh jonhqon', 'almu juhnoqn', 'ahih kwhnsno', 'almw jonqoon', 'alyn jehnswn'}, {'alhm jhhnqen', 'Alhn jonqoyn', 'almy jhanswn', 'whah gahnsno', 'alln johnsyn'}, {'alwm jyhnxom', 'alln juwnson', 'Almn jonkoyn', 'ylhy ojhyqon', 'Aaln jahnjwn'}, {'Almn jihnogn', 'oyen hihnsno', 'aaln jwwnkon', 'almu jyhnghn', 'alnn joynsyn'}, {'ylma jahwsno', 'aaln joymsom', 'almo jonxaon', 'alwn jjnnson', 'Aaln johmsno'}, {'Alhn jownkhn', 'alnm jihnogn', 'alln jounswn', 'eahn zhonsoh', 'alma jonshno'}, {'hiln jyhysno', 'alma jewnsom', 'alnn juynson', 'aaln juhncom', 'almm juymson'}, {'alyn jounsyn', 'alhm jiynxon', 'Alhn jhhnqan', 'alme jehnkyn', 'laoh qhonxon'}, {'almy jonxaon', 'Almn jonkkon', 'alnm joymgon', 'alwn jonsown', 'lwon ywhnsno'}, {'allm jehnjan', 'alym jihnjwn', 'yhwn johhcno', 'almo jihngun', 'alLn johnysn'}, {'allm jwhncyn', 'alYn juwnson', 'Aaln jwynkon', 'awny kwhnsno', 'alnm jhyncon'}, {'laww zhonsyn', 'aeln juynkon', 'alYn joonssn', 'alma jahngun', 'alnm joynjan'}, {'alLn jonsown', 'aeln jehnxin', 'almm juhngin', 'ayiw wohnosm', 'alma jownkyn'}, {'aaln jwhnzun', 'Almn jhinqon', 'elni ojhncom', 'alnn johnzyn', 'allm jwhnkun'}, {'olma ojhyshn', 'alnm jwonsin', 'Alhn jahngun', 'almo jhanjon', 'alLn joansnn'}, {'almi jhonqon', 'almm jwyngon', 'alnn jiynson', 'eeln ghonsun', 'alme jowmjon'}, {'alyn juhnsyn', 'allm juwnsom', 'olum jhoyqon', 'alnh joymkon', 'alhm jyhnsmo'}, {'yhen jehnosy', 'alyn johnasn', 'alwm jyhngen', 'aeln johmxin', 'Almn johmcyn'}, {'alnh joynoqn', 'alme jhhnqan', 'alym jonqaon', 'alwn juwnson', 'ahim yuhnsno'}, {'lawa zohmsno', 'alYn johnsne', 'almy jwhnqan', 'Alhn johnxno', 'almi jhhnqwn'}, {'yyhn xhonsno', 'alYn johnizn', 'aaln jongoan', 'aeln jonguon', 'alma juhngen'}, {'aheh yahnsno', 'alwm jhhnjom', 'aeln joynxin', 'alma jwyngon', 'alYn johwnsn'}, {'almi jhynjon', 'aaln jonswnh', 'hwaw ojhhsyn', 'almh jwhnogn', 'alnn jwwnson'}, {'aaln jyhngen', 'wlyw yohnqno', 'alln jehnssn', 'almo jwhnzwn', 'alwm joynkwn'}, {'eeln ojhwsan', 'alma jonqhon', 'alym johmjom', 'alnn joynssn', 'alwm jonquon'}, {'alhm jwhngom', 'alLn jownzon', 'allm johnqum', 'hyaw ojhwsen', 'aaln jwhngwn'}, {'almo johnjna', 'aaln jahnjan', 'alln jeohnsn', 'elnh johhosy', 'alnm juhnqom'}, {'Aaln jwhnkyn', 'olwy ojwnsyn', 'alym jjonxon', 'almw jhhnosn', 'alwn jonsown'}, {'almo jhhngen', 'alhm jyhngom', 'alLn jywnson', 'almm jonqeon', 'uuln kahnosn'}, {'alnm jhhnjhn', 'Almn johngnu', 'Alhn jahnkhn', 'wluy ghoncon', 'alLn jihnswn'}, {'Almn jonxoen', 'almo jhynsun', 'alnn johnsny', 'ilww jhoyjon', 'alme jhhnkhn'}, {'almy jhyncon', 'alwm jhynsan', 'aaln jonkuon', 'ulym ojhnsno', 'alyn johnysn'}, {'alnh jeynqon', 'alLn jonsown', 'allm jehnqen', 'aaln jhonsyn', 'uwhn cwhnsno'}, {'Almn johmgwn', 'alym juymson', 'alyn jywnson', 'almi jhynswn', 'ywwn jahnwno'}, {'alyn joneson', 'almo jonkony', 'almw jywngon', 'alnh johngnu', 'laeh khowson'}, {'yaah qahnosn', 'alme jhhnjyn', 'aeln joymsen', 'almo jonsoym', 'alYn jownsnn'}, {'almh jhynqon', 'Alhn johngmo', 'aeln jwhmgon', 'alyn jonwson', 'ayly ojhncyn'}, {'alYn jeynson', 'alnh jhansyn', 'awya sihnosn', 'aeln johncno', 'Alhn jhonqon'}, {'ohwn cohnosy', 'alln johncen', 'almo jhynsun', 'alhm johmjan', 'alnm jonhjon'}, {'alnh jonxoen', 'Alhn jwhngin', 'eyaw wohyosn', 'almm jiynsom', 'alnn johncen'}, {'almm jhwnjon', 'almw juhnjin', 'almu johncum', 'yhay ojhysen', 'alln joinsnn'}, {'eyon ojwnsoy', 'Almn jonhgon', 'almu jhhnogn', 'aeln joymkon', 'alnn jihnsyn'}, {'alLn jghnsyn', 'Alhn jwhngyn', 'aeln johnqim', 'alwm jahnogn', 'layy zohwosn'}, {'alnn johnusn', 'alnm jonkony', 'aaln juhnqom', 'allm jwhnsna', 'ayly jhoyyon'}, {'almu jonshno', 'alLn johnyzn', 'alme jwonsom', 'iyen xhonxon', 'almm jwynkon'}, {'ayno ojwnwon', 'almm jiyncon', 'alyn jonison', 'almu jowncom', 'almw joynken'}, {'Aaln jhhnjin', 'almy jahnjan', 'alLn jonwson', 'almi jonhgon', 'uway zhhnosn'}, {'Almn jehnqhn', 'olim khonsoy', 'alLn johnuzn', 'alwm juynkon', 'allm jhhnkyn'}, {'eyin jhowsoy', 'alln juohnsn', 'almo jwhmsan', 'aaln jahnxin', 'alwm joyngwn'}, {'alyn johnusn', 'almm jahnsnh', 'alym jaymson', 'allm jownsem', 'loam xhonswn'}, {'oalm khoncon', 'alwm jwhmgon', 'almw jonswen', 'alwn joahnsn', 'almi jyhnghn'}, {'alwn juhnsyn', 'almy jonxoyn', 'almh johonqn', 'almw jaonqon', 'olwh yohwsno'}, {'alma jownsum', 'alwn johnzzn', 'almu jaymson', 'eloy yyhnsno', 'alym jonyqon'}, {'alym joynqom', 'almy jyhnkhn', 'alYn joonssn', 'leyn zhonsoh', 'Alhn johmsno'}, {'alnm joynqom', 'alln johnozn', 'almh jahnsnh', 'awyw qoynosn', 'alme joymsin'}, {'alnn johnnsn', 'ehln shonqon', 'almm jehngun', 'Almn jyhnzwn', 'alwm johnkni'}, {'alwn jghnsyn', 'alnm johmjun', 'aaln johnosm', 'Almn jonyqon', 'ahem okhnosn'}, {'almo jonqeon', 'almi juhnkin', 'alhm jehnqyn', 'yaah hohhosn', 'alyn jihnssn'}, {'almo juhnkyn', 'alwn jywnson', 'alwm juhnoqn', 'almw jonqion', 'liwn xyhnosn'}, {'wley yohhsno', 'alYn joynsen', 'alnh jonjoyn', 'allm jyhnzom', 'aaln jownjom'}, {'alnh johnogm', 'alYn johnsny', 'alhm juoncon', 'aeln jonjonh', 'lien ojyyson'}, {'almo jhhnjen', 'almw jahngen', 'alYn johnznn', 'ehwn ojynkon', 'almy joymsen'}, {'Alhn jyhnghn', 'alnh jwhnsam', 'alyn johnsnn', 'awoy ojhnkhn', 'Aaln jwonsom'}, {'almi jownshm', 'alme jwhnkun', 'laow kohnyno', 'alLn jghnsan', 'alhm jwhnkhn'}, {'almw jhanswn', 'almo johmqom', 'alme juhngen', 'liah ojhysno', 'alnn joanssn'}, {'alyn jjnnson', 'allm jihnxin', 'almi jyhnogn', 'lena whoyson', 'almw jyhnzom'}, {'allm jongoen', 'almo jyhnsmo', 'ohyn johyosw', 'alnn jownson', 'alma jyhnjom'}, {'almu jyhnkhn', 'alyn jownzon', 'hlyw zohnjno', 'almo jwhncun', 'almy johnoqm'}, {'almu jehngun', 'uyun yohnyno', 'allm jiymson', 'alyn jonyson', 'Alhn jihnqom'}, {'Alhn jhanjon', 'ulem johmosy', 'almy jonwkon', 'almw jihngen', 'alyn joihnsn'}, {'alln jonnswn', 'alnm jonqonh', 'Almn jahnkhn', 'hyaw khomson', 'Alhn juhngwn'}, {'almh jonqoan', 'Aaln jhangon', 'alLn johnizn', 'almm jyhnqom', 'uwon jwhyosn'}, {'alnn jounsyn', 'alma jehnogn', 'almi juhnkyn', 'alme jhhnqhn', 'owwn whoncon'}, {'aaln jyhncom', 'aeln jahnxwn', 'alwn joinssn', 'almy jyhnkhn', 'ylww ojhnosy'}, {'aheh jhowcon', 'alyn jonoson', 'alma jahncwn', 'Alhn jwwnsom', 'alhm jyhmsom'}, {'alym jownshm', 'elna zoynsno', 'alnm joymgon', 'almo jwhmgon', 'alln jonison'}, {'alwn joanssn', 'elna jehhosn', 'Alhn jwhncom', 'almu juhnjin', 'almm jonxuon'}, {'alwn jnohson', 'alwm jonyqon', 'aaln jhankon', 'liwn ojhwkon', 'almo johncno'}, {'allm jwhnogn', 'Almn jonkoyn', 'ayha wohnosy', 'alnn jaynson', 'alnh jyynkon'}, {'alnn joensnn', 'aeln jownqom', 'aahy ojhwjon', 'almw jwhnzun', 'almu jonsynh'}, {'almh jonconh', 'allm jonswnh', 'alyn joynson', 'oiln ojhnzwn', 'alma jhenqon'}, {'alme jhhnjwn', 'alwm jhhnosn', 'eeln jhonsyo', 'alYn johnsnw', 'almo jownxin'}, {'alln johnzzn', 'Alhn jhhnqom', 'alme jwhmsan', 'luaw khonsoh', 'alym jyhngin'}, {'lawa wihnsno', 'almy jihnkin', 'alLn johnasn', 'alnh jhwnqon', 'almu jwhnxin'}, {'Aaln joynkwn', 'alln jiwnson', 'alnm juhnqin', 'almw jowngom', 'hhin jhonqoy'}, {'alhm jahnqwn', 'alLn johnasn', 'allm johnoqm', 'alym jyhnkyn', 'ulhh johwosy'}, {'alwn johnssn', 'olwh xhonxon', 'aaln joncoyn', 'almu jiyngon', 'almw jonkoen'}, {'alwm johmxin', 'alnn johnesn', 'almi johnxim', 'Alhn jonqonh', 'leyn qohnosy'}, {'alnh jehnjan', 'almi jownjan', 'alLn jghnsen', 'elhh zohwosn', 'alym jyonswn'}, {'ylya kehnosn', 'alln jghnzon', 'allm jwhnzun', 'alhm johmojn', 'alma jehnqom'}, {'almh johmqom', 'hwin zohnosh', 'almo joymxon', 'alwn joonswn', 'aeln jhhnjhn'}, {'almy jahngun', 'Alhn jhhnjhn', 'Aaln juhngwn', 'hlhm ojhwsen', 'alwn jonwson'}, {'alwn jghnsyn', 'eham ojwnqon', 'almm jaonqon', 'alnh jihnxin', 'alme jhonshn'}, {'almi johmoqn', 'alLn jounswn', 'hhyn shonqon', 'almw jaonqon', 'alwm jonwqon'}, {'alma jeonqon', 'wloy jehhosn', 'allm johmcyn', 'Almn jwhmsun', 'alyn jonnswn'}, {'alyn jonason', 'when sohhosn', 'almi jhhnogn', 'alym jionqon', 'almm jonkoyn'}, {'alma jyhnqom', 'ehah khonsyn', 'alyn joinswn', 'allm jhynsen', 'aaln johongn'}, {'ilna ojwnsun', 'alln johwnsn', 'alme johnxim', 'almi jjonqon', 'alym johnjno'}, {'almh johncum', 'ailh qhonhon', 'almm jowngom', 'alwn jahnswn', 'allm jyynkon'}, {'almu jonqyon', 'elhh yoynsno', 'alyn joynsyn', 'alma jwyngon', 'almi johmcom'}, {'alnm jonwqon', 'elyw wohngno', 'alLn joonsnn', 'almh johngnu', 'almu juhnjan'}, {'alln johnnsn', 'Aaln johmkhn', 'allm jhhncom', 'haaw ojwnsow', 'Alhn jwhnzwn'}, {'almy jwhnkin', 'Alhn juhnkhn', 'olno xhonsoh', 'alnm jonwxon', 'alyn joansnn'}, {'alme jyyngon', 'alyn jouhnsn', 'allm jahnsmo', 'almh jihngun', 'uwun yohwsno'}, {'hlna juhyosn', 'alLn joynsen', 'alnh jhynsyn', 'Aaln jyhnsym', 'allm joynkyn'}, {'alnn juohnsn', 'ylnh ojwncon', 'almm jwhnxun', 'almy joymsun', 'alma jowncom'}, {'Alhn jhunqon', 'alyn joihnsn', 'uwon jhhnosy', 'aaln johmkhn', 'alym jownsym'}, {'alme joynjwn', 'ihun qhoyson', 'alnn joenssn', 'Aaln johnkno', 'almm johngnw'}, {'alnh jahngun', 'aaln jiynjon', 'ahyh jwhhosn', 'alym johmgun', 'alyn johncen'}, {'alLn joensnn', 'haam jhoysin', 'Aaln johnkni', 'allm jyhnsem', 'almu jjonqon'}, {'alma johmxin', 'almy jewnsom', 'hayn khongon', 'almi jhhnqhn', 'alwn juynson'}, {'hayn jhonsaw', 'alym johngno', 'Aaln jiyncon', 'alme jyhnzom', 'alln jahnswn'}, {'alnm jonkoen', 'almy jehngwn', 'lhaw khonyon', 'almi juynkon', 'alyn johnozn'}, {'alnh jyhngwn', 'ilew wahnsno', 'Almn jonqoyn', 'alnn joihnsn', 'alnm jahnqwn'}, {'almy jehngwn', 'Aaln jyhnsym', 'alln johnuzn', 'aaln jonxuon', 'ylhh qohnosy'}, {'alwm johncem', 'almy jaonqon', 'allm jhynswn', 'lwen jahnyno', 'alLn joinssn'}, {'alYn joonswn', 'alnm jonwcon', 'Alhn jonswhn', 'aeln jhhngwn', 'olno ojhhsyn'}, {'alYn joonswn', 'almm jownzom', 'alym joynjwn', 'almi juonqon', 'ayha zohnyno'}, {'ahyy xhonkon', 'aeln jiynxon', 'almm jhhnkin', 'alwn johnyzn', 'alnm jyhmsom'}, {'alme jonyqon', 'owwn jhoyswn', 'alnn joynzon', 'Aaln jhhnqhn', 'almy jhhnogn'}, {'almi jhhngun', 'almu jonquon', 'Alhn jonjoen', 'ahwh ojhwosn', 'alwn jownson'}, {'ahoh kohhosn', 'almw joymcon', 'almo jwhnjan', 'alln joensnn', 'Aaln jyhnzom'}, {'almu johngne', 'almo jihnkin', 'alLn jownsin', 'ayew zyhnsno', 'almy jwhnokn'}, {'alme jwhngwn', 'almh jownzom', 'alLn jounsyn', 'ahlh qohnxno', 'Aaln jehnogn'}, {'almm joynkun', 'Alhn jwhnogn', 'alhm jhhnjun', 'alwn jonsoyn', 'whay xhonsom'}, {'alnn joinsnn', 'almi jhyngon', 'almm jjonqon', 'alhm jehnoqn', 'haah xhonshn'}, {'alhm johncum', 'alnn joanswn', 'lwhn zohnjno', 'almm jiymson', 'alym jwhmsun'}, {'Aaln jownshm', 'alwn johnusn', 'alnm jonqohn', 'almu jhynswn', 'laya jhonsuw'}, {'almu johngnh', 'almi jownswm', 'alln johnzyn', 'alwm jahnsnh', 'liaw qohyosn'}, {'alLn jonsony', 'ahna juhhosn', 'almm johnqwm', 'almi jahnoqn', 'almh johmkin'}, {'alnn joonsnn', 'uluw khhnsno', 'aeln jihnoqn', 'Almn jewnsom', 'alma jywnsom'}, {'ahom xahnsno', 'almu juhnogn', 'allm johmcom', 'Almn johnosm', 'alyn juynson'}, {'aeln joynkan', 'almu jonqonw', 'laiw ozhnosn', 'aaln jyhnghn', 'alln jonyson'}, {'aeln jhangon', 'alme jhynsom', 'almo jihnkyn', 'alln jjynson', 'awiw jihhsno'}, {'alln jonsony', 'almm jyynkon', 'wham jyhnosh', 'aeln jwhncun', 'Aaln juhnogn'}, {'Almn jonkonh', 'alwn jonnsyn', 'alme jehnogn', 'alma juhnkin', 'ayha xhomson'}, {'Alhn jehnqun', 'alma jhynsyn', 'alYn jghnzon', 'olhh johyosm', 'almo jonkoan'}, {'aeln jonhswn', 'alnh jhonsyn', 'almi jihnoqn', 'alnn joynson', 'ylno ojhnkyn'}, {'alyn joehnsn', 'Almn jonhqon', 'ilne khonswn', 'alhm johngnu', 'allm jwhnkan'}, {'almi jhynxon', 'ihah khonswn', 'Alhn jihnxin', 'Almn jonyqon', 'alln jehnsyn'}, {'almh jhanqon', 'alln jjnnson', 'alnh jahnjan', 'alwm jonkuon', 'yaen johyosh'}, {'alwn johnsne', 'almw jwhngwn', 'yahn joynosy', 'Aaln jownxom', 'alnm jonswnh'}, {'almo jyhnkom', 'alyn johwnsn', 'Alhn jewnsom', 'almh jwhngwn', 'laeh qohnhno'}, {'alnm joymzon', 'yhaw gohyosn', 'Aaln jyhngan', 'almw jyhnjom', 'alwn jghnssn'}, {'alwm johnqum', 'lwwn whoncon', 'alYn joynsan', 'Almn juynkon', 'alma jyynsom'}, {'iuln sohnqno', 'aaln jwhnjwn', 'alnh jihngen', 'almm jhhmqon', 'alln joenswn'}, {'almh jonshwn', 'alnh johnchm', 'alym jyhnzwn', 'ilha xhoncon', 'alYn johnusn'}, {'almh jhynsyn', 'alym juoncon', 'alyn jonoson', 'almo joynkyn', 'hwin ojhnwow'}, {'alyn johnizn', 'Aaln jonkoan', 'ayhh ojhnosy', 'almu jonwosn', 'alma jwhngyn'}, {'alme jowngom', 'ahni zohyosn', 'alLn jghnson', 'allm jwhnsno', 'almw jonsyen'}, {'Almn jonkion', 'alln jounswn', 'almu jwonswn', 'alym jensyon', 'ulhh ojhwwon'}, {'almm joynkyn', 'Almn jonqoyn', 'alnm jyhnsno', 'ulhh zownsno', 'alwn jeynson'}, {'almw jehnkhn', 'wwon hhonswn', 'Aaln jhanqon', 'alnh jonsoym', 'alYn jghnsin'}, {'alyn joneson', 'alnh joynkan', 'wlna ojwnyon', 'Aaln jwhnkin', 'allm joymzon'}, {'allm jonwshn', 'alme jhhmjon', 'alyn johnznn', 'olwy ojhnxoy', 'alym jonjoen'}, {'ayey zohngno', 'alln jwwnson', 'alnh jwhnasn', 'Alhn johngnu', 'almh joynkan'}, {'Almn johmjen', 'almw jehnkhn', 'hhwn whonsun', 'alyn joynson', 'almu jonwqon'}, {'wlhm zohnjno', 'alyn joenswn', 'almh juhnqom', 'Alhn johngnw', 'almu joymxon'}, {'alLn jownswn', 'almo jhanxon', 'ahyy jhoyzon', 'alnh jhynxon', 'alym jehnkyn'}, {'alLn jnnnson', 'almw jowngen', 'almm jonhjon', 'ulyy xhonjon', 'almy jahnoqn'}, {'alym jwhncan', 'alhm jyynkon', 'almo jyhnsno', 'alnn jahnssn', 'elma wohysno'}, {'alnm jhhnosn', 'yham jhoysan', 'allm juhngin', 'alhm jwhnjun', 'alwn johnuzn'}, {'alym jonsyhn', 'alln johnwzn', 'ahhh hihnsno', 'alma jaynkon', 'almh jiyncon'}, {'alnn jonason', 'almh jwhnxin', 'ahhm zyhnsno', 'alme johmgun', 'Almn joynkyn'}, {'iluy xhonswn', 'Aaln jwhngen', 'alhm jonqoan', 'alYn jghnsan', 'allm johmsno'}, {'aahm zohnjno', 'alwm jonwxon', 'almy johmosn', 'Alhn joncown', 'alyn joahnsn'}, {'alyn juhnssn', 'alym johngna', 'Almn jyhnxom', 'alhm juhnxin', 'yaen khonsom'}, {'alma jonwjon', 'alLn jehnssn', 'almo johngne', 'oiln xhonsoy', 'alym johnqum'}, {'Almn jwnsonh', 'aaln jhhnjyn', 'alnn jiynson', 'almo jonqony', 'yyam wohnosy'}, {'almh juonqon', 'aaln jaonqon', 'alln jihnsnn', 'hhin johhosy', 'almu jonyxon'}, {'alym jehnqyn', 'alln juhnssn', 'uhun ojhnxin', 'almm jhhnogn', 'Almn jwyngon'}, {'alYn joonswn', 'almo jownkom', 'eyyn xhonsan', 'Almn jonsynh', 'alme jhynxon'}, {'aeln johnoqm', 'alnn jywnson', 'alma jwhnsam', 'hlew kohmsno', 'alme jonxoyn'}, {'alym jehngen', 'eliw wihnsno', 'alnm jhhnjan', 'alnn johnsyn', 'almm johnkim'}, {'alma jonqoon', 'alnm jonqwon', 'alnn jghnswn', 'almo jownjom', 'iuln johyosy'}, {'almw jwhnkwn', 'alyn joansyn', 'alhm jonqaon', 'iyon jahwsno', 'alnm jonxoyn'}, {'alym jyonjon', 'alhm jhynswn', 'ylwy ojhncom', 'almu jownkom', 'alyn joynsyn'}, {'almo jhynsan', 'alnm jhonsyn', 'alnn jahnssn', 'almi jonqoun', 'iwwn xhonwon'}, {'alyn jouhnsn', 'almo johnqym', 'aeln jahnqom', 'olny kohnjno', 'almh johmjun'}, {'almu jonshno', 'alme jehmjon', 'alma jeymson', 'yhun xhomson', 'alwn jjwnson'}, {'almh jehnqen', 'alnn jonsonw', 'almi jhhncom', 'Aaln juhnoqn', 'ahyh jhoyzon'}, {'almu jywnsom', 'lhah ojhwyon', 'alYn joonsnn', 'Almn joynogn', 'allm johngni'}, {'allm jhhnqwn', 'olhm yohnhno', 'aeln jihngun', 'alme joynkun', 'alyn johnsyn'}, {'almu jhhnjin', 'alYn juhnswn', 'Alhn jhhnjan', 'alwm juoncon', 'elnh qohyosn'}, {'almu jownoqn', 'alme juhngun', 'Alhn juhnjwn', 'alYn johnusn', 'ahoh kohnosw'}, {'waah jhoyxon', 'alnn jiynson', 'Almn jonsoym', 'almu joymgon', 'aaln jwhnjan'}, {'laah jhoysyn', 'allm jwhnoqn', 'almm johnqym', 'almw johncem', 'alln johnzyn'}, {'awhm ojwnsyn', 'alwn jghnsyn', 'almu johngmo', 'allm jyhnsem', 'Alhn jonqion'}, {'almh jwwnsom', 'allm jaymson', 'almu jhhmqon', 'lwhn ojwwson', 'alwn johnznn'}, {'hywn johhosy', 'aaln jwhngin', 'alnm jonconh', 'Alhn jhhnjan', 'alYn johnusn'}, {'almu jownsam', 'allm jahnkwn', 'alln jghnsan', 'aahh gohngno', 'Almn jywnsom'}, {'Alhn jhonxon', 'almi jhhnjhn', 'uluy wohnosh', 'Almn jwhnogn', 'alLn johnssn'}, {'almu jownzom', 'awuh wehnsno', 'aeln joncoyn', 'alwn johnzwn', 'almw jonwsom'}, {'liah jihysno', 'aeln jhonqon', 'alhm johngne', 'alln johncin', 'alma jwyngon'}, {'alnh jonshno', 'alma jonxuon', 'alYn johncyn', 'oluw xhonsan', 'almi jwhnghn'}, {'almh jwhnsam', 'Almn johngnw', 'almo joymswn', 'alyn joonswn', 'awni jhoysun'}, {'alnm joyngen', 'whin cwhnsno', 'alln jghnsan', 'almy jhynjon', 'almw joynken'}, {'alyn jewnson', 'almh jhynsyn', 'luaw khoyson', 'allm johnkym', 'almi joynxin'}, {'Almn joymsyn', 'almi jhonswn', 'almm jyhnqom', 'ylem jyhnhno', 'alYn jwwnson'}, {'alLn joensyn', 'ayoh hjonosn', 'alme jehnqom', 'almm jhhnkyn', 'Aaln jhhnqwn'}, {'alme johnoqm', 'whon jihnosy', 'alhm jyhngyn', 'Alhn jynsonh', 'alln johncin'}, {'alwn jghnsyn', 'almu jonqonw', 'almy jhhnqom', 'olwa koynosn', 'alme jahncom'}, {'alwm jhhnjin', 'almo jhhnqhn', 'uway zihnsno', 'alln jiohnsn', 'almm joynogn'}, {'alnm johmjom', 'aeln joymxon', 'alYn jewnson', 'iywn ojwnxon', 'almo jhyncon'}, {'alYn jiynson', 'almm jhynshn', 'ealy xhongon', 'Alhn jonkuon', 'almu jyhnosn'}, {'alnh jeynqon', 'aeln jhhnjwn', 'alYn jghnsan', 'olny gyhnsno', 'almy joymsyn'}, {'alLn joynsan', 'Aaln jiynkon', 'almh johmojn', 'lwin jhoysun', 'aaln jehnqwn'}, {'alln johnsna', 'alwm juhnqom', 'Aaln jwhnkom', 'almy jhyngon', 'ilww zhhnosn'}, {'ihwn xhonjon', 'alln johnosn', 'aaln johmjyn', 'alnh jhwnqon', 'almo johnocm'}, {'alnh jahnjwn', 'Aaln jhhnkin', 'eyah chonsun', 'alhm johmjom', 'alYn joinswn'}, {'almm jwhngin', 'ehwn ojhnsno', 'Almn jahncwn', 'alYn jjnnson', 'alhm johnxim'}, {'alYn johnzyn', 'almm jyhngun', 'alma jonyqon', 'aaln johnjwm', 'yham zohyosn'}, {'alhm johonqn', 'alnm joymqon', 'alyn jjwnson', 'allm jwhnkun', 'ylma ojynsoh'}, {'alwm jonwxon', 'eeln jhoysoh', 'allm jyhnogn', 'alnn jynnson', 'alnh johmjyn'}, {'lwon khowson', 'alwn johnizn', 'almw jhyngon', 'alnm jihnogn', 'alme jhwnjon'}, {'almu jongwon', 'ahoy joynosy', 'alyn joynsun', 'almm jahnkin', 'alnm jhansyn'}, {'alLn jownsyn', 'almm jihnsmo', 'almu johnjam', 'Aaln jehmqon', 'laoy ojwnhon'}, {'alwn jjohnsn', 'wluy jhonqoh', 'allm jwhnsnu', 'Almn jonwjon', 'aaln juoncon'}, {'Almn jihnkyn', 'almi jonkoan', 'alwn jiwnson', 'almh joncown', 'elnw gwhnsno'}, {'almw jehncom', 'ileh yehnsno', 'alma jonqoen', 'almy jehnqom', 'alyn jaynson'}, {'Alhn jonsyhn', 'ulhm xohnosy', 'almh johnqum', 'alLn jonnsyn', 'almy joymgon'}, {'elnu ojhncan', 'alnh johncym', 'alym jownsum', 'alhm jyhnsym', 'alLn jjjnson'}, {'alhm jonqaon', 'alln jonason', 'liyn khonsno', 'almu jwhnjan', 'alnh joyngun'}, {'ayow zhhnosn', 'alYn joansyn', 'Aaln jehnkhn', 'Alhn jyhnsum', 'alma jwhnkyn'}, {'almy jonqhon', 'almu jwhnsam', 'almm jehnxin', 'eliw ojwmson', 'alln johncin'}, {'almw jownsem', 'alwm jonwcon', 'alln jahnssn', 'oahn xhonsno', 'almy jhynsan'}, {'almh juhngwn', 'aaln jonqoan', 'almo jewnqon', 'alLn joinssn', 'hhin yhonqon'}, {'alhm jwhngwn', 'alnh jihnsmo', 'alYn johnyzn', 'alnm jyhnswm', 'aahh ojhyzon'}, {'alhm jahngen', 'alma jehnqin', 'aaln joyngwn', 'awwa jahnyno', 'alyn jahnsnn'}, {'laoy qhonqon', 'alYn johnsno', 'almi jhhmjon', 'alnm jhhnjwn', 'alnh jhhnkyn'}, {'alLn jghnssn', 'aeln jwhncan', 'alhm jihnqom', 'almw joynken', 'loaw yhonsin'}, {'almw jonqoan', 'almm juoncon', 'hwaw johwosh', 'alma jwhmsun', 'alln jaohnsn'}, {'almw jwhnasn', 'alLn jonnsnn', 'alma jonjoen', 'iliw khowson', 'alwm joymsin'}, {'alhm johnkym', 'elnh kohnyno', 'alme johnjwm', 'alYn jjynson', 'alym jonshnh'}, {'alnn jwynson', 'almy jyhmgon', 'hliw jihnwno', 'Aaln jhonxon', 'alhm jyhmsom'}, {'ahlw jhonsaw', 'almy jhynsen', 'alwn jonwson', 'almu jwhnkom', 'alym johngnw'}, {'lahm ojhnjan', 'alme jhanqon', 'aeln jihnjwn', 'alln jonyson', 'almy juwnsom'}, {'aalh jhonyan', 'almy jownsem', 'alhm jhankon', 'Aaln jahnkin', 'alLn joansyn'}, {'hwaw xhonsom', 'almw jwhnjun', 'alLn jwwnson', 'alnh jwhnasn', 'alma jehngun'}, {'eyay coynosn', 'alme jeonqon', 'alwm jonqoin', 'Alhn johnjam', 'alYn jonnswn'}, {'alyn jihnswn', 'lwyn gyhnosn', 'alnm jwynkon', 'aaln johncam', 'Aaln jyhnkyn'}, {'alnh jehnjan', 'aaln jhanshn', 'almo jhhmqon', 'oiln zohnjno', 'alln jonison'}, {'alln jghnzon', 'almu jonhswn', 'almm joymswn', 'alme jeonxon', 'uuln wohncno'}, {'alYn joonswn', 'yaah zehnsno', 'alme jwhnghn', 'alym jonqohn', 'almw jonqqon'}, {'alym jonqion', 'almw juhnkhn', 'almm jwhnken', 'luam xhonsan', 'alYn joinswn'}, {'alym jwhnsnu', 'Almn jhynqon', 'lwwn jhonqoy', 'almy jhonsyn', 'alyn jonsonw'}, {'alhm jwhngen', 'almw jonqown', 'alYn jihnswn', 'almm johmoqn', 'uwwn jhhhosn'}, {'Almn jwonsin', 'almw joynkhn', 'leyn zohnosw', 'alma jhhnoqn', 'alln joenswn'}, {'alym jahngwn', 'alyn jynnson', 'almm jongoan', 'Aaln jahngun', 'ehwn hhonswn'}, {'olya johwgno', 'alma jehnqom', 'alnm jiynjon', 'alLn jjwnson', 'Almn juhmjon'}, {'allm jahnsmo', 'alln johnezn', 'alnh johmzwn', 'hyin yohnhno', 'Aaln jahnoqn'}, {'liaw xhonzon', 'alym jihngen', 'alYn joynsan', 'alma jonqohn', 'alhm jwhnsnu'}, {'alwn jihnsyn', 'almm jehnqen', 'hwaw ojhnsuw', 'alme jwhnoqn', 'almh jwyngon'}, {'almw jahnsmo', 'aaln jwhngen', 'ahum ojhysyn', 'almm joynkhn', 'alYn johnazn'}, {'almm jhanqon', 'alwn johnisn', 'Alhn jwhnasn', 'olhh qhonqon', 'almu juymson'}, {'almi jhhnkhn', 'ulma ojynkon', 'allm jwhnqom', 'alln joinsyn', 'alhm jonqoun'}, {'yiln ojhwgon', 'Almn jwhnxin', 'alym johnoqm', 'alwn jeohnsn', 'alnh jhonkon'}, {'almi jonkoyn', 'layw jhowsan', 'alhm jonkwon', 'alym jwhnsno', 'alln joansyn'}, {'alYn jonoson', 'aeln johncmo', 'allm jhyngon', 'leaw ojhwswn', 'alym jyhngwn'}, {'almw jwnsonh', 'alnh jonsyen', 'alnm jihnqom', 'alyn joansnn', 'wlno jhowqon'}, {'laha ozhnosn', 'alln joynsin', 'Aaln jehnjan', 'almy jhymson', 'Almn jahnkin'}, {'alme johmosn', 'allm juhnkyn', 'leaw jihhsno', 'alyn jnohson', 'alym jowngom'}, {'ahum ojwwson', 'almo jhhnqhn', 'alwm jhhnjom', 'aaln jhonkon', 'alnn jonoson'}, {'allm jhhngwn', 'alwn jownzon', 'alma jonhqon', 'elne ojhygon', 'almo jyhnjom'}, {'aaln jahnsmo', 'iwwn yohngno', 'almy jonkoan', 'almu jahnqom', 'alln joynsyn'}, {'alLn jyynson', 'alme jhonkon', 'alwm jiwnsom', 'aahm khowson', 'alym jwhnsna'}, {'Almn jhhncyn', 'almu jahnkyn', 'ylim kohmosn', 'aeln johncum', 'alLn joihnsn'}, {'ayew sohnxno', 'alma jahnsmo', 'alnn joonssn', 'Alhn jhnoqon', 'alhm jonkoyn'}, {'hywn khomson', 'almu jwynkon', 'alhm johnqam', 'alYn johnsnn', 'almh jownogn'}, {'hham xohhosn', 'alhm jonxoen', 'alyn jaohnsn', 'almy johnosm', 'alnh jyhnsam'}, {'almy jehnkyn', 'alma jonswnh', 'alym johngnu', 'alLn joehnsn', 'ulyy xohnosy'}, {'uwun jhoysyn', 'alhm jahnxin', 'alnh jhhnjen', 'alnn joynsin', 'aeln jiyncon'}, {'iyon jihhosn', 'aeln jhonsyn', 'alln johnsna', 'alnh johncym', 'Aaln joymzon'}, {'Alhn jyomson', 'ihwn cwhnosn', 'almo jiwnsom', 'almu joymqon', 'alyn joynswn'}, {'alwn jihnsyn', 'alwm johmojn', 'olem johygno', 'almw johmxin', 'Alhn joynkin'}, {'aeln jyymson', 'alnh jyhnkom', 'almu jonsyen', 'alnn jehnsyn', 'ylno jyhnhno'}, {'Alhn joymxon', 'alwn juhnswn', 'ilhm qhoyson', 'almw juhngin', 'almh jiynxon'}, {'allm jonwsom', 'ualm wahnsno', 'Aaln jwhnkun', 'alwm jahnswm', 'alwn jghnsin'}, {'almm jwhncyn', 'allm jwhnogn', 'alma jwhnsum', 'wlyw ojhywon', 'alYn jghnsin'}, {'Almn jonswhn', 'alyn joonsyn', 'ulya zohnosy', 'Alhn joymqon', 'alma jonqony'}, {'almw jehngwn', 'alLn jnnnson', 'allm johonqn', 'alme jownswm', 'ahlh khonqon'}, {'alLn jiynson', 'yhwn whoyson', 'almh johnxni', 'almu juynkon', 'aeln johnqem'}, {'alwn jonsony', 'alnh jownqom', 'alma joynxin', 'yaen qohhosn', 'alhm jahnswm'}, {'alln joensyn', 'alme jyhngun', 'alhm jyhnsno', 'Alhn jiynqon', 'luyn ojhnkin'}, {'Aaln jwwngon', 'almm jwhnsna', 'aaln joncown', 'hyen jhhhosn', 'alYn jjjnson'}, {'almy johmxin', 'allm jyhnswm', 'aeln jonjoen', 'alyn johnezn', 'uluy ywhnsno'}, {'alyn joonsyn', 'lahm juhyosn', 'Aaln jwhnsum', 'almi jhanjon', 'alma jwhnkwn'}, {'almy jownqom', 'alwm juynkon', 'almh jyynkon', 'alyn jjohnsn', 'ualy ojhycon'}, {'alnn joynsan', 'laoy jhoysan', 'Almn jwhnoqn', 'almm jwhnusn', 'almy jonkonh'}, {'aaln joynken', 'alln johnosn', 'almw joyngun', 'aeln johncno', 'laih zahnsno'}, {'almw jehnjan', 'ahiy ozhnsno', 'alwm jahngwn', 'alyn johnezn', 'alnm jyhnsem'}, {'alma jwhmgon', 'uwaw ojwnjon', 'alwm jonqion', 'almm jwhnjwn', 'alyn johnzzn'}, {'almi jwonswn', 'alhm jyonkon', 'alme jwhnsum', 'elew ojwnzon', 'alln johnazn'}, {'alym jywngon', 'alnm joymswn', 'alLn jehnssn', 'yhln kyhnsno', 'Almn jwhnkan'}, {'alhm joymzon', 'alYn johnsnw', 'allm jehngun', 'Aaln johngnu', 'awne kohnqno'}, {'ayne cihnsno', 'alyn jiohnsn', 'almy jhonkon', 'Aaln juhnjin', 'alma jowmsom'}, {'alnh jownoqn', 'alyn juwnson', 'alym johmjun', 'alhm jehnqen', 'awha qohhosn'}, {'alwn joinsnn', 'ilnu ojhhosn', 'almm jonqoyn', 'Almn johncum', 'almh johngnh'}, {'alnh jwhngwn', 'alLn johnsno', 'allm jewnqon', 'oiln jhowsan', 'alhm jyhnsem'}, {'alym jihngwn', 'alwn jihnsnn', 'almi jonqqon', 'almm jwynkon', 'eayn khonsen'}, {'almm jyhnoqn', 'Almn jhynshn', 'aeln jonquon', 'alYn joinsyn', 'uwaw wehnosn'}, {'alhm jwhnosn', 'ilwy kohnqno', 'alYn jonwson', 'allm jhoncon', 'Aaln jonkaon'}, {'Aaln jonyqon', 'allm jhhnjan', 'almo juhngwn', 'hwaw yihnsno', 'alwn johnasn'}, {'alma jongoen', 'laiw gwhnosn', 'alLn jownson', 'alnh jhhnqyn', 'alym joynoqn'}, {'alma jongoen', 'alnm johmjwn', 'alym jwhngyn', 'alyn johnsni', 'hlwy ojynsoh'}, {'alnm jhwnjon', 'ulma jhonsuy', 'alym jonswhn', 'almm jhynshn', 'alyn johnosn'}, {'oliw khonsoh', 'alYn jonnsnn', 'Almn jonwshn', 'almu jahncwn', 'almi jhancon'}, {'alyn johnisn', 'Alhn jwhngyn', 'alme jonyqon', 'alnm jihnsnh', 'ulem gyhnosn'}, {'hlhm yohnosy', 'Almn jwhnxan', 'almy jyymson', 'alnn jihnsnn', 'alnm jwhnkwn'}, {'alym jwynkon', 'ilem hhonswn', 'Almn jwhnzwn', 'alyn jihnssn', 'almu johmgwn'}, {'almy jonshno', 'alwn joehnsn', 'olwh jhoysyn', 'almm juhnkyn', 'almi joynkun'}, {'allm jhhnkin', 'ahoh ghonsoh', 'Almn johmkin', 'alwn joohnsn', 'alym jhhnqom'}, {'alme jahngen', 'oiln jwhyosn', 'Aaln juhnoqn', 'aeln jyhnswm', 'alYn joynson'}, {'aaln jhhnqun', 'alln jiohnsn', 'alnm jhhnqyn', 'hhyn ojhwgon', 'alhm johmzwn'}, {'eyhn ojwnwon', 'Aaln joynjan', 'allm jwhncun', 'alnh jonswen', 'alwn jounsyn'}, {'almh johmkyn', 'alln johwnsn', 'alym joynxin', 'almo johncmo', 'awne ijhnsno'}, {'alme jonqoyn', 'aaln juhnxin', 'ihah jahyosn', 'almi joyngwn', 'alnn jghnzon'}, {'alYn jahnsyn', 'alhm johngem', 'oluw xhonkon', 'Alhn juhnoqn', 'almu jihnxin'}, {'allm jhansyn', 'Aaln jehngen', 'almy jwhnokn', 'awuy ojhysow', 'alLn jownson'}, {'awoy zihnsno', 'alwm jhoncon', 'Aaln johmgwn', 'Alhn jonsoym', 'alyn joynswn'}, {'allm jonhqon', 'uluw xhowson', 'almo juhngin', 'alyn johnezn', 'alnh joynqom'}, {'alLn johncyn', 'Aaln juhnjwn', 'alme jonxoyn', 'aaly ojhysow', 'almm jonwkon'}, {'alYn joonswn', 'almy jahmswn', 'alhm jhhnjom', 'ulhh yhonsno', 'almh juhnkyn'}, {'alhm johnqum', 'almi jyhnogn', 'hliw jhoysno', 'almu jahngun', 'alwn jownsnn'}, {'ylnh jhoyhon', 'alma jihmjon', 'alYn joynsen', 'alnh joymsyn', 'alnm jyhnshm'}, {'ahim jhoyshn', 'Alhn jhhnqom', 'alma jyhnshm', 'Aaln jonwkon', 'alwn jehnswn'}, {'almy jyhngwn', 'allm jyhnzom', 'alwn jghnsen', 'aeln jonsyhn', 'yhaw zahnsno'}, {'awnh ojhysno', 'alwm johnjno', 'alyn jounsyn', 'almi jownogn', 'alym johncno'}, {'almw jhhnjom', 'aaln jaonqon', 'almo jonxoen', 'alnn johnosn', 'olim khhnsno'}, {'elny jhoywon', 'alLn jounssn', 'alme jwhngun', 'allm jwhncun', 'almo jonwcon'}, {'lhyn ojwnsyn', 'aaln jonjoen', 'alln joynsnn', 'alme jyhnzwn', 'alnh jownkhn'}, {'almo jywngon', 'hlew qahnosn', 'almh jyonsun', 'alyn johnysn', 'aeln jahnjwn'}, {'alhm jwwnkon', 'alnn joensnn', 'aeln jwonsom', 'ylnw zohnosy', 'almo jwhnjun'}, {'alnm jonsoym', 'Alhn jahngwn', 'alLn johnswn', 'ayeh ojhyxon', 'almu jwhncyn'}, {'alhm jahnxin', 'alnh jwonqon', 'alyn jihnsnn', 'alnm jehnqun', 'olim ojhnzwn'}, {'Alhn jwwngon', 'leyn jihnyno', 'almh jyonjon', 'alym johncem', 'alYn joynsan'}, {'ulnu wihnsno', 'alYn johnozn', 'aeln jhankon', 'alym jownxin', 'alhm jhhnqin'}, {'alln jownssn', 'alwm jownxom', 'Almn johnqhm', 'almo jhhnojn', 'aahy ojhysno'}, {'alln juynson', 'yyen gohnosh', 'almm joymsyn', 'allm jowmsom', 'almu joynokn'}, {'aeln johnqmo', 'alme jhhnjhn', 'awne ghoncon', 'alwm jyhnsam', 'alLn jahnswn'}, {'alnn johnsni', 'almu johmgun', 'ahyy wohnosm', 'alym jonqoan', 'Aaln jhhnqwn'}, {'almo jwonsin', 'alln joynsan', 'Alhn jeonqon', 'lwyn kohnosw', 'almm joynqom'}, {'alln jownson', 'almi jahnjwn', 'alym jhhnkin', 'wlno zhoyson', 'aeln jhhnjun'}, {'aaln joynkun', 'almu joyncom', 'alhm jhonkon', 'ilwh ojwnzon', 'alwn jihnswn'}, {'laww gyhnsno', 'aeln jhhnjom', 'Almn jwhmsun', 'almw johmjom', 'alwn johnzwn'}, {'Almn jywngon', 'alyn johnnzn', 'alwm jonshwn', 'alhm jwhnken', 'oaly zohnosw'}]
+alan johnson        : DEBUG: Additional rule variations: {'johnson       alan', 'aJ'}
+alan johnson        : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 7
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "alan johnson": {
+            "first_name": {
+                "score": 0.868,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.5599999999999999,
+                        "orthographic": 1.0,
+                        "combined": 0.78
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "Almn",
+                            "phonetic_score": 0.5624593993360115,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "whaw",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "alnm",
+                            "phonetic_score": 0.5624593993360115,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "allm",
+                            "phonetic_score": 0.5624593993360115,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "alnn",
+                            "phonetic_score": 0.8609422452309415,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.7897749862283224,
+            "final_score": 0.7651533223159913,
+            "variation_count": 7,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 2,
+            "last_name": {
+                "score": 0.736,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.11999999999999997,
+                        "orthographic": 1.0,
+                        "combined": 0.5599999999999999
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "juhnjan",
+                            "phonetic_score": 0.28194529177436284,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "sohhosn",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.4285714285714286,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "jyonsun",
+                            "phonetic_score": 0.28194529177436284,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "johmsno",
+                            "phonetic_score": 0.28194529177436284,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "joynssn",
+                            "phonetic_score": 0.5064397006930721,
+                            "orthographic_score": 0.7142857142857143,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "aJ"
+                        ],
+                        "name_parts_permutations": [
+                            "johnson       alan"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "aJ": [
+                            "shorten_name_to_initials"
+                        ],
+                        "johnson       alan": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.6666666666666666,
+        "by_name": {
+            "alan johnson": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "aJ"
+                        ],
+                        "name_parts_permutations": [
+                            "johnson       alan"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "aJ": [
+                            "shorten_name_to_initials"
+                        ],
+                        "johnson       alan": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "average_quality": 0.7651533223159913,
+    "final_reward": 0.7651533223159913
+}
+alan johnson        : DEBUG: ----------------------------------------------------------------------------------------------------

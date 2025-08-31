@@ -1,0 +1,2302 @@
+john glenn          : INFO: Generating variations for john glenn
+john glenn          : INFO: ----------------------------------------------------------------------------------------------------
+john glenn          : INFO: Effective rules: ['swap_random_letter']
+john glenn          : INFO: ----------------------------------------------------------------------------------------------------
+john glenn          : INFO: Min Required Rule Variation Set: [{'john gelnn', 'joh nglenn', 'jonh glenn', 'john lgenn', 'johng lenn', 'ojhn glenn', 'jhon glenn', 'john glnen'}]
+john glenn          : INFO: ----------------------------------------------------------------------------------------------------
+john glenn          : INFO: First name: john
+john glenn          : INFO: Last name: glenn
+john glenn          : INFO: ----------------------------------------------------------------------------------------------------
+john glenn          : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8), (3, 7)]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 1 / 22: rule_count/nonrule_count: 0/1------------------------------
+john glenn          : DEBUG: O: [0, 0, 0, 1]
+john glenn          : DEBUG: P: [0, 0, 0, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [0, 0, 0, 1]
+john glenn          : DEBUG: P: [0, 0, 0, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.26889543]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 2 / 22: rule_count/nonrule_count: 0/2------------------------------
+john glenn          : DEBUG: O: [0, 0, 0, 2]
+john glenn          : DEBUG: P: [0, 0, 1, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [0, 0, 0, 2]
+john glenn          : DEBUG: P: [0, 0, 1, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.28803089]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 3 / 22: rule_count/nonrule_count: 0/3------------------------------
+john glenn          : DEBUG: O: [0, 1, 0, 2]
+john glenn          : DEBUG: P: [0, 0, 1, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [0, 1, 0, 2]
+john glenn          : DEBUG: P: [0, 0, 1, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.36532636]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 4 / 22: rule_count/nonrule_count: 0/4------------------------------
+john glenn          : DEBUG: O: [1, 1, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 2, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [1, 1, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 2, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.554]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 5 / 22: rule_count/nonrule_count: 1/3------------------------------
+john glenn          : DEBUG: O: [0, 1, 0, 2]
+john glenn          : DEBUG: P: [0, 0, 1, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [0, 1, 0, 2]
+john glenn          : DEBUG: P: [0, 0, 1, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.56532636]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 6 / 22: rule_count/nonrule_count: 0/5------------------------------
+john glenn          : DEBUG: O: [1, 2, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 3, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [1, 2, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 3, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.55217983]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 7 / 22: rule_count/nonrule_count: 1/4------------------------------
+john glenn          : DEBUG: O: [1, 1, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 2, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [1, 1, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 2, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 1, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.754]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 8 / 22: rule_count/nonrule_count: 0/6------------------------------
+john glenn          : DEBUG: O: [1, 2, 1, 2]
+john glenn          : DEBUG: P: [0, 1, 3, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [1, 2, 1, 2]
+john glenn          : DEBUG: P: [0, 1, 3, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.52355167]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 9 / 22: rule_count/nonrule_count: 1/5------------------------------
+john glenn          : DEBUG: O: [1, 2, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 3, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [1, 2, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 3, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.75217983]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 10 / 22: rule_count/nonrule_count: 0/7------------------------------
+john glenn          : DEBUG: O: [2, 2, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [2, 2, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.50822231]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 11 / 22: rule_count/nonrule_count: 1/6------------------------------
+john glenn          : DEBUG: O: [1, 2, 1, 2]
+john glenn          : DEBUG: P: [0, 1, 3, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [1, 2, 1, 2]
+john glenn          : DEBUG: P: [0, 1, 3, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.62355167]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 12 / 22: rule_count/nonrule_count: 2/5------------------------------
+john glenn          : DEBUG: O: [1, 2, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 3, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [1, 2, 1, 1]
+john glenn          : DEBUG: P: [0, 1, 3, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.75217983]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 13 / 22: rule_count/nonrule_count: 0/8------------------------------
+john glenn          : DEBUG: O: [2, 3, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [2, 3, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.49307597]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 14 / 22: rule_count/nonrule_count: 1/7------------------------------
+john glenn          : DEBUG: O: [2, 2, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [2, 2, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.60822231]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 15 / 22: rule_count/nonrule_count: 2/6------------------------------
+john glenn          : DEBUG: O: [1, 2, 1, 2]
+john glenn          : DEBUG: P: [0, 1, 3, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [1, 2, 1, 2]
+john glenn          : DEBUG: P: [0, 1, 3, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.62355167]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 16 / 22: rule_count/nonrule_count: 0/9------------------------------
+john glenn          : DEBUG: O: [2, 3, 2, 2]
+john glenn          : DEBUG: P: [0, 2, 5, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [2, 3, 2, 2]
+john glenn          : DEBUG: P: [0, 2, 5, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.47855328]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 17 / 22: rule_count/nonrule_count: 1/8------------------------------
+john glenn          : DEBUG: O: [2, 3, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [2, 3, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.59307597]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 18 / 22: rule_count/nonrule_count: 2/7------------------------------
+john glenn          : DEBUG: O: [2, 2, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [2, 2, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.60822231]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 19 / 22: rule_count/nonrule_count: 0/10------------------------------
+john glenn          : DEBUG: O: [3, 4, 3, 0]
+john glenn          : DEBUG: P: [1, 3, 6, 0]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 1, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 3, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [10]
+john glenn          : DEBUG: [35]
+john glenn          : DEBUG: [20]
+john glenn          : DEBUG: [20]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [1, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [3, 4, 3, 0]
+john glenn          : DEBUG: P: [1, 3, 6, 0]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 1, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 3, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+john glenn          : DEBUG: [15]
+john glenn          : DEBUG: [51]
+john glenn          : DEBUG: [20]
+john glenn          : DEBUG: [20]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [1, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.47434689]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 20 / 22: rule_count/nonrule_count: 1/9------------------------------
+john glenn          : DEBUG: O: [2, 3, 2, 2]
+john glenn          : DEBUG: P: [0, 2, 5, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [2, 3, 2, 2]
+john glenn          : DEBUG: P: [0, 2, 5, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 2, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [2]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.54521995]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 21 / 22: rule_count/nonrule_count: 2/8------------------------------
+john glenn          : DEBUG: O: [2, 3, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [2, 3, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 2]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [3, 0, 0]
+john glenn          : DEBUG: [1, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.59307597]
+john glenn          : INFO: ------------------------------Trying rule_count_pair 22 / 22: rule_count/nonrule_count: 3/7------------------------------
+john glenn          : DEBUG: O: [2, 2, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [3, 2, 0]
+john glenn          : DEBUG: [21, 24, 0]
+john glenn          : DEBUG: [79, 63, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+john glenn          : DEBUG: [12, 0, 2]
+john glenn          : DEBUG: [208, 14, 13]
+john glenn          : DEBUG: [425, 53, 20]
+john glenn          : DEBUG: [20, 35, 7]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [30]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: john, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: john, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: john, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: O: [2, 2, 2, 1]
+john glenn          : DEBUG: P: [0, 2, 4, 1]
+john glenn          : WARNING: Remains: 0
+john glenn          : DEBUG: p_level: 1, O: [2, 0, 0, 0]
+john glenn          : DEBUG: [8, 3, 0]
+john glenn          : DEBUG: [61, 31, 0]
+john glenn          : DEBUG: [142, 70, 0]
+john glenn          : DEBUG: [20, 20, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 2, O: [0, 2, 2, 0]
+john glenn          : DEBUG: [2, 6, 0]
+john glenn          : DEBUG: [91, 73, 0]
+john glenn          : DEBUG: [500, 399, 0]
+john glenn          : DEBUG: [452, 500, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [2, 0, 0]
+john glenn          : DEBUG: [0, 0, 0]
+john glenn          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+john glenn          : DEBUG: [32]
+john glenn          : DEBUG: [499]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [500]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [0]
+john glenn          : DEBUG: [1]
+john glenn          : DEBUG: final:
+john glenn          : DEBUG: name: glenn, l_level: 0
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+john glenn          : DEBUG: name: glenn, l_level: 1
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: name: glenn, l_level: 2
+john glenn          : DEBUG: --------------------------------------------------
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+john glenn          : DEBUG: scores: [0.60822231]
+john glenn          : DEBUG: ----------------------------------------------------------------------------------------------------
+john glenn          : DEBUG: Best score achieved: 0.754
+john glenn          : DEBUG: Best selected: 1/4
+john glenn          : DEBUG: Rule variations: [{'john gelnn', 'joh nglenn', 'jonh glenn', 'john lgenn', 'johng lenn', 'ojhn glenn', 'jhon glenn', 'john glnen'}]
+john glenn          : DEBUG: Nonrule variations: [{'jown gllnn', 'hyny clwmh', 'jszn gslnn', 'jnme glaym'}, {'qyow ghhmm', 'jjsn glnhn', 'jghn glenw', 'jgmh gklyn'}, {'yenh zlowy', 'jmay glmhy', 'jghn glynn', 'jxyn glhmn'}, {'jnme gllme', 'cwno helwn', 'jhnm glyen', 'jown gleyn'}, {'joyn glnnn', 'qhow cwunw', 'jxym gzlno', 'jhnh gjlnn'}, {'jnmm gzlnm', 'joyn glwnn', 'jmhh gclen', 'kyoy wlowy'}, {'jnhi glhni', 'jnmu gxlyn', 'jown glnnn', 'ozww zlneh'}, {'joyn gllnn', 'jnnm gslna', 'jjxn gclnn', 'xeww zhnne'}, {'jghn gleny', 'jgin gelen', 'xewm gyywm', 'jzqm gilon'}, {'jgmn gclen', 'jghn glynn', 'jgum glnyh', 'swnh zhney'}, {'jwzn glwon', 'jyom gjlwn', 'ojaw zheww', 'jown gleyn'}, {'kwyh kloyw', 'jgen gllhn', 'jghn gleny', 'jqcm glmyh'}, {'hiww cluhw', 'jhxn gllnm', 'jzam glamw', 'jghn gllnn'}, {'jxhm gkeln', 'jghn glwnn', 'okym zwmen', 'jwxm gilny'}, {'hwno qelnh', 'jkwm glnhm', 'jwan gweln', 'jghn glwnn'}, {'jown glynn', 'zwwh welnm', 'jxmo gculn', 'jnmn glwhn'}, {'zhwy gwiym', 'jumh gxlyn', 'jghn glwnn', 'jmho glyon'}, {'joyn glewn', 'jyim glmmh', 'jqon ghlnn', 'yyoy khwny'}, {'jomy gslnn', 'znow xyewm', 'jywm gzlny', 'jghn gllnn'}, {'joyn glnnn', 'jqne gkoln', 'qiyw wlhmm', 'jwkn glyen'}, {'joyn gllnn', 'jsum glaym', 'zenw ghnem', 'jnwn glwln'}, {'jxyn glmwn', 'jyam gilni', 'xwno ghneh', 'jown gleyn'}, {'jown gleny', 'syoy helnw', 'jwzm giiln', 'jzan glhni'}, {'qheh xlney', 'jgzn gslen', 'jown glnnn', 'jgnw gialn'}, {'jzin glhnu', 'xeow yewnw', 'jnme glnwe', 'jghn gllnn'}, {'jcna glnhm', 'khay jlwmh', 'joyn gleny', 'jjgn ggeln'}, {'jjgn glhhn', 'jmau gllmu', 'joyn glwnn', 'weym celhn'}, {'khwm ylowy', 'jxkn gxlnn', 'jown gleyn', 'jmme glnhh'}, {'joyn gllnn', 'kwow welnh', 'jzsm glmoi', 'jsjn glnnm'}, {'wwno zhyen', 'jmie gslny', 'jghn glenw', 'jjzn glnwn'}, {'jkin glwnm', 'xhom ylney', 'jgnh glmae', 'jghn gllnn'}, {'whow yywen', 'jzom gklno', 'joyn gleny', 'jomy gllnm'}, {'jown gllnn', 'jyym gylna', 'ajwy jliym', 'jzhm gxlnn'}, {'jown gleny', 'jkmu gwuln', 'whaw xelnh', 'jnwn glyen'}, {'jsun gilnn', 'jghn glynn', 'jcam gxuln', 'huww ywemy'}, {'jsmu gslem', 'qyyw yewny', 'jown glenw', 'jcon geeln'}, {'jomh glhwn', 'jsni gqlnw', 'wuym qolnh', 'joyn gleyn'}, {'jsan glnnm', 'zhay walwn', 'jumw gylnh', 'jown glwnn'}, {'yenh qlaww', 'jmni gulmn', 'jghn gllnn', 'jsun glewm'}, {'jken gilen', 'jkme gjelm', 'jghn glwnn', 'xaow jliym'}, {'jmyu glmhw', 'xewm kywen', 'jnhw gleym', 'joyn gleyn'}, {'jyme gslnm', 'jghn gleny', 'jcon gzlen', 'xhyh gwnyw'}, {'jymm gjuln', 'qyyw qliyy', 'jzsn gylnn', 'jghn glenw'}, {'jkqm glyom', 'jown glynn', 'jskn gzlnn', 'zawh zlihm'}, {'jown gllnn', 'jjcn gkeln', 'jmui glmii', 'weow wlnew'}, {'jown gllnn', 'suym helnm', 'jjmi gclan', 'jzqn glhne'}, {'jxkm glamh', 'jqxn glnwn', 'jghn gleyn', 'waow zwlny'}, {'jccn gqlnn', 'jsnu gzlyn', 'qiym ewlwn', 'jown glwnn'}, {'joyn glewn', 'jcen glnnm', 'jxxm ghlwn', 'ajyw hlneh'}, {'whym cluww', 'jmhw glnnh', 'jgni gqlni', 'jown glwnn'}, {'jsmn glwun', 'jxsm gsoln', 'jghn glenw', 'suym zlihm'}, {'jsom glhlm', 'jchm glhno', 'joyn glynn', 'zwoy xelyn'}, {'jnwh gilny', 'cwom qyewm', 'jown glnnn', 'jmha gklnn'}, {'jzcn gieln', 'jwam gllmo', 'khwy wynen', 'jghn gleyn'}, {'jmey glwmu', 'ciow xelhn', 'jken glyin', 'joyn gleny'}, {'joyn gllnn', 'jwgn gweln', 'wyoy zwhmn', 'jhmh gelmn'}, {'xham yewnw', 'jgna gglmn', 'json glmmn', 'jghn glnnn'}, {'joyn glenw', 'zwoy xehyn', 'jzin gslnn', 'jknh glmwa'}, {'jxno gzaln', 'jcmn gyeln', 'jghn gllnn', 'zywy exlyn'}, {'jhhm glnmn', 'whoy gwlyy', 'jwmi ghlne', 'jghn glnnn'}, {'okwh zhnin', 'jmyi geyln', 'jqan glnhn', 'joyn glynn'}, {'jznm gklna', 'kaow selny', 'joyn glynn', 'jcgn glmmn'}, {'jckm gzuln', 'jzan gxeln', 'jown gleyn', 'qiym kwamn'}, {'ojym wlnew', 'jmnu glnme', 'jown glnnn', 'jhxn glyin'}, {'xuym ywumn', 'jmou ghlny', 'jown glewn', 'jxan gllnm'}, {'jnyu gilny', 'jzkn glyun', 'chiw gwnew', 'jown glwnn'}, {'joyn glewn', 'jwcn glhno', 'gewh wlnow', 'jkme gwlnm'}, {'jown gllnn', 'xhyy wyewm', 'jqmi gciln', 'jgsn gheln'}, {'xwno qwnen', 'jghn glenw', 'jgun ggeln', 'jgam glumw'}, {'joyn glynn', 'jknu glyem', 'ejny qlamw', 'jqon gjlnn'}, {'joyn gllnn', 'jzqn gxeln', 'jaym gelhn', 'chom qwumn'}, {'jjgn gjlnn', 'jown glynn', 'yjew hlnyw', 'jmne gilnu'}, {'jsgn glmny', 'jghn gleny', 'jyme galnm', 'yhom welwm'}, {'hhaw jelnm', 'jmiu gluwm', 'jomh gllhn', 'jown glwnn'}, {'xhyh xolyn', 'jamh gwelm', 'jymn glymn', 'joyn gleny'}, {'jown glynn', 'ocwm celnm', 'jjgn gieln', 'jcgm glnhi'}, {'joyn gllnn', 'jcjm glwme', 'whum ghnem', 'jomh gilnn'}, {'jymh glmhy', 'jgen glhnh', 'hwow zolnh', 'jghn glnnn'}, {'cywm wwnen', 'jghn glynn', 'jqsm gllme', 'jcqn gylnn'}, {'jown gllnn', 'zayh slowy', 'jgxm gylyn', 'jsin gweln'}, {'xhow cwumn', 'jghn gleyn', 'jyun glhno', 'jxmy gclun'}, {'jqnn gzeln', 'kuoy sywnh', 'jkqm glmaa', 'joyn gleyn'}, {'jghm glhnm', 'jcmh glmwo', 'xiny syunh', 'jghn gllnn'}, {'jjmu gylni', 'jgcn glwan', 'whuw qolnh', 'jghn glnnn'}, {'jqyn glyan', 'jghn gleny', 'hhoy hlnew', 'jqgm gzlnh'}, {'kawy welwy', 'jjkm gzlne', 'jown glnnn', 'jxin glyan'}, {'jgan gilnn', 'yuoy xlihm', 'jghn glynn', 'jkna gkelm'}, {'jmeh galmn', 'jown glewn', 'jqnn gslen', 'wham ywany'}, {'joym glmni', 'jghn glynn', 'cyyy xlneh', 'jmyh gylmn'}, {'jghn gleyn', 'jhkm gjelm', 'hnoy yelmw', 'jzgn glwnm'}, {'jhmo gqaln', 'jown glnnn', 'jskn glemw', 'zewm yolnh'}, {'jzmh gjyln', 'jxgn gilnn', 'jghn gllnn', 'zyww selnm'}, {'jqmu gilnu', 'jown glynn', 'jgzn glhln', 'qeym ghowy'}, {'joyn gllnn', 'jwzn glnwn', 'ejny ghnew', 'jxwm gwlem'}, {'quoy xehyn', 'jkhm glymn', 'joyn glynn', 'jgnw gclny'}, {'jown glenw', 'jmmi gelnm', 'zwno gwnyw', 'jhkn glhna'}, {'jyma gslno', 'hiww wylwn', 'jsgn glhnh', 'jown glwnn'}, {'jznh glmia', 'jzen gheln', 'joyn gleny', 'zham kelnh'}, {'jown glynn', 'zynw zhwnw', 'jsxn glemh', 'jnyu ghlnm'}, {'jxnm glmmw', 'hwny gelwy', 'jown glnnn', 'jszn glmny'}, {'hhaw ywewy', 'jown glenw', 'jgan glhne', 'jgno gcoln'}, {'jsnh gzhln', 'cawy zlnyw', 'jghn gleyn', 'jnhh glyan'}, {'jown gleny', 'ijno helnm', 'jhno gjeln', 'jxne gslem'}, {'joyn gllnn', 'xuow gyhmm', 'jznw glmwe', 'jcnn gilen'}, {'joyn glewn', 'jzmn glhwn', 'jmwy gjlnw', 'zwno ylhmm'}, {'kwnh calnm', 'jghn gleny', 'jmhw gllnm', 'jzim glmwa'}, {'jcnn glyon', 'jown glenw', 'jzmu gylni', 'khuy zlnow'}, {'jxme geelm', 'chww gwney', 'jghn gllnn', 'jhwn gseln'}, {'jmiy gzuln', 'jown glynn', 'jxqn ghlnn', 'zhoy eylnw'}, {'genh eylnw', 'jsno gqlmn', 'jcqn gklnn', 'joyn gleyn'}, {'jjzm gslnh', 'jghn glynn', 'jchm glmno', 'yyny khwny'}, {'jkan gslen', 'khyo hhnen', 'jzmw gilny', 'jown gleyn'}, {'joyn glewn', 'kwwh qlamw', 'jhyn glemw', 'jhqm glwum'}, {'jznh gzlun', 'jxqn gzlen', 'wiow clowy', 'jghn glenw'}, {'jjsm gclun', 'yawh qlamw', 'jown glnnn', 'jqan gzlen'}, {'jown gllnn', 'jsni gloym', 'cuym chnen', 'jomh gklnn'}, {'jwgm gslnm', 'jqjn gzlen', 'jghn gleyn', 'cwow zhemw'}, {'jxxm golnh', 'jmwn glwhn', 'jown glewn', 'kwny ylowy'}, {'jwum glnyu', 'joyn glnnn', 'cwyw yylnw', 'jxmn gllnm'}, {'joyn glenw', 'yayw jlnow', 'jqmn glemy', 'jqnw gyiln'}, {'jxhm gclnn', 'gewh hywen', 'jghn gllnn', 'jsam glwam'}, {'jghm glhno', 'joyn glwnn', 'jcsm gghln', 'ajwy xwhen'}, {'jown glynn', 'xuyw zehnw', 'jjsm glmoy', 'jsyn glwhn'}, {'ojym zhneh', 'jmya gilnu', 'jsnn glhny', 'jghn glnnn'}, {'jxwn glyin', 'jghn gleyn', 'jmee glmee', 'guoy kwamn'}, {'jknm glmii', 'cwno khwnw', 'jghn gllnn', 'jgun gjlen'}, {'jznu gwelm', 'jghn glwnn', 'jyen gllmn', 'chyw gwumm'}, {'jown gleny', 'ojyy klowy', 'jkni glmiw', 'jgjn gxlen'}, {'hyoy jlnyw', 'jwgn gllmn', 'jown glnnn', 'jmwi ghhln'}, {'jown glenw', 'jhny glwln', 'geyw gwumy', 'jhmw glnwu'}, {'jown glynn', 'khow xwyen', 'jcan gllmn', 'jxqm glmwy'}, {'jmha gslen', 'ywww jolnh', 'jynh gklni', 'jown gleyn'}, {'jxmn gylen', 'gayw yewny', 'jjgm glnyo', 'joyn gleny'}, {'jghn gleyn', 'jshm glhnm', 'jgum ghaln', 'wyoy cynen'}, {'jown glynn', 'hhyo xelny', 'jyom gkhln', 'jnmn glyen'}, {'jgkm gklin', 'ajny zhwen', 'jgmn glhnu', 'jown glwnn'}, {'jimw glmyu', 'jgmn gxlnn', 'yeny wehwn', 'jown glwnn'}, {'ojwy zyewm', 'jghn glwnn', 'jjmu gelhn', 'jhne glyun'}, {'qenh syanh', 'jown glynn', 'jxen glhwn', 'jmuy glyym'}, {'jmow glmuh', 'jghn gleny', 'kwnh slnem', 'jjsn gxlnn'}, {'keow sywen', 'jqen glwhn', 'jmaw glnwo', 'jghn glnnn'}, {'jqgm glowm', 'jwun glwhn', 'yjem yelyw', 'joyn gleyn'}, {'guym syehh', 'joyn glenw', 'jccm glmmm', 'jkmn glhhn'}, {'jwkn glhnm', 'jmua gilnu', 'jghn gleyn', 'qiym syynh'}, {'jqhm gceln', 'jxny gslem', 'ejny welyn', 'joyn gleyn'}, {'joyn gllnn', 'jamy gjlne', 'gwno wlowy', 'jyhm glnnh'}, {'khwm klihm', 'jimh gzlnu', 'jgxn glymn', 'jghn gllnn'}, {'yjwm shnen', 'joyn glenw', 'jcmy gilln', 'jzmn glhnw'}, {'jzyn glmny', 'joyn glnnn', 'jnme gklyn', 'wiym khwnw'}, {'yewh xwnew', 'jown glenw', 'jwqn gxlen', 'jxno gslem'}, {'joyn glewn', 'jkin gclnn', 'geym swlny', 'jmwh gwoln'}, {'ojew zwhmn', 'jghn glynn', 'jmwi gqwln', 'jxyn gilnn'}, {'jwmm glmye', 'jghn glynn', 'jnmn glyen', 'zuoy kliym'}, {'joyn gllnn', 'jkwn glhhn', 'xuow zwemm', 'jwmy gewln'}, {'jqem glmho', 'jomy glewm', 'hnow xliym', 'jghn gllnn'}, {'jzmw gelna', 'hwww zhhnw', 'jcqn gilnn', 'jghn glnnn'}, {'jghn gleny', 'jcxn glmhn', 'quoy wyewm', 'jhmi gkwln'}, {'wnow eylnw', 'jmwu glmio', 'jzun glhmn', 'jown glwnn'}, {'jzsn gilnn', 'ojmy ywewy', 'jumy gslin', 'jown glewn'}, {'jgem ghlni', 'joyn glenw', 'osym colnh', 'jkon gweln'}, {'jzun ggeln', 'joyn glynn', 'jnwu glmhh', 'okwh ylowy'}, {'joym glnnh', 'jwom glwmy', 'whem xynen', 'joyn gleyn'}, {'jhzn gkeln', 'jzim glowm', 'qioy qwiyn', 'jown gleyn'}, {'jown glynn', 'jqqm gqlny', 'cywm xulyn', 'jyun glhnw'}, {'joyn glewn', 'jknu glmoy', 'jhno glmno', 'hewh zhanw'}, {'jghn glewn', 'jgmy gylon', 'jhzn glhmn', 'keow zewmn'}, {'joyn gllnn', 'caww kyewm', 'jxcn glyhn', 'jxmw gclny'}, {'gwyh qwumn', 'jghn glwnn', 'jhnm glemh', 'jmme gkaln'}, {'khow qliym', 'jknu glumw', 'jqmn gylen', 'jghn glnnn'}, {'jghn glewn', 'cwwm jwumn', 'jzon gzlnn', 'jgmi glmoa'}, {'yjym gywem', 'jken gllhn', 'jghn glynn', 'jsme glmao'}, {'qhww gelww', 'jqmi gchln', 'joyn glynn', 'jmhm gjlnn'}, {'yhom khwyn', 'jghn gleny', 'jwon gseln', 'jmnm glmea'}, {'jxxn gseln', 'jghn glenw', 'jsnu glnmy', 'cjno slney'}, {'jxnh glyhm', 'xuoy gelyw', 'jgan glmhn', 'joyn gleyn'}, {'jymm glnmh', 'joyn glenw', 'qiom zhehw', 'jmha glynm'}, {'jzne gzlmn', 'jown glenw', 'yuwm gyihm', 'jyun glewm'}, {'jgmy gslna', 'ocwm syneh', 'jghn gllnn', 'jzan glwmn'}, {'jgim gelno', 'jhcn gxlnn', 'joyn glynn', 'gwny yelmn'}, {'joyn glnnn', 'jgam glmeu', 'jwjn glwnh', 'qwow wolwn'}, {'jgnn glhne', 'jown glenw', 'shom celmn', 'jgsm gxlnm'}, {'hhww helwn', 'jzcm ghaln', 'jown glnnn', 'jgun gxeln'}, {'jzzn gxlen', 'yhow jliym', 'jmoi glymh', 'jghn gleyn'}, {'jnwo glmaa', 'jkun glnnh', 'jown gleyn', 'yany hlnem'}, {'jcnw gxhln', 'cwym wehnw', 'jown glenw', 'jgan glhnh'}, {'ginh zwomn', 'jyun gleym', 'jown gleyn', 'jxwm gxlan'}, {'jmmy gzhln', 'jghn gleny', 'jcsn gkeln', 'zawy wlnem'}, {'jsun gjeln', 'joyn glynn', 'jnma glnyh', 'wiow gyowm'}, {'jnwh gylmn', 'jmhe glemh', 'jown glewn', 'qnow xilyn'}, {'joyn glewn', 'jkmy gjlnw', 'jqyn gjlnn', 'hewh xwnhn'}, {'jyin glhwn', 'jksm galhn', 'joyn gleny', 'qawh xwnhn'}, {'jcnm gglnh', 'jown glenw', 'jnhm glnhn', 'wyym celnw'}, {'jggn glhhn', 'jghn gleny', 'jhme gkhln', 'ijno qelhn'}, {'jnhw glwon', 'jywm glwym', 'xuom wlhmh', 'jown gleyn'}, {'jghn glewn', 'jcqn glemh', 'jxni gelln', 'cayw helwn'}, {'jkne gjlwn', 'jghn glwnn', 'wiym jwnen', 'jzan glmnh'}, {'jzxn gilnn', 'jmmy gqlmn', 'khom ywony', 'jown glwnn'}, {'cuwm qyewm', 'jghn glenw', 'jknu glwmu', 'jgkn glhny'}, {'jnha gilen', 'joyn glwnn', 'jhmo gwoln', 'cwno slowy'}, {'qeww yhlnw', 'jmhi glmne', 'jmnw giwln', 'jghn glnnn'}, {'jmwy ghlnm', 'jqmn gylnn', 'gewy gwhmm', 'jown glwnn'}, {'jxyn gieln', 'joyn glenw', 'cwom zehnw', 'jjkm gilno'}, {'joyn gllnn', 'jxim gxhln', 'jzgn glnmn', 'okwm yelmw'}, {'jown gleny', 'zawh ghney', 'jghm glhyn', 'jkmi glmua'}, {'jown gllnn', 'kuoy jlnew', 'jsma glhmi', 'jcon gclen'}, {'joyn glewn', 'jckn gslen', 'jmeu glmha', 'whum klamw'}, {'jown gllnn', 'whoy whlwn', 'jkcn glmnu', 'jmow gklwn'}, {'xuyh syinh', 'jown glewn', 'jxmu gxlnu', 'jksn gieln'}, {'wwny gynem', 'jkzm gilem', 'jghn glenw', 'jhnw glhno'}, {'whaw yeynw', 'jzny gclnm', 'jjsn glmnu', 'joyn gleny'}, {'jhgn glwln', 'wyym whhnw', 'joyn glynn', 'jqnh gllme'}, {'qeww xlney', 'jkun glhna', 'jghn gleny', 'jjwm gjlhn'}, {'jmhh glmnw', 'jown glynn', 'oqwm gyhwm', 'jqim gilan'}, {'jcmo gwoln', 'joyn glenw', 'gayw golwh', 'jmnn gjlen'}, {'jzmn glmhn', 'jjme gylan', 'swnh qlaww', 'joyn gleny'}, {'jsam gylwn', 'joyn glwnn', 'cyno helnm', 'jjzn glmno'}, {'wewm ylneh', 'jmhi gweln', 'jwmw gjlnw', 'jghn gllnn'}, {'joyn glewn', 'jyen glhmn', 'whoy gelyh', 'jkmw gslno'}, {'jzkm gilnh', 'jown glynn', 'jswn glyhn', 'xeoy walwn'}, {'xiny gelyy', 'jown glenw', 'jkmn ggeln', 'jmeh gilan'}, {'kawh gelhh', 'jqin gslen', 'joyn gleny', 'jwim gylne'}, {'joyn glewn', 'swno ewlwn', 'jnhy glhhn', 'jnyo gzelm'}, {'zhwy ghowy', 'jown glenw', 'jhwn gylnn', 'jwom gwlnh'}, {'wawh xwyen', 'joyn glenw', 'jmay glhme', 'jyen gclnn'}, {'jzjm giiln', 'jghn gleny', 'jomw glwln', 'ynow xwnin'}, {'jghn gleny', 'qhoy kyewm', 'jggm glmmw', 'jhnw gjlen'}, {'joyn glenw', 'jqwn glhwn', 'waym xwnin', 'jnyu gylin'}, {'jxkn glmmn', 'sham swnen', 'jwcm glhmy', 'jown gleyn'}, {'jxjm glmye', 'jxun gjlnn', 'joyn gleny', 'ujny klohw'}, {'jnwm gylna', 'jhxn gjlen', 'jown glewn', 'oajy kwonw'}, {'jkhm glwen', 'geow jlnew', 'jown glenw', 'jimw gjlnw'}, {'zwny zewmn', 'jqum gwaln', 'jjzn glwin', 'joyn gleyn'}, {'jxkm glmwy', 'joyn glnnn', 'jchm gylen', 'zyww xwney'}, {'jhxm glmay', 'joyn glenw', 'jcan gklnn', 'qhaw shnen'}, {'jghn glewn', 'jmyy gxlyn', 'jxun gllmn', 'wwym zhnin'}, {'joyn glewn', 'jwkn glwin', 'choy wulwn', 'jmue gzlno'}, {'jsyn glhhn', 'oqym qhanw', 'jghn gllnn', 'jkmw glnhe'}, {'jkwn glhmn', 'yhem xewyn', 'jscm gjlna', 'joyn gleny'}, {'yyoy xyewm', 'jsxn glmna', 'jghn gleyn', 'jqmu glmye'}, {'joyn glewn', 'jhgn gzlnn', 'kwoy klwmh', 'jgma gxlnm'}, {'jqmi ghiln', 'heow xelyh', 'jhnh gylnn', 'jghn glnnn'}, {'jsyn glwen', 'jcnm gqlhn', 'jghn gleyn', 'zaow kolnh'}, {'jown glynn', 'jhwn glhne', 'xhwy helyn', 'jmih gylnh'}, {'jqyn glyen', 'jzmh glmyh', 'yhoy hlihm', 'jown gleyn'}, {'jkon glymn', 'jhme gxlna', 'xiny gelwy', 'jghn glnnn'}, {'jmna gclan', 'jzjn glhna', 'xuom kyewm', 'jown glnnn'}, {'joyn glewn', 'hwno gyhmm', 'jgjn gxeln', 'jsnh gjlny'}, {'joyn gllnn', 'zynw helnh', 'jzan gslnn', 'jkmh gilno'}, {'jhwn glwln', 'ghay zhnwn', 'jown gleyn', 'jxom giuln'}, {'jxmo gclni', 'joyn glwnn', 'jznn gjeln', 'ywno zhwen'}, {'jown glynn', 'jcwn glmhn', 'jmne gqaln', 'ojaw whemw'}, {'joyn glenw', 'jxmn glwin', 'huww slney', 'jknh gzlem'}, {'jghn glewn', 'chuw yhnen', 'jymo gslno', 'jcun glhnh'}, {'joyn glnnn', 'jamh gilnu', 'wham xlnyw', 'jkxn gjlen'}, {'jgma gjlne', 'cawh kyewm', 'jghn gleny', 'jshm glhwn'}, {'jmai glnmo', 'jown glynn', 'jgsn glnnm', 'cwno zwomn'}, {'suoy welww', 'jmae gklin', 'jghm gclnn', 'jown glewn'}, {'jown gllnn', 'saow slney', 'jcnh gwlhn', 'jscn glhwn'}, {'jqen glmno', 'hhoy kelnm', 'jmmy gxlna', 'jghn gllnn'}, {'jqin gleym', 'ijym syunh', 'jghn glwnn', 'jwnh gylwn'}, {'joyn glnnn', 'jgnm gelun', 'jhny glynh', 'qhaw zhynw'}, {'syoy wwlwn', 'jgan gyeln', 'jghn gleyn', 'jxmu gielm'}, {'jkwm glwom', 'heym wlowy', 'jghn glynn', 'jnho glynh'}, {'genh wlhmy', 'jzjm gqlnm', 'joyn gleny', 'jkcn gjlnn'}, {'jamy glnhm', 'jghn glenw', 'cayw jlowy', 'jzkn geeln'}, {'jghn glewn', 'jzcm ghwln', 'qwno zelhn', 'jcin glhni'}, {'xaow khwwn', 'jgqn glnhn', 'joyn glwnn', 'jzym gjlny'}, {'jown glynn', 'jkzn glhhn', 'cwwh ywnen', 'jzma gsuln'}, {'jghn glewn', 'jzan glnnm', 'suym yewnw', 'jeym glhhm'}, {'wuww golyh', 'jscn glhna', 'jghn glynn', 'jxcm gyhln'}, {'jown gleny', 'jimw gllmm', 'hhow xulyn', 'jcan glnwn'}, {'qywh ylneh', 'jgkm glnwu', 'jsyn glyon', 'jown glnnn'}, {'jown glynn', 'huoy golwh', 'jzkn gylnn', 'jzna gaelm'}, {'jcym glwlm', 'jhgn glwon', 'xuoy zhnin', 'jghn glenw'}, {'joyn glewn', 'sewh kwnen', 'jkcn glwen', 'jsem gxlno'}, {'jhqm gclne', 'jown glewn', 'ynoy whhmn', 'jmwn gclnn'}, {'jumy glumy', 'jwun gclen', 'caww egnnh', 'joyn gleyn'}, {'qyow slhmm', 'jqhm glhwn', 'jghn gllnn', 'jsma glnyo'}, {'jxen glwun', 'xeny cwunw', 'jghn glynn', 'jzem ggelm'}, {'chyw gynow', 'jymh gzlyn', 'joyn gleny', 'jxhm gyeln'}, {'joyn gllnn', 'jjcm glmiy', 'jhxn glwmn', 'gewh holnh'}, {'jzxm gilyn', 'joyn glynn', 'heym klwyy', 'jjsn glnwn'}, {'jkxn gxeln', 'yewh xynen', 'joyn glynn', 'jwnh gilwn'}, {'jggn glhhn', 'jwcm glmuh', 'hwwh zhnun', 'jown gleyn'}, {'jkun glnmn', 'qhwo qlayw', 'jsny gqlnw', 'jghn glnnn'}, {'yaow sywen', 'joyn glynn', 'jnho glmmn', 'jkmh golmn'}, {'jzim glumy', 'jowm gylnn', 'jown glewn', 'cewm wehnw'}, {'joyn glnnn', 'xyny gyneh', 'jwmy gzlyn', 'jcqn glmhn'}, {'jmwa gelno', 'jown glenw', 'xwno calnh', 'jqzn gllnh'}, {'zewh yolnh', 'jcne gelnw', 'jsgn gleym', 'joyn gleyn'}, {'jcin gllhn', 'jown glnnn', 'jmiu galnh', 'shom gynyw'}, {'jown gllnn', 'jcnu gxlhn', 'jxgn gslnn', 'xiym kyewm'}, {'jgjn glhnw', 'jghn gleyn', 'ocym yhnen', 'jwym gqlni'}, {'jown gleny', 'kayy klwwy', 'jmeu gslyn', 'jsmn gieln'}, {'jown gleny', 'jkxm glnma', 'jmhw gjeln', 'caww zelnm'}, {'jwzn gllmn', 'jnyu ghlhn', 'chyy xwwen', 'joyn gleny'}, {'jzsm glmwm', 'sewh syewh', 'jwmn gslnn', 'joyn gleny'}, {'joyn glnnn', 'huww yelmn', 'jgmn glhwn', 'jnwo gslun'}, {'jmie gklyn', 'qhwh calhn', 'jcin glhln', 'joyn gleyn'}, {'jynh gihln', 'okwm qlhmm', 'jghn glwnn', 'jhnw gzlnn'}, {'jown gllnn', 'zawy selnh', 'jzkm gkhln', 'jzan glwmn'}, {'joyn glewn', 'jqin gzeln', 'cyyy xwhen', 'jcam gjlwn'}, {'jown gleny', 'jxgn glmno', 'cyoy yelmn', 'jcnh glnhe'}, {'joyn glenw', 'jnhm gweln', 'jkwm gylnu', 'xwww welwm'}, {'jwjn geeln', 'jksm gylyn', 'jghn glynn', 'qhwo yelyn'}, {'qhiw ghhmm', 'jqmy gjlna', 'jhnw glwun', 'jown glwnn'}, {'jown glynn', 'jknn gelen', 'kawy gelhh', 'jwzm glhwm'}, {'jjhm glmne', 'jghn glynn', 'ojwm jlowy', 'jqqm gelln'}, {'jcny ghlno', 'jhgn glemy', 'yayw xhlyn', 'jown gleyn'}, {'cywm qyewm', 'joyn glwnn', 'jxwn gklen', 'jmne ghyln'}, {'swwh xeyyn', 'jqnh gxiln', 'jksn glmhn', 'jghn glnnn'}, {'jmna gjlhn', 'jown glynn', 'yjey ylneh', 'jxwn glemy'}, {'joyn gllnn', 'jmnw gllmy', 'jhqn glmny', 'choy ywewy'}, {'jnhh gylnn', 'khyw xeyyn', 'jown gleyn', 'jwqm gqlnu'}, {'jkym glmui', 'joyn glenw', 'json gllmn', 'cyyy welny'}, {'joyn glewn', 'zhom wlnem', 'jqsn glemw', 'jwzm gxlnu'}, {'joyn glewn', 'znow xewyn', 'jxnn glhna', 'jmoi gcelm'}, {'heny jelnw', 'jgzm glmmw', 'joyn glwnn', 'jhsn glnhn'}, {'jmhh gxeln', 'jown glnnn', 'jhzm gjlem', 'wayw swlny'}, {'jmuh glmah', 'hwnh khwnh', 'jmoh glwin', 'jown glenw'}, {'jgnn gilnn', 'jghn glynn', 'wwny cwnen', 'jumh gyuln'}, {'jwgn gllhn', 'jmew gilem', 'joyn glynn', 'zhoy yewny'}, {'jimh gylni', 'jcen glmnw', 'jown glewn', 'huow yelmn'}, {'hnow zwnen', 'jqgm gjlne', 'jown glnnn', 'jsin glwun'}, {'joyn glewn', 'jxni gjlny', 'ijno gelyw', 'jzzn gylnn'}, {'jjzn glnmn', 'hwny cluhw', 'jhmm gclhn', 'jghn glnnn'}, {'joyn glenw', 'jsmw gklyn', 'geym xynen', 'jwen glemw'}, {'jsen gllnh', 'jnwe gklan', 'huym kyewm', 'jghn glwnn'}, {'jghn glewn', 'jkwn gllnm', 'jkym glyma', 'xwww xelmn'}, {'jyhm glnwn', 'jxmw ghelm', 'xuno ylihm', 'jown glwnn'}, {'jsan glmno', 'jown glenw', 'kuoy yalnw', 'jmea glyme'}, {'jwon glmni', 'jcwm glmou', 'qyoy xelyn', 'jghn glnnn'}, {'jnmh gelun', 'jown glewn', 'jzjn gweln', 'oqym gywey'}, {'jzmh gxiln', 'jxzn glyhn', 'jown glewn', 'ajyw ywlny'}, {'hayw helnw', 'jemy gilne', 'jksn glhni', 'joyn gleny'}, {'jmoy glamw', 'jgyn gxeln', 'waow xolyn', 'jghn gllnn'}, {'jmhi glwnm', 'joyn glynn', 'jimw giwln', 'heym wyhmn'}, {'chew ghney', 'jghn gleyn', 'jymi gilny', 'jxsn glmmn'}, {'jown glnnn', 'owjh zwmen', 'jxun gkeln', 'jgmo gclnh'}, {'jmna gluym', 'ceow whhnw', 'jnhi gslen', 'jown glewn'}, {'joyn glewn', 'jknn glmwn', 'kuoy ghnew', 'jmwy glwum'}, {'yyny syewh', 'jmye gslon', 'jghn glenw', 'jhny glhne'}, {'ujym zhmen', 'jsme gsoln', 'joyn glynn', 'jyan glnnm'}, {'jcnm gxlun', 'ojem ywewy', 'jghn gllnn', 'jxen gleym'}, {'jnhu glemh', 'juym gslem', 'jown gleyn', 'ijny xelyw'}, {'jgin glwnm', 'zaow ywumn', 'jcnh gklno', 'jghn glnnn'}, {'jnhi glnmn', 'joyn glenw', 'cwwh welww', 'jsni glmwo'}, {'joyn glewn', 'kwny selnw', 'jxwn gylnn', 'jkni gclem'}, {'jcna glnhe', 'qyow zwhmn', 'joyn gleny', 'jswn glemh'}, {'jzmy gcoln', 'jxyn gklnn', 'jghn glwnn', 'xeow jlnyw'}, {'jzzm glymw', 'zhow gwnow', 'jckn gyeln', 'jown glwnn'}, {'joyn gllnn', 'jqmy gqlny', 'heyy welny', 'jyan glnhn'}, {'joyn glewn', 'jmwy glwme', 'wewh yelhn', 'jgzn ghlnn'}, {'joyn glynn', 'jhne glhnu', 'okyh swumn', 'jkym gslmn'}, {'jown gleny', 'jmoo glmhm', 'jmha glmny', 'xiny zlney'}, {'jqem gklhn', 'zayh ghneh', 'jxyn glwin', 'jown glwnn'}, {'jmha gllhn', 'jjme gllmu', 'ozwy jliym', 'jown glnnn'}, {'jqnn gklnn', 'jmia glnyu', 'joyn gleny', 'xhyh yolnh'}, {'jhsm gihln', 'jzkn gjlen', 'okym wwumn', 'joyn gleny'}, {'suym gelwy', 'jghn gleyn', 'jxma gclne', 'jqxn gqeln'}, {'jqin gleym', 'jmih gslyn', 'joyn gleny', 'hhuy qywen'}, {'jqwm glmui', 'jscn gjlen', 'jown gleyn', 'siym ywhny'}, {'jown glynn', 'jmma gzaln', 'jhgn glnnh', 'wewy gynow'}, {'jghn glewn', 'jsgm gylun', 'jnha gqlnn', 'zhaw xewyn'}, {'jmei gllym', 'jkwn glyen', 'jown glewn', 'khom syinh'}, {'jgsn glnhn', 'jimh gylwn', 'jghn glenw', 'ynow klamw'}, {'jghn gleny', 'jwgm gilon', 'qayw qlowy', 'jqmn gxlen'}, {'jzjn gilnn', 'ujym selhn', 'joyn glwnn', 'jnyo ghuln'}, {'gawh ywhny', 'jqxm gkiln', 'jzxn gilen', 'joyn gleny'}, {'joyn gllnn', 'khwy zhnhn', 'jznw gzlni', 'jzun glnhn'}, {'zhwy jelhn', 'jown glynn', 'jkmw gjlno', 'jomh gllmn'}, {'khow wlnem', 'joyn glynn', 'jwhm glmna', 'jmia gelin'}, {'jsan glhyn', 'jzum glmii', 'jown glenw', 'qhwy xelnh'}, {'jghn gleny', 'sino wyhmn', 'jcmo gcaln', 'jggn gelen'}, {'jswn glmnw', 'geyy yewny', 'jghn gleyn', 'jkxm gklmn'}, {'joyn glewn', 'jsmw gulnh', 'zawy wlnow', 'jgon glwan'}, {'jsgn gqlnn', 'hiww gelyy', 'jghn glwnn', 'jyam gsaln'}, {'jqgm gjlnh', 'jqun gzlnn', 'joyn glynn', 'xwno kwwny'}, {'jgqn glynm', 'jghn glynn', 'jmih glhmy', 'kenh ylnyw'}, {'jown glenw', 'jzne gjoln', 'qiom qwiyn', 'jwmn glyin'}, {'ywww zlney', 'jghn gleny', 'jczn glmnu', 'jqmy gxlmn'}, {'jhmi gelnm', 'joyn glwnn', 'oqym khwnh', 'jwgn gjlnn'}, {'jcqn gheln', 'jown glynn', 'ojey whunw', 'jznw gwlmn'}, {'jgmi gglnh', 'jcnn glyon', 'jown glnnn', 'owjw calhn'}, {'owym hwnen', 'jown glynn', 'jxan gylen', 'jcsm gjlhn'}, {'jzwn glwln', 'joyn glwnn', 'cawh ghneh', 'jnnh glwlm'}, {'qewy jlney', 'jhno glwin', 'jsny gilln', 'jghn gllnn'}, {'jxzn gklnn', 'jgym gilnm', 'joyn glynn', 'qhyy syneh'}, {'jkkn ghlnn', 'cyyy kyewm', 'jnmu glwmo', 'jown gleyn'}, {'jyim glymy', 'jhxn glmwn', 'jghn gllnn', 'quww xelhn'}, {'jwhm gclnn', 'zuoy yolnh', 'joyn glynn', 'jjmm gxlnm'}, {'qhiw syewm', 'jhny glhmn', 'jghn glwnn', 'jcem glywm'}, {'joyn glenw', 'jsno gklun', 'jmwn glemh', 'heny sliym'}, {'xhow wlnew', 'juym gclon', 'jghn gleyn', 'jcqn glnmn'}, {'jown gllnn', 'jknm glnmo', 'hhey gwlhy', 'jmnn gklen'}, {'jcgn glmne', 'yawh xwlyn', 'jmiu galem', 'joyn gleyn'}, {'jcnu gklni', 'jghn gleny', 'ajyy wylwn', 'jhny glyhn'}, {'jghn glewn', 'jjgn glhhn', 'yhoy ywemy', 'jcno gclwn'}, {'haym zhonw', 'jxnw ghlnw', 'jhny glnnh', 'jghn glwnn'}, {'joyn gllnn', 'jmho gweln', 'jgym gjwln', 'qiow wwlwn'}, {'joyn glewn', 'jmnm gjlna', 'jmhh gilen', 'cyny syemh'}, {'jwqn gxeln', 'jqem glmhh', 'huww jwnen', 'jghn gllnn'}, {'joyn glenw', 'jsnu gllmw', 'yuwm khwwn', 'jknn ggeln'}, {'jzxm gyiln', 'joyn glenw', 'wwnh qwanw', 'jxun glwnh'}, {'jcjn gxlen', 'kewh wilwn', 'jqum glmyh', 'joyn gleny'}, {'jxwm gelnw', 'jxwn gyeln', 'joyn gleny', 'yham jelny'}, {'chwo whehw', 'jmwa glmuo', 'jown glnnn', 'jzmn gclen'}, {'joym ghlnn', 'jown glynn', 'khwy xewyn', 'jgqm glamw'}, {'jjqn gkeln', 'joyn glnnn', 'jwem gklun', 'hjno wwumn'}, {'jghn glewn', 'jwxn ghlnn', 'cyow wlihm', 'jcsm glnya'}, {'jown gllnn', 'jxcn glmna', 'okym gelyy', 'jzjm glmua'}, {'jjzn gllmn', 'jhmo glmoa', 'ciow xwnon', 'jghn glnnn'}, {'jjma gkoln', 'zwny syhnh', 'jghn gleny', 'jnhu glwnh'}, {'joyn gllnn', 'jxjn gxeln', 'jqxm gqlwn', 'cewm jlwmh'}, {'wwno hlney', 'jwcn gqlnn', 'joyn glynn', 'jscm glimw'}, {'qwnh chunw', 'joyn glnnn', 'jczn gheln', 'jjwm gxlmn'}, {'jjxm gslem', 'jhjn glhmn', 'jghn glwnn', 'ijym gelhw'}, {'jnhm glhno', 'xuyw swlny', 'jgmi gelem', 'joyn gleny'}, {'jwnm gqoln', 'keow helwn', 'jghn glynn', 'jqun gqeln'}, {'jzqm glmmi', 'ocwm yulnw', 'jzxn glnnh', 'joyn gleyn'}, {'jcne glmiw', 'jzsn glmni', 'wuww gwnew', 'jghn glnnn'}, {'xuyh klwwy', 'jown glenw', 'jxqn glewm', 'jgmo gqlno'}, {'jken glnwn', 'jhmm glhym', 'jown glewn', 'owjh zywen'}, {'gwwh cwunw', 'jhjn glymn', 'jmwi glwam', 'joyn gleyn'}, {'jccn glwun', 'jown glynn', 'hjny hlnow', 'jnye gsoln'}, {'jown glynn', 'jkwn gleym', 'know helmn', 'jqmh gwlem'}, {'jqqm gllmm', 'jown glewn', 'huoy wehwn', 'jyun ggeln'}, {'kenh qliyw', 'jgzn gslen', 'jown glnnn', 'jsno glmah'}, {'jhzn gelen', 'sawh jlneh', 'jqmw glyem', 'jown glnnn'}, {'jghn glewn', 'chww kelhn', 'jsgn glhni', 'jqim golnh'}, {'chaw zolnh', 'jghn glenw', 'jxmo gklun', 'jnhu gllmn'}, {'jown gleny', 'cuoy hyewm', 'jzon gxeln', 'jcum glmmi'}, {'jzwn gylen', 'jmey glmuw', 'gewh jyewm', 'jghn gllnn'}, {'jjwm glnyu', 'jqhm glhny', 'qhiw ywumn', 'joyn gleny'}, {'jown gllnn', 'cyym qlnem', 'jgnu glmah', 'jhmn glwen'}, {'jghn glewn', 'jzxm glmyu', 'qwnh jelmn', 'jznn gilen'}, {'jwmo gcelm', 'jzon glmny', 'cham whemw', 'joyn gleny'}, {'zwnw kyamn', 'jwmn gxlen', 'jnwo gilnu', 'joyn gleny'}, {'chew helwn', 'jxma gyuln', 'jnhw glymn', 'jown glwnn'}, {'jczm gqlno', 'qiyw helmn', 'joyn glwnn', 'jxin glwin'}, {'khew whhmn', 'jmhh gylen', 'jqno gzlon', 'jghn glnnn'}, {'chuw jlnyw', 'jzmn glmne', 'jkmu glyma', 'jown glwnn'}, {'joyn gllnn', 'jhma gsyln', 'qhyw whehw', 'jzzn glmhn'}, {'jxne glumw', 'sioy gwumy', 'joyn glynn', 'jqin glhmn'}, {'jown glynn', 'jmyh golnh', 'xnow khwyn', 'jmnn glwun'}, {'jghn glewn', 'jzsn glhnu', 'wnow gyhwm', 'jjjm ghlyn'}, {'jghn gleny', 'jxzn gseln', 'jwmo glmiy', 'whuh qliyh'}, {'jsjn glmny', 'qhww yehnw', 'jown glenw', 'jnye gzlna'}, {'jown gleny', 'jnhe glynm', 'xuom jwumn', 'jjzm gxlyn'}, {'jghn glewn', 'jhcm gghln', 'ocwm yylnw', 'jkin glhyn'}, {'yiwm gwnem', 'jmne gluwm', 'jghn gleyn', 'jsmn glmhn'}, {'joyn gllnn', 'cwnh xwnew', 'jemy gjlni', 'jnha gklnn'}, {'jwzn glhhn', 'joyn glwnn', 'jkem golmn', 'qeow qelnm'}, {'jown gllnn', 'jkme glmeu', 'yuwm kelnm', 'json gseln'}, {'jown gleny', 'wnow jhnen', 'jnwn glwhn', 'jmwm gzyln'}, {'znow syhnh', 'jymm glmyy', 'jghn glynn', 'jzan glhny'}, {'jhnh glmny', 'jmew glmhh', 'jghn gllnn', 'ywwm yelmw'}, {'jown gleny', 'jqon gzeln', 'jnmo gglhn', 'chuw jlwmh'}, {'jsen glynh', 'jown glewn', 'jmoi galnm', 'wuww gwnem'}, {'joyn gllnn', 'jnyi glnyh', 'jmnn gslnn', 'qhwh slhmm'}, {'jhmm gllme', 'ajyw syanh', 'jghn gllnn', 'jnho glyun'}, {'jown glynn', 'jwhm glynm', 'qwwh cliym', 'jgme gqwln'}, {'joyn gllnn', 'joym glynh', 'jmow gelnm', 'ywny cynen'}, {'joyn glewn', 'jxun gzlen', 'jyem glowm', 'yhim syemh'}, {'jwon gzlen', 'jown glenw', 'jmaw glymy', 'hham xhlyn'}, {'qino clhmm', 'jjqn glhnw', 'jnwo glnmy', 'jown glwnn'}, {'jown gllnn', 'jqem gylnm', 'jkcn gslnn', 'oujy xhnen'}, {'ozyw wlhmh', 'jsno glmua', 'jwqn gxlen', 'jghn glnnn'}, {'cnoy lnwen', 'jghn gleyn', 'jwym gxlin', 'jhxn glmnu'}, {'zewy kywen', 'jkun gxlnn', 'jsni glmmm', 'jown gleyn'}, {'joyn glewn', 'khiw ylnyw', 'jzmn glhna', 'jmuw glmwi'}, {'jgma gklon', 'qhwo gyawm', 'jown glnnn', 'jhjn glmnu'}, {'jsom gllmi', 'jnhh glhwn', 'jown glnnn', 'ghay qelmn'}, {'oajh golhh', 'joyn glenw', 'jjgm golmn', 'jwhm glwnh'}, {'jcjn gxlen', 'jghn gleyn', 'jjym gslnw', 'snow zhunw'}, {'jjmh gllmw', 'quoy xwnyn', 'jqan gjlen', 'jghn glnnn'}, {'waym khwwn', 'jsem ggyln', 'jkin gceln', 'jown glwnn'}, {'quym helyn', 'jnmy gslnh', 'jwcn gklnn', 'jghn glnnn'}, {'yaow swnen', 'jyym glmee', 'jown gleyn', 'jnhh glwnh'}, {'jmhi glmnh', 'jghn gleny', 'khom seynh', 'jmyw gjlyn'}, {'jkwn glmni', 'jynm gzelm', 'jown glewn', 'huny gynem'}, {'jnyo glnhw', 'oqwh zlnew', 'jown glewn', 'jzon gyeln'}, {'jxon glwon', 'joyn glenw', 'jsny geyln', 'oqwm xelyw'}, {'jgwm galnm', 'jmmn gllnh', 'sioy xelwn', 'joyn gleyn'}, {'jcxm glumh', 'wwyw syynh', 'jzyn glhnm', 'joyn gleyn'}, {'qwwh xwney', 'jghn gleny', 'jqim ghlmn', 'jnhu glyan'}, {'jqmi glmai', 'jgjn gzlnn', 'jown glnnn', 'zywy hynen'}, {'jmnu gllmo', 'jghn glynn', 'hiww qyewm', 'jxnn gheln'}, {'jhmh glmoi', 'jgwn gjlen', 'joyn glynn', 'xyny zwemw'}, {'jomy gllmn', 'jsnh glnho', 'joyn glwnn', 'xnoy ghnow'}, {'kwno khwnh', 'jxgn glhni', 'jnyu glmmw', 'joyn gleyn'}, {'qioy gyawm', 'jsma gxaln', 'jghn glynn', 'jhcn gclnn'}, {'jghn glewn', 'qiyw zelnh', 'jjnm gxyln', 'jwzn gxlnn'}, {'joyn gllnn', 'jhnm glwon', 'jwmh gchln', 'hhey xelny'}, {'jzni glnyu', 'qaow yewnw', 'jkun glmne', 'jown glwnn'}, {'kuoy xwnen', 'jynh glmue', 'jkcn glhnw', 'joyn gleyn'}, {'jsmo giiln', 'jown glewn', 'jwxn glhnh', 'xuyh welnh'}, {'jwqn glwan', 'jqnh gslhn', 'xaow helnm', 'joyn gleyn'}, {'jghn glewn', 'jcmn glmnh', 'jmww gllmm', 'whmo khwhn'}, {'jkyn glwmn', 'joyn glwnn', 'okww ylnow', 'jmmo gialn'}, {'jqwn gslen', 'jown glewn', 'jmoo gzlnh', 'chwy khnen'}, {'yuwm zwemh', 'jymy gslnu', 'jzun gieln', 'jghn glnnn'}, {'yhum wlnyw', 'jjnh gxlnm', 'jown glnnn', 'jzxn gilen'}, {'jhmh gqoln', 'qiwh slnyw', 'jown glnnn', 'jgjn glymn'}, {'jmmn glmhn', 'jown glynn', 'sewh zhemw', 'jcqm glymy'}, {'ijym kliym', 'jnhm glmna', 'jown glewn', 'jkcm glnye'}, {'xiny jwlny', 'jknm golnm', 'jwqn glmne', 'jown gleyn'}, {'jhmw gqaln', 'jown glenw', 'qawh welmn', 'jqcn gceln'}, {'ojwm zwemh', 'jghn gleny', 'jhnw glmny', 'jyim glnwa'}, {'wuyw gwney', 'jmuo ghlln', 'jgxn glnhn', 'joyn gleny'}, {'yiwm cluhw', 'jnyu glwlm', 'jgwn glwin', 'jown gleyn'}, {'jxjn gqeln', 'yyoy gwihm', 'jown glenw', 'jjmu gjlne'}, {'jzcn glhmn', 'jown glenw', 'jsam gilno', 'kham wheyw'}, {'jxen glyen', 'jown glnnn', 'jymy glhmo', 'gwyh xwnon'}, {'joyn gllnn', 'xawh zyewm', 'jcwm gjlem', 'jgnn gxeln'}, {'jhjn glyin', 'jown glynn', 'qhew whwnw', 'jxcm goelm'}, {'jghn glewn', 'jcmy gsaln', 'jkyn gzlnn', 'qhwh wewwn'}, {'sham ghiym', 'jghn gleny', 'joym gllmn', 'jcym gslmn'}, {'jynm ghaln', 'jnhm gklen', 'jghn gleny', 'hhuy xelwn'}, {'jown gleny', 'jmii glmmu', 'jwan gzeln', 'yjyy qliyw'}, {'jccm gziln', 'joyn glnnn', 'qhwo qelnh', 'jsgn gllmn'}, {'joyn gllnn', 'jwen glwmn', 'jqxm gselm', 'kiym slnyw'}, {'qeym xelnm', 'jckm glmua', 'jhxn glwon', 'joyn gleyn'}, {'jown gllnn', 'jxcm gzlni', 'cyny qolnh', 'jszn glyin'}, {'jcno gjlhn', 'jwkn glhnh', 'hwoy gwnew', 'jown gleyn'}, {'ejym zwamn', 'jown glenw', 'jmhm glmnw', 'jxgm glmmw'}, {'gwno yelmn', 'jzxm gzlni', 'jsin glwmn', 'joyn gleyn'}, {'jown gleny', 'ajyy ewlwn', 'jjnh glyym', 'jxjn gllnh'}, {'yyny xwnem', 'jcmw gyiln', 'jnhh geeln', 'jown glewn'}, {'whem syonh', 'jzyn glnhn', 'jcqm gylny', 'jown glwnn'}, {'jown gllnn', 'henh qlihm', 'jcny gwhln', 'jowm glhnu'}, {'jown gleny', 'jggm glyma', 'jwan glmnu', 'yunh qlowy'}, {'jkxn gilen', 'jown glynn', 'zhow xelnw', 'jsum glnmi'}, {'jsan glyen', 'jown glenw', 'cwno kwwny', 'jnwe gzaln'}, {'jkzn glmno', 'qewm shnen', 'jmye gylny', 'jghn gllnn'}, {'jown gleny', 'chwo zlnyw', 'jxam gelne', 'jmhu gclnn'}, {'ejwm gelhh', 'jkmo golhn', 'jghn gllnn', 'jsmn glnmn'}, {'jown glynn', 'jskm gslna', 'jckn glyhn', 'zhom gwumm'}, {'xhom zlowy', 'joyn glynn', 'jcny geyln', 'jcsn gxlen'}, {'joyn glenw', 'yeow xlnew', 'jhmi glowm', 'jnwn glhni'}, {'joyn gllnn', 'jwmy glymm', 'jnwn glmna', 'khuy jwumn'}, {'jwxn glemh', 'jssm gclem', 'zenh selwn', 'jghn glnnn'}, {'ziwy zolnh', 'jmoi gclno', 'jskn glmna', 'jown gleyn'}, {'ocwm zhnin', 'jghn glenw', 'jqxn glmnh', 'jmue glmao'}, {'jqwn gslen', 'henh yhnen', 'jqno glmyi', 'joyn gleny'}, {'jghn glewn', 'xaow jywen', 'jhsn gqlnn', 'jjjm glmoh'}, {'jmuy gqlnw', 'jken glhni', 'jghn glwnn', 'zyww khwhn'}, {'jown gleny', 'jhkm gqlnu', 'okyw wlnow', 'jszn gylnn'}, {'khwh qywen', 'jmyi gclwn', 'joyn glynn', 'jhcn gyeln'}, {'jjzn glyon', 'kwow cyewm', 'jzcm gjaln', 'joyn gleyn'}, {'joyn gllnn', 'jxmh gwiln', 'jxhm glnmn', 'yjwy welwn'}, {'jown gleny', 'jnhm gheln', 'qhew zwnen', 'jzxm glyym'}, {'jgqn glnnm', 'jqom glmyy', 'jghn glwnn', 'ajwy kolnh'}, {'hewh zwemm', 'joyn glwnn', 'jumy gylni', 'jzcn gslnn'}, {'jjjm gkiln', 'hwoy zwemh', 'jhqn glwln', 'jown glwnn'}, {'yayw ghneh', 'jnmo glmwo', 'jown gleyn', 'jnhi gqlnn'}, {'jgcn gjlnn', 'jown glewn', 'jggm glimw', 'geww gwumw'}, {'jhhm gklnn', 'jkno glmoh', 'kewh xelhn', 'jown gleyn'}, {'xuno yyewm', 'jken gieln', 'jown glenw', 'jmaw gylne'}, {'qhww gelwh', 'jkkn glymn', 'jzny gxlwn', 'jown glwnn'}, {'jghn gleny', 'ywny jlhmm', 'jsen glhln', 'jmni gylni'}, {'jown gleny', 'qhuw egnnh', 'jcwm gselm', 'jxsn glnnh'}, {'joyn glenw', 'jcon glmno', 'jxxm glmoe', 'whuw xelnm'}, {'jzxm gylmn', 'joyn glenw', 'ceow khwmn', 'jmho gleym'}, {'jmee gkiln', 'jmhy gxlen', 'cham xwyen', 'jghn glnnn'}, {'yany qelmn', 'jgjn gieln', 'joyn glwnn', 'jymy glmaw'}, {'jghn glewn', 'jknw glmwu', 'jmhh glwon', 'ojem yelyn'}, {'jjmh glyim', 'jhnu ggeln', 'joyn glynn', 'qhew khwwn'}, {'jzjm glyom', 'cuoy jlneh', 'jown glenw', 'jmhi gllmn'}, {'jsjm gslnu', 'joyn glwnn', 'jnwn glmna', 'qeww zliym'}, {'jwkm gjlne', 'jhgn gjlen', 'qhay calnh', 'jghn glnnn'}, {'jyen glnnm', 'jqna gzyln', 'jown glenw', 'qwno xlney'}, {'xwno khwyn', 'jqym glmhe', 'jnwn glmna', 'jghn glnnn'}, {'jknw glwym', 'jghn gleny', 'jwqn glemh', 'zeow xywen'}, {'jkqn glwnh', 'jown glnnn', 'swwh cynen', 'jcmi ghlna'}, {'jnnm glhmo', 'quoy zhhen', 'jzwn ghlnn', 'jghn gllnn'}, {'joyn glenw', 'jxgn gweln', 'jcmi gzaln', 'wwom welwm'}, {'jxen glyon', 'jown glynn', 'hiww xolyn', 'jsam glmme'}, {'jkhm glemy', 'khey gyawm', 'jzny ghwln', 'jown glwnn'}, {'jghn glewn', 'jxmo glmhe', 'quym hwumn', 'jcjn gyeln'}, {'jqgm gslem', 'weww zhnan', 'jksn gceln', 'joyn gleyn'}, {'jjcn glwhn', 'ywww qlowy', 'jnya gclyn', 'jown gleyn'}, {'jmiy gzlmn', 'jxgn glmno', 'ciwm xlhmm', 'jown glewn'}, {'jwin glhni', 'khwo jelwn', 'jmyy ghlwn', 'joyn gleny'}, {'jown gllnn', 'jmha glwnm', 'yeny xelnm', 'jqmi gylny'}, {'jsqm glnya', 'quoy zelmn', 'jghn gllnn', 'jgkn glwen'}, {'jyin glnhn', 'joyn glwnn', 'xuow qlowy', 'jmeo golnh'}, {'xewm wewwn', 'jssn gilnn', 'jown glenw', 'jgmh giyln'}, {'jkxn gllnh', 'zenw selnh', 'jown glnnn', 'jcnh glmme'}, {'joyn gllnn', 'ciwm kynen', 'jhny glmny', 'jyem gklna'}, {'oyyw holnh', 'jnha gllmn', 'jqnu gslnh', 'joyn gleyn'}, {'joyn glynn', 'jmui glymu', 'kuym gelwh', 'jmhe glhln'}, {'jsni gxwln', 'jxmn glhne', 'haww yelyn', 'jghn gllnn'}, {'know jelhn', 'jkzm gylln', 'jjhm gjlnn', 'jghn gllnn'}, {'xhow yelnw', 'jghn glwnn', 'jmwi gzlnw', 'jzcn glmne'}, {'jown gleny', 'jomy glnmn', 'qawh zlnem', 'jcnh gclnm'}, {'jghn glewn', 'joym gseln', 'jjme gshln', 'qhem wlnow'}, {'jqwn glmnu', 'jown glewn', 'jjmm gclne', 'qhyw cwunw'}, {'joyn gllnn', 'jyen glnnh', 'xnow gywey', 'jkni gclyn'}, {'whwm wwumn', 'joyn glynn', 'jhmn glynh', 'jknu glhym'}, {'joyn gllnn', 'jxcn gylen', 'zunw celnh', 'jmuo gclan'}, {'jgmu giiln', 'hhiy cluhw', 'joyn glwnn', 'jjqn glhwn'}, {'joyn glewn', 'jgnh glymm', 'jksn glwnh', 'xwny jhnen'}, {'jczn gjlen', 'jgni glnwo', 'xewy gyweh', 'jown glwnn'}, {'joyn gllnn', 'cwym gyihm', 'jhmm glmhm', 'jcsn glmne'}, {'joyn gllnn', 'jemw gwiln', 'wenh wewwn', 'jgnn gheln'}, {'jqin gslen', 'jqym gklnh', 'jown glewn', 'yhom welwh'}, {'joyn glnnn', 'jymo gilem', 'show klomw', 'jxnn glnnm'}, {'xhoy celhn', 'jown glynn', 'jswn glemw', 'jjnh gylni'}, {'jkjn glynh', 'qyow gwlhy', 'joyn glynn', 'jamw gllwm'}, {'jyan gqlnn', 'jghn glenw', 'jcmo gylne', 'xwny zhunw'}, {'jxmu gslna', 'jghn gleny', 'jqzn glymn', 'zuoy synen'}, {'joyn glewn', 'jcyn glhne', 'jnma glmeo', 'wuym klwwy'}, {'xiny syeyh', 'jxym glmwm', 'jghn gleyn', 'jqkn glhmn'}, {'jmmn gylen', 'jyom gcoln', 'jghn glenw', 'whaw kywen'}, {'jsmu glmyu', 'chom clwmh', 'jown gleyn', 'jshm gelen'}, {'jown gleny', 'jgsn glnnh', 'jcnh glmwe', 'cayw qywen'}, {'jxnm gialn', 'hayy jlnem', 'jghn gleyn', 'jxan glynm'}, {'joyn glnnn', 'jchm glmna', 'ywnw yweyy', 'jsnu glwma'}, {'jhmy gyiln', 'jown glewn', 'jmoh glwhn', 'oyww ylnyw'}, {'joyn glewn', 'jjqn gllnm', 'jwim gklne', 'qiwh yelnm'}, {'jgnu gjlem', 'joyn glenw', 'jmnn glyun', 'ghom slney'}, {'joyn gllnn', 'xhay gwowy', 'jgna gzlna', 'jwqn glhln'}, {'whaw wlnew', 'jccn glmwn', 'jqnh ghlni', 'joyn glynn'}, {'qhoy yelmw', 'jgcm gyoln', 'jqin gzlnn', 'jown glwnn'}, {'whmo klomw', 'jown glewn', 'jymw glmhm', 'jowm glhni'}, {'joyn glewn', 'jgjn gxlnn', 'jmoa gllwm', 'caww hlnow'}, {'jmwn gjlen', 'jown glynn', 'geow xwnen', 'jzmo gclin'}, {'jnwh gllmo', 'weww xelnw', 'jghn gllnn', 'jwen gseln'}, {'joyn glewn', 'jgin glhnu', 'juym glnwa', 'xeno khwmn'}, {'jown gleny', 'ocym klamw', 'jcan gieln', 'jcmy ghlni'}, {'jkzm gjlnh', 'joyn glynn', 'kwny zelyn', 'jmwn gclnn'}, {'yawh xylyn', 'jown glynn', 'jxwm ghlna', 'jnha glhmn'}, {'jghn glewn', 'hwow celny', 'jnwn glemy', 'jqne glyhm'}, {'jown gleny', 'jsxn gylen', 'jccm gllwm', 'kiym zhunw'}, {'joyn glewn', 'jsym gelni', 'gawh wlnem', 'jzjn glmna'}, {'joyn glnnn', 'jxcm glmea', 'wyom wwumn', 'jnhy glyhn'}, {'jomh glmmn', 'jiwm gxlnu', 'jghn gleyn', 'qhem cwumn'}, {'jown gleny', 'jjym gqlni', 'guoy zhunw', 'jzjn glyhn'}, {'jzmh glnhy', 'jghn glenw', 'jjzn glwin', 'zhom jelmn'}, {'ojym zhneh', 'jgmh gxwln', 'jzan glhno', 'jown glwnn'}, {'joyn glnnn', 'jnwo gjoln', 'hhaw zhehw', 'jjqn glwnh'}, {'jwym goelm', 'jghn gleny', 'xeom xwyen', 'jxxn glmno'}, {'oqyw wwnen', 'jnhe glyen', 'jsnu glyme', 'joyn gleyn'}, {'jsxm glwmy', 'jxmn gylnn', 'qwnh gwlhy', 'joyn gleny'}, {'jkma gjlno', 'joyn glwnn', 'wwym ghowy', 'jnho glhhn'}, {'jown gllnn', 'yjew qhanw', 'jgjn glhhn', 'jjmu glmoh'}, {'jown glynn', 'json glhnm', 'jmia gclan', 'yayw yewnw'}, {'yewm gywey', 'joyn glynn', 'jemh gclna', 'jwjn glmna'}, {'jchm glynh', 'qewh syhnh', 'jxmo glwom', 'jown glnnn'}, {'jown gllnn', 'jxmn glewm', 'jqnw gilem', 'khaw slihm'}, {'zenw zwemy', 'jqnm glhme', 'jghn glynn', 'jxxn glmno'}, {'qwny whynw', 'jown glewn', 'jmio glwme', 'jzxn gllnh'}, {'joyn glenw', 'jwzn glmhn', 'jnma gilem', 'ozww wlhmw'}, {'jmnn gkeln', 'jghn gleny', 'gnow jwumn', 'jmae gsoln'}, {'jown gleny', 'jsnw gyuln', 'jsxn gzlen', 'qeow klamy'}, {'jyim gkuln', 'joyn glynn', 'yjaw yalnw', 'jcnn glhna'}, {'jkam gslon', 'jwzn glemw', 'gayw gyiym', 'jown gleyn'}, {'joyn glewn', 'jsma gclny', 'heyw gelyh', 'jwgn glnmn'}, {'joym gslnn', 'ziwy zehnw', 'jcym gwelm', 'jown glwnn'}, {'joyn glewn', 'jxem glwmw', 'ejny yynen', 'jzon glhmn'}, {'jxem gylnu', 'chow qwumn', 'jmhy gllnh', 'jghn glnnn'}, {'jwmm gcelm', 'jxcn gllnm', 'joyn glwnn', 'qewh klwhy'}, {'joyn gllnn', 'jhjn glhnh', 'kuoy zelmn', 'jwsm gxlmn'}, {'cyny zwnen', 'jghn glenw', 'jcen glwhn', 'jgxm gclnm'}, {'xeom yhnen', 'jwmm gjhln', 'jshm gjeln', 'joyn gleyn'}, {'jjcn gllnh', 'kham jelny', 'jmyw gilnu', 'jghn glnnn'}, {'cyny khamn', 'jcyn glmni', 'jxnu gzlun', 'joyn gleyn'}, {'jown gleny', 'cyny qwanw', 'jzjm glmmi', 'jkgn glmnu'}, {'hwwh gywem', 'jknn glyan', 'jown glenw', 'jzno glmwu'}, {'jgme gziln', 'jghn glenw', 'yuny zolnh', 'jgan glyen'}, {'jghn glewn', 'xhow selhn', 'jqmn glhno', 'jjmy ggelm'}, {'jgmy gslan', 'jhmn gelen', 'jown glewn', 'qiyw qliyy'}, {'jqgm glamy', 'hyww xhlyn', 'jjxn gelen', 'joyn gleyn'}, {'jkhm glhyn', 'jown glynn', 'jsqm gxlhn', 'wiow selnh'}, {'jknn gzeln', 'hiww wulwn', 'jghn glynn', 'jyim ghlni'}, {'jkxn glwin', 'jmoa glwmw', 'jghn gllnn', 'geyw wwlwn'}, {'jghn glewn', 'whim ghnyw', 'jjmn glemw', 'jmnu gclhn'}, {'jswm gxlwn', 'zwwy qelmn', 'jwqn gyeln', 'jown glwnn'}, {'heow gynem', 'jxme glnmi', 'jwqn glmmn', 'joyn gleny'}, {'joyn glewn', 'jqxn gclen', 'jkim glyem', 'xuno qliyh'}, {'jkno gklun', 'zwnw ylnow', 'jqnn glyen', 'joyn gleyn'}, {'jown gleny', 'jmhe gzeln', 'gyoy gwnem', 'jzjm gqlne'}, {'joyn glenw', 'ozwy xelyn', 'jzzm gyuln', 'jwan glhhn'}, {'joyn glenw', 'jhhm glmnu', 'jhsm gxlon', 'zenh chnen'}, {'ywnw xwnwn', 'joym glemw', 'jnyo gqlny', 'joyn gleny'}, {'jxcn glewm', 'geow ywehy', 'jghn gllnn', 'jxnh gluym'}, {'zwoy gwnyw', 'jown glewn', 'jmha glyin', 'jmmu gslnw'}, {'joyn gllnn', 'jcgm gjlun', 'sawh ghnem', 'jomh ggeln'}, {'joyn glnnn', 'jqum gqlhn', 'xwwh wolnh', 'jsyn gleym'}, {'jghn glewn', 'kwyh kloyw', 'jhma gclno', 'jccn glmhn'}, {'jwsn glyin', 'ghay xyewm', 'jown glnnn', 'jsmy gholn'}, {'joyn gllnn', 'jwin glnnm', 'yeny selnh', 'jxam gxhln'}, {'jcmn glwon', 'jwkm glnmh', 'joyn glwnn', 'kwny xelyy'}, {'jqqn glwun', 'xwny whunw', 'jqnu gclny', 'jown gleyn'}, {'qwow ghneh', 'jsjn glhni', 'jwmm glhym', 'jown glwnn'}, {'jnhi ghlnn', 'jamw ghelm', 'qino gwneh', 'jghn glnnn'}, {'jcwn glhwn', 'jown glenw', 'hjno wlnyw', 'jcxm gquln'}, {'jown glynn', 'jcim glnyi', 'jkkn glnmn', 'sewh kliym'}, {'jmeu glmhu', 'jhni gllmn', 'wawh zwemy', 'joyn gleyn'}, {'gwyh wlney', 'jsjn glwon', 'jxxm gjlun', 'jghn glwnn'}, {'joyn gllnn', 'ciwm ylnew', 'jqun glemy', 'jmoe glmmm'}, {'joyn glewn', 'jzzm gwaln', 'jomy glhny', 'wewh zhwen'}, {'jown gleny', 'know ylney', 'jken gclnn', 'jcwm glwmy'}, {'jqma glnyo', 'jown glewn', 'jsnn gieln', 'cnoy xeyyn'}, {'hhww selnw', 'jxmi glmhi', 'joyn glynn', 'jwzn gxlnn'}, {'joyn glewn', 'hiym gelhw', 'jzjn glhnh', 'jwam glmiw'}, {'jown gllnn', 'jgcm gjlmn', 'whwm hyewm', 'jwkn gzlen'}, {'hhaw gyweh', 'jqni gllmm', 'jzyn gxeln', 'jown glewn'}, {'jown glenw', 'jhni glhna', 'wwnh gyuwm', 'jkxm gclon'}, {'jmnh gjlem', 'jnhh gweln', 'qnow zwnen', 'jghn glnnn'}, {'joyn glenw', 'jxim glnwm', 'ojew kelhn', 'jkan glhln'}, {'jmae gklny', 'jkxn gqlnn', 'khiy celhn', 'jghn glnnn'}, {'wwym zlnew', 'joyn glwnn', 'jhmm gjlhn', 'jhsn glemy'}, {'joyn glenw', 'jyhm gylnn', 'qwwh yehnw', 'jynm glmah'}, {'jqmy glwlm', 'haym gynew', 'jmho glyan', 'jown glwnn'}, {'jjsn glmno', 'jghn glenw', 'okyw zhnin', 'jxmh ghlna'}, {'jown gllnn', 'jqan gweln', 'jxnu glnwe', 'whay yulnw'}, {'jown glynn', 'jckm gclnm', 'jhne glwmn', 'hyny zwwmn'}, {'jyem glmeo', 'kaow gyney', 'jghn gleyn', 'jgen gkeln'}, {'joyn glewn', 'jqhm gieln', 'sino slnem', 'jmne glmhw'}, {'jkmh glyom', 'wwwh klamw', 'jgnn gllmn', 'jghn glynn'}, {'heny ylnow', 'jqyn glmnw', 'jjmh gelhn', 'joyn gleyn'}, {'jcmn glmny', 'jzim gioln', 'joyn gleny', 'qiow gwumw'}, {'jkem glnwm', 'jcgn glyan', 'ghay xlney', 'joyn gleny'}, {'xewm klwwy', 'jghn gleny', 'jmny glmuh', 'jqcn glmnu'}, {'jmeo gewln', 'json glhny', 'jown glenw', 'ziym xwnan'}, {'jnmu gqyln', 'jgqn glynm', 'qwnh gyhwm', 'joyn gleyn'}, {'jgqn gylen', 'ywnh syhnh', 'jwom glhmy', 'joyn gleyn'}, {'joyn glenw', 'yuym xlhmm', 'jhnw glmni', 'jqkm gsaln'}, {'jcwn gjeln', 'jghn gleyn', 'jsom gliwm', 'yayw xewyn'}, {'hewh welwn', 'jhqn glmno', 'jown glnnn', 'jqny gxlun'}, {'whym ghnew', 'jown glynn', 'jsmw glhmu', 'jqin gqlnn'}, {'jnhe gslnn', 'jzum gelnw', 'cawh zywen', 'jown glwnn'}, {'jgen geeln', 'jown glewn', 'jzom gqlno', 'xhaw sywnh'}, {'jhnh glnwn', 'jznm gsiln', 'jown glenw', 'yeym cwunw'}, {'jmew glmwi', 'yeym khamn', 'jshm gieln', 'jown gleyn'}, {'jmha glyun', 'qhww kwumn', 'jsno gllmo', 'joyn gleyn'}, {'jown gllnn', 'jgnn glhna', 'xhyy zwemw', 'jwym gywln'}, {'qywh whlwn', 'jwen glemw', 'jghn gleyn', 'jzim geyln'}, {'qewm yhnen', 'jhmm gslny', 'jxmn glhne', 'jown glwnn'}, {'jcwm gclin', 'joyn glwnn', 'choy celnh', 'jkin glnmn'}, {'wawh gyowy', 'jmwy galnm', 'jown glewn', 'jyun ghlnn'}, {'qawh zelnm', 'jxmo gclhn', 'joyn gleny', 'jkcn gzlnn'}, {'jmoi glmwy', 'jnmn geeln', 'joyn glwnn', 'xiny zhyen'}, {'joyn glewn', 'jnyi glmeu', 'jomw glemh', 'whwm syehh'}, {'jown glynn', 'shoy hlnyw', 'jcmu gllym', 'jhyn glhnh'}, {'kwoy whwnw', 'jsny glnya', 'jghn glenw', 'jhyn gllnh'}, {'khwh gyiym', 'jqin ggeln', 'jghn glynn', 'jyme glmae'}, {'xuyw wlneh', 'jown glnnn', 'jmyo gilny', 'jqen glhmn'}, {'wuym zhinw', 'jwmu gilnu', 'jzzn glhno', 'joyn gleyn'}, {'zuoy zhnhn', 'jcqn glnnm', 'jghn gllnn', 'jzjm glhym'}, {'jxnn gilnn', 'jxzm gcaln', 'quwh cwumn', 'jghn glnnn'}, {'qhow kolnh', 'jkym gjelm', 'joyn glwnn', 'jkyn glhny'}, {'jcen glhno', 'jghn glwnn', 'jqom glmiu', 'kuym hyewm'}, {'jqin glewm', 'jghn glenw', 'quyw selyn', 'jynh gloym'}, {'jhnu glyen', 'jhmo gzlno', 'jghn glwnn', 'xiym yynen'}, {'qewm gelyh', 'joyn glnnn', 'jxun gclnn', 'jgmw gslun'}, {'jghn glewn', 'jsxn glwnh', 'wawh qelnh', 'jmnw glwme'}, {'cwnh klwwy', 'jqum gklon', 'jown glnnn', 'jscn gjlen'}, {'jcem glhmw', 'joyn glnnn', 'jhsn gseln', 'khww xehyn'}, {'jkyn glmnm', 'qhem celny', 'jzmu gkyln', 'jown glwnn'}, {'cwny celyn', 'jghn glynn', 'jzom gkuln', 'jhnm gqeln'}, {'joyn glenw', 'jkjn glmnw', 'zunw xlhmm', 'jcym gjlnu'}, {'jown gllnn', 'joym glynh', 'jmio gklno', 'xewh ywyny'}, {'jghn glewn', 'khey celhn', 'jnyu gjlne', 'jwen glhne'}, {'jmea glnmi', 'jzyn glwun', 'zenh ywumn', 'joyn glwnn'}, {'jown gllnn', 'jemw gylon', 'jsan gllhn', 'yhum calmn'}, {'choy gyiym', 'joyn glwnn', 'jqmo gqlne', 'jqxn glyan'}, {'jcsm gllmi', 'xhym wheww', 'jghn glwnn', 'jxmn ghlnn'}, {'jnwi glnwa', 'jhnw glnnh', 'jghn gleyn', 'ywww xhlyn'}, {'hayw xelyn', 'jwmo gllmm', 'jown glnnn', 'jhny gclnn'}, {'jown gllnn', 'jomy glnnh', 'jggm gelin', 'zinw whwnw'}, {'jwcn gslnn', 'jhmu golmn', 'ywno jywen', 'jghn glnnn'}, {'jown gllnn', 'jsme glomw', 'jhxn glynm', 'wewy wliym'}, {'jmha glhmn', 'yhom wlnow', 'jwjm glymy', 'joyn gleny'}, {'jwsm glhlm', 'khyy xwwen', 'jkjn gzlnn', 'jghn glnnn'}, {'jcgn glyan', 'jmwy glhmm', 'qewh yelwn', 'jghn glnnn'}, {'jhcn glmne', 'xenh zelhn', 'jown gleyn', 'jamw glamh'}, {'jown glenw', 'jxgn glnwn', 'jmue gsuln', 'khaw yulnw'}, {'qewm slowy', 'joyn glwnn', 'jzne galhn', 'jsnn gqlnn'}, {'jsmn glemy', 'jmuu glyam', 'swnh klamw', 'jown glwnn'}, {'jnme gcoln', 'wham zhunw', 'jown gleyn', 'jkgn gilen'}, {'zyoy wlhmw', 'jqon gheln', 'jghn glynn', 'jmiu gilem'}, {'ojey whonw', 'jgna glnme', 'joyn glynn', 'jomw glynh'}, {'jknu glmaa', 'yuny kwnen', 'jhne glwon', 'jghn gllnn'}, {'jgkn gilen', 'jjwm gjelm', 'jghn glwnn', 'wwwh yilnw'}, {'jhzn ghlnn', 'jown glenw', 'jhmm gilmn', 'gewh zhynw'}, {'hiww whhnw', 'jhyn glnwn', 'jghn glenw', 'jcmw gklun'}, {'jown gllnn', 'cnoy xwnem', 'jknm glmoe', 'jmhm glhnu'}, {'yewm yelmn', 'jwnm glyum', 'jghn glynn', 'jzzn glhln'}, {'jkan glmnh', 'zayh zhyen', 'jghn glynn', 'jgjm ghlny'}, {'joyn glnnn', 'jxno glymm', 'jhnh glnwn', 'xwww cywen'}, {'jcen gjlen', 'jown glynn', 'yjaw zwomn', 'jkmo gzlnu'}, {'jmhu gslnn', 'jghn glenw', 'ejym xwnem', 'jyme gxwln'}, {'jknm gxlun', 'jown glynn', 'qhow zywen', 'jhkn gzlen'}, {'jcin gclnn', 'xuno selnh', 'jghn gllnn', 'jgme galem'}, {'jhmn geeln', 'jghn gleny', 'geyh selhn', 'jymw glomh'}, {'jsum gglnm', 'swno zwimn', 'jnhi gklen', 'jown glwnn'}, {'oajh qlhmm', 'jown glnnn', 'jsxn gllmn', 'jnmi gqyln'}, {'jcnm gilno', 'jqzn glynh', 'jghn glynn', 'wwny ghney'}, {'jown gleny', 'qioy yywen', 'jhsn gzlen', 'jkxm gllmu'}, {'jghn glewn', 'jywm gllme', 'jzsn glhne', 'kwny yynen'}, {'joyn gllnn', 'jsxm gkwln', 'jcin glmna', 'qnow ywwny'}, {'jown gleny', 'jqgn glhni', 'jkom ghlnu', 'zyyw ylnyw'}, {'jghn glewn', 'xwwh gwnow', 'jwgn glmhn', 'jkjm glmuw'}, {'zwno helnm', 'jimh gklmn', 'jqnn glynm', 'jghn gleyn'}, {'jghn glewn', 'yany jelnw', 'jxin glmnu', 'jumw gwiln'}, {'jqme glmoo', 'jghn gleyn', 'owym calmn', 'json glmnu'}, {'jghn gleny', 'xwwh klamy', 'jwmi gylnw', 'jhnm glhmn'}, {'huoy welwh', 'jghn glynn', 'jxjm ghlnh', 'jghm glyan'}, {'jown gleny', 'suoy jynen', 'jwqm glnhe', 'jhcn glnnm'}, {'jown gllnn', 'jgun glmnw', 'xaow ewlwn', 'jwmi gelln'}, {'joyn glynn', 'jxyn gslnn', 'guoy ywewy', 'jmyi gklin'}, {'kuym gwnem', 'jqyn glhna', 'joyn gleny', 'jkme gjlwn'}, {'jyma gclmn', 'jowm glmnh', 'jown glnnn', 'oujh zehnw'}, {'joyn glenw', 'hhyy selnw', 'jqwn glyin', 'jjjm glnhh'}, {'jmhy gllhn', 'jqxm gclem', 'zewy qlowy', 'jghn glnnn'}, {'jghn glewn', 'jomh gylen', 'jaym gllmw', 'ocym ylhmm'}, {'joyn glwnn', 'jymi glmiw', 'xewy yelyn', 'jjgn glwun'}, {'kayy gyowy', 'jghn gleyn', 'jcjn glyon', 'jjme gwoln'}, {'joyn glewn', 'jjgn glwnh', 'jqmw glnmo', 'ywny jynen'}, {'genh xwney', 'jjmy glmaa', 'jgkn gleym', 'jghn glnnn'}, {'gawh zhnyn', 'jhnn gqlnn', 'jown glewn', 'jzmh gjlni'}, {'jxne gclnm', 'ijno zynen', 'jghn glynn', 'jggn glmni'}, {'joyn glewn', 'jwam gllmo', 'heyh syhnh', 'jhhm glhyn'}, {'jgxm gwlnh', 'jhnu gllnm', 'ghom jelnm', 'joyn gleyn'}, {'jown glynn', 'xuom qyiyn', 'jyon glhni', 'jnma glamh'}, {'jqma glmmm', 'jown glynn', 'zwwh gwlwy', 'jxun glnwn'}, {'jcnu gshln', 'jxen gelen', 'jghn glenw', 'cuny walwn'}, {'heym qliym', 'jown glynn', 'jzmn glhyn', 'jemy gwlem'}, {'jwmi gjlun', 'jqsn gqlnn', 'wyoy xlowy', 'joyn gleny'}, {'joyn glnnn', 'jscm ghwln', 'qwnh yehnw', 'jgwn glwan'}, {'quwh wolwn', 'jjma ghlnu', 'jghn glenw', 'jmmn gslnn'}, {'jken gylen', 'jown glynn', 'jumh glmia', 'zwnw ywyny'}, {'jgwn gelen', 'jghn glynn', 'gawh selwn', 'jnnm gllmu'}, {'jghn glewn', 'yyny wwumn', 'jzmi glnwu', 'jqin gclnn'}, {'jknn gxlnn', 'jown glewn', 'zewm seynh', 'jxma gclwn'}, {'xwnh zlihm', 'jsni glhmu', 'joyn glynn', 'jhnm glhni'}, {'joyn gllnn', 'jemy gllmi', 'jqsn ggeln', 'ojey zlnyw'}, {'jsqn gxeln', 'joyn glynn', 'ziwy gyihm', 'jxmi gylmn'}, {'jghn glewn', 'jskm glmeh', 'heyw sywnh', 'jkon glyun'}, {'jgny gklan', 'jown glynn', 'gwny shnen', 'jsin glhna'}, {'jzmo gelnh', 'yawh yliym', 'jqwn glynm', 'joyn glynn'}, {'jwjm glmmw', 'jghn gleny', 'jhsn ghlnn', 'qiwh gelhy'}, {'jsan glwnh', 'jwmu gslem', 'kwnh gelhh', 'jghn gllnn'}, {'heyy zhwnw', 'jxsn glmwn', 'jxjm glmau', 'jghn glnnn'}, {'jown gllnn', 'zayw selhn', 'jhme gzlwn', 'jkwn glhnw'}, {'jwmy gslhn', 'jghn gleny', 'jymn glynm', 'xuym yelmw'}, {'joyn glenw', 'jmhh glmny', 'jcom glnhy', 'osym zhwnw'}, {'cyym jwlny', 'jznn glnhn', 'jamw gylyn', 'jghn gllnn'}, {'jsun gseln', 'jghn glynn', 'jcmo gzlna', 'gaow selnw'}, {'cwom selnh', 'jghn gleny', 'jgcm gholn', 'jkkn gkeln'}, {'jqhm glynh', 'jmoo glmow', 'jghn gleyn', 'yuny yolnw'}, {'jown gleny', 'cwyy whehw', 'jmnh geiln', 'jqcn gilnn'}, {'joyn glewn', 'jsgn glhnm', 'jzny gliym', 'oajh gwumh'}, {'joyn gllnn', 'cewh jlwmh', 'jzzm ghlnu', 'jcon gyeln'}, {'jown gleny', 'kham wlney', 'jqmn glwin', 'jsny glnwm'}, {'jmmw galhn', 'khay gelyy', 'jcan gzeln', 'joyn gleyn'}, {'jxmy ghaln', 'jzyn gieln', 'qwnh wilwn', 'jown glwnn'}, {'jyon glmny', 'jwmw glimh', 'joyn glynn', 'khyw ywehy'}, {'joyn glewn', 'jmni gelni', 'wwny ghney', 'jqyn glwhn'}, {'jgxm glmiy', 'jgwn glmno', 'jghn glwnn', 'wyom syonh'}, {'xyny yelyn', 'jxyn glyin', 'joyn glynn', 'jamw glmoi'}, {'jown gleny', 'cuoy gwnem', 'jzym geoln', 'jkwn glhnw'}, {'zwno gwumm', 'jsun glynh', 'jhgm glhwm', 'joyn gleyn'}, {'jwmo gswln', 'ghow slney', 'jccn glwen', 'joyn gleny'}, {'jgmu glnmu', 'khiw ghhmm', 'jghn gllnn', 'jskn glynh'}, {'jghn gleny', 'jzgm guelm', 'zywy jyewm', 'jhyn glwln'}, {'jown glynn', 'jjmm gelyn', 'zhom klihm', 'jhmn glnmn'}, {'jmyu gklni', 'jghn gleny', 'jskn glhne', 'oswm qlamw'}, {'jhno gilnn', 'gyoy syeyh', 'jwem glmuh', 'jghn glnnn'}, {'jgsm gwuln', 'jqun glmno', 'jown glewn', 'ghow klamm'}, {'jxkn glyan', 'jxgm gylyn', 'jown glenw', 'khuw xwnem'}, {'jown gllnn', 'hhww qlnem', 'jxna gzyln', 'jkon gllnh'}, {'jcan gqlnn', 'jmyw gllma', 'jghn gleyn', 'xewm colnh'}, {'xeom selhn', 'jxon gseln', 'jown glenw', 'jmnu gziln'}, {'joyn glnnn', 'jeym golem', 'jjhm gzeln', 'ozyw zhneh'}, {'zaow clhmm', 'joyn glynn', 'jqan glyan', 'jwem gkaln'}, {'jgjn gllmn', 'cany xyewm', 'jown glenw', 'jhzm gzlno'}, {'jnhu glhne', 'jcna gzlnm', 'jown glnnn', 'yhow ghnow'}, {'jown gllnn', 'jqwn gjlnn', 'heyy kelhn', 'jxzm gelln'}, {'jkny gclne', 'ijno zlnem', 'jown glewn', 'jmha glmnh'}, {'jkni gsiln', 'joyn glenw', 'jhnw glnnm', 'hhom qhanw'}, {'jxjm gylny', 'jown glynn', 'kwny welwn', 'jgin gllmn'}, {'jchm gilnn', 'jmmy glnmi', 'yhay ylnow', 'jghn gllnn'}, {'joyn gllnn', 'jnmw gkwln', 'xayw zlowy', 'jswn glwon'}, {'xany jlneh', 'jyum glmwo', 'jown gleyn', 'jwon glyen'}, {'jown gleny', 'jcgm gxlnu', 'jhhm gllmn', 'haow kwwny'}, {'hwny zhnen', 'jyin gllmn', 'jqcm gslwn', 'joyn gleny'}, {'jown gllnn', 'jczm gwuln', 'qywh gelyy', 'jmhw glemh'}, {'jxen glyon', 'jzem gjhln', 'jghn gleny', 'khey gynem'}, {'jcwn gleym', 'wewm klwmy', 'jghn glwnn', 'jqum geyln'}, {'joyn glnnn', 'yyoy yeynw', 'jzny gkoln', 'jwhm glemh'}, {'jzun glnmn', 'jnwe gzlem', 'jown gleyn', 'qwwh qlihm'}, {'zhom zhyen', 'jwhm glhnu', 'jghn glynn', 'jzem glmou'}, {'jghn gleny', 'jmmh gklna', 'jmho gylnn', 'xhay cwunw'}, {'qewy syewm', 'jhnw gslnn', 'jghn gleyn', 'jqsm gchln'}, {'jown gleny', 'geym slnem', 'juym gclan', 'jskn glyan'}, {'jmyy glmye', 'wham sywen', 'jzsn glwan', 'joyn gleny'}, {'jgun gslnn', 'whum qhiyn', 'jjkm gclna', 'joyn gleny'}, {'gayw yelmn', 'joyn glwnn', 'jkmn glyin', 'jnmi gjaln'}, {'ozyw ylihm', 'jnwn glhnm', 'joyn gleny', 'jqne glnwu'}, {'jmya gehln', 'jcin glewm', 'yjwm ylnew', 'jown gleyn'}, {'xyny ylihm', 'jnyu gholn', 'jkjn gqlnn', 'jown gleyn'}, {'jown gleny', 'hewm ywumn', 'jhnw glewm', 'jgmh gxlnu'}, {'jgsm glmiu', 'jhqn glnwn', 'jown glenw', 'cwom celnw'}, {'jnhe glhni', 'jsny gylna', 'saow jlnem', 'jown glwnn'}, {'xuoy yynen', 'joyn glynn', 'jcmw gclem', 'jsmn glmmn'}, {'joyn gllnn', 'jnwi gelnw', 'ziym gwumw', 'jxan gllnh'}, {'jzon glmnh', 'wuoy welwn', 'jown glewn', 'jxgm gclan'}, {'jgwn glnnm', 'jywm gclun', 'qewh ylnew', 'jown glwnn'}, {'cwny zelwn', 'jhmm gkyln', 'joyn gleny', 'jqen gllnh'}, {'qywh ylnew', 'jzom gzlhn', 'jhgn gzlnn', 'jghn glwnn'}, {'jcwn gieln', 'jghn gleny', 'jqnu galem', 'yuwm klhmm'}, {'whuw zelny', 'jwcm glnma', 'jcwn gheln', 'jown glewn'}, {'jcnh glmyw', 'jqxn glmny', 'wwny ghihm', 'joyn gleyn'}, {'jhmn glmnw', 'yjwm jelnm', 'jgxm gklhn', 'jghn glynn'}, {'jghn glewn', 'jxqn glynh', 'qhoy celnh', 'jnwi gilem'}, {'joyn glnnn', 'jhnw gllnh', 'chom xwlny', 'jqmo gclnu'}, {'jkqn gxlen', 'joyn glwnn', 'swny clhmm', 'jqcm glmwu'}, {'joyn glenw', 'jssn glnmn', 'wayw ghnew', 'jhsm gilnm'}, {'jswn glyun', 'jmwm gclin', 'jghn glwnn', 'xwnh welnm'}, {'jjnm gilnu', 'jghn gleyn', 'caww eylnw', 'jzun gzlnn'}, {'qwnh xewyn', 'jhmo gjlnh', 'jghn glwnn', 'jnhe gzlnn'}, {'xhyh wlhmy', 'jwhm glhne', 'joyn glwnn', 'jqni gzoln'}, {'zayh klohw', 'jkkn glwmn', 'jown glnnn', 'jxxm gclun'}, {'jown gleny', 'jzsm gkaln', 'jhmn gllmn', 'khwm qlnem'}, {'jmwm golnm', 'zayh cwnen', 'jwgn glwln', 'jown gleyn'}, {'hham gelhw', 'jown glynn', 'jcmy glyma', 'jqkn gilen'}, {'jcjn glwln', 'jsnw glmhy', 'qhwo yliym', 'jghn glnnn'}, {'jjkm gjlnm', 'jghn gleyn', 'jzkn glnnh', 'kwny ylneh'}, {'jhmn glmna', 'jcmi glmmw', 'jown gleyn', 'zuym welyn'}, {'jxon glhhn', 'ojmy klwwy', 'jxom gluym', 'joyn gleyn'}, {'jmnn gslnn', 'jcno gelnm', 'jghn gllnn', 'wayw yulnw'}, {'jcnh glmau', 'ciwm yelhw', 'jzwn gclnn', 'joyn gleny'}, {'khiy xulyn', 'jghn glenw', 'jjxm gyaln', 'jxin glyen'}, {'jwhm glwhn', 'xuow holnh', 'jxwm gqelm', 'joyn gleyn'}, {'jwmh gjlne', 'whmo zwimn', 'jown glnnn', 'jxjn glyun'}, {'jghn gleyn', 'jccn glnnm', 'cwow swumn', 'jmyi gklmn'}, {'jghn glenw', 'cwny helyn', 'jhcn glmnm', 'jkny gelne'}, {'joyn glenw', 'jmoh glmna', 'jsmo gciln', 'qawh xhnen'}, {'qwny zhhen', 'jnwe gqlwn', 'jmhi glhnu', 'jghn glynn'}, {'jjgn glmna', 'jkmi glymw', 'yjwm swumn', 'joyn gleyn'}, {'jmoy glmhe', 'joyn glwnn', 'jwsn glyhn', 'yhum whehw'}, {'jmua gklin', 'qhuw selhn', 'jown glnnn', 'jqen glhyn'}, {'khaw wlhmy', 'jghn gleyn', 'jxun gxlen', 'jyem gjlna'}, {'jsxm gjlny', 'joyn glenw', 'zwoy xwnhn', 'jcin glemh'}, {'jwjn glmnu', 'jxxm glymu', 'qham zhanw', 'jown glwnn'}, {'jghn glewn', 'jmhw glynm', 'qiow gelhy', 'jhmw gclny'}, {'jown gleny', 'jhmm ghelm', 'zwno zhynw', 'jxjn gseln'}, {'joyn gllnn', 'jyme gylln', 'weym zhwen', 'jsun glwnh'}, {'yuoy gwnow', 'jnhu glwnm', 'jyma glmih', 'jghn glnnn'}, {'jown gleny', 'jhxm gylne', 'cwny yelny', 'jcgn glyon'}, {'yjyy qhanw', 'jkni gzlun', 'jghn glynn', 'jsjn glnhn'}, {'xhyw selyn', 'jkkn glnmn', 'jghn gllnn', 'jymu gylnm'}, {'quym zelnh', 'jhmm glnwi', 'jghn glwnn', 'jkcn glhnh'}, {'jhym glmoo', 'jsin geeln', 'owjw wylwn', 'jown glewn'}, {'jown gleny', 'jzwm gslnh', 'jkgn glmny', 'yjwm zelnh'}, {'jcon gqlnn', 'joyn glenw', 'ywwh ylney', 'jjcm gjaln'}, {'jzhm glhno', 'jown glnnn', 'oajh hlneh', 'jzkm gwelm'}, {'jscn gxeln', 'xuym xelmn', 'jqmy gslwn', 'jown glwnn'}, {'yayw khnen', 'jmmh glnwh', 'joyn glynn', 'jomh glhno'}, {'jgun glyan', 'jown glenw', 'jknm giyln', 'zewh ylnyw'}, {'joyn glewn', 'jsnw gghln', 'qhwy wlhmy', 'jhjn gclen'}, {'jgmi gslwn', 'cwom ywiny', 'jown glenw', 'jmhy gllmn'}, {'joyn glewn', 'yuwm qlahw', 'jimy glyym', 'jqzn glhnm'}, {'jgmh glmhm', 'jown glynn', 'json glmne', 'ywwm ywumn'}, {'hewm klwwy', 'jwzn gceln', 'jghn glwnn', 'jgsm gxelm'}, {'jown glynn', 'jwqn glynm', 'jjxm glmoy', 'snow zhynw'}, {'joyn glenw', 'jjgm glmiy', 'cwno khwnh', 'jsun glmno'}, {'jown gllnn', 'hwny ywnen', 'jgmn glwen', 'jkmw glumh'}, {'heyy syunh', 'jown glenw', 'jmeu gxlon', 'jzkn gjlnn'}, {'joyn glnnn', 'khuy xwnhn', 'joym glemw', 'jmuo glwhm'}, {'jgma glnhi', 'jghn gleyn', 'qwow gywwm', 'jhnw glmnw'}, {'shay cwnen', 'joyn glynn', 'jgyn glhno', 'jjme gslnm'}, {'gham ywemy', 'jgmw gclni', 'jghn glenw', 'jwzn glemy'}, {'jown gllnn', 'jymh glwym', 'zayw cluww', 'jcen gqeln'}, {'jwmo gxlna', 'jwon gclen', 'cewm ywany', 'jghn glnnn'}, {'cwom wlowy', 'jcna glymi', 'jghn gllnn', 'jjxn glwun'}, {'joyn glenw', 'jmah glmui', 'jwgn glynh', 'cewh xwneh'}, {'jxxn glhno', 'joyn glwnn', 'jkum glyhm', 'zuwy zynen'}, {'joyn glenw', 'ijym yewnw', 'jwjn gweln', 'jhjm gclun'}, {'joyn gllnn', 'jknn glmnm', 'hayy wlihm', 'jzom gilnu'}, {'jjgn glnhn', 'jxna geelm', 'hwww whnew', 'jghn glnnn'}, {'jqhm glhyn', 'owjh whinw', 'joyn glwnn', 'jgsm glnyh'}, {'jsgn gjlnn', 'zewm seynh', 'joyn glynn', 'jnma gylnm'}, {'jssn glyhn', 'ojaw solnh', 'joyn glwnn', 'jsne gzlhn'}, {'yyny ghihm', 'jknh gzoln', 'jgon glhmn', 'joyn gleyn'}, {'cuoy ywney', 'jcno gylmn', 'jkan glwln', 'jown glwnn'}, {'jymh gwuln', 'jghn glenw', 'jyun glmnm', 'xayw qlihm'}, {'jqom gclun', 'whem xilyn', 'joyn glynn', 'jqkn glwnh'}, {'jmwu glwme', 'khuy xwnon', 'jghn gllnn', 'jqhm glynm'}, {'jown gleny', 'choy slowy', 'jgyn glmnu', 'jjwm gilun'}, {'jumh glmyu', 'jghn glenw', 'zinw klamm', 'jgin gilen'}, {'jmnw glnmy', 'jown glnnn', 'jhcn gyeln', 'qhay wilwn'}, {'jwqn glhhn', 'jmia gklnh', 'khyw qelnm', 'jown glnnn'}, {'jmye gilwn', 'joyn glwnn', 'jskn gjlnn', 'gnow ywany'}, {'jhgn ggeln', 'joyn glnnn', 'ywwy ywney', 'jcny gilmn'}, {'giym yelmw', 'jaym gllme', 'jjhm gylnn', 'jown glwnn'}]
+john glenn          : DEBUG: Additional rule variations: {'john glnen'}
+john glenn          : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "john glenn": {
+            "first_name": {
+                "score": 0.7343908502945702,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.1396361676485673,
+                        "orthographic": 0.975,
+                        "combined": 0.5573180838242836
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.08,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "jnho",
+                            "phonetic_score": 0.745423234382286,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ajyw",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.0,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "jghn",
+                            "phonetic_score": 0.9151533965720944,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "jhmm",
+                            "phonetic_score": 0.745423234382286,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.8717972329513834,
+            "final_score": 0.8974377863611067,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 4,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.955,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.8749999999999999,
+                        "orthographic": 0.975,
+                        "combined": 0.9249999999999999
+                    },
+                    "count": {
+                        "actual": 4,
+                        "expected": 4.08,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 4,
+                        "total_count": 4,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "glyun",
+                            "phonetic_score": 0.506875496989598,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "syanh",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "gllnn",
+                            "phonetic_score": 0.6502420360438859,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "gllme",
+                            "phonetic_score": 0.506875496989598,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "john glnen"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "john glnen": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "john glenn": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "swap_random_letter": [
+                            "john glnen"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "john glnen": [
+                            "swap_random_letter"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.8974377863611067,
+    "final_reward": 0.8974377863611067
+}
+john glenn          : DEBUG: ----------------------------------------------------------------------------------------------------

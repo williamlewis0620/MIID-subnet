@@ -1,0 +1,2940 @@
+henry watkins       : INFO: Generating variations for henry watkins
+henry watkins       : INFO: ----------------------------------------------------------------------------------------------------
+henry watkins       : INFO: Effective rules: ['remove_all_spaces', 'replace_spaces_with_random_special_characters']
+henry watkins       : INFO: ----------------------------------------------------------------------------------------------------
+henry watkins       : INFO: Min Required Rule Variation Set: [{'henrywatkins'}]
+henry watkins       : INFO: ----------------------------------------------------------------------------------------------------
+henry watkins       : INFO: First name: henry
+henry watkins       : INFO: Last name: watkins
+henry watkins       : INFO: ----------------------------------------------------------------------------------------------------
+henry watkins       : INFO: Rule count pairs: [(0, 1), (0, 2), (1, 1), (0, 3), (1, 2), (0, 4), (1, 3), (2, 2), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (3, 3), (0, 7), (1, 6), (2, 5), (3, 4), (0, 8), (1, 7), (2, 6), (3, 5), (4, 4), (0, 9), (1, 8), (2, 7), (3, 6), (4, 5), (0, 10), (1, 9), (2, 8), (3, 7), (4, 6), (5, 5), (0, 11), (1, 10), (2, 9), (3, 8), (4, 7), (5, 6), (6, 5)]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 1 / 42: rule_count/nonrule_count: 0/1------------------------------
+henry watkins       : DEBUG: O: [0, 0, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 0, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 0, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 0, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.27406566]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 2 / 42: rule_count/nonrule_count: 0/2------------------------------
+henry watkins       : DEBUG: O: [0, 1, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 1, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 1, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 1, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.43373917]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 3 / 42: rule_count/nonrule_count: 1/1------------------------------
+henry watkins       : DEBUG: O: [0, 0, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 0, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 0, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 0, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.47406566]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 4 / 42: rule_count/nonrule_count: 0/3------------------------------
+henry watkins       : DEBUG: O: [0, 1, 0, 2]
+henry watkins       : DEBUG: P: [0, 0, 1, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 1, 0, 2]
+henry watkins       : DEBUG: P: [0, 0, 1, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.448]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 5 / 42: rule_count/nonrule_count: 1/2------------------------------
+henry watkins       : DEBUG: O: [0, 1, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 1, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 1, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 1, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.63373917]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 6 / 42: rule_count/nonrule_count: 0/4------------------------------
+henry watkins       : DEBUG: O: [0, 2, 0, 2]
+henry watkins       : DEBUG: P: [0, 1, 2, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 2, 0, 2]
+henry watkins       : DEBUG: P: [0, 1, 2, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.44390502]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 7 / 42: rule_count/nonrule_count: 1/3------------------------------
+henry watkins       : DEBUG: O: [0, 1, 0, 2]
+henry watkins       : DEBUG: P: [0, 0, 1, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 1, 0, 2]
+henry watkins       : DEBUG: P: [0, 0, 1, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.548]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 8 / 42: rule_count/nonrule_count: 2/2------------------------------
+henry watkins       : DEBUG: O: [0, 1, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 1, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 1, 0, 1]
+henry watkins       : DEBUG: P: [0, 0, 1, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.63373917]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 9 / 42: rule_count/nonrule_count: 0/5------------------------------
+henry watkins       : DEBUG: O: [1, 3, 1, 0]
+henry watkins       : DEBUG: P: [0, 1, 3, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 3, 1, 0]
+henry watkins       : DEBUG: P: [0, 1, 3, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.52146636]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 10 / 42: rule_count/nonrule_count: 1/4------------------------------
+henry watkins       : DEBUG: O: [0, 2, 0, 2]
+henry watkins       : DEBUG: P: [0, 1, 2, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 2, 0, 2]
+henry watkins       : DEBUG: P: [0, 1, 2, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.54390502]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 11 / 42: rule_count/nonrule_count: 2/3------------------------------
+henry watkins       : DEBUG: O: [0, 1, 0, 2]
+henry watkins       : DEBUG: P: [0, 0, 1, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 1, 0, 2]
+henry watkins       : DEBUG: P: [0, 0, 1, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.548]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 12 / 42: rule_count/nonrule_count: 0/6------------------------------
+henry watkins       : DEBUG: O: [1, 3, 1, 1]
+henry watkins       : DEBUG: P: [0, 1, 3, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 3, 1, 1]
+henry watkins       : DEBUG: P: [0, 1, 3, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.49530715]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 13 / 42: rule_count/nonrule_count: 1/5------------------------------
+henry watkins       : DEBUG: O: [1, 3, 1, 0]
+henry watkins       : DEBUG: P: [0, 1, 3, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 3, 1, 0]
+henry watkins       : DEBUG: P: [0, 1, 3, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.58813303]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 14 / 42: rule_count/nonrule_count: 2/4------------------------------
+henry watkins       : DEBUG: O: [0, 2, 0, 2]
+henry watkins       : DEBUG: P: [0, 1, 2, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [0, 2, 0, 2]
+henry watkins       : DEBUG: P: [0, 1, 2, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.54390502]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 15 / 42: rule_count/nonrule_count: 3/3------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 16 / 42: rule_count/nonrule_count: 0/7------------------------------
+henry watkins       : DEBUG: O: [1, 4, 1, 1]
+henry watkins       : DEBUG: P: [0, 2, 4, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 4, 1, 1]
+henry watkins       : DEBUG: P: [0, 2, 4, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.47974677]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 17 / 42: rule_count/nonrule_count: 1/6------------------------------
+henry watkins       : DEBUG: O: [1, 3, 1, 1]
+henry watkins       : DEBUG: P: [0, 1, 3, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 3, 1, 1]
+henry watkins       : DEBUG: P: [0, 1, 3, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.56197381]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 18 / 42: rule_count/nonrule_count: 2/5------------------------------
+henry watkins       : DEBUG: O: [1, 3, 1, 0]
+henry watkins       : DEBUG: P: [0, 1, 3, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 3, 1, 0]
+henry watkins       : DEBUG: P: [0, 1, 3, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.58813303]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 19 / 42: rule_count/nonrule_count: 3/4------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 20 / 42: rule_count/nonrule_count: 0/8------------------------------
+henry watkins       : DEBUG: O: [1, 4, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 4, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 4, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 4, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.46543146]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 21 / 42: rule_count/nonrule_count: 1/7------------------------------
+henry watkins       : DEBUG: O: [1, 4, 1, 1]
+henry watkins       : DEBUG: P: [0, 2, 4, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 4, 1, 1]
+henry watkins       : DEBUG: P: [0, 2, 4, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.52974677]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 22 / 42: rule_count/nonrule_count: 2/6------------------------------
+henry watkins       : DEBUG: O: [1, 3, 1, 1]
+henry watkins       : DEBUG: P: [0, 1, 3, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 3, 1, 1]
+henry watkins       : DEBUG: P: [0, 1, 3, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.56197381]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 23 / 42: rule_count/nonrule_count: 3/5------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 24 / 42: rule_count/nonrule_count: 4/4------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 25 / 42: rule_count/nonrule_count: 0/9------------------------------
+henry watkins       : DEBUG: O: [1, 5, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 5, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 5, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 5, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.45754863]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 26 / 42: rule_count/nonrule_count: 1/8------------------------------
+henry watkins       : DEBUG: O: [1, 4, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 4, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 4, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 4, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.51543146]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 27 / 42: rule_count/nonrule_count: 2/7------------------------------
+henry watkins       : DEBUG: O: [1, 4, 1, 1]
+henry watkins       : DEBUG: P: [0, 2, 4, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 4, 1, 1]
+henry watkins       : DEBUG: P: [0, 2, 4, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.52974677]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 28 / 42: rule_count/nonrule_count: 3/6------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 29 / 42: rule_count/nonrule_count: 4/5------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 30 / 42: rule_count/nonrule_count: 0/10------------------------------
+henry watkins       : DEBUG: O: [2, 6, 2, 0]
+henry watkins       : DEBUG: P: [1, 3, 6, 0]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [6]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [2, 6, 2, 0]
+henry watkins       : DEBUG: P: [1, 3, 6, 0]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [36]
+henry watkins       : DEBUG: [31]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.45665797]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 31 / 42: rule_count/nonrule_count: 1/9------------------------------
+henry watkins       : DEBUG: O: [1, 5, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 5, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 5, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 5, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.49754863]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 32 / 42: rule_count/nonrule_count: 2/8------------------------------
+henry watkins       : DEBUG: O: [1, 4, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 4, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 4, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 4, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [3, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.51543146]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 33 / 42: rule_count/nonrule_count: 3/7------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 34 / 42: rule_count/nonrule_count: 4/6------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 35 / 42: rule_count/nonrule_count: 5/5------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 36 / 42: rule_count/nonrule_count: 0/11------------------------------
+henry watkins       : DEBUG: O: [2, 6, 2, 1]
+henry watkins       : DEBUG: P: [1, 3, 6, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [6]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [2, 6, 2, 1]
+henry watkins       : DEBUG: P: [1, 3, 6, 1]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [36]
+henry watkins       : DEBUG: [31]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.44994511]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 37 / 42: rule_count/nonrule_count: 1/10------------------------------
+henry watkins       : DEBUG: O: [2, 6, 2, 0]
+henry watkins       : DEBUG: P: [1, 3, 6, 0]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [6]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [2, 6, 2, 0]
+henry watkins       : DEBUG: P: [1, 3, 6, 0]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+henry watkins       : DEBUG: [36]
+henry watkins       : DEBUG: [31]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [20]
+henry watkins       : DEBUG: [1]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.4899913]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 38 / 42: rule_count/nonrule_count: 2/9------------------------------
+henry watkins       : DEBUG: O: [1, 5, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 5, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [11, 2, 0]
+henry watkins       : DEBUG: [93, 12, 0]
+henry watkins       : DEBUG: [209, 20, 0]
+henry watkins       : DEBUG: [30, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+henry watkins       : DEBUG: [2, 0, 0]
+henry watkins       : DEBUG: [51, 6, 0]
+henry watkins       : DEBUG: [273, 20, 0]
+henry watkins       : DEBUG: [259, 20, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [28]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: henry, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: henry, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: henry, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: O: [1, 5, 1, 2]
+henry watkins       : DEBUG: P: [0, 2, 5, 2]
+henry watkins       : WARNING: Remains: 0
+henry watkins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+henry watkins       : DEBUG: [134, 139, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [500, 500, 0]
+henry watkins       : DEBUG: [255, 20, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+henry watkins       : DEBUG: [500, 2, 3]
+henry watkins       : DEBUG: [500, 20, 14]
+henry watkins       : DEBUG: [500, 58, 40]
+henry watkins       : DEBUG: [500, 20, 20]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: [4, 0, 0]
+henry watkins       : DEBUG: [1, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0]
+henry watkins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [500]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [0]
+henry watkins       : DEBUG: [2]
+henry watkins       : DEBUG: final:
+henry watkins       : DEBUG: name: watkins, l_level: 0
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+henry watkins       : DEBUG: name: watkins, l_level: 1
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: name: watkins, l_level: 2
+henry watkins       : DEBUG: --------------------------------------------------
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+henry watkins       : DEBUG: scores: [0.49754863]
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 39 / 42: rule_count/nonrule_count: 3/8------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 40 / 42: rule_count/nonrule_count: 4/7------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 41 / 42: rule_count/nonrule_count: 5/6------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : INFO: ------------------------------Trying rule_count_pair 42 / 42: rule_count/nonrule_count: 6/5------------------------------
+henry watkins       : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [{'henrywatkins'}], additional_rule_varset: {'henrywatkins'}
+henry watkins       : DEBUG: ----------------------------------------------------------------------------------------------------
+henry watkins       : DEBUG: Best score achieved: 0.6337391696328508
+henry watkins       : DEBUG: Best selected: 1/2
+henry watkins       : DEBUG: Rule variations: [{'henrywatkins'}]
+henry watkins       : DEBUG: Nonrule variations: [{'hwnrh wytkwms', 'wihnr hyaknix'}, {'hemrh watzeng', 'hneih htahnih'}, {'hyenr watjanq', 'inyrw awtgniy'}, {'wonhw awhjnij', 'hwenr watiknx'}, {'ehhrh awyknic', 'hemre wethkns'}, {'humhh awtcnig', 'hnryo watkhmc'}, {'hmnra wetxens', 'wiewr aitikmz'}, {'ynerw owtqniz', 'hmrry watknax'}, {'hmury wetizns', 'wwmyy htaynix'}, {'hwnrh witginx', 'wnwwy ewwknix'}, {'hnnrh wotsinh', 'euywy awtwnix'}, {'hmery wytkany', 'ymryw ytakniq'}, {'hnrhy watkhmc', 'ayrwy htyknih'}, {'uhnyr awwknox', 'hwenr wwdkinw'}, {'hanrh wwtkhnh', 'ewnyr awtixhq'}, {'weowr awtqnic', 'henhr wtaking'}, {'hmnrw watganq', 'yehmr hwwknix'}, {'anwyh hdaknix', 'hinrh wetxans'}, {'ehwyh awtjnyj', 'honrh watganc'}, {'emwyh htaxnix', 'hmury wwtkhnw'}, {'hhiwr ywtqnik', 'hmwry wwtknas'}, {'inerh etiyknz', 'hemre watshnj'}, {'anwyh ewtjnij', 'hemri witzinj'}, {'ehwhy hwtqniz', 'hnryo wetxans'}, {'hmyry wytkoms', 'yehwr awyknih'}, {'unwwy awtznih', 'hwenr witginc'}, {'hnihh awwkyix', 'hmory whtxiny'}, {'hyenr whthkns', 'wyanr htaznih'}, {'wyanr awtqnyk', 'hnrhy wytikns'}, {'hnmry wytzing', 'yynyh awtqniw'}, {'weiwr atihkmz', 'hmory wytkimx'}, {'emrrh atiwkmz', 'hhnrh watknax'}, {'eynww awtgnww', 'hmnru watznws'}, {'hmyry wwtgwns', 'uyhnr ytaknic'}, {'hinrh witginx', 'yhmrw awtqnuz'}, {'hmnre watswnh', 'ynirh awtsnij'}, {'hnrhy wetqing', 'whhnw awtynik'}, {'hwmhh awwqniz', 'hemra watkwmc'}, {'hwmry watzmis', 'yomrh awwknox'}, {'onyyw htaknyx', 'hmnrr wwtsinh'}, {'wewyr awwwnix', 'hnryi watknac'}, {'hnrhy witzims', 'ywwrw atihkyz'}, {'hnrye wtakinq', 'emyhy awtjnyj'}, {'ehonh awyikmc', 'henhr wytkmis'}, {'henhr watknaq', 'ewmwy awtjniz'}, {'ynwyw awtikyq', 'hwnrh wotciny'}, {'ayrwy aytikmz', 'hnryi wytkany'}, {'eunwr awwknik', 'hwnrh watknaq'}, {'ynwyh awtqnoz', 'hmury watqeny'}, {'hmnrh watchnx', 'hhhwh ywtikhq'}, {'hanrh watiknw', 'emhyy atiekmx'}, {'hmary watxunz', 'ewwyh htagnih'}, {'hwhwr htaknic', 'hwmry wwtginw'}, {'hmwry witzink', 'enwhw ewtikmc'}, {'hmury wetkimc', 'onerw ahtjnij'}, {'hanrh wetkeny', 'niryh owtqniz'}, {'hnrya wytcinx', 'wyanr htaknij'}, {'hynrh witzhns', 'ewywy awtukhq'}, {'hemre watcunw', 'whihr ahtqnik'}, {'humhh awykniq', 'hmwry wtakons'}, {'hhiyr awtgnix', 'hmnrr witginq'}, {'howyw awdjnij', 'hmnru whthkns'}, {'hmmry wetgens', 'yeamr hyaknih'}, {'eynyh awdknic', 'hemru whtijns'}, {'wnehy awtwkhq', 'hmnrh wtikink'}, {'hmnrr wadkeny', 'hihwr awtgnaw'}, {'hemnr wtajins', 'eohnr itcneis'}, {'hemri wydkims', 'euunr awwikmc'}, {'hemre wetsuns', 'hhhwr utwknij'}, {'honrh wthkims', 'yemwr awtakhq'}, {'wwenw ywtgniw', 'hemra watgwnc'}, {'ewmwy awyknix', 'hmnrh wutkanq'}, {'hinrh watconx', 'hhhhw hhaknih'}, {'ehmhh awtqwik', 'hwmry watcenx'}, {'henhr watxyny', 'ewnwh ewtqnik'}, {'hnnrh wetkuny', 'ewrhw awtikhx'}, {'yeyyh awtiqmc', 'hmnrr watknic'}, {'eunnr itcnois', 'hnryo watgwny'}, {'yewyh uwtikmc', 'hmhry wetkenx'}, {'inwrw awtjnih', 'hemrw wydkims'}, {'hmmry watgwng', 'wemyr hwtikmc'}, {'anwyh ytgnwis', 'hynrh wotciny'}, {'inhwy uwwknix', 'hhnrh wetkeny'}, {'hmnro wwtjhns', 'wwenw awyikhq'}, {'hinrh witisns', 'yemyr uwtqnik'}, {'yywrw ywtqnik', 'hmury watiknx'}, {'hynrh watixnx', 'ehonh awtikhj'}, {'hynrh watzonh', 'hywhr htaknik'}, {'hinrh wotkanq', 'whyyy awtijhq'}, {'hnnrh watznis', 'unwwy ytgnisw'}, {'hynrh wytgwns', 'eunwr awtikyh'}, {'imrwy ewtikmc', 'hinrh wwtsinh'}, {'inrww hutgniz', 'hynrh wetkeng'}, {'hemrh wytkams', 'ihyhy otiknhh'}, {'wiewr awtgmiw', 'hemru watisnh'}, {'hnhry wetkwng', 'yemhr awtghiw'}, {'wihyy htasnix', 'hemrr wetjing'}, {'ehnhr aitikyz', 'hmrry wwtkanw'}, {'eynwh htaknyh', 'hmrry whtkeny'}, {'wuewr ewtgniw', 'hnryi watsimc'}, {'hohyw awtishq', 'hmnrw watxynx'}, {'whwhr adiwknz', 'hnnrh watznsi'}, {'enhhw awtjnic', 'hnrye watxnis'}, {'enwhw ytaknig', 'hmrry whtizns'}, {'ehwrw awtgmiw', 'hnryu witziny'}, {'ehhyy awtjnhj', 'hyenr wetkunw'}, {'hmary wodkiny', 'whiwr awthnix'}, {'yeyyh htakhix', 'hemru watknaj'}, {'unwwy hhaknih', 'hmmry watzhng'}, {'hunrh witging', 'ehhyh ewtqnik'}, {'weewr adiknyz', 'hyenr wwtjinw'}, {'imryh htakhix', 'hmnro watjnus'}, {'hhiwr awtwkmc', 'hhmry wytqiny'}, {'hnrya watxnis', 'hnihh hdaknih'}, {'hemri wwtkimw', 'emrrh atiykmz'}, {'wneyy aetikyz', 'hemru watkney'}, {'hmnro witzwns', 'inrrw htwkniz'}, {'hmnrh wtaxins', 'euanr htaynix'}, {'eynyh awtikwq', 'hmnro wtikink'}, {'eaonr awtgnik', 'hemrw watxunz'}, {'yywrw ytaknij', 'hnrya witciny'}, {'inwrw awwsnix', 'hnhry wotciny'}, {'hmury watxwny', 'wehmr ytgnish'}, {'hnrya watkhmj', 'ehnor ytgnwis'}, {'henhr watxuny', 'hoyhw awtqmik'}, {'yemmr awtsniy', 'hnrhy witkhnj'}, {'hyahr yitqniz', 'henhr witchns'}, {'henhr witzans', 'wunyr aytcniz'}, {'yiwrw awtgnhw', 'hemre wotsinh'}, {'whehw aitikyz', 'hmnre wytginy'}, {'eywwy awhjnij', 'hmury watzhnj'}, {'hmmry wotxinx', 'nehyh awtikhk'}, {'weowr htaknic', 'henhr wytkimz'}, {'hnrye wwtknis', 'wnhrh awtjnoj'}, {'hemri watzhng', 'ehwhy awtizhq'}, {'homhh awtcnix', 'hnrhy watknij'}, {'ywryw ahwknix', 'hmery watgang'}, {'whinw awykniz', 'honrh wetsuns'}, {'hnryi wwtkhnw', 'onwyh htaknig'}, {'hnryi wytzims', 'ywerh awwknax'}, {'yunyh ywtikhq', 'henhr wytgans'}, {'wnwhy awtznic', 'honrh watkniy'}, {'hmnra witcinq', 'ehnyr adiknzh'}, {'yawrw awtikmz', 'hmrry witzons'}, {'wehyr awtykhq', 'hhmry watcunc'}, {'henhr wwtkhnk', 'eoinr atiykmz'}, {'hemrw witzims', 'howww awtqnhz'}, {'emrhw awtqnwk', 'hmnru watximc'}, {'eoonr htajnih', 'hmnro wetcing'}, {'hmury wetzing', 'hhhwh awtjnji'}, {'hymry wytcims', 'ehhrh awwkhix'}, {'eunnr awhikmc', 'hwmry watseny'}, {'hnmry wytkimc', 'wewhr awthniw'}, {'ihrwy htacnih', 'henmr wwtknas'}, {'euanr awwknix', 'hemnr watjnws'}, {'whomr htakmih', 'hnrya wutkimc'}, {'yunyr etiyknz', 'hemro wytkums'}, {'yawrw awtwniz', 'hemri watxunx'}, {'yonhw atcnoiz', 'hmery wytjims'}, {'yiwrh awtikwc', 'hemru wutkeny'}, {'yeimr awtiwmc', 'hmhry watcimx'}, {'hhnrh watznes', 'wnhwy awtikmh'}, {'hemro witgens', 'oyryh awygniw'}, {'wnhrh awwknhx', 'hemnr wetkunx'}, {'hhinw awwznix', 'hmnra watgonh'}, {'hemre watzwng', 'yhnyh atiakyz'}, {'hinrh wytkmis', 'yonyh awtixhq'}, {'wnehy htcnois', 'hmmry witciny'}, {'hmnri watximy', 'yhwrw htaznix'}, {'hnrhy watzhng', 'yeomr awdgniw'}, {'hemrr wtaqins', 'onhyy awtqnek'}, {'yewmr hdaknih', 'honrh wetxans'}, {'whner awtjniw', 'hmery wtekens'}, {'hmnro wetxinx', 'ewonr awtikyc'}, {'enhhr awtznih', 'hyenr watiknh'}, {'eymyy awykniy', 'hnrhy watqanq'}, {'oyryy htakmix', 'hynrh watjeny'}, {'emrrh awhgniw', 'hmnru watizng'}, {'hhnrh watcunq', 'whhmr awtsnij'}, {'hyawr owtikmc', 'hemru wytkanq'}, {'eonhr awtznik', 'hnryu watjnsi'}, {'whihr ytaknig', 'hwmry wetkhnj'}, {'hwenr wetsinh', 'eamhy awtukmc'}, {'hmmry wetkenq', 'onwyh awtjnig'}, {'hnnrh wetsens', 'hyanh awyknix'}, {'hneww awwwnix', 'hnrhy wutxiny'}, {'hmnro watzonh', 'euunr awtgnuw'}, {'euinr awtqnak', 'hmnri wotqiny'}, {'hmrry watcunq', 'nwryw ewtikmc'}, {'onwyh owtgniw', 'hynrh wtacins'}, {'honrh watgwnw', 'yemmr owtgniw'}, {'honrh wwtkhng', 'yeemr awykniy'}, {'yywrw ewtqniz', 'hemro witzinx'}, {'yhhhy awwknhx', 'hnryu wtakinj'}, {'ewonr awtixhq', 'hhmry watganj'}, {'hhnrh wwtkwnw', 'inwyh htaynih'}, {'ehyhy htuknih', 'hunrh wadkonh'}, {'ohnhw awdikmc', 'hemrr wtakons'}, {'yhrey awwkwix', 'hmnro watganq'}, {'hiyhw awwkhix', 'hmory wytkuny'}, {'hmnro wwtkhnc', 'unwyh hwwknix'}, {'hmnru watcanq', 'ahnwr awdikhq'}, {'hmary wytzims', 'ehowr awwknik'}, {'anwyh ytakniw', 'hmnra wetkunk'}, {'hemrw watgwnq', 'whwnw awtikmh'}, {'hnryi wetkeny', 'whihr htaknyx'}, {'emyyy owtgniw', 'hmmry watikng'}, {'eywhy awwgniw', 'hnryi watznis'}, {'emyyy wiwqniz', 'hmory wadkeny'}, {'ohnhw hdaknix', 'hmery wotkeny'}, {'ehnhr htaknig', 'hmary watgwms'}, {'onyyh htaknij', 'hemrr watzhng'}, {'hmnru wwtkhnh', 'hohyw hwtikmc'}, {'wnehy htcnois', 'hmnrh wytkany'}, {'ohnhw aotikmz', 'hemrw witzons'}, {'hmnrw wtakons', 'ehnor awdqnik'}, {'eyrwh ahtgniw', 'hhmry wthkink'}, {'hhnrh wtwkims', 'ewyyy htaknux'}, {'hhmry watknaq', 'enwhw atiykyz'}, {'hmnre wytgans', 'oyrhy awtjnhj'}, {'hnryo watseny', 'ynwhy htaknwh'}, {'wewhr htaznih', 'hmwry wadxinx'}, {'hhyyh ahtcnix', 'hemrh wtaxins'}, {'yhwrh htaknux', 'hnnrh watgwnk'}, {'hmiry watqeny', 'hyhwr ahtjnij'}, {'hnrye wadkhnj', 'inyyh awtukmc'}, {'hemri wtaxins', 'yewyh atiykyz'}, {'hemre watjeny', 'ewmwy wiyqniz'}, {'ehohr awwknih', 'hmnrw watqanq'}, {'hmory wotxiny', 'ynwhy awtcnic'}, {'hnmry witzinw', 'yuemr awyikhq'}, {'hmnrh wtakinh', 'yiemr awtijhq'}, {'ywemr aytikhq', 'hmnra wwtkhnh'}, {'hnrya witxinx', 'wnerw awtismc'}, {'hanrh watjonh', 'hhhwr awtsniw'}, {'yiwrw hhaknih', 'hhmry wytkany'}, {'ehonw etiyknz', 'hnryo watjnhs'}, {'ehywr awtxniz', 'hwenr wetjuns'}, {'yonyh uwtjnij', 'hemru watjnhs'}, {'hyayr awthkmc', 'hmiry wetkunq'}, {'hinrh wetjuns', 'eimyy uwwknix'}, {'ihryh awtgwiw', 'hmury witzens'}, {'yiyhy awwkwix', 'hnryo watkumc'}, {'hmnrh watgwnw', 'emwhy awtyniw'}, {'hyhwr ytgnhis', 'hmnrr watshnh'}, {'yeymr awtikhj', 'henhr wotxinx'}, {'hmnri wwtgwns', 'yymrw awtokmc'}, {'yowrh adiknzh', 'hmnri watcuny'}, {'unwhy awtgnic', 'hemri wetkenx'}, {'yonnr htuknih', 'hinrh wwtqhns'}, {'wehnh etiyknz', 'hemrr watixnx'}, {'hnryo watkamq', 'wwinr awtokhq'}, {'hnnrh watznas', 'inyyh awtgnwi'}, {'wemyr awtjnej', 'hemru watjeny'}, {'hmyry watcimc', 'hnehw ewtqniz'}, {'hmhry wtiikns', 'hhhwh htwknix'}, {'eymwy awwknax', 'hmnri watikny'}, {'hmary watqhnj', 'wunyr awtynix'}, {'hywhr aywknix', 'henhr wetgens'}, {'ehyrw htakmix', 'hnryu watgwnx'}, {'hwmry watikny', 'wyhyy ythknih'}, {'hemri wetixns', 'ynehy awtqniy'}, {'yeimr ahtqniz', 'hmnri watxanq'}, {'hinrh watxenx', 'wahyy aytikhq'}, {'hhmry wwtkhny', 'hneih awtijhq'}, {'ehnwh awtsnik', 'hemrh wadsinh'}, {'ehmwy htiknzy', 'hwmry wtakinx'}, {'yiwrw awtsniz', 'hnryh watgeny'}, {'ohhyy awtjniw', 'hmwry whtizns'}, {'hmnrh watgwms', 'homyh ytaknix'}, {'honrh witgims', 'yunyr htacnih'}, {'yywrw awwikmc', 'hmwry wwtknas'}, {'ehnyh aytjnij', 'hnryo wetjans'}, {'hemnr watsunz', 'eiunr ytgnais'}, {'hmmry watzwng', 'ayrwy wihqniz'}, {'hmnro watjnes', 'wyewr htiknih'}, {'hmnro watcanq', 'hhhwr awwknwx'}, {'hmnra watjnis', 'newyh uwtqniz'}, {'hhnrh watknaw', 'ehywr awdqenz'}, {'whhmr iwtgniw', 'hmary whtixns'}, {'hmnro wetkanq', 'wnehy awykniy'}, {'hmnri wwtkynw', 'ewmyy ewtgniw'}, {'honrh watxonh', 'hmehh awtiqmc'}, {'ewrhw aytjnij', 'hnryi wwtshns'}, {'ehnyw htakhih', 'hwnrh widzins'}, {'hmiry wtagins', 'ynwwy adiknhz'}, {'hemro witkimc', 'emrrw htakyih'}, {'eyrwh wuygniz', 'hmnri wytkimx'}, {'ywerw awtxnij', 'hymry watxuny'}, {'yowrh htaknhi', 'hmary wetxens'}, {'hnehw awtqhik', 'hmnro witginw'}, {'ywwrh htaknuh', 'hmury witciny'}, {'hynrh wwtkanq', 'hhhhw awtjnaj'}, {'wahyy ahwknix', 'henhr wetcinx'}, {'hmnri wwtcinx', 'enwhh awtwnij'}, {'hmery watekny', 'wyrwy awthniz'}, {'whhrh awtjnji', 'hymry wwtkhng'}, {'hmary wotxinx', 'hiyhw awtikmz'}, {'hemrr wwtkhnc', 'whhhy awtokmc'}, {'whinw htaknox', 'henmr watzonh'}, {'hmhry watjimc', 'ahnwr awthniw'}, {'hmnro wtakiny', 'yinyh awtznih'}, {'hmnro wotkimc', 'eynyh awyknic'}, {'hiyhh awyjnij', 'hmnra wetkyng'}, {'hmyry wwtxhns', 'ehmwy awdqenz'}, {'hemru watxeny', 'eyunr awtikmk'}, {'whunw awtichq', 'hemru watchnj'}, {'hemrh withkns', 'oyryw awtcniw'}, {'wnrhw awdqenz', 'hmiry watknax'}, {'niryh awtiymc', 'hmnra whtkhnj'}, {'emwhy awtjnyj', 'hnrhy watgwnw'}, {'hnnrh wetjans', 'huwyr awhkniz'}, {'hymry watknac', 'emwwy awwknwx'}, {'hyahr awtjniq', 'hmnre whtxinx'}, {'hmmry watshnh', 'ahnwr awtiymc'}, {'hmnrh wytkany', 'wheyw awhqniz'}, {'ynerh awtixmc', 'hmnru whtkeny'}, {'hmyry watgams', 'ehywr awtgnih'}, {'hanrh wetjens', 'eymyy aytcniz'}, {'anwwy awdqniz', 'hnrye wetzens'}, {'hemru watknay', 'wohnr htaqnix'}, {'eahny awtihmc', 'hmery watknik'}, {'ehhrh ywtqnik', 'hemre wtigins'}, {'hemri wytkimg', 'yhnhw iwtikhq'}, {'yhwrh awtqyiz', 'hmnre wtacins'}, {'whner awtgnaw', 'hmnri wetkeng'}, {'wnhrw htakmix', 'hwmry watkmic'}, {'ywemr aytgniw', 'hmnre witgims'}, {'hwnrh watxany', 'ewwyh hwtgniw'}, {'hhinh awykniz', 'hnryh wtekink'}, {'ehhwr htakyih', 'hmwry wdakims'}, {'wehyr adiaknz', 'hemri watjimc'}, {'ehnwh awtgnik', 'hmrry watcunq'}, {'yhwrh ytgnisy', 'hemrw watzmis'}, {'hmhry watzimg', 'ywerw atiakmz'}, {'hinrh watqanq', 'enhhr hwtqnik'}, {'hinrh watgonh', 'onywy awtynik'}, {'wwinr ahtikmc', 'hnrya wytcims'}, {'hmnrh wwtchns', 'wnwwy awtismc'}, {'hmory watganx', 'wihnr htuknix'}, {'hhnrh watknah', 'eyonr awthkmc'}, {'inhrw etqnois', 'hemrw wetkenc'}, {'hwmry witzinx', 'yehmr ywtikmc'}, {'hnnrh whtkhnj', 'uyhnr awtwnix'}, {'hmyry watqhnj', 'emhyh awtjmij'}, {'wahyy htacnih', 'hemnr watknag'}, {'hynrh watzang', 'whiwr autikyz'}, {'eyyrh ytakniy', 'hynrh watxunx'}, {'wymrw awtikyh', 'hmhry watsunh'}, {'hwenr wytkams', 'yonyh awtqnwz'}, {'ohnwr awyqniz', 'hemra wtekuns'}, {'euanr htajnix', 'hmnra wteking'}, {'ehywr awtgnik', 'hnrye wetkunc'}, {'wowrw awtqnix', 'hnryi wytkimz'}, {'hnryu whtkonh', 'eumyy hdaknih'}, {'ywwrh atiykmz', 'hnrya wwtsinh'}, {'yawrw aytikyz', 'hmory wtakons'}, {'ewmwy awwjnij', 'hmary witginh'}, {'wyanr awtizhq', 'hymry wadkonh'}, {'honrh watcunc', 'wwwyy awtwnih'}, {'hmnro wutxiny', 'wuhyy htagnix'}, {'wyenw awtxnig', 'henhr witzinc'}, {'eahnr atiekmx', 'hnryu wetjens'}, {'hmnrr watchnj', 'yowrw owtqniz'}, {'hnmry wutcinx', 'yowrw awwknic'}, {'hemrw wytkimy', 'ehhrr awwgnix'}, {'yyryw awtukmc', 'hmory watknak'}, {'hmury wytkimy', 'ayrwy adihknz'}, {'wneyy awwknyx', 'hnryi wtkaims'}, {'hemre wwtkenw', 'inrrw wuwgniz'}, {'ohwrw awtjnix', 'hanrh wwtkunz'}, {'euanr awyikhq', 'hwenr watkamq'}, {'hmnro wtakims', 'euhny htiekws'}, {'hemnr wtkaims', 'ynhyw aitikmz'}, {'eihnr awwkhix', 'hmnrr whtxiny'}, {'hnrya wwtkonh', 'whhhy atiokyz'}, {'aneyy awtgwiw', 'hemrh watznas'}, {'eunwr awwkniq', 'hnrya watkumc'}, {'wyinr awtqnig', 'hnrhy wotqiny'}, {'hmnri wytkhny', 'wnewy awtynix'}, {'hmnru wytkyms', 'ehhhy aytikmc'}, {'hmnra witcink', 'weiwr adiwknz'}, {'hwwhr hthknih', 'hmnro wutcinx'}, {'hnrye wetkunw', 'hamhh atiykyz'}, {'hmnrw watzeng', 'hhhwh htiekws'}, {'eamyy awthniw', 'hnnrh witzinz'}, {'hymry wytkems', 'ehwhy awtqnzi'}, {'hnrhy wwtxiny', 'yeomr awtzniw'}, {'waewr awtukmc', 'hemrw watcanq'}, {'hmnrh watxuny', 'wnirh aytgniw'}, {'yiwrh aotikyz', 'hnnrh watqimc'}, {'hnmry wwtkonw', 'yhhrw awhknix'}, {'hemri witginj', 'ynyyw awtqniq'}, {'ewhyh awtwniw', 'hmnri wtukink'}, {'honrh watsunh', 'uehwr awtsniz'}, {'yaemr awtyniz', 'hnryu wthkims'}, {'inrhh awthkmc', 'hemrh watxanx'}, {'ehyrw awtynij', 'hmury watcunj'}, {'wheww hteknih', 'hmmry wytkyny'}, {'yhyrw htakmih', 'hnhry wytkimh'}, {'hhnrh wetsing', 'eonwr htagnix'}, {'hnmry whtxinx', 'onwyh awtwnic'}, {'hmary wetkunk', 'ewyyy adieknz'}, {'eaunr itiknzy', 'honrh witixns'}, {'hnryu witzens', 'hwhhw ywtgniw'}, {'hmhry wytkimz', 'whanw awtjnej'}, {'hemnr watsnis', 'eynww uwtjnij'}, {'homhh ytgnois', 'hemre watznes'}, {'hmury wutxiny', 'eunwr awtichq'}, {'hemri witkanq', 'ywhhy wuhgniz'}, {'inrrw awtjniz', 'hemnr wetkanq'}, {'hemrr wetkanj', 'hyahr awhkniz'}, {'ayrwy aetjnik', 'hmhry watsynh'}, {'hwnrh watisnh', 'yhrey htacnih'}, {'eumwy awtcnih', 'hmmry wetkank'}, {'ohnwr ywtgniw', 'hemri watximx'}, {'ehnyw ywtqnik', 'hhnrh wwtxinw'}, {'hmnre watsunz', 'onrhw awdikhq'}, {'ehmwy awtsnic', 'hnrye wotkeny'}, {'hynrh wotginy', 'ewhyy ahtqniz'}, {'hmhry watzong', 'wiewr awtjnig'}, {'hemro wytkwny', 'wewyr ahtikmz'}, {'hnryu wytziny', 'eyhwy iwtqnik'}, {'wemyr atiykmz', 'hhnrh wetxing'}, {'henhr watqanq', 'whhyy awtqnuk'}, {'hemrr watznsi', 'wwwyy ywtqnik'}, {'ehwhy htaynih', 'hemnr wytzing'}, {'hnnrh wetxens', 'ewhyh awtqniy'}, {'hwenr watcimx', 'eyyhy awtekmc'}, {'yewyh awwcnix', 'hwmry wwtkeny'}, {'ewhnr wihqniz', 'honrh wtazins'}, {'hahwr awdknig', 'hmyry wotxinx'}, {'ewnyr ytaknih', 'hmmry wtakans'}, {'hemrh wwtxiny', 'hymhw awtcnih'}, {'wehwr awtjnik', 'hnrhy wwtzing'}, {'ewnwr atiakmz', 'hnhry watknij'}, {'ewhyr hdaknix', 'hnrya wetkang'}, {'ahnwr awdjnij', 'hmmry witginx'}, {'hmnrw wtajins', 'onwyh awtwkhq'}, {'hymry witzinq', 'nerhw awtqyik'}, {'hunrh watkhmj', 'hhhhh awyknic'}, {'yowrh uwtqniz', 'hnrhy watjonh'}, {'hunrh watconx', 'wwyyy ywtqnik'}, {'yywrh awtgnig', 'honrh watjimc'}, {'hmory wetkhng', 'wwwyy awtjnej'}, {'yhnww awtiymc', 'hnhry wtwkims'}, {'hmnra watgwny', 'whyyy htaqnih'}, {'hemrh watseny', 'imryh htaknig'}, {'hmnre wytkums', 'wuewr htaknwh'}, {'hnhry wutkanq', 'ohnhw awdkniw'}, {'ehnhh owtgniw', 'hmnrh watxhnx'}, {'ynerh awtyniz', 'hmiry wdakims'}, {'hmrry watzung', 'womrh awhqnik'}, {'nehyh awtikmh', 'hemri wutkanq'}, {'inwrw ewtgniw', 'hnhry watknaj'}, {'wihnr owtqniz', 'hmnrw wutxinx'}, {'hnrye watznys', 'hiyhw wuhgniz'}, {'ehoyr awwknox', 'hwmry wytkuny'}, {'eyyrw awtxnix', 'henhr wwtkhnq'}, {'hmary watgany', 'ynwyw awwkwix'}, {'hmyry watxenx', 'onerw htaynih'}, {'hnryh wytkams', 'homyh htaxnix'}, {'hmnri witcink', 'anwwy awtxniq'}, {'hmrry whtisns', 'eunwh awdkniy'}, {'hmnra wydkiny', 'anwyh owwknix'}, {'hmiry watqeny', 'onhyh htaqnix'}, {'hmnru watznus', 'eyunr awtqnok'}, {'eunwh itiknzy', 'hnryu wytzims'}, {'hwnrh wwtkynw', 'iwrwy awtgnik'}, {'hanrh watisnh', 'ynerh otioknh'}, {'enwww awtzniz', 'hynrh watganw'}, {'hmnrr wetzing', 'nreuy htcnois'}, {'hanrh watiknq', 'inwwy awwxnix'}, {'hemre wotzing', 'ewhyy awtzniw'}, {'hnhry watsonh', 'inerh adioknz'}, {'wnwwy awtykhq', 'hyenr watqhnj'}, {'hmnrr wetisns', 'inrhh htaknyx'}, {'wnhyy awtixmc', 'henmr wutcinx'}, {'imrwy otiknhh', 'hinrh watxanx'}, {'hemnr witkeny', 'ehonw awtsniq'}, {'hihwr ewtjnij', 'hnmry wwtxinx'}, {'ehnyr awtsnic', 'hnrye wtakyns'}, {'ohnhw awyikmc', 'hnryi wytgims'}, {'hnryo witzing', 'huwyr awtgniw'}, {'onhyy awyikhq', 'hnryo wthkims'}, {'weawr awtyniw', 'hmnrw wydkims'}, {'hnnrh watjhnj', 'wwenw awtykmc'}, {'hmwry watxonx', 'ehnhw atiokyz'}, {'hnryu whtxiny', 'emyyy itcneis'}, {'hemra wetkanq', 'ehomr yitqniz'}, {'ewnyr atiekmx', 'hmnru wutkanq'}, {'yemyr awtikmz', 'hmury watgwnw'}, {'hmnrr wadkanq', 'wehyh awtiwhq'}, {'henmr wadkanq', 'ywwrw htakwih'}, {'ohmrh awwxnix', 'hemra wetkimc'}, {'hmory wwtjhns', 'wohyy adiknwz'}, {'hmmry wytkony', 'hhmhh htakyih'}, {'hunrh wwtkanq', 'hyanh awtsniq'}, {'henmr wytkimj', 'ehwwy awtgnik'}, {'inhrw awtqyik', 'hnhry wetkimg'}, {'ehoyr htaxnih', 'hnryh witcyns'}, {'enwhw audkniz', 'hmyry wetqing'}, {'hanrh watjnws', 'yunyr awtznij'}, {'wwhhy htakmih', 'hemri watganh'}, {'honrh watknaj', 'whemw awtgnih'}, {'hnrye witginq', 'hwhhw awtyniz'}, {'yhwhr htasnix', 'hmnru wytikns'}, {'homhw awtqnki', 'hmnrh watknaq'}, {'honrh wtekens', 'wnhyh ewtikhq'}, {'hemra watjnhs', 'ywnyh autikmz'}, {'hunrh watznhs', 'euwwy htaknxi'}, {'hnryi wytziny', 'wnhyh awwkhix'}, {'emywy ytgnwis', 'hnrya wetkenq'}, {'yeomr htyknih', 'hnryu wtkaims'}, {'wiyhy htiekws', 'hanrh watximy'}, {'hemri wtakyns', 'yanyh hteknix'}, {'wheyw atihkmz', 'hmrry wwtknas'}, {'hmury watswnh', 'yyanr ytakniy'}, {'yaemr htahnih', 'hemro witzans'}, {'hemrh witzens', 'yewww ytaknih'}, {'hnrye wytkeny', 'euwnr awykniw'}, {'honrh watznus', 'wwhhy awtznig'}, {'whihr aetikyz', 'hmhry wtokims'}, {'eynwh htagnix', 'hnryi wwtqinw'}, {'hemnr watxhnj', 'eynwr htuknih'}, {'whynw ywtgniw', 'hnrhy watgonh'}, {'hwmry wytkems', 'yhnyh awtjnik'}, {'inrhw aitikmz', 'hmnrh wwtqinw'}, {'hynrh watxyny', 'hiyhh itiknzy'}, {'hnrya wytcinx', 'ehyrh awtcnih'}, {'anwyh awtakmc', 'hmwry watxynx'}, {'hnmry wetcing', 'anwhy htaknwx'}, {'hynrh whtsinh', 'hyawr adiyknz'}, {'yuwrw atiakmz', 'hinrh witzinw'}, {'hnnrh watzyng', 'ehomr awthnix'}, {'hemra watznos', 'oyrhy awtyniz'}, {'unhyh awtjniy', 'hnnrh widcins'}, {'henmr wetkunc', 'eunwh awhqniz'}, {'ewmyy awdikhq', 'hmhry wetkang'}, {'henhr wwtshns', 'nerhw awdkniw'}, {'hmnrh watznws', 'ywhhy awtgnow'}, {'yeumr iwtqniz', 'hemru watshnj'}, {'hnryh wtkaims', 'eounr awtcniq'}, {'yoemr awtekmc', 'hnrhy wwtzhns'}, {'hhhhw awtcniw', 'hmnro wetcinx'}, {'hnryo witisns', 'eyonr awtsniw'}, {'wehnh htakniz', 'hemra wytsinh'}, {'wewwr awtjwij', 'hnryi wetkunj'}, {'hhnrh wetkunk', 'enhwh awtqnix'}, {'ewrhw atjnwik', 'hemrh watjanq'}, {'howww htiknih', 'hemro wtykink'}, {'hmory wtakink', 'yehwr awtichq'}, {'hemri wwtkhnx', 'wnhrh awyikhq'}, {'ymryw ytgneis', 'hnmry witkhnj'}, {'whinw ytgnisw', 'hunrh wetsens'}, {'ehnhw ytgnuis', 'hnrya witchns'}, {'whner awyknih', 'hnryu wwtkhnc'}, {'ewwhy hteknix', 'henmr wytqiny'}, {'eyrhw hthknih', 'hemnr watknik'}, {'hnryu watjeny', 'eoynr awtqnek'}, {'yhomr awtyniz', 'hnryh wtakinq'}, {'yhhrh awtizhq', 'hmhry witginc'}, {'hmwry watsanq', 'hhyyh uwtikhq'}, {'hmyry wytkuny', 'iyrwy awtikyq'}, {'whemw adiuknz', 'henmr wetixns'}, {'hemri wwdkinw', 'whyrh aytikmz'}, {'ehywy awtikyz', 'hemrr whtkanq'}, {'ewonr itcneis', 'henhr wadkanq'}, {'henhr watkumc', 'whhnw htagnih'}, {'huhyr awtynix', 'hmnrr wtukims'}, {'anhyh htawnix', 'hyenr watjeny'}, {'hhnrh watganq', 'emyyw hitqniz'}, {'yunyr atiakyz', 'hmory watganc'}, {'yeemr awdknic', 'hnmry witisns'}, {'ewnwr awtikwc', 'hmery wtokims'}, {'emwwy htaxnih', 'hemro watcwnx'}, {'hmnra watcimc', 'wnhhy wiyqniz'}, {'ehyrw awtikmq', 'hmyry wtiikns'}, {'hemrw witginc', 'ewwhy awtcniq'}, {'ohhyy awtsnic', 'henhr whthkns'}, {'oyryy awtjnik', 'hnrhy widcins'}, {'ehyhy autikmz', 'hunrh wytkums'}, {'honrh wutsinh', 'ehnwh aitikyz'}, {'emyhy awtqnoz', 'hhnrh watkhmc'}, {'ewhyh htaknhh', 'hnmry witzinz'}, {'hyhwr awtqnwk', 'hmhry watxyny'}, {'ewhnr ytgnuis', 'hemrr wtokims'}, {'ewhwy owtikhq', 'hhmry wetgens'}, {'wnerw awtcniw', 'hemnr wetkenk'}, {'eywwy awyikhq', 'hnryh watgany'}, {'ehnwr htasnix', 'hwmry wtukims'}, {'hymhh htcnois', 'hnryu wtagins'}, {'yhrey awtikhz', 'hnrye watkhmj'}, {'henhr watznas', 'whemw ytaknij'}, {'yohyy uwtgniz', 'hmiry witginc'}, {'yyanr ytaknij', 'hanrh withkns'}, {'hnryu wwtsinw', 'hymww awtcnij'}, {'hmnrr watgwms', 'hwwhr awtikmq'}, {'hinrh wthkink', 'eonnr ytknwih'}, {'hmery watkumc', 'ywerw awtyniw'}, {'hemrh watsonh', 'nerhw htasnih'}, {'ehmhr awtghiw', 'hnryu wotkhnj'}, {'hanrh wwtkhnq', 'ihrwy awhgniw'}, {'hnrya watjnsi', 'inhwy ytaknij'}, {'hmnrh watkhmj', 'whunw wuhgniz'}, {'hmrry wwtgwns', 'ehnww ytgnois'}, {'hhmry wwtknas', 'ahnwr awtgnwi'}, {'hmnrr wetzens', 'yonnr awdknix'}, {'inyyh ytgnwis', 'hmnro watknak'}, {'emyyw itcneis', 'hemrr wotqiny'}, {'hinrh watknic', 'onwyy htakneh'}, {'hmiry wtiikns', 'whhrh htaknux'}, {'hnryu wytkoms', 'eunnr teknuis'}, {'hmrry wteking', 'wuhyy awtikhw'}, {'eionr hthknih', 'hemru wetzans'}, {'huhyr owtqniz', 'hmiry wetxiny'}, {'hanrh watxenx', 'weywr ewtjnij'}, {'yeymr ytakniy', 'hemrw wytkany'}, {'wnwwy awtqnuk', 'hnryo wadkhnj'}, {'eonnr awtqnyk', 'hinrh witginq'}, {'honrh watshnj', 'ywnyh aytikyz'}, {'eywwy awdikmc', 'hmnri wetkenc'}, {'ewrhw awtgnix', 'hemre witzons'}, {'hnrya wydkiny', 'emmyy awhgniw'}, {'uyhnr awtqnhk', 'hmyry watznhs'}, {'hmrry witkeny', 'wnier awtokmc'}, {'eyhyh awtokmc', 'hmnro wytkanq'}, {'hwnrh witchns', 'yeumr htaknxi'}, {'eynyh autikmz', 'hwenr watzung'}, {'yhnyw awwknex', 'hmery wtasins'}, {'hmmry watjnes', 'euanr htaznih'}, {'hmiry wwtkunz', 'yemyr awwknig'}, {'huhwr awtikhc', 'hmnrh wtakinh'}, {'hwmry wetxinx', 'ynerw awtjnic'}, {'yonnr owtqnik', 'hemrh wwtgwns'}, {'hmhry witzinc', 'wwmyy ytgnyis'}, {'onwwy iwtjnij', 'hwenr watjonh'}, {'hemre watcuny', 'emyyh ytgneis'}, {'hnryh witkimc', 'wnwhy awwwnix'}, {'ewhyr awthnik', 'hmrry witisns'}, {'hnmry wytkonh', 'hyanw awwknhx'}, {'honrh watiknj', 'yuwrw awtgnig'}, {'hmiry wtwkink', 'ehhwr hwtikhq'}, {'hnhry wwtkimc', 'euhnr awtakmc'}, {'hmrry watznos', 'ehwyh awtiqhq'}, {'whyrw awtikyz', 'hmwry wetkhng'}, {'hemrh watjnus', 'ynhyw awtyniz'}, {'ayrwy awtzniz', 'hmhry wdakims'}, {'hmery witzinh', 'ynwyh awtikhz'}, {'hmnra witginz', 'yhmrw awtiymc'}, {'wunyr htakwih', 'hemrh witzinw'}, {'hnmry wytkhnj', 'homwh aytikhq'}, {'ehnww htuknih', 'hynrh wetkanw'}, {'hhnrh watjmis', 'yhwhr awtcnix'}, {'hmnrr wtaxins', 'wyrwy awwqnik'}, {'hhmhh htaknic', 'hmnri wytqiny'}, {'hwhhw awtcniz', 'hemrw wwtkanw'}, {'whyrw atiekmz', 'hmnru watknaw'}, {'hmnrh widgins', 'whemw awtjnyj'}, {'eaonr atiykyz', 'hnrye wtkaims'}, {'hnrya wytsiny', 'unrhw awtijmc'}, {'honrh watsanh', 'ewwyh awtykhq'}, {'hemnr witzinc', 'hhiyr adiknhz'}, {'yhwrh awtqnhk', 'hynrh wytkimz'}, {'yhhwy awtsnij', 'hnryu watxeny'}, {'ihrwy awwsnix', 'hmnrh wotkanq'}, {'hnryi witgens', 'yonyh awtcnij'}, {'hymyw aitikyz', 'hmnre watoknh'}, {'nwryw awwknik', 'hmrry wetkeny'}, {'hnryi watjnas', 'imryh ywtqnik'}, {'hnrya wytkunz', 'yonhw aytqnik'}, {'yyemr awdknig', 'hmnra witging'}, {'yhyrw ywtjnij', 'hnrya watjnas'}, {'hinrh wetjing', 'yawrh awtcniq'}, {'onwyy awtzniz', 'hmnre witzinj'}, {'hmwry wetjans', 'aneyy otioknh'}, {'hinrh wytkany', 'wnwyh awtsniy'}, {'hnrhy wetkenc', 'yyryw uwtqnik'}, {'yneyh hwtikmc', 'hnryh watkhmc'}, {'ewywy awtakmc', 'hunrh wetzuns'}, {'whiyr adiyknz', 'hmyry wdakink'}, {'wowrw awtikhz', 'hnryi wwtginw'}, {'hnryh wtaxins', 'yyemr awyknij'}, {'hymry wytkwny', 'whwnw awtjnih'}, {'hinrh wetjans', 'ehwyh awtjnic'}, {'hwmry wwtkhng', 'whomr htuknih'}, {'eaunr ytgnois', 'hmrry witizns'}, {'hynrh wwtkanq', 'ynewy awtgnyw'}, {'hemre witkimc', 'ehwwr atihkyz'}, {'hymry witgens', 'emwyh awtjnhj'}, {'ewnwr awtgnuw', 'hanrh wytkmis'}, {'hohyw awtxniz', 'hinrh watkniq'}, {'yhwrw htaqnih', 'hemra witijns'}, {'hnrhy watikny', 'whehw awtqniq'}, {'hemrw watiknw', 'yehwr htakyih'}, {'hwenr wotxinx', 'wyrwy autikmz'}, {'iwryh awtixmc', 'hmnrh wtokims'}, {'eounr awtikhz', 'hmnri watgeny'}, {'ihnwr awtzniw', 'hemrr watxanx'}, {'yhwrw ahtikmc', 'hmmry watximc'}, {'hnryh watganj', 'ehhrr awtakhq'}, {'wehyh awtihmc', 'hemrw wwtkanw'}, {'ehwwr awthniw', 'hmwry wtikink'}, {'hmiry watjnas', 'wehyr otiknhh'}, {'hymry wethkns', 'hohyh awdjnij'}, {'hhnrh watzonh', 'eyyrw awtcnik'}, {'euonr ytaknic', 'hwnrh wytkmis'}, {'ehnhr awtekhq', 'hhnrh wytkimw'}, {'honrh watznws', 'wwenw awtxnig'}, {'hemnr wtakons', 'ewnwh awdgniw'}, {'howww awwkmix', 'hmwry watxuny'}, {'hemru wtakwns', 'ymryw ahtikyz'}, {'hyenr watxynx', 'wehnw aytqnik'}, {'hmury wtykims', 'whynw awtjyij'}, {'yeomr awwknhx', 'hemra whtkimc'}, {'hemrh watsonh', 'hnihh awwkmix'}, {'hmiry wwtkanq', 'eyyhy htyknih'}, {'henhr witixns', 'eyyyy hitqniz'}, {'hmery wytkimk', 'yewmr awtcniw'}, {'humhh adihknz', 'hmyry watkamq'}, {'hnrya witisns', 'hnohw awtakmc'}, {'nwryw uwtikhq', 'hemrw wwtkhms'}, {'hmory wtakinc', 'ewwhy wuwgniz'}, {'hemrr wwtsinw', 'euunr awtikhc'}, {'wwenw awtxnih', 'henhr wtakinw'}, {'hmnre whtzing', 'yhnyw awtqnok'}, {'hnnrh wetkong', 'eynwh ewtjnij'}, {'hmnre wetkeny', 'hywhr awtcniy'}, {'hunrh wthkims', 'eyrwh itcneis'}, {'wyewr awtikhq', 'hnrhy wetkunw'}, {'henmr wwtkhnq', 'eumwy awtikmk'}, {'hnryh wtaxins', 'onhyh atiykyz'}, {'hmhry watcimc', 'yunyh htagnih'}, {'hmiry watzwng', 'hwmhh atiykyz'}, {'hnnrh watkumc', 'uhnwr adihknz'}, {'hmiry witcink', 'whnew awtizmc'}, {'hmhry watjonh', 'ynrhw ytaknik'}, {'ehohr awtqnak', 'hmery wwtcinw'}, {'yhyrw htaknux', 'hmnri wytkeny'}, {'yhyrw iwwknix', 'hnnrh wwtghns'}, {'hnrya watkwmc', 'enhhw awtjyij'}, {'hhnrh wytkums', 'yomrh awtyniz'}, {'henhr watkamc', 'wwwyy htaknux'}, {'hmiry watsonh', 'whomr awtqwiz'}, {'hnrye watknij', 'anrhw htacnix'}, {'hemrh witginj', 'eyhyh ewtjnij'}, {'yhyyy awtjniq', 'hmnre watjnis'}, {'hemri wadzing', 'emyyy awtgniw'}, {'hmmry wwtkanw', 'enyhw awtqhik'}, {'ehhrr awtgyiw', 'hmary watisnh'}, {'whyyy awtijhq', 'hemru wetjing'}, {'ahnwr aytjnij', 'hmyry wodkiny'}, {'whnew htiknix', 'hemrw wetging'}, {'yonhw awtqnih', 'hemnr watxanq'}, {'nirwy awtwnij', 'hymry witxinx'}, {'hemru witzons', 'enhhh awtixmc'}, {'hmrry watknac', 'emywy htagnix'}, {'hnrye witzwns', 'yawrw adiyknz'}, {'hmhry watkumc', 'yeimr otiknhh'}, {'hyenr watganw', 'howhw adihknz'}, {'hmmry wetkunk', 'ihnwr aitikyz'}, {'yewwh htaknex', 'hanrh watjnus'}, {'hnrya watcung', 'wemhr iwtikhq'}, {'honrh wtakinw', 'wwhyy htakwih'}, {'hmary watganx', 'onywy awtsnik'}, {'inrww awwknic', 'hmnri witciny'}, {'ynewy awtjnji', 'hunrh wtakinc'}, {'inwyh ytgnyis', 'hnryu wtazins'}, {'hemrr wtakinj', 'hohyh htaznih'}, {'emyyy awtxnij', 'hynrh watgwnx'}, {'ywewr adiknwz', 'hymry wadcinx'}, {'whhhy htakniz', 'hyenr watgwnx'}, {'yuwrw hyaknix', 'hunrh wetkenc'}, {'hmary watsonh', 'eumyy ahtikmc'}, {'wehyr awtqnoz', 'hnryo witkeny'}, {'eownr awtcniy', 'hnryo watzeny'}, {'hmiry watkamc', 'wwenw owtikmc'}, {'howww awtqwiz', 'hmnra wtajins'}, {'inhyh awtxnig', 'hmrry watcung'}, {'hemrr wtekink', 'wohyy awwcnix'}, {'ohhyy ahtjnij', 'hnhry wetkenq'}, {'hmnri witixns', 'hhyyh awtikyq'}, {'hunrh watcynx', 'himhh awdkniw'}, {'hmnru wytkimj', 'ywewr awwknhx'}, {'hemnr wetizns', 'inwwy awtxnic'}, {'hhhhw awwknig', 'honrh wetjens'}, {'hmyry watgams', 'himhh awwikmc'}, {'waewr awtikhx', 'hmnrh wutxinx'}, {'hinrh wwtkeny', 'nreuy awtikhk'}, {'enhhw adiuknz', 'henhr watcunw'}, {'inwyh ytaknic', 'hanrh watcuny'}, {'nehyh awwkmix', 'hnmry wotginy'}, {'hymhw htakhih', 'hmery witxinx'}, {'hymyw awtjyij', 'hmery watsnas'}, {'hemrh widcins', 'wohyy awtzniy'}, {'yaemr awtixmc', 'hemru wytkyny'}, {'ehowr hwtikhq', 'hhmry watxhnj'}, {'hemrw wwtqinw', 'yhwrw awtqnwz'}, {'ohhyy iwtikmc', 'hnrya wwtshns'}, {'hmery wwtkenw', 'ewunr awhkniz'}, {'hmyry wetkenx', 'whimr adiwknz'}, {'hnryh wtakans', 'hwmhh htiknih'}, {'oyryw ytgnwis', 'hnrhy wetsans'}, {'inhyh awtxniz', 'hmory wwtkhny'}, {'hnryu wydkiny', 'wowrw hwtgniw'}, {'hnryu watsanh', 'wunyr awtqmiz'}, {'hmnro widcins', 'ewnww awtgyiw'}, {'hymww ewwknix', 'hmnre wwtkhnx'}, {'hnhry wetkanj', 'aneyy awwynix'}, {'hhnrh watkhmc', 'hhhwr iwtjnij'}, {'hinrh wwdkinw', 'hihwr htiokws'}, {'hyanh adiknhz', 'hemrr watkemc'}, {'wnhyh awwznix', 'hmhry watkomh'}, {'hmory watzonh', 'ynyyw htakyix'}, {'hemru wetkanw', 'eunwh adknaiz'}, {'hmury wytkeny', 'yhryw htaknah'}, {'hnrhy watixnx', 'eaunr awtgwiw'}, {'hmyry witkhnj', 'ehmhy htoknix'}, {'hnnrh wwtzinw', 'eunyr awtikmj'}, {'hanrh watxwny', 'wohyy adiuknz'}, {'emyyh awwkniz', 'hmrry watiknx'}, {'hmnre wotxinx', 'eywhy awwknyx'}, {'hohyh awtcnix', 'hanrh watganx'}, {'yynyh awtqyik', 'henmr wytgims'}, {'hemnr wotginy', 'hhwhr aitikmz'}, {'honrh wetkimg', 'whinw awtikhz'}, {'yhnyw awykniw', 'hnryo witisns'}, {'wewyr atihkyz', 'hemrw whtixns'}, {'hemro wetkunk', 'eymwy awtgnaw'}, {'eamhy owtjnij', 'hemra watsnis'}, {'eyywy awdikhq', 'hnrhy wtekans'}, {'yehwr ahtqnik', 'hmhry watgwnj'}, {'emyyy aywknix', 'hwnrh wytkyny'}, {'hynrh watgwnc', 'ewnwh htakniq'}, {'hmnra wwtgwns', 'whnwr autikmz'}, {'ewnyr awtgnic', 'hmnro witzink'}, {'ehrhw atihkyz', 'hnrya wwtsinh'}, {'oyryy awtiwmc', 'hmyry watjnes'}, {'ewwhy awyknij', 'hanrh wedking'}, {'hynrh wwtkimw', 'whhnw awtjnig'}, {'ewnww htyknix', 'hemri watcuny'}, {'yewyw awtsniw', 'hnrya wetkimc'}, {'henmr watkney', 'hnihh ytgnois'}, {'eohnr htwknix', 'hemru wytjiny'}, {'hwmry watkymc', 'yanyh awhikmc'}, {'henmr wetzans', 'hniwh adiknzh'}, {'hmnrw watcimc', 'weawr awtjnik'}, {'hwhhw ahtjnij', 'hnryh witgink'}, {'hnnrh witcyns', 'uyhnr ytgnyis'}, {'hmery watknoh', 'wnhrw awdkniz'}, {'hmnrr watcimx', 'unhyh atiykmz'}, {'henhr wtkaink', 'ohmrh awtikmk'}, {'hwnrh watkmic', 'yiwrw htasnix'}, {'ehnhr ytakniy', 'hemnr wetkuny'}, {'hnhry wadkhnj', 'wwnyw awtqnig'}, {'hemrh watjnis', 'eywwy adiyknz'}, {'hemnr witcink', 'hwhhw awtxnij'}, {'hmrry witzinc', 'wehyh awtqnix'}, {'hhnrh watxnas', 'ynirh htaynix'}, {'ehhrw ywtjnij', 'hinrh wwtkunw'}, {'euhnr awwgnix', 'hmnra wwtxinw'}, {'hmery wwtkhnh', 'inrww awdkniy'}, {'hyanw awtqnhk', 'hwenr wetkanq'}, {'hmery wetzans', 'ynrhw owtjnij'}, {'hmnrr wutkimc', 'eonnr htajnih'}, {'hinrh wtakuns', 'inhrw awtijmc'}, {'anrhw awtekhq', 'hmnra wwtqinw'}, {'wuewr awtekmc', 'hwenr wetkang'}, {'hemri wtizins', 'ywerw iwtqnik'}, {'hynrh whtisns', 'ewmwy htznyis'}, {'nehyh awtgnix', 'hnrhy watknij'}, {'hmnru watcwnx', 'yymrw ytgnisy'}, {'hinrh watkumc', 'eaunr htasnix'}, {'hemru wtajins', 'wnhrh awtsniy'}, {'hmnro wtacins', 'yehmr atiwkyz'}, {'wwhhy awtxniz', 'hemrh watgwnh'}, {'wwhhy awtqnuz', 'hynrh watisnh'}, {'hinrh watznsi', 'eoinr atiakyz'}, {'emywy awtsniy', 'hnryu watknij'}, {'wnerw awtykhq', 'hnryh watiknc'}, {'hmnri wytkwny', 'euhny awtqnki'}, {'whunw adieknz', 'hmery watqimc'}, {'yywrh awtiqhq', 'hnmry watqanq'}, {'hemrr wetkenx', 'eoinr awdkniq'}, {'hemrr wwtcuns', 'yywrw awtxniy'}, {'hhmry watganh', 'nwryw ytgnyis'}, {'hnryi wwtknis', 'ywryw atiekmx'}, {'ewmyy awhknix', 'hymry watsanq'}, {'hemra withkns', 'yawrh awtqmik'}, {'hymry witzans', 'humhh atsnwih'}, {'hmwry wytkimz', 'himhh htaxnih'}, {'ehmhr awtznix', 'hemra whtkimc'}, {'hyenr wytkams', 'wwhyy awyknig'}, {'ehonw htaknwh', 'hnryo wtekims'}, {'hemro wtaking', 'yewyw awtjnig'}, {'iyryh awykniz', 'hnryu watknaq'}, {'hmnrh wetkenj', 'wehyw awtihhq'}, {'hmery whtxiny', 'yonhw wiyqniz'}, {'yeemr htaxnix', 'hhnrh wytjiny'}, {'hunrh wtaikns', 'hnihh ytgnais'}, {'hmhry watgwnw', 'enwww awtjmij'}, {'hmnru watgwnq', 'ehhrr awtikwq'}, {'hymry wtekims', 'hywhr awtgnig'}, {'eoanr awtxnix', 'hemnr watknag'}, {'enyhw hthknix', 'hmwry watkumc'}, {'hyahr awdknic', 'hmwry watiknj'}, {'whiyr awtwnix', 'hmnrh wetkunk'}, {'hunrh wetsans', 'anwwy htwkniz'}, {'hmmry watgwnq', 'wehyh atsnwih'}, {'hhnrh watcimc', 'ewhwy itiknzy'}, {'eywrh awtcnig', 'hmnrr wytknas'}, {'wemhr awtikwc', 'hemre whtizns'}, {'hwmry watknij', 'wohnr hwtjnij'}, {'hnryu watcung', 'wuhyy awdknij'}, {'hemre whtixns', 'hiyhh awtqwiz'}, {'wunyr awtgnhw', 'hwmry wytkony'}, {'hemrw watsimc', 'wehnw ytgnais'}, {'oyryy awdqnik', 'hmnrh wtaxins'}, {'yneyh etiyknz', 'hnrhy watjonh'}, {'hemrr wytgans', 'ywwrw awtqnic'}, {'hemrr witisns', 'ehnhr ytgnais'}, {'hwnrh watknag', 'inrwh ytaknic'}, {'hmnro wetkang', 'ohnhw awdkniq'}, {'yeamr htiknwq', 'hymry watknic'}, {'eywrh awtqnok', 'hemrw watcunx'}, {'wnwhy awtgnwi', 'hemrr witxiny'}, {'hnmry watkhmc', 'ewwyh awtyniw'}, {'hmwry witzuns', 'ehyrw htakwih'}, {'hmwry watknay', 'yyanr awtikhw'}, {'hwnrh watknak', 'niryh awtgnaw'}, {'hinrh wetzans', 'hohhw htaknic'}, {'hwmry wwdkhns', 'hhmhh awwikhq'}, {'yhwhr ahtgniw', 'hinrh watsanh'}, {'hnrhy witginy', 'wymrw ahtikhq'}, {'emwyy awtgnij', 'hhnrh watcenx'}, {'hmory witgims', 'inwwy awtxnij'}, {'nyrey autikyz', 'hnnrh watgonh'}, {'hmnre wytkhms', 'eyrhw awykniq'}, {'inrwh awtqniy', 'hmhry watjeny'}, {'yemyh awtqnix', 'hmnrw watxonx'}, {'inhrw awtwnik', 'hmury wtakinw'}, {'ehnww htaynix', 'hemrr witgink'}, {'eyrhw awthniz', 'hmnra wwtkhnj'}, {'hmnra watznsi', 'ynerw ytgnisw'}, {'hmhry wtakyns', 'huhwr awdikhq'}, {'hmmry wtakinx', 'enyhw ytgnuis'}, {'hnryi witgims', 'ewhnr htakwih'}, {'hymry wwtkhnq', 'whinw awthniw'}, {'hymyw atsnwih', 'hwmry watgank'}, {'eomyy htaknix', 'hemrw watknix'}, {'yiwrh hteknih', 'henhr whtcinx'}, {'hanrh wtekims', 'ehwwr awtikmk'}, {'hhmry wetjans', 'euonr htakmix'}, {'ehnor aotikmz', 'hynrh watxany'}, {'hemru watxunx', 'eiunr htaknah'}, {'huwyr awdkniq', 'hemra wydkims'}, {'hymry witzans', 'yyryw htakhix'}, {'hinrh wetxans', 'wihyy hwtqnik'}, {'hemrh wytkimk', 'wheyw atiykyz'}, {'hynrh wytkuny', 'oyrhy htaknax'}, {'emrrh awhjnij', 'hmhry watjnes'}, {'hnrya watgonh', 'ehmwr ywtjnij'}, {'hyenr witcinq', 'eohnr awtjnoj'}, {'euwnr yutgniz', 'hyenr wtagins'}, {'hmury widgins', 'yhnww iwtqnik'}, {'hmrry watqonh', 'yhrey htaknah'}, {'hmory wetizns', 'oyryy awtznij'}, {'eynwr awtznig', 'hemri watganx'}, {'hnrya whthkns', 'whnwr awtukhq'}, {'honrh watxwny', 'ehhwy awtqnzi'}, {'hnryh wdakink', 'niryh ywtjnij'}, {'inrww htaknxi', 'hnryu wytkimk'}, {'inrhw awtcnih', 'hemru watknag'}, {'wwwyy ytgnisy', 'hmyry wytkony'}, {'yinyh htakwih', 'hmnrr witziny'}, {'humhh awtgmiw', 'hymry wetzing'}, {'wyrwy awtqhiz', 'hmnro wetsing'}, {'enhhh htakwix', 'hyenr watkemc'}, {'ehhwy awwknic', 'hnmry witgink'}, {'hmery wwtkwnw', 'ehmwr ytgnwis'}, {'yunyh awtjmij', 'hnhry watximc'}, {'ewywy awtcnih', 'hemrr wwtcinw'}, {'hnryh wytcinx', 'ywwrw wihqniz'}, {'wemyr awtgnic', 'hmory watknac'}, {'ehnwh awtjnik', 'hemrw watjunz'}, {'eyhnr awwkmix', 'hmnru watzonh'}, {'hwnrh witcink', 'eyrhw ahtcnij'}, {'hemro wytsiny', 'wwyyy awtikhx'}, {'hmnrh wtakwns', 'ohhyy awdkniy'}, {'hnehw htiknix', 'hemra watgwnk'}, {'hwmry witcinx', 'yaemr hteknih'}, {'hnrye wotkanq', 'eywrh ywtikmc'}, {'hanrh wtaikns', 'ynwyh htaknuh'}, {'hhmry wwtcinx', 'wehyh awtjwij'}, {'eahnr awtqmik', 'hwmry wetkenc'}, {'wnerw owtjnij', 'hmrry watkumc'}, {'hnryi witkeny', 'whehw awtokhq'}, {'hymry wytkanq', 'wuhyy awtjhij'}, {'hnrye watjunz', 'ywerh awtakmc'}, {'onywy awtsnij', 'hemrh watcunk'}]
+henry watkins       : DEBUG: Additional rule variations: {'henrywatkins'}
+henry watkins       : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 3
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "henry watkins": {
+            "first_name": {
+                "score": 0.5421739620410635,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 0.5499999999999999,
+                        "combined": 0.27499999999999997
+                    },
+                    "count": {
+                        "actual": 2,
+                        "expected": 3.1499999999999995,
+                        "score": 0.8478264136070903
+                    },
+                    "uniqueness": {
+                        "unique_count": 2,
+                        "total_count": 2,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "hemri",
+                            "phonetic_score": 0.728138080572033,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "emrrh",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.6477602748488319,
+            "final_score": 0.7182082198790656,
+            "variation_count": 3,
+            "non_rule_compliant_variations_count": 2,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.7071739620410635,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.5499999999999999,
+                        "orthographic": 0.5499999999999999,
+                        "combined": 0.5499999999999999
+                    },
+                    "count": {
+                        "actual": 2,
+                        "expected": 3.1499999999999995,
+                        "score": 0.8478264136070903
+                    },
+                    "uniqueness": {
+                        "unique_count": 2,
+                        "total_count": 2,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "wwtkimw",
+                            "phonetic_score": 0.37495367725771267,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "atiykmz",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.1428571428571429,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_all_spaces": [
+                            "henrywatkins"
+                        ],
+                        "replace_spaces_with_random_special_characters": [
+                            "henrywatkins"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "henrywatkins": [
+                            "remove_all_spaces",
+                            "replace_spaces_with_random_special_characters"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.3333333333333333,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 2,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "henry watkins": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "remove_all_spaces": [
+                            "henrywatkins"
+                        ],
+                        "replace_spaces_with_random_special_characters": [
+                            "henrywatkins"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "henrywatkins": [
+                            "remove_all_spaces",
+                            "replace_spaces_with_random_special_characters"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.3333333333333333,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 2,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.7182082198790656,
+    "final_reward": 0.7182082198790656
+}
+henry watkins       : DEBUG: ----------------------------------------------------------------------------------------------------

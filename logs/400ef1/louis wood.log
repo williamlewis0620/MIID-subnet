@@ -1,0 +1,1206 @@
+louis wood          : INFO: Generating variations for louis wood
+louis wood          : INFO: ----------------------------------------------------------------------------------------------------
+louis wood          : INFO: Effective rules: []
+louis wood          : INFO: ----------------------------------------------------------------------------------------------------
+louis wood          : INFO: Min Required Rule Variation Set: []
+louis wood          : INFO: ----------------------------------------------------------------------------------------------------
+louis wood          : INFO: First name: louis
+louis wood          : INFO: Last name: wood
+louis wood          : INFO: ----------------------------------------------------------------------------------------------------
+louis wood          : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (1, 2), (0, 4), (1, 3), (0, 5), (1, 4), (2, 3), (0, 6), (1, 5), (2, 4), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (3, 5), (0, 9), (1, 8), (2, 7), (3, 6), (0, 10), (1, 9), (2, 8), (3, 7), (4, 6)]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 1 / 28: rule_count/nonrule_count: 0/1------------------------------
+louis wood          : DEBUG: O: [0, 0, 0, 1]
+louis wood          : DEBUG: P: [0, 0, 0, 1]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+louis wood          : DEBUG: [30]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [0, 0, 0, 1]
+louis wood          : DEBUG: P: [0, 0, 0, 1]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [376]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.47152003]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 2 / 28: rule_count/nonrule_count: 0/2------------------------------
+louis wood          : DEBUG: O: [0, 1, 0, 1]
+louis wood          : DEBUG: P: [0, 1, 0, 1]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+louis wood          : DEBUG: [2, 2, 0]
+louis wood          : DEBUG: [102, 33, 0]
+louis wood          : DEBUG: [500, 132, 0]
+louis wood          : DEBUG: [500, 119, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+louis wood          : DEBUG: [30]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [0, 1, 0, 1]
+louis wood          : DEBUG: P: [0, 1, 0, 1]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [33, 6, 0]
+louis wood          : DEBUG: [93, 12, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [376]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.62686582]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 3 / 28: rule_count/nonrule_count: 0/3------------------------------
+louis wood          : DEBUG: O: [0, 1, 0, 2]
+louis wood          : DEBUG: P: [0, 1, 0, 2]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+louis wood          : DEBUG: [2, 2, 0]
+louis wood          : DEBUG: [102, 33, 0]
+louis wood          : DEBUG: [500, 132, 0]
+louis wood          : DEBUG: [500, 119, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+louis wood          : DEBUG: [30]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [0, 1, 0, 2]
+louis wood          : DEBUG: P: [0, 1, 0, 2]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [33, 6, 0]
+louis wood          : DEBUG: [93, 12, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [376]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.648]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 4 / 28: rule_count/nonrule_count: 1/2------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 5 / 28: rule_count/nonrule_count: 0/4------------------------------
+louis wood          : DEBUG: O: [0, 2, 0, 2]
+louis wood          : DEBUG: P: [0, 2, 0, 2]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+louis wood          : DEBUG: [2, 2, 0]
+louis wood          : DEBUG: [102, 33, 0]
+louis wood          : DEBUG: [500, 132, 0]
+louis wood          : DEBUG: [500, 119, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+louis wood          : DEBUG: [30]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [0, 2, 0, 2]
+louis wood          : DEBUG: P: [0, 2, 0, 2]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [33, 6, 0]
+louis wood          : DEBUG: [93, 12, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [376]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.652]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 6 / 28: rule_count/nonrule_count: 1/3------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 7 / 28: rule_count/nonrule_count: 0/5------------------------------
+louis wood          : DEBUG: O: [1, 3, 1, 0]
+louis wood          : DEBUG: P: [1, 3, 1, 0]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+louis wood          : DEBUG: [2, 2, 0]
+louis wood          : DEBUG: [102, 33, 0]
+louis wood          : DEBUG: [500, 132, 0]
+louis wood          : DEBUG: [500, 119, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [17, 0, 5]
+louis wood          : DEBUG: [500, 20, 84]
+louis wood          : DEBUG: [500, 90, 469]
+louis wood          : DEBUG: [500, 500, 500]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [16]
+louis wood          : DEBUG: [102]
+louis wood          : DEBUG: [212]
+louis wood          : DEBUG: [128]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [1, 3, 1, 0]
+louis wood          : DEBUG: P: [1, 3, 1, 0]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [33, 6, 0]
+louis wood          : DEBUG: [93, 12, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [46, 4, 0]
+louis wood          : DEBUG: [203, 20, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [12]
+louis wood          : DEBUG: [38]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.73703409]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 8 / 28: rule_count/nonrule_count: 1/4------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 9 / 28: rule_count/nonrule_count: 2/3------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 10 / 28: rule_count/nonrule_count: 0/6------------------------------
+louis wood          : DEBUG: O: [1, 3, 1, 1]
+louis wood          : DEBUG: P: [1, 3, 1, 1]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+louis wood          : DEBUG: [2, 2, 0]
+louis wood          : DEBUG: [102, 33, 0]
+louis wood          : DEBUG: [500, 132, 0]
+louis wood          : DEBUG: [500, 119, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [17, 0, 5]
+louis wood          : DEBUG: [500, 20, 84]
+louis wood          : DEBUG: [500, 90, 469]
+louis wood          : DEBUG: [500, 500, 500]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [16]
+louis wood          : DEBUG: [102]
+louis wood          : DEBUG: [212]
+louis wood          : DEBUG: [128]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+louis wood          : DEBUG: [30]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [1, 3, 1, 1]
+louis wood          : DEBUG: P: [1, 3, 1, 1]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [33, 6, 0]
+louis wood          : DEBUG: [93, 12, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [46, 4, 0]
+louis wood          : DEBUG: [203, 20, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [12]
+louis wood          : DEBUG: [38]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [376]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.70915471]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 11 / 28: rule_count/nonrule_count: 1/5------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 12 / 28: rule_count/nonrule_count: 2/4------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 13 / 28: rule_count/nonrule_count: 0/7------------------------------
+louis wood          : DEBUG: O: [1, 4, 1, 1]
+louis wood          : DEBUG: P: [1, 4, 1, 1]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+louis wood          : DEBUG: [2, 2, 0]
+louis wood          : DEBUG: [102, 33, 0]
+louis wood          : DEBUG: [500, 132, 0]
+louis wood          : DEBUG: [500, 119, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [4, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [17, 0, 5]
+louis wood          : DEBUG: [500, 20, 84]
+louis wood          : DEBUG: [500, 90, 469]
+louis wood          : DEBUG: [500, 500, 500]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [16]
+louis wood          : DEBUG: [102]
+louis wood          : DEBUG: [212]
+louis wood          : DEBUG: [128]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+louis wood          : DEBUG: [30]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [1, 4, 1, 1]
+louis wood          : DEBUG: P: [1, 4, 1, 1]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [33, 6, 0]
+louis wood          : DEBUG: [93, 12, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [4, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [46, 4, 0]
+louis wood          : DEBUG: [203, 20, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [12]
+louis wood          : DEBUG: [38]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [376]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.6917233]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 14 / 28: rule_count/nonrule_count: 1/6------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 15 / 28: rule_count/nonrule_count: 2/5------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 16 / 28: rule_count/nonrule_count: 0/8------------------------------
+louis wood          : DEBUG: O: [1, 4, 1, 2]
+louis wood          : DEBUG: P: [1, 4, 1, 2]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+louis wood          : DEBUG: [2, 2, 0]
+louis wood          : DEBUG: [102, 33, 0]
+louis wood          : DEBUG: [500, 132, 0]
+louis wood          : DEBUG: [500, 119, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [4, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [17, 0, 5]
+louis wood          : DEBUG: [500, 20, 84]
+louis wood          : DEBUG: [500, 90, 469]
+louis wood          : DEBUG: [500, 500, 500]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [16]
+louis wood          : DEBUG: [102]
+louis wood          : DEBUG: [212]
+louis wood          : DEBUG: [128]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+louis wood          : DEBUG: [30]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [1, 4, 1, 2]
+louis wood          : DEBUG: P: [1, 4, 1, 2]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [33, 6, 0]
+louis wood          : DEBUG: [93, 12, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [4, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [46, 4, 0]
+louis wood          : DEBUG: [203, 20, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [12]
+louis wood          : DEBUG: [38]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [376]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.6755794]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 17 / 28: rule_count/nonrule_count: 1/7------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 18 / 28: rule_count/nonrule_count: 2/6------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 19 / 28: rule_count/nonrule_count: 3/5------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 20 / 28: rule_count/nonrule_count: 0/9------------------------------
+louis wood          : DEBUG: O: [1, 5, 1, 2]
+louis wood          : DEBUG: P: [1, 5, 1, 2]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+louis wood          : DEBUG: [2, 2, 0]
+louis wood          : DEBUG: [102, 33, 0]
+louis wood          : DEBUG: [500, 132, 0]
+louis wood          : DEBUG: [500, 119, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [5, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [17, 0, 5]
+louis wood          : DEBUG: [500, 20, 84]
+louis wood          : DEBUG: [500, 90, 469]
+louis wood          : DEBUG: [500, 500, 500]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [16]
+louis wood          : DEBUG: [102]
+louis wood          : DEBUG: [212]
+louis wood          : DEBUG: [128]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+louis wood          : DEBUG: [30]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [1, 5, 1, 2]
+louis wood          : DEBUG: P: [1, 5, 1, 2]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [33, 6, 0]
+louis wood          : DEBUG: [93, 12, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [5, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [46, 4, 0]
+louis wood          : DEBUG: [203, 20, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [1, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+louis wood          : DEBUG: [12]
+louis wood          : DEBUG: [38]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [1]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [376]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [500]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.66601368]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 21 / 28: rule_count/nonrule_count: 1/8------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 22 / 28: rule_count/nonrule_count: 2/7------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 23 / 28: rule_count/nonrule_count: 3/6------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 24 / 28: rule_count/nonrule_count: 0/10------------------------------
+louis wood          : DEBUG: O: [2, 6, 2, 0]
+louis wood          : DEBUG: P: [2, 6, 2, 0]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+louis wood          : DEBUG: [2, 2, 0]
+louis wood          : DEBUG: [102, 33, 0]
+louis wood          : DEBUG: [500, 132, 0]
+louis wood          : DEBUG: [500, 119, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [6, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+louis wood          : DEBUG: [17, 0, 5]
+louis wood          : DEBUG: [500, 20, 84]
+louis wood          : DEBUG: [500, 90, 469]
+louis wood          : DEBUG: [500, 500, 500]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+louis wood          : DEBUG: [16]
+louis wood          : DEBUG: [102]
+louis wood          : DEBUG: [212]
+louis wood          : DEBUG: [128]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: louis, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: louis, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: O: [2, 6, 2, 0]
+louis wood          : DEBUG: P: [2, 6, 2, 0]
+louis wood          : WARNING: Remains: 0
+louis wood          : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+louis wood          : DEBUG: [3, 0, 0]
+louis wood          : DEBUG: [33, 6, 0]
+louis wood          : DEBUG: [93, 12, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [6, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [46, 4, 0]
+louis wood          : DEBUG: [203, 20, 0]
+louis wood          : DEBUG: [20, 20, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: [2, 0, 0]
+louis wood          : DEBUG: [0, 0, 0]
+louis wood          : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+louis wood          : DEBUG: [12]
+louis wood          : DEBUG: [38]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [20]
+louis wood          : DEBUG: [2]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: [0]
+louis wood          : DEBUG: final:
+louis wood          : DEBUG: name: wood, l_level: 0
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 1
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: name: wood, l_level: 2
+louis wood          : DEBUG: --------------------------------------------------
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+louis wood          : DEBUG: scores: [0.66363274]
+louis wood          : INFO: ------------------------------Trying rule_count_pair 25 / 28: rule_count/nonrule_count: 1/9------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 26 / 28: rule_count/nonrule_count: 2/8------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 27 / 28: rule_count/nonrule_count: 3/7------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : INFO: ------------------------------Trying rule_count_pair 28 / 28: rule_count/nonrule_count: 4/6------------------------------
+louis wood          : DEBUG: Rule count is too large, returning None cand_minrequired_rule_varset: [], additional_rule_varset: set()
+louis wood          : DEBUG: ----------------------------------------------------------------------------------------------------
+louis wood          : DEBUG: Best score achieved: 0.7370340904066071
+louis wood          : DEBUG: Best selected: 0/5
+louis wood          : DEBUG: Rule variations: []
+louis wood          : DEBUG: Nonrule variations: [{'loiis wuod', 'luisi wotu', 'louse wayd', 'lowug wdye', 'lzuih waot'}, {'loiys woto', 'luisi wuwd', 'lhyes wyth', 'losiw wote', 'leuis whod'}, {'lohys wotw', 'liuys wota', 'loais wuod', 'lzoui wout', 'luyas wdiu'}, {'luuis whod', 'louyz wuot', 'leuag wyta', 'lzuie woti', 'lowys wotw'}, {'lowws wotw', 'loghs woht', 'loues wodd', 'lozia wiot', 'lyuhc wduy'}, {'lluis wohd', 'loucy wuot', 'loays weyd', 'lousw wuwd', 'lyuci wdah'}, {'louhs woed', 'looys whwd', 'losiy wodw', 'loisi whot', 'luuuj wddt'}, {'loeyq wtuu', 'luisa wuwd', 'lluis whod', 'lsuia wuyd', 'lohws wote'}, {'louso whot', 'luisa wwot', 'lzuih woti', 'lwyes wdue', 'loiis wwod'}, {'louus woad', 'leuws wodw', 'lhhas wtuy', 'louzy woat', 'lozii woyt'}, {'louwz woht', 'loais wohd', 'lwaiq wtwt', 'lsuio wiwd', 'loiso waot'}, {'lsuiu waot', 'luyic wdeo', 'louhs wwod', 'lzuiy woht', 'lsoui wewd'}, {'lzuiy wotw', 'loeeg wdii', 'lzuio woyt', 'louss woud', 'looys wowt'}, {'loues whod', 'lahik weth', 'losiu woht', 'locie woit', 'loisu wout'}, {'loziu whyd', 'loues wuod', 'lauoq wdea', 'lsuiy wout', 'lzuie weyd'}, {'loyws wuyd', 'losiu wody', 'leyos wtwe', 'lauis wodd', 'loziw wote'}, {'luuis whod', 'lzuiw woti', 'loiys wuwd', 'lociy woat', 'loyuk wdio'}, {'lowys wody', 'looec wdaw', 'louwz woht', 'louos weod', 'loiws wott'}, {'loais woed', 'loaug wdaw', 'lozii wwot', 'lsuia wiot', 'loisw woht'}, {'laeij wdha', 'lsoui wiyd', 'leuys woty', 'loois woad', 'lauws wwot'}, {'lowss weot', 'lowys wuot', 'louss whod', 'luwiq wdua', 'liuys wewd'}, {'lauhj wtdw', 'luiso wuwd', 'lzuiw woyt', 'louas wwod', 'louse wodw'}, {'luyes wttw', 'losii woet', 'luuis waod', 'leuys wota', 'lozih wuyd'}, {'louhs weod', 'lsuiw whwd', 'lwuwc wwdy', 'louze wuot', 'loziy wody'}, {'loows woet', 'leyic wtyw', 'lousw woty', 'loiis woad', 'louzi woti'}, {'louiz woud', 'leuws woat', 'laeix wtde', 'lsuio woit', 'luise wwot'}, {'losiw wott', 'lluis wohd', 'lozie whwd', 'lueiq wdte', 'loziu whot'}, {'loeis wwod', 'laaik wdih', 'lociw wiot', 'lsuiy wotu', 'loyws wout'}, {'lociu wody', 'loucy wodw', 'loois woid', 'loeex wuth', 'louze wiot'}, {'lwuex wtiw', 'lsuiu woto', 'loisa wody', 'louos weod', 'locih wiwd'}, {'lowws wott', 'louos woid', 'lhuso wdee', 'loisa wuot', 'loziw wuwd'}, {'loais woed', 'loeys wout', 'lohaq wdiy', 'lowys woet', 'lluys whot'}, {'loeis wiod', 'loiws wuwd', 'loyys wout', 'lousu whwd', 'lyuwx wwdw'}, {'loais whod', 'losii wuwd', 'lzoui woto', 'lauys wuot', 'lhyic wdto'}, {'loais woad', 'liwiq wdwt', 'lowys weyd', 'lousi wiwd', 'lozui wiyd'}, {'lzuiy wotu', 'lyeic wwyt', 'liuis woad', 'loisy wota', 'lzuiw woto'}, {'loisy wotu', 'loiek wtww', 'loais wuod', 'loisu woyt', 'locih woit'}, {'loghs wody', 'losiy whyd', 'luuws woet', 'loais wwod', 'lowyk wyat'}, {'losiw wott', 'liuis wodd', 'lsoui whdd', 'lyiys wtdu', 'lozii wotu'}, {'lociu wotw', 'leeix wdyu', 'loais woid', 'loews wuot', 'lsuiu wodw'}, {'lhyiq wwdu', 'louzy waot', 'louiz wodd', 'lsuie wewd', 'lsuih wott'}, {'locih woti', 'lousy wott', 'loois woid', 'louso wotu', 'lyaiz wwyt'}, {'loais wiod', 'luuki wdwo', 'locie wiot', 'lozio wote', 'losii whwd'}, {'lousy wowt', 'louhs waod', 'losie woat', 'luisa woti', 'lweik wtto'}, {'lohys waot', 'lousa woti', 'lauis wodd', 'loiec wwdu', 'lociw wuot'}, {'losiw whyd', 'louus wwod', 'lowwx wydt', 'lzuih wodw', 'louci wwot'}, {'loiis waod', 'louzy wuwd', 'lzoui wuyd', 'lhusa wyty', 'lozii woat'}, {'loiis wohd', 'lousa wiwd', 'loiso woto', 'lwoiq wdew', 'liuys woti'}, {'loyys woat', 'loues wodd', 'lozui wotu', 'leyes wdai', 'lozii whyd'}, {'lzuia wuwd', 'lsuii wowt', 'luuis weod', 'lowss wodw', 'loyyq wdtw'}, {'luuis woad', 'lsuia wotw', 'loehk wyat', 'lousa woty', 'luisu weyd'}, {'louos woud', 'leuys wewd', 'lyuaz wdwt', 'locio wuot', 'liuys woty'}, {'louiz woed', 'lhuac wtwo', 'loziu woty', 'losiy wodw', 'loays wuwd'}, {'luisu wuwd', 'leuox wdye', 'lauis wwod', 'loucy wota', 'lsuie wwot'}, {'louze woto', 'lyuyj wddt', 'lzoui wwot', 'liuis weod', 'lsuia woyt'}, {'louhs woad', 'luisy woet', 'luiso wote', 'lyyij wdhi', 'lzuia wowt'}, {'lluis wiod', 'lyuhg wtti', 'lluws wuwd', 'loisy woti', 'lozui wiwd'}, {'louss wwod', 'loiys wuwd', 'luisy wota', 'loiws whyd', 'lhuak wwtt'}, {'locii wwot', 'lluis woid', 'loyuj wwdo', 'lohys wote', 'louzw wayd'}, {'losiu woto', 'loiki wtuw', 'lsuih wowt', 'loisa wiot', 'louas whod'}, {'loyys wiot', 'liuws woat', 'lsoui whwd', 'lowex wwta', 'loeis woud'}, {'louos woad', 'lousu wowt', 'loows wewd', 'loeuc wtuh', 'lzuia wote'}, {'lzuie woto', 'lauws woit', 'loziw wewd', 'lohex wydo', 'loiis woad'}, {'louyz wout', 'loais waod', 'lauws woat', 'loeek wdih', 'losiw wiot'}, {'lyuhc wdyi', 'lozia wotw', 'luiso wiwd', 'louos woid', 'lousi wodw'}, {'lociu wiot', 'looac wdeu', 'loeis wohd', 'lowws woht', 'lozio wout'}, {'loeis whod', 'loziy wiyd', 'lyuci wtye', 'lzoui woto', 'loucy wwot'}, {'loays woty', 'lociy wuot', 'lzuia wody', 'louss woad', 'luyig wddw'}, {'loiis wohd', 'lyeas wtye', 'luuys wuyd', 'louci woit', 'loyys whwd'}, {'louwz wayd', 'lsuii wwot', 'lohag wduy', 'louos wodd', 'luiws whdd'}, {'luiix wtty', 'lozio weot', 'lowws wout', 'loiso wott', 'lauis weod'}, {'luhas wtau', 'loucy wuot', 'lousi wodw', 'lsuih wiyd', 'louiz waod'}, {'lociw weot', 'loziy woty', 'luiik wwde', 'lowss wuot', 'loiis wiod'}, {'losui wwot', 'loeis weod', 'loisw weot', 'lyuyj wtei', 'losie wiot'}, {'lyyic wdio', 'louze whwd', 'loziw whyd', 'loais wohd', 'lsuie wiyd'}, {'lousa wowt', 'lousu wuyd', 'lociw wota', 'loois wiod', 'lhuoq wtau'}, {'loeis wohd', 'liuys weot', 'lowws weyd', 'locii woit', 'luyiq wytw'}, {'lauis woud', 'loghs whot', 'luiws wowt', 'loise wuwd', 'lauwc wyde'}, {'luuis whod', 'louci woty', 'lzuio wuyd', 'locio woat', 'luaik wyat'}, {'loise wayd', 'lsuiw wodw', 'louos woud', 'loiki wydh', 'loiso wewd'}, {'louos wuod', 'lousa wuot', 'louce wayd', 'losih weot', 'leoik wtwt'}, {'losiy whyd', 'loisw wodw', 'lluis wwod', 'lzuiu weot', 'loayq wdty'}, {'loiys wota', 'loawc wdti', 'losii wout', 'lzuii wewd', 'liuis woud'}, {'lowss wodw', 'luisu wayd', 'louce wowt', 'leuis woed', 'lyaus wdho'}, {'louiz wodd', 'luisa wiyd', 'luiso wiot', 'lauji wduu', 'leuys wota'}, {'locie weyd', 'lousw wout', 'louos wuod', 'lohws wewd', 'laeiq wtda'}, {'lyuac wtta', 'lluis wiod', 'lsuiu wodw', 'louyz woto', 'lousu whot'}, {'locie woht', 'leyiz wtdo', 'loays woto', 'loois wuod', 'losih wiwd'}, {'luuws woti', 'louos wiod', 'luiso wout', 'losui wotu', 'leaiq wtte'}, {'lzuii wotu', 'loiso weot', 'loisu wodw', 'lowuj wwtw', 'louhs wohd'}, {'lozio woht', 'louiz wuod', 'loghs wayd', 'lwows wyda', 'luisw woyt'}, {'luiws wwot', 'louss wuod', 'louwz wout', 'looac wteu', 'losie wuot'}, {'luiso wwot', 'luisy wote', 'louiz wuod', 'louzo whyd', 'lauoj wtde'}, {'louzu whdd', 'loeis wuod', 'luuhj wttw', 'lozie waot', 'loows wwot'}, {'lhuaj wtao', 'louus wodd', 'loisu wout', 'louzw woet', 'loiys wayd'}, {'louyz wewd', 'lauis woed', 'lzoui woyt', 'lyuuc wtuy', 'lsuiu woit'}, {'leuws wiyd', 'loyys woet', 'louus woed', 'lousy wota', 'lwhas wtaw'}, {'louus wwod', 'louyz whyd', 'lohys woty', 'locie wwot', 'lwusi wtaw'}, {'luuws woyt', 'loisw weyd', 'leyiq wdtw', 'lluys wuwd', 'loeis woad'}, {'lozie wotw', 'loeis wiod', 'lauwx wddu', 'lsuii wody', 'luuys whwd'}, {'looak wday', 'louos wiod', 'lousw woat', 'loisy waot', 'luisu woit'}, {'lauex wdau', 'louzi woyt', 'loisi wwot', 'louus wodd', 'louwz waot'}, {'louza wewd', 'lozih woit', 'losiu wuyd', 'loeis woid', 'loeuc wdwy'}, {'luyes wwto', 'loziy woyt', 'louss woid', 'louzo wote', 'lzuiy weyd'}, {'losiy woto', 'lozia woht', 'loisw wuot', 'lywig wtwa', 'loiis wwod'}, {'louiz weod', 'lozia wody', 'liuys wuwd', 'loyss wout', 'lywik wdiw'}, {'loais woud', 'lzuie whdd', 'loews wuwd', 'louzo woat', 'luhos wtde'}, {'lousu wota', 'lowys wuwd', 'loois wuod', 'liuec wtya', 'louse wotw'}, {'louzo wiyd', 'lozio wotw', 'lzuih woht', 'loues wohd', 'lauwc whdh'}, {'loiys wewd', 'loues whod', 'luiws wott', 'lzuio wodw', 'luwiq wydo'}, {'lhyas wtdy', 'louhs wiod', 'luuws woht', 'loziw whdd', 'lohws woyt'}, {'luuws whyd', 'lohws weyd', 'louze wuot', 'louiz whod', 'luuyk wwht'}, {'lsuie woat', 'loeis waod', 'louza wwot', 'louzu wewd', 'loiug wddt'}, {'lozie woht', 'louos woid', 'locie wotw', 'lohws wiot', 'liwig wyto'}, {'louiz woed', 'lsuio woty', 'lozui woit', 'loeki wath', 'loisa whyd'}, {'louzo wowt', 'luiws wwot', 'lozio wuot', 'louiz wwod', 'lwyiq wdee'}, {'loais woad', 'lsuiy waot', 'lociu wuyd', 'luiic wtah', 'louzo woht'}, {'leuws wiot', 'lousa wuyd', 'luisu woyt', 'louos wohd', 'layes wddh'}, {'lozie wota', 'loiis wiod', 'locie wuot', 'lhwic wdai', 'lowws wote'}, {'lsuia woet', 'loeis wohd', 'lociw whwd', 'lyuog wtwt', 'lzuio wodw'}, {'lawik wdeu', 'louyz wott', 'louas woud', 'lozui whot', 'lousw wuwd'}, {'liuis wohd', 'lousw woti', 'lsuiy wotu', 'loucy wuyd', 'lahas wdhu'}, {'loise wotw', 'leuws wout', 'louss wuod', 'luoic wath', 'lsuiu wiwd'}, {'luiso wwot', 'louas wuod', 'loiuj wwyt', 'looys waot', 'lzuih wodw'}, {'losiw woit', 'lueig wtai', 'luisa waot', 'loisi wayd', 'lauis wwod'}, {'loziu whyd', 'lluis wohd', 'louce wayd', 'loahj wath', 'lzuii wotu'}, {'louhs woed', 'loiys wodw', 'luisa woty', 'louse whwd', 'lyhas wtwy'}, {'loisu woty', 'luise wuyd', 'lozie wota', 'leuis wuod', 'lhuyc wydi'}, {'leeix wwyt', 'locii wodw', 'louos weod', 'lsoui woti', 'lousa wwot'}, {'lyuyq wtuh', 'loiso wott', 'lluys woti', 'loisu woto', 'loeis woad'}, {'loais woad', 'loawc whth', 'luisy wiot', 'losiw wuyd', 'luisw wowt'}, {'loisu wote', 'lzuiw woti', 'louyz wiyd', 'lyuyc wyta', 'louhs woud'}, {'loucy woat', 'loiys wote', 'loues woad', 'leoik wtea', 'louso woet'}, {'losih whyd', 'lowys wayd', 'loois woid', 'lzuio whwd', 'loeux wtwo'}, {'lauis woud', 'lociy wota', 'leuqi wdao', 'louse whwd', 'losiy wwot'}, {'liuys woht', 'lauis woed', 'louzo wuwd', 'looys wayd', 'luiij wteh'}, {'louzi wiyd', 'lluis waod', 'leuwx wddo', 'loyss wout', 'lluys wotw'}, {'liuis wwod', 'lsuii woti', 'lzuie wotu', 'lyuec wyth', 'lzuia woty'}, {'lowag wdiy', 'louiz wiod', 'luisi wodw', 'lozih whwd', 'lsuie woht'}, {'lsuii weot', 'lhuoj wdua', 'lozia whot', 'louhs waod', 'lozih wiyd'}, {'liuis woad', 'luiso wowt', 'lluys wout', 'loisi wwot', 'lyyij with'}, {'luiws woet', 'liwiq wdhy', 'louzu wiyd', 'lzuiy wuot', 'lluis wuod'}, {'luuws woty', 'loyqi wdty', 'louhs waod', 'louso wuyd', 'luuys wiyd'}, {'loeis wohd', 'lowwx wath', 'loisw woat', 'lowys wota', 'lsuiw wewd'}, {'lsuiw wuyd', 'lowux wday', 'lozie wota', 'lzuia wayd', 'loues wodd'}, {'leuis woud', 'lhhas wwht', 'losie woti', 'louza wout', 'luuws woat'}, {'lluis woid', 'louzi wayd', 'loiuq wteo', 'lauws weot', 'louzy weyd'}, {'loyys wewd', 'lohys wuwd', 'loiws wody', 'louhs woid', 'loyaq wyto'}, {'loisa wiyd', 'lociw woat', 'leoiq wdwa', 'loais wuod', 'locio wout'}, {'louhs woad', 'louzy wwot', 'loaag wtiu', 'losiy wotw', 'lsoui woat'}, {'louzw wuyd', 'luuis wodd', 'liuuc wtty', 'loisi whot', 'lociw wuot'}, {'lsoui weot', 'lzuih woti', 'loiws woty', 'lowuz wtae', 'leuis whod'}, {'lywic wthe', 'luiws wott', 'leuis wuod', 'lzuiu woti', 'lsuii woyt'}, {'lousa wowt', 'leiiq wyto', 'louss wiod', 'loghs wotw', 'loise wuwd'}, {'louzu woto', 'lauys wota', 'lozii wott', 'lahik wdiw', 'loois whod'}, {'liuis wwod', 'lauys woet', 'lowhk wdue', 'lowss woti', 'lsuie wwot'}, {'lzuiy wody', 'louhs wwod', 'loihj wtey', 'lociy waot', 'lousu woht'}, {'loziu woat', 'louci woty', 'lohys whwd', 'leoij wwti', 'lluis woed'}, {'lluys woet', 'lsuiw wody', 'lsuiu wuyd', 'loiis wwod', 'lhuci wytt'}, {'louza wuyd', 'lluis waod', 'looki wtdh', 'lsuia woto', 'loeys wiyd'}, {'locih weot', 'lozui woyt', 'loues waod', 'loyaq wwti', 'louso whwd'}, {'louhs woed', 'loisw wiwd', 'leyix wdeh', 'losih wuot', 'losie woet'}, {'liwus wyda', 'louas waod', 'louyz whyd', 'liuws whot', 'locih wiyd'}, {'loeis weod', 'loucy wayd', 'lsuiw wiot', 'losii wotu', 'lwoik wyde'}, {'loyws wowt', 'lousw whyd', 'lwoas whdh', 'louas woed', 'lowys wota'}, {'lauox wthi', 'loais woed', 'lsoui wowt', 'lousu whdd', 'louyz woat'}, {'loiis woed', 'lozii wout', 'loisu woyt', 'lyeig wday', 'loisa wotu'}, {'loziw woht', 'loeis woud', 'lowws wowt', 'lohys wodw', 'lowhk wtho'}, {'lociy whyd', 'louus woud', 'loghs wota', 'loowc wdie', 'lozio wewd'}, {'luoix wuth', 'losui whyd', 'luuws wiwd', 'lluis woed', 'losiu whwd'}, {'lsuio wodw', 'louiz wodd', 'loyys woyt', 'laeiq wtih', 'loise wwot'}, {'luuis whod', 'lousi whwd', 'lzuie wuyd', 'loyji wtey', 'louza wout'}, {'luuis weod', 'lzuiy wowt', 'lsuiy wott', 'lohws wayd', 'lyius wtio'}, {'loues wuod', 'louzo woti', 'lauws woto', 'louso wout', 'lueij wdia'}, {'lsuiw wiwd', 'lauis whod', 'lohuz wdeu', 'luisw woat', 'lzuia wuot'}, {'lohys woty', 'lozia woyt', 'louos wwod', 'louza wwot', 'lyaic wyet'}, {'lyoys wdao', 'luisw wiot', 'luuis woud', 'losiw whdd', 'lauys waot'}, {'leoic wtao', 'louss woed', 'loghs wuyd', 'locii wodw', 'luuws woto'}, {'luiys wuyd', 'loews wowt', 'loisi wout', 'louos wiod', 'lwuwx wddw'}, {'loise whwd', 'lozih woat', 'lowys weyd', 'luuis woed', 'loewc wdwe'}, {'louhs woad', 'leuys wotu', 'liuag wydw', 'losui woty', 'losiu wiwd'}, {'lousa wodw', 'lohji wduu', 'lozii whwd', 'louwz wwot', 'louas woed'}, {'liuis waod', 'lociy whyd', 'losiy woit', 'loiso woyt', 'lowuj whdt'}, {'lhhos wyda', 'louze whwd', 'liuws wwot', 'loews woet', 'loeis woid'}, {'lousw wiwd', 'lohws wiyd', 'leuis waod', 'lyoes wdio', 'lociy woty'}, {'lhuog wthu', 'louhs woad', 'lauws wotw', 'loghs woit', 'lsuio wota'}, {'lluis wohd', 'luisy wowt', 'lohyq wydy', 'lousu whdd', 'luisa wotu'}, {'looys waot', 'loise woto', 'lohws wowt', 'lyias wtay', 'louiz wwod'}, {'lsoui wout', 'lauws woty', 'layes wyyt', 'loiis woad', 'lowws woti'}, {'loywx wdwi', 'losih whwd', 'louzi wayd', 'loiso wodw', 'loues wiod'}, {'lauox wtyy', 'loyss wiwd', 'lowss wotw', 'loues waod', 'luuws wout'}, {'loucy wodw', 'lowwc wdau', 'louos weod', 'loiso wiyd', 'loays woet'}, {'louhs weod', 'lowys whyd', 'leoig wtyh', 'locii wotw', 'luisw woyt'}, {'lwusi wtao', 'lociw woat', 'lluis woad', 'lsuii waot', 'lozio woht'}, {'lsuia wotu', 'louiz wohd', 'luiso wuyd', 'loows whot', 'luaik wtaw'}, {'lauex wdyo', 'lozui wayd', 'louzi wota', 'losiy woit', 'louas wohd'}, {'loziu whdd', 'loiws wiot', 'laeij wtdy', 'loeis woad', 'luiws woty'}, {'loyys wodw', 'lzuiu wody', 'luuis woad', 'louza wiyd', 'leoic wytt'}, {'lsuiw wodw', 'losiu whot', 'loziw wuyd', 'louus woud', 'leuag wyda'}, {'leuys wewd', 'losui wayd', 'leuws wotu', 'loeuc wtww', 'loiis woad'}, {'lzuih wote', 'luuwx wyty', 'lzuia wuot', 'luuis waod', 'loghs woet'}, {'lsuiu waot', 'locii woit', 'luisy wott', 'louas wiod', 'lowuq wtih'}, {'lyaiz wdio', 'lzuia wiwd', 'loais waod', 'louzy wiyd', 'luiso wayd'}, {'lociw woet', 'lzoui wotw', 'lauys wuyd', 'liwhs wddy', 'leuis whod'}, {'lousi wiyd', 'lluws wodw', 'liuuc wtde', 'lauis woed', 'luiys woyt'}, {'loaji wtdh', 'louus whod', 'locie wiwd', 'loisw woti', 'louso wewd'}, {'lzuie woto', 'loziw wwot', 'lywic wdhy', 'loziu wott', 'liuis woud'}, {'lozii woet', 'locie wayd', 'luuis weod', 'lzuiw weyd', 'lhuoc wyda'}, {'liuys weot', 'lyuec wtiu', 'luiso wotu', 'loeis wiod', 'lauys wowt'}, {'lzuih wote', 'leuws wuyd', 'louus waod', 'leyas wyyt', 'louci wout'}, {'luuag wtyo', 'louze wott', 'louzo wowt', 'lsuih woto', 'loues wiod'}, {'lyiig wdte', 'losui wote', 'lzuii woat', 'louas whod', 'luisu wiot'}, {'lzuih wotw', 'liwiz wdiu', 'loiso weot', 'louus woad', 'lociw wodw'}, {'lozia wota', 'luuis weod', 'luisa whyd', 'loows wody', 'lyeik wytu'}, {'lauws wayd', 'lsuia weot', 'louus wwod', 'louwz woht', 'lyees wdey'}, {'loziw woty', 'lhuaq wtyo', 'lzuii wowt', 'lousw wota', 'loues woed'}, {'loois woud', 'louza weot', 'louwz wout', 'lsuiu woti', 'lihas wdhw'}, {'liuis whod', 'luhic wtae', 'lozia wotu', 'lzuiu weot', 'lozii wiwd'}, {'loais woad', 'luisy woto', 'lyuec with', 'lzuih wewd', 'lohws wiot'}, {'luuws woti', 'losui woit', 'layus wdiu', 'lauis wuod', 'lzuiy woyt'}, {'losie wayd', 'lzuiu whot', 'louhs woud', 'lociw wotw', 'leeix wdah'}, {'lousu wiwd', 'losih woit', 'lyuwg wtti', 'loiso waot', 'leuis whod'}, {'loziy woyt', 'loiis wiod', 'lyuji wdiu', 'lousy wwot', 'locie wewd'}, {'lheic wddt', 'loziu woyt', 'louus weod', 'lzoui wota', 'lowys wotu'}, {'loews wiyd', 'luuis whod', 'lauox wddt', 'luuws wout', 'lluys wwot'}, {'lzuiu wewd', 'lihic wtda', 'loois wuod', 'losii wiyd', 'lsuie wwot'}, {'loziy wiyd', 'loiis wodd', 'lozii woht', 'luaik wdyh', 'lociy wodw'}, {'lozia waot', 'locii whyd', 'lhuyq wyta', 'loois woad', 'lluws wuwd'}, {'lociy wiwd', 'luuys woti', 'locie woit', 'louiz whod', 'lhwik wtie'}, {'lousy woyt', 'lozia wuyd', 'liwic wtia', 'lohys wote', 'loiis woid'}, {'louss wwod', 'lowws wott', 'loziw whwd', 'luisw wout', 'lyows wdia'}, {'loiis wohd', 'liwus wtiw', 'losie wotw', 'loise wout', 'luiws woty'}, {'leuec wddy', 'loiis wodd', 'loeys waot', 'louci wiyd', 'lozih wayd'}, {'loegi wdhy', 'loiis woed', 'lociy whyd', 'lauws wote', 'loisw woto'}, {'loeis wohd', 'lhyas wwdy', 'loisa whot', 'lzoui wote', 'looys wayd'}, {'louhs weod', 'luiws wott', 'loisi woyt', 'lohws wuot', 'lowji wdui'}, {'loghs wewd', 'louiz weod', 'losii woet', 'lowek wdih', 'luuws whdd'}, {'loyys whot', 'lauws wuot', 'liuis wiod', 'lywus wddo', 'locii wodw'}, {'lohys weot', 'lsuih waot', 'lhwik wtyy', 'louas wwod', 'louwz woit'}, {'louzw whdd', 'loeis whod', 'loyws wiwd', 'lyius wddy', 'loeys wotw'}, {'loues wwod', 'lyaas wdua', 'lowws woit', 'lozio woyt', 'losii wuot'}, {'lousa whdd', 'lowys whyd', 'lyhig wwyt', 'loisy wotw', 'liuis weod'}, {'lsoui wout', 'louyz wuot', 'lowys woti', 'laoik wytt', 'louus wohd'}, {'lauws woyt', 'lhuki wwdt', 'losie wodw', 'lsoui wiwd', 'loues wohd'}, {'lzuii wiyd', 'losii woti', 'luuyj wdey', 'loues wodd', 'lohys woit'}, {'loyss whdd', 'lozii wuyd', 'louyz woht', 'leuis wiod', 'lyyix wydu'}, {'losii wota', 'louze whyd', 'lzuii woht', 'louhs woid', 'leuax wyet'}, {'losie whdd', 'louhs wiod', 'leuws woti', 'loiwk wwde', 'lozih wayd'}, {'louci wodw', 'liuis woid', 'luiij wttw', 'luuys wuwd', 'louso wewd'}, {'loucy wiwd', 'lhuso wtwo', 'louss weod', 'losiw wuwd', 'lauys whwd'}, {'loois wodd', 'loisw woti', 'luuys wody', 'lozia wota', 'lowki wdiw'}, {'liuis woid', 'louzy woet', 'lowys wotw', 'luiix wtto', 'louci wotu'}, {'louzw whdd', 'layos wthy', 'losiw woat', 'liuis wwod', 'loziu whwd'}, {'leyhs wthh', 'losiy wiwd', 'loyss wiot', 'leuis woad', 'loiws whot'}, {'luiix wtai', 'lauis whod', 'lzuio woht', 'loisy woyt', 'lsuio woat'}, {'liuis wwod', 'locie whot', 'louze whwd', 'leuqi wwta', 'losiw wout'}, {'louci wiyd', 'loziy wiot', 'lhuci wwth', 'lluis wuod', 'lousa wout'}, {'liuys woet', 'lwuag wdaw', 'lluis woed', 'luisy whyd', 'luisw woit'}, {'leuis woud', 'liuys weot', 'lyhas wdau', 'losiw wout', 'loiws wwot'}, {'luisa whot', 'lozui whdd', 'loeis waod', 'lsuia wota', 'lywus wdwy'}, {'loiis whod', 'leuyk wdhi', 'lzuio wuwd', 'luisw waot', 'lsuia wota'}, {'leuws wotw', 'laeik wtti', 'losii whot', 'lauws wewd', 'loues weod'}, {'loiis wohd', 'liwig wdty', 'lowys wuyd', 'luisu woet', 'leuws wayd'}, {'lowws wout', 'lsuiu weot', 'liuis woid', 'liyiq wttw', 'lowys wota'}, {'loews woyt', 'leuys woty', 'loziy woht', 'leuis woed', 'lohuj wtuy'}, {'loisy weyd', 'lzuih wayd', 'lauis woed', 'lwuhj wtwo', 'loyss wewd'}, {'lluys wuyd', 'louzu wody', 'luisy wott', 'leuis waod', 'lyyix wdyo'}, {'lsuiw woht', 'lousw woet', 'lhuog wdhh', 'louzy wewd', 'lluis woad'}, {'locie woht', 'lsuiy wott', 'luuis wwod', 'louze whot', 'lyaig wthe'}, {'lyusi wtto', 'louiz wuod', 'lozih wiwd', 'lzuio wodw', 'lzuia wott'}, {'luiso woyt', 'lauys wuwd', 'luyiq wdwu', 'louos wiod', 'lousa wotw'}, {'losiw waot', 'louze woit', 'lozio wiwd', 'louas wohd', 'luoic wtdo'}, {'lluys wuyd', 'lsuio wotw', 'louus wodd', 'luwiq wdui', 'lousi wwot'}, {'losie whot', 'louhs whod', 'liwij wtew', 'luisy wewd', 'loiys wuyd'}, {'luiws weyd', 'loiws woty', 'lyusa wtdw', 'loeis woid', 'lohws wiwd'}, {'losih weyd', 'louas wuod', 'locie wodw', 'leuhj wdea', 'loziy whyd'}, {'louiz woud', 'louci woit', 'loyss weyd', 'lowki wdao', 'lsoui whot'}, {'lauoc wdhi', 'lousi wiyd', 'lozih woti', 'lluis wiod', 'luisu waot'}, {'luueq wthy', 'luuis wodd', 'lzuiy woty', 'loisy wuwd', 'loise woat'}, {'lohws whwd', 'lauis whod', 'liiic wtua', 'luisy wote', 'losiy wiot'}, {'loeis wiod', 'lauhk wtwh', 'lzuiy woht', 'lozio wuyd', 'lowss wiwd'}, {'lowws weyd', 'lhuax wdyh', 'louzy wota', 'louhs woud', 'luisa woht'}, {'lzuie woto', 'louus wuod', 'lzuio wodw', 'loyws whdd', 'lwows wthh'}, {'losui wuot', 'loais wuod', 'looys wota', 'lsuiy wuwd', 'leeix wtti'}, {'louwz woet', 'louus woud', 'lowys wodw', 'lzuia wiyd', 'loeyk wtuu'}, {'loziw woht', 'lzuiu wayd', 'lousu wott', 'loiuc wtdi', 'louos wohd'}, {'leuis woud', 'loziy whwd', 'lauws wiwd', 'locih wote', 'liuwx wtee'}, {'loise wayd', 'louzu whot', 'louas weod', 'louzw wwot', 'liwus wtyh'}, {'lsuiu wiyd', 'louza waot', 'lluis weod', 'lzuiy wota', 'loawx wtdu'}, {'louso wota', 'lsuia wout', 'liuis woed', 'leuag wdey', 'lluws woht'}, {'louus weod', 'lsuii wwot', 'louse wodw', 'losiu wote', 'liuac wduo'}, {'leuws wiyd', 'layos wdyy', 'louse woti', 'lzuiw woht', 'lauis wodd'}, {'louas wuod', 'loisw wody', 'lousy woyt', 'leuki wtao', 'liuys wotw'}, {'louss wohd', 'lzuih wowt', 'leuws woit', 'luwik wdde', 'lohys woet'}, {'lsuiy woto', 'loise wotu', 'louas whod', 'louzu wwot', 'loiuk wyyt'}, {'leyas wddw', 'lsuiy woto', 'lzuii woet', 'loisy woit', 'leuis wiod'}, {'leoic wthw', 'louos wuod', 'losui wowt', 'losii wiyd', 'louso woty'}, {'liuys wiot', 'louus whod', 'locio woht', 'leuwc weth', 'losiw wiyd'}, {'loucy whwd', 'lyuyz wduy', 'locih wott', 'loeis woud', 'lsuiw woit'}, {'lsuiy woit', 'lociy wewd', 'lewik wtwy', 'loues wodd', 'lousa wotw'}, {'lluys wodw', 'louzy woto', 'luyiq wtye', 'locii wiot', 'louhs wiod'}, {'louiz wodd', 'lsuie wota', 'loucy woet', 'lwuuz wtea', 'luisy wuot'}, {'loise wayd', 'leuag wtti', 'louyz woyt', 'loais woed', 'louzu wota'}, {'leyus wdde', 'losiw wewd', 'loois wuod', 'losui wotu', 'lozui woht'}, {'loiis whod', 'louse wayd', 'lousa wuwd', 'luisu woat', 'lwuex wytw'}, {'louas woud', 'lzuiu wody', 'lowok wtwa', 'lousa woyt', 'lsuiy wowt'}, {'lociw woty', 'lousw wuot', 'lsoui wwot', 'liuis woed', 'lhuok wddh'}, {'loisi wotu', 'lousi whyd', 'loewk wdea', 'lohws wodw', 'loais wodd'}, {'lowux wduw', 'loisa woty', 'louss woud', 'lzuio wiwd', 'louso wewd'}, {'louso wiwd', 'lehiq wteo', 'louse wiot', 'loiis wwod', 'loucy wwot'}, {'lociu wotw', 'loiis woed', 'loiwx wwtu', 'loays woit', 'locii wody'}, {'leuws wotw', 'luisu wody', 'lsuih whyd', 'louhs waod', 'lowyq wdwh'}, {'liuji wdii', 'lozie wota', 'losiu wewd', 'luisa weyd', 'loiis woid'}, {'loois wodd', 'leuex wdty', 'lozia whyd', 'louyz woht', 'losii wotu'}, {'losii wowt', 'luisa woto', 'loeis wodd', 'luuji wtiu', 'lozii woty'}, {'leuis wwod', 'luiws whot', 'lozui wowt', 'lyaig wthh', 'loyys whwd'}, {'lociw wott', 'loisi wuwd', 'lyuyc wdia', 'lozih wotu', 'lauis woad'}, {'lhuec wwth', 'lozie woty', 'louzu weot', 'luuis woid', 'louzy woti'}, {'louze woto', 'lauki wwht', 'loisa wuot', 'loiis wiod', 'lowys woet'}, {'loues wwod', 'lsuiw woht', 'louzo woet', 'louci woit', 'lauki wtta'}, {'lwuqi wtwt', 'loziw woit', 'louhs wodd', 'lozih woht', 'loisy wewd'}, {'luisu wuwd', 'louzy wuyd', 'loiys woet', 'luuis woud', 'laeij wyti'}, {'loyuq with', 'louhs woad', 'lzuii woti', 'lozie wiot', 'lsuie woht'}, {'lzuiy wotw', 'lociw woto', 'luuis woud', 'leuaq wtha', 'loyws whdd'}, {'locii woit', 'lzuii woht', 'lhuhj wtau', 'loziw wuwd', 'luuis wuod'}, {'luisy weot', 'louus waod', 'loews whot', 'lyoic wdui', 'luuws wowt'}, {'louos wuod', 'loziw woyt', 'lozie wewd', 'losiw wuwd', 'lhuhj wytt'}, {'loeuk wdyw', 'lauys wewd', 'louss woid', 'louse wout', 'lsoui wote'}, {'loiws weyd', 'leyes wdda', 'lzuiu wewd', 'losii woet', 'louhs wohd'}, {'louos wuod', 'louwz whyd', 'luisu wwot', 'lyuyq wwdt', 'luuys wiyd'}, {'lyiic wwwt', 'louos wohd', 'lsoui woty', 'lowys wota', 'loghs wiwd'}, {'lhuso wthe', 'liuws wayd', 'loois wiod', 'loisu weot', 'loghs wiyd'}, {'lauji wdti', 'louza wiyd', 'locih wowt', 'lociy wott', 'louos wohd'}, {'louzw wodw', 'losih woet', 'luisa wota', 'louhs wuod', 'luiig wwti'}, {'louzw whdd', 'loyws wayd', 'loisa whwd', 'lyaic wydu', 'louus weod'}, {'lowss waot', 'liuis waod', 'lehiq wddt', 'luiso wodw', 'lousi wwot'}, {'locio weot', 'loiis waod', 'lozii wota', 'loiag wtdy', 'liuws waot'}, {'loyex wtuy', 'loews woet', 'loois wiod', 'locih wote', 'lsuiu wuyd'}, {'lowws whwd', 'louos wwod', 'loays woyt', 'lsuio wuyd', 'leuax wtew'}, {'liuis wohd', 'loeys wiwd', 'louzi whwd', 'lociy wayd', 'luueq wtyo'}, {'loais woed', 'locie wayd', 'lowss woat', 'lwaiq wdeh', 'lzuih wuot'}, {'lsuii wiyd', 'luisy wout', 'louzo wewd', 'lauwx wdiy', 'louss wiod'}, {'loisi wuwd', 'lzuie woto', 'lwuki wtwo', 'louus woed', 'locio wout'}, {'loews whwd', 'lowyq wtuo', 'locie waot', 'luuis wiod', 'lsuih wwot'}, {'lsuih wote', 'louus wwod', 'loyss woyt', 'looji wyht', 'loziy woat'}, {'loisu whdd', 'looys woht', 'louus woed', 'looag wdhy', 'liuys wotw'}, {'louzi wewd', 'luhic wyet', 'lauis wwod', 'losiw whyd', 'looys wout'}, {'louze wott', 'liuis wuod', 'lieic wddo', 'leuws whot', 'lzuii wote'}, {'louhs wiod', 'lowws woit', 'lsuia wuwd', 'lowys weot', 'liwig wtuw'}, {'lywik wdtu', 'lzuie wotw', 'lsuiu whwd', 'lzoui woyt', 'loiis wwod'}, {'lsuiy wuyd', 'lzuie wwot', 'loisy wody', 'leeix whdh', 'loais weod'}, {'lluws woet', 'lohys wotu', 'lociw wiot', 'leuux wtdo', 'loues woid'}, {'lhwic wdio', 'louas wwod', 'luise woht', 'loows whdd', 'lzuiy weyd'}, {'lheic wdti', 'lluws wiyd', 'luiso woat', 'loeis wiod', 'leuws wote'}, {'lhhas wtio', 'lowys wwot', 'lsuiu wotw', 'louyz waot', 'liuis wuod'}, {'loais woud', 'loghs weyd', 'loyys woat', 'leuwx wtwi', 'loziu wayd'}, {'luuyk wyty', 'lzuiw whot', 'lohys woto', 'louss woad', 'louzw whyd'}, {'louiz weod', 'liwiq wydt', 'luiso wote', 'losiy wott', 'locie woit'}, {'lsuia woit', 'losii wotw', 'lozii wota', 'loyuq wtya', 'louos whod'}, {'lsuiw wayd', 'losiw whot', 'lowws wotw', 'lauuk wtda', 'leuis whod'}, {'louas woud', 'lhuaj wtea', 'locii wote', 'luisa woyt', 'liuws wotu'}, {'laeic wtyi', 'lociu wotw', 'luuws wuwd', 'lousu whwd', 'leuis whod'}, {'lhuax wwht', 'louzo whdd', 'lociy wuot', 'loeis waod', 'losiy waot'}, {'loeis wohd', 'lzuiw woit', 'lauoj wdte', 'lsuiu weot', 'loyss wwot'}, {'lousi wodw', 'loeis wodd', 'lociy woti', 'loiys whyd', 'luyiq wdww'}, {'luuwx wduy', 'losii wayd', 'loziu wewd', 'lozia weyd', 'lauis wiod'}, {'lzuio wotu', 'loeis whod', 'loiek wdhu', 'lohys wiyd', 'luiws whot'}, {'luuis wiod', 'louzo wiot', 'louzw wott', 'lyaus weth', 'louyz wowt'}, {'loeis wwod', 'loyqi wdha', 'losiw woty', 'lsuia woti', 'loyws whot'}, {'leuhj wdhh', 'loise wotw', 'loyss wiwd', 'lociy woet', 'leuis woed'}, {'loziy wiwd', 'loisu weot', 'louiz whod', 'lowys wowt', 'lohec wdey'}, {'lousu wowt', 'louze wwot', 'lsuiy wiyd', 'lehas wdyu', 'loois wohd'}, {'louas waod', 'lsuiw wayd', 'luuhj wttw', 'loziu wewd', 'lzuii woty'}, {'lhuoc wydy', 'lzuie wayd', 'lauys wote', 'leuis wohd', 'loows woat'}, {'louyz woyt', 'laeiq wthi', 'louzu whwd', 'lociu weyd', 'loues wohd'}, {'lociy wiot', 'lyuji wduo', 'lozio wiwd', 'lozii woyt', 'leuis whod'}, {'louos wiod', 'luisa wota', 'lauys wuot', 'leaiq wwte', 'luiws whdd'}, {'lousw wody', 'loehk wtwu', 'loues woid', 'louzy wotu', 'loisw woit'}, {'losih woit', 'loeis weod', 'lsuiy wiwd', 'lociw whot', 'luuec wteh'}, {'lahas wdea', 'loyys wowt', 'lousa wuwd', 'liuis woed', 'losii wiyd'}, {'lyuaz wtye', 'locih wody', 'losiu wote', 'lauis wiod', 'loeys whwd'}, {'louci waot', 'losii wote', 'lowex wyte', 'louas whod', 'lozih weyd'}, {'louzi woty', 'louzo wota', 'loues whod', 'luisw wuyd', 'loewk wwht'}, {'losui wowt', 'loehk wtww', 'luuis wuod', 'lsuie wotu', 'lsuiy weyd'}, {'lauws whwd', 'loise whot', 'lowug wwtu', 'louhs woid', 'lzuih woat'}, {'luiws woat', 'lhwus wtyo', 'lsuie woyt', 'lauys wott', 'louss weod'}, {'loeis wuod', 'louci woti', 'lyeas wtie', 'lzuiy woat', 'lociy wote'}, {'liuyc wwwt', 'lauis wohd', 'louyz wote', 'liuys wwot', 'lozih woty'}, {'luisi wote', 'lowwk wtww', 'louhs wodd', 'lauws wout', 'luuys woit'}, {'loois wodd', 'lowuc wdyo', 'louzy wwot', 'lzuiw wiot', 'lohws wote'}, {'loiwx wyit', 'lozui wota', 'loues weod', 'losie woet', 'loays waot'}, {'lhuoj wwdi', 'liuis woed', 'lociu weyd', 'loise wwot', 'loays wowt'}, {'lluis woid', 'liuec wtae', 'luiso wodw', 'loziw wotw', 'lzuie woet'}, {'lzuiy wotw', 'lyuec wtah', 'loisy wiwd', 'luisw woat', 'leuis wiod'}, {'lociw wiyd', 'louzw wowt', 'lozii whwd', 'louhs wwod', 'lowuk whdt'}, {'loisy waot', 'lwaiz wdwh', 'louss woud', 'lowws wote', 'lzuih wwot'}, {'lzuiy whot', 'liuis whod', 'leyik wdie', 'louzo woet', 'losiu wuyd'}, {'leuws woyt', 'loeys weot', 'lwuhj wteu', 'lousw wayd', 'loais wodd'}, {'louiz wohd', 'luisa wott', 'loziy woto', 'laeiq wdaw', 'lzuiu weyd'}, {'laeix wtua', 'louos woid', 'losih whot', 'lzuiy woet', 'lsoui wota'}, {'loucy woat', 'lsuii whot', 'lyusi wdui', 'louus wiod', 'lowws waot'}, {'luisi wota', 'leuwq wttu', 'lowss whdd', 'loiso weot', 'louos wohd'}, {'loiws weyd', 'lsuih wout', 'lousa weot', 'liuis wuod', 'loyaq wyht'}, {'louza waot', 'lozii wuwd', 'loues woad', 'loisi whot', 'loowx wdii'}, {'lluis wohd', 'looag wwto', 'lozie whwd', 'louze whot', 'locio wote'}, {'luuis whod', 'louse wiyd', 'lozio weot', 'loyys woty', 'lyusi wdwu'}, {'lociw weot', 'lozie wodw', 'loowc wyda', 'liuws wiwd', 'liuis woud'}, {'lauyk wtae', 'lzoui weyd', 'loiis weod', 'lsuia woti', 'lohys wodw'}, {'loziw wout', 'lzuie wodw', 'laeiq wwdh', 'louas woed', 'louwz waot'}, {'lsuio wout', 'lzuih wody', 'liuis waod', 'lyuhg wtht', 'lociy whdd'}, {'lociu wiot', 'louas wuod', 'lwuoq wyut', 'lowys whwd', 'lzuiy wewd'}, {'louzy whyd', 'luisy whwd', 'losih wotu', 'leuji wduh', 'louos woed'}, {'louyz wayd', 'liwij wdho', 'losui wiot', 'luiso woit', 'louos wohd'}, {'louce wwot', 'loisa wuwd', 'loues woad', 'lyhas wdia', 'loews wewd'}, {'loues whod', 'louce woyt', 'losie wuwd', 'lsuia wody', 'lhoic wtiu'}, {'lohws woht', 'louus wwod', 'leyix wdyw', 'losih whot', 'losiu wwot'}, {'luisu wiyd', 'luiws wota', 'lsuiy waot', 'lluis weod', 'luueq wtyw'}, {'loyws woht', 'luise woet', 'louhs whod', 'luisu wwot', 'lyyic wyit'}, {'lauys woet', 'lluys wout', 'luuys woty', 'loeis woid', 'laoik whht'}, {'loeok wdao', 'luisy wout', 'loues whod', 'lousa weot', 'lsuiu wiot'}, {'lluis waod', 'lueiq wtde', 'loyws wewd', 'loisy wiwd', 'loziy woit'}, {'louce wowt', 'laoic wyht', 'lzuie woty', 'lohys wodw', 'lauis wwod'}, {'lowys wewd', 'louzy woto', 'louos waod', 'louza wuot', 'leuwq wtyi'}, {'lauws wayd', 'loeis whod', 'luuws waot', 'loiys weot', 'lyaiz wtth'}, {'looys woti', 'luise whwd', 'loais wuod', 'louce woty', 'lhuec wdwi'}, {'louhs woad', 'lsuii whot', 'lociw wotu', 'lohys whyd', 'luueq wdew'}, {'loeis wwod', 'lowek wtuh', 'lzuih wowt', 'luuys wewd', 'loziy waot'}, {'lauws weyd', 'leyos wwte', 'lzoui wewd', 'loois whod', 'leuys waot'}, {'leuys wewd', 'lwuag wtea', 'lousw wuwd', 'louas woid', 'locii wiyd'}, {'lauis whod', 'lsoui wwot', 'loisa wiot', 'lhuak wdia', 'lauys wott'}, {'luoig wdau', 'louas weod', 'locii wayd', 'luisa wota', 'lowys wowt'}, {'lsuiu wuwd', 'lzuia wotu', 'loues wodd', 'losiu wewd', 'lyuag wdei'}, {'lociw woto', 'lowws wiot', 'loahj wath', 'lozie wiwd', 'loiis woad'}, {'loois woud', 'lsuio woto', 'lhyes wtye', 'lauws wwot', 'lohys wodw'}, {'lzuih wuwd', 'louso wody', 'luuis weod', 'layes wtah', 'lousa woto'}, {'lsuii woet', 'loiis whod', 'loyux wtuh', 'louce wuot', 'lohws whyd'}, {'lluws wuot', 'lowux wddy', 'lzuia wote', 'lzuiu whyd', 'lluis whod'}, {'loisa wota', 'lowok whdh', 'lociu weot', 'locih wiwd', 'louos wohd'}, {'lzuie wotw', 'loyss woit', 'luuws wott', 'louos wohd', 'liuyq weth'}, {'lsuia weot', 'luisw wiyd', 'lsuiy wewd', 'lyaic wtih', 'loiis woid'}, {'lhuyc wdwi', 'losiy woto', 'lauis wohd', 'louzw wiyd', 'luiys wotw'}, {'loews weyd', 'louos wiod', 'lluws wuyd', 'liuoc wyto', 'lzuio wodw'}, {'luuis wiod', 'luueq wtao', 'louse woyt', 'lzuia woit', 'lozih waot'}, {'locio woit', 'lsuie wayd', 'lyuax whdt', 'lzuia wout', 'luuis wuod'}, {'loyss woat', 'louhs wiod', 'lzuiu woto', 'lwaiz wtyo', 'loiys weot'}, {'lsuiw wody', 'loisw woet', 'louyz wiyd', 'louss wuod', 'luiik wthw'}, {'loews weot', 'louhs wiod', 'lyuac wyet', 'lsuie wotw', 'locii wowt'}, {'loywx wdii', 'loiis weod', 'losiw wayd', 'losie wotu', 'louzi wodw'}, {'lousu wiot', 'lyugi wyti', 'lzuiw woyt', 'locio wowt', 'loeis woud'}, {'loais whod', 'loisw wiot', 'laiik wtwh', 'louzo wody', 'liuws wodw'}, {'losiu waot', 'luiys woit', 'lozio wout', 'louiz wuod', 'loyec wdia'}, {'louos wuod', 'lzoui whwd', 'loiso woit', 'loyuq wdwu', 'louze wiyd'}, {'lzuia woto', 'lzuio woyt', 'loues waod', 'leuws wiwd', 'lwaiz wyta'}, {'louos wuod', 'lowwk wtte', 'liuys whwd', 'losiy wotw', 'lozii weot'}, {'loeis whod', 'louyz wuot', 'lzuii waot', 'lsuia wuwd', 'luiic wtdy'}, {'louwz wote', 'loiuj wtho', 'luuis woid', 'lluys wuwd', 'liuws woty'}, {'lowss woht', 'liwos wtay', 'losiw wotu', 'loyws wwot', 'lluis whod'}, {'lzuiu woat', 'lluys woto', 'lauhk wdeu', 'loois wohd', 'losie wiot'}, {'lowwx wdiu', 'luisu wody', 'luuis wwod', 'lsuii waot', 'loows wwot'}, {'lohys wuyd', 'losii whot', 'lyaic wdao', 'louos wodd', 'luuys whdd'}, {'loyeg wdyw', 'luisw wuwd', 'louss woid', 'lzoui wote', 'lohys woit'}, {'loiuc wdwe', 'louwz wotu', 'luuis waod', 'lsuiu wuot', 'locih wout'}, {'leuis woud', 'lousi wiyd', 'lzuia wuyd', 'lousw whwd', 'lyuyj wdwu'}, {'lluis wwod', 'locie woti', 'losiy woyt', 'lzuii wotu', 'luuec wydo'}, {'luisw wody', 'luuws whwd', 'louss wuod', 'locio waot', 'liuki wwdt'}, {'loexi wydo', 'lzuiy wiwd', 'louzo wuyd', 'loyws waot', 'louus wiod'}, {'lsoui wiyd', 'losii whyd', 'locii waot', 'luiiq wdwa', 'louss whod'}, {'lzuii woht', 'louzu whwd', 'loiis woud', 'luisy woty', 'luyij wydi'}, {'lzuie wayd', 'lohys whyd', 'loiis woud', 'lyios wtiy', 'lauys weyd'}, {'lozio wotw', 'luuws wiot', 'leuhj wwtu', 'lzoui wott', 'lluis woed'}, {'louss wohd', 'louwz wout', 'lyius wdau', 'lluys wotu', 'lousa weyd'}, {'loeji wyda', 'louus wwod', 'lowys wuwd', 'loyws wewd', 'loyys woty'}, {'luisw woht', 'louzw wotw', 'lueik wddo', 'leuis wuod', 'luuws whdd'}, {'lhhos wdah', 'lzuiu woyt', 'louss woad', 'loziy wuwd', 'losie woet'}, {'lousw woti', 'lwoiq wyta', 'lozih woit', 'lluis woad', 'locio woyt'}, {'lzuih wota', 'luyus wtyy', 'lociy wuyd', 'louzi woto', 'loues wiod'}, {'loeeq wwtw', 'lzoui woyt', 'losiu whdd', 'leuis woed', 'louse wuyd'}, {'loziw weyd', 'luuwc wduw', 'louiz wuod', 'lowss whot', 'locii wody'}, {'lwyes wtew', 'lozui wote', 'louso wotw', 'lousu woht', 'louos woed'}, {'lauis wodd', 'leuwq wtwe', 'lluys wayd', 'losiy woet', 'lozia woat'}, {'lousa wowt', 'luiij wthw', 'louus wwod', 'locih woyt', 'lauws wout'}, {'lyuhj wdih', 'louiz wohd', 'lousw wodw', 'loziy woet', 'looys wwot'}, {'loisa wott', 'louiz weod', 'loghs whot', 'lyyos wdue', 'louzy woit'}, {'lowss wayd', 'loiys wodw', 'louas woad', 'loisi waot', 'lyisu wtwu'}, {'lluys wowt', 'lhaic wyyt', 'lociw woat', 'luuws wuot', 'lluis woed'}, {'lousy weot', 'louhs woad', 'lhuwc wddu', 'luisa whyd', 'locii wiyd'}, {'loisy wout', 'lheic wddy', 'loghs wota', 'lauis woad', 'luuws whdd'}, {'loziu woat', 'liyes wydu', 'lluis woud', 'lsuii wody', 'luuys weyd'}, {'loyuz wwtt', 'lsuiw wowt', 'lauis wodd', 'luiws wiyd', 'lsuio woti'}, {'lehix wtee', 'louus weod', 'lsoui woty', 'lzoui wowt', 'loisu woit'}, {'lsuii wotu', 'lluis woid', 'loisy wote', 'lsuih waot', 'luuek wyte'}, {'luuis woad', 'luisy wotw', 'luoik wdtw', 'lociy whdd', 'lousy wayd'}, {'leuuq wdht', 'louss woad', 'locio waot', 'losii wout', 'louzu woet'}, {'lluys woht', 'louzy wuwd', 'lociy weot', 'loais woid', 'luyig wddu'}, {'loziy wotw', 'leaiq wdea', 'loziw whyd', 'louus woed', 'louzi wuwd'}, {'loues wuod', 'louwz wote', 'leuex wtau', 'luisy weyd', 'lozih whyd'}, {'lzuia wiot', 'lzuii wuwd', 'lhyus wteo', 'loues waod', 'liuws wodw'}, {'loeys wiwd', 'lhuoj wtao', 'louus woud', 'losii wuot', 'losiu wwot'}, {'looys weot', 'lozui wuot', 'loziu weyd', 'louos woid', 'leuxi wtei'}, {'lauis whod', 'leuws weyd', 'lozia wuyd', 'liuji wwdy', 'loiys wowt'}, {'loeis wwod', 'lozia wott', 'lohaz whht', 'lzuiu woto', 'louyz woet'}, {'losie waot', 'lsuiu wody', 'louss wodd', 'leuys wuwd', 'luuek wtdw'}, {'loiis weod', 'lyyij wdao', 'locio wuot', 'losih whot', 'loiys woit'}, {'lauis whod', 'locie whot', 'lyaig wtdo', 'loyss wewd', 'lousa wiyd'}, {'luiix wtde', 'louiz woid', 'loyss wody', 'lzoui woyt', 'loghs wott'}, {'locih waot', 'lyyig wdua', 'lluis waod', 'lauws wiwd', 'losih woti'}, {'louus wwod', 'loisa wowt', 'loziy wody', 'lauex wdde', 'loyys whdd'}, {'looys woti', 'lzoui wewd', 'louso whdd', 'louos whod', 'lwwiq whth'}, {'louwz woyt', 'lowws wotw', 'loeis wodd', 'losiy waot', 'lheic wydh'}, {'louzo weot', 'louus wodd', 'lywik wdye', 'lzuiy wayd', 'luise wota'}, {'louos waod', 'locii whyd', 'locie woto', 'lowuj wdiu', 'luise wota'}, {'liuws wote', 'luise woyt', 'loues woad', 'luwic wtta', 'lozui wotw'}, {'lwaiq whdt', 'lluis wohd', 'leuws wout', 'lohws woat', 'loziy whyd'}, {'luwik wtih', 'loews wiwd', 'losiu waot', 'liuws weot', 'louiz wuod'}, {'lousa wott', 'louyz wewd', 'lohws weyd', 'luaij wdwt', 'lauis weod'}, {'loues wuod', 'lozih wotu', 'luisa wewd', 'lzuia whot', 'lwoic wtua'}, {'lowss woat', 'liuws whyd', 'lozio wota', 'loeis woud', 'loihj wtwi'}, {'lohws whdd', 'lwueq wtda', 'loucy wayd', 'louhs woud', 'lzuio woat'}, {'lociw wody', 'lhuex wdwh', 'louhs whod', 'loghs woit', 'luuws wote'}, {'loucy wuyd', 'lauys wody', 'louso wotw', 'loois waod', 'lwyiq wtwo'}, {'liuis wwod', 'loows wuyd', 'lwuhq wwde', 'luisa wody', 'lowss wota'}, {'lzuiu wiot', 'louiz woid', 'louza wott', 'lozui waot', 'loexi wtuo'}, {'lhuci whdt', 'louiz woud', 'louyz wota', 'losih wotu', 'loyys whwd'}, {'lhuox wdde', 'luisa wowt', 'losiy wuyd', 'lowys whot', 'lauis weod'}, {'loais whod', 'louzu whwd', 'lsuie whyd', 'louse woat', 'leyus wdtw'}, {'luaic wteu', 'lzuih wayd', 'luisy wiot', 'louss wiod', 'luiws wuot'}, {'luisw wotw', 'loise wowt', 'lozio woet', 'louus whod', 'lewix wyut'}, {'loyss wott', 'leuws woti', 'louhs woid', 'lousw wuyd', 'leoic wdhy'}, {'losui woht', 'luisu woet', 'lyoes wyti', 'louiz wwod', 'losii woit'}, {'louzu wuyd', 'lauis whod', 'loiys woht', 'luaij wtew', 'lzuii woty'}, {'lwuex wtwt', 'looys weot', 'loues wodd', 'losiu whdd', 'locio waot'}, {'lluys wowt', 'luisi wodw', 'lozui woit', 'loues weod', 'liuex wytw'}, {'leyhs wwyt', 'lozia wout', 'louza wodw', 'loeis waod', 'loews waot'}, {'loews wiyd', 'lousy whyd', 'lozia wiwd', 'loiis wwod', 'lueij wdeu'}, {'louiz woed', 'luiys whyd', 'lsuii woto', 'lozia weyd', 'lohhj wtae'}, {'lzuih wuwd', 'loziu woat', 'louus whod', 'lyyik wday', 'loziw wote'}, {'louzo wott', 'leuyk wyde', 'lozia woht', 'leuys wotw', 'luuis woed'}, {'lohwx wdau', 'lowys woit', 'luuys wody', 'luuis woid', 'lsuii waot'}, {'lozia wwot', 'loawx wdai', 'losih weot', 'liuis woud', 'locii woat'}, {'lousy wotu', 'lsuii woti', 'luuis woid', 'loisw whyd', 'liwhs with'}, {'louzu whot', 'lluis wodd', 'louyz wotu', 'loyws wota', 'lyyic wdea'}, {'louzy woht', 'lozia wiwd', 'lluis wodd', 'lyuhj wdyi', 'loucy wiyd'}, {'luiys woit', 'losui woht', 'luuys woti', 'luouc wwte', 'loiis woid'}, {'loisy wotu', 'loues wodd', 'lociw whwd', 'luuwj wtte', 'lzuih wwot'}, {'lowws wody', 'loeis whod', 'lohws wott', 'lozia woht', 'lheic wtwh'}, {'luiso woti', 'louss woad', 'loiws waot', 'lsuie wotu', 'luiik wydu'}, {'loisa woht', 'louos woid', 'lhaic wdyi', 'loziu wewd', 'lzuih woit'}, {'lsuia woht', 'loows wuot', 'lwuyz wtea', 'lsuio woyt', 'leuis wiod'}, {'lzuih wowt', 'lozio wote', 'lauoj wdeh', 'luuis wwod', 'losiy weot'}, {'lyihs wduo', 'luisy wota', 'loiis wwod', 'louse woty', 'lluys weyd'}, {'louci woit', 'loiso woti', 'leuis wwod', 'lhhas wtdy', 'lauys woat'}, {'louzo woit', 'leiiq wduu', 'louos weod', 'lsoui weyd', 'losiw wewd'}, {'lsuiy wuyd', 'lozio wwot', 'lewik wdao', 'losii woto', 'luuis waod'}, {'luise wiot', 'lauws wote', 'louce weot', 'louus woid', 'looji wdia'}, {'luuis woad', 'losii wody', 'luisw woty', 'lhwic wdti', 'loeys wayd'}, {'loziy wotw', 'louhs whod', 'lousi waot', 'lyyus wtia', 'lsuia wuyd'}, {'lzuia wiot', 'louas woad', 'luisw wout', 'lauys wodw', 'liwik wyut'}, {'losiw wotu', 'lyaiz wytw', 'loais wuod', 'loiso woto', 'louci wowt'}, {'loisi wiwd', 'lyoic wtuh', 'liuis woed', 'lociy wuyd', 'loise wota'}, {'lluws weyd', 'lauis woed', 'lousw wuwd', 'liuys woto', 'loywc wdau'}, {'lsuia woet', 'lauek wtao', 'lzoui whot', 'liuis weod', 'lousa woty'}, {'leuox wtdo', 'loeis wodd', 'luiys wota', 'loows woty', 'loeys wiyd'}, {'louhs wiod', 'leyhs wyda', 'luisa wodw', 'lzuio wayd', 'locio woht'}, {'loisw wiot', 'lowws woyt', 'louos wwod', 'liyus wtiu', 'lsuiy woti'}, {'luoiq wthy', 'locih woet', 'luiso wote', 'loiis weod', 'louwz wotu'}, {'loues wuod', 'louzu wody', 'lauex wdwa', 'lzuio wewd', 'loays woet'}, {'louzw wowt', 'louas woad', 'locie wuwd', 'loisi wiwd', 'lahos wdwh'}, {'lzuiw wuwd', 'louze wout', 'lyhic wwtw', 'lauis wiod', 'loisw wowt'}, {'locii wuot', 'luuex wdiw', 'louos wiod', 'losui wuwd', 'louzo wout'}, {'lowys wewd', 'leuis wwod', 'lyaiz wddo', 'losii wodw', 'louse wuyd'}, {'loeis wohd', 'luuji wtwh', 'luiso wout', 'luuys weyd', 'lohws wayd'}, {'locih woyt', 'lsuie wotw', 'lousw waot', 'loues waod', 'lowek wwdi'}, {'lousy weyd', 'louas woud', 'lhuec wtaw', 'losiy wayd', 'losii whdd'}, {'lauoj wdiy', 'loyss wota', 'leuis wwod', 'lousa wuot', 'louzo woto'}, {'lauek whht', 'louzo wuyd', 'lzuiw whdd', 'loois woad', 'loisw wotw'}, {'liuys wody', 'lzuiw woit', 'louus weod', 'lzoui whwd', 'lyuak wtha'}, {'leuis woid', 'lzuih wiyd', 'luisi wott', 'loyek wwdy', 'lauws woti'}, {'lzuia whwd', 'loais woed', 'lzuih woty', 'luuhj wdwi', 'loucy wuwd'}, {'lzuih wuwd', 'lhuoq wtdi', 'louus wwod', 'lsuiu wott', 'losui wotw'}, {'liuis waod', 'loisy wout', 'lociw wiwd', 'loyeq wtyi', 'lousu whot'}, {'lauhj wydh', 'loyss wodw', 'louyz woet', 'locie woty', 'loiis woid'}, {'loois whod', 'lohys woty', 'loisa wuyd', 'luisy whdd', 'lwuhq wyat'}, {'lhusi wyti', 'luisy woyt', 'lluws wowt', 'lzuih woit', 'louas woed'}, {'lzuia wuwd', 'louus wuod', 'louzi wott', 'luwus wdte', 'loisa wotu'}, {'lhusi wtei', 'losiw wiot', 'louhs wohd', 'lzuii woto', 'loyys weot'}, {'lhuyc wtyi', 'luiys wote', 'louss whod', 'lzuiu wuyd', 'louci wwot'}, {'loues wuod', 'louci whwd', 'loziy woty', 'looag wdiu', 'lousw wiot'}, {'lauis woud', 'lsuie wewd', 'lyaus wwwt', 'lzuii wout', 'louzo wayd'}, {'lywas wthh', 'lousa wott', 'loiys wota', 'loiis weod', 'looys wiot'}, {'lohys wuwd', 'lzuiw wuot', 'luueg wtye', 'louus weod', 'locii wayd'}, {'lsuia woit', 'liwix wuth', 'luuys woat', 'loyss wody', 'leuis wiod'}, {'lociy weyd', 'loisy wody', 'louzu woht', 'liwes wtew', 'liuis woed'}, {'leuis woud', 'lyuyj wdaa', 'loisy wodw', 'lsuio woti', 'lsuie wuwd'}, {'losiu wota', 'loisy whdd', 'louas wodd', 'loyji wwwt', 'lozia wuwd'}, {'lhuhj wdwo', 'lozia wote', 'loues whod', 'loisu wody', 'lsuio woht'}, {'leuhx wyyt', 'lousu waot', 'louiz wwod', 'loeys woti', 'losii wewd'}, {'loziw woty', 'lyoiq with', 'lsuiw wody', 'lociy wiot', 'luuis woed'}, {'louas wuod', 'lzuio woet', 'lauag wtui', 'lzoui whot', 'lousi wuwd'}, {'louci wayd', 'lzoui weyd', 'loise woht', 'lueik wyda', 'lauis wiod'}, {'loois wwod', 'lzuii wody', 'lousu whdd', 'lwuuz wddh', 'loisa wwot'}, {'lauws wiot', 'lzuia whwd', 'loeis whod', 'lzuio wodw', 'lyiic wdea'}, {'leeix wdyh', 'losie woit', 'loucy wewd', 'loghs wodw', 'louss woud'}, {'loisu wote', 'louyz weot', 'lyiic wtea', 'lsuiw whot', 'louas woed'}, {'loois woud', 'lsuiu wote', 'lousw whot', 'laeic wdho', 'lozie wodw'}, {'loiso wout', 'lyyix wtiu', 'loews wowt', 'louas weod', 'louzo wwot'}, {'leuyk wtie', 'looys wote', 'lsuia wuot', 'lauis weod', 'louzy woat'}, {'loziw wuot', 'lousa wott', 'louos wodd', 'lyyus wteh', 'lousi woto'}, {'lowws woat', 'loiis whod', 'lsuii wwot', 'locie wott', 'luyas wtei'}, {'lsuia weot', 'louce whwd', 'loais woid', 'luaik wtio', 'loyys wuwd'}, {'lwuyz wttw', 'lowss wody', 'louze whdd', 'lluis whod', 'luiys woyt'}, {'luiys wiwd', 'louhs woad', 'luaij wdew', 'loziw woit', 'lzuii whdd'}, {'lzuia wayd', 'loiex wywt', 'lsoui woht', 'lauis wiod', 'lsuie woit'}, {'lauuk wtho', 'liuis waod', 'loisy wout', 'locii woyt', 'luisu whdd'}, {'lohys wuwd', 'lowag wtee', 'luisu woat', 'lsuie woyt', 'loiis wwod'}, {'loyeg wwti', 'lociu woto', 'luuys wody', 'louiz wwod', 'loisw wowt'}, {'lozui weyd', 'looys wotu', 'loues woad', 'lsoui woit', 'lhyus wdta'}, {'louci wuyd', 'losie woti', 'loeis waod', 'lyoes wdyi', 'lzuii woto'}, {'loise wiwd', 'loisw woet', 'lzuii waot', 'loais wohd', 'luoki wddw'}, {'louss wodd', 'lozui wotw', 'loows whot', 'luise whyd', 'lywus wtuo'}, {'lzuia weyd', 'lozih whot', 'lozia woht', 'loois woid', 'luuwj wddy'}, {'louzw whdd', 'loewc wtwt', 'loyys woti', 'louzo wody', 'liuis woud'}, {'louss wohd', 'luuuj wdda', 'louzy wewd', 'losih wayd', 'locio wuwd'}, {'lsuio wodw', 'louza whdd', 'louzu wotu', 'luuis wwod', 'lyisu wduw'}, {'lohuj wtdo', 'luuis weod', 'loyys wott', 'losui weyd', 'louzw wout'}, {'luisi wout', 'lousa whwd', 'losii waot', 'lhoic wwda', 'louss weod'}, {'lsuiu wiyd', 'lzoui wody', 'loziw wewd', 'louhs wuod', 'lyuug wdtu'}, {'luyic wtuh', 'lociw waot', 'lluis woad', 'lzuiw woyt', 'loews wuot'}, {'lyuwc wdia', 'loiws wodw', 'loiis wiod', 'lzuie weot', 'leuws whot'}, {'lwuuq wdto', 'lsuii wuyd', 'liuys wiwd', 'lsuih woto', 'lauis woad'}, {'luisa wwot', 'lyoys wtye', 'louas weod', 'lociu weot', 'loays wotw'}, {'loyux wdyw', 'lozio weyd', 'loeis woed', 'liuws wotw', 'lsuio woat'}, {'lsuia woit', 'loais woad', 'loucy waot', 'lozio wodw', 'luuhj wdyu'}, {'lowss woet', 'luuec wtdw', 'loziu woto', 'lozie wuyd', 'lauis wwod'}, {'lhuwx with', 'losiu woty', 'losiy wuot', 'lousu woht', 'loois weod'}, {'lhuso wdua', 'lauis woud', 'louzw wowt', 'louza wuot', 'loisi wotw'}, {'lousy wewd', 'loois woid', 'losiy wout', 'lihas wtau', 'loisy woti'}, {'lohys wott', 'louhs woad', 'lousy woet', 'lozui woit', 'lyhig wtai'}, {'louse weyd', 'laoik wyut', 'lauis woid', 'lzuiu wotw', 'louso whyd'}, {'loyys wote', 'loays wodw', 'louss woud', 'loiso wiot', 'lhuox wdaa'}, {'loziu weot', 'loais waod', 'lousa wote', 'loowx wtuw', 'losih wuot'}, {'lozio wwot', 'loois wwod', 'laiik wdtu', 'louzu woto', 'luise wout'}, {'lyuog wdwy', 'luisu wiyd', 'lozii wott', 'loais wuod', 'lzuiu wuwd'}, {'loiso wayd', 'luuws woyt', 'leuki wdiy', 'leuys wuyd', 'louus wodd'}, {'loyws wowt', 'lluws woet', 'loghs whot', 'loeis wodd', 'luouc wdwt'}, {'loeys whdd', 'lozio wotu', 'louus wwod', 'loawx whdt', 'luuws weot'}, {'lauwc wduu', 'louzo wott', 'lowws whot', 'luuws wody', 'loais wodd'}, {'losiu wody', 'louos wwod', 'louzy whdd', 'loiys whyd', 'loehk wydi'}, {'loziu whwd', 'liwix wtwi', 'lauis weod', 'lzuio wodw', 'liuws wody'}, {'loiws wiwd', 'loiso wota', 'loois weod', 'lociw wuot', 'lowji wddy'}, {'luisw wody', 'leuis woid', 'lzuia wowt', 'lowhk wdey', 'lauws wout'}, {'loyeq wwde', 'loisu wowt', 'luuis woed', 'loows wota', 'lzuiw wuyd'}, {'luise wuot', 'louwz whwd', 'loiis whod', 'lewus wdiw', 'lozih whyd'}, {'lsuio woet', 'lhwus wtta', 'lousy wwot', 'louus wiod', 'lociy woht'}, {'loeis wwod', 'loisi wuwd', 'lzuia wodw', 'luuwx wdyh', 'lauws woet'}, {'loeis wwod', 'lowss waot', 'luise whwd', 'luuys wiyd', 'lowhk wyde'}, {'loais wiod', 'losih wotw', 'lyuyc wtio', 'lluys weot', 'lousu wout'}, {'loiis waod', 'lzuie wwot', 'loziy wotu', 'liyic wtyu', 'lozui woht'}, {'lzuii wody', 'losiw wuot', 'layes wtte', 'liuis weod', 'lousa weyd'}, {'luuws wewd', 'lhuyq wdhh', 'loeys wuwd', 'louso weot', 'leuis weod'}, {'lociy weyd', 'lsuiw wout', 'loywx wyta', 'loiis woad', 'loziu woti'}, {'leuis woud', 'luwus wtha', 'lozia woto', 'lozie weyd', 'louze wiot'}, {'luise weot', 'louzy woto', 'louiz weod', 'luuys wwot', 'liwos wddh'}, {'liuis waod', 'lociu woto', 'lohws wowt', 'lousa wuyd', 'lywik wtiu'}, {'lluws wodw', 'loiys woht', 'loois woid', 'liuws wiwd', 'liyiq wtah'}, {'luisi whyd', 'loiis woed', 'loiys weot', 'luisa woyt', 'liuoc wtiu'}, {'luise wuot', 'loews wiot', 'loiuc wdyh', 'louus woid', 'luisy wotu'}, {'luiso woty', 'loues weod', 'lociu weyd', 'lhyiq wdau', 'lousa woit'}, {'liuis wohd', 'lozia woto', 'lhyes wwto', 'losiu wiot', 'loisw wotw'}, {'luuys wowt', 'loiys wota', 'lozih wodw', 'lluis whod', 'lyeas wytw'}, {'louos wuod', 'lsuie wayd', 'lwueq wdhe', 'loisu wiot', 'luuys whdd'}, {'liuis waod', 'louzw woto', 'lousy wiwd', 'luwes wduh', 'louzy whwd'}, {'lzuiw whot', 'liwiz wdya', 'lsuiw wiot', 'lociw wotw', 'lauis wwod'}, {'locih whot', 'loisa wiwd', 'lauis whod', 'louce woat', 'lhuox wwde'}, {'losii wuyd', 'luwiq wdwh', 'luuis whod', 'lohys woti', 'looys wewd'}, {'loise waot', 'lozii wott', 'lyeas wdhy', 'louss wodd', 'lzuih weyd'}, {'lzuiy whot', 'louus wwod', 'luiso whwd', 'lzuii weyd', 'loyeg whht'}, {'lzuiw wiyd', 'loyss weot', 'louas wohd', 'layos wttu', 'lousu wwot'}, {'lsuie wuyd', 'loyys wwot', 'louss wiod', 'louze wout', 'lauwc wydo'}, {'luuis wwod', 'lyuyj wthi', 'lauws wiyd', 'loisw woat', 'luuys whyd'}, {'luiso whdd', 'leuxi wwtu', 'loais woid', 'lousu weot', 'losiy wowt'}, {'loeeg wteu', 'lozih wodw', 'losiu woty', 'loiys wody', 'leuis woed'}, {'loyyq wuth', 'luisi wwot', 'liuis wiod', 'lzuia wiyd', 'lsuia wuyd'}, {'loisi wodw', 'louss waod', 'loisw woet', 'lowys wuot', 'loyux wtww'}, {'lzuiu woat', 'lluis waod', 'lhuex wwdo', 'lsuiu whyd', 'loews woht'}, {'leuws waot', 'lwuoq wdaa', 'locih wiot', 'loeis woud', 'loyws wotw'}, {'loziw woyt', 'locie wayd', 'lyiws wtiu', 'louos wwod', 'loghs woti'}, {'louso weyd', 'lzuih wewd', 'locio wody', 'lowec wdwa', 'loois wiod'}, {'leuws woit', 'lozii wuyd', 'liwas wdha', 'loues wiod', 'lsuio whot'}, {'lzuiu woet', 'loyws woto', 'lwows wdty', 'lsuii waot', 'louus wohd'}, {'loais whod', 'loiso weyd', 'luisi wotu', 'laeiq wyth', 'loziw wott'}, {'loyys waot', 'luisi wayd', 'louus woid', 'lsuie woyt', 'lyuyc wwda'}, {'loows wout', 'liuis whod', 'lyows wyet', 'louzo woyt', 'lsuio woat'}, {'loeis whod', 'louzw wotw', 'luuec wwdy', 'locii wayd', 'louze wotu'}, {'lauyk wtwu', 'loyys woto', 'locii whyd', 'loiso wott', 'louiz whod'}, {'lsuiy wotw', 'lyuyj wyat', 'loeis wiod', 'louso waot', 'lociy woty'}, {'luoik wduy', 'lozui wwot', 'losii whwd', 'lociw woht', 'loais wodd'}, {'louso wayd', 'louss wodd', 'liiic wtuu', 'lowws woti', 'loisu wwot'}, {'locie weot', 'lowux wtyi', 'lohys wiot', 'lluis wuod', 'luisw woyt'}, {'loyws woht', 'loisa wott', 'lzuiw wotw', 'lauis wodd', 'loiuk wdto'}, {'loiso weyd', 'louzw wiwd', 'lauwc wdty', 'lsuiw wiot', 'loues wohd'}, {'lociy wewd', 'lyuax wytt', 'loiso weot', 'luisw woti', 'louus wohd'}, {'loise weot', 'lyuoc wwtw', 'lzuio woto', 'lsuie wodw', 'loois weod'}, {'louss wohd', 'loyek wtho', 'lsuia weot', 'loyys wuwd', 'losiw woyt'}, {'leuis woud', 'luisi wote', 'loays woti', 'lyyiz wdth', 'lowss wota'}, {'lousa woty', 'lohhj wdhu', 'lzuiw woyt', 'loeis woed', 'lousy wiyd'}, {'louss wiod', 'luueq wtuy', 'locio wowt', 'luuws wuyd', 'lozui weot'}, {'luise wiot', 'leuis woad', 'loyeq wtih', 'lzuiu woty', 'louzy wotu'}, {'losui waot', 'loais whod', 'lsuie wott', 'lwuaq wthy', 'locii woit'}, {'luuis wiod', 'lowuz wwtw', 'loziy woty', 'losiw weyd', 'louze weot'}, {'louwz whot', 'louse woyt', 'lluis woad', 'lwuuz wdte', 'luise woit'}, {'loghs weot', 'losih waot', 'louus woed', 'leuki wdhw', 'lluws wayd'}, {'louyz wuyd', 'luuis wodd', 'loows weyd', 'lociy woat', 'loeej wtey'}, {'liuws wuwd', 'lwuoq wdwo', 'loows whdd', 'lousi woet', 'luuis waod'}, {'loows wuwd', 'lociu whyd', 'louus wuod', 'losii woet', 'lyoys wtyw'}, {'loois woud', 'loawx wdde', 'lociy weot', 'lauws wota', 'loews wott'}, {'lyeic wdyu', 'loeis wuod', 'loiws whwd', 'louza weot', 'lousi wotw'}, {'lociy weyd', 'lozie woto', 'loeok wtuo', 'louas whod', 'losiy woyt'}, {'louze woto', 'lhwik wdei', 'loziu wuot', 'lauis wodd', 'loews wewd'}, {'lohuz wdia', 'louos waod', 'lozui wota', 'lluws woyt', 'lsuiu woit'}, {'lozii wuwd', 'lsuiu wotw', 'leuis wiod', 'losiw woti', 'luuec wtyi'}, {'louiz wodd', 'loisi woit', 'luhic wtii', 'losiu wott', 'loisy wewd'}, {'luisa wott', 'loues wodd', 'louyz weyd', 'lohws weot', 'lohji wtda'}, {'loyss whwd', 'lwuaq wtae', 'lociy wuwd', 'loeis woid', 'lzuie wote'}, {'loyys wayd', 'lzuia wuwd', 'louss wodd', 'lozii woyt', 'loyuz wtii'}, {'loeis weod', 'locio wota', 'luisy whwd', 'loisw wote', 'laaik wytw'}, {'louos woad', 'loyss whdd', 'lowwx wdde', 'lozih woht', 'louyz woty'}, {'lowwc wddy', 'lsuiu wwot', 'loisu whwd', 'louiz whod', 'louzu woat'}, {'luiuj wyto', 'leuys wiwd', 'luisi wott', 'loeis waod', 'lzuii wwot'}, {'lsuih wayd', 'loise wiot', 'louiz woid', 'lsuii wotw', 'lhuhc wdea'}, {'lzuiw wody', 'luiiq wwty', 'louas woid', 'lsuii wwot', 'loiso wuot'}, {'loiws woti', 'louyz wiot', 'luuis weod', 'loyex wwto', 'lluws wott'}, {'lousw wotu', 'loois woid', 'luisy wota', 'lwuag wtah', 'lousu wayd'}, {'laeik wydi', 'loyys woty', 'lsuiu wewd', 'loyws wout', 'loois woed'}, {'losie weyd', 'lowys whyd', 'liyiq wdeh', 'louiz woid', 'lohws wote'}, {'luise wotu', 'lieic wtah', 'luuis waod', 'lowys wowt', 'lsuie woit'}, {'lzuio woti', 'lluis waod', 'lwuaq wdii', 'liuws wiyd', 'lozie wuyd'}, {'locii wwot', 'louus wwod', 'louzw wodw', 'lowss whot', 'lyaiz wdwe'}, {'loeis whod', 'lozia whdd', 'loahj wtda', 'lozio whwd', 'luisw woit'}, {'lozie wota', 'lsuih wuot', 'lyuag wtiw', 'loues wodd', 'lsuio wwot'}, {'luuis wiod', 'lehiq wdwo', 'lluys wota', 'lowws woet', 'loisw wotw'}, {'loois woud', 'looki wtao', 'lowss wiyd', 'luuys wiot', 'lousu woht'}, {'lwyes wyit', 'louos woid', 'luiso woto', 'lsuiu woet', 'loisu wuyd'}, {'louzu wuyd', 'loeji wtdh', 'lousa wiwd', 'louas whod', 'losui wotw'}, {'loyws wuyd', 'loeys weot', 'luuis wuod', 'lzuio waot', 'lowuj wwth'}, {'lsuio wotw', 'lluys wwot', 'lzuiu woit', 'loyeq wwti', 'louss weod'}, {'loues wuod', 'lzuih wott', 'losii waot', 'louzo whot', 'lwwus wtdh'}, {'lzuie wayd', 'lozii wotw', 'loiis weod', 'leoik wduu', 'lauys wiot'}, {'luisa wiot', 'loisy whdd', 'lowuq wdyu', 'luiys wodw', 'louos wwod'}, {'lsuiu weyd', 'luuis wiod', 'liwiz wduw', 'lzoui woto', 'lzuiy whdd'}, {'luiys whot', 'louzu woyt', 'loaec wtdy', 'louus woad', 'loiys wiyd'}, {'lsuii wuyd', 'lauek wtio', 'lohws woty', 'loois wuod', 'lluys wayd'}, {'luiso wiwd', 'louzy wodw', 'lhuec wwdi', 'loues woed', 'louce wotu'}, {'lousu woti', 'louze wwot', 'louhs waod', 'lhuog wwti', 'locio woyt'}, {'louze wewd', 'louos waod', 'louzo whdd', 'lauok wwth', 'lauws weot'}, {'loues wuod', 'loisw woto', 'losiw weyd', 'lsuiy wody', 'loeuk wwdo'}, {'loisa wote', 'liwes wtdh', 'loghs wuyd', 'loois whod', 'luiys woyt'}, {'lsuie wowt', 'louhs whod', 'lociy woit', 'lauji wdia', 'loeys whot'}, {'liuws woat', 'losih waot', 'lluis wiod', 'leyus wtwh', 'loyws weot'}, {'loiys wodw', 'loeys weyd', 'louhs wwod', 'louse woat', 'lyuhj wwth'}, {'lhyas wtye', 'lsuiy wott', 'lauis waod', 'lsuih woyt', 'luuys whdd'}, {'lyuyk wwyt', 'lluis wwod', 'louwz wotu', 'lousu wody', 'lzuio woty'}, {'lluws waot', 'leuis waod', 'luiys wota', 'liuys whdd', 'lauyk wdui'}, {'lzuio woti', 'lousw wuot', 'lhuox wdwi', 'louas wohd', 'locii wuwd'}, {'leuws woto', 'loiis weod', 'lociw woht', 'lousy whdd', 'leyiz wduw'}, {'loisw waot', 'lluis wwod', 'lousu wott', 'leuux wtho', 'lsuie wuot'}, {'lyaig wyut', 'locii whyd', 'loues woed', 'loisu woyt', 'loays wowt'}, {'loyuk wydo', 'loyss wayd', 'loisi weyd', 'lauws whyd', 'leuis whod'}, {'louhs weod', 'lociy wowt', 'lzuii wotw', 'laeij wduo', 'louwz weyd'}, {'loais wiod', 'losie whot', 'loyys wewd', 'liwus wyet', 'losui woet'}, {'loisu woti', 'loyeq wthu', 'lsuii wwot', 'leuys woht', 'louus wohd'}, {'louci whyd', 'loiag wday', 'lozii weyd', 'lauis woad', 'lsuiu woet'}, {'lauwk wwdu', 'luiws wout', 'luuis wiod', 'lzuio weot', 'louzu wott'}, {'louzi wayd', 'louce wewd', 'lwuji wdhy', 'leuws wiwd', 'louus wohd'}, {'lousy wuot', 'losie woit', 'loois woad', 'looex wtdw', 'lozia woat'}, {'luuyk wwdw', 'luuis woid', 'lozia wuot', 'lozio woht', 'loghs wiyd'}, {'losiu wody', 'lhiic wwdy', 'lauis wodd', 'lzuii wota', 'lsoui wotu'}, {'loyws whyd', 'lsoui weot', 'luisa woht', 'lweik wdea', 'louus wohd'}, {'loois woed', 'louzw wodw', 'leyig wdie', 'lzuie wota', 'loisy wiot'}, {'loyws wuyd', 'lozii whwd', 'louas whod', 'losui woyt', 'lauwx wtai'}, {'luyiq wdio', 'lohws whdd', 'louhs wuod', 'lousy woht', 'lohys wote'}, {'luoki wwdw', 'luuis whod', 'lociu woat', 'lsuia wodw', 'lozii wout'}, {'louwz wuot', 'loews wuyd', 'louus weod', 'louci wwot', 'luyes wdua'}, {'lauis woid', 'loiws whwd', 'loiux wddy', 'loyys wiyd', 'loisu woit'}, {'lzuiw wody', 'lyuwc wdye', 'liuws whdd', 'liuis weod', 'lsuiu wiwd'}, {'lozio woet', 'luuis woud', 'looys wotw', 'loeeg wdta', 'loays woyt'}, {'lluis wodd', 'lousu wody', 'losih wotw', 'loise wuwd', 'liuag wddu'}, {'lwhiq whht', 'luisy whwd', 'luiws waot', 'loois whod', 'louso wodw'}, {'louzi woit', 'lowuz wduw', 'liuis woid', 'lozih waot', 'lzuia whdd'}, {'louzu whot', 'loyuj wtdh', 'loisa woet', 'louos whod', 'lousi wiot'}, {'louzy woyt', 'loais waod', 'lyuec wdwa', 'lsoui wiot', 'lauys weyd'}, {'lzuiy wote', 'liuws weot', 'loeeg wtey', 'lluys wotw', 'lauis waod'}, {'lzuie wotw', 'lsuih wiwd', 'lluys woit', 'luuis wuod', 'liwig wwto'}, {'lzuih whot', 'louhs weod', 'luisa wiyd', 'louzo weyd', 'loihj wtth'}, {'loisw wuwd', 'lauwx wteh', 'luise wodw', 'loois weod', 'lzuiy woyt'}, {'lyiys wteo', 'louzo wiot', 'loeys wotw', 'loiys wuyd', 'lluis woed'}, {'lauws weyd', 'louiz woed', 'luise wuot', 'lauys wuwd', 'lhyas wdwu'}, {'loiis wuod', 'liuki wdwt', 'lowws wuot', 'loyss wout', 'lohws wayd'}, {'lsuio whwd', 'loiis wodd', 'loays woht', 'losui weot', 'lyeic wtie'}, {'louzw wuwd', 'lyuhj wtay', 'louss woid', 'lzuiw whyd', 'leuws whot'}, {'leuws wewd', 'lozia wodw', 'lauuk wyit', 'louus wodd', 'louze wiyd'}, {'luise waot', 'lzuio wotu', 'louos woad', 'lohag wdww', 'loisy wayd'}, {'lsuio wodw', 'louso wuwd', 'louhs wodd', 'losiu wiot', 'lauwk wdie'}, {'luuyk wtuh', 'luuws whyd', 'liuys whwd', 'loais weod', 'losie wotu'}, {'lozio woti', 'louci wowt', 'lhyos wdww', 'lauis wodd', 'luisi woet'}, {'lousy wody', 'looys wuyd', 'lsuii woty', 'loues woed', 'lehas wtee'}, {'loiws wout', 'louhs weod', 'leuys whyd', 'losiu wiwd', 'liuhc wtee'}, {'loais waod', 'luisw woty', 'lyhig wtww', 'lowys woto', 'luiys wuot'}, {'louza wiot', 'locii wote', 'luisw weyd', 'louss whod', 'lauhk wwdy'}, {'louiz wohd', 'losii woet', 'liwos wdyo', 'louwz wewd', 'lsuih woyt'}, {'louas woad', 'leaiq wtdh', 'lsuiw whyd', 'lzuiy wota', 'looys woty'}, {'lwuyq wtey', 'loews wwot', 'luisy woet', 'lociw wout', 'luuis wuod'}, {'loiis wuod', 'leuws wott', 'luuej wwti', 'lozih wotw', 'loisu wota'}, {'lociw woet', 'lueix wtaw', 'lousw woty', 'lozio wayd', 'loais wodd'}, {'leoiq wyda', 'lsuii wotw', 'louwz wayd', 'luuws woat', 'leuis whod'}, {'lowwc wtya', 'loois woid', 'loyss whyd', 'loziy wody', 'loisu woet'}, {'lzuiy woat', 'louze wout', 'loues weod', 'leuex wdiy', 'loucy wota'}, {'losiu woyt', 'luuis wiod', 'lluws wodw', 'loeqi wteh', 'lozio woit'}, {'losih waot', 'lowwk wwty', 'loois wohd', 'luiso woit', 'lowys wott'}, {'locii wwot', 'lluws weot', 'loais wohd', 'loghs wodw', 'luyes wddh'}, {'loeuk wwta', 'luiws wowt', 'loiso wiyd', 'lsuio wiwd', 'leuis whod'}, {'lzuii wott', 'louso woti', 'luwus wyde', 'louiz wodd', 'louzu wota'}, {'loaug wdiu', 'lzuie wuwd', 'loeys wote', 'lzuiy wayd', 'liuis woud'}, {'loise weot', 'leoic wyty', 'louus woud', 'locio waot', 'losiu wott'}, {'leuws wout', 'louss wiod', 'loeji wdhw', 'loiso wewd', 'lzuie wiot'}, {'loeis wwod', 'loews woty', 'luiws woyt', 'losih woti', 'leyiz wtyy'}, {'luiws wuyd', 'loiis weod', 'luwes wdhw', 'loyws weot', 'luiys woyt'}, {'lyhus wdaa', 'louzu woyt', 'luuys woti', 'lzuih wwot', 'louus wohd'}, {'lzuie woto', 'liwij wteh', 'luiws wewd', 'lsuia weyd', 'luuis wohd'}, {'louos waod', 'loyys wuot', 'lwuji wtue', 'louwz whdd', 'lsuii woyt'}, {'leuws wuyd', 'lluis woid', 'louso wayd', 'louci wiyd', 'leuuq wdia'}, {'louzi wout', 'lsuio wuot', 'loois wuod', 'loiuc wdui', 'lzuio wiwd'}, {'lauog whht', 'loisu wotu', 'louiz woid', 'lozii whwd', 'lousa wwot'}, {'lowws weyd', 'loeis wuod', 'lsuii whdd', 'loyuj wdyh', 'lozii wote'}, {'luise weot', 'locio wott', 'lluws wout', 'loues woed', 'loiwk wyde'}, {'lewus whdh', 'loyws woit', 'lzuia wiwd', 'louus wodd', 'lzuih wotu'}, {'lauis wohd', 'loisi woyt', 'lohys waot', 'lohuj wtda', 'lozie wiyd'}, {'loohj wwwt', 'louhs woed', 'lozia wewd', 'lousy woty', 'loisw wiot'}, {'lewus wdwy', 'lauis woid', 'louzi wuwd', 'luuys weyd', 'lzuiy woyt'}, {'loziu woyt', 'leuji wdei', 'lzoui whdd', 'lauis wwod', 'lsuie wody'}, {'loziw wowt', 'loois wwod', 'lousu whyd', 'loisu wayd', 'lohwc wdyi'}, {'loais wwod', 'loghs whwd', 'louzu wiot', 'lsuiu woet', 'lyaus wdih'}, {'loyss wotw', 'looys whwd', 'luuis wuod', 'lohyq wdyw', 'lsuiy wote'}, {'losie wuyd', 'lhusi wtya', 'lzuie wout', 'lauis woad', 'lluys wayd'}, {'liuoc wdho', 'lociw wayd', 'luiys wotw', 'liuis wuod', 'lociu wuwd'}, {'losiw woit', 'luuis wodd', 'loisw wote', 'leuyx wtho', 'locih woto'}, {'lsuiy wiwd', 'luuec wdta', 'lozia wowt', 'loeys whot', 'leuis whod'}, {'lzuiy wotw', 'louhs weod', 'loyki wthh', 'losui woty', 'loays wayd'}, {'loyss wott', 'lyhys wtae', 'lozii waot', 'loois waod', 'lsuie wody'}, {'lousy wody', 'lowyq wdeh', 'loisw wotw', 'loois wohd', 'luisw wota'}, {'lyuax wwdt', 'lzuie wodw', 'locie whdd', 'louiz whod', 'lozii wote'}, {'loziu woet', 'lueix wtaa', 'louss woad', 'lociu wote', 'losih wuyd'}, {'lauys woto', 'luuis wodd', 'lzuia whyd', 'loyux wdae', 'lsuiy wowt'}, {'lsuih whwd', 'loisw whyd', 'loues waod', 'lyyig wtye', 'loucy wiwd'}, {'lowyq wydo', 'lsuiu weot', 'locii wowt', 'lluis wuod', 'luisy whot'}, {'luisy wowt', 'lociu weot', 'loziw woit', 'loiux wtti', 'leuis wiod'}, {'loais woed', 'lohws woti', 'loeyk wtde', 'losiu wote', 'louza whyd'}, {'loiso whwd', 'loyhj wdwi', 'lowss wiot', 'locie woit', 'leuis woed'}, {'lohki weth', 'louci wotw', 'liuis woid', 'louyz wowt', 'lsuih wotu'}, {'loues whod', 'lzuii woyt', 'lohac wwth', 'loghs wowt', 'louse wota'}, {'lauhj wdeh', 'louzo wowt', 'lzuiw wota', 'louos wodd', 'louce wotu'}, {'liwiq wtte', 'leuys wout', 'louhs wwod', 'lsuii whwd', 'lowys wotu'}, {'lzuih whot', 'louiz waod', 'lwuki wtya', 'louce waot', 'loisy wiyd'}, {'lozie wotu', 'lzuiu woyt', 'louos wodd', 'lewiq wydw', 'lsuii wuot'}, {'liwus wdee', 'loyws waot', 'loucy wuyd', 'louas wwod', 'lsuih woty'}, {'loghs wewd', 'losie whwd', 'lioic wtyh', 'louhs wohd', 'losiw woyt'}, {'locii woto', 'louus wuod', 'leuaq wwtu', 'lzuiw weyd', 'lzuiy wayd'}, {'loais wiod', 'luiws wiwd', 'lociu wote', 'leuyx wdaa', 'loiso woyt'}, {'leyic wydo', 'leuys woat', 'luisw wout', 'loues woid', 'louza wott'}, {'leuis woud', 'leuys wott', 'lowss wotu', 'leyiz wtwi', 'loays wodw'}, {'locio wewd', 'lhuec wteu', 'lluis wiod', 'lzuio woht', 'luisy wuot'}, {'lzuiy wiyd', 'loais wiod', 'loise whot', 'luioc wwdy', 'lociw woht'}, {'loisu wotu', 'lowys woty', 'lluis woed', 'lsuie woht', 'lyuuz wdyi'}, {'lsuih wotw', 'locio wodw', 'loois whod', 'liwhs wtiy', 'luuys wuwd'}, {'lhuwx wdhi', 'luuys wody', 'loisa wout', 'louso woyt', 'luuis wohd'}, {'lowys whyd', 'lohws woti', 'lowws wuot', 'loeis woed', 'leeiq wdto'}, {'louss woed', 'leuys wodw', 'louce woty', 'louyz wowt', 'lyees wthh'}, {'luuys wuot', 'lociw woat', 'loais waod', 'luhas wdyh', 'luisi woht'}, {'luisw whwd', 'lousu woty', 'luisi whdd', 'luuis woed', 'layiq wuth'}, {'lozia wodw', 'louss weod', 'lyuag wyyt', 'loows wewd', 'lzuio wiwd'}, {'luuis whod', 'loziw woti', 'luaic wdwa', 'louso waot', 'liuys wayd'}, {'louzu whot', 'louhs woed', 'lociy wout', 'louce whwd', 'loaki wtwi'}, {'louos woud', 'lociu wout', 'losih wowt', 'lyiic wdaw', 'leuys wiot'}, {'loews wody', 'luiys weyd', 'loyeq wtta', 'louus wodd', 'luuys wayd'}, {'losih wiyd', 'lozia wwot', 'losiw wodw', 'lyeus wwht', 'loais wuod'}, {'losui wuot', 'luoiq wtti', 'loisi woyt', 'luiys weot', 'louss weod'}, {'leuwx wwdy', 'leuis wuod', 'lociu woti', 'lociw wotw', 'luuws woat'}, {'loeis weod', 'loyws wody', 'lzuiu wewd', 'loeys wwot', 'lohwc wwti'}, {'loews weot', 'lyuak wthe', 'loyws wayd', 'lzuio woit', 'loeis waod'}, {'lauis whod', 'luiws weyd', 'loeyq wduy', 'loiys wiyd', 'lozih whyd'}, {'lauws whdd', 'luiik wtht', 'louhs waod', 'locih woto', 'liuys wayd'}, {'lociw woto', 'lozio wotu', 'loais woud', 'liuws wuot', 'lwoic wdei'}, {'loeis wohd', 'loziw woat', 'lluws whyd', 'louso waot', 'lyaic wtia'}, {'liuys woit', 'louss woid', 'loisy wotw', 'leuxi wyat', 'lozui waot'}, {'liuws woht', 'loows weyd', 'louss whod', 'losiu wuwd', 'luhes wytw'}, {'lluys wodw', 'loisw wuwd', 'lauys wiot', 'lwwik whdt', 'lauis wiod'}, {'lociw weot', 'loeis wuod', 'leaiq wwdt', 'locie wodw', 'loziu wiwd'}, {'loziu woet', 'lwuoq wdai', 'louss woid', 'louzo woyt', 'locii whyd'}, {'lohki wtea', 'liuis whod', 'lsuia wodw', 'louzo wwot', 'loisa wotu'}, {'luiys wowt', 'loisa woht', 'lluis weod', 'luwik wtau', 'loisi woet'}, {'lsuie woat', 'louyz wotu', 'louus woid', 'lyaiz wwdy', 'loeys whot'}, {'loziw woty', 'luoji wdyy', 'lsuie wewd', 'lozii whot', 'louiz wwod'}, {'loziu woht', 'louus whod', 'lohws whdd', 'luuws waot', 'luhas wtty'}, {'louze wott', 'lhyos wwdu', 'luise woti', 'lousw woty', 'loiis woad'}, {'lsoui wiyd', 'lohws wewd', 'loyws wiwd', 'lauis woed', 'lyyus wyte'}, {'loiws woti', 'liuis wohd', 'lwueq wdye', 'luiws wotu', 'louzu wotw'}, {'loyws wowt', 'louzo whwd', 'locih woyt', 'loais waod', 'loyeq wtee'}, {'loeys wuwd', 'locii wodw', 'louss whod', 'luaic wdau', 'lsuiu wiwd'}, {'luyic wuth', 'loghs woto', 'lsuih whyd', 'lsuio wotu', 'louas wohd'}, {'lozih whdd', 'louiz woid', 'lauys wota', 'lihic wteo', 'loziu wewd'}, {'lzuii wiot', 'louss woid', 'loziw woit', 'loywx wduy', 'loews wott'}, {'loeis wohd', 'lauys whyd', 'loawx wtui', 'lociy woti', 'loisy whot'}, {'lohys wotw', 'lohws wowt', 'loyuk wyyt', 'louss weod', 'lousa wiyd'}, {'looys wiyd', 'lsuiy wuot', 'loewc wthw', 'louas wwod', 'lauys whot'}, {'louas waod', 'lzuii wiot', 'leuqi wteh', 'lzuih whdd', 'louse weot'}, {'loais whod', 'losiu woet', 'louzu wuwd', 'luisu wwot', 'lowyq wwda'}, {'loyws wuot', 'louiz weod', 'losiu whyd', 'lyeas wtto', 'lousw woht'}, {'lociw woty', 'lowys woit', 'lluys wiot', 'lluis woad', 'laeix whdt'}, {'looys whyd', 'louzw woti', 'lohuz wtay', 'lousi wotu', 'lauis woad'}, {'louzo whdd', 'louzu whwd', 'lohax wtay', 'loues waod', 'lzuia woti'}, {'lousi whot', 'lohys woet', 'lyuyc wtwh', 'louza wuot', 'louiz whod'}, {'loois wwod', 'lewus wtwy', 'looys wuyd', 'luiso wiot', 'louzo wotu'}, {'loois wwod', 'lsuih wotw', 'lyhas wydu', 'liuys wuyd', 'loows wote'}, {'louos waod', 'locie wout', 'loews woto', 'luuwj wtyy', 'lzuia wotw'}, {'lyyij wwta', 'lozii whot', 'louss wodd', 'losiy wota', 'loisw wowt'}, {'loois wwod', 'lohuz wyht', 'lousw wuwd', 'loyws woet', 'loays wodw'}, {'luiws wiwd', 'losiu whot', 'leuws wotu', 'louus weod', 'luoic wduy'}, {'lzuii wodw', 'lsuiu woit', 'louiz waod', 'laeik wdua', 'losii wewd'}, {'locio wiwd', 'lohyq wyda', 'luuys wewd', 'lozih wowt', 'loues waod'}, {'lowws wewd', 'lyuyj wwtt', 'louss whod', 'lzuih woat', 'luisw wota'}, {'loews woyt', 'luuoj wyyt', 'loeis woed', 'locio woat', 'lsoui weyd'}, {'loziu whwd', 'loise woet', 'lsuiu wota', 'lohhj wtdy', 'leuis wwod'}, {'lweik wdiu', 'loiws wowt', 'louze woit', 'lsuia woyt', 'luuis wohd'}, {'looax wtwe', 'louos wuod', 'loiso wodw', 'loews wout', 'lozui wewd'}, {'loziu wuyd', 'lzuiy weot', 'lzuii wowt', 'liuis woid', 'lwuhq wtuh'}, {'loeys whdd', 'louze wodw', 'lsuio woat', 'luoix wdia', 'leuis whod'}, {'loais woed', 'lsuih woto', 'lozie whot', 'lheik with', 'luuys woit'}, {'loiis woed', 'lousu woty', 'liyus wdiy', 'loziw whot', 'lzuio wiwd'}, {'louos woud', 'loucy wuot', 'leyas wtdo', 'lauys weyd', 'lowys wiot'}, {'loywx wduw', 'looys wiwd', 'louiz wiod', 'louzw woet', 'louci woat'}, {'lsuio woty', 'louhs woad', 'lociu wayd', 'lozie whdd', 'lyihs wdui'}, {'losie woty', 'losiw woit', 'loiis weod', 'liuws woti', 'leeiq wteo'}, {'lohys wota', 'loaki wtii', 'lozio wiwd', 'louzw wote', 'loois woed'}, {'loiag wwth', 'lociy wott', 'losie whyd', 'louhs wohd', 'lsuio wewd'}, {'liuys woyt', 'lousy woty', 'loows wiot', 'loiis wiod', 'lueiq wtto'}, {'loews wotu', 'lsuih wotw', 'louas wohd', 'loyys woti', 'luwic wdht'}, {'leuis waod', 'leuys wuyd', 'luiys woti', 'lyuyk wtue', 'lauys woit'}, {'loais woad', 'louyz whwd', 'lozie wewd', 'lyiig wtwe', 'louse wota'}, {'louas wuod', 'lozio waot', 'luiys woit', 'lhwos wdht', 'lousy whdd'}, {'louss woed', 'lowss wodw', 'lozia weot', 'lhyas wduh', 'loiws whdd'}, {'looys wody', 'louas wwod', 'lzuiu wotw', 'leuwc wteo', 'losiw woti'}, {'loeis wiod', 'lyuuz wdiw', 'lluys waot', 'lsuia whwd', 'lauws wout'}, {'loiso wayd', 'lousw wewd', 'lsuiu whdd', 'lehiq wyit', 'loiis woad'}, {'loziu wote', 'leyig wwdh', 'lousu whdd', 'looys wwot', 'leuis woed'}, {'loyhq wdah', 'loais woad', 'luisu wout', 'losie wiot', 'loisw wota'}, {'loghs whot', 'liwes wtaa', 'loais woid', 'lociw whwd', 'lsuiy whyd'}, {'lohuz wtye', 'lluws woht', 'liuys wewd', 'leuis whod', 'lsuiu wuyd'}, {'loyws wott', 'liuis waod', 'loewc wwdi', 'loisw wotw', 'lsoui wewd'}, {'lsuiw woht', 'losui wewd', 'louos wwod', 'losie wuwd', 'lheic wdhi'}, {'louss whod', 'lueic wyth', 'louze wotw', 'lsoui whot', 'lozih weot'}, {'lsuio wodw', 'luise woyt', 'lyius wdhw', 'loiis wiod', 'luuys woit'}, {'loiys wewd', 'layos wyde', 'luuis wuod', 'lozia wota', 'louzw wody'}, {'loais whod', 'lzuie woto', 'lousi woat', 'loows wody', 'leuux wtea'}, {'lauex weth', 'loais wiod', 'lauys woit', 'louzi weyd', 'loziw wout'}, {'loiso wiwd', 'lsuio woet', 'loiex wtay', 'louhs woid', 'loisi wuot'}, {'louza woat', 'loais woed', 'lsuiu woto', 'lhuyc wttw', 'lzuii whdd'}, {'loisy wodw', 'leeix wydh', 'liuis woed', 'lzuii woat', 'loisw wuwd'}, {'luuyk wyto', 'loeis wohd', 'lousi weot', 'lozii whot', 'luisy wota'}, {'louos wuod', 'louse whot', 'luisy waot', 'lhwic wtha', 'loise wodw'}, {'louhs weod', 'lsuiy woty', 'lyoes wthy', 'lzuiy woti', 'lousi woat'}, {'luoig wddo', 'louce woit', 'louos weod', 'loziw whot', 'louse wotw'}, {'liwas wtiw', 'liuis wwod', 'losii woti', 'luiws wowt', 'louzo wout'}, {'lsuie wott', 'lluis wohd', 'lzuih whdd', 'lhwic wydi', 'loisa woht'}, {'lyuoc wtte', 'lzuio woto', 'louas whod', 'looys wott', 'lousi wuyd'}, {'lociw wayd', 'louus woud', 'loyug wthi', 'loyws woto', 'lohys wewd'}, {'leuis woud', 'liuji wdee', 'looys weyd', 'loucy woty', 'luuws whdd'}, {'luwos wttw', 'lsuie wote', 'luuis wwod', 'lsuio woat', 'lohws woyt'}, {'loghs wewd', 'lzuie wott', 'lhuog wddi', 'louas wodd', 'louce woty'}, {'lahik wydh', 'lsuie woty', 'loiys wody', 'louus wohd', 'lzuiy woto'}, {'louss wwod', 'lsuih whdd', 'louci wiwd', 'lauyk wwti', 'lowws whyd'}, {'luuws woti', 'lzuiy wayd', 'liuys woto', 'leuis woed', 'lhwus wtyu'}, {'louso whot', 'loisy wott', 'loziu wiot', 'loeak wtiw', 'lluis weod'}, {'lozie wout', 'luuis woad', 'lauws wuot', 'loiec whdt', 'luisy wiyd'}, {'lyusi wtho', 'lzuih whyd', 'lozie woet', 'lousy whot', 'loues wohd'}, {'louos woud', 'lsuii wiwd', 'lozio wote', 'leuax wdiw', 'luuws wuyd'}, {'loeis whod', 'lluws wiot', 'lhuox wduw', 'lauws waot', 'luiso weyd'}, {'liuys woht', 'lluys woat', 'louzw whyd', 'lyows wdia', 'loiis woid'}, {'loiys wewd', 'lozii waot', 'liuis woid', 'loisi wwot', 'lyuoc wdtw'}, {'louwz weot', 'lyoas wtyw', 'lohys wayd', 'luise whyd', 'lauis waod'}, {'lyueg wdda', 'losiy waot', 'loiis woad', 'lsuio wuot', 'locii wiyd'}, {'luuws wiot', 'luwik wydw', 'lzoui wwot', 'losui woto', 'lauis waod'}, {'louzo wota', 'liwes wdia', 'loyss wuyd', 'louzw whyd', 'louss weod'}, {'loisa whwd', 'loziu woto', 'loois whod', 'lwhas wtye', 'luisu wote'}, {'lluys woet', 'loyki wdwh', 'lozui wota', 'liuis weod', 'luisi woht'}, {'luisa wwot', 'loeis weod', 'lzuih wiyd', 'loiys whdd', 'lauhk wdeh'}, {'loisw woet', 'lzuiu whot', 'lluis woud', 'lyuhg wwdh', 'lsuiw woto'}, {'loisy whyd', 'liwas wdaa', 'lzuia wote', 'louas whod', 'losih woti'}, {'loais wiod', 'luisi whyd', 'loiuc wdie', 'louse wody', 'luisa whwd'}, {'loois woid', 'lousi woat', 'liuws woty', 'lzuia wowt', 'luuek wdht'}, {'lzuia woht', 'luiws wott', 'loyyq wwtt', 'lzuie whwd', 'loois whod'}, {'lowag wtuw', 'loeis weod', 'lzuiu wout', 'loisi wuot', 'loews wayd'}]
+louis wood          : DEBUG: Additional rule variations: set()
+louis wood          : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "louis wood": {
+            "first_name": {
+                "score": 0.7771724960140619,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.35293294335267744,
+                        "orthographic": 1.0,
+                        "combined": 0.6764664716763387
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 3.5400000000000005,
+                        "score": 0.8086174200550581
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "loois",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "locih",
+                            "phonetic_score": 0.5736226954466588,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "lousy",
+                            "phonetic_score": 0.5736226954466588,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "louso",
+                            "phonetic_score": 0.5736226954466588,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "lyaiz",
+                            "phonetic_score": 0.18267114341280166,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.7504381585686322,
+            "final_score": 0.8003505268549058,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 0,
+            "last_name": {
+                "score": 0.7223053889061869,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.17004258632642721,
+                        "orthographic": 1.0,
+                        "combined": 0.5850212931632136
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 3.5400000000000005,
+                        "score": 0.8086174200550581
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "woid",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "woti",
+                            "phonetic_score": 0.8980017167283875,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wott",
+                            "phonetic_score": 0.8980017167283875,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wotu",
+                            "phonetic_score": 0.8980017167283875,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wwyt",
+                            "phonetic_score": 0.10199278648901933,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {},
+                    "rules_satisfied_by_variation": {},
+                    "compliance_ratio_overall_variations": 0.0,
+                    "overall_compliant_unique_variations_count": 0,
+                    "expected_compliant_variations_count": 0,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 0,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "louis wood": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {},
+                    "rules_satisfied_by_variation": {},
+                    "compliance_ratio_overall_variations": 0.0,
+                    "overall_compliant_unique_variations_count": 0,
+                    "expected_compliant_variations_count": 0,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 0,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.8003505268549058,
+    "final_reward": 0.8003505268549058
+}
+louis wood          : DEBUG: ----------------------------------------------------------------------------------------------------

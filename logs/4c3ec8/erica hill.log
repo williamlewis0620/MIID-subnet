@@ -1,0 +1,2228 @@
+erica hill          : INFO: Generating variations for erica hill
+erica hill          : INFO: ----------------------------------------------------------------------------------------------------
+erica hill          : INFO: Effective rules: ['shorten_name_to_initials', 'name_parts_permutations', 'duplicate_random_letter_as_double_letter']
+erica hill          : INFO: ----------------------------------------------------------------------------------------------------
+erica hill          : INFO: Min Required Rule Variation Set: [{'e.H.', 'Eh', 'EH', 'E. h.', 'eH', 'E.H.', 'e.h.', 'eh', 'e. H.', 'E.h.', 'E. H.', 'e. h.'}, {'hill erica', 'hill        erica', 'hill      erica', 'hill  erica', 'hill       erica', 'hill   erica', 'hill         erica', 'hill    erica', 'hill     erica', 'hill          erica'}, {'erica hhill', 'eerica hill', 'erica hiill', 'errica hill', 'erica  hill', 'ericca hill', 'eriica hill', 'ericaa hill', 'erica hilll'}]
+erica hill          : INFO: ----------------------------------------------------------------------------------------------------
+erica hill          : INFO: First name: erica
+erica hill          : INFO: Last name: hill
+erica hill          : INFO: ----------------------------------------------------------------------------------------------------
+erica hill          : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8)]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 1 / 21: rule_count/nonrule_count: 0/1------------------------------
+erica hill          : DEBUG: O: [0, 0, 0, 1]
+erica hill          : DEBUG: P: [0, 0, 0, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [0, 0, 0, 1]
+erica hill          : DEBUG: P: [0, 0, 0, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.26818561]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 2 / 21: rule_count/nonrule_count: 0/2------------------------------
+erica hill          : DEBUG: O: [0, 1, 0, 1]
+erica hill          : DEBUG: P: [0, 0, 1, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [0, 1, 0, 1]
+erica hill          : DEBUG: P: [0, 0, 1, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.41822631]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 3 / 21: rule_count/nonrule_count: 0/3------------------------------
+erica hill          : DEBUG: O: [0, 1, 0, 2]
+erica hill          : DEBUG: P: [0, 0, 1, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [0, 1, 0, 2]
+erica hill          : DEBUG: P: [0, 0, 1, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.43704025]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 4 / 21: rule_count/nonrule_count: 0/4------------------------------
+erica hill          : DEBUG: O: [0, 2, 0, 2]
+erica hill          : DEBUG: P: [0, 1, 2, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [0, 2, 0, 2]
+erica hill          : DEBUG: P: [0, 1, 2, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.452]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 5 / 21: rule_count/nonrule_count: 1/3------------------------------
+erica hill          : DEBUG: O: [0, 1, 0, 2]
+erica hill          : DEBUG: P: [0, 0, 1, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [0, 1, 0, 2]
+erica hill          : DEBUG: P: [0, 0, 1, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.50370692]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 6 / 21: rule_count/nonrule_count: 0/5------------------------------
+erica hill          : DEBUG: O: [1, 3, 1, 0]
+erica hill          : DEBUG: P: [0, 1, 3, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 3, 1, 0]
+erica hill          : DEBUG: P: [0, 1, 3, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.56]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 7 / 21: rule_count/nonrule_count: 1/4------------------------------
+erica hill          : DEBUG: O: [0, 2, 0, 2]
+erica hill          : DEBUG: P: [0, 1, 2, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [0, 2, 0, 2]
+erica hill          : DEBUG: P: [0, 1, 2, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.51866667]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 8 / 21: rule_count/nonrule_count: 0/6------------------------------
+erica hill          : DEBUG: O: [1, 3, 1, 1]
+erica hill          : DEBUG: P: [0, 1, 3, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 3, 1, 1]
+erica hill          : DEBUG: P: [0, 1, 3, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.53342093]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 9 / 21: rule_count/nonrule_count: 1/5------------------------------
+erica hill          : DEBUG: O: [1, 3, 1, 0]
+erica hill          : DEBUG: P: [0, 1, 3, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 3, 1, 0]
+erica hill          : DEBUG: P: [0, 1, 3, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.62666667]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 10 / 21: rule_count/nonrule_count: 0/7------------------------------
+erica hill          : DEBUG: O: [1, 4, 1, 1]
+erica hill          : DEBUG: P: [0, 2, 4, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 4, 1, 1]
+erica hill          : DEBUG: P: [0, 2, 4, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.51360946]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 11 / 21: rule_count/nonrule_count: 1/6------------------------------
+erica hill          : DEBUG: O: [1, 3, 1, 1]
+erica hill          : DEBUG: P: [0, 1, 3, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 3, 1, 1]
+erica hill          : DEBUG: P: [0, 1, 3, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.56675426]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 12 / 21: rule_count/nonrule_count: 2/5------------------------------
+erica hill          : DEBUG: O: [1, 3, 1, 0]
+erica hill          : DEBUG: P: [0, 1, 3, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 3, 1, 0]
+erica hill          : DEBUG: P: [0, 1, 3, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.69333333]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 13 / 21: rule_count/nonrule_count: 0/8------------------------------
+erica hill          : DEBUG: O: [1, 4, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 4, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 4, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 4, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.49491975]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 14 / 21: rule_count/nonrule_count: 1/7------------------------------
+erica hill          : DEBUG: O: [1, 4, 1, 1]
+erica hill          : DEBUG: P: [0, 2, 4, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 4, 1, 1]
+erica hill          : DEBUG: P: [0, 2, 4, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.5469428]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 15 / 21: rule_count/nonrule_count: 2/6------------------------------
+erica hill          : DEBUG: O: [1, 3, 1, 1]
+erica hill          : DEBUG: P: [0, 1, 3, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 3, 1, 1]
+erica hill          : DEBUG: P: [0, 1, 3, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.66675426]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 16 / 21: rule_count/nonrule_count: 0/9------------------------------
+erica hill          : DEBUG: O: [1, 5, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 5, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [4, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 5, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 5, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [4, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.48284049]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 17 / 21: rule_count/nonrule_count: 1/8------------------------------
+erica hill          : DEBUG: O: [1, 4, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 4, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 4, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 4, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.52825309]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 18 / 21: rule_count/nonrule_count: 2/7------------------------------
+erica hill          : DEBUG: O: [1, 4, 1, 1]
+erica hill          : DEBUG: P: [0, 2, 4, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 4, 1, 1]
+erica hill          : DEBUG: P: [0, 2, 4, 1]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.6469428]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 19 / 21: rule_count/nonrule_count: 0/10------------------------------
+erica hill          : DEBUG: O: [2, 6, 2, 0]
+erica hill          : DEBUG: P: [1, 3, 6, 0]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [2, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [4, 0, 0]
+erica hill          : DEBUG: [2, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [8]
+erica hill          : DEBUG: [39]
+erica hill          : DEBUG: [80]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [2, 6, 2, 0]
+erica hill          : DEBUG: P: [1, 3, 6, 0]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [2, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [4, 0, 0]
+erica hill          : DEBUG: [2, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+erica hill          : DEBUG: [15]
+erica hill          : DEBUG: [50]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [1]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.47809465]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 20 / 21: rule_count/nonrule_count: 1/9------------------------------
+erica hill          : DEBUG: O: [1, 5, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 5, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [4, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 5, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 5, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [4, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.51617382]
+erica hill          : INFO: ------------------------------Trying rule_count_pair 21 / 21: rule_count/nonrule_count: 2/8------------------------------
+erica hill          : DEBUG: O: [1, 4, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 4, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [6, 6, 0]
+erica hill          : DEBUG: [105, 28, 0]
+erica hill          : DEBUG: [486, 21, 0]
+erica hill          : DEBUG: [402, 20, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [18, 0, 0]
+erica hill          : DEBUG: [372, 4, 0]
+erica hill          : DEBUG: [500, 20, 0]
+erica hill          : DEBUG: [500, 67, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [33]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: erica, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: erica, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: erica, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: O: [1, 4, 1, 2]
+erica hill          : DEBUG: P: [0, 2, 4, 2]
+erica hill          : WARNING: Remains: 0
+erica hill          : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+erica hill          : DEBUG: [8, 2, 0]
+erica hill          : DEBUG: [50, 13, 0]
+erica hill          : DEBUG: [44, 20, 0]
+erica hill          : DEBUG: [20, 12, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [18, 6, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [20, 20, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: [3, 0, 0]
+erica hill          : DEBUG: [1, 0, 0]
+erica hill          : DEBUG: [0, 0, 0]
+erica hill          : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+erica hill          : DEBUG: [20]
+erica hill          : DEBUG: [284]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [500]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [0]
+erica hill          : DEBUG: [2]
+erica hill          : DEBUG: final:
+erica hill          : DEBUG: name: hill, l_level: 0
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+erica hill          : DEBUG: name: hill, l_level: 1
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: name: hill, l_level: 2
+erica hill          : DEBUG: --------------------------------------------------
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+erica hill          : DEBUG: scores: [0.62825309]
+erica hill          : DEBUG: ----------------------------------------------------------------------------------------------------
+erica hill          : DEBUG: Best score achieved: 0.6933333333333334
+erica hill          : DEBUG: Best selected: 2/5
+erica hill          : DEBUG: Rule variations: [{'e.H.', 'Eh', 'EH', 'E. h.', 'eH', 'E.H.', 'e.h.', 'eh', 'e. H.', 'E.h.', 'E. H.', 'e. h.'}, {'hill erica', 'hill        erica', 'hill      erica', 'hill  erica', 'hill       erica', 'hill   erica', 'hill         erica', 'hill    erica', 'hill     erica', 'hill          erica'}]
+erica hill          : DEBUG: Nonrule variations: [{'erqka hwhl', 'erwca hyll', 'uruqa huiy', 'ersaa hwol', 'erwic hwil'}, {'eriys hlhl', 'erish hyhl', 'erkga hyol', 'yrixw hohw', 'erwca hlll'}, {'ariac yihh', 'ersaa hyal', 'erzce hwul', 'eryca hyll', 'erijw hwel'}, {'erzch hwal', 'eryca hlll', 'eriqz hyal', 'eyyya hwoy', 'erocx hlwl'}, {'erhja hwil', 'ericw hily', 'airca eylh', 'erocq hylh', 'erihx hlwl'}, {'erocj hyel', 'eriqa hily', 'wwiqa yywl', 'erwcq hylh', 'erisc hyhl'}, {'uriac liww', 'erixe hwul', 'erecy hwlh', 'erhcu hlhl', 'erwca hiyl'}, {'eriga hyll', 'ersya hlwl', 'eriqs hwhl', 'erexa hyhl', 'yhicw lihw'}, {'eyike ualw', 'erkya hwel', 'eriqa hiwl', 'erycs hyel', 'erjha hyal'}, {'eriuz hyal', 'erhcq hyol', 'ercza hyil', 'ericw hyll', 'ehiac aiyw'}, {'eriqa hily', 'erihz hyhl', 'erhce hlwl', 'ahija ylly', 'ercya hyel'}, {'eryca hwll', 'erxsa hhlh', 'errsa hyal', 'errcy hllh', 'wrwka huih'}, {'eriqa hily', 'ersya hwal', 'riecu yelh', 'erhce hwel', 'erycj hyel'}, {'errca hilw', 'erwja hyel', 'ersja hwal', 'wwwca oahl', 'erzya hlhl'}, {'erisj hllh', 'erisi hwul', 'wrwce iywl', 'eryci hyhl', 'errca hhll'}, {'erjxa hwlh', 'erhcs hwal', 'urcoa woil', 'eriqa hiwl', 'ereja hyhl'}, {'ercga hwol', 'erwie yuil', 'erxya hwlh', 'eriqa hhll', 'erihj hhlh'}, {'ereja hwil', 'erucq hwul', 'eryca hiwl', 'wriwi ywli', 'ersqa hhlh'}, {'eries hlwl', 'erikg hyil', 'eriqa hwll', 'wriwy hyhw', 'ergcy hwel'}, {'erhcx hhlh', 'iruya wlol', 'ercza hwul', 'erocj hyil', 'errca hiyl'}, {'erwca hhll', 'erjsa hwhl', 'eyycy iwel', 'erscu hwul', 'erjza hwlh'}, {'wrhza haww', 'eraza hwlh', 'erwca hhll', 'eriqj hwil', 'erigj hyal'}, {'erzea hwul', 'ersha hyal', 'ersaa hyul', 'uruja yuwl', 'ericw hilw'}, {'eriga hily', 'erxya hyul', 'erixw hhlh', 'erixo hwal', 'eiwga hhwh'}, {'erycx hhlh', 'oriku wehl', 'eriyj hyel', 'erwca hlll', 'ergwa hwlh'}, {'erjco hylh', 'erixj hyil', 'erjce hwol', 'wwwca lowl', 'eriqa hilw'}, {'erhcc hwel', 'ewhza whly', 'ergia hyul', 'erjka hyhl', 'eryca hiwl'}, {'errca hilw', 'eruza hyol', 'erios hwul', 'eiwsa oeyl', 'erwxa hwal'}, {'erwca hilw', 'erycs hyal', 'eriqs hwol', 'aroja ihwl', 'erisc hwlh'}, {'erzcu hwlh', 'errsa hwel', 'iryka hwhy', 'ergcy hyel', 'erwca hlll'}, {'eriga hyll', 'erqwa hwel', 'erjza hhlh', 'ereza hyol', 'owika hhyh'}, {'errca hhll', 'erizk hwhl', 'erqsa hyol', 'eryic hhlh', 'eiwac uuly'}, {'yrocy eowl', 'eriga hyll', 'erkga hylh', 'erwcy hyal', 'erxce hlhl'}, {'erqwa hyel', 'eryhy yalw', 'eriqx hwlh', 'errcy hyol', 'errca hlll'}, {'erxcy hyel', 'uwoca ihlw', 'erhce hylh', 'errcy hwal', 'errca hyll'}, {'ergci hhlh', 'eruhy lyul', 'erhcq hwlh', 'eryca hyll', 'eriwz hwol'}, {'erjci hwhl', 'erigi hlhl', 'erycx hyhl', 'reija hyyw', 'errca hlll'}, {'ercqa hyul', 'reoca wuwl', 'erwca hilw', 'erycy hyhl', 'eriax hlwl'}, {'eracx hwal', 'erijk hhlh', 'ewioc iyhl', 'erigk hwlh', 'eriga hiyl'}, {'errca hiwl', 'uwuca ialw', 'erzza hyhl', 'erhce hhlh', 'erijz hwol'}, {'erizy hwal', 'ergce hwol', 'eriji hyal', 'yroxa iywl', 'eriqa hilw'}, {'erwcx hyal', 'orikw whwl', 'eryja hyul', 'erucy hwil', 'eriqa hlll'}, {'erios hyil', 'eruja hwul', 'eryca hily', 'erehe elil', 'erqha hlwl'}, {'erxza hyul', 'eriga hhll', 'erigx hwlh', 'eries hwhl', 'wirca alil'}, {'erocy hwil', 'eyece ylly', 'erxsa hhlh', 'eriqa hiwl', 'erzka hlwl'}, {'ergce hylh', 'erjsa hwel', 'rewca lyol', 'eriga hilw', 'erucx hyul'}, {'eryxa hwil', 'ehigh hayw', 'erycs hhlh', 'eroja hllh', 'eryca hhll'}, {'erucq hyul', 'erixo hhlh', 'wwiqa awwl', 'eryca hily', 'ergcy hwol'}, {'iroxa liyw', 'erasa hwel', 'erwcg hwil', 'ericw hilw', 'ersea hlwl'}, {'erywo wywl', 'eriqa hhll', 'eracx hwil', 'erhcw hwhl', 'ergka hwel'}, {'erijw hwol', 'erius hyil', 'eryca hily', 'uwoca olly', 'eeric hylh'}, {'erqga hylh', 'erikj hwol', 'eriqa hwll', 'erixw hyel', 'ywiqa ualw'}, {'erihz hwul', 'erwxa hyil', 'erxea hwhl', 'eyyco wyly', 'eryca hiwl'}, {'erigy hlwl', 'erisy hlhl', 'eryce hwul', 'eryhy wlil', 'eriqa hilw'}, {'ergka hwil', 'wroka lwil', 'erucy hwal', 'eriqa hiwl', 'eruza hlhl'}, {'erxka hwlh', 'eriga hiwl', 'erxco hlhl', 'ewike whiw', 'eriwx hllh'}, {'ersch hwil', 'eriqa hiyl', 'ereja hhlh', 'wriaw iyly', 'eeric hwlh'}, {'arhza wyul', 'erzia hwlh', 'erkya hwel', 'ericw hiwl', 'erhxa hyhl'}, {'erkco hllh', 'erwca hyll', 'ercce hwhl', 'erzxa hwel', 'wrwcu haww'}, {'uruwa uely', 'erych hwil', 'ercsa hwhl', 'eriju hyil', 'ericw hilw'}, {'erxch hlhl', 'urusa huwh', 'eryca hily', 'eriqz hllh', 'erijc hyol'}, {'origh aiyw', 'erizj hwel', 'eryca hyll', 'erijc hyel', 'ercch hwlh'}, {'eryca hwll', 'erwcj hwil', 'yrisw iyly', 'ereza hwol', 'eryja hylh'}, {'ericw hiyl', 'eriis hwel', 'ywicw yoil', 'eracj hwhl', 'errch hwal'}, {'erqch hyol', 'ericw hhll', 'orece auly', 'erzce hhlh', 'erhga hyhl'}, {'ergha hyol', 'erigh hwul', 'yrzia yeyl', 'erizu hyil', 'eriqa hilw'}, {'erycx hllh', 'erigh hyhl', 'yeyca ialw', 'eriga hiwl', 'erwcz hwal'}, {'erjea hyil', 'eriga hlll', 'erize hyel', 'erscy hwil', 'yriaz olly'}, {'errxa hhlh', 'erkya hllh', 'eryca hiwl', 'wriac iyyl', 'erxcw hyhl'}, {'erccy hwal', 'eriga hlll', 'arijo huwh', 'eryic hwul', 'erigj hylh'}, {'erjia hhlh', 'eeric hwhl', 'eiwga huyw', 'eriga hilw', 'erzja hyol'}, {'erccy hwlh', 'eriqa hwll', 'erxxa hwul', 'erecx hllh', 'yracw iayl'}, {'erewo howw', 'erwca hhll', 'erzxa hyol', 'erhcu hyil', 'erizo hwal'}, {'erios hyel', 'arwja yiwh', 'erecx hlwl', 'erzsa hlhl', 'eriga hiyl'}, {'errca hilw', 'eriji hlwl', 'wryka ohlh', 'eriux hyol', 'erzia hyil'}, {'hwiqa ywyl', 'erkco hllh', 'eryca hiyl', 'erqha hyil', 'erqza hwol'}, {'erqcw hwol', 'irycu iayl', 'erccy hylh', 'eriix hlwl', 'erwca hlll'}, {'erwca hily', 'ercxa hyhl', 'erioj hyol', 'eruwo wuyl', 'erzcw hyal'}, {'eyysa ihlw', 'erixo hyhl', 'eraxa hwol', 'erjga hylh', 'ericw hlll'}, {'erwca hilw', 'erwxa hwol', 'erwsa hyil', 'eiwcy oalw', 'erocj hyal'}, {'erqcu hyil', 'erqch hwol', 'errca hwll', 'urucu aohl', 'erizw hyul'}, {'ergka hwhl', 'eriga hhll', 'erisy hwil', 'yryza ywwl', 'ereza hlhl'}, {'errca hiwl', 'erjci hllh', 'yiwca ialh', 'erxaa hwhl', 'erigk hyul'}, {'ersaa hyil', 'erhcg hylh', 'hryka ouyl', 'erhcs hyol', 'erwca hlll'}, {'erecq hwal', 'ercco hyil', 'erska hwul', 'yhicw iely', 'errca hlll'}, {'erzco hwhl', 'wryka huiw', 'erikh hllh', 'erscw hyhl', 'errca hyll'}, {'erwca hiwl', 'erecy hyel', 'erxza hyul', 'yrisw liwh', 'erxja hwhl'}, {'erccw hwlh', 'eyyka lwwl', 'ersza hlhl', 'eriqc hwil', 'erwca hlll'}, {'erigq hyal', 'erhsa hwal', 'arcia oayl', 'erixy hlwl', 'eryca hiwl'}, {'yrwcw ilyw', 'ersco hwul', 'eriqa hiwl', 'erisz hylh', 'erkza hlwl'}, {'eyizw wyly', 'erzcw hyil', 'eryic hwal', 'erjch hwul', 'ericw hiwl'}, {'erikh hyul', 'erwca hilw', 'erxua hhlh', 'erixz hlwl', 'reiga liiw'}, {'yreza lwlh', 'erhcs hwul', 'eriga hhll', 'eriux hwil', 'erswa hyal'}, {'erwxa hlhl', 'reice hwyi', 'ereja hwel', 'erkxa hyol', 'errca hiyl'}, {'erijy hyhl', 'eriuj hwil', 'erigk hhlh', 'eriga hiwl', 'ewiqu uuly'}, {'erijs hyal', 'ewiqw ilhy', 'eeric hwlh', 'eriga hiwl', 'erhcq hllh'}, {'erexa hhlh', 'origh yllw', 'erihz hyhl', 'eriga hiwl', 'erzaa hyal'}, {'eracg hyel', 'erixq hwol', 'erijo hwil', 'eriga hhll', 'yhicw oiww'}, {'ersja hhlh', 'ergha hwhl', 'ewiqu hwhw', 'erycq hyol', 'eriga hwll'}, {'erswa hwhl', 'eyigh ully', 'eriga hlll', 'erycq hyol', 'erucy hylh'}, {'erycg hhlh', 'eruza hwul', 'ericw hyll', 'erycj hwel', 'yrece ohwl'}, {'erecy hwol', 'erwca hwll', 'eriax hwel', 'erisy hyel', 'worca aeyl'}, {'ersco hyil', 'eriga hlll', 'erqwa hylh', 'ersci hwal', 'yrizh ihlw'}, {'eriuz hyol', 'eryca hlll', 'erscy hyul', 'ergxa hlhl', 'arwja olyl'}, {'erocq hyol', 'erkga hwul', 'erigi hylh', 'ericw hilw', 'wruwa uulw'}, {'erkxa hwil', 'eriwz hwlh', 'erhcs hlhl', 'yriaz hyuw', 'errca hily'}, {'wrwha wyul', 'erjwa hyol', 'erige hyel', 'erqya hwol', 'eriqa hiwl'}, {'urucu awwl', 'ersci hyil', 'erigj hyul', 'erise hwlh', 'eriga hilw'}, {'errca hiwl', 'erqwa hllh', 'erecx hwal', 'erscu hlhl', 'oyika huih'}, {'erxya hwlh', 'erycc hlwl', 'eriqa hiwl', 'yrizy wllu', 'erycq hwal'}, {'erkxa hyhl', 'erhch hyol', 'errza hwil', 'ericw hilw', 'hriwo alwl'}, {'yrikw yyly', 'eraxa hyel', 'eracg hyol', 'eriqa hwll', 'erycg hwol'}, {'errca hilw', 'orkia woil', 'erios hyel', 'eresa hyol', 'ergco hylh'}, {'eryca hilw', 'erzci hyol', 'irycu haww', 'erkce hyel', 'eryic hyal'}, {'erxha hwil', 'ercwa hyol', 'eriqa hlll', 'ercea hylh', 'iruwa ialh'}, {'erxaa hyel', 'erizz hwil', 'ericw hyll', 'wyoca whiw', 'erwza hwlh'}, {'erwza hylh', 'eyysa ohly', 'eryca hiwl', 'erqch hlhl', 'eriwz hwel'}, {'erycx hwlh', 'eriyz hwol', 'eiwja hhiy', 'erzcw hwul', 'eriqa hiwl'}, {'ericw hily', 'ehike yyil', 'erzcy hwhl', 'erizh hwol', 'eriex hyhl'}, {'erscu hyul', 'eriix hwal', 'erkza hyhl', 'eriga hwll', 'hriwo yoyl'}, {'erigq hyel', 'eracx hyhl', 'erucj hyil', 'eruhy hoiw', 'eriqa hyll'}, {'errca hhll', 'erhcc hyhl', 'erych hhlh', 'erjha hwel', 'hrocy loal'}, {'erixe hyhl', 'urioc ylol', 'eriqa hilw', 'erccy hyel', 'erijs hwal'}, {'wriaw wllw', 'eriga hhll', 'ersci hwal', 'erijj hlhl', 'eerca hwol'}, {'erska hllh', 'ergcu hyol', 'eryca hily', 'orhza hwhw', 'erwce hylh'}, {'ergqa hwlh', 'uruxa uhlw', 'eriga hiwl', 'eriyz hwal', 'erxoa hyul'}, {'eracx hwal', 'wriwo lioh', 'erhga hwhl', 'eriqa hiwl', 'erjci hyul'}, {'erkga hyul', 'erijx hlhl', 'eryca hlll', 'erisz hwul', 'eyyci uolh'}, {'ewece lwli', 'ersci hllh', 'eriqa hily', 'ercea hwil', 'eries hyal'}, {'erzja hyul', 'yrizo wawl', 'eryxa hwhl', 'eriga hwll', 'erxcy hyil'}, {'erysa hylh', 'ergja hyel', 'wrwxa hewy', 'ericw hyll', 'erijh hllh'}, {'uhuca liiw', 'eriqa hiwl', 'erkha hwlh', 'erexa hylh', 'erjaa hwhl'}, {'erecg hyil', 'yrike eawl', 'erwsa hwel', 'erjha hwal', 'errca hily'}, {'erscy hyul', 'eriga hilw', 'eerca hyol', 'eyyci iehl', 'erikj hwel'}, {'erxco hwul', 'erwsa hwal', 'yrigw huiy', 'eriyj hwhl', 'eriga hilw'}, {'erwca hily', 'erixc hwhl', 'eriqs hhlh', 'ergch hwil', 'ewiqw lulw'}, {'erwca hiwl', 'eriqx hylh', 'eriaj hhlh', 'eiwcw iyly', 'erksa hwil'}, {'erycx hwhl', 'errca hiwl', 'erxia hwil', 'erwcz hyul', 'riecu oalw'}, {'erikg hyal', 'errca hwll', 'erizw hlhl', 'hrioc hhhw', 'eerca hwlh'}, {'ercja hyhl', 'erqcw hwil', 'eyysa ouyl', 'eryca hhll', 'eryxa hylh'}, {'erwca hily', 'erwcg hwlh', 'erihs hyal', 'reiza hhhw', 'erijj hhlh'}, {'ericw hiyl', 'erosa hwil', 'ewucu whyl', 'erecj hwol', 'erhcw hlwl'}, {'erhka hwel', 'erisg hwol', 'uwicu hehw', 'erizj hyol', 'errca hiyl'}, {'erigx hllh', 'iruga oelh', 'eriqa hiyl', 'erosa hlhl', 'erxwa hwal'}, {'iruco iwly', 'errxa hwal', 'erwca hilw', 'ercci hhlh', 'erijs hyhl'}, {'errca hiwl', 'erowy iely', 'ercsa hyol', 'ergch hwal', 'erecy hwel'}, {'erjia hwul', 'erehe lwwl', 'eriga hwll', 'erizx hwhl', 'erzcy hyel'}, {'erigs hwal', 'erxci hyal', 'uroce hwww', 'ericw hilw', 'ercco hwul'}, {'errca hwll', 'wroya hhiw', 'eresa hwel', 'erisc hwul', 'erccu hhlh'}, {'ericw hiyl', 'erhcx hwul', 'erucy hwol', 'wroka yehl', 'erihx hwhl'}, {'eycia ihhl', 'errca hwll', 'erisq hwhl', 'erwcz hwlh', 'erxua hyhl'}, {'erwca hilw', 'eriyj hyul', 'erzqa hyhl', 'ersja hyil', 'yiwca ohhl'}, {'erizw hhlh', 'wrhza ywwl', 'eroja hyal', 'eryca hily', 'erqco hwlh'}, {'erios hyel', 'eruza hyal', 'hrizw elyl', 'erizk hlhl', 'eriga hhll'}, {'urihy leol', 'erzia hwel', 'eriga hilw', 'erije hwul', 'erzco hwlh'}, {'erecx hyel', 'ersxa hhlh', 'erwza hlhl', 'eriga hiwl', 'oriko lwul'}, {'erhcu hlhl', 'erycc hyil', 'eryca hlll', 'reaca ooyl', 'erqcw hwhl'}, {'wrawa yewl', 'erigk hwhl', 'ersxa hwil', 'eriga hilw', 'erocg hwol'}, {'eriij hwel', 'ericw hily', 'eriqg hllh', 'eerca hyil', 'ewiqy ylel'}, {'eryca hilw', 'erisg hwhl', 'eracx hhlh', 'ewiqi liew', 'eryce hyol'}, {'erwca hily', 'erycx hwel', 'erych hwil', 'erzco hlwl', 'orycu allw'}, {'ergcu hwel', 'erhce hwlh', 'errca hwll', 'eiwsa yuly', 'erkco hwal'}, {'errca hiwl', 'eyycy hohy', 'erhka hwlh', 'erioz hyhl', 'erxce hyil'}, {'ercxa hwel', 'erxza hyhl', 'erycy hyel', 'errca hiyl', 'awija heih'}, {'eyiwo yoil', 'eriso hlwl', 'erijx hwul', 'erxxa hwal', 'eriga hhll'}, {'wrcoa lwwl', 'eriga hlll', 'eriws hllh', 'erhcq hlwl', 'erhck hwil'}, {'erxcy hwhl', 'errca hhll', 'arioc owyl', 'erucq hwul', 'erixh hwil'}, {'erkwa hwul', 'eriga hhll', 'erzua hllh', 'roika ywol', 'erxco hwol'}, {'erwca hily', 'eracq hyul', 'eracy hwel', 'reaca iwlw', 'ersza hwil'}, {'ercia hwel', 'eriqj hyil', 'eracq hyal', 'eriqa hyll', 'ewiqh lalh'}, {'erhxa hlwl', 'ercia hyal', 'yrixw yohl', 'erkqa hhlh', 'ericw hlll'}, {'ericw hiyl', 'erixh hwol', 'eriuj hylh', 'ewixu iehl', 'erwza hyal'}, {'eyych yuwl', 'errca hwll', 'errxa hyal', 'eerca hhlh', 'erihx hlwl'}, {'erxci hwel', 'erwcx hlhl', 'oriak yehl', 'erqya hyul', 'errca hlll'}, {'eyyce ywyl', 'eryic hlwl', 'erkja hyil', 'eriso hwhl', 'ericw hlll'}, {'erwca hily', 'iriwo ylli', 'erxcy hyul', 'ersya hllh', 'eriwz hhlh'}, {'eriqa hiyl', 'erxaa hwhl', 'whiwa hwyy', 'erxco hwel', 'erzaa hyul'}, {'ericw hiyl', 'ereja hyal', 'eyyga hyiw', 'erigi hyol', 'erssa hwel'}, {'erhci hhlh', 'erqha hlhl', 'erycg hyul', 'eryca hiwl', 'eyycu hwhw'}, {'eriws hwlh', 'eriga hhll', 'urcoa iwel', 'ercga hwil', 'erjha hyal'}, {'erqcu hylh', 'eracj hwol', 'orhka ywly', 'ericw hyll', 'erjqa hyul'}, {'ericw hhll', 'erasa hhlh', 'eriix hyil', 'erwcq hyul', 'eiwha ouyl'}, {'eryic hyol', 'erijg hlwl', 'eriga hlll', 'ereza hwhl', 'uyyca yely'}, {'ewiqu wyil', 'ersha hwal', 'eerca hyul', 'erwca hwll', 'erqxa hwlh'}, {'errcy hhlh', 'errca hwll', 'ersce hyil', 'ewiju wlle', 'erigh hwol'}, {'erzia hhlh', 'awiqa aiyw', 'eriuj hyil', 'eriqa hhll', 'ergsa hyol'}, {'erhcq hyil', 'eriqa hlll', 'erixx hwul', 'hrhza huiw', 'eriss hyel'}, {'errca hiwl', 'iruja uolw', 'eracg hhlh', 'ersja hlhl', 'erzka hwhl'}, {'wrizw whly', 'erizh hhlh', 'eriga hhll', 'erhcc hyol', 'erisu hwhl'}, {'erhcy hyil', 'iruha ihly', 'ersaa hwhl', 'erizj hllh', 'eryca hhll'}, {'erhcu hhlh', 'erhcz hwlh', 'erhja hwul', 'roicu heww', 'eryca hhll'}, {'eriiz hwil', 'ewiku wwlh', 'eryca hlll', 'erizc hyil', 'erwch hwul'}, {'ayyca ywli', 'erjco hyil', 'eroxa hwlh', 'ericw hyll', 'erzco hylh'}, {'eriqg hllh', 'eryca hilw', 'eryio yehl', 'erkha hyel', 'erscu hwhl'}, {'ercsa hwul', 'wrece hehh', 'eriga hilw', 'erisz hyal', 'erwza hwil'}, {'ersza hylh', 'eryca hilw', 'orikh hhaw', 'erios hyul', 'erycy hllh'}, {'ersha hyol', 'erzcu hyhl', 'yruza lhiw', 'ergka hwel', 'eriqa hilw'}, {'eriqa hily', 'erzsa hllh', 'erscw hwul', 'hrike wywl', 'erjua hhlh'}, {'eryhy wlel', 'erizy hllh', 'erizk hwol', 'erucq hlwl', 'eryca hhll'}, {'reico loli', 'errca hiwl', 'erqha hwal', 'erijc hlhl', 'eries hylh'}, {'ersoa hhlh', 'ericw hwll', 'erwcj hyul', 'eriaj hwol', 'ewoxa whyl'}, {'eryca hilw', 'erocx hwol', 'erhce hllh', 'erjha hyal', 'arijo ylol'}, {'uruco lihw', 'eriga hyll', 'erkco hyal', 'erksa hyol', 'ercch hllh'}, {'erkga hwel', 'origh uhhl', 'ergqa hwal', 'erecx hwol', 'eryca hhll'}, {'ruoca hhih', 'erijy hyol', 'erwja hllh', 'eriqa hiwl', 'eracy hwlh'}, {'recia ulwl', 'eriqa hiwl', 'eroza hyhl', 'erwcy hwil', 'eryci hwel'}, {'ericw hiyl', 'eruxa hylh', 'ewwqa hwhy', 'eracj hhlh', 'eriqh hyul'}, {'erwca hily', 'erzga hwol', 'eyece yoil', 'erhxa hyil', 'ercco hwel'}, {'eriga hyll', 'erjcw hyul', 'erjxa hyhl', 'erige hwol', 'eiwci lhli'}, {'erijw hlwl', 'hriac wwel', 'errca hhll', 'erigx hwol', 'erihx hyil'}, {'ericw hily', 'erxya hyol', 'ersja hyhl', 'wriaw liyh', 'errza hwil'}, {'erizw hwul', 'eriga hily', 'ewiac ewlh', 'eracj hhlh', 'erisx hwol'}, {'wriwu luil', 'ersco hyel', 'erzce hwal', 'erocx hylh', 'eriqa hyll'}, {'erizq hwhl', 'ersia hlhl', 'erxqa hyul', 'erwca hyll', 'uroja allh'}, {'erwca hily', 'erkco hllh', 'eriij hwul', 'hriac iyhl', 'ergcy hyel'}, {'erjce hlhl', 'errcy hwel', 'eriga hlll', 'yriwo iyhl', 'eriss hwlh'}, {'eroxa hyol', 'eryca hwll', 'wrocy ehlh', 'erocx hwol', 'erijg hwel'}, {'eriqa hwll', 'ercqa hwul', 'uiwca hyiy', 'erccu hyol', 'erkcy hylh'}, {'uruha hyuw', 'erwca hhll', 'eroja hyal', 'erihs hhlh', 'erxaa hwel'}, {'erwca hiwl', 'errza hyol', 'erewo yyly', 'erswa hllh', 'erkya hyil'}, {'ehioc ihol', 'ericw hily', 'erqcu hwal', 'ercxa hllh', 'erhck hyul'}, {'erzia hyul', 'erwca hilw', 'oiwca hwwi', 'ergxa hyil', 'erkcy hyal'}, {'ergci hwal', 'ericw hhll', 'erjia hwol', 'erhck hwlh', 'eyyka yowl'}, {'ersoa hyol', 'eiwza hwuw', 'eraja hwel', 'ericw hiwl', 'erzch hwil'}, {'erias hwel', 'erxcu hyil', 'aroxa uyyl', 'erwca hlll', 'erssa hllh'}, {'erjce hyul', 'ergsa hlwl', 'ercch hwal', 'ericw hiwl', 'eyyka hayh'}, {'ewiyu eelh', 'eriss hwal', 'erqka hwol', 'erzci hwlh', 'errca hily'}, {'reika ahlw', 'erjya hylh', 'eeric hwlh', 'eriga hwll', 'erjqa hwil'}, {'eerca hyhl', 'erscu hyal', 'erewo ulhl', 'erucq hwal', 'eryca hlll'}, {'erkga hlhl', 'erwhy wwel', 'eriga hilw', 'erhck hyil', 'erixi hwol'}, {'erswa hyul', 'erhcq hllh', 'wriwy huiw', 'erwca hlll', 'ergka hwul'}, {'erish hwal', 'erijh hwhl', 'erizc hwlh', 'ericw hlll', 'urcia lylw'}, {'ericw hhll', 'eresa hyal', 'erhga hllh', 'ersia hyol', 'ehycu allw'}, {'erwca hiwl', 'erhcq hlwl', 'erhcs hwal', 'erexa hyul', 'irucy wlal'}, {'ercce hwal', 'erjcy hwhl', 'ericw hilw', 'ergcy hwil', 'reisa hwhy'}, {'erwca hyll', 'erisy hllh', 'yriaz wwlw', 'erihj hylh', 'erhcs hwlh'}, {'urucw alil', 'erzua hyel', 'erxch hwhl', 'eriqa hhll', 'erkqa hyil'}, {'erycx hwel', 'erxwa hyal', 'eryca hiyl', 'wrwza lwul', 'erjcu hwol'}, {'erwca hiwl', 'ergce hhlh', 'iruza ywil', 'eracj hyal', 'erysa hyhl'}, {'ercja hyal', 'erjea hwlh', 'erijh hyol', 'eriqa hyll', 'rwicu laol'}, {'erxga hyal', 'eriqg hwil', 'ewecu wulw', 'eriga hiwl', 'erise hyil'}, {'erqci hwhl', 'errca hhll', 'reiga hehh', 'erkqa hyil', 'eracx hyel'}, {'eryca hiyl', 'eroza hhlh', 'eruxa hyhl', 'wrwha hwhy', 'erigz hwlh'}, {'eryza hllh', 'eries hyil', 'eraja hyel', 'wroka wiww', 'eriqa hiwl'}, {'erxco hyel', 'erzxa hyil', 'ehihy yuil', 'erijw hyhl', 'eriqa hilw'}, {'erxcw hwlh', 'erixh hyil', 'iruco heyh', 'eryca hyll', 'ergsa hyul'}, {'erych hwol', 'orikw ahlh', 'eryca hlll', 'erhcu hllh', 'erisw hwhl'}, {'eriga hlll', 'erhcj hlhl', 'uroga yywl', 'eracq hwal', 'eriqj hyul'}, {'erwca hiwl', 'arioc liih', 'eriax hyel', 'erisk hyhl', 'erisq hwlh'}, {'eriix hwal', 'erixi hwlh', 'ergka hlhl', 'eryca hiwl', 'ewiqh yllw'}, {'erasa hlwl', 'raicu hyhw', 'eriga hlll', 'erycq hwel', 'erixe hwal'}, {'eriga hiwl', 'wriwy yoil', 'ergka hyhl', 'erwcs hlhl', 'eruxa hyil'}, {'errca hiwl', 'eriqx hwal', 'eriws hyil', 'reiya iolh', 'erhcs hwlh'}, {'ewiqi uwlh', 'ericw hiyl', 'erkza hyel', 'erizo hlwl', 'ergha hwal'}, {'eriiz hlhl', 'aiwca hewh', 'erzqa hyil', 'eriga hwll', 'erwcc hwul'}, {'erikj hyel', 'urusa uhwl', 'errsa hyul', 'eriqa hyll', 'erizw hwal'}, {'eruxa hyel', 'ericw hhll', 'erska hwel', 'erqcw hwal', 'wwwca uahl'}, {'erwcy hhlh', 'erocg hlhl', 'erikh hyal', 'eyyha lyil', 'errca hily'}, {'erizh hllh', 'erqga hwlh', 'weiqa lhol', 'erycg hwal', 'eriqa hilw'}, {'reoca uahl', 'erycg hhlh', 'erysa hwhl', 'erocj hylh', 'eryca hiyl'}, {'iruha hyiy', 'erwcc hwlh', 'erizs hyol', 'erwca hiyl', 'erijw hwel'}, {'errca hilw', 'eroza hwal', 'reoca hayw', 'erizj hyil', 'eriqz hyhl'}, {'erxza hyol', 'erigx hyil', 'yriqw heih', 'erixi hllh', 'ericw hwll'}, {'errca hiwl', 'ergxa hyhl', 'erixz hwol', 'erehy hoiw', 'erkce hyol'}, {'erwca hiwl', 'erwcc hwel', 'uroch aelh', 'ersga hlhl', 'erucj hyol'}, {'ericw hiyl', 'erwcz hyhl', 'erscu hwol', 'orhka aowl', 'erocq hwul'}, {'ewizw uhlw', 'erxqa hwlh', 'erxha hwol', 'erhco hyel', 'eriga hwll'}, {'ruoca uuly', 'ergci hyal', 'eriyz hyul', 'ercco hyil', 'eriqa hlll'}, {'errca hilw', 'erwcj hyil', 'erius hlhl', 'ewoqa hayy', 'erwja hylh'}, {'erigy hlwl', 'eriqa hwll', 'ergia hyul', 'orwka yulh', 'ersia hhlh'}, {'erios hlwl', 'ewixu aeyl', 'erwca hwll', 'ercch hlhl', 'eriaz hwil'}, {'ergco hyel', 'erijw hyol', 'oriwo lulh', 'eryca hily', 'erigi hllh'}, {'eryca hilw', 'eriax hyil', 'yreza huwh', 'erzcu hwil', 'erzia hyol'}, {'hyyca ielh', 'erscw hyel', 'erjaa hyhl', 'erwcq hllh', 'eryca hiwl'}, {'erqwa hhlh', 'erjoa hwel', 'uroja wolw', 'erjua hyel', 'errca hlll'}, {'erocy hyhl', 'irihy allw', 'ercco hyil', 'errca hyll', 'ergcu hyal'}, {'ergcw hwil', 'uruce oyyl', 'ercya hyhl', 'eryca hhll', 'erxza hlhl'}, {'erscy hylh', 'yrocy aowl', 'eriga hlll', 'erijk hyol', 'eriqx hwul'}, {'erwca hiwl', 'erizk hhlh', 'ewocy lwal', 'erzaa hyel', 'eerca hyil'}, {'erjka hwlh', 'ewiqo ilyh', 'erihs hyul', 'eriga hhll', 'erqza hyel'}, {'errci hyul', 'ercxa hwhl', 'uruxa lhlh', 'erwca hlll', 'erigk hlwl'}, {'ergza hlwl', 'ercya hwhl', 'ehiwo oahl', 'eryca hilw', 'eriss hyil'}, {'wroco hwww', 'errca hilw', 'erhcq hyel', 'erhcc hlhl', 'erscu hllh'}, {'erjaa hwel', 'ergxa hyul', 'iruya ylyl', 'ergch hwil', 'eriqa hyll'}, {'eriqa hily', 'erscw hwil', 'erhhy lwhl', 'erkcw hyal', 'errce hwal'}, {'ercqa hlwl', 'ewiqi hwiw', 'eriga hilw', 'ercwa hwol', 'ergwa hwlh'}, {'errca hilw', 'wriww uhlh', 'erzcw hyal', 'erhce hhlh', 'ercea hylh'}, {'erwcx hwlh', 'errca hwll', 'erewe yywl', 'erjua hwal', 'ergea hyal'}, {'eriqa hily', 'eriqx hyul', 'erijg hwhl', 'erkya hwlh', 'erwio ilah'}, {'eriqa hily', 'ehyka oehl', 'erkci hhlh', 'erecg hwol', 'erige hyhl'}, {'errca hiwl', 'erizw hllh', 'erkja hwol', 'ergha hlhl', 'wwwca ehly'}, {'errca hiwl', 'erisj hwhl', 'ersga hwal', 'arike hwwi', 'erizk hyal'}, {'erwca hily', 'erxqa hwhl', 'erkga hyul', 'ercxa hwal', 'arijo howy'}, {'eiwcu yyil', 'erias hwhl', 'errca hhll', 'eracx hhlh', 'ergcw hwel'}, {'ersga hwil', 'eriqa hwll', 'erigj hwol', 'hrigh wiwy', 'erhcz hyhl'}, {'ergcw hwil', 'ergha hyal', 'eryca hwll', 'yrhcw wawl', 'erixj hwel'}, {'eryci hyil', 'yrizo heyw', 'erycj hyul', 'eracq hhlh', 'ericw hwll'}, {'eriws hlhl', 'ericw hiyl', 'ersya hwel', 'ercea hlwl', 'ehioc wyal'}, {'eruhy iley', 'eriqs hwul', 'erwca hilw', 'erkci hyel', 'erqxa hwil'}, {'erzya hwul', 'eryca hwll', 'erksa hyil', 'ergch hyal', 'irigh hhyh'}, {'erijx hwel', 'ewiqu hwwh', 'ericw hyll', 'erqza hhlh', 'erzoa hlhl'}, {'eriiz hwul', 'ersxa hyel', 'eriga hiwl', 'erigj hlwl', 'eyiac loel'}, {'erwca hiwl', 'ercci hwol', 'erisj hwel', 'wrizw iuwl', 'ercza hhlh'}, {'eriga hlll', 'ergcw hllh', 'wyyca yylw', 'erigk hyal', 'errce hwhl'}, {'iurca ywwl', 'eryja hyhl', 'eriqa hwll', 'ersxa hyul', 'erigi hwil'}, {'errci hyil', 'eriga hyll', 'erqsa hyol', 'irucy hwwh', 'erwcs hwal'}, {'eraza hllh', 'eriqa hhll', 'eriix hlhl', 'eroza hyhl', 'ewiku ayyl'}, {'erigy hlwl', 'eyywa heih', 'ericw hilw', 'erosa hllh', 'erwsa hhlh'}, {'erixw hyal', 'uruxa hhww', 'ergci hyel', 'ersja hyul', 'ericw hiwl'}, {'erycg hylh', 'eriax hyal', 'errja hwol', 'erhwo iuyl', 'eriga hilw'}, {'eiwja iuly', 'erikh hwol', 'erizq hyhl', 'eruxa hwlh', 'ericw hlll'}, {'eryca hiyl', 'erccy hwhl', 'yrigh iylh', 'errxa hyel', 'erikj hylh'}, {'erzsa hhlh', 'yriac ouyl', 'errca hiyl', 'ersia hwil', 'eriys hwal'}, {'yrizu yulw', 'erwca hhll', 'ergci hhlh', 'erizh hyhl', 'ergea hwlh'}, {'eriga hlll', 'ewoxa liww', 'erqja hwlh', 'erkch hyal', 'erkco hhlh'}, {'ersci hwol', 'ergch hyal', 'eryca hiwl', 'erska hwlh', 'wroqa leul'}, {'erasa hlwl', 'erycg hwul', 'erijh hyil', 'eiwwa ilhh', 'errca hyll'}, {'erihz hlhl', 'errsa hwol', 'eriga hilw', 'erqxa hwal', 'weicu huyw'}, {'erexa hllh', 'eiwza ywlh', 'eriga hiwl', 'erhcs hyel', 'erwja hwil'}, {'erisi hhlh', 'erysa hwlh', 'wrwka iowl', 'errca hily', 'erqci hllh'}, {'eriji hllh', 'irycu hayw', 'erzaa hwil', 'erjea hwul', 'eriga hwll'}, {'erisj hwol', 'eriga hyll', 'orkia ualw', 'eriex hyol', 'ercqa hyal'}, {'erzxa hyul', 'erhcu hwul', 'awija wwil', 'eryca hhll', 'erwcc hwol'}, {'ergia hwol', 'eriqa hily', 'ewecu iylw', 'eriij hyil', 'erixc hlwl'}, {'errca hiwl', 'erxch hwil', 'yrocy wwul', 'erigk hyal', 'erxka hyil'}, {'erwca hiwl', 'wwoca oyhl', 'erecx hwhl', 'erwcz hyal', 'erhcc hwil'}, {'yeyca uhwl', 'errca hwll', 'erihj hyil', 'erkci hyel', 'erjxa hllh'}, {'ergco hwel', 'eresa hwlh', 'eriqa hhll', 'ersco hlhl', 'ewihy ellh'}, {'orioc ehly', 'erijq hyul', 'erixz hlwl', 'eryca hhll', 'ersea hwlh'}, {'eyyco lioy', 'errca hhll', 'erycg hyul', 'erqxa hyhl', 'erjza hhlh'}, {'erwca hily', 'yrizo elel', 'erxaa hwol', 'eruxa hyul', 'erqch hhlh'}, {'ericw hiyl', 'yhicw hwwi', 'erijx hyol', 'erwsa hllh', 'erjcw hwil'}, {'eriga hilw', 'orece uhlw', 'erigh hyol', 'errsa hyul', 'eriqx hyhl'}, {'iriac yiwh', 'erzch hyol', 'erius hlhl', 'errca hyll', 'erzco hyul'}, {'eryca hilw', 'ersch hhlh', 'eruwo ialy', 'erzia hwlh', 'erwic hwil'}, {'erwca hiwl', 'erzaa hyil', 'yriww oowl', 'erxea hyol', 'eruja hwlh'}, {'erxza hylh', 'erqza hwhl', 'erixx hwol', 'eirwa hyww', 'ericw hiwl'}, {'erwca hilw', 'erqco hyel', 'erjce hwel', 'uroga wawl', 'erqha hlwl'}, {'erecg hwul', 'erkxa hyel', 'wrwsa ilwh', 'erwca hilw', 'erxcu hyil'}, {'wrwcu awyl', 'erhcg hllh', 'erssa hyul', 'erjka hylh', 'eriga hhll'}, {'erjcu hlhl', 'ericw hily', 'eriex hyel', 'ehike wwyl', 'erjia hwlh'}, {'errca hilw', 'eriji hwlh', 'ercqa hyil', 'erjha hwil', 'erywo hyiw'}, {'erijz hyhl', 'erhqa hyil', 'ywiza ieyl', 'ergcu hwlh', 'eriga hilw'}, {'erijy hyel', 'erigj hwil', 'eryca hily', 'erycc hlwl', 'urucw yiyw'}, {'errca hiwl', 'eriqx hwal', 'ercha hylh', 'ersya hwul', 'reicu iulw'}, {'erixw hwil', 'eriqa hiwl', 'wrihy liiw', 'erwic hwol', 'erisj hyol'}, {'eryca hilw', 'erisw hyul', 'aryka yely', 'ercxa hwhl', 'erzja hyhl'}, {'erijj hllh', 'erwca hilw', 'ewiaq wlwl', 'erhcq hwil', 'erhcc hyol'}, {'erwca hhll', 'erixi hwhl', 'urcoa hwyh', 'erkwa hyil', 'ergha hwul'}, {'erxco hwlh', 'eriix hylh', 'errca hhll', 'ehizw iiyh', 'erucx hlhl'}, {'uroco ohwl', 'eryca hiyl', 'erxya hylh', 'erizq hwel', 'erhga hhlh'}, {'erise hyel', 'ircua iwlh', 'eriez hwel', 'eriga hwll', 'erisi hyal'}, {'erwca hiwl', 'erzga hwal', 'eriqh hyil', 'erxka hylh', 'wriwe owlw'}, {'erwio yolw', 'eryic hwil', 'erqco hylh', 'erzua hlwl', 'eryca hhll'}, {'erkya hylh', 'uhoca hyww', 'erzcw hwhl', 'eriqa hlll', 'eryce hwal'}, {'erjwa hwol', 'erscy hyil', 'iewca hhyw', 'errca hiyl', 'ereza hylh'}, {'erhka hwel', 'ergci hwlh', 'eyigh wlla', 'eriga hhll', 'erios hllh'}, {'eriyj hllh', 'erhwo alil', 'eriqh hwal', 'erych hhlh', 'erwca hwll'}, {'erscw hwil', 'eries hyel', 'yrocy eawl', 'eryca hily', 'erisg hwlh'}, {'erecq hllh', 'erhja hhlh', 'eryca hlll', 'riicu hawy', 'eriqs hwhl'}, {'erhcy hwhl', 'eryca hwll', 'erxce hhlh', 'irigh hwey', 'ercya hylh'}, {'errca hwll', 'erikx hyhl', 'erzce hyol', 'ergch hlwl', 'yrihw olly'}, {'ericw hhll', 'erzce hyel', 'erzga hyul', 'erijc hhlh', 'yeicu aiyy'}, {'eraza hyel', 'ersga hlwl', 'iruwa whlh', 'errce hwlh', 'eriqa hilw'}, {'erwca hily', 'erwxa hllh', 'erxea hwlh', 'erycg hwil', 'eyyci aiyy'}, {'ericw hiyl', 'wryka yihw', 'erijg hyul', 'erixq hyhl', 'erihx hwel'}, {'eyyxa yylw', 'erocx hwhl', 'erwca hhll', 'ersia hwol', 'erhck hllh'}, {'erkcw hhlh', 'erzja hwil', 'wrowa wwly', 'erocj hlhl', 'ericw hlll'}, {'erikj hllh', 'erqcy hyhl', 'erwcy hwhl', 'ewcia ilyw', 'eriqa hilw'}, {'erias hyhl', 'eryza hwil', 'ericw hilw', 'erihz hhlh', 'ewocy yehl'}, {'ercch hhlh', 'erwca hyll', 'eruxa hwel', 'errja hylh', 'ewycu liyh'}, {'erxco hhlh', 'wrwja ilhw', 'eryca hyll', 'erxia hwol', 'erycq hyal'}, {'eruza hyol', 'erisu hylh', 'ericw hyll', 'uroja alwl', 'erijg hwlh'}, {'erycj hylh', 'ercce hwlh', 'eyych yllu', 'errca hily', 'ercqa hllh'}, {'erijj hyil', 'awicu lhlh', 'ericw hhll', 'ergch hhlh', 'eriiz hllh'}, {'ergxa hlwl', 'erjoa hwil', 'errca hhll', 'erxch hylh', 'yriww wiwy'}, {'erwca hiwl', 'yrizu hwah', 'eriij hylh', 'ergcw hyil', 'eriyx hwol'}, {'erixu hwlh', 'reuca eohl', 'ergcy hyhl', 'errja hlhl', 'erwca hiyl'}, {'ewiku hoyh', 'eriju hllh', 'erihx hyul', 'errca hiyl', 'erkqa hlwl'}, {'erizx hlhl', 'uruha liew', 'ersoa hwel', 'errca hyll', 'erwce hyhl'}, {'ercea hyol', 'eryca hwll', 'eryhy iylw', 'erzea hwal', 'erxwa hwol'}, {'eriga hyll', 'uiwca iuyl', 'erasa hllh', 'erocq hyhl', 'erixj hhlh'}, {'yriqw huwy', 'erzga hyil', 'eriax hwil', 'erwca hwll', 'erqja hwhl'}, {'erixu hyul', 'erecx hyel', 'erigx hyol', 'wrosa uoyl', 'errca hyll'}, {'erkcu hyil', 'erkja hwlh', 'orihy yiww', 'erjxa hyal', 'eriqa hyll'}, {'erijw hhlh', 'erwcy hyol', 'erosa hylh', 'ircia oowl', 'ericw hwll'}, {'eriga hily', 'erije hylh', 'erucg hwil', 'erizu hwol', 'roicu lylw'}, {'erucx hyhl', 'erwch hyal', 'eryca hiwl', 'eyyka oayl', 'erkci hwal'}, {'eriqz hyol', 'uruja awwl', 'eriga hiyl', 'eracj hwhl', 'eriju hyhl'}, {'wrawa ehlw', 'erxga hwil', 'erwca hiyl', 'erjci hwel', 'erwcs hyal'}, {'erjxa hyil', 'ywiqa hoyh', 'eriqg hyal', 'erjea hwul', 'eriqa hlll'}, {'erocy hlwl', 'errca hwll', 'eruza hwil', 'erecy hwel', 'riicu yiyw'}, {'ircia ihyl', 'ericw hily', 'eriqh hwul', 'erhco hwal', 'erihz hhlh'}, {'eruja hyhl', 'ewiju iiyh', 'erhxa hwol', 'eriga hiwl', 'erjxa hllh'}, {'erijw hwal', 'erzxa hyul', 'erwhy hwwh', 'ericw hilw', 'erhcq hwil'}, {'aiwca ahyl', 'errca hhll', 'ersha hllh', 'erzsa hwlh', 'ergka hyel'}, {'erijo hyul', 'reiha yiww', 'erwcq hwol', 'erxcy hwal', 'ericw hlll'}, {'irihy hhih', 'ergqa hwal', 'eriqa hhll', 'erisc hwul', 'erixw hyel'}, {'wrwxa yuwl', 'ersoa hylh', 'erisy hyil', 'eriox hwil', 'errca hiyl'}, {'erwcx hwlh', 'eriqx hyel', 'eriga hiwl', 'urucu ylel', 'ercwa hwal'}, {'eriax hwlh', 'erjya hyel', 'erqcy hlwl', 'wrwcy hehy', 'eryca hhll'}, {'errca hilw', 'erjha hlhl', 'erhja hlwl', 'erkga hhlh', 'reici huhy'}, {'erijo hwel', 'yroxa olly', 'erqxa hylh', 'erucg hllh', 'ericw hwll'}, {'erijk hyel', 'arhza oeyl', 'eriqa hhll', 'erasa hllh', 'erwcc hwil'}, {'erkwa hwul', 'eryca hiyl', 'hwicu lhiy', 'eracx hwel', 'erqga hyal'}, {'ersoa hwil', 'erzka hwel', 'ywicw ywlh', 'eriqa hyll', 'erjwa hwul'}, {'eroza hwil', 'eriqx hlwl', 'wrwha welh', 'ercja hhlh', 'ericw hlll'}, {'wrwch oohl', 'erqcy hyil', 'eriga hiwl', 'erhcs hyul', 'erwza hwlh'}, {'erwca hyll', 'erysa hlwl', 'erzci hwlh', 'erijo hyhl', 'arycu lhli'}, {'erqcu hwul', 'orioc yolw', 'erwca hhll', 'erccw hwlh', 'erwcq hwel'}, {'erhce hwal', 'urike hhhy', 'erxce hyel', 'erycs hhlh', 'eriqa hlll'}, {'eyysa oeyl', 'eriqs hwlh', 'erijy hyal', 'erwca hlll', 'eraxa hwhl'}, {'erwca hyll', 'eiwha leil', 'erioj hwol', 'erqci hyil', 'erijh hwel'}, {'orkia liyy', 'eriqa hiyl', 'erych hllh', 'erhcg hwal', 'eruja hwol'}, {'erxga hyol', 'erijo hwhl', 'ewoxa lelh', 'erzci hyul', 'ericw hlll'}, {'eracg hwhl', 'erosa hyul', 'yryka hayw', 'eryca hiwl', 'erkha hlwl'}, {'ergci hwil', 'reoca ialh', 'erigj hyul', 'ericw hiwl', 'erxwa hwel'}, {'ariwo whlh', 'ericw hhll', 'erjch hwul', 'ergza hylh', 'erzci hhlh'}, {'eriwz hylh', 'errca hwll', 'erswa hwel', 'ayija iulh', 'eriso hlhl'}, {'errca hiwl', 'iwicu ulhl', 'erjcw hwol', 'erhcx hhlh', 'erijj hyol'}, {'eryca hilw', 'erhga hwil', 'eraja hyhl', 'wryka wawl', 'erhcz hwol'}, {'erikg hylh', 'ersea hwel', 'eraja hyhl', 'yrhza uhlh', 'eriqa hyll'}, {'eriij hyel', 'erocg hwal', 'wroxa hywh', 'eruxa hyhl', 'eriga hwll'}, {'eriqa hiyl', 'erixy hwlh', 'ercya hyhl', 'wrawa hwey', 'errcy hylh'}, {'erecj hyal', 'errca hily', 'erizk hwel', 'iruci ahlh', 'erwcc hwil'}, {'orioc wwli', 'erzcw hyol', 'ergwa hyhl', 'eryca hiwl', 'ersza hwhl'}, {'erych hwhl', 'eryca hwll', 'erixq hyhl', 'ersja hlhl', 'ewiqy wiyy'}, {'ercga hyal', 'ruicu ialy', 'eriga hiwl', 'erhsa hyhl', 'eriis hyil'}, {'erzci hlwl', 'weiqa hyyy', 'erish hwel', 'ericw hyll', 'eracj hyal'}, {'eryca hwll', 'yiwca heyh', 'erzia hlhl', 'eraxa hyhl', 'erize hyil'}, {'erhck hwhl', 'urucw wwwl', 'eracy hwel', 'eriqa hhll', 'ereza hyhl'}, {'yriac yelw', 'erhcu hwul', 'ericw hiwl', 'erjwa hllh', 'eriji hyil'}, {'erjco hwil', 'eriej hwel', 'ehocy ihlh', 'eryca hyll', 'erhja hyul'}, {'erccu hyhl', 'erjco hylh', 'erigs hyol', 'eriga hilw', 'wrwka welh'}, {'erkcy hwul', 'eriqa hlll', 'eriis hwal', 'eweqa uelh', 'erzaa hwhl'}, {'ercja hyel', 'erixw hylh', 'eriga hiwl', 'erihs hhlh', 'hriwo wwul'}, {'erjcw hhlh', 'erjci hwhl', 'erwcq hwlh', 'eriga hwll', 'wroxa hhwy'}, {'erksa hyal', 'yrocw hyiy', 'erwca hyll', 'erqcw hllh', 'erkci hwal'}, {'ergcy hlwl', 'erycs hlhl', 'wrizw wahl', 'erwcy hylh', 'eriqa hyll'}, {'erecj hyol', 'irycu elly', 'erisz hwul', 'eryca hhll', 'errcy hlhl'}, {'eriga hyll', 'erjka hyal', 'wriwh wowl', 'erqka hwal', 'erxqa hwul'}, {'ergqa hwil', 'eriga hiwl', 'erxea hwlh', 'wrwka ilah', 'erycg hllh'}, {'erksa hwlh', 'eryca hhll', 'erzcy hwal', 'erccu hylh', 'hriwo hweh'}, {'eryxa hyul', 'erwca hhll', 'eriaz hwol', 'erycq hyhl', 'aroxa wihy'}, {'ewiju lail', 'erqha hyil', 'eriqa hhll', 'erqka hyel', 'erioj hlhl'}, {'erscw hyul', 'erixo hyil', 'erwca hyll', 'erhxa hwal', 'oryka olly'}, {'yrcia hhwy', 'ergja hwhl', 'ericw hiwl', 'eriss hllh', 'erycc hwil'}, {'erycc hwhl', 'wyoca lylw', 'eriqa hhll', 'erhck hyel', 'erige hyhl'}, {'erisu hyel', 'yiwca yylw', 'erycq hwul', 'ericw hilw', 'erxci hwal'}, {'erzha hwal', 'eryca hlll', 'yrhza iwel', 'ersga hwol', 'erjoa hllh'}, {'erwcc hyel', 'erixi hwhl', 'eriga hhll', 'arhza lihh', 'erzea hwel'}, {'hrycu ouhl', 'errca hwll', 'erizo hyol', 'erecq hwal', 'erucy hwil'}, {'erjka hwel', 'eriga hiwl', 'orwka yyyl', 'ersqa hwhl', 'eriqk hyhl'}, {'errca hilw', 'eriex hwol', 'erucy hwel', 'uroce aowl', 'erizu hlwl'}, {'iruch uulw', 'erigh hwlh', 'ergwa hyul', 'erecq hylh', 'eryca hyll'}, {'ersja hwlh', 'ergwa hhlh', 'eryca hyll', 'eriyx hwel', 'oraka iayl'}, {'erhsa hwhl', 'wrewa yiyh', 'eriso hwel', 'erycx hwul', 'eriqa hlll'}, {'eriqk hyul', 'erzea hyal', 'ewuqa yelw', 'erxka hylh', 'eriga hiyl'}, {'errca hilw', 'erizw hlwl', 'erucq hwal', 'erxcy hllh', 'airca oihw'}, {'erigs hwal', 'eruxa hyel', 'erccu hllh', 'ewiwo huhy', 'eryca hyll'}, {'wroxa wwwl', 'eryci hylh', 'erkha hhlh', 'eriga hwll', 'erjcw hwil'}, {'erijc hwal', 'erzha hyul', 'eriqa hily', 'erwcy hllh', 'irucy iolh'}, {'ericw hhll', 'erixi hylh', 'erzya hwhl', 'eries hlhl', 'eyike huyw'}, {'ercia hyil', 'irusa walh', 'eryca hiwl', 'erias hyel', 'erxga hhlh'}, {'erixg hyel', 'ercqa hyal', 'erizx hwel', 'awija yeyl', 'eryca hyll'}, {'erwca hiwl', 'errza hyil', 'erqsa hyal', 'erssa hhlh', 'yrecw ilhy'}, {'erizh hlhl', 'erisk hyal', 'errca hhll', 'arhza wiwh', 'erxya hwal'}, {'eriga hlll', 'erzqa hwel', 'eiwce iyul', 'erijz hllh', 'erjch hwhl'}, {'erkwa hwil', 'eriqa hily', 'yroxa ialw', 'erkce hwhl', 'erixh hwel'}, {'eryca hwll', 'erizk hwul', 'eriyx hhlh', 'iruya heyy', 'ersaa hwel'}, {'eriuj hwlh', 'wrocy owlw', 'erizg hlwl', 'erhsa hllh', 'eriga hwll'}, {'erska hllh', 'eriys hwol', 'ericw hilw', 'wroga iolw', 'errza hyhl'}, {'errca hwll', 'erisq hlhl', 'wrwwa hwih', 'ercea hwal', 'eresa hwhl'}, {'erish hhlh', 'erwca hhll', 'eyyce hewh', 'erise hllh', 'erqza hwol'}, {'ewiqu whul', 'errza hwil', 'errca hiyl', 'erijo hyal', 'ersqa hllh'}, {'erusa hlhl', 'erhqa hwel', 'eryca hilw', 'erjja hyel', 'wroce awyl'}, {'erijz hwhl', 'eruza hwal', 'eriqa hiyl', 'erecx hwil', 'yrixw whul'}, {'erhck hyel', 'erzch hwol', 'eyyci yalw', 'erhcz hwhl', 'eriga hilw'}, {'ersxa hyil', 'erycx hyel', 'iruce whly', 'erhga hwul', 'erwca hlll'}, {'erise hhlh', 'erhcj hyhl', 'erzxa hwlh', 'eriqa hlll', 'ayyca ilah'}, {'erzia hyhl', 'reiqa eawl', 'erikh hwul', 'eriqa hyll', 'erjka hyol'}, {'ericw hiyl', 'erish hwol', 'erisz hyul', 'erqch hlwl', 'yrocw liyy'}, {'erkga hyul', 'ericw hyll', 'ergci hlwl', 'erzco hllh', 'ayyca liyy'}, {'erxcu hwil', 'erkcw hyil', 'ewocu uhly', 'erhza hlwl', 'eryca hyll'}, {'wrywa wiww', 'eriqj hwil', 'eriga hhll', 'erihz hwal', 'ergcy hlhl'}, {'ericw hily', 'erocq hyol', 'erihs hyul', 'erzha hwel', 'rhicu eoly'}, {'eriux hwul', 'ericw hily', 'ergqa hwal', 'yrycw ally', 'eriiz hyul'}, {'ersha hlwl', 'ergza hwol', 'erccw hwlh', 'errca hily', 'wrcoa yihy'}, {'eriys hylh', 'wrywa wwlh', 'erzka hhlh', 'erjha hwal', 'eryca hyll'}, {'erkja hhlh', 'erska hyil', 'wyoca hwyw', 'erize hyol', 'erwca hwll'}, {'yrizh ilyw', 'ereza hhlh', 'erkja hwal', 'eriqa hiwl', 'erxka hyil'}, {'erwca hiwl', 'erwci hhlh', 'eriuj hyal', 'erycg hllh', 'raicu hyww'}, {'erixz hyhl', 'erwhy yuil', 'eriga hhll', 'erihs hwlh', 'erzya hwal'}, {'iwicu aohl', 'erijx hwel', 'eryca hwll', 'ereza hyal', 'erzqa hllh'}, {'ewiwo iowl', 'eriga hily', 'erjqa hyil', 'erikx hwhl', 'erqce hyol'}, {'erhio whiw', 'erijs hylh', 'errca hhll', 'erizw hyul', 'erish hyal'}, {'erosa hlwl', 'erhcw hhlh', 'yryka wyil', 'ericw hilw', 'ersza hyel'}, {'ehoxa ooyl', 'erecj hyul', 'ergea hwal', 'eraxa hwol', 'eriqa hlll'}, {'erwca hiwl', 'erixs hwil', 'erych hyil', 'ewiwo yowl', 'erhcz hyhl'}, {'erwca hiwl', 'erjsa hwil', 'ewucu lolh', 'erigz hwol', 'erxch hwlh'}, {'eriyx hlwl', 'ericw hhll', 'erixw hyal', 'irihy haih', 'erhcj hwil'}, {'erhga hwel', 'erisk hllh', 'wriwe lwlh', 'erwcc hwul', 'eriga hiyl'}, {'eyyja hyyh', 'errca hwll', 'erqja hhlh', 'erzqa hwel', 'erijz hyul'}, {'erzcw hwhl', 'ewiqh lwal', 'errsa hyel', 'erzqa hwel', 'errca hily'}, {'ercja hwul', 'eriss hhlh', 'ewihu hyyh', 'eriej hyul', 'ericw hlll'}, {'ericw hiyl', 'erosa hwlh', 'erkza hllh', 'erxsa hwil', 'hrece uoly'}, {'errce hllh', 'eriqa hiyl', 'erikx hyil', 'erhcw hyel', 'reicu hhww'}, {'eryxa hlwl', 'erjqa hyol', 'eryca hwll', 'wwicu ialw', 'eriqj hwal'}, {'oriac aoyl', 'erssa hwlh', 'eriga hhll', 'erijg hyol', 'erycj hwel'}, {'eriga hily', 'eriaj hwil', 'wruwa uowl', 'eriws hyal', 'erkco hyhl'}, {'eriqa hiyl', 'erwcx hyol', 'erusa hwol', 'erigq hyil', 'iruga hhwh'}, {'erigz hwil', 'erixi hyhl', 'erisc hwol', 'eriqa hlll', 'rwicu iyhl'}, {'erxce hyhl', 'yreza ioyl', 'erizu hwel', 'errci hllh', 'eriga hwll'}, {'eryxa hyol', 'erxoa hylh', 'ericw hyll', 'hriac hhww', 'erxka hhlh'}, {'erwca hiwl', 'rhicu hoyy', 'ercea hhlh', 'erjcw hwal', 'erkja hyol'}, {'erkza hylh', 'ewiwo auly', 'erecq hyhl', 'eriqz hllh', 'errca hyll'}, {'erxco hwhl', 'erwca hyll', 'iyyca whlh', 'ercga hyul', 'erkce hyil'}, {'erzaa hyol', 'erhch hyul', 'eryca hlll', 'erkco hylh', 'eiwga uoly'}, {'erzqa hyol', 'ercja hlwl', 'ewwcu ahyl', 'erycs hyel', 'errca hlll'}, {'erhio ahhl', 'erxga hyel', 'eryca hiwl', 'ercza hwul', 'erhga hhlh'}, {'wroza hyhy', 'erhcq hwol', 'errca hlll', 'erhja hylh', 'ercya hwil'}, {'eriaz hllh', 'errcy hhlh', 'erscy hyol', 'eriqa hlll', 'oriku eowl'}, {'eryca hlll', 'erecq hwlh', 'eriis hwul', 'yhicw ilwy', 'erjua hhlh'}, {'ergwa hyal', 'erhqa hylh', 'eriqa hwll', 'wrcoa uelh', 'erucx hwel'}, {'erzia hyal', 'eriga hily', 'erixe hwlh', 'ewyka yylw', 'erjka hlhl'}, {'eriqa hily', 'erisu hwlh', 'ewyqa awyl', 'erjoa hwhl', 'ergya hyol'}, {'eiwqa yewl', 'eracj hwlh', 'ersja hwul', 'ergha hyel', 'errca hily'}, {'erjce hyel', 'erjaa hwal', 'rewca alwl', 'eriqa hhll', 'erycg hyhl'}, {'ereja hwel', 'ergcw hyul', 'ericw hyll', 'erijh hllh', 'eycia yyil'}, {'ericw hily', 'erkce hwal', 'reyca hoyw', 'erzxa hlhl', 'eracy hwil'}, {'erzia hylh', 'erzka hllh', 'ewoqa iley', 'eriga hhll', 'erzaa hwhl'}, {'eryca hlll', 'erjsa hyel', 'errxa hhlh', 'erywo oohl', 'erzqa hwlh'}, {'ewigh howw', 'eriqa hiyl', 'erijx hyul', 'erigj hylh', 'erwce hhlh'}, {'erhka hyel', 'erjxa hyol', 'ergja hwal', 'ericw hiwl', 'ewihu ialy'}, {'erqwa hwel', 'erikx hwhl', 'errca hlll', 'irucu hehy', 'erijx hllh'}, {'erkci hwlh', 'erxcu hyul', 'erigc hwel', 'irucy hywh', 'errca hyll'}, {'erxea hwal', 'ergya hyil', 'arihy uolh', 'ersha hwul', 'ericw hyll'}, {'eriga hily', 'erixo hwul', 'eiwxa allh', 'erhxa hyal', 'erijz hwlh'}, {'erhcs hwhl', 'erizg hwol', 'eriqa hiwl', 'eweqa lylh', 'erijq hwul'}, {'erehy iyly', 'eryca hiyl', 'erikj hwol', 'eriws hwul', 'eriex hyel'}, {'erwca hiwl', 'erigz hwul', 'erxsa hyhl', 'erzcw hwlh', 'uhuca ylly'}, {'erigk hwil', 'errca hhll', 'eraja hwel', 'eiwya ayil', 'erhka hhlh'}, {'erigh hwlh', 'erqga hlhl', 'iruqa wuil', 'eriqa hiwl', 'erxua hllh'}, {'erhxa hlwl', 'eryca hiyl', 'erxxa hwhl', 'erizu hyel', 'oryka weyl'}, {'ewioc yllu', 'eriqh hhlh', 'erjcy hyol', 'erwca hwll', 'ergxa hwal'}, {'erixx hllh', 'erikj hlhl', 'erxsa hwlh', 'urucy wlli', 'ericw hilw'}, {'erizh hwul', 'erqja hyol', 'eriqa hlll', 'erycs hwal', 'wrwcy yihy'}, {'yrcia aayl', 'erhza hwil', 'ercha hwal', 'erwci hwul', 'eriga hwll'}, {'eriqx hlwl', 'eriix hyil', 'erqha hwhl', 'eriga hiwl', 'erywo owwl'}, {'eriju hwol', 'eriqa hily', 'erizk hyil', 'erjcy hllh', 'orioc ewwl'}, {'erizk hyel', 'errca hhll', 'erixi hllh', 'ehoxa hwhi', 'erisi hhlh'}, {'erqga hyil', 'ercga hwal', 'erigs hwul', 'uwiqa hyyh', 'erwca hwll'}, {'erwca hyll', 'erzxa hyol', 'uruco ywli', 'erisz hwol', 'erycy hwal'}, {'erasa hwol', 'erscy hyil', 'erkya hhlh', 'erwca hlll', 'eyyci lolh'}, {'erwca hiwl', 'eraza hwal', 'erxcu hylh', 'yrocy oohl', 'erswa hhlh'}, {'erwxa hylh', 'erwca hhll', 'iriac hwhw', 'eriiz hwal', 'erxcu hyal'}, {'erocg hllh', 'erwca hhll', 'ywicu wolh', 'eruza hyel', 'erigk hyol'}, {'erwca hily', 'iriwo hehy', 'eriqc hyel', 'eriwx hwol', 'erycq hyal'}, {'ewigh ooyl', 'erisy hwel', 'errci hyel', 'eryca hyll', 'eriyx hyal'}, {'erwca hhll', 'urioc ialw', 'erxza hyel', 'errcy hllh', 'erijk hwol'}, {'arece hwww', 'erwcq hyel', 'erxaa hllh', 'erzco hyul', 'errca hlll'}, {'yreza elhl', 'erizo hwel', 'eryca hlll', 'erwcy hyol', 'erizc hyal'}, {'eriux hlwl', 'erisw hyul', 'eryca hlll', 'ersea hllh', 'roika welw'}, {'errca hiwl', 'erzia hyul', 'worca lylw', 'ercce hlhl', 'eriqk hwlh'}, {'erwca hily', 'uroha uely', 'erijw hyol', 'ercya hwlh', 'erksa hylh'}, {'hryka uwyl', 'erisy hylh', 'eriiz hwel', 'erhcx hhlh', 'ericw hilw'}, {'erkya hwul', 'eriga hiwl', 'erycs hwal', 'yyiza ulil', 'erish hyil'}, {'erhcj hhlh', 'erwca hhll', 'iriac ilwy', 'erkja hwul', 'ergsa hyil'}, {'erzja hyul', 'eriqg hyil', 'erzha hwlh', 'ywicu welw', 'eriqa hiwl'}, {'erzch hwal', 'erixg hyul', 'eriqa hiwl', 'awiqa ihly', 'erigc hyol'}, {'yroxa hwwy', 'errce hwol', 'erise hyol', 'errca hyll', 'erhci hwal'}, {'erijj hllh', 'ericw hily', 'errci hwul', 'iruqa uhyl', 'eriox hwal'}, {'ersqa hwel', 'eriqa hily', 'erzga hylh', 'irucu uhhl', 'erijg hwul'}, {'erixc hwhl', 'eriqa hiyl', 'erwcc hyal', 'ewigu wiww', 'ercea hlwl'}, {'eriga hily', 'eriaz hyol', 'eiwya heyw', 'eroza hyel', 'eriix hyhl'}, {'erigq hyel', 'erocy hylh', 'errca hwll', 'erixk hwhl', 'iruci uylw'}, {'eriga hily', 'eriqc hwal', 'erucy hllh', 'wrioc lolh', 'erjka hyel'}, {'erisy hhlh', 'erjja hwol', 'eryca hiyl', 'yriyw iwel', 'erqcw hyhl'}, {'errza hlwl', 'wyiwa ahlw', 'eriqa hlll', 'erqja hlhl', 'erijy hyul'}, {'ericw hiyl', 'eiwce wulh', 'erwsa hyhl', 'erqco hwul', 'erkcu hwol'}, {'erjja hyal', 'erqch hwel', 'iiwca iolh', 'eryca hiwl', 'erjce hwil'}, {'ergha hyhl', 'erhcw hyal', 'eriqa hiyl', 'reicw lhiy', 'erigi hwlh'}, {'erucx hylh', 'hroxa ilah', 'ergwa hhlh', 'eriga hhll', 'erijo hwlh'}, {'erscy hyol', 'erhcw hwol', 'erjoa hyil', 'errca hyll', 'iruja ylly'}, {'erwch hyul', 'wwicu whul', 'erzza hwal', 'eryca hlll', 'eroxa hhlh'}, {'ercci hyel', 'reici hweh', 'eriwj hwhl', 'erxcw hyul', 'eriqa hyll'}, {'wrhza ileh', 'eryca hilw', 'erxua hyal', 'erxia hylh', 'erkxa hwel'}, {'erigz hwhl', 'eryca hiyl', 'oroka hyiw', 'erias hlwl', 'erigh hwil'}, {'erhci hwil', 'erjwa hwol', 'erwca hyll', 'wrwco uwlh', 'eriwz hwal'}, {'errca hiwl', 'erhcx hllh', 'eyece walh', 'ersci hlhl', 'erwja hyal'}, {'erisu hyal', 'erycg hlwl', 'errca hwll', 'errcy hllh', 'reika wlly'}, {'eriqa hily', 'ercja hwlh', 'eerca hlhl', 'oriak howy', 'erkha hwhl'}, {'erkcy hyhl', 'arhja ewlh', 'erqch hllh', 'erjce hyil', 'eriqa hilw'}, {'erycq hwil', 'eriyx hwol', 'ericw hlll', 'erwio awwl', 'ersia hyil'}, {'erjaa hwol', 'eriox hwil', 'hrhza iahl', 'errca hiyl', 'eriji hyil'}, {'errca hilw', 'riicu heyh', 'erigq hllh', 'erizj hyil', 'erycs hyel'}, {'ericw hily', 'erijh hwol', 'erkza hyal', 'ewiwu oyil', 'eriyx hllh'}, {'reicw yewl', 'eracy hlhl', 'eerca hwel', 'eryca hily', 'ergha hylh'}, {'wryka lwli', 'eryca hlll', 'erisz hwal', 'ercci hlwl', 'erjha hyhl'}, {'erzsa hlwl', 'erizz hyul', 'eriga hhll', 'erxaa hyol', 'yrihw alwl'}, {'erkcw hwol', 'erocj hwil', 'ehoxa auyl', 'eryca hily', 'erisw hlhl'}, {'eriuz hyul', 'erucj hhlh', 'orihy olhl', 'eracx hlhl', 'eriga hiyl'}, {'eryca hwll', 'ersja hwal', 'erizh hwhl', 'eriez hlhl', 'uyoca ayly'}, {'erije hwel', 'reaca allh', 'erigi hyol', 'ersha hlwl', 'eryca hiwl'}, {'erjce hyel', 'erych hwlh', 'orihy leil', 'eriqk hlhl', 'eriga hiwl'}, {'erjcw hyel', 'riicu wlyl', 'erisz hyol', 'eruxa hllh', 'eriga hwll'}, {'yhiza yihh', 'erisq hyol', 'eriga hyll', 'erxea hwol', 'eresa hwil'}, {'ircia liow', 'eryca hily', 'eracg hwol', 'erexa hwil', 'erjya hwul'}, {'yryza ilhh', 'erisi hwal', 'ericw hyll', 'erwcc hwul', 'ersxa hylh'}, {'urcia liyy', 'erecj hwil', 'ericw hhll', 'erwcz hwhl', 'erikj hylh'}, {'eroja hhlh', 'erwca hwll', 'uyoca oohl', 'erxcw hwul', 'eriis hwil'}, {'erwca hiwl', 'ergea hyil', 'iroxa ywwl', 'erwxa hyol', 'errza hlhl'}, {'erxia hhlh', 'eryca hwll', 'eriej hyal', 'uroha ieyl', 'erkha hlwl'}, {'ericw hiyl', 'ergea hlhl', 'erecx hwal', 'ehigh loal', 'ergya hwil'}, {'reyca ieyl', 'erixo hwul', 'ercea hwol', 'eriqa hiwl', 'eriez hlhl'}, {'erwca hyll', 'erwza hyol', 'erxia hlhl', 'wroch ulel', 'erisz hylh'}, {'eriqs hyal', 'erkza hhlh', 'eracy hyel', 'uruja ellh', 'eryca hiwl'}, {'ersza hllh', 'ercsa hwal', 'ergce hyel', 'hrhza heww', 'eryca hlll'}, {'arigh lwhl', 'eryca hiyl', 'ergco hwal', 'erycg hwul', 'erxza hyel'}, {'erscu hylh', 'yeicu auyl', 'erwca hiyl', 'ersqa hwal', 'erijg hwlh'}, {'iriac wywl', 'erjci hhlh', 'erwza hylh', 'eriyj hwhl', 'ericw hlll'}, {'ewcia hhih', 'errza hylh', 'erwca hwll', 'erscy hwul', 'erisx hlwl'}, {'ergwa hyel', 'eriqa hwll', 'erocq hylh', 'ehiwo ehhl', 'erijx hllh'}, {'eriqa hily', 'erocy hyul', 'erssa hwel', 'erjcw hyil', 'iruka owhl'}, {'erkco hyal', 'erjia hllh', 'erkja hlhl', 'eriga hiwl', 'wrigh wwil'}, {'erixw hlwl', 'uruwa iolw', 'erigs hylh', 'erjsa hwul', 'eriqa hyll'}, {'wyoca lwal', 'eriqh hylh', 'eriqz hlhl', 'eryca hiwl', 'ergch hyhl'}, {'erioj hyul', 'yrecw lelh', 'ericw hilw', 'erjoa hyil', 'erizs hllh'}, {'erihz hyhl', 'erijs hwil', 'erwce hlwl', 'errca hily', 'eiwwa ulwl'}, {'erixu hwlh', 'yraza loyl', 'eryca hhll', 'erxsa hylh', 'erxia hwal'}, {'erucq hyul', 'erijs hwel', 'urece liew', 'erxua hwhl', 'eryca hiwl'}, {'eriej hyil', 'erwca hyll', 'eruja hwel', 'arocy ihlw', 'eriyz hllh'}, {'errca hwll', 'erjcw hwel', 'wrywa ylyl', 'erocq hwil', 'erxaa hwul'}, {'eroxa hwhl', 'oruka ayly', 'erixo hllh', 'eryca hiwl', 'erwcz hwul'}, {'erucj hwal', 'erxsa hwil', 'ericw hilw', 'hrihy lhhl', 'eries hyul'}, {'erjce hyul', 'erocy hyol', 'erwca hhll', 'weicu ywly', 'erocq hyel'}, {'erijw hwel', 'ericw hiwl', 'ewecu oyyl', 'ersga hyel', 'erjce hhlh'}, {'erizu hyol', 'erius hwil', 'eraza hylh', 'errca hily', 'wirca hehh'}, {'ergci hyhl', 'erwca hilw', 'ewihu aiyw', 'erize hwhl', 'erizz hyal'}, {'erwca hhll', 'ergja hlhl', 'irigh wuil', 'erixc hylh', 'erscu hllh'}, {'eriwx hyil', 'erkco hyhl', 'erwca hiyl', 'ewiju uoyl', 'eriis hyul'}, {'erijh hlhl', 'erwca hyll', 'arioc yiyy', 'ergya hwlh', 'erzwa hyul'}, {'erizg hyol', 'erzqa hyhl', 'erihz hyul', 'uwuca hyiw', 'eryca hyll'}, {'ericw hwll', 'wroga wiyh', 'erxcu hyel', 'erigk hwul', 'erihx hhlh'}, {'erkcy hyol', 'eiwco uolw', 'eerca hlhl', 'eriqa hyll', 'erisx hlwl'}, {'erwca hhll', 'urucw iwwl', 'erwcz hyel', 'erusa hwal', 'erijs hwhl'}, {'eriyj hyil', 'erikx hyal', 'erios hyhl', 'iruch hoiw', 'ericw hlll'}, {'erocx hyal', 'ercci hhlh', 'eriga hiwl', 'uroco lhol', 'erjia hyil'}, {'wiwca ilah', 'eriqa hiwl', 'erizz hwol', 'eraza hlwl', 'erycs hwil'}, {'eriyj hllh', 'erucx hyol', 'eryca hlll', 'wroxa ylal', 'ergea hylh'}, {'arijo yewl', 'erixg hwil', 'erigx hwlh', 'erzha hwol', 'eriqa hlll'}, {'ersoa hyal', 'hyyca hhuw', 'erksa hwol', 'erscu hyil', 'eryca hhll'}, {'erexa hlhl', 'erigq hhlh', 'erjoa hwel', 'yrocw lylw', 'eriga hilw'}, {'yrihy hhhy', 'ersha hlhl', 'erucq hhlh', 'ergce hllh', 'eriqa hyll'}, {'errca hiwl', 'erihz hlhl', 'uryka hehh', 'erycc hwlh', 'erixu hhlh'}, {'erxha hylh', 'erzcw hwil', 'yrhza wuil', 'erkqa hyil', 'errca hiyl'}, {'yrigw ilew', 'eryca hiyl', 'ercya hlwl', 'erizx hyil', 'erigj hwhl'}, {'ercsa hlhl', 'eriqa hily', 'ercja hyel', 'eruwo lwel', 'eryza hwol'}, {'erwci hwhl', 'ericw hyll', 'erscu hyhl', 'ercea hhlh', 'irike welh'}, {'eriqk hwil', 'yrocw hhyw', 'erwca hyll', 'eriez hyhl', 'erkya hyil'}, {'ergqa hwel', 'erxcu hylh', 'wroya iolw', 'eriqa hhll', 'erikj hwal'}, {'eriaz hyel', 'ewaqa uely', 'eriqg hwlh', 'eryca hyll', 'erizq hwol'}, {'eriyj hylh', 'ehigh eyyl', 'erzwa hyel', 'eriqa hiwl', 'erisc hwlh'}, {'wroxa ewlh', 'eriga hiyl', 'eriaz hwol', 'ergci hyel', 'erqza hyul'}, {'ersha hyil', 'erhcz hylh', 'eriqa hhll', 'eriis hyel', 'orhza hwwh'}, {'errca hilw', 'erkza hyel', 'eroja hyil', 'ewiwo iuwl', 'erisk hylh'}, {'erjci hyal', 'ericw hily', 'urusa uuly', 'eriss hwul', 'erjia hwlh'}, {'erkce hlhl', 'eracx hwal', 'errca hwll', 'arece hohy', 'ersia hwhl'}, {'ersxa hwul', 'eruja hlhl', 'eriga hhll', 'erizj hlwl', 'hrycu leol'}, {'erksa hyal', 'erqka hwel', 'ercqa hyol', 'errca hily', 'reicw ihwl'}, {'erish hwlh', 'oriak wyil', 'erijs hyel', 'erqha hwol', 'ericw hiwl'}, {'ersza hhlh', 'eriqj hyol', 'eriyz hwal', 'urizw wwli', 'ericw hlll'}, {'erzha hyul', 'eroza hyol', 'ergwa hylh', 'eriqa hlll', 'hrhza hahh'}, {'erocg hyul', 'eriqa hiwl', 'erihj hylh', 'eriwj hyel', 'roicu wolw'}, {'erycj hhlh', 'yrwcw hwuh', 'eriyz hyol', 'eriqa hwll', 'ergci hlhl'}, {'eriaj hyel', 'erccw hwal', 'erocq hwel', 'orece yaly', 'errca hyll'}, {'erwca hily', 'ergza hwhl', 'ersza hyul', 'riecu iylw', 'erhja hyal'}, {'erizz hhlh', 'eriso hyel', 'erjsa hyhl', 'ewiqh ialh', 'errca hily'}, {'errca hilw', 'erwcz hyel', 'hiwca iyel', 'ergja hwul', 'erikj hwil'}, {'ersha hwhl', 'errca hwll', 'erzch hylh', 'errci hwol', 'yyyca ylli'}, {'erqsa hwal', 'erecg hwil', 'erjci hwul', 'iruci hwuw', 'eriga hwll'}, {'wrowa ywlw', 'errca hiwl', 'erixe hwol', 'errce hylh', 'eriax hwal'}, {'ercga hwhl', 'ergea hlhl', 'wrwja wiyh', 'eriga hiwl', 'erjza hhlh'}, {'ericw hilw', 'reiga hyhh', 'erhcz hlwl', 'erwza hwlh', 'eeric hhlh'}, {'eriys hllh', 'eriqg hlhl', 'oiwca ehlw', 'eryca hily', 'erasa hyhl'}, {'wriwu hhiy', 'eroxa hyhl', 'erwca hhll', 'erijx hwol', 'eeric hyal'}, {'errca hwll', 'erkco hyel', 'ewiqu ahyl', 'erixz hllh', 'erkja hlwl'}, {'hriwo hwhh', 'erxwa hhlh', 'erwcz hyal', 'ericw hiwl', 'erzwa hylh'}, {'erkja hwlh', 'uroqa iwhl', 'erxha hyol', 'erize hylh', 'ericw hlll'}, {'errca hiwl', 'erigq hwhl', 'wwiqa hoiw', 'erixu hwul', 'erisj hwlh'}, {'yraza aiyw', 'erjka hlhl', 'eryca hily', 'erxga hwul', 'ergya hyhl'}, {'eriax hwul', 'erwca hyll', 'ewocu hwuh', 'erccy hllh', 'erucg hlhl'}, {'erikh hlhl', 'ercsa hwul', 'ircia huhw', 'erxga hyhl', 'errca hlll'}, {'erecx hyel', 'erwca hwll', 'hroxa heih', 'erhco hhlh', 'erzsa hwel'}, {'erccw hhlh', 'erizq hwul', 'iiwca whul', 'ergcy hwil', 'eriqa hyll'}, {'wriwi ylal', 'erucq hwhl', 'eracj hllh', 'erwca hwll', 'erixx hwul'}, {'erwca hiwl', 'erxcu hwul', 'urcia ihwl', 'erzci hwal', 'erwch hyal'}, {'iruya iehl', 'eriqs hhlh', 'eruza hwlh', 'erisi hwel', 'eriqa hyll'}, {'erecy hlhl', 'erucj hhlh', 'wwwca uhyl', 'erwca hiyl', 'erscw hwel'}, {'erych hwlh', 'erhqa hlhl', 'eriga hlll', 'uruga wwul', 'erihz hwhl'}, {'ersxa hllh', 'erwce hwlh', 'ercch hyil', 'ericw hyll', 'uwuca olel'}, {'orhza ahwl', 'erias hhlh', 'errca hwll', 'erikh hylh', 'erocy hwel'}, {'eriqa hiyl', 'erxoa hyil', 'erkha hlhl', 'arike hyih', 'ergcy hwil'}, {'erzoa hllh', 'ericw hhll', 'ercxa hyel', 'erijj hlhl', 'uirca ahhl'}, {'erikq hyil', 'erqci hlwl', 'wrwxa wiwy', 'erwce hyol', 'eriga hiyl'}, {'eriys hylh', 'eryca hilw', 'eiwza hhiw', 'ercci hyol', 'ereza hwhl'}, {'erikj hwlh', 'erigh hllh', 'erjsa hyel', 'eriga hilw', 'wroga hhhw'}, {'eriga hyll', 'erocy hyil', 'wrwch luol', 'erucj hyol', 'ergka hwlh'}, {'erkch hwal', 'ergwa hyhl', 'reika yayl', 'eriis hyel', 'eriga hiyl'}, {'erwca hily', 'yrixw yaly', 'erhcw hyel', 'erisz hlwl', 'ergcw hylh'}, {'eryca hwll', 'uruwa uylw', 'erjga hlhl', 'erzce hwul', 'eriuz hylh'}, {'erzaa hwol', 'eryca hilw', 'wrece wlle', 'erkcy hwil', 'erych hwel'}, {'ersia hyel', 'reisa huww', 'eraxa hyul', 'ergja hwel', 'eriqa hilw'}, {'erizy hwal', 'awiqa owyl', 'errsa hylh', 'erixh hllh', 'eriga hiyl'}, {'yyicw hyiw', 'erkwa hyul', 'erxqa hyil', 'eriga hhll', 'erska hwul'}, {'eryca hiyl', 'ersce hwil', 'erjja hwlh', 'ercco hwhl', 'ewizw yewl'}, {'iurca yuil', 'ericw hily', 'erijw hwul', 'erhcu hyhl', 'erzza hylh'}, {'erijo hylh', 'eriij hlwl', 'eriju hwul', 'ehoxa hoyy', 'eriqa hyll'}, {'erxga hyul', 'eriez hwel', 'eriqa hiwl', 'ercce hyel', 'ewike hawy'}, {'erisg hyal', 'errca hhll', 'erkwa hyol', 'eraja hwul', 'ewiaq wwil'}, {'ercsa hyel', 'ewiqo ilhh', 'errca hhll', 'erxch hylh', 'erxcu hwol'}, {'erjja hwul', 'eriga hlll', 'ercia hwhl', 'ehike heyy', 'erixj hwal'}, {'erhsa hyal', 'erscy hwhl', 'ersce hylh', 'yrizy leil', 'eriqa hyll'}, {'erqha hllh', 'eriga hily', 'erihz hwlh', 'eyyci lylh', 'erexa hylh'}, {'eriga hily', 'erxce hhlh', 'erska hyhl', 'oryka wwlh', 'erwci hyal'}, {'eriqa hhll', 'erixe hylh', 'erizz hwul', 'irihy wlyl', 'erocy hwlh'}, {'erccw hyal', 'erzcw hwhl', 'ewhqa wihy', 'erwic hwal', 'eriga hiyl'}, {'ericw hiyl', 'erixw hyil', 'erizy hlhl', 'arike yelw', 'erkch hyel'}, {'eryza hhlh', 'erisk hlwl', 'erioj hwlh', 'eriqa hwll', 'urcua alhl'}, {'erjcw hhlh', 'erqza hylh', 'eriss hwol', 'ohika olhl', 'errca hily'}, {'errca hhll', 'erixj hwul', 'erxcw hyul', 'yrisw ilhy', 'ergqa hwhl'}, {'ericw hwll', 'erzha hwal', 'eriqj hwlh', 'wruwa iylw', 'erqza hwul'}, {'errja hwel', 'oyyca ayly', 'erixx hwol', 'erwca hlll', 'ergya hyul'}, {'ewike hwey', 'erocg hwel', 'eriga hilw', 'ercce hyol', 'ergce hllh'}, {'ersch hllh', 'eerca hyul', 'erijq hwil', 'wroga yewl', 'eriga hiyl'}, {'eracy hylh', 'wrywa hyih', 'eruza hwlh', 'eriga hilw', 'eriqs hyhl'}, {'erwca hily', 'erkga hwil', 'ergia hlhl', 'wrwco hwyh', 'erqcy hwul'}, {'erycz hwlh', 'erixj hllh', 'uhuca yyly', 'erkco hyil', 'eriqa hiwl'}, {'eriga hyll', 'eriiz hllh', 'erocj hwlh', 'erwic hwol', 'ewiac yiwh'}, {'erixw hwal', 'erigi hwhl', 'arhza hyuw', 'erzja hylh', 'eriqa hiwl'}, {'eriga hyll', 'erkga hlhl', 'ergxa hwal', 'urcoa heyy', 'erycq hyhl'}, {'erxxa hyol', 'erzha hyal', 'ereye uoyl', 'erxcu hyil', 'erwca hlll'}, {'erijq hyol', 'erwca hilw', 'araja iuhl', 'erqka hwil', 'erxya hylh'}, {'ergxa hlwl', 'eriqa hily', 'erzya hwlh', 'ewacu welw', 'ercia hllh'}, {'errch hwhl', 'ersia hyel', 'ereja hwel', 'eryca hily', 'erhiy liyh'}, {'erhce hlhl', 'errca hwll', 'yrwcw uohl', 'erhcc hwel', 'erish hwhl'}, {'ericw hhll', 'reice huhh', 'ergcu hwal', 'ergce hwil', 'erizq hyil'}, {'errca hiwl', 'ehioc iylw', 'ereza hlhl', 'ergcu hyhl', 'erxka hhlh'}, {'ewwqa aiyw', 'erycq hwhl', 'eryca hlll', 'erycc hlhl', 'erzea hllh'}, {'erizu hwol', 'erijx hyil', 'erijc hhlh', 'ywiza huyy', 'errca hlll'}, {'erocq hwul', 'erkco hllh', 'uroch yllh', 'eryca hhll', 'erxka hyil'}, {'erizs hlwl', 'ersqa hyel', 'erjcu hylh', 'yeyca oelh', 'errca hlll'}, {'erizi hyol', 'erjcy hwal', 'riecu luol', 'eriqa hlll', 'erqcw hylh'}, {'erixu hwol', 'eriga hlll', 'erjcw hlhl', 'erixe hylh', 'wiwca hwiw'}, {'ewycu oelh', 'erisy hyal', 'eriga hlll', 'erkxa hwil', 'ercza hwlh'}, {'erizi hyil', 'erigx hhlh', 'erwca hwll', 'erigz hwol', 'iruja hhyw'}, {'eroxa hyal', 'eriez hwul', 'erocj hllh', 'ericw hiwl', 'rewca uhhl'}, {'erisc hyul', 'eryca hlll', 'erwcc hyal', 'wriac hwhi', 'erzcu hwil'}, {'ergza hyhl', 'erwca hhll', 'erwsa hllh', 'iriwo oahl', 'erqci hylh'}, {'eryca hwll', 'erizq hyul', 'erjxa hyhl', 'eiwga ehwl', 'erscw hwol'}, {'eryca hiyl', 'wroya hwhh', 'erhcz hlwl', 'erhcs hwal', 'ercci hyil'}, {'yrizo aelh', 'ereja hlwl', 'erisw hylh', 'erhcw hwlh', 'errca hlll'}, {'erikj hlhl', 'ergsa hyhl', 'ehihy wwil', 'erxwa hllh', 'errca hiyl'}, {'erjja hllh', 'erijc hwil', 'ercsa hyal', 'wrocw hweh', 'errca hyll'}, {'hriwo liyy', 'errca hiwl', 'erigi hlhl', 'erzza hwlh', 'eriaz hylh'}, {'hrike alwl', 'erhxa hyul', 'eriqg hhlh', 'erish hylh', 'eriqa hyll'}, {'eriiz hwel', 'erocg hyul', 'arece hohy', 'erixw hwol', 'eryca hhll'}, {'errja hyel', 'ersxa hwil', 'wwwca uhhl', 'eracy hwal', 'errca hily'}, {'eries hwil', 'orioc ialh', 'erccw hlwl', 'erizs hwal', 'eryca hiwl'}, {'erqco hlhl', 'eriqa hiyl', 'erwwo yayl', 'erqha hwol', 'ergia hyhl'}, {'eiwch huih', 'erycz hhlh', 'ergcw hyal', 'erqxa hwlh', 'eriqa hyll'}, {'ercqa hyul', 'erzoa hwal', 'erjxa hwel', 'aiwca lihw', 'errca hlll'}, {'erycz hhlh', 'ehiac whlh', 'ericw hilw', 'erhga hyul', 'erzaa hyal'}, {'wroci yehl', 'erwza hlhl', 'ericw hyll', 'erecj hwol', 'erijh hllh'}, {'errca hiwl', 'urcua lelw', 'erisx hyil', 'erkwa hyol', 'erioj hwel'}, {'errca hiwl', 'ergja hylh', 'ahija eylh', 'erecq hyil', 'erhcw hwil'}, {'erhcx hwel', 'wrewa weyl', 'erwca hiyl', 'eryxa hwhl', 'erize hwil'}, {'ersya hyol', 'eriga hiyl', 'reiza uolh', 'erycj hwul', 'erixx hwal'}, {'errca hilw', 'wrwcu aeyl', 'erwci hyol', 'ergci hlhl', 'erisg hhlh'}, {'erixj hllh', 'eriga hlll', 'wriwi liih', 'eryce hlhl', 'erizz hyal'}, {'erigs hwol', 'erigy hyal', 'uroch hoih', 'ericw hyll', 'erkch hllh'}, {'erixx hyol', 'erscu hylh', 'ariac wlla', 'erjea hlhl', 'eriga hwll'}, {'ercxa hwlh', 'erwcz hwil', 'eriqj hwol', 'eriqa hwll', 'oriky wllu'}, {'erccy hwal', 'errca hwll', 'erigq hwol', 'wrwja allw', 'erecj hwhl'}, {'eriga hyll', 'erixj hyil', 'irocy whlw', 'eriyj hhlh', 'ergch hlwl'}, {'erizu hwul', 'errca hhll', 'eries hyol', 'erhcx hyul', 'eryyu iolh'}, {'wroka hyhh', 'erzci hyol', 'eriqa hiyl', 'erhcw hllh', 'erixe hwol'}, {'ergxa hylh', 'eriga hhll', 'eriqh hlhl', 'erjsa hyhl', 'iurca haih'}, {'oraka lalh', 'erhga hwel', 'erixu hwol', 'erijc hhlh', 'ericw hwll'}, {'hriwo yalw', 'ergxa hwul', 'errza hwol', 'erwza hlhl', 'eriga hiwl'}, {'yrikw uelh', 'eryca hlll', 'erwza hyal', 'eriqg hwal', 'ereja hwul'}, {'erwci hwal', 'yrecw ilwh', 'erhxa hyol', 'erizy hyhl', 'errca hlll'}, {'erucq hyol', 'ericw hily', 'eriyx hwhl', 'ercsa hyil', 'eryhy lalh'}, {'yrocw yalh', 'erxoa hllh', 'erxqa hwel', 'ersqa hyhl', 'eriga hiyl'}, {'erxka hwal', 'eriga hyll', 'eriqz hwul', 'erxea hllh', 'ewiqw hawh'}, {'eriqz hwul', 'erwca hwll', 'erhja hllh', 'ergwa hlhl', 'yreza hhwy'}, {'erikg hlhl', 'erzco hyhl', 'erecx hwhl', 'wrocu huyh', 'errca hiyl'}, {'ewyqa welh', 'erwca hyll', 'erizc hylh', 'erswa hwol', 'erigs hyol'}, {'erizo hlwl', 'erwca hyll', 'eriqg hwal', 'ehyka hhyh', 'erjco hyal'}, {'ercya hyel', 'erihj hhlh', 'erwcg hlwl', 'eryca hhll', 'yyiza wulw'}, {'eriqa hily', 'ercch hwol', 'oraka ewwl', 'eriez hllh', 'erhxa hwil'}, {'erxha hyhl', 'yeyca uolw', 'eriux hyol', 'erasa hwhl', 'errca hiyl'}, {'awicu iylh', 'erocj hyel', 'erise hyal', 'eriiz hyhl', 'eriqa hyll'}, {'erxga hyul', 'eriqa hwll', 'erhck hwil', 'erhiy wulw', 'erksa hylh'}, {'erwca hiwl', 'erjua hyol', 'ersya hhlh', 'eirya ohlw', 'ercza hwul'}, {'erios hlwl', 'erijy hhlh', 'urihy yoil', 'eriqa hiyl', 'eriqj hwlh'}, {'arycu olly', 'erzci hwhl', 'ersia hwal', 'errca hyll', 'erxza hwlh'}, {'erxka hyul', 'erwca hyll', 'ewiqo ywyl', 'ercya hwel', 'eraxa hwil'}, {'eryca hwll', 'erhsa hwhl', 'ariac yewl', 'erisc hwil', 'ercch hwlh'}, {'wroqa hhyh', 'ersja hwil', 'ercya hyhl', 'erccu hyal', 'errca hlll'}, {'erjza hyhl', 'wrwia iuyl', 'erxxa hwol', 'eriqa hyll', 'erisi hhlh'}, {'erjia hwul', 'eraja hlwl', 'uwiqa yylw', 'eriqa hhll', 'erxcy hwel'}, {'eriwz hwil', 'erwca hwll', 'erjza hllh', 'eryic hhlh', 'whwca hhiw'}, {'ericw hiyl', 'ersha hyul', 'erjoa hwol', 'ergwa hyhl', 'yracw hyww'}, {'ariac lhiy', 'erigc hlhl', 'eeric hhlh', 'eriga hwll', 'erhqa hyhl'}, {'eriga hily', 'reicy ully', 'erqxa hyal', 'erwcz hwal', 'erysa hyil'}, {'erscy hyhl', 'erwcx hwhl', 'eriqa hhll', 'erehy hhww', 'erize hyel'}, {'eriqa hily', 'eriex hyel', 'erizq hwul', 'wrwxa oihy', 'ergha hylh'}, {'erixh hyel', 'ericw hyll', 'oyyca alel', 'eruja hylh', 'erisk hwal'}, {'errci hyol', 'erecx hwhl', 'yrioc yihh', 'eryca hyll', 'erias hlwl'}, {'erwca hhll', 'erwcx hlhl', 'erwcg hyul', 'erixq hyil', 'irocy iehl'}, {'ergha hyhl', 'erqwa hwel', 'erwca hilw', 'erijk hylh', 'iruha olly'}, {'erizz hyol', 'orcia eelh', 'erwxa hhlh', 'eracq hwhl', 'ericw hlll'}, {'erxco hllh', 'erhqa hwel', 'eryca hiyl', 'erxce hwil', 'iwiqa luil'}, {'wrwce hhiy', 'erwca hilw', 'eriwz hwul', 'eruza hwhl', 'erzja hyol'}, {'eryxa hyul', 'erhqa hylh', 'arcia lhol', 'ericw hiwl', 'erhch hwil'}, {'ericw hhll', 'reoca lylh', 'erigy hwel', 'errxa hwil', 'erjia hyil'}, {'erzcu hyil', 'wrcia lulw', 'erkqa hllh', 'eriqa hhll', 'erhja hylh'}, {'erwcs hyhl', 'eryca hilw', 'yrihy wahl', 'erycy hwul', 'erijw hwlh'}, {'oryka wywl', 'eriga hily', 'erizh hyel', 'ersza hylh', 'erigc hwel'}, {'ergka hllh', 'erwza hylh', 'riicu uoyl', 'eryca hiwl', 'erucj hwil'}, {'erzce hyel', 'eriga hlll', 'erzcu hhlh', 'yrikw hyhh', 'erhga hwlh'}, {'erige hwul', 'ywiqa ywli', 'erwca hyll', 'erhqa hyil', 'erjsa hyal'}, {'wrwch uylw', 'erxcu hyul', 'eroza hhlh', 'erscu hyil', 'eriga hilw'}, {'erzce hyel', 'ewiuc yolh', 'erios hwlh', 'eriga hiwl', 'erihj hyal'}, {'errca hiwl', 'rehca wiyy', 'errja hwal', 'eriex hllh', 'erikj hwul'}, {'erqch hwil', 'eriyz hyol', 'eruja hyul', 'eryca hlll', 'arijo hyyw'}, {'erigx hyul', 'ergwa hwhl', 'eriga hiwl', 'erhcc hwlh', 'whwca uahl'}, {'worca ahlh', 'erysa hwal', 'erhcy hlhl', 'eriqa hiwl', 'erscu hyhl'}, {'ergxa hyul', 'eryca hiyl', 'erjwa hwil', 'uroja eylh', 'eroja hwel'}, {'erhka hwhl', 'wrwwa uwyl', 'erihj hllh', 'eruja hyal', 'errca hily'}, {'eriga hlll', 'erhcs hyal', 'oroxa hhih', 'eraja hyhl', 'erhcq hlwl'}, {'erizs hylh', 'ericw hyll', 'erjxa hllh', 'erkce hyil', 'erehy ehlw'}, {'eryca hiyl', 'eriix hyol', 'oriky yiww', 'erocg hwal', 'erhza hwul'}, {'ersja hwal', 'erxea hwlh', 'ywicw aohl', 'eryca hhll', 'eriwj hyol'}, {'erikq hhlh', 'eriox hyol', 'eriqc hlwl', 'yrcia iwly', 'errca hlll'}, {'wwicu ilhy', 'erwca hilw', 'erhxa hwel', 'ercqa hwul', 'eraxa hwol'}, {'eryca hilw', 'erucy hyul', 'erqja hyel', 'erkci hllh', 'erowo uwlh'}, {'iruja ulyl', 'ergce hlwl', 'erqco hlhl', 'eriga hhll', 'erucx hwel'}, {'errca hiwl', 'erucq hyol', 'erqha hyil', 'erijs hllh', 'wrwcu wiyh'}, {'erwca hwll', 'erxwa hyil', 'erwci hyal', 'erccu hylh', 'erwio oaly'}, {'eriga hily', 'uyuca hwyy', 'erixj hlhl', 'erwci hyal', 'erjci hwol'}, {'errca hiwl', 'erioj hyol', 'hriwo huyw', 'erizy hyul', 'erkcw hyhl'}, {'ergxa hyul', 'uorca ollh', 'erqja hyel', 'eryca hlll', 'erios hwal'}, {'erkxa hwul', 'eriwj hwlh', 'ehoxa oeyl', 'eryca hiwl', 'erzch hyul'}, {'erycc hyhl', 'erscw hylh', 'ersqa hwlh', 'erwca hiyl', 'wrcoa yuyl'}, {'eriyx hlwl', 'eriji hwil', 'hryka ehyl', 'erwca hiyl', 'erzja hyhl'}, {'ryicu ihhl', 'erhja hwlh', 'eruza hyal', 'eryca hlll', 'ersaa hylh'}, {'erhcj hwlh', 'ersia hyol', 'ercch hwul', 'aiwca yihh', 'eryca hiwl'}, {'eryca hwll', 'ercqa hwul', 'yhicw eawl', 'erxcy hyal', 'eriss hwhl'}, {'erucg hwlh', 'erqwa hhlh', 'eriax hyol', 'eyece ayil', 'eriqa hiwl'}, {'eryca hilw', 'erccy hhlh', 'eriox hwhl', 'ergya hwal', 'orike iyel'}, {'erwcq hyal', 'ersqa hwul', 'eryxa hlwl', 'yiwca hweh', 'eriga hhll'}, {'eriso hwol', 'erkja hyil', 'reiwa lowl', 'erias hllh', 'ericw hlll'}, {'erycz hyel', 'ercha hyul', 'yrigh wuwl', 'erjga hyal', 'eriga hiyl'}, {'irioc hyww', 'ersga hwil', 'erisy hwel', 'erxia hyol', 'eriqa hlll'}, {'erwca hily', 'erhka hwul', 'ergsa hwal', 'roicu iyel', 'erijh hwol'}, {'erqya hyol', 'eerca hllh', 'eyhza uoyl', 'erixz hlwl', 'erwca hiyl'}, {'rehca huyw', 'erwcg hwul', 'erigx hyil', 'erisi hwhl', 'eriqa hiwl'}, {'erycz hwal', 'ergia hhlh', 'eriox hyel', 'eriqa hilw', 'eiwce luol'}, {'erkga hyel', 'erhco hyil', 'ruuca lyol', 'ericw hyll', 'erycq hwal'}, {'errca hiwl', 'irocy ylly', 'erzha hwil', 'erkcy hwal', 'erijy hyul'}, {'ergza hlwl', 'erscu hyul', 'ehihy yiwy', 'erisc hyal', 'errca hily'}, {'eracy hylh', 'erwca hhll', 'eriwx hwhl', 'erizo hwul', 'urocu yllh'}, {'erhcg hwhl', 'erixg hyil', 'eryca hily', 'erhie ialh', 'erisj hyol'}, {'eryca hiyl', 'iriac yelw', 'erhcq hwhl', 'erwcz hlhl', 'ergka hwul'}, {'eryca hilw', 'uruci aoyl', 'erqce hwel', 'ergci hyil', 'erzka hyhl'}, {'erwca hily', 'erihz hyol', 'erizy hwol', 'erzaa hwul', 'arike hwey'}, {'erixj hlhl', 'erjcw hyil', 'eriso hwil', 'eryca hyll', 'ewizw iwhl'}, {'erwxa hwhl', 'erhck hlhl', 'wrcoa alel', 'erizj hyil', 'eriga hwll'}, {'erijo hllh', 'ercqa hyhl', 'eriqa hiwl', 'wrwza iwel', 'erijq hwal'}, {'erxka hyul', 'ericw hily', 'uruja wylh', 'erigc hhlh', 'erwch hwil'}, {'erkxa hylh', 'wrosa lioy', 'erixo hlhl', 'erhcu hyhl', 'erwca hlll'}, {'erizw hwel', 'erycc hhlh', 'yruza huhw', 'eriqa hyll', 'erjcy hwul'}, {'ercci hylh', 'erisy hlwl', 'erizk hwel', 'eryca hhll', 'yrigw whlw'}, {'erqci hwhl', 'erycx hwil', 'erxya hwul', 'iruco ualw', 'eriga hiyl'}, {'wrocy hahy', 'eriqa hwll', 'erqga hlwl', 'ereja hyhl', 'erjga hyil'}, {'ericw hily', 'yrigh hoyw', 'erioz hyol', 'erjua hyal', 'erish hwlh'}, {'erzsa hwul', 'erjcw hyul', 'rwicu oalw', 'erigj hyhl', 'errca hlll'}, {'erikj hwlh', 'ersch hwul', 'yrikw lhiw', 'erwca hhll', 'erzka hwel'}, {'erwca hiwl', 'ereza hyel', 'erxco hllh', 'erxcy hlhl', 'uruka yywl'}, {'errca hilw', 'erucj hylh', 'erwcj hyal', 'wrizw yiwy', 'erycq hlwl'}, {'eriij hyel', 'eriga hiwl', 'erizo hwol', 'erisj hlwl', 'reiga llil'}, {'ewcia yeyl', 'erzya hlwl', 'eriga hiyl', 'eriqx hwil', 'erwcc hwol'}, {'errca hiwl', 'ergea hyil', 'arwja elly', 'erxsa hlwl', 'eracj hwel'}, {'eriqh hlhl', 'erhcw hwol', 'ergcy hwhl', 'oriku alil', 'eryca hyll'}, {'erwcy hwol', 'erjcy hwhl', 'urucw lihh', 'eriqa hwll', 'eroza hyol'}, {'erhja hwol', 'yrizh uelh', 'erxcu hyul', 'erksa hwel', 'eriga hhll'}, {'erwca hily', 'erije hylh', 'yrocy hhhh', 'erqga hwal', 'eriqz hyhl'}, {'erwca hily', 'erizy hwil', 'erisc hwlh', 'ergco hyol', 'wyoca oowl'}, {'erikq hllh', 'eriga hhll', 'uyuca huyy', 'erhcs hyel', 'eryxa hwol'}, {'erwca hily', 'erish hwal', 'erixq hwel', 'erjza hwol', 'owiqa huhy'}, {'ericw hhll', 'ihuca hywh', 'erxce hyol', 'erhcw hylh', 'erxqa hyel'}, {'erycy hhlh', 'errxa hylh', 'eiwka iwol', 'eriga hilw', 'erxwa hwlh'}, {'ericw hily', 'erisk hyhl', 'eyece huyh', 'eraza hyul', 'erhcs hwil'}, {'eriuj hwel', 'ruuca wyal', 'erijx hyol', 'erwca hlll', 'ercia hwal'}, {'erixy hwel', 'eriqa hwll', 'eiwwa wlel', 'eraja hyhl', 'erwxa hyil'}, {'erwxa hwel', 'erwca hilw', 'ruicu ulel', 'ercxa hllh', 'eriso hwul'}, {'ericw hily', 'eracy hwul', 'erjsa hlwl', 'arhza yyyl', 'erksa hyul'}, {'eriga hyll', 'erzga hlhl', 'erkya hllh', 'ergja hyhl', 'wyyca lwol'}, {'eracj hwal', 'erwca hhll', 'errci hllh', 'eriix hyal', 'uhoca oehl'}, {'recia yohl', 'ersaa hyil', 'ersua hlhl', 'erwca hiyl', 'erwza hllh'}, {'erwca hiwl', 'erycc hyhl', 'ersza hwlh', 'eriqc hllh', 'eyyka wlyl'}, {'eriax hlhl', 'ewiku ylli', 'ercco hlwl', 'erijo hyil', 'eriga hwll'}, {'erius hwul', 'eriqa hhll', 'erixe hyol', 'eroza hyul', 'wwiqa lhli'}, {'uruqa oohl', 'ersia hwol', 'eriqa hwll', 'eriis hwul', 'erwcc hwil'}, {'eracj hyil', 'erisu hyal', 'errca hwll', 'erzoa hwil', 'yyicw eowl'}, {'eruza hwel', 'ercha hwal', 'ersqa hyal', 'eriqa hwll', 'reuca iewl'}, {'ergqa hylh', 'riicu lwel', 'erxya hwlh', 'erisx hllh', 'eriga hiyl'}, {'oriki ihol', 'erzcu hwul', 'erixy hllh', 'erwca hlll', 'erjga hyal'}, {'ericw hily', 'erigx hyal', 'wroka ihly', 'erisw hylh', 'erzcy hyel'}, {'erwcx hwel', 'erkcw hyel', 'erxea hyhl', 'wrwza iulw', 'ericw hwll'}, {'erixo hwil', 'erych hyal', 'eriqa hwll', 'wrosa uwlw', 'eroza hyul'}, {'ersga hwal', 'eriqs hyol', 'erjcu hwhl', 'arije wyli', 'eriga hiyl'}, {'hrizw yyly', 'erijo hyol', 'erjia hwal', 'erijg hyhl', 'erwca hiyl'}, {'erwja hyol', 'erijw hlwl', 'reicy oahl', 'eryxa hwol', 'ericw hwll'}, {'erwcx hwal', 'erjia hwhl', 'uroza luol', 'eriis hyel', 'ericw hlll'}, {'errca hiwl', 'eracq hyul', 'erqsa hwlh', 'erqci hylh', 'rhicu ulol'}, {'eryca hwll', 'erqza hyil', 'erhcx hyhl', 'yrizh uwyl', 'ercco hlwl'}, {'erecx hwul', 'eriyz hwhl', 'erias hwal', 'eiwha lwil', 'ericw hwll'}, {'erxcw hhlh', 'arcia hwaw', 'ericw hilw', 'erios hwol', 'erkci hwal'}, {'eriqg hwol', 'eruza hyhl', 'eriga hiwl', 'erkha hllh', 'wrwja lwlh'}, {'ericw hily', 'erisq hwol', 'eyihy hweh', 'erhsa hhlh', 'eriqj hyel'}, {'errca hilw', 'wroco ohlh', 'erxch hwol', 'erjce hlwl', 'eriss hllh'}, {'erixy hwil', 'ercha hwol', 'eyysa eohl', 'erzsa hwlh', 'eriqa hyll'}, {'reico yhih', 'eriqa hiwl', 'erjcu hyel', 'erjza hyul', 'erxja hwol'}, {'erisy hhlh', 'erzwa hwal', 'erwie eylh', 'eriqa hilw', 'eriqx hllh'}, {'erqza hyil', 'heicu whul', 'eryca hily', 'erihj hyol', 'erjcy hwil'}, {'erasa hyal', 'erizy hwil', 'ercha hhlh', 'eryhu lyil', 'eriqa hilw'}, {'erias hlhl', 'erioj hhlh', 'ercqa hwol', 'ewizu lwlh', 'ericw hwll'}, {'erhhy wwli', 'eriqa hiyl', 'erxch hyul', 'erigc hwil', 'erocx hlhl'}, {'erccy hwel', 'erjia hwol', 'arigh ooyl', 'ericw hilw', 'ersea hyol'}, {'errca hiwl', 'wroja huwy', 'erqce hlhl', 'erzce hwlh', 'eriaj hylh'}, {'ericw hily', 'ergxa hwel', 'erwce hwul', 'erxco hlwl', 'yriaz ulwl'}, {'erqwa hwol', 'ergci hyal', 'erwca hiyl', 'erwcs hylh', 'yriac ahlh'}, {'erxcw hyil', 'erxxa hwhl', 'yhicw oaly', 'eryca hily', 'ercwa hwlh'}, {'errci hylh', 'eriqa hwll', 'hrocy uoyl', 'erxwa hwol', 'ersqa hwal'}, {'uruha ahhl', 'erias hhlh', 'erixw hylh', 'erecx hwol', 'eriqa hilw'}, {'eryza hyol', 'erhza hlhl', 'eriyz hwil', 'wrywa ehlw', 'eriqa hyll'}, {'erqsa hwal', 'erjcu hwul', 'ersci hwel', 'yriaz hwhy', 'ericw hlll'}, {'eyioc ywyl', 'erwce hyal', 'eriqa hiwl', 'errza hyhl', 'ergcy hlhl'}, {'erhza hyhl', 'orike wlyl', 'eriqa hhll', 'erkcy hylh', 'erihs hlhl'}, {'erjua hyal', 'eriqa hiwl', 'wyyca hoyw', 'errxa hwel', 'ergka hlwl'}, {'erzya hlwl', 'iruha awlh', 'eraxa hylh', 'eriga hlll', 'ersea hwul'}, {'erkqa hwhl', 'erisy hyhl', 'eriqa hlll', 'uruqa lwul', 'erikg hwol'}, {'erucq hyul', 'eryca hiyl', 'ircia huyw', 'erigx hhlh', 'erxwa hlwl'}, {'errca hwll', 'arhza wwul', 'erzea hyal', 'ergha hwol', 'ersua hwul'}, {'erecj hyul', 'ersha hyhl', 'eruwo iuyl', 'erwcy hwel', 'eryca hyll'}, {'eweqa lwli', 'erkqa hwil', 'erijy hlwl', 'erecj hhlh', 'errca hily'}, {'eyioc wewl', 'eriso hwlh', 'eriqa hhll', 'ercco hyhl', 'erish hwil'}, {'erizq hyul', 'erccw hhlh', 'ericw hilw', 'ercga hwil', 'ehcia hhwy'}, {'eyyka ulel', 'eriga hlll', 'erqja hwal', 'ergja hyol', 'erjea hhlh'}, {'errca hiwl', 'erxqa hyol', 'eerca hyil', 'wrihy ilhh', 'erucg hyul'}, {'erzaa hyhl', 'errca hwll', 'erijk hlhl', 'erocq hwhl', 'urioc wowl'}, {'erkce hwul', 'erkha hhlh', 'erwca hiyl', 'yrize hwih', 'erwsa hwhl'}, {'wrocy olel', 'ercga hwel', 'errca hhll', 'erecy hwil', 'eryce hylh'}, {'eriga hily', 'eirya oehl', 'erhcq hyel', 'ergha hwul', 'erigy hwal'}, {'erccu hyhl', 'erhci hwul', 'eriqa hwll', 'ercqa hwhl', 'wroxa aiyh'}, {'ericw hily', 'eirwa hohh', 'erkwa hylh', 'erzcu hyul', 'errsa hwal'}, {'ergea hllh', 'reiqa yayl', 'eriax hyil', 'erqcy hlhl', 'ericw hlll'}, {'erixo hylh', 'erzea hyul', 'erych hwlh', 'ericw hwll', 'eruwo oelh'}, {'eiwsa lowl', 'eryca hily', 'eracj hyal', 'erikq hwul', 'erzcu hwil'}, {'hrocy hwhh', 'erjci hyol', 'erkco hylh', 'erikg hyel', 'ericw hwll'}, {'wroya ylul', 'erwca hyll', 'erocx hwol', 'erwcc hwul', 'erkco hlhl'}, {'eracy hwhl', 'erycz hwlh', 'eriqs hyal', 'reicy ihlw', 'eryca hhll'}, {'erixi hwlh', 'ewisu welh', 'eryca hilw', 'erkco hyul', 'erisw hlwl'}, {'wrwce liih', 'erijk hlhl', 'erkci hhlh', 'erhqa hwul', 'erwca hiyl'}, {'erijc hyil', 'eryca hilw', 'erikh hylh', 'erqza hwhl', 'ruoca yyly'}, {'erwca hiwl', 'erzch hwal', 'yrecw ioyl', 'erhcc hwlh', 'ersga hyul'}, {'eriej hylh', 'wriwi olel', 'eriqa hiyl', 'eriji hwul', 'eraja hllh'}, {'erhqa hwol', 'erucq hwal', 'wrycu hyww', 'erige hwil', 'eriqa hyll'}, {'erwca hyll', 'erzha hyel', 'erisx hwol', 'uroxa liow', 'erwxa hwil'}, {'erizw hylh', 'erjia hwul', 'ewocy hwyi', 'erisc hyil', 'ericw hilw'}, {'erisw hwel', 'erycx hyel', 'erwci hwal', 'eryca hily', 'wriwe ywyl'}, {'eriga hily', 'erjaa hwal', 'uroja woyl', 'erjha hwhl', 'eriox hyil'}, {'erizq hyol', 'ergcw hhlh', 'ehihy wyli', 'ersce hyul', 'eriqa hilw'}, {'arihy ulyl', 'erisg hwol', 'erycg hwul', 'eriga hhll', 'erxaa hyul'}, {'yraza wuyl', 'errca hwll', 'erucg hwlh', 'erkce hllh', 'ergea hhlh'}, {'irusa whih', 'eriqa hwll', 'eriuz hylh', 'erqja hwul', 'erqka hwlh'}, {'erijj hyal', 'erxcu hlwl', 'uyuca ielw', 'erixu hwhl', 'errca hyll'}, {'erzcw hyol', 'eriga hiwl', 'orwka hhwy', 'erjco hlhl', 'ersch hwhl'}, {'eriix hwal', 'erhza hlwl', 'eryca hiyl', 'ersch hyal', 'ariac hyyh'}, {'erxoa hwol', 'uruce yiwh', 'eryza hwlh', 'eriwz hhlh', 'ericw hwll'}, {'erawo wlil', 'erwca hyll', 'ercxa hyul', 'erqha hhlh', 'ercea hylh'}, {'erjxa hwhl', 'eriga hyll', 'eyyga ehwl', 'erisz hwel', 'erixk hyal'}, {'ercza hwol', 'uwicu hwwh', 'erisi hyel', 'erizz hwhl', 'ericw hyll'}, {'erhce hwul', 'eriqa hiyl', 'erscw hlhl', 'eracy hwil', 'uwiqa wwwl'}, {'errca hwll', 'eriix hyal', 'wwiwa wuwl', 'erzza hwol', 'erigz hlhl'}, {'eriwj hlwl', 'erkza hwul', 'eriex hylh', 'orikw hwoh', 'errca hyll'}, {'hrigh hyhw', 'erwcs hwlh', 'erigq hyhl', 'erwca hlll', 'eriij hwal'}]
+erica hill          : DEBUG: Additional rule variations: {'e.H.', 'hill   erica'}
+erica hill          : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.14285714285714285,
+        "special_char_variations_count": 1,
+        "total_variations_count": 7
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "erica hill": {
+            "first_name": {
+                "score": 0.868,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.5599999999999999,
+                        "orthographic": 1.0,
+                        "combined": 0.78
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "erzja",
+                            "phonetic_score": 0.45810982347176105,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "eriqg",
+                            "phonetic_score": 0.45810982347176105,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "erzha",
+                            "phonetic_score": 0.45810982347176105,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ywicu",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "eriqa",
+                            "phonetic_score": 0.8200309225762774,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.8246704242569503,
+            "final_score": 0.7930696727388935,
+            "variation_count": 7,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 2,
+            "last_name": {
+                "score": 0.7795191638468922,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.2650638794896408,
+                        "orthographic": 1.0,
+                        "combined": 0.6325319397448204
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "hyul",
+                            "phonetic_score": 0.6577501249079589,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hyil",
+                            "phonetic_score": 0.6577501249079589,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hwlh",
+                            "phonetic_score": 0.6577501249079589,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "welw",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.25,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "hiwl",
+                            "phonetic_score": 0.7384855002763074,
+                            "orthographic_score": 0.75,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "e.H."
+                        ],
+                        "name_parts_permutations": [
+                            "hill   erica"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "e.H.": [
+                            "shorten_name_to_initials"
+                        ],
+                        "hill   erica": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.6666666666666666,
+        "by_name": {
+            "erica hill": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "e.H."
+                        ],
+                        "name_parts_permutations": [
+                            "hill   erica"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "e.H.": [
+                            "shorten_name_to_initials"
+                        ],
+                        "hill   erica": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "average_quality": 0.7930696727388935,
+    "final_reward": 0.7930696727388935
+}
+erica hill          : DEBUG: ----------------------------------------------------------------------------------------------------

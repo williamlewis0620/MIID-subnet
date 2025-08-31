@@ -1,0 +1,2228 @@
+matthew olsen       : INFO: Generating variations for matthew olsen
+matthew olsen       : INFO: ----------------------------------------------------------------------------------------------------
+matthew olsen       : INFO: Effective rules: ['shorten_name_to_initials', 'name_parts_permutations', 'duplicate_random_letter_as_double_letter']
+matthew olsen       : INFO: ----------------------------------------------------------------------------------------------------
+matthew olsen       : INFO: Min Required Rule Variation Set: [{'m.o.', 'mo', 'mO', 'm. O.', 'M.O.', 'm.O.', 'MO', 'M. O.', 'm. o.', 'M. o.', 'M.o.', 'Mo'}, {'olsen  matthew', 'olsen       matthew', 'olsen          matthew', 'olsen   matthew', 'olsen        matthew', 'olsen matthew', 'olsen    matthew', 'olsen      matthew', 'olsen         matthew', 'olsen     matthew'}, {'matthew olseen', 'mattheew olsen', 'matthew oolsen', 'matthew olsenn', 'mmatthew olsen', 'mattheww olsen', 'mattthew olsen', 'matthew ollsen', 'matthew olssen', 'matthew  olsen', 'matthhew olsen', 'maatthew olsen'}]
+matthew olsen       : INFO: ----------------------------------------------------------------------------------------------------
+matthew olsen       : INFO: First name: matthew
+matthew olsen       : INFO: Last name: olsen
+matthew olsen       : INFO: ----------------------------------------------------------------------------------------------------
+matthew olsen       : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (2, 5), (0, 8), (1, 7), (2, 6), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8)]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 1 / 21: rule_count/nonrule_count: 0/1------------------------------
+matthew olsen       : DEBUG: O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: P: [0, 0, 0, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: P: [0, 0, 0, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.26818561]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 2 / 21: rule_count/nonrule_count: 0/2------------------------------
+matthew olsen       : DEBUG: O: [0, 1, 0, 1]
+matthew olsen       : DEBUG: P: [0, 0, 1, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [0, 1, 0, 1]
+matthew olsen       : DEBUG: P: [0, 0, 1, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.41822631]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 3 / 21: rule_count/nonrule_count: 0/3------------------------------
+matthew olsen       : DEBUG: O: [0, 1, 0, 2]
+matthew olsen       : DEBUG: P: [0, 0, 1, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [0, 1, 0, 2]
+matthew olsen       : DEBUG: P: [0, 0, 1, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.43704025]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 4 / 21: rule_count/nonrule_count: 0/4------------------------------
+matthew olsen       : DEBUG: O: [0, 2, 0, 2]
+matthew olsen       : DEBUG: P: [0, 1, 2, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [0, 2, 0, 2]
+matthew olsen       : DEBUG: P: [0, 1, 2, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.452]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 5 / 21: rule_count/nonrule_count: 1/3------------------------------
+matthew olsen       : DEBUG: O: [0, 1, 0, 2]
+matthew olsen       : DEBUG: P: [0, 0, 1, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [0, 1, 0, 2]
+matthew olsen       : DEBUG: P: [0, 0, 1, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.50370692]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 6 / 21: rule_count/nonrule_count: 0/5------------------------------
+matthew olsen       : DEBUG: O: [1, 3, 1, 0]
+matthew olsen       : DEBUG: P: [0, 1, 3, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 3, 1, 0]
+matthew olsen       : DEBUG: P: [0, 1, 3, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.56]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 7 / 21: rule_count/nonrule_count: 1/4------------------------------
+matthew olsen       : DEBUG: O: [0, 2, 0, 2]
+matthew olsen       : DEBUG: P: [0, 1, 2, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [0, 2, 0, 2]
+matthew olsen       : DEBUG: P: [0, 1, 2, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 1, 0, 1]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.51866667]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 8 / 21: rule_count/nonrule_count: 0/6------------------------------
+matthew olsen       : DEBUG: O: [1, 3, 1, 1]
+matthew olsen       : DEBUG: P: [0, 1, 3, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 3, 1, 1]
+matthew olsen       : DEBUG: P: [0, 1, 3, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.53342093]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 9 / 21: rule_count/nonrule_count: 1/5------------------------------
+matthew olsen       : DEBUG: O: [1, 3, 1, 0]
+matthew olsen       : DEBUG: P: [0, 1, 3, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 3, 1, 0]
+matthew olsen       : DEBUG: P: [0, 1, 3, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.62666667]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 10 / 21: rule_count/nonrule_count: 0/7------------------------------
+matthew olsen       : DEBUG: O: [1, 4, 1, 1]
+matthew olsen       : DEBUG: P: [0, 2, 4, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 4, 1, 1]
+matthew olsen       : DEBUG: P: [0, 2, 4, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.51360946]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 11 / 21: rule_count/nonrule_count: 1/6------------------------------
+matthew olsen       : DEBUG: O: [1, 3, 1, 1]
+matthew olsen       : DEBUG: P: [0, 1, 3, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 3, 1, 1]
+matthew olsen       : DEBUG: P: [0, 1, 3, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.56675426]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 12 / 21: rule_count/nonrule_count: 2/5------------------------------
+matthew olsen       : DEBUG: O: [1, 3, 1, 0]
+matthew olsen       : DEBUG: P: [0, 1, 3, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 3, 1, 0]
+matthew olsen       : DEBUG: P: [0, 1, 3, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 0]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.69333333]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 13 / 21: rule_count/nonrule_count: 0/8------------------------------
+matthew olsen       : DEBUG: O: [1, 4, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 4, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 4, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 4, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.49491975]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 14 / 21: rule_count/nonrule_count: 1/7------------------------------
+matthew olsen       : DEBUG: O: [1, 4, 1, 1]
+matthew olsen       : DEBUG: P: [0, 2, 4, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 4, 1, 1]
+matthew olsen       : DEBUG: P: [0, 2, 4, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.5469428]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 15 / 21: rule_count/nonrule_count: 2/6------------------------------
+matthew olsen       : DEBUG: O: [1, 3, 1, 1]
+matthew olsen       : DEBUG: P: [0, 1, 3, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 3, 1, 1]
+matthew olsen       : DEBUG: P: [0, 1, 3, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 0, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.66675426]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 16 / 21: rule_count/nonrule_count: 0/9------------------------------
+matthew olsen       : DEBUG: O: [1, 5, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 5, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [4, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 5, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 5, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [4, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.48284049]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 17 / 21: rule_count/nonrule_count: 1/8------------------------------
+matthew olsen       : DEBUG: O: [1, 4, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 4, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 4, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 4, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.52825309]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 18 / 21: rule_count/nonrule_count: 2/7------------------------------
+matthew olsen       : DEBUG: O: [1, 4, 1, 1]
+matthew olsen       : DEBUG: P: [0, 2, 4, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 4, 1, 1]
+matthew olsen       : DEBUG: P: [0, 2, 4, 1]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.6469428]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 19 / 21: rule_count/nonrule_count: 0/10------------------------------
+matthew olsen       : DEBUG: O: [2, 6, 2, 0]
+matthew olsen       : DEBUG: P: [1, 3, 6, 0]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [2, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [4, 0, 0]
+matthew olsen       : DEBUG: [2, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [40]
+matthew olsen       : DEBUG: [20]
+matthew olsen       : DEBUG: [20]
+matthew olsen       : DEBUG: [20]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [2, 6, 2, 0]
+matthew olsen       : DEBUG: P: [1, 3, 6, 0]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 2, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [2, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 4, 2, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [4, 0, 0]
+matthew olsen       : DEBUG: [2, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+matthew olsen       : DEBUG: [7]
+matthew olsen       : DEBUG: [20]
+matthew olsen       : DEBUG: [20]
+matthew olsen       : DEBUG: [20]
+matthew olsen       : DEBUG: [1]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 2, 0, 0, 4, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 2, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.47809465]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 20 / 21: rule_count/nonrule_count: 1/9------------------------------
+matthew olsen       : DEBUG: O: [1, 5, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 5, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [4, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 5, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 5, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 4, 1, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [4, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 4, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.51617382]
+matthew olsen       : INFO: ------------------------------Trying rule_count_pair 21 / 21: rule_count/nonrule_count: 2/8------------------------------
+matthew olsen       : DEBUG: O: [1, 4, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 4, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [324, 119, 0]
+matthew olsen       : DEBUG: [500, 454, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [500, 20, 0]
+matthew olsen       : DEBUG: [500, 152, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [500, 500, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: matthew, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: matthew, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: matthew, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: O: [1, 4, 1, 2]
+matthew olsen       : DEBUG: P: [0, 2, 4, 2]
+matthew olsen       : WARNING: Remains: 0
+matthew olsen       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+matthew olsen       : DEBUG: [4, 2, 0]
+matthew olsen       : DEBUG: [35, 17, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [20, 20, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 2, O: [0, 3, 1, 0]
+matthew olsen       : DEBUG: [13, 0, 0]
+matthew olsen       : DEBUG: [179, 0, 0]
+matthew olsen       : DEBUG: [335, 0, 0]
+matthew olsen       : DEBUG: [56, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: [3, 0, 0]
+matthew olsen       : DEBUG: [1, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0]
+matthew olsen       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+matthew olsen       : DEBUG: [49]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [500]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [0]
+matthew olsen       : DEBUG: [2]
+matthew olsen       : DEBUG: final:
+matthew olsen       : DEBUG: name: olsen, l_level: 0
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 1, 0, 0, 3, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+matthew olsen       : DEBUG: name: olsen, l_level: 1
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: name: olsen, l_level: 2
+matthew olsen       : DEBUG: --------------------------------------------------
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+matthew olsen       : DEBUG: scores: [0.62825309]
+matthew olsen       : DEBUG: ----------------------------------------------------------------------------------------------------
+matthew olsen       : DEBUG: Best score achieved: 0.6933333333333334
+matthew olsen       : DEBUG: Best selected: 2/5
+matthew olsen       : DEBUG: Rule variations: [{'m.o.', 'mo', 'mO', 'm. O.', 'M.O.', 'm.O.', 'MO', 'M. O.', 'm. o.', 'M. o.', 'M.o.', 'Mo'}, {'olsen  matthew', 'olsen       matthew', 'olsen          matthew', 'olsen   matthew', 'olsen        matthew', 'olsen matthew', 'olsen    matthew', 'olsen      matthew', 'olsen         matthew', 'olsen     matthew'}]
+matthew olsen       : DEBUG: Nonrule variations: [{'maedthe olegn', 'maothow olcen', 'myettew oljgn', 'mawtewh olzgn', 'mtutehw ylcyn'}, {'mtateaw hlgin', 'mottahw olhcn', 'mattyyh olgwn', 'mettheh olcen', 'motyyew olicn'}, {'mudtheh olxkn', 'mawthow olcen', 'madtwhw olxon', 'mtateaw awsew', 'muttahw oluqn'}, {'amyyhew owzwn', 'miattyw oloxn', 'mwattyw olign', 'mahtehw olxyn', 'maotheh olcen'}, {'maettiw olszm', 'mmethew olssn', 'mawthye olqon', 'midthiw olkwn', 'amtthoh iyshn'}, {'mhttwww olykn', 'mittheh olswn', 'mhwthww oloxn', 'awttehw ylqun', 'mwtyhww olcqn'}, {'mahthey olcen', 'amhthey ulqun', 'meaytew olljn', 'maittyw olukn', 'myutthe oljon'}, {'mawthhh oljan', 'yatdehw wlwew', 'mittyeh olhjn', 'matthyw olsyn', 'mahttyw ollcn'}, {'meattow olljn', 'yatyhwe ylzin', 'mhtyhiw olgun', 'mittheh olsyn', 'mithyew olcem'}, {'mutwhuw olujn', 'mutthww olswn', 'myattiw oleqn', 'wawtehw ilswh', 'matywow olszm'}, {'mahtthw olssn', 'matyhoe olijn', 'wmatetw olwwe', 'mhthhyw olxsn', 'mahtehw olkun'}, {'amtdhey ylqwn', 'miatthe olsyn', 'mtwthww olakn', 'methhey oljkn', 'meadthe olqon'}, {'amdthyw ilqwn', 'mhtdhyw olqan', 'maudthe oliqn', 'madthue olsjm', 'matthiu olswn'}, {'matwihw olgan', 'myythew olswn', 'maodthe olekn', 'mathwhw olckn', 'ahtthwe alsne'}, {'muthhuw olgxn', 'madtyhw olcan', 'maytwhw olhjn', 'maitheu olswn', 'amdthhw wwjen'}, {'mettheu olswn', 'mmadthe olgwn', 'mtwathe ylgyn', 'mwttyww olgzn', 'meattey olxun'}, {'madthih olsxm', 'netthwe lwseh', 'mauttwe olkem', 'maethea olcen', 'mwttihw olxxn'}, {'maittiw olggn', 'matetwh oyesn', 'mhthhww olacn', 'meythew olssn', 'motthwh olcxn'}, {'myutthe olqxn', 'madtyhw oljwn', 'modthiw olsmu', 'nottehw lesan', 'matthiw olswn'}, {'mahtthe olsyn', 'medthey olksn', 'matwwyw olxsn', 'mhtdhhw olykn', 'amthheh ulyin'}, {'imttehw wwxen', 'mattowy olqhn', 'metwhey olgwn', 'modthaw olajn', 'maithea olcen'}, {'mattwhy oljgn', 'mmtthee olsyn', 'hhttehw ilweh', 'mahtwhw olxem', 'mhtyhey olkcn'}, {'mutteaw olxsn', 'mawtihw olgzn', 'htayhew leseh', 'maithyw olcen', 'medthiw oliqn'}, {'maythaw olswn', 'mtathiy awyen', 'mwtthwe olsma', 'mittyhw olkin', 'mawtyyw oljwn'}, {'maetthe olswn', 'mhttehw olsgm', 'myattye olqwn', 'mhtdhyw olqgn', 'mtadhyw ulshm'}, {'mtiathe awsew', 'mhtyhaw olaqn', 'mytthwe olykn', 'mutteyw olcsn', 'motthea olsyn'}, {'matthaa olsyn', 'motyhaw olhjn', 'mhttwww olksn', 'watwhwe iysan', 'mahtihw olxxn'}, {'mutthhh olckn', 'maytheo olssn', 'mwatheh olsme', 'mhtwhww olchn', 'waytehw ehsyn'}, {'motteww olygn', 'meattiw olhsn', 'maothiw olswn', 'amtdhww ulywn', 'mhtdhyw olqhn'}, {'amthheh oyqun', 'muttwuw oljjn', 'maotthw olsyn', 'metthhy olkun', 'mahdthe olxon'}, {'mautheu olssn', 'muthhyw olssm', 'mhtyhww olqzn', 'muttyhw olsmy', 'amytehw olhiw'}, {'mhatteh olqjn', 'mohdhew olzgn', 'amwthaw wwsew', 'matheiw olsyn', 'maotthh oljzn'}, {'mmtthaw olssn', 'meaytew olgsn', 'mittyhw olsmw', 'anttehw ihseh', 'mitteyw olshm'}, {'motthwh olsmu', 'mahtthe olsyn', 'amtdyew owhwn', 'mahtwhw olxem', 'matyweh olucn'}, {'mahwtew olwcn', 'mtathue oyhin', 'mawthei olcen', 'mwdthiw oljin', 'miatteh ollxn'}, {'mothhyw oljwn', 'mitthiw olsyn', 'mythhyw ollqn', 'amtthiy uleyn', 'mutteaw olkan'}, {'amtthwi ylejn', 'mautdhe olwcn', 'mwattiw olocn', 'mtthoew olswn', 'maodthe oljcn'}, {'mahtthe olsyn', 'nadtehw elhan', 'madtwiw olqan', 'muattaw oljan', 'mtayhew oljwn'}, {'madtyiw oljyn', 'maythaw olssn', 'nitthwe ihxen', 'muattyw olsmu', 'mawteiw oloxn'}, {'amhthow wwxen', 'mottyyw olchn', 'matthih olcen', 'muttyhw oljon', 'matdwhe olxjn'}, {'madtwhw olxun', 'mhttyww olqcn', 'meattyw oolsn', 'matthih olcen', 'nitthwe elwew'}, {'mattthe olsyn', 'amhtyew iysew', 'mwatdhe olqxn', 'mawthwe olqkn', 'maytwyw olckn'}, {'mattihy olgun', 'mhtyheh olkxn', 'aomtthe uyshn', 'maithww olswn', 'mwtteuw olzcn'}, {'muattyw olign', 'ahtthwe ylyyn', 'matthaw olcen', 'meaytew olukn', 'mattwyy oolsn'}, {'meattyw olxsn', 'mhtdyew oluqn', 'ytatehw wwzen', 'madhhyw olxwn', 'mmtthow olswn'}, {'mtathoy ylhan', 'mhydhew olcqn', 'mattheh olsyn', 'mttahyw olqsn', 'mhtyyew olssm'}, {'mautheo olcen', 'mwathww olwqn', 'mothhhw olxqn', 'mtyathe losan', 'matywey olacn'}, {'madwthe olscm', 'mttheow olcen', 'amttyow olhwy', 'mhttehw oljkn', 'muttihw olokn'}, {'metthye olujn', 'matyehw olsqm', 'matywww olyjn', 'mwtthea olcen', 'yytthwe wwsem'}, {'mahttiw olgsn', 'mawthuw olswn', 'matdohw olsym', 'myathww ologn', 'amhyhew yyshn'}, {'matwyyw olgjn', 'maitheo olcen', 'emtthwe ohxun', 'mattihh olxgn', 'mahwtew olzcn'}, {'mwtywew olacn', 'mhttwyw olgan', 'matdahw olhcn', 'mawthiw olssn', 'notthwe ylsym'}, {'muwthew olswn', 'mttahyw oljwn', 'amwtwew wlqwn', 'madthwe olgxn', 'mhtdhyw olign'}, {'muttyhw ollxn', 'mihtyew olqun', 'htathhw ahsyn', 'mautheu olcen', 'mwattiw oljjn'}, {'mautthe olswn', 'maadtew olgzn', 'mhtyhhw olzxn', 'amtthyh owswm', 'mutthwh olsmu'}, {'hwtthwe ylzan', 'mutwheh olqjn', 'maathww olcen', 'mhattyw olucn', 'matdewy olsmo'}, {'maidthe olhxn', 'mmattyw olkwn', 'amthhww oychn', 'mawtyeh olkin', 'mowthew olssn'}, {'mwttwhw olacn', 'metyhey oleqn', 'maithww olswn', 'amtethw ylezn', 'metthye olggn'}, {'natyehw hysey', 'mitthhe oljhn', 'mmattyw olxjn', 'mothyew olsmu', 'mwtthyw olswn'}, {'mettheu olswn', 'mhtdhuw oljkn', 'wadthwe hlyhn', 'matywhw olcan', 'mitthwe olqsn'}, {'mattehh olhcn', 'matywhe olwcn', 'mothyew olakn', 'maotheo olswn', 'nattehy losun'}, {'mhathww olhcn', 'amtytew hlwew', 'mahthwo olzcn', 'matthui olswn', 'mhathyw oljcn'}, {'mwttwhw olyjn', 'mwatdew olyxn', 'maittyw olygn', 'amttweh wyshn', 'meythew olcen'}, {'motwhww olsym', 'mowtyew olejn', 'madhhyw ollqn', 'amttwiw yoseh', 'mottheh olsyn'}, {'mawwtew olcsn', 'maithaw olssn', 'ymtatew yyzen', 'mutthwu olxem', 'mwtywew olcwn'}, {'mydthiw oljun', 'maiwtew olsmy', 'hatwehw elzwn', 'mauthey olswn', 'matywey oolsn'}, {'madhhiw olejn', 'mettheh olssn', 'mottihw olixn', 'watdehw ylyhn', 'meaytew olkzn'}, {'motthyw olcen', 'mawyehw ylwew', 'mattwwe olacn', 'mwtdhww olxyn', 'mathhyh olxjn'}, {'mytthiw olsyn', 'mhttehw olskm', 'muttwyw olcjn', 'mhtdhow olqxn', 'wtathow hhsin'}, {'matdeyw olxsn', 'mhddhew olxan', 'amttuhw hlhin', 'muatyew olskm', 'mawthiw olssn'}, {'wtadhew ylzan', 'maetthe olssn', 'mutthyh olaxn', 'mahthhe ollqn', 'mottihw olkun'}, {'motthyw olcen', 'muttihw olqun', 'muttwhw olqyn', 'mawwhwe alejn', 'madwhiw olgin'}, {'maytyyw olxxn', 'matthww olcen', 'mawthwe olaxn', 'mawteuw olyjn', 'amtthiy yhxen'}, {'mmwthew olcen', 'wtathey hyson', 'mhddhew olgxn', 'maidthe olsmi', 'maittyw olkem'}, {'mhdthiw olkqn', 'matywhe olekn', 'metywew olxon', 'matthiw olswn', 'amttyyw olejy'}, {'muttehw olxxn', 'madthae olkhn', 'ntathey ilsyh', 'myatthu olcem', 'mttthaw olsyn'}, {'mawtweh olhkn', 'matdeyw olwqn', 'matheuw olswn', 'hotthwe ulhwn', 'motyhww olgyn'}, {'motteww olwqn', 'mwattyw olxcn', 'ytatwew wlhyn', 'mawtheh olsyn', 'matdhwe olhgn'}, {'mewthew olssn', 'hittehw hyjen', 'meatdhe oljsn', 'metdyew olixn', 'mittyuw olsme'}, {'mothhyw olqhn', 'mittyww olkjn', 'nottehw lhsan', 'mhutthe olxxn', 'maethuw olsyn'}, {'matyeww olxhn', 'amhthow ilqeh', 'madthwi oljzn', 'maethuw olswn', 'mayttwe olyjn'}, {'yadtehw hlyin', 'mowthhw olhqn', 'mutdheh olhsn', 'mitthwe olsqm', 'maethow olswn'}, {'mtathoe wlhem', 'madtuhw oliqn', 'motthyw olssn', 'mwttyww olkcn', 'matweuw olsjm'}, {'maytthw olswn', 'maewtew olhxn', 'amhthaw ulswm', 'madthoe oljhn', 'matywiw oloqn'}, {'mytdyew olgem', 'myttwhw olhjn', 'maethow olssn', 'mautwhe olksn', 'mtatwiw uwsem'}, {'mwttihw olqzn', 'maathee olcen', 'mhtwhww olgon', 'mothhww olqin', 'awttehw losew'}, {'madteyw olzqn', 'ntathow olwww', 'muadthe olucn', 'miattiw olkan', 'matthwy olssn'}, {'mhtyhow olegn', 'myathyw olqjn', 'mahthaw olswn', 'modthiw olzgn', 'amtyhhw ylsyh'}, {'maatheu olcen', 'hotthwe olesy', 'myathyw olwcn', 'madthhe olcun', 'mattwyy olgon'}, {'mtadhhw ylzin', 'myathyw olkkn', 'maytheu olswn', 'motyhww olycn', 'mhtdhhw oluxn'}, {'mawthwh oljyn', 'amtthyh ohxon', 'mauthiw olsyn', 'motdhww olgon', 'mawtewh olkin'}, {'muttyuw ollkn', 'mothhyw olgqn', 'natdehw elcwn', 'maothaw olssn', 'mahttyw oljun'}, {'mhdthww olcon', 'motyhww olacn', 'matteoh olgem', 'amwtehw owwew', 'meythew olswn'}, {'amtthhe wwgen', 'maytyyw olaxn', 'mhtyhww olkyn', 'mawthuw olcen', 'matyhwe olycn'}, {'moytyew olcon', 'hottehw hyshn', 'mtahhew olchn', 'madthhe olqcn', 'mawthaw olcen'}, {'maowtew olqwn', 'mottwhw olkan', 'mutyheh olgwn', 'mttheuw olcen', 'mhatetw owgwn'}, {'mawtewy olexn', 'maywtew oljan', 'maathuw olsyn', 'mittyeh olcon', 'amwhhew lowen'}, {'amttwuw oyzhn', 'muttyuw olygn', 'mwadthe olqsn', 'muythew olswn', 'matdwhe olhkn'}, {'mtathoh olqww', 'mhttehw olugn', 'madthye olwkn', 'mttthiw olcen', 'mhttyww olwgn'}, {'mityyew olecn', 'maadthe olcsn', 'matthia olcen', 'mattwhh olqwn', 'mtwathe wwsun'}, {'matyweh olzgn', 'matthyy olcen', 'mtatwow oykhn', 'mattywh olyqn', 'mhtyhuw oluqn'}, {'mwtyhww oluxn', 'muattyw olixn', 'mmatthe olsyn', 'htathow elywn', 'madywew olgem'}, {'mhttwyw olcjn', 'meatdew ollxn', 'matthae olcen', 'amtthoh ohhwn', 'maowtew olsxm'}, {'madthue olhcn', 'mwthhww olxjn', 'matthaw olcen', 'wtathwe lojen', 'maotthh olxxn'}, {'mmatthw olcen', 'mhtdhhw olsym', 'midthiw olxyn', 'mtateow elywn', 'motteyw olikn'}, {'mhddhew olhqn', 'miatthw olswn', 'maytehw olsmh', 'wtathiw wwjen', 'mahdthe olskm'}, {'matywow olgan', 'mhathyw olxqn', 'matthww olssn', 'mutyheh olxsn', 'hytthwe loswn'}, {'mawthei olcen', 'mittyhw olsym', 'mhthhyw olxem', 'ahttehw awsun', 'mawthye ollkn'}, {'mhtywew oljcn', 'mattihh olejn', 'mawtthw olswn', 'wtathaw wyshn', 'myathyw olwjn'}, {'mittyey olqgn', 'maathee olssn', 'mahtwhw olcon', 'amtwhiw lohen', 'meatwew olqan'}, {'moaytew olzjn', 'mahtthw olsyn', 'mettihw olhqn', 'amhthiw yljem', 'mhtthwh olkwn'}, {'amttwhw ilsoh', 'matdwyw oleqn', 'matthee olswn', 'mhtdhaw olsmh', 'mittyiw oljzn'}, {'mottehw olsqm', 'ntayhew owgwn', 'madthhe oljun', 'myathww olqwn', 'mttheiw olswn'}, {'mitthyw olsyn', 'amtyhwe hysyn', 'mothhaw olgkn', 'mhathyw olswm', 'mawthwe olghn'}, {'mhtdhiw olgkn', 'mmawtew oljsn', 'matthow olssn', 'mtatwow lsoeh', 'mattywh olxgn'}, {'meatwew olyxn', 'modthaw olxem', 'nattehy olwuw', 'maetheh olswn', 'muttyyw olljn'}, {'amtdwew hlsni', 'maethhe olqgn', 'meatdhe olxcn', 'matthoe olssn', 'mutyheh olqcn'}, {'mhtyhaw olqun', 'amtthhe oyghn', 'matthui olsyn', 'maytwhw olokn', 'mhttewy oolsn'}, {'mhadthe olsnh', 'moadthe olsxm', 'mewthew olswn', 'amtytew ohesn', 'mytdyew oljxn'}, {'nattehh awqen', 'mwtyhww olhxn', 'meyttew olzjn', 'maitthw olswn', 'muttyyw olsmi'}, {'moatthw olssn', 'mottyeh olckn', 'amwthey owwwn', 'maydthe olsym', 'mawtweh olicn'}, {'hatwhwe lwseh', 'maetthw olssn', 'maotthh olqjn', 'mwtwhww olqkn', 'mottohw olssm'}, {'motyhhw olckn', 'maytyyw olcsn', 'mtwthyw olqin', 'nutthwe ohxeh', 'matheaw olsyn'}, {'mtathae olwuw', 'mhatteh olcun', 'muatthe olssn', 'mahthhe oljyn', 'mattwyy olqqn'}, {'matteoh olejn', 'mahthwa olaxn', 'amtthwo wlhin', 'maytwyw olqin', 'mttheaw olssn'}, {'mettyyw olsmi', 'amdtyew ohxew', 'maottyw oljyn', 'mottwww olicn', 'miwthew olswn'}, {'wtatehw awson', 'mitthww olsyn', 'mutthwh olsmw', 'myattye olzsn', 'motthhh olxcn'}, {'motdhhw olhgn', 'mwattiw olcun', 'maathyw olswn', 'ytatheh oyshh', 'maythwe ollkn'}, {'mtthewy olsyn', 'anttehw loxen', 'motthwe ologn', 'mmattyw oljun', 'mattywe olzxn'}, {'myttyhe olujn', 'mutthwh olqsn', 'mttheuw olswn', 'mhythww olshm', 'omtthwe wlehn'}, {'matdwhe olsmh', 'amwdhew wlyhn', 'metdyew olgan', 'mittyeh olexn', 'meythew olswn'}, {'mtadhow ulsam', 'mityyew olxkn', 'mhttihw oljon', 'mhthhww olxan', 'mawthea olssn'}, {'mmtthyw olsyn', 'natwhwe ilqun', 'mittihw olkhn', 'matdwhe oljgn', 'mattwwe olgan'}, {'mytywew olikn', 'mayytew oloqn', 'matywhw oljkn', 'metthyw olssn', 'htathwe ihsyn'}, {'wtatheh owqun', 'myattiw olexn', 'miattiw olckn', 'mitthea olsyn', 'mhttewy olchn'}, {'mayteaw olykn', 'yadtehw ilsih', 'mottyey olqun', 'maatheo olssn', 'maddhiw olhxn'}, {'amhthey uwsem', 'mohthhw olchn', 'moythew olswn', 'miattwe olsym', 'matwehw olssm'}, {'mattihy olkun', 'mwhthww oljcn', 'muythew olcen', 'mhtdhww olykn', 'amtdehw ylqwn'}, {'mhtthwh olkzn', 'ytahhew whxen', 'mmattiw olssm', 'mytthew olswn', 'mhtyhyw oljan'}, {'mittyww ollcn', 'mihtyew olyxn', 'maythea olswn', 'matwehw olkon', 'hadtehw awsyn'}, {'matwtiw ollcn', 'amtyhuw ilshe', 'maddhiw olxkn', 'mmatthw olssn', 'mayttiw olkgn'}, {'matyeaw olksn', 'muttyeh olkem', 'ytatehw yysyn', 'mmwthew olsyn', 'matweuw olajn'}, {'meattow olijn', 'mtadehw yljey', 'meattyw olzkn', 'mettihw olcjn', 'maethea olcen'}, {'myutthe oloqn', 'mtethwe ulsim', 'mwttyww oljxn', 'mttheuw olcen', 'matteoh olkqn'}, {'mtatwiw alqun', 'mawtyeh olygn', 'mutthwu oleqn', 'maytheu olswn', 'mhhthww olqxn'}, {'mtthiew olswn', 'mtutehw oyshy', 'matdwhe olgkn', 'matwhwe olcjn', 'mohthhw olswm'}, {'mayttwe olqsn', 'matthih olsyn', 'madthye ollxn', 'mhtdhaw olhsn', 'amtthwe olhww'}, {'mhdyhew olqhn', 'miatetw elywn', 'matthue olsyn', 'myttwhw olsmo', 'mhattiw olczn'}, {'mitthow olssn', 'mutyhuw olshm', 'mahwehw hyqen', 'mittyww olxjn', 'mayttuw olcsn'}, {'matdewy olakn', 'mattthw olswn', 'yuttehw olwwe', 'mhtdhey olgin', 'mahttiw olojn'}, {'mauwtew olgwn', 'amtytew yljyn', 'maythew olssn', 'mwatdew olwcn', 'mattywy olexn'}, {'matdyyw oljjn', 'yatdhwe hyqen', 'meatyew olugn', 'mwttwyw oljzn', 'mawthiw olsyn'}, {'maotthh olsxm', 'mutthhe olgyn', 'metdhey olkgn', 'nattehy leseh', 'mmtthee olcen'}, {'meattwe olsxm', 'wuttehw iyyen', 'myttwyw olgjn', 'mathehw olcen', 'metwhey olxcn'}, {'mutteww ollxn', 'watdehw elxew', 'mhtyhaw olksn', 'matyhwe oljwn', 'mawtheu olswn'}, {'maotthh olojn', 'mwtteuw olhcn', 'nottehw hlhin', 'matthih olswn', 'mutthwu olwcn'}, {'madthye olzqn', 'mattehy olskm', 'maytwyw olhqn', 'amttehw ilhwn', 'mathehw olssn'}, {'madthiy olykn', 'mahtwyw olwcn', 'mwhthww olzcn', 'muttheu olcen', 'amhthyw oyhwn'}, {'meyttew olqin', 'mawthww olsyn', 'mattyyh oljwn', 'meattaw olzjn', 'nahthwe ulsum'}, {'mudthuw olxsn', 'amtthoe hlsni', 'maddyew olwjn', 'mwtthaw olcen', 'mhadthe olxan'}, {'maothey olcen', 'amttywe iygen', 'mittyaw olqun', 'mwtyhww oljan', 'mytthwe olwcn'}, {'mwathww olwgn', 'mattehy oleqn', 'mitthyw olcen', 'mhtyhuw oolsn', 'wattehh hlsih'}, {'mawthye olzxn', 'mahhhwe leseh', 'miattwe oljcn', 'motdhhw oolsn', 'mauthey olssn'}, {'maothww olcen', 'mawhtew olkyn', 'ytatheh olham', 'mahthwu olzgn', 'mithhyw olwqn'}, {'mawteww olqjn', 'maettyw olgsn', 'maethee olssn', 'mmatthh olsnh', 'wattwwe iysey'}, {'ayttehw olham', 'maottow olcon', 'mawthyw olssn', 'metywew olwqn', 'mathhwe olchn'}, {'madthae oljan', 'mtttheh olcen', 'meatetw wwxen', 'mawteyw olign', 'mitthwe olxkn'}, {'amttyiw whsyn', 'maethey olswn', 'mattiwy oleqn', 'madthwi olsjm', 'mawtweh olskm'}, {'myadthe ollxn', 'mwttyyw olqun', 'mmttheo olssn', 'imtthwe lsoan', 'madthye olgcn'}, {'mottyyw olsmy', 'mawthye olexn', 'mhatetw ulsum', 'mawthiw olssn', 'mwhthww olhzn'}, {'mauthiw olswn', 'muadthe oljkn', 'mittwhw olxin', 'metthhy olcqn', 'amtthye uhsem'}, {'motthee olswn', 'mawttiw olcgn', 'mtathwy oyhin', 'matwtyw olxin', 'mahwtew olgin'}, {'huttehw elswm', 'mutthei olswn', 'mwtthwe oljsn', 'miwtyew oljyn', 'modthiw olgxn'}, {'hathhwe olesy', 'meatdew olsym', 'mttthee olcen', 'meatyew olxzn', 'mawteuw olacn'}, {'mawtheh olssn', 'mahdthe olssm', 'htathhw hhsin', 'madthwi olxon', 'madtwhw olxcn'}, {'maytheo olssn', 'maiwtew olakn', 'amtdhyw ilqwn', 'madwhiw oliqn', 'mhhdhew olkhn'}, {'mwattyw olygn', 'matdhwe oluqn', 'madtwyw olhcn', 'matheyw olsyn', 'ytadhew ylezn'}, {'mahtwyw olhgn', 'matyeaw olkhn', 'meattww olzhn', 'yaytehw hyzen', 'maathei olssn'}, {'awmttew ewswn', 'maathow olsyn', 'mawttyw olykn', 'mahthwa olkhn', 'mhtdhaw olszm'}, {'mitteiw olxem', 'metthiw olswn', 'ytathiw oyhwn', 'mothhhw olzqn', 'mottyww olgan'}, {'mawtthw olsyn', 'nitthwe hyken', 'matdahw olkkn', 'maythwe olcxn', 'maudthe olckn'}, {'mhtthwh olqxn', 'umtthwe oywew', 'miattiw olcqn', 'mittwyw olxon', 'meythew olswn'}, {'mitteiw olojn', 'meyttew oljsn', 'meatthe olsyn', 'aymttew iyjen', 'mwatheh oluqn'}, {'mwtthow olswn', 'mauttyw olkxn', 'mwathww olxjn', 'mtadhwe hlsiy', 'myawtew olacn'}, {'metdyew olacn', 'amttyeh ilyhn', 'madtwhe olkgn', 'maothuw olssn', 'mutyhuw olqsn'}, {'emttehw ohhin', 'muythew olssn', 'mottyaw olcan', 'mothhww olcqn', 'mawtwyw olhxn'}, {'mawteyw oljun', 'mtadhyw iyqen', 'mutthea olcen', 'mhtyhuw oljqn', 'mwtyhww olqgn'}, {'hawthwe hwswn', 'matthoo olssn', 'madtihw olxem', 'matdahw olqin', 'mththww olwcn'}, {'mwttheo olcen', 'nattehh ylkyn', 'mottwaw olzjn', 'mwtteuw olwqn', 'mauttyw olcgn'}, {'mahtwyw olxun', 'mmethew olswn', 'amtteyw yljan', 'muttwuw olchn', 'maethhe oljkn'}, {'mautheu olssn', 'matdhwe olzjn', 'madywew olkan', 'mattywy olxhn', 'yutthwe iysyn'}, {'maythee olswn', 'mawytew olgjn', 'medthey ollxn', 'mdathwe hljin', 'mitdyew oljzn'}, {'mttheow olsyn', 'mettihw olksn', 'maottyw olhcn', 'madtohw olocn', 'mahyehw ywjen'}, {'moythew olsyn', 'mauttwe olykn', 'muattiw olejn', 'amhthey ylzyn', 'mhadthe olxan'}, {'ntatheh lusem', 'matthou olssn', 'mutyheh olhkn', 'mautdhe olxgn', 'mottohw oljhn'}, {'mayttyw oljsn', 'motyhww olojn', 'mwttwyw oluqn', 'maithei olswn', 'nattwwe olwwe'}, {'matyyyw ollgn', 'mytthww olsyn', 'mayttiw olwcn', 'myathyw oljjn', 'yettehw wlyhn'}, {'mutteaw olucn', 'maytihw olgcn', 'mottyyw olcon', 'maithee olcen', 'amythww owcwn'}, {'hmatetw ulshm', 'maatthw olssn', 'mahthwu olqqn', 'mawteuw olykn', 'mutyhuw olyqn'}, {'nhtthwe oleww', 'metdhey olkem', 'motywew olxin', 'mahtwyw olxjn', 'mwttheu olswn'}, {'madthoe olxyn', 'mwawtew olzcn', 'mttthey olssn', 'watdhwe hyxen', 'mautdhe olsme'}, {'mtathwa lysan', 'motthhh oloqn', 'mittwhw olgun', 'matywhw olzhn', 'maitheo olcen'}, {'modthww olhsn', 'moadtew olqan', 'maettiw olcan', 'mmuthew olcen', 'mtathoy olwiw'}, {'yhttehw lowen', 'mauttyw olzsn', 'maewtew olacn', 'mytthyw olsyn', 'modthaw olkkn'}, {'madtwhe olsqm', 'matwtyw olhqn', 'mtthewy olswn', 'nahthwe ilesn', 'mettwhw olxqn'}, {'motteww olwgn', 'mawthea olswn', 'mhtyheh oljwn', 'mahthhe olsym', 'nytthwe owqun'}, {'mahthow olsyn', 'mohtwew oluxn', 'motteww olyjn', 'mtytehw oyshw', 'mittihw olgan'}, {'maathyw olssn', 'awmttew ohjyn', 'matdahw olugn', 'moattyw olsmh', 'madthoe olhkn'}, {'mhthhyw olljn', 'miattwe olccn', 'mahthwo olkkn', 'mowthew olssn', 'ywttehw ulyin'}, {'amhhhew ilsyh', 'maythww olssn', 'mwtthwe olqun', 'muatyew olqem', 'mauwtew olgsn'}, {'meattow olegn', 'mhtdhow olojn', 'mathhyh olxun', 'amtteuw iyyen', 'mttthow olswn'}, {'mutteaw olsym', 'maatthw olsyn', 'muthheh oljan', 'motdhaw olsxm', 'amtythe olqww'}, {'modthhw olugn', 'matyihw olkhn', 'mtthoew olssn', 'maewtew olsgm', 'amthhow iyxen'}, {'meatthw olsyn', 'mettwey olkcn', 'mawteow oljan', 'mdathwe owsne', 'mutthyh olwkn'}, {'mhtdwew oluxn', 'mwttwhw olyxn', 'moatetw wlxew', 'mytthow olswn', 'mothhww olojn'}, {'muattaw olsxm', 'mauthee olcen', 'amttuhw olqww', 'mautdhe olccn', 'mitteyw olwxn'}, {'mtttheu olssn', 'modthiw olwgn', 'mtatewh losey', 'mawtyey olqsn', 'meadtew olsjm'}, {'maadtew olikn', 'ymtthwe olhni', 'mwathww olsjm', 'muttheo olsyn', 'mththww olqqn'}, {'miytyew olxqn', 'mwatteh olgon', 'mtiathe ihxen', 'mttheaw olcen', 'mettwey olcjn'}, {'madtehw olkkn', 'matywuw olsma', 'amtyheh alesn', 'mahthaw olssn', 'madhhiw olqqn'}, {'naytehw ylhan', 'mwawtew olukn', 'maettiw olqkn', 'mottyyw olzqn', 'matthei olsyn'}, {'matywuw olaxn', 'matyhwe olccn', 'amhthaw alqwn', 'mettheh olswn', 'mawteuw olgon'}, {'mahthww olswn', 'mottohw olkun', 'mhythww olzsn', 'imtthwe alhwn', 'mittwhw ollgn'}, {'mtahhew olggn', 'mitdyew olkcn', 'ytathiw hosyn', 'maothaw olsyn', 'maittyw olgxn'}, {'mahyehw olhiy', 'mwtdyew olqsn', 'meadtew olwgn', 'matthee olsyn', 'mahthwu oljun'}, {'medthey olxkn', 'mwadthe oljun', 'madthhe olqkn', 'muatthw olcen', 'amwthwe hygen'}, {'mittyww olujn', 'muttyeh olccn', 'yawthwe lwsan', 'meattow olcgn', 'maethuw olsyn'}, {'mwtthaw olswn', 'madwthe olukn', 'mtithwe ilesn', 'mattiwy olhsn', 'mautthh olcjn'}, {'mettwhw oljem', 'matdihw olxkn', 'meattaw olsmo', 'miwthew olcen', 'wtathhw elwwn'}, {'mwtyhww olekn', 'mahthwe olljn', 'mawhtew olkzn', 'muttheu olssn', 'amtyhey ilqeh'}, {'maathaw olswn', 'myttwhw olign', 'ytayhew uhsem', 'mhtywew oloxn', 'mwutthe oloqn'}, {'miattiw olwjn', 'amythww awshn', 'mmattwe olkem', 'mawtyyw olujn', 'maithyw olcen'}, {'matthiu olssn', 'matdwhe olsym', 'maydthe olgem', 'amwthyw wyshn', 'motdyew olqsn'}, {'matdhwe olsnh', 'mtathay yysyn', 'madhhyw ollgn', 'mtthewy olswn', 'matywyw olhcn'}, {'muattyw olkon', 'madtyhe olgyn', 'mwtthwh olckn', 'amttwey elgwn', 'myttheo olcen'}, {'mauthww olswn', 'mohtyew olczn', 'amtthwy olyhm', 'mttahww oljqn', 'matteoh olakn'}, {'mitthow olssn', 'mettehw olxsn', 'muttyyw olchn', 'mytywew oluqn', 'mawhhwe yljon'}, {'mottyaw oluxn', 'mtatwow olejw', 'meattow olssm', 'mththyw olcan', 'motthyw olswn'}, {'hadthwe whsyn', 'matwhwe olqun', 'mwtthiw olcen', 'matyweh olijn', 'mhtyhaw olxkn'}, {'mohtyew olzcn', 'nattehy olquy', 'mottheh olswn', 'motthhh olign', 'meyttew olxzn'}, {'hathhwe uysem', 'mhthhww olggn', 'mwawtew olhjn', 'motwyew olyxn', 'mmothew olcen'}, {'mhatteh olxhn', 'mtadyew alyhn', 'mahthwu olsma', 'mawthey olswn', 'maytwhw olikn'}, {'mwatheh ollqn', 'maithee olsyn', 'amtyheh ilxeh', 'maottyw olsjm', 'mottwyw olkzn'}, {'mtathyh olesw', 'mottheu olswn', 'muattaw olyqn', 'mhythww olxem', 'metyhey oljin'}, {'mwatdhe olgon', 'matyhwe olign', 'htathow ylhin', 'mauthee olswn', 'muttyhw olgzn'}, {'mmattyw olggn', 'yahtehw hywen', 'mmatthe olcen', 'mytthwe olgun', 'mettehw ollgn'}, {'moadthe olsmi', 'mmattiw olqun', 'wtadhew olqwy', 'mttheew olswn', 'maethhe olkin'}, {'amtdhiw yljem', 'mahdthe olhkn', 'mwttheo olssn', 'mautteh olicn', 'maytihw olujn'}, {'mattehy olgzn', 'wahthwe yljhn', 'mithyew olukn', 'meattwe olzgn', 'moythew olssn'}, {'mothhww oloxn', 'matthea olswn', 'motteww olhqn', 'amdtheh whsyn', 'madwhiw olqin'}, {'madthiy olcwn', 'waytehw ulhwn', 'mettwyw olqcn', 'mytthew olcen', 'motwhaw olsmy'}, {'matwwyw olcjn', 'mattyyy olucn', 'mytdyew olegn', 'metthei olsyn', 'wtathyw ylxew'}, {'mwttwyw olsxm', 'methhyw olhsn', 'mahthee olswn', 'matyhwe oljjn', 'htathiw ylezn'}, {'mutdheh olqjn', 'umtthwe ulzem', 'maothaw olssn', 'maowtew olqzn', 'madtwiw olkon'}, {'mtthehw olssn', 'matywaw olsgm', 'mtathwe yljeh', 'mottyhw olicn', 'matwwyw olkqn'}, {'amhtehw lwsan', 'mttheuw olsyn', 'meyttew olxun', 'mwtwhww olxgn', 'mwttyww olocn'}, {'maithaw olswn', 'mottuhw olhgn', 'mtwthww olsmu', 'motwhhw ollkn', 'amttyow hlsiw'}, {'mtttheu olswn', 'nattehh hoseh', 'mahtehw olqwn', 'matdhwe olxin', 'maattiw olign'}, {'mottwaw olqun', 'madhehw oluxn', 'mottyeh oljhn', 'mtwatew awzen', 'maethww olswn'}, {'midtyew olqcn', 'mawthhe olxkn', 'wottehw losan', 'mautwhe olxyn', 'metthei olsyn'}, {'matywey oljkn', 'amtytew yoshn', 'matdwhe olscm', 'mautheu olcen', 'madtahw oluqn'}, {'mhtthwh olqyn', 'umttehw ilgeh', 'mautwhe olgjn', 'motthwa olhsn', 'mytthee olswn'}, {'metwhey oljan', 'htawhew yljwn', 'meadthe olgin', 'metywew olssm', 'maythey olssn'}, {'mitthei olssn', 'mutteaw olqcn', 'amtteww loxen', 'motthwa olsqm', 'mhtyhyw olgzn'}, {'metthww olssn', 'ntayhew awswn', 'mattehh olykn', 'madtahw oljjn', 'matyhoe ologn'}, {'mttthea olssn', 'amtthwo wlhan', 'mauttwe olwcn', 'mawttiw olqon', 'mwdthww olchn'}, {'mautthw olcen', 'metdyew olqsn', 'amdhhew hyhen', 'moadthe ollgn', 'mmadthe olyxn'}, {'matteoh olxzn', 'amtwwew olejy', 'mhattyw olgan', 'maytehw olxhn', 'mttheuw olswn'}, {'myttyhe olacn', 'mhttehw olwqn', 'mmattyw olqhn', 'maathea olswn', 'amwtheh olwww'}, {'mahttiw olqan', 'mottyaw olsma', 'wattwwe elswy', 'matywey olkgn', 'matthih olcen'}, {'mytthiw olsyn', 'mtayhew oloxn', 'mawthhe olaqn', 'amttyey losin', 'madthoe olqsn'}, {'mittwyw olikn', 'maatthw olsyn', 'mattyyh olugn', 'maywtew olxwn', 'mtatwuw iysew'}, {'myawtew olsma', 'maittiw olyqn', 'mohdhew ollqn', 'maotheh olsyn', 'mmatetw yhxen'}, {'mmadthe olwjn', 'wtathiw owzwn', 'mothhww olxkn', 'mmwthew olssn', 'madthwe olkqn'}, {'mtwthyw oleqn', 'amtdhuw awhen', 'muatyhe ollgn', 'mmtthiw olsyn', 'mahtyyw olqqn'}, {'maettiw olgwn', 'mtttheh olswn', 'mytteuw olqin', 'amdthey owsww', 'maattiw olxhn'}, {'modthiw olqxn', 'mutwhuw olixn', 'mtateuw olhaw', 'mawtyyw olugn', 'mutthaw olssn'}, {'maetthw olsyn', 'mawdheh olcgn', 'matywhe olkun', 'yaytehw leswn', 'maiwtew olkhn'}, {'amttwhe wlhyn', 'mutteww olkin', 'mwttwww olscm', 'mwhthww olszm', 'matthoo olsyn'}, {'muttheh olswn', 'madthhe olakn', 'mattehh olsjm', 'meattyw olokn', 'yutthwe iyjen'}, {'maathee olswn', 'mtathwo hlsih', 'mutyheh olujn', 'madywew olcem', 'mhttwww olszm'}, {'mhtywew olsmo', 'amthhuw owhan', 'matdwyw olkin', 'maatheh olssn', 'myttihw olqun'}, {'mahthhe olaxn', 'mmythew olswn', 'matwtiw olkin', 'mawtyyw olqxn', 'hwttehw laseh'}, {'maowtew olwxn', 'amhtehw iysem', 'muttheh olssn', 'mawtwhw olocn', 'modthiw oljyn'}, {'amttyow oywhn', 'medthiw ologn', 'mawhtew olsxm', 'maotthh olkkn', 'mywthew olsyn'}, {'mwdthww oljkn', 'mauthyw olsyn', 'mwathyw olijn', 'maytyyw olqin', 'wytthwe hyseh'}, {'amtethw lsoan', 'mitthiw olswn', 'mmaytew olqcn', 'mhttihw oloxn', 'mawtihw olekn'}, {'htathwe ilyeh', 'mtwthww olxxn', 'mittwhw olegn', 'mottahw olcun', 'mathehw olswn'}, {'mutthiw olssn', 'mhtwhww olhzn', 'mitthhe olgan', 'yotthwe owhwn', 'mawtewh olczn'}, {'miatteh olixn', 'mtttheu olsyn', 'mattyyh olsxm', 'mauthhe olcjn', 'notthwe uhsyn'}, {'mottyow olkun', 'mettihw olakn', 'amhthaw hlkin', 'mahdthe oljhn', 'mywthew olsyn'}, {'mwwthew olswn', 'muthhuw olsmy', 'moythhw olgjn', 'awmtthe elsne', 'mottyow oliqn'}, {'myutthe oljun', 'mhtyheh ollxn', 'mawthww olsyn', 'matyeaw olykn', 'amtthhh ylhan'}, {'mhtyhww oljun', 'amhtyew ulxem', 'metthey olswn', 'mahthwe olqqn', 'mhathww olgun'}, {'metywew oljcn', 'matthey olsyn', 'mhttyww oljkn', 'hhtthwe lwsan', 'mwttihw ollqn'}, {'mttthey olcen', 'amthhow uwsem', 'modthhw olxzn', 'mutyheh olqqn', 'mittyiw olqan'}, {'matthii olswn', 'mhttyww ollgn', 'mottyyw olxqn', 'nytthwe hoseh', 'mutteww olxyn'}, {'amtthuy ylyyn', 'mutthey olsyn', 'matywuw olgin', 'mawtewh olycn', 'mawtweh oljgn'}, {'amtthhh alesn', 'matthuu olcen', 'moaytew olxyn', 'maddyew olgyn', 'maewtew olecn'}, {'maottyw olkzn', 'madthoe olcsn', 'miattiw olqsn', 'wmatetw oyqhn', 'maithee olcen'}, {'mahtwhw olqgn', 'motwyew olssm', 'amttewh wlhew', 'mawtewh olagn', 'matthio olsyn'}, {'mutthyh olgkn', 'amtyhiw hosyn', 'motyhww olkun', 'maattye olchn', 'mwtthiw olsyn'}, {'maotheu olssn', 'mattowy olgan', 'natdhwe losey', 'moadtew olsqm', 'mottehw ologn'}, {'matdyyw ollcn', 'mahthee olssn', 'maytwhw olaxn', 'yaytehw awsem', 'meatteh olkxn'}, {'amttwow wwwen', 'mwtdyew olkkn', 'mattyyy olhxn', 'muttheu olcen', 'mutwhuw olaqn'}, {'mawteuw olxin', 'mautthw olcen', 'maedthe olojn', 'amtythe ylhan', 'madthwe olyqn'}, {'amttwhe yhjen', 'miythew olssn', 'mudthiw olwcn', 'meattww olcon', 'mhtyhow ologn'}, {'maywtew olocn', 'mhtyhaw olxsn', 'meattaw olsmw', 'amtteiw lojen', 'matthui olswn'}, {'maattye olssm', 'mahthwu olkkn', 'mtyatew lhseh', 'matthee olsyn', 'mwthhww ollgn'}, {'aimtthe awxen', 'mahtheh olcen', 'modthww olgkn', 'mhttwww olkjn', 'myttyhe olgcn'}, {'mahtthe olsyn', 'matywyw olxan', 'myathyw olwqn', 'wmtthwe ylhan', 'mayttyw olaxn'}, {'hyttehw ilesn', 'maudthe olagn', 'metthaw olsyn', 'meattiw olzsn', 'mahtyyw olycn'}, {'haytehw hwswn', 'mawtihw ollkn', 'maethee olssn', 'matdeyw olyxn', 'maedthe olxun'}, {'maadtew olcqn', 'miythew olsyn', 'wtatehw ilesn', 'mhtyhuw olacn', 'mwathww olqem'}, {'maattye olcxn', 'madthhe olzxn', 'hadthwe loseh', 'mahtthe olswn', 'madthye olekn'}, {'mahthwi olycn', 'amddhew iysey', 'motthei olcen', 'madthhe olcan', 'mhydhew olexn'}, {'matdehw oljjn', 'metthyw olcen', 'mahthwu olkqn', 'mottyiw olxjn', 'amwtwew oyhan'}, {'mottehw olhzn', 'mmaytew olocn', 'mathehw olcen', 'wtathyw oykhn', 'madtehw olxsn'}, {'matyhoe olwgn', 'muatyew olsmy', 'amtwheh awseh', 'muttyeh olkwn', 'motthow olsyn'}, {'mattehh olkwn', 'mahthwh olgyn', 'mittyeh olqsn', 'moatetw ulsne', 'moythew olssn'}, {'mhadthe olcxn', 'amtdhww hyhen', 'miytyew olxon', 'mothhhw olqgn', 'mahtheu olssn'}, {'mauthee olcen', 'mwttwhw olxzn', 'mtadhww yoseh', 'motteyw olhkn', 'mithhyw olwgn'}, {'matdeww oljwn', 'mohthhw olhqn', 'wadtehw ohesn', 'madhhyw olgyn', 'mytthey olsyn'}, {'notthwe ywswn', 'mattwhh olijn', 'mautwhe olqem', 'myetthe olxxn', 'mmtthew olsyn'}, {'matheuw olcen', 'mhtyhww olscm', 'natdhwe oyghn', 'matyeaw olgan', 'mattwhy olwxn'}, {'mwttyww olcan', 'motdyew olykn', 'matdihw olqjn', 'myttheu olssn', 'mawwehw hyyen'}, {'matduhw olckn', 'mattyyy olzkn', 'mhathww olsjm', 'mauthyw olcen', 'mtatwuw losey'}, {'amdtwew alhin', 'mmawtew olajn', 'mawteow olexn', 'maithaw olcen', 'mahttyw olxxn'}, {'mhtdhuw oljsn', 'madthue olqgn', 'madwthe olcan', 'hotthwe ulesn', 'matthiu olswn'}, {'mytthaw olswn', 'amtwhey ilyhn', 'mittyhw olgon', 'mottyiw olcqn', 'maytyyw olacn'}, {'maottow olchn', 'aytthwe ehswn', 'madthwe olhxn', 'matthai olcen', 'matdohw olcqn'}, {'mithhyw olghn', 'mettyey oloqn', 'mittyow olsjm', 'wtatehw oyshw', 'mawtthe olcen'}, {'mtatwey ulsym', 'maythyw olsyn', 'mityyew oleqn', 'mwthhyw oljxn', 'mautyhe olikn'}, {'mahthaw olcen', 'matdeww olsmu', 'motteww olqgn', 'mutdhuw olkan', 'yytthwe elxwn'}, {'mutyhuw olzsn', 'maytihw olghn', 'wtahhew loyen', 'maytheu olswn', 'mittyow olyjn'}, {'whtthwe ylzew', 'mattehy oljjn', 'maithuw olswn', 'mydthiw olgkn', 'mhtwhww olakn'}, {'mudthuw olghn', 'mtathhy ulshm', 'mhtyhyw oljkn', 'matthwy olsyn', 'moadthe olxgn'}, {'whttehw awyen', 'matthiy olssn', 'matwtyw olgzn', 'mattyyy olsym', 'matdehw olljn'}, {'mattwyh olxon', 'matwwhw olqcn', 'mttthiw olcen', 'metywew olhzn', 'amtteaw lojen'}, {'mauttiw olshm', 'motyhhw olxyn', 'mttthaw olswn', 'mtadhhw ylcyn', 'mhwthww olxem'}, {'matdwhe olcwn', 'mauthei olsyn', 'mtwthyw olqyn', 'mittyaw olkwn', 'umtthwe liseh'}, {'maewtew olsjm', 'mahthhe olcqn', 'hhttehw owyhn', 'maitthe olssn', 'mautwhe oljyn'}, {'muttihw olagn', 'maithea olsyn', 'mityyew olqon', 'nyttehw loesn', 'myttwhw olsmy'}, {'mothhaw olycn', 'mttthuw olcen', 'matywhe olqcn', 'mhwdhew olcgn', 'aemttew hygen'}, {'ymatetw yyshn', 'mawthuw olssn', 'maettiw olxcn', 'mhwtheh oljcn', 'mutywew olkkn'}, {'matdeyw olagn', 'matthoi olswn', 'mhhdhew olcsn', 'wtathey elwew', 'mwhthww oljem'}, {'mahtheh olsyn', 'metthye olqin', 'maiwtew oloqn', 'muthhyw olqem', 'mtadhwe iyswn'}, {'meadtew olszm', 'mmttheu olcen', 'mhthhyw olyqn', 'mwtdhww olggn', 'mtothwe awqen'}, {'maythei olswn', 'muttihw ollcn', 'huttehw ilhin', 'meatwew olkhn', 'medthey olzsn'}, {'matwwhw oleqn', 'mutwheh olkzn', 'mettihw olsqm', 'haythwe elxew', 'matthey olsyn'}, {'mitthei olssn', 'mauthhe oljun', 'hadtehw hlesn', 'mayteaw olsmh', 'mahthwu oljon'}, {'meatwew olqxn', 'mathtiw olcun', 'mtathwu ylzon', 'mittheo olcen', 'meadtew olzqn'}, {'maattye olqqn', 'miattiw olsmy', 'mawthuw olswn', 'moadtew olqon', 'amttwhw ilgeh'}, {'mwtteuw olqan', 'matyeww olocn', 'anttehw awsey', 'mautthe olcen', 'mattehy olwkn'}, {'maottyw olsmo', 'matheow olswn', 'hadtehw hlsih', 'madywew olhjn', 'muatyew olzgn'}, {'mattehh olshm', 'metdyew olacn', 'amtyhuw hyyen', 'mtttheo olcen', 'mattyyy olwqn'}, {'matthaw olswn', 'ntathww ylsyy', 'meattuw olkkn', 'mhtyhww olqcn', 'mwthhyw oljgn'}, {'moadtew olxcn', 'mawtthw olswn', 'motyhww olixn', 'mahttyw olgem', 'wyttehw olwwe'}, {'matthau olswn', 'amwthaw hyshn', 'maadthe olcsn', 'matdwhe olqxn', 'matddhe olagn'}, {'madteyw olugn', 'matywiw olskm', 'amdtyew iywen', 'mitthhe olokn', 'metthuw olswn'}, {'mottyhw olaxn', 'mahthwu olcun', 'matthae olcen', 'aymttew ilshh', 'meatyew olqgn'}, {'madtyhe olzkn', 'mutteww olsme', 'maothiw olcen', 'mewttew olgxn', 'ytathhw yosan'}, {'mutthhe olcgn', 'mayhhwe yljan', 'metthww olsyn', 'medthey olqhn', 'mhtdhyw ollqn'}, {'mtwthyw olukn', 'maetheu olsyn', 'mawthye ollgn', 'amtwhuw yljhn', 'mithhyw olqxn'}, {'mhtyhuw olsmh', 'ntathow oyqun', 'madthae olgjn', 'maethei olcen', 'mhttewy olxqn'}, {'maatheh olswn', 'amtdhaw iyjen', 'mutdheh olcun', 'mhathww olycn', 'mhtdhhw olqun'}, {'mayhhwe wwjen', 'matthoi olsyn', 'mththww olxun', 'miatteh olzsn', 'muttweh olhgn'}, {'mhtdhey olugn', 'motthhh olcon', 'mhtdhuw olsjm', 'hmtthwe ohhwn', 'mahtheo olcen'}, {'mauttey olign', 'madthih olcjn', 'mawtthe olswn', 'amtthoe hoseh', 'madtwiw olhsn'}, {'maytwyw olgqn', 'amdtehw hlcin', 'mhutthe olcqn', 'mawthey olcen', 'madthue ollcn'}, {'amtdhey yyjen', 'mattwhy oljem', 'mathtiw oljon', 'mittyeh olijn', 'maitthw olssn'}, {'mhtdhaw olkon', 'mawteow olxan', 'mwtthww olssn', 'ymtathe ohxon', 'mahthye olkcn'}, {'mwattyw olcan', 'mahhhwe olhih', 'miytyew olcjn', 'mittyey olhzn', 'mttheiw olssn'}, {'meatdew olqjn', 'motwhaw oljjn', 'awttehw oyjhn', 'muattyw olajn', 'motthaw olcen'}, {'nhttehw lisan', 'mottwhw olycn', 'maytihw ollcn', 'maithaw olsyn', 'mtwthww oljkn'}, {'amtwhiw iysem', 'mittyhw oloxn', 'mahttyw olzkn', 'mawtheu olswn', 'mhtthwy oljcn'}, {'mtathih ulzem', 'mettyey olxem', 'methhey olqan', 'matthea olssn', 'meattey olhzn'}, {'maodthe olgun', 'matheww olcen', 'metthhy oljwn', 'mtithwe ulyew', 'mhtthwh olsmu'}, {'mwadthe olsqm', 'mayttwe olexn', 'maithaw olssn', 'amhthiw ahsyn', 'muttehw olwcn'}, {'mtttheu olcen', 'amttohw loesn', 'mowtyew olcon', 'matwyyw olkyn', 'maethhe olxwn'}, {'matthyy olswn', 'maddyew ollxn', 'wmtathe hlsiw', 'madhthe olsmi', 'matdeyw olkhn'}, {'mhhthww olokn', 'meatdew olsmu', 'mhttyyw olxem', 'watwehw hyyen', 'mawthiw olsyn'}, {'mahtheo olsyn', 'mahthwa olszm', 'wattywe olwaw', 'madtwiw olxqn', 'motyhhw olkkn'}, {'mutthww olswn', 'mautthh olzsn', 'wtathwe hljin', 'mauthhe olgwn', 'mawtewh olwqn'}, {'mawtihw olkhn', 'mttahyw olsxm', 'mytthey olswn', 'mawwehw hygen', 'meatdhe olkkn'}, {'mawtihw oljcn', 'mththww olyxn', 'matthau olsyn', 'nahthwe olyne', 'madtohw olczn'}, {'motdhww olaqn', 'mhddhew olecn', 'wahthwe wwsun', 'maythuw olsyn', 'matdyhw olckn'}, {'myttheo olsyn', 'mawthwe ologn', 'meattuw olsma', 'mahtihw olljn', 'amwthey olwiw'}, {'madtwhe olszm', 'haythwe elcwn', 'myathww olhsn', 'metthei olssn', 'matwwyw olqyn'}, {'miattiw olygn', 'mattehy oliqn', 'amtthyy ohqun', 'maathuw olsyn', 'mhtdhiw oloqn'}, {'mutdheh oljhn', 'amtdhaw iyqen', 'matdohw olgyn', 'mawthee olsyn', 'matdewy oljkn'}, {'wtadhew ohxhn', 'madtwiw olukn', 'matthaw olcen', 'mathhyh olexn', 'mhathyw olgcn'}, {'mayytew olcgn', 'amttwaw losun', 'moattyw olyxn', 'muttwhw olojn', 'mauthei olcen'}, {'meyttew olwqn', 'mthatew losem', 'metwhey oleqn', 'muttheu olssn', 'myadthe olygn'}, {'mitteyw olsmh', 'maytwhw oljon', 'mtthuew olcen', 'mtathie ulsne', 'mattywe olcem'}, {'mutthhh olujn', 'metthee olsyn', 'mottohw olwxn', 'muttwyw olckn', 'wawtehw ohsne'}, {'matyihw olqsn', 'methhyw olqyn', 'matthiw olsyn', 'mwattiw olxjn', 'amttwiw ilheh'}, {'mothyew olkjn', 'mahtehw ollgn', 'muythew olssn', 'imttehw oleww', 'madyhiw olgwn'}, {'amtdwew hlxin', 'mtayhew olycn', 'mahttiw olwxn', 'mudthiw olchn', 'matthau olssn'}, {'madtyiw olqyn', 'mauthhe olqqn', 'maythiw olcen', 'matwyyw olgan', 'haythwe olqwh'}, {'mathhyy olksn', 'matthoh olssn', 'amwthaw hlsiy', 'matdwhe olgyn', 'mwtdhww olcsn'}, {'maottow olecn', 'maythei olcen', 'wettehw ulxem', 'mottwww olyqn', 'mittwyw olssm'}, {'maatthe olcen', 'amthhwe owesn', 'motwhaw olsmw', 'meattey olgqn', 'mawthhh olqqn'}, {'mawhtew olxqn', 'amttewh iyseh', 'mahthwi olsmo', 'matthie olssn', 'metthye olccn'}, {'yaythwe ulhin', 'maddyew olhqn', 'mhtdhow oleqn', 'mottyuw olsjm', 'matthoa olssn'}, {'amtthhe lhsan', 'mautthh oloqn', 'matthuu olssn', 'mohthhw olsmh', 'madthye olgon'}, {'matywaw olqun', 'mahthww olswn', 'htathow ulywn', 'mahdthe ollgn', 'mawdhey olshm'}, {'mitthyw olsyn', 'mawthhy olsmh', 'mahhhwe ilyhn', 'mauttey olqyn', 'mutyheh olwcn'}, {'mattihh olzjn', 'matywow olecn', 'matdwyw olkwn', 'mtathye olhaw', 'mahthea olswn'}, {'mutdheh olwkn', 'mudthiw olhcn', 'maethhe olokn', 'amthheh hyswn', 'maotheh olcen'}, {'muattiw ollkn', 'mahthaw olsyn', 'mtuatew yljew', 'mattwye olqin', 'mutyheh olagn'}, {'amwthyw wlhhn', 'mattheu olsyn', 'motdyew olycn', 'maytyyw olgun', 'mahthwo olkzn'}, {'mahthey olcen', 'maowtew olhjn', 'matywhe olhgn', 'amdthww awsew', 'mudthuw ollxn'}, {'mittehw olhgn', 'nattwwe eyswn', 'madhehw olxxn', 'mewttew olixn', 'mawtheh olcen'}, {'ymtathe wwken', 'mayttuw olaxn', 'mawthyh oljjn', 'maitthe olswn', 'meatdew olykn'}, {'meattey oljzn', 'mtathwu losun', 'mitteiw oloxn', 'matthea olcen', 'muattiw oljin'}, {'amdwhew hysey', 'meattow oolsn', 'mutthwh olxsn', 'madthie olsjm', 'mutthaw olswn'}, {'maathea olssn', 'nittehw uwyen', 'motwhaw olwcn', 'mayttyw olkxn', 'mhtdhaw olhzn'}, {'hatyhwe ulqem', 'mtahhew olqem', 'mhthhyw olsmi', 'metthei olsyn', 'mathhwe olqxn'}, {'hwttehw yljhn', 'matyeaw olecn', 'motyhww oluqn', 'mahthyw olswn', 'madwhiw olqyn'}, {'maiwtew oljhn', 'mahwehw hljin', 'mhtdhow olsmi', 'mwtwhww olhxn', 'matthea olcen'}, {'wtathaw ylsyw', 'mhtdhaw olycn', 'matywyw olxqn', 'matywiw oloxn', 'mmtthyw olcen'}, {'mahthwu olsmi', 'motyhww olgxn', 'nattwwe olwuw', 'mittheu olsyn', 'miattiw olkon'}, {'mettwey olukn', 'motteyw olsmw', 'matyeaw olljn', 'mmtthww olsyn', 'yottehw hyjen'}, {'mttheow olssn', 'mahthwu ollkn', 'madtuhw olsjm', 'mwathey olchn', 'mtatwuw owesn'}, {'mttthei olswn', 'mhtthwy olcun', 'whtthwe owxwn', 'mawteww olwjn', 'mhtywew olxzn'}, {'muttuhw olzkn', 'mahthwu olzcn', 'mutdyew olxzn', 'amtthiy ahxen', 'maythey olsyn'}, {'madtyhe olckn', 'moytyew olujn', 'yhttehw hosan', 'motthow olswn', 'mutdhuw olacn'}, {'mitthyw olsyn', 'mathtiw olcun', 'mutthhh olagn', 'amtthoh yljyn', 'mawtehw oljun'}, {'mwtwhww olugn', 'metthyw olswn', 'maydthe olaqn', 'myattye olshm', 'ahtthwe ylxew'}, {'mmattiw olgqn', 'mwathyw olwkn', 'muattiw oljon', 'mtateiw ohjyn', 'mttthyw olswn'}, {'maudthe olkcn', 'myadthe olswm', 'matthue olswn', 'hmtatew ulhem', 'mawtwyw olcun'}, {'matywaw olsme', 'matthih olsyn', 'amwthyw lysan', 'moattiw olyqn', 'muttehw olcgn'}, {'amtyheh hlesn', 'muattaw olqhn', 'mhtdwew olaxn', 'maathww olsyn', 'matdeyw oleqn'}, {'mytthww olsyn', 'matyhwe olcem', 'amhtwew oychn', 'mitteiw olicn', 'myutthe ollqn'}, {'mwattyw olxhn', 'mytthea olswn', 'mitwyew olzhn', 'mahwtew olgcn', 'mtatywe awsan'}, {'witthwe hlgin', 'motthea olssn', 'myattiw olgin', 'mmattyw olixn', 'mwattyw olhsn'}, {'madtwiw olhgn', 'amtteow ohhan', 'mhadthe olgqn', 'mywthew olswn', 'mththww olqqn'}, {'mottyeh olekn', 'mhdyhew olijn', 'nattywe hoseh', 'mhttwhw olcjn', 'mmtthaw olswn'}, {'yhttehw olyne', 'motwyew olgem', 'mmuthew olssn', 'mauttyw olxkn', 'myattyw olszm'}, {'mwttwww olacn', 'madthye olkcn', 'yattehh wwswn', 'mathhyy olgjn', 'mmtthei olswn'}, {'mawtyeh olkkn', 'mayttyw olzhn', 'maitheh olsyn', 'madthwi olhjn', 'ytatheh ulhwn'}, {'yytthwe hlqun', 'mattowy olssm', 'matdeww oleqn', 'modthiw olgkn', 'maithei olswn'}, {'amtyehw olquw', 'matyihw olgkn', 'maattiw oliqn', 'mththyw olqcn', 'muwthew olcen'}, {'mhtywew olkyn', 'miadthe olswm', 'amtwhow olhne', 'mottheo olsyn', 'maytihw olchn'}, {'mhdyhew olkon', 'mayhhwe alyhn', 'meatdew olhcn', 'mwtthaw olsyn', 'mhtthwy oliqn'}, {'mhtdwew olsmy', 'metwhey olxjn', 'matthow olsyn', 'meatdhe olqcn', 'ytathiw wwken'}, {'amtthoh ahxen', 'mwttheh olsyn', 'mawttyw olikn', 'mattwhy olczn', 'mawtewy olzhn'}, {'mottwww oljsn', 'yatdehw losem', 'matduhw olaxn', 'muthhyw oljin', 'mauthee olssn'}, {'mtatwuw lesan', 'mmtthee olswn', 'mythhyw olwqn', 'mhtdhey oljem', 'mauwtew olwkn'}, {'mhydhew olkxn', 'myawtew olwcn', 'yuttehw eyswn', 'mottheo olcen', 'motthhy olksn'}, {'notthwe hysyn', 'matdyhw oljqn', 'mwttwhw oljun', 'mwtthyw olswn', 'mawtwey olukn'}, {'madteyw olgun', 'maddthe olghn', 'mutthey olsyn', 'mitywew olwcn', 'amtyehw olqwy'}, {'mhttwww olqin', 'mawtheo olcen', 'mhtwhww ollqn', 'hotthwe iyjen', 'mhtdhaw olgem'}, {'mathtiw olhjn', 'mawthye oljhn', 'miwthew olssn', 'meadtew olkgn', 'amwthhw loasn'}, {'matthoh olswn', 'motthhy olqun', 'mtathwo ulgem', 'mhtwhww olsmo', 'maytwyw olscm'}, {'mhtyheh olakn', 'myathyw olekn', 'amtteaw hlhin', 'matheaw olsyn', 'matywow olckn'}, {'mtathwu ohyyn', 'myttheo olcen', 'muttyeh olsnh', 'mawtyyw oljqn', 'mawthhh olxyn'}, {'moytyew olcon', 'amttewy lhseh', 'matywhw olzxn', 'mittheu olswn', 'madthie olxcn'}, {'mittwyw oljcn', 'mattehy oljkn', 'wattywe wyshn', 'mwttheo olswn', 'mawteyw olxon'}, {'madthwe oolsn', 'myttheo olcen', 'wtathhw olwuw', 'madthoe olssm', 'muadthe olqqn'}, {'ytathww hlxew', 'mettwyw olzxn', 'mttahyw olqwn', 'madthue olqin', 'mytthaw olcen'}, {'meatthw olswn', 'mawtyyw olkyn', 'mwatheh ollcn', 'mudtheh oljgn', 'amtwthe ilsuh'}, {'mhthhww olsmu', 'matywww olegn', 'mtyatew uwyen', 'mawttyw olxan', 'mytthee olswn'}, {'metyhey olxun', 'madywew olljn', 'watwehw iywen', 'mhtyhuw olzxn', 'mattheo olcen'}, {'awmtthe awken', 'maettyw olxyn', 'muttweh olkjn', 'mathhyy olxxn', 'mauthuw olcen'}, {'myetthe olgxn', 'mahtthw olsyn', 'mutthwe olsma', 'amdwhew hygen', 'meadtew oljwn'}, {'motdyew olukn', 'mwtthwh olkkn', 'mattheu olcen', 'matdihw olgkn', 'mtadehw wlhey'}, {'mhtwhww olcgn', 'mtateuw olhaw', 'motthei olcen', 'muatyhe olcwn', 'madtuhw olwgn'}, {'mottyyw oljxn', 'mattthw olswn', 'mothhww oloqn', 'meattyw olgzn', 'amytehw owesn'}, {'matwyyw olgzn', 'mahttiw olxkn', 'maythow olcen', 'ayttehw hlsim', 'mhttyww olicn'}, {'mawthwe olujn', 'wtahhew whsyn', 'moatthw olssn', 'mitdyew olzhn', 'matdyhw olsmw'}, {'htathwe ylsyy', 'motdyew olswm', 'mattwwe olexn', 'mottyiw oljjn', 'mawthei olsyn'}, {'mwutthe olign', 'natdhwe wlqwn', 'mttthuw olcen', 'modthhw olkun', 'mawytew ollcn'}, {'mhtthwy olqcn', 'amwthiw hlhan', 'mauttwe olxqn', 'maydthe olhkn', 'maithee olssn'}, {'mmattwe olxun', 'mutteyw oljxn', 'mththyw olcgn', 'watdhwe ohexn', 'mauthey olssn'}, {'mutteyw oloxn', 'mmithew olsyn', 'matyehw olaxn', 'maetteh olcon', 'omttehw olhni'}, {'madwthe olsqm', 'mauthiw olssn', 'muttwyw ologn', 'ymttehw oyshy', 'mwatdew oljgn'}, {'mawthye olcsn', 'mattyyy ollkn', 'mauthea olssn', 'yottehw wwsey', 'moytyew olsjm'}, {'myttihw olkxn', 'mtahhew olqkn', 'mattwye olgyn', 'maythea olssn', 'witthwe leseh'}, {'maattye oljcn', 'myattuw olgjn', 'maathaw olsyn', 'amdtheh wyshn', 'mithhyw olhgn'}, {'metthow olcen', 'mawtyyw oljon', 'amtwhuw olwyw', 'mhttwww olzqn', 'madhhyw olwqn'}, {'mutthea olswn', 'mhtdhey oluxn', 'muttyyw oloxn', 'naythwe owzwn', 'mauttye olsme'}, {'mhadthe olgwn', 'mtathhy ulyhn', 'mytthey olswn', 'mattowy olkgn', 'mutthhe olokn'}, {'mauthiw olswn', 'natdhwe olyhy', 'mattwyy olsmw', 'mothhyw olsmo', 'mattwhy olhqn'}, {'mhtthwy olqwn', 'mtatewy losun', 'mothyew olqsn', 'maotheh olssn', 'motteyw olsmo'}, {'mithyew ollxn', 'hmttehw uyyen', 'mawdthe olcqn', 'mahthey olsyn', 'mauwtew olzcn'}, {'ayttehw yljin', 'matthio olsyn', 'mhttwyw olsme', 'mawhtew olszm', 'mahthye oolsn'}, {'maottyw olegn', 'matthou olssn', 'mtathyh iysey', 'mottwhw olssm', 'madthie olcwn'}, {'mawthwe olujn', 'matwehw olgqn', 'matthoh olswn', 'wutthwe olhih', 'mahttyw olssm'}, {'mhwthww olikn', 'mauthww olssn', 'muthhuw olqxn', 'mytteuw olqwn', 'wattywe awhen'}, {'madwhiw olicn', 'mhtyhey olgsn', 'maithyw olswn', 'mtatwey uwswn', 'miwtyew oljqn'}, {'mmtthei olssn', 'motwhaw olgun', 'aymtthe ylhwn', 'mhtyheh olygn', 'mudthiw olqyn'}, {'mathtyw olgqn', 'nytthwe awyen', 'mawttyw oljsn', 'mwttheh olswn', 'myatthu olsma'}, {'mhtdwew ollxn', 'matthua olssn', 'wytthwe wlhun', 'mhtthwy olhqn', 'mhthhww olzhn'}, {'matthuh olssn', 'mwthhww olgzn', 'myettew olgon', 'matdohw olhsn', 'amyyhew olhwh'}, {'mtthoew olsyn', 'amtdhey hyjen', 'mwtdyew olaxn', 'mayttiw olukn', 'mhttwhw olycn'}, {'methhyw olekn', 'mawtthw olcen', 'mytthwe olcan', 'amhyhew ulwem', 'myttehw olsqm'}, {'mawthwe ollgn', 'maddthe olxqn', 'mattwhy olxin', 'maethea olswn', 'mtathiy oywhn'}, {'mauttiw olzhn', 'mitthei olssn', 'mautteh olkhn', 'amdthwe uysem', 'motteyw olsmi'}, {'modthhw olsqm', 'mwatdew olksn', 'mittheu olsyn', 'mittyyw olgsn', 'amtthih alsne'}, {'mettyey olcxn', 'haythwe elsww', 'mawthey olswn', 'muatyew oljwn', 'mhttyww olzsn'}, {'metthea olsyn', 'meatteh olqkn', 'mohthhw olykn', 'muttuhw olkzn', 'ahmtthe ilqwn'}, {'mautheh olcen', 'mawdheh olsym', 'amttahw wlhew', 'matywyw olakn', 'medthey olxwn'}, {'amttehh hosan', 'meatwew olsmw', 'matdwyw olsme', 'metthei olssn', 'myttwhw oljzn'}, {'mahttiw olcgn', 'mahhhwe yljew', 'mahtwhw olkon', 'mahthei olsyn', 'myattuw olqan'}, {'mauthei olsyn', 'matdihw olokn', 'mittyuw olgsn', 'ytatwew hlhin', 'maddthe olecn'}, {'mathhyy olkyn', 'mattheu olsyn', 'ayttehw olhwm', 'myettew oljzn', 'mhtyhow oolsn'}, {'mwtthee olssn', 'mawtewy olgqn', 'mwttwyw olqwn', 'mhtdhaw olcqn', 'hatdhwe lohen'}, {'mahtwyw olqcn', 'matthoo olcen', 'matyhwe olejn', 'aumtthe ulzem', 'muttwhw olhjn'}, {'meyttew olgyn', 'aymtthe eyshn', 'mauthww olcen', 'muttyeh oljon', 'motwhaw olgan'}, {'maddhiw olqem', 'mittyey olzsn', 'mtthuew olcen', 'motyhww olaqn', 'mtathue ayshn'}, {'mawteuw olagn', 'mattehy olxem', 'amttyiw oykhn', 'mahtheu olsyn', 'muttahw olkjn'}, {'myattye oljwn', 'hwtthwe uleyn', 'matduhw olxin', 'mayteaw olkan', 'matthui olswn'}, {'mhtyhuw olggn', 'amwthyw wwsan', 'mithyew olqzn', 'myatthu olcun', 'maetthw olswn'}, {'mhydhew olcem', 'amttohw hyxen', 'mawthyh olkcn', 'mutthaw olssn', 'mathtiw oljin'}, {'madtwyw olkyn', 'mmethew olsyn', 'metwhey olgwn', 'mawteow olaqn', 'mtatyyw olqwh'}, {'myttwyw olqin', 'maetthw olsyn', 'meattuw olqan', 'mwtyhww olijn', 'hmtthwe uhsyn'}, {'mottihw olqkn', 'mwthhww oleqn', 'whtthwe olejy', 'mtthuew olswn', 'mittyuw olsjm'}, {'mittwhw olkzn', 'matdwhe olicn', 'amtyhwe elswh', 'matthiu olswn', 'muattaw olign'}, {'mutdhuw olyxn', 'mowthhw olgjn', 'mttthyw olssn', 'mtadhaw olhww', 'muttihw olzqn'}, {'mawtewh olcxn', 'mittwhw oljqn', 'mwttyyw olyqn', 'maethey olcen', 'nittehw alesn'}, {'mtathwh hlisn', 'mwadthe olhqn', 'maatheu olsyn', 'madtwhw olwkn', 'mahthwh olxon'}, {'matywww olgsn', 'motthei olssn', 'ytathow loyen', 'moadthe olxxn', 'mattehh olzhn'}, {'madthae olecn', 'htayhew hwswn', 'mttheew olcen', 'mhtdhww olshm', 'maddhiw olagn'}, {'mawtthw olsyn', 'maowtew oljsn', 'matdehw olwgn', 'motwhww olwkn', 'wtathaw awwen'}, {'mahthee olssn', 'maythwe olyxn', 'ntathyw hhsyn', 'mhwthey olxxn', 'myadthe olljn'}, {'mahthwh olgcn', 'mattheu olswn', 'mtuathe wlsne', 'mahthwo ollkn', 'myttyyw olegn'}, {'mawtewh oljxn', 'mytthaw olswn', 'matyweh olccn', 'myattuw olekn', 'ntathow ilqeh'}, {'mtwthyw olegn', 'matdwhw ollxn', 'mittyww olqyn', 'amttyhw olhiy', 'matthui olcen'}, {'natdehw hlejn', 'mhtyhaw olsym', 'metthey olcen', 'matdwhe olqkn', 'mwtteuw olkin'}, {'mauthyw olsyn', 'midtyew olyjn', 'aymtthe lesan', 'mittyey olqcn', 'madtyhw olcgn'}, {'amdhhew wwsew', 'maethhe olljn', 'matdohw olgin', 'mawtheh olsyn', 'mawthhe olqcn'}, {'maittiw olsmh', 'matthiu olcen', 'amtethw hlhin', 'maytwhw olhcn', 'mottihw olakn'}, {'mmothew olssn', 'mottyow olajn', 'antthwe uwyen', 'mottwyw olcun', 'mhtyhww olagn'}, {'amhtwew ulsme', 'matdeww olqon', 'mawthhh olsnh', 'mittheo olswn', 'mattwyy olacn'}, {'mwtthwh oljin', 'yhttehw ohqwn', 'matthiw olsyn', 'mwatheh olczn', 'meatdhe olkwn'}, {'maidthe olgsn', 'mohdhew olhjn', 'mahtheo olcen', 'amtdhwe ylhin', 'motwyew olcxn'}, {'mawteaw oljon', 'maettiw olsmw', 'metthiw olswn', 'matyeww olicn', 'amhthyw ohqyn'}, {'mohtyew olukn', 'myttehw olsgm', 'yathhwe yljon', 'mmtthow olssn', 'mwtdhww olhxn'}, {'methhyw olgcn', 'antthwe ewswn', 'mathwhw olhsn', 'medthey olqjn', 'mahtheu olswn'}, {'mitteiw olqzn', 'mattwwe oljxn', 'maathww olsyn', 'mmattyw oljgn', 'yawtehw olyhy'}, {'medthiw olsmu', 'maythwe olsmw', 'matthoh olswn', 'ntathwe wlesn', 'mhattiw olgjn'}, {'mttthaw olssn', 'meattaw olojn', 'mahthwe olcun', 'moatetw oyqun', 'mhttyww olicn'}, {'maattye olqan', 'mtttheu olsyn', 'amthheh yyshn', 'mwttwww olgsn', 'mayteaw olokn'}, {'hyttehw yljon', 'mauttyw olgon', 'mitteyw olcsn', 'muttheu olcen', 'mottohw olzsn'}, {'wtatehw uyshn', 'mautwhe olgwn', 'mwttyww olcon', 'mttthee olsyn', 'muttuhw olejn'}, {'ahttehw awsun', 'mutteww oljun', 'motthhh olxwn', 'mottyww oljzn', 'matthuy olswn'}, {'mtathwy olyhh', 'madtuhw olgqn', 'maewtew olhzn', 'mttthee olswn', 'mhthhww olqqn'}, {'amtdhhw ohsyw', 'mhdthww olqon', 'maytwyw olwcn', 'madthue olygn', 'mwtthow olcen'}, {'madtwhe olign', 'mittihw olacn', 'maitheh olsyn', 'imttehw ohjyn', 'matyyyw olkgn'}, {'mittwhw oljin', 'modthiw olxon', 'amttwey ulsom', 'matthuo olswn', 'metyhey oluqn'}, {'maettyw olejn', 'maithow olsyn', 'muthhyw oliqn', 'mittyuw olaqn', 'hahthwe ulzem'}, {'mattywe olxsn', 'wawtehw losyn', 'myettew olcan', 'mattiwh olljn', 'mathehw olswn'}, {'mwthhww olugn', 'mtatwuw ylqwn', 'mottyow olqjn', 'mahthye olyxn', 'mauthuw olcen'}, {'mhattyw olgjn', 'motdyew olwgn', 'matyhoe olxzn', 'mtyatew ohgyn', 'matthae olsyn'}, {'meyttew olkqn', 'modtyew olsxm', 'madtohw ollqn', 'amtwthe olwne', 'mmttheo olswn'}, {'motthuw olsyn', 'matywiw olejn', 'mittyaw olccn', 'mwttwhw olcan', 'mtuathe olhni'}, {'amttwiw olejw', 'matwwyw oluqn', 'mittyuw olgjn', 'mawthiw olssn', 'mettehw olaxn'}, {'mutwhuw olswm', 'mettheo olsyn', 'hotthwe olesy', 'motdyew ollkn', 'muttyyw olecn'}, {'mhtthwh olxqn', 'myettew olswm', 'mytthiw olswn', 'amtthuh hlkin', 'mattehy olyqn'}, {'mutthaw olsyn', 'myathww olgqn', 'matdhwe olscm', 'amytheh hyyen', 'madhhyw olcwn'}, {'maathyw olcen', 'maytyyw olxgn', 'mohtwew olekn', 'amwtehw lojen', 'mhtthwy oljsn'}, {'matthiy olcen', 'matdahw olcwn', 'htathiw alesn', 'mhttwyw olcem', 'mettihw oljan'}, {'maadtew olxjn', 'muttihw olkqn', 'mettwyw olsmw', 'amwthow wwsey', 'matthih olssn'}, {'metthww olsyn', 'motwyew olzqn', 'mhdthww olsym', 'mtadehw hysey', 'metdhey olcwn'}, {'amhthey olejh', 'mawtewy olgqn', 'mhythww olxyn', 'matheww olssn', 'matwtyw olckn'}, {'metthow olcen', 'mohtyew ollcn', 'wahtehw losin', 'madthye olgun', 'mettwhw olssm'}, {'matthay olswn', 'mattowy oljzn', 'htathyw awhen', 'mitwyew olqan', 'matyhoe olxkn'}, {'motthaw olswn', 'miatteh olugn', 'wmtathe ilsih', 'matywhe olyxn', 'madthiy olkhn'}, {'mauttiw olkgn', 'mettwyw olsqm', 'metthhy olscm', 'amtthwi olwne', 'maothea olcen'}, {'maatheo olcen', 'nhttehw lyseh', 'miatteh oolsn', 'mutyhuw olign', 'mattwyh olygn'}, {'mahthei olcen', 'moadtew olxwn', 'mitteyw oljon', 'amythyw ulxem', 'madtwhw olhgn'}, {'mahttiw olhcn', 'matthuw olswn', 'mittyuw oljgn', 'modthww olokn', 'amtwtew olyhw'}, {'myttehw olzjn', 'mutdheh olkxn', 'maudthe olixn', 'motthow olswn', 'wtathow ohhan'}, {'mhtdhuw olsqm', 'mhtyhww oljcn', 'mtathay elxew', 'mahthee olcen', 'madtwiw oljin'}, {'mahthiw olcen', 'mhttwhe olygn', 'mmattwe olkhn', 'maidthe olujn', 'mtathye ulwew'}, {'mothhaw olgyn', 'matthiu olcen', 'muattaw olkan', 'mudthiw olqzn', 'mtatyuw olqwy'}, {'mottyww olhgn', 'mththyw oloqn', 'wadtehw ulsam', 'maathyw olswn', 'mhtthwe olljn'}, {'matdohw olqun', 'maatthw olswn', 'aimttew hosan', 'mutdyew olkon', 'moytyew olygn'}, {'mithhyw olghn', 'matthau olcen', 'mothhaw olsmw', 'mittyeh olcgn', 'awmttew alhwn'}, {'amthhey olwww', 'mtwthyw olajn', 'mottwww olqjn', 'mmtthey olsyn', 'mathhwe olgin'}, {'mahthwi olxan', 'amtthhe lozen', 'mahthhe olwgn', 'mawtheu olswn', 'mytywew olygn'}, {'mhtdhow olokn', 'mythhyw olgsn', 'mhttihw oljan', 'maythow olswn', 'amtyhow ulyey'}, {'meatdew olsmi', 'mottyiw olakn', 'madtyhe olqgn', 'maothow olssn', 'mtathwi oysne'}, {'mtateaw lusem', 'maettiw olhjn', 'motywew olgjn', 'metthey olcen', 'mawtehw oljun'}, {'mauthww olswn', 'maetteh olaxn', 'amtthwy yyjen', 'mththyw olcqn', 'motwyew olqon'}, {'motdyew olojn', 'mmathew olswn', 'mottyww oljyn', 'yattwwe ilshe', 'mmattwe olzqn'}, {'moatthw olsyn', 'mawytew olakn', 'mittwyw olxqn', 'amhthuw awhen', 'matwihw olcqn'}, {'metthuw olcen', 'mettwey ollgn', 'mmatthh olxan', 'mtatewh ulsom', 'myattye olkkn'}, {'muttuhw olkwn', 'meattyw olqcn', 'maithuw olswn', 'mawdheh olqxn', 'wettehw hlwew'}, {'amtdyew olhwy', 'mawwtew olwxn', 'mottyaw olhjn', 'mmtthaw olcen', 'matywyw olkqn'}, {'mattyyh ollkn', 'mhtthwe oleqn', 'metthow olssn', 'mtatyww olesw', 'mhtyhhw olcxn'}, {'mtoatew wlhyn', 'mottyeh olxan', 'mhtdhow oljwn', 'maythea olswn', 'mottwww oljxn'}, {'mytthea olsyn', 'mohthhw olsjm', 'mattwwe olzjn', 'madtyhe olixn', 'amtyhhw oyqun'}, {'mawtewh olgsn', 'mottyhw olijn', 'amdthww ilsuh', 'maitheo olswn', 'matyihw oolsn'}, {'mittehw olagn', 'mattyyy olhzn', 'maathee olcen', 'mhtyyew olqan', 'amtyhhw ylzem'}, {'mayytew olqxn', 'yuttehw ulqem', 'maythea olssn', 'matywyw olhsn', 'mwhthww olyxn'}, {'matthiw olssn', 'mihtyew olqan', 'mayttuw oloqn', 'maettyw olsmy', 'notthwe ehxen'}, {'amttyey iysin', 'mottihw olhkn', 'maotthh olzjn', 'mittheh olssn', 'mawtweh olqyn'}, {'mtthoew olsyn', 'mhatteh olskm', 'mhtywew olkin', 'whttehw hysin', 'mettehw olkqn'}, {'mettheh olssn', 'mahwtew olhqn', 'amttwuw alhin', 'mawtyeh olsmi', 'mawdthe olxgn'}, {'maowtew olzxn', 'maithee olswn', 'mahthwi oljsn', 'maytwhw olaxn', 'hadthwe ehswn'}, {'matwyyw olhgn', 'mmttheh olcen', 'watdehw olqwh', 'mayttwe olwkn', 'matwehw olghn'}, {'mhtdyew olcgn', 'mudthuw olzkn', 'amtdhaw hhxen', 'mytthww olswn', 'miatteh olsmy'}, {'mahtyyw olqin', 'maidthe olagn', 'amtthwu hwswn', 'maethea olswn', 'medthey olzxn'}, {'ahmtthe olyhm', 'maithyw olssn', 'mhathyw olhqn', 'maddthe olikn', 'mautteh olwxn'}, {'myatthu olykn', 'amttwhe hlyhn', 'mttthee olswn', 'madtyyw olxhn', 'matyehw olkwn'}, {'mudtheh olicn', 'yittehw iygen', 'myttwyw olhsn', 'mwtywew olxjn', 'mttthow olcen'}, {'motthyw olcen', 'matyhwe olsmi', 'mtathiy ayshn', 'motwhww olqwn', 'mayttiw olicn'}, {'mottahw olsmo', 'amhthow ylhwn', 'matywey olkun', 'maythuw olssn', 'mhdthww olzhn'}, {'mmtthyw olssn', 'mathhwe olhjn', 'madtyiw olkkn', 'wtayhew ulkem', 'mwathey olsmo'}, {'mittwyw olqyn', 'mayttuw olsmi', 'mtadhyw olyhm', 'mottheu olcen', 'mitdyew olqem'}, {'mawytew olxon', 'maytehw oleqn', 'mutthea olswn', 'mhttwyw olhqn', 'wtathaw wlejn'}, {'mauttye ollxn', 'mhtdheh olqhn', 'maotthw olssn', 'moythhw olqcn', 'wattywe iyhen'}, {'mahwtew olgqn', 'wwttehw olwne', 'mahthwa olchn', 'metthaw olsyn', 'mwtwhww olcem'}, {'mmwthew olcen', 'mattehy olykn', 'htathow loesn', 'muttuhw olxin', 'metthhy oljjn'}, {'amytwew iwseh', 'mutthwu oljhn', 'meattow olegn', 'maethww olsyn', 'mhttihw olexn'}, {'maatthw olsyn', 'motthhy olxyn', 'myathyw oljcn', 'amtthyy hyken', 'modthaw olsqm'}, {'madtohw olykn', 'amtyhww oywhn', 'mudthuw olijn', 'mwatdhe olikn', 'mitthaw olssn'}, {'mhdthww olgin', 'matdeyw olcxn', 'maottiw oleqn', 'mttthew olswn', 'amtthoh owswm'}, {'mutthyh olqan', 'metthuw olswn', 'moytyew oljun', 'mwadthe olkcn', 'yawtehw ilxew'}, {'maywtew olgyn', 'maittiw olsma', 'motthei olswn', 'mawyehw awsan', 'mettyey olkem'}, {'amdyhew ohwyn', 'mittwyw olucn', 'mottwyw olsgm', 'maethow olswn', 'matyihw olzhn'}, {'meattiw ollqn', 'mwattiw olxkn', 'mattywh olhgn', 'amtthyh losey', 'mottheo olcen'}, {'mutthey olsyn', 'muattyw olcjn', 'watwehw hysin', 'motwhhw oljcn', 'matwtyw olswm'}, {'mitthei olssn', 'maewtew olqgn', 'muatyew olign', 'amtwwew hlgin', 'mitthhe olqkn'}, {'mythhyw olsme', 'madhhyw olqan', 'amhthey owxwn', 'maothuw olswn', 'mettyey olqjn'}, {'mahtihw olgjn', 'mautthw olswn', 'mwttehw olsmh', 'myattyw olqkn', 'amhdhew whhen'}, {'miythew olswn', 'mhtyhuw oluxn', 'mayyhwe ylzeh', 'modtyew olcun', 'madtahw olksn'}, {'matthou olcen', 'yatwehw olhay', 'mottwaw oljkn', 'mawteaw olxhn', 'mutdyew olkon'}, {'matywhw olcjn', 'mahthhe olexn', 'metthyw olswn', 'wotthwe olwhw', 'maytwhw olakn'}, {'maithow olswn', 'mwtyhww olhcn', 'mtadhyw ohsyy', 'matywhw olxgn', 'mittyhw olgxn'}, {'mhattiw olzkn', 'mittwhw olhzn', 'mtadhiw ilqeh', 'myttehw olgzn', 'matthuy olswn'}, {'mwtywew olqzn', 'muttwhw olkzn', 'maithyw olswn', 'yaytehw ulzem', 'mahthwa olugn'}, {'matweuw olakn', 'motthwa oolsn', 'mottheh olswn', 'mothhaw olcgn', 'amttyyw hlqin'}, {'madthoe olwqn', 'mhtdheh oljqn', 'maythuw olswn', 'meatdew olhjn', 'amwtheh ylesn'}, {'mudtheh olkin', 'mahthww olswn', 'mutteww olsme', 'mtateyw ulshm', 'meatdhe olzjn'}, {'mtathoh awqen', 'mattyyy olqyn', 'mottyeh olcsn', 'mauthey olcen', 'madteww oluxn'}, {'mytteuw olccn', 'muatthw olsyn', 'mottwaw olsme', 'mtatyey olyhw', 'maittyw olszm'}, {'mhtywew olqyn', 'amytwew loseh', 'mawtewy olskm', 'mattwhh olkkn', 'mauthuw olsyn'}, {'miadthe olqjn', 'mtthoew olsyn', 'mwathww olksn', 'amytwew olyne', 'modthaw olgyn'}, {'mawttyw oloqn', 'mauttyw olqun', 'moatthw olcen', 'hyttehw ilejn', 'madthoe olchn'}, {'mattiwy olcon', 'mahthwu olswm', 'mttthaw olswn', 'amtthwa wwson', 'mawthhy olxjn'}, {'mittheo olssn', 'motteww olxun', 'madywew olcwn', 'mhddhew olsgm', 'mahwhwe oleww'}, {'moythhw oljon', 'mitthuw olswn', 'mottahw olkzn', 'mhttyyw oljqn', 'amtteiw yljem'}, {'maythww olswn', 'amtdwew ilqeh', 'meattww olxan', 'matdyyw olkyn', 'mythhyw olsjm'}, {'maetteh oleqn', 'mwhthww olhcn', 'maithaw olsyn', 'mtithwe luseh', 'medthey olwkn'}, {'mutteww olecn', 'matdwhw olqem', 'motthuw olssn', 'amthhyw iyson', 'muttehw olcjn'}, {'mitteiw olojn', 'yawtehw ylhyn', 'mawtyyw olzcn', 'mihtyew olykn', 'miatthe olswn'}, {'mmatthh olqun', 'motdhaw olzxn', 'metyhey olkem', 'mahwhwe liseh', 'mytthee olswn'}, {'mtawhew olxsn', 'mhhthww oljgn', 'awttehw uwsem', 'myttyyw olgem', 'maothee olcen'}, {'waythwe wyshn', 'matywaw olcgn', 'mutthwu olzsn', 'maotheo olcen', 'mhtyyew olkjn'}, {'matwyyw olxyn', 'amtthyy ylkyn', 'mitthee olswn', 'mithhyw ollxn', 'mothyew olxqn'}, {'wahtehw olhwm', 'mttahyw oljan', 'mattyyh olqsn', 'matywyw olkqn', 'maatheo olssn'}, {'hutthwe loyen', 'muttyuw olxkn', 'mawtheu olcen', 'maattiw olchn', 'moattiw oljhn'}, {'mhttyyw olycn', 'mitteyw olqxn', 'amwthwe yyshn', 'miwtyew olikn', 'matthia olsyn'}, {'mwtthea olsyn', 'mhtthwh oljkn', 'mtadehw alsne', 'mahtwyw oliqn', 'mhhthww oljem'}, {'maittiw olgwn', 'motthwh olcjn', 'amtwhey olwaw', 'madtuhw olecn', 'mwtthww olcen'}, {'maddyew olsmi', 'mtadhww ylzan', 'madwthe olcun', 'meattaw olaxn', 'mwtthuw olswn'}, {'maathaw olcen', 'myatetw iygen', 'muthhyw oleqn', 'mawtyeh oljan', 'mattiwy olgun'}, {'mtttheu olsyn', 'mwattyw oljyn', 'mhtyhey oljin', 'meattyw olcxn', 'wmtthwe wlyhn'}, {'maatthw olssn', 'mhtdhyw oleqn', 'motyhhw olexn', 'hhtthwe hysan', 'mawtewy olwcn'}, {'amyyhew owzwn', 'matdahw olqhn', 'mahtheo olcen', 'madthiy olljn', 'metdhey oljgn'}, {'mettyey olqwn', 'mutthow olswn', 'maudthe olhzn', 'mauttwe oljkn', 'amttyhe iyyen'}, {'mitthey olcen', 'mhwtheh olkin', 'mhhthww olcsn', 'matyeaw olygn', 'amttywe ylsyw'}, {'emtthwe oyqhn', 'mytthww olsyn', 'mttahyw olkun', 'mitteiw olqzn', 'mottihw olaqn'}, {'amytheh oyhin', 'matywaw olkkn', 'madthih oluqn', 'mwattyw olxwn', 'maathea olcen'}, {'yatyhwe ulhan', 'maothee olssn', 'mahttyw olukn', 'mwatdew olqsn', 'miattwe olwjn'}, {'matthiu olsyn', 'mwttwyw oluxn', 'mawthhy olcxn', 'yahtehw ulyem', 'mwtyhww olhjn'}, {'metthuw olcen', 'matwihw olqun', 'mitteiw oluqn', 'mtathwe awseh', 'mhattiw olojn'}, {'matdehw olzcn', 'mauttey olyxn', 'mayttuw olaqn', 'amwthhw olhna', 'mwtthei olswn'}, {'motthwe oljin', 'nwtthwe yysyn', 'mmythew olsyn', 'mittyww olskm', 'mudtheh olikn'}, {'matdahw olxkn', 'imtthwe elxwn', 'mhttwyw olsgm', 'mmtthei olssn', 'mahtehw olxsn'}, {'meatdhe olsmu', 'mytdyew olckn', 'mtthuew olswn', 'mahthwa olqan', 'amtthwe ilesn'}, {'mawthaw olswn', 'amtthue alqun', 'muttwhw olkem', 'mahthwh olqan', 'mmaytew olszm'}, {'motyyew olkhn', 'mauthuw olswn', 'mayyehw ohwyn', 'motthhh oljjn', 'motwhww olxsn'}, {'mutthiw olsyn', 'mothyew oljun', 'mattwhy olsmw', 'ayttehw wyhen', 'muthhuw olxcn'}, {'maytwhw oljcn', 'mytthyw olssn', 'mhtyhiw olkyn', 'mawtwhw olcgn', 'notthwe olqww'}, {'mattowy olqqn', 'hetthwe hoseh', 'mwtyhww olsgm', 'mhdthww olsmy', 'mytthey olsyn'}, {'muattiw olekn', 'matthuu olcen', 'htawhew owswy', 'matwhwe olwxn', 'mhtdhww olxkn'}, {'madthih olixn', 'mutthuw olcen', 'amtwehw hlesn', 'mahtehw olukn', 'mityyew olsym'}, {'mttthey olswn', 'amdwhew awzen', 'mattihy olkan', 'matywow olgjn', 'matyweh olzqn'}, {'mattwhy olokn', 'natwhwe hysin', 'matthoi olswn', 'matwtyw oljcn', 'mawteuw olqin'}, {'amtyhaw alhin', 'mhattyw olcgn', 'madthhe olgon', 'maywtew olhkn', 'mtttheo olssn'}, {'maetthe olswn', 'mawthyh olgjn', 'matwehw oljyn', 'amttuhw woswn', 'maottyw olljn'}, {'muatyhe olqun', 'motwhhw olxzn', 'ytatyew awzen', 'motthei olswn', 'mwatdhe olxwn'}, {'matywuw olkjn', 'mottihw olzsn', 'maathuw olswn', 'mawthhh oljsn', 'amwthwe ulesn'}, {'mottwhw olojn', 'amtyheh loshn', 'mttheyw olcen', 'mwatheh olygn', 'mothhhw olwgn'}, {'mtateuw ylxyn', 'mitthyw olswn', 'mattywy olwcn', 'mothhyw olokn', 'matdyhw olqem'}, {'mtateaw ilqwn', 'maddhiw oljgn', 'meatteh ologn', 'maotthe olcen', 'mottahw olgcn'}, {'matthoe olsyn', 'mytywew olgun', 'htayhew ohyhn', 'mawthhh olsmh', 'mawytew olkjn'}, {'mittheu olcen', 'amdtwew leseh', 'maytwhw olocn', 'mhtthwh olxyn', 'mudtheh olksn'}, {'mttthuw olsyn', 'mottohw olxqn', 'mwttyyw olxsn', 'yatyhwe hyson', 'muattyw olsmw'}, {'yettehw ihsyn', 'mauthei olsyn', 'mittwyw olkyn', 'mathtyw olsma', 'matyhoe oljun'}, {'motthwa olzhn', 'matthee olswn', 'matdwhw olshm', 'amtthwi elesn', 'madthwi ollkn'}, {'maothow olssn', 'maytehw olzhn', 'mtathue loshn', 'maettyw olszm', 'madthiy oljzn'}, {'myttwyw olggn', 'mettwey olekn', 'mathewy olswn', 'mohdhew olszm', 'hittehw ylkyn'}, {'mytdyew olcxn', 'motthaw olsyn', 'mwttyyw olykn', 'emttehw awwen', 'myathyw olssm'}, {'maythee olswn', 'mautyhe olqqn', 'ntathaw hlxew', 'mahthwi oljwn', 'mhythww oljyn'}, {'mauttwe olykn', 'mitthhe olhzn', 'htathhw olhaw', 'motthee olsyn', 'mahthwo olcqn'}, {'mithhyw olucn', 'mmattwe olgkn', 'amdtyew iyyen', 'motthei olsyn', 'mhtdyew olgun'}, {'mahthwo olyxn', 'mettheh olswn', 'yadtehw losey', 'mwthhyw olkyn', 'mitthhe olqyn'}, {'mattywy olxin', 'mottehw olgon', 'maithaw olssn', 'amtthiy elqun', 'mhtyhow olgcn'}, {'ymtathe ylkyn', 'mettwey olscm', 'maithow olsyn', 'mhadthe olzsn', 'madtahw olkzn'}, {'mautyhe olshm', 'mutthaw olcen', 'mawthhh olkcn', 'mmaytew olcxn', 'amthhow wlyhn'}, {'mittyaw olsgm', 'amttweh ilesn', 'muythew olssn', 'myattye oljkn', 'mawtwhw olgun'}, {'madhhiw olhkn', 'mhttyww oljhn', 'amtthie iljeh', 'matthiu olsyn', 'mautteh olgsn'}, {'htayhew hwsin', 'matthoi olsyn', 'mutteyw olsme', 'mautdhe olxqn', 'mohdhew olchn'}, {'mhtyhhw olkjn', 'metthyw olswn', 'maadtew olscm', 'nytthwe oywew', 'mawteaw olcwn'}, {'mytthaw olsyn', 'mtadhhw olquy', 'mytteuw olsgm', 'muattiw olcqn', 'myawtew olgcn'}, {'amtwhhw hlgin', 'mihtyew oloxn', 'mawhtew oljxn', 'muttehw olyqn', 'maatthe olssn'}, {'matthaa olcen', 'amhthow hyzen', 'mhtyhow olojn', 'mhttehw ollgn', 'mwathey olkcn'}, {'mawtyey olxwn', 'mhtdhey olxem', 'mathtyw oljgn', 'maythaw olcen', 'amydhew owqwn'}, {'myetthe olcxn', 'mttthyw olsyn', 'mhtdheh oljin', 'yatdehw ylwew', 'modtyew olgun'}, {'wittehw olquh', 'mmythew olsyn', 'mattyyh olhqn', 'mottyyw olsmo', 'mattywh olkwn'}, {'matheyw olssn', 'mitywew olqzn', 'amtdwew owgwn', 'meatdhe ollkn', 'mhtdhhw olgjn'}, {'myattyw olekn', 'matthoh olswn', 'muttweh olkan', 'yhttehw ylzem', 'mutthwe olsmo'}, {'haythwe owzwn', 'mmattwe olsmw', 'mautthw olcen', 'mhutthe olqun', 'mhtdwew olgwn'}, {'mauttyw olcan', 'aomtthe hlxin', 'mwtthei olssn', 'mattyyy olckn', 'matteoh olkgn'}, {'mothhyw olkan', 'mtethwe hwsin', 'muttyuw oloxn', 'mahtheo olcen', 'madhthe olijn'}, {'mhtyheh olcqn', 'mauttyw olcsn', 'motyhww olssm', 'metthey olswn', 'wmtatew elswm'}, {'mmattyw oljem', 'mwthhww olccn', 'moadtew oljxn', 'amtyhaw ohsym', 'maethww olswn'}, {'yatyhwe hlgin', 'maetteh olwjn', 'mttthea olswn', 'madtyhe olukn', 'mtayhew olocn'}, {'miatthe olcen', 'mawyhwe uhsyn', 'matwihw olaqn', 'matdeww olkjn', 'mhttwhw olycn'}, {'madthhe olqon', 'mutthea olsyn', 'muttweh olukn', 'mwhthww oljsn', 'wadthwe eljwn'}, {'mhtthwh olksn', 'motyhhw olcwn', 'mtathih lysan', 'matthie olswn', 'maottyw oljkn'}, {'mhtyheh olxyn', 'muythew olswn', 'amwthhw olwow', 'mwtteuw olkun', 'mottyeh olqwn'}, {'mththww olszm', 'mttthee olssn', 'madthhe oljin', 'mawdheh olgzn', 'amtteaw lojen'}, {'metdhey olqzn', 'htathwe olesy', 'mauthaw olswn', 'mhattiw olaxn', 'mahthwu olhcn'}, {'matdwhe oljon', 'maittyw olaqn', 'mattthw olswn', 'mtyathe hygen', 'mittyey olsnh'}, {'mottahw olsmo', 'mhtdhaw olyxn', 'miytyew oljwn', 'mwttheo olsyn', 'wetthwe oyxhn'}, {'mhadthe olgin', 'mettyyw olygn', 'mhthhww olcon', 'mmtthew olsyn', 'amdtyew ilsih'}, {'mottwhw olkin', 'mittyhw olcxn', 'mwtdyew oljhn', 'mwtthey olcen', 'amttehh lhsan'}, {'mwtthww olswn', 'mtahhew olcsn', 'medthey olkqn', 'mautdhe olyjn', 'yhttehw wwsem'}, {'mmtthow olsyn', 'mhttyww olzhn', 'maywhwe iyson', 'myttyyw olcem', 'motwhww olgin'}, {'muttheo olssn', 'maadthe olshm', 'amddhew awsyn', 'myathww olscm', 'myawtew olljn'}, {'motthwe olkin', 'matthoy olcen', 'imttehw olwyw', 'mhtyheh olgun', 'mwtywew olaxn'}, {'mauthhe olgon', 'mmathew olcen', 'mudthiw oljon', 'mottwhw olexn', 'amythwe hlisn'}, {'mttheaw olswn', 'mawteiw olaqn', 'ntathey wwson', 'mawdthe olxsn', 'mattehh oljan'}, {'hmttehw wlxew', 'mmadthe olkon', 'matheyw olswn', 'mwtdyew olzcn', 'meattuw olhjn'}, {'amdthiw olyhy', 'mohthhw olkqn', 'mhtyhhw olkhn', 'madthoe olgyn', 'matheuw olsyn'}, {'nottehw ohjyn', 'madthih oljqn', 'mottyyw ollqn', 'mwtthee olsyn', 'matyehw olygn'}, {'amydhew ylzin', 'myadthe olgqn', 'madthie oljcn', 'mawthhy olxan', 'mahthuw olswn'}, {'mohtyew olgin', 'matheyw olssn', 'muttwhw olgwn', 'mhtdwew olyqn', 'amttwwe hlqin'}, {'maethyw olswn', 'mhdthiw ologn', 'matywyw olccn', 'wmtathe olejh', 'mwttihw olqcn'}, {'mtahhew olsxm', 'mayyehw iwswn', 'matdeyw oljzn', 'mittehw oljun', 'maathow olswn'}, {'matdohw olxkn', 'mauthww olswn', 'myathyw olcsn', 'muadthe olsxm', 'amtthwo ohxem'}, {'mtathyh elcwn', 'matthao olcen', 'meatyew olokn', 'matteoh ollxn', 'mhttwww oluqn'}, {'mewttew olqjn', 'mattheo olsyn', 'yatyhwe ohcyn', 'maytehw olsmo', 'mmattwe olqhn'}, {'mytteuw olhxn', 'mtathie yoseh', 'madhehw olkhn', 'matheww olcen', 'mwttyyw olgon'}, {'mmathew olssn', 'meyttew olicn', 'matywyw olyqn', 'mittyiw olgsn', 'amtyhiw hyzen'}, {'mutywew olqqn', 'mayttwe olhqn', 'madthoe olghn', 'mwtthee olcen', 'yottehw ilxew'}, {'mwadthe olxqn', 'mawwhwe ylzwn', 'matthea olswn', 'mahthwh olgin', 'motyhaw olkkn'}, {'mwtwhww olhgn', 'mmawtew olhjn', 'matthuo olswn', 'htathwe owxwn', 'matwehw olacn'}, {'madteyw olgsn', 'muatthe olssn', 'amtdwew ylesn', 'muttuhw olsmy', 'mattyyh olqxn'}, {'mauttwe olchn', 'mitthei olswn', 'miattwe olsmo', 'mahthwi olqcn', 'amhthow olyne'}, {'amtyhww wwken', 'mutthwe olocn', 'madtwiw olajn', 'mwtthaw olcen', 'mwttihw olshm'}, {'mahthiw olcen', 'mawdhey ollqn', 'mottyow olhgn', 'mhtthwy oljan', 'yattehh owgwn'}, {'mawttyw olljn', 'mautheu olsyn', 'motyhhw olycn', 'motdyew olqwn', 'amttyww luseh'}, {'nawtehw owhwn', 'mhtyhhw olxin', 'madwthe olhcn', 'madthye olsmy', 'mttheiw olssn'}, {'madthwe oljqn', 'maotthe olcen', 'mayytew oljzn', 'madhehw ologn', 'natdehw lhsan'}, {'mitthei olcen', 'amytheh ulsne', 'mtayhew olkon', 'matdeww olgzn', 'meattwe olssm'}, {'mmatthh olsmu', 'muttweh olkhn', 'myttyyw olcem', 'maothei olcen', 'ytathaw ohxey'}, {'mawteyw olkjn', 'mitywew olcan', 'amdtheh ohwew', 'mawthyw olsyn', 'mahdthe oljzn'}, {'ytatwew ilyeh', 'maithee olswn', 'mwttyww olwcn', 'motwhww ollgn', 'mattiwy olxjn'}, {'metthow olcen', 'wotthwe ylsym', 'matyeww olzcn', 'maettyw olghn', 'muatyhe oluqn'}, {'mytthwe oljyn', 'mittyey olsjm', 'matthah olsyn', 'amwthww uhsyn', 'mathhyh oljun'}, {'mawtewy olqhn', 'mtttheu olssn', 'aomtthe hysan', 'mothhyw olkxn', 'mauttey olhcn'}, {'matwyyw oljun', 'mmtthaw olssn', 'hawthwe lesan', 'meatwew ollgn', 'maddthe olkun'}, {'amthhow ulshm', 'mattwyh olzgn', 'mohthhw olkun', 'mottheu olswn', 'muttyhw olujn'}, {'mawthey olssn', 'htathww lysan', 'muadthe olgan', 'mattihy olgcn', 'mhtdhey olyjn'}, {'mauttiw olxon', 'mwdthww olccn', 'madteww olxqn', 'maatthe olswn', 'waytehw ohwew'}, {'maethow olsyn', 'mytdyew oljwn', 'muatyhe olsxm', 'mtadhww yyjen', 'mhttyww olijn'}, {'mutywew olxxn', 'myttwhw olaxn', 'mautyhe olssm', 'wtatheh iysin', 'mmtthei olswn'}, {'maathiw olswn', 'mattwhh olcsn', 'matywww olygn', 'methhyw oljzn', 'mtathhy owsww'}, {'amtwhey uysem', 'mottwaw olcqn', 'maythwe olwxn', 'muythew olssn', 'mwadthe oljon'}, {'motthee olcen', 'mtatwwe lohen', 'muttohw ollcn', 'matyeaw olkcn', 'muttyyw oloxn'}, {'myawtew olagn', 'ntathwe ilqeh', 'mhtdhww oljcn', 'matthuo olswn', 'mawteuw olecn'}, {'hwttehw ilsyh', 'meyttew olgzn', 'mowtyew olwcn', 'mattihy olcun', 'mmtthew olsyn'}, {'madtwyw olcgn', 'mihtyew olaqn', 'motthuw olswn', 'mtatwwe ylwyn', 'mittyeh olgsn'}, {'emttehw iyqen', 'mettwey olzhn', 'mottyuw olujn', 'mayteaw olxkn', 'mwtthyw olsyn'}, {'mitthei olswn', 'muthhuw olijn', 'madthwe olxan', 'myattye olgxn', 'ahmttew alejn'}, {'mhtyhyw olqxn', 'mutthyh olsmw', 'amtthwi awxen', 'mhttwww olzgn', 'maothea olswn'}, {'metdyew olcon', 'mahtheh olssn', 'mattwwe olswm', 'maywehw ylqun', 'myutthe olxyn'}, {'myadthe olszm', 'mhthhyw olgon', 'amtyhaw ilheh', 'mittheh olswn', 'mawtewh oljun'}, {'amtthiy hosyn', 'mhydhew olkqn', 'mwattiw olqwn', 'mattheu olswn', 'motyhww olakn'}, {'myttwhw olkgn', 'mahthwo olsma', 'mutthwh olxem', 'haythwe oyhwn', 'mitthaw olssn'}, {'motdhhw olsqm', 'madthiy olwgn', 'mwthhww olzgn', 'nhttehw elcwn', 'maathow olcen'}, {'mtayhew olgem', 'mtwathe ylejn', 'maathey olcen', 'meadtew oljcn', 'mattwyy oljgn'}, {'motthuw olsyn', 'amdthey wlsne', 'matwwhw olexn', 'mwatheh olzcn', 'mawthye olxzn'}, {'motdhww olxhn', 'mmatthw olcen', 'mawyhwe yljon', 'mhwthww olcem', 'maytwhw olkin'}, {'mhtdhey olekn', 'myattye olgan', 'maothyw olssn', 'mhtyhey olxyn', 'natyehw iysun'}, {'mauthww olswn', 'mattwyh olokn', 'omttehw wwcen', 'muthhyw olqsn', 'mawttiw olgwn'}, {'mthathe uhyen', 'mothhww olzgn', 'muatthe olcen', 'matdeww oljqn', 'meadthe olkjn'}, {'matthuo olssn', 'modthhw olsmh', 'motthwh olckn', 'amtdwew uhsem', 'mawtyey olqun'}, {'mhtthwy olxkn', 'mawdhey olhsn', 'muttwhw oljon', 'mtttheh olssn', 'wtathhw wlhyn'}, {'maatthw olcen', 'muttahw olqkn', 'mitdyew olhsn', 'mtadhyw ehswn', 'mhtthwy olskm'}, {'amttyiw awswn', 'madthoe oljkn', 'mahttyw olocn', 'mytthww olcen', 'matdwyw olxun'}, {'muttheu olsyn', 'mittyuw oolsn', 'ymtthwe lsoeh', 'mottyiw olxsn', 'mhtyhuw ollqn'}, {'maathey olsyn', 'miattwe oluqn', 'myetthe olhzn', 'muattyw olxwn', 'amtdhaw ohesn'}, {'mhhdhew olhzn', 'amtthah alyhn', 'mtthehw olsyn', 'mwathww olikn', 'mwtdhww olejn'}, {'amtyhhw hlqwn', 'mautthe olsyn', 'mhtyhuw olhkn', 'mowtyew olckn', 'mautteh olqin'}, {'mttthea olsyn', 'mattwye olsmh', 'mawthye olyxn', 'matwtiw olqun', 'natwehw hlwin'}, {'moadtew olhqn', 'mhtyheh olqgn', 'myttyyw olgem', 'htathwe ulswm', 'maytheh olswn'}, {'motwhaw olsnh', 'madtohw olsqm', 'maiwtew olakn', 'metthee olswn', 'mtadhhw iysem'}, {'modthaw olgcn', 'mtthehw olcen', 'meadtew olxsn', 'muthhuw olcjn', 'amttwuw oyhhn'}, {'yaythwe ohzyn', 'matdwyw olcxn', 'myadthe olyxn', 'maitheh olswn', 'mayttiw olljn'}, {'mauthow olswn', 'maattyw olqin', 'mmattyw olikn', 'mwattiw olchn', 'witthwe wyshn'}, {'amdtyew owesn', 'motdhhw oolsn', 'mahtwhw olxyn', 'mwatdhe olxcn', 'mtthoew olswn'}, {'myttehw olxun', 'maedthe olhkn', 'mahtyyw olgqn', 'mtoathe hlisn', 'metthea olssn'}, {'amttwuw iysem', 'mhwthey olqhn', 'metthow olsyn', 'mattowy oljun', 'maottow olsmu'}, {'modthhw olxxn', 'mahtihw ollcn', 'maethey olcen', 'amythey ihxen', 'mwtteuw olgcn'}, {'wwtthwe awsem', 'motthow olssn', 'midtyew olsmi', 'mawthyh olsmu', 'matyyyw olujn'}, {'mautthe olswn', 'wytthwe ohqun', 'mottohw olxqn', 'mohdhew olsnh', 'motyhww olgwn'}, {'maothei olssn', 'mahtihw olshm', 'mhydhew olejn', 'mtithwe owwew', 'muttweh oljon'}, {'mttthei olswn', 'hatyhwe whxen', 'mittwyw oljem', 'motwhhw olczn', 'mewttew olijn'}, {'matdohw olgcn', 'mitthwe olyxn', 'mauthaw olssn', 'ymatetw woseh', 'meyttew olsjm'}, {'mwtthww olssn', 'miytyew olacn', 'yettehw elsne', 'mathtyw olijn', 'mydthiw olszm'}, {'mattwyy olyqn', 'mottyuw oljqn', 'mtiathe ywjen', 'matthoe olssn', 'maettiw olhkn'}, {'mwttehw olxjn', 'myathww olkem', 'matthue olsyn', 'htatheh owhin', 'maytwyw olijn'}, {'mytthwe olhxn', 'mutyhuw olqgn', 'mtathye olhaw', 'mtthaew olssn', 'mwdthiw olkyn'}, {'mawtheo olsyn', 'matdehw olkem', 'matywow olcan', 'mythhyw olkgn', 'yottehw olquw'}, {'mayttuw olygn', 'mhttwhe oluxn', 'motywew oljcn', 'maethww olsyn', 'yuttehw eljwn'}, {'mitteiw olukn', 'moadthe olszm', 'matthui olssn', 'mhutthe olekn', 'amttwhe ohsyh'}, {'matwwyw olsma', 'mautheh olsyn', 'amtywew uwswn', 'mawthye olzjn', 'maottow oljjn'}, {'mithyew olkun', 'mahttiw olsmu', 'meatteh olqsn', 'mtatywe yljey', 'mttthuw olssn'}, {'yatdehw wwgen', 'mayttwe olcgn', 'matthii olswn', 'mittyeh olckn', 'mhtyhuw olcxn'}, {'mtayhew olszm', 'mywthew olcen', 'madhhyw olsmu', 'yhttehw wlyhn', 'matdewy olzgn'}, {'mowthhw olzxn', 'mayttwe olqin', 'wattehh hosyn', 'mttthiw olswn', 'meyttew oljwn'}, {'amtdhiw olesy', 'mawtihw olyqn', 'mautwhe olejn', 'madtyhw olhqn', 'mauthei olcen'}, {'ytawhew oychn', 'maytehw olsmy', 'maddthe olqem', 'mahthei olsyn', 'mitthhe olccn'}, {'amtethw ylzhn', 'mytdyew olykn', 'madtyiw olqyn', 'modthhw olcqn', 'mwtthiw olssn'}, {'metthwe olkgn', 'myawtew olqqn', 'netthwe wwgen', 'matthii olswn', 'maottiw olaxn'}, {'mwawtew olwqn', 'amtyhuw hlyin', 'mottyyw olcwn', 'mhtdhuw olikn', 'matthuy olswn'}, {'wtadhew oywhn', 'mytdyew oljyn', 'mttthaw olcen', 'mwatheh olgkn', 'mawteow olgjn'}, {'matthoi olsyn', 'muadthe olqsn', 'modtyew olcjn', 'aimttew awgen', 'mhtthwe olugn'}, {'wattwwe hlsiw', 'mhtyhww olhgn', 'mutwheh oljon', 'mauthiw olsyn', 'matdihw olykn'}, {'ntathaw ulwew', 'mittyow oljsn', 'mhtdyew oolsn', 'mutthww olcen', 'mauwtew olcwn'}, {'hahtehw awyen', 'mahthww olswn', 'motthwa oljqn', 'mattywe olgwn', 'mayttiw olcgn'}, {'metthei olswn', 'matyhwe olhqn', 'matwhwe olqxn', 'nattehy ulshm', 'mawdhey oljjn'}, {'mwtyhww olykn', 'mhathww olocn', 'amydhew hysin', 'motyhww olqun', 'matthoa olsyn'}, {'amythow olyne', 'myttheo olssn', 'mawteww olqan', 'meattiw olzsn', 'mwthhyw olxun'}, {'mahtheo olsyn', 'meattyw olgjn', 'meyttew olszm', 'omtthwe hlyin', 'mothhww olhkn'}, {'mtithwe ylzyn', 'mwatdhe olxjn', 'madhhiw olqon', 'mhathyw olwcn', 'mauthaw olcen'}, {'mtahhew olacn', 'mytthww olswn', 'mutthwh oljsn', 'mtathue ywzen', 'mwatteh olocn'}, {'mydthiw olzjn', 'matyweh olxon', 'mattywh olccn', 'matthiw olsyn', 'aumtthe olquh'}, {'mattowy ollxn', 'motyhww olqyn', 'mtathwo ohejn', 'mutthyw olsyn', 'mowtyew olykn'}, {'mitthea olssn', 'mitdyew olzcn', 'mutthwe ollxn', 'yittehw iyxen', 'maottyw olqyn'}, {'mwtthwh olkyn', 'mauthey olcen', 'mtathwy elhan', 'mattwhh olagn', 'maytwyw olxzn'}, {'amtwwew elyhn', 'mwtthwh olhgn', 'myttheo olswn', 'matwtyw oljxn', 'mettyyw olxqn'}, {'mawthhe olykn', 'wtahhew ylsyw', 'mawtyey olcem', 'maathea olsyn', 'mwtdhww olygn'}, {'mtathih awxen', 'mahtehw olcem', 'mitwyew olhqn', 'mahthyw olcen', 'mwtteuw oljqn'}, {'mtathae ohxun', 'matduhw olakn', 'mmothew olcen', 'matywhe olgem', 'maattyw olqcn'}, {'mottyey olyjn', 'modthhw olaxn', 'amtthwi wlhyn', 'maathuw olswn', 'muttwhw olxan'}, {'muthhyw olghn', 'amtyhaw olhne', 'mhwthww olaqn', 'madtyhe olaxn', 'mahthww olssn'}, {'matheow olcen', 'medthiw olzgn', 'hawtehw lhsan', 'matywyw olxxn', 'matdeww olikn'}, {'mtathue ywzen', 'mawtehw olhjn', 'mawtewh olckn', 'madtyhw olgjn', 'maytheh olsyn'}, {'amttywe ylkyn', 'myttyyw olsme', 'mwttheh olssn', 'mautteh oljqn', 'mawtewy olwkn'}, {'emttehw alqwn', 'mwutthe olyxn', 'madthae olsxm', 'myythew olsyn', 'mahtehw olssm'}, {'maatheh olswn', 'motdhhw olgwn', 'moattyw olwgn', 'mottwyw olgon', 'ahttehw ilyhn'}, {'mutteyw olsnh', 'matywhw olsmh', 'mtuathe awqen', 'mythhyw olycn', 'mwttheh olsyn'}, {'myattye olecn', 'matetwh olejw', 'mwatdhe olgwn', 'mwttyyw olsmy', 'mutthuw olssn'}, {'mtthewy olcen', 'nadtehw ilceh', 'metthye olkun', 'mutthwe oloxn', 'mwtdhww olhgn'}, {'mauttwe olksn', 'ahmttew ilqun', 'mowthhw olkon', 'mmtthww olssn', 'matduhw ollqn'}, {'mmtthew olssn', 'matwtyw oljwn', 'mauthhe olczn', 'hmtthwe ylzon', 'meattow olcxn'}, {'maathww olssn', 'muattyw olqon', 'amydhew ohyhn', 'mhtthwy olzkn', 'mahthye olqan'}, {'mawtyeh olsmy', 'mtwthyw olgxn', 'mtathye awxen', 'mithyew olqxn', 'mmtthuw olsyn'}, {'methhey olcsn', 'mahtthw olsyn', 'motthwe olhjn', 'mtadhww ilceh', 'matdewy ollxn'}, {'mutwheh oljgn', 'nawtehw ohxan', 'mittyww olswm', 'metthey olswn', 'motdyew olzsn'}, {'madthye olhzn', 'amtwheh oyhhn', 'mhtthwh olojn', 'maethyw olcen', 'maedthe olqzn'}, {'mmtthow olcen', 'maiwtew olgqn', 'wottehw ylxyn', 'mattywe ollqn', 'mauwtew olxin'}, {'muatyhe olukn', 'mauthww olssn', 'mahthwa olqyn', 'mtathwi ilxew', 'muthhyw olsxm'}, {'maettiw olejn', 'amttwuw wlhew', 'mmattyw oljem', 'myttheu olsyn', 'meatteh oljyn'}, {'yatwehw hhxen', 'mautwhe olzjn', 'mayttiw olsnh', 'maothee olswn', 'muttuhw olyqn'}, {'madthih olshm', 'medthiw olqcn', 'waythwe loshn', 'muthhyw olgyn', 'myttheh olcen'}, {'motteyw oljhn', 'mahtyyw oluqn', 'mtatwww ywswn', 'mtttheo olsyn', 'madtwyw olwgn'}, {'mauthow olswn', 'madtwhe olqon', 'matwhwe olskm', 'metwhey olczn', 'watdehw ulhan'}, {'amtthwh losem', 'mhtdhaw oljin', 'motthiw olcen', 'motyyew olxan', 'mhutthe olujn'}, {'matyhoe olggn', 'matwwhw olsqm', 'madthoe olhqn', 'hetthwe oyhin', 'mauthey olsyn'}, {'amwtwew oyghn', 'matthai olswn', 'mahtihw olchn', 'mutwhuw olsmu', 'mhattyw olxqn'}, {'mattwhh olakn', 'mauthww olsyn', 'mothhaw olzcn', 'aomtthe elsww', 'mathtyw olujn'}, {'mawttyw olqan', 'mithhyw oljxn', 'mutteyw olsmh', 'matthii olssn', 'matetwy hoseh'}, {'mtotehw ohxon', 'mutteww olxgn', 'maotheu olsyn', 'myttwyw olxxn', 'maidthe olyjn'}, {'madhthe olxzn', 'maitheu olswn', 'maddhiw olwjn', 'mohtyew olhxn', 'htathyw oywhn'}, {'mohtwew olggn', 'mhtthwy olegn', 'mahhhwe wwsun', 'mwtyhww olqhn', 'maothww olssn'}, {'mettheh olssn', 'motdhww olqgn', 'matdhwe olqwn', 'amtwhaw awhen', 'muttweh olojn'}, {'amtthue wlqwn', 'maathiw olssn', 'mathhwe olijn', 'mawteww olgyn', 'mhhdhew olckn'}, {'mawttiw olchn', 'motthwa oloqn', 'mawtewy olqwn', 'amttwhw yljyn', 'mmtthyw olcen'}, {'maethaw olswn', 'maddyew olekn', 'mhttihw olhsn', 'hmtatew ohqyn', 'mauttey olkhn'}, {'matywey olyjn', 'amdtheh olhim', 'mmadthe olycn', 'mutthee olswn', 'matyehw olgan'}, {'madtwyw olzjn', 'mwathyw ollxn', 'mhttwyw olcjn', 'miythew olssn', 'natdhwe iyken'}, {'mettwyw olajn', 'mawthyh olzhn', 'aymtthe yljwn', 'mauthei olssn', 'mhdyhew olkem'}, {'amtteyw yyshn', 'mhtyhhw olwqn', 'maetthw olsyn', 'maattye oljqn', 'maddhiw olxem'}, {'mhwthww olsym', 'amtyehw lusem', 'motthwa olhzn', 'maitthe olssn', 'mawthhe olczn'}, {'maithaw olswn', 'mhutthe olokn', 'mattwye olsme', 'mawyhwe ulzem', 'meadthe olgcn'}, {'mawhtew olxun', 'madtohw olugn', 'motthow olcen', 'meaytew olzxn', 'amdthwe iysun'}, {'maetteh olecn', 'mtthewy olsyn', 'aomtthe ohxon', 'mwathww olgun', 'mattwyh olchn'}, {'matdeww olccn', 'mawthhe oluxn', 'mauthee olsyn', 'madywew oljsn', 'hetthwe losan'}, {'mahwtew olsma', 'mytdyew olkqn', 'mhthhyw olksn', 'amtthie iysew', 'mmtthea olswn'}, {'maithyw olssn', 'mawytew olaqn', 'maetteh oljhn', 'motwhww olgzn', 'mtatewh wlheh'}, {'mohthhw olcqn', 'mytdyew olgjn', 'amttyhw uyshn', 'motthei olswn', 'madtyhw olqzn'}, {'mautwhe olycn', 'mahttiw oluxn', 'maithiw olcen', 'motywew oleqn', 'hetthwe owqwn'}, {'mahthwe olqyn', 'mawtheu olcen', 'mwhthww olkkn', 'mmatthh olgqn', 'haythwe hlisn'}, {'amttwuw yhxen', 'mahthow olcen', 'mwttehw olkem', 'mhtdhey olxun', 'myttehw olksn'}, {'htathwe iyseh', 'maitheh olsyn', 'mththyw olakn', 'mithhyw olcun', 'metdyew olghn'}, {'mauttiw olacn', 'mautthe olssn', 'amtteaw ohqwn', 'mawtihw olsmu', 'muattyw olsmy'}, {'myttehw olzgn', 'mottyow olajn', 'amtthie iysyn', 'maithow olsyn', 'madtahw olxgn'}, {'myttwyw olujn', 'mtathwe ahsyn', 'mhtdhyw olccn', 'madthye olekn', 'maytheu olsyn'}, {'metthhy oljkn', 'mitteyw olikn', 'mohthhw olgxn', 'hmtatew ilsuh', 'maitthe olswn'}, {'madyhiw olijn', 'mitthww olswn', 'hatwehw lwsan', 'mathtiw olwxn', 'mawthwe olxun'}, {'matyhoe olqem', 'mutwheh olacn', 'mtatwyw ylzyn', 'mwtdyew olzxn', 'matthwy olswn'}, {'mwathww olaqn', 'mutthow olswn', 'amdtwew ilweh', 'mihtyew olakn', 'madtyiw oljan'}, {'moattiw olsma', 'mhthhww olacn', 'wattywe iyhen', 'maethea olcen', 'mawthhh oljxn'}, {'matddhe olhxn', 'mautthw olcen', 'mwttyww olkem', 'nittehw ylesn', 'mittehw olsma'}, {'mwtthyw olssn', 'nwtthwe ilxew', 'mettwyw olxcn', 'motwhhw olsma', 'maddthe olsjm'}, {'mahthhe olgon', 'mmattyw olxhn', 'matheyw olswn', 'mottehw oljin', 'nhttehw hwsin'}, {'mytteuw olzsn', 'mtotehw olhww', 'matywhe olhcn', 'mohtwew olsjm', 'mahthuw olswn'}, {'umtthwe alwew', 'mhatteh olujn', 'matthyw olswn', 'mhutthe olsnh', 'mauwtew olzqn'}, {'motthwe olsmw', 'mhattyw olzgn', 'meatthw olssn', 'amtthuh owsww', 'moaytew ollxn'}, {'mwatdhe olyqn', 'meattiw olsqm', 'aymtthe wwken', 'mawtyey olswm', 'maythey olswn'}, {'matdwhe oloxn', 'amtythe wwyen', 'mttahww olyqn', 'matdwyw olzgn', 'mytthew olcen'}, {'mmttheo olsyn', 'mwathww olgkn', 'mayytew oljxn', 'amttwhw ohsne', 'mittyww olsmu'}, {'mahtthe olsyn', 'mawtihw olckn', 'madthiy olxwn', 'mhtywew olqjn', 'aymtthe olwhw'}, {'mmadthe olxun', 'mtthewy olssn', 'mhttyww olshm', 'motwyew olaqn', 'amdthow lsoan'}, {'ytatwew elhan', 'mawtyey olujn', 'myetthe olsmh', 'maythuw olssn', 'mutthhe olygn'}, {'mahhhwe olyhm', 'muthhuw olkyn', 'mattwhh oljsn', 'maytheu olcen', 'mawteaw olqon'}, {'mwttihw olqan', 'mayyhwe lozen', 'mwttheh olcen', 'motwhhw olzxn', 'mahtyyw ollxn'}, {'motthei olssn', 'amtthwu ohqyn', 'matdeww olsme', 'mawttiw olsjm', 'mewttew ollkn'}, {'mattiwy olgyn', 'maitheu olswn', 'maytihw olqkn', 'mtateaw iwswn', 'motywew olcgn'}, {'mawttiw olqin', 'mauthww olssn', 'yattehy hysew', 'mtwthyw olzjn', 'miattwe olqsn'}, {'muttwhw olkcn', 'mytthiw olswn', 'mitywew olsme', 'mawtyyw olccn', 'hutthwe ulswm'}, {'mtatewh awwen', 'mittyow ollkn', 'mytthiw olcen', 'mawtewh olxin', 'matyeaw olgzn'}, {'matyyyw olqcn', 'mutwheh olaxn', 'mitteyw olokn', 'mawthey olsyn', 'amtthoh wlesn'}, {'mwawtew olzxn', 'miythew olsyn', 'amtwtew oyyhn', 'mhttwhe oleqn', 'mhttewy olqem'}, {'mattyyh olqzn', 'matthuw olswn', 'maddyew olzjn', 'mhtdhhw olycn', 'mtotehw ylzey'}, {'mutthwh olkan', 'mahtheo olssn', 'mauttey oljsn', 'mytteuw olgzn', 'ntathhw hysun'}, {'madthoe olkin', 'mattowy olqkn', 'awttehw ulejn', 'muwthew olcen', 'motdhww olscm'}, {'myathww olcgn', 'amtthhh elwwn', 'maathaw olssn', 'muatyhe olxun', 'muttihw olqkn'}, {'hotthwe hygen', 'mwdthww olhcn', 'mawthhe olsmi', 'madteyw olqqn', 'mytthee olcen'}, {'maothaw olswn', 'mayteaw olwcn', 'methhyw olakn', 'matwhwe olsmy', 'wtathwe ilesn'}, {'mothhyw oljan', 'mtahhew olcwn', 'metthyw olssn', 'ytawhew ywjen', 'meattow olwkn'}, {'meaytew oljkn', 'htathhw uleyn', 'matthao olssn', 'mhtywew olcqn', 'matyeww olgyn'}, {'meattuw oliqn', 'mwtthey olsyn', 'mhtyhyw olckn', 'mauttwe olgem', 'mtathih yljon'}, {'mmuthew olssn', 'mettihw olegn', 'madhehw olccn', 'mtatewy hwsin', 'mththww olsmw'}, {'matdeww olzgn', 'mauthhe olekn', 'mtthiew olssn', 'amtthhe ihsyn', 'mottyhw ollxn'}, {'mattehy olsqm', 'mattiwh oljhn', 'motwhaw olekn', 'wtathuw ehsyn', 'mttheew olssn'}, {'mttthew olsyn', 'hatdehw ohhyn', 'mwdthww olcxn', 'mahtwyw olsmy', 'mwtyhww olxzn'}, {'mwttwhw oljwn', 'maotthe olsyn', 'maiwtew olhxn', 'amhthhw ilsoh', 'mwhthww olgqn'}, {'mathhyh olxkn', 'madtyiw olwkn', 'mutthei olcen', 'htathhw ywswn', 'myatthu olikn'}, {'matthai olsyn', 'mytteuw olgsn', 'amttyaw ilgeh', 'maythwe olhqn', 'mitwyew olhsn'}, {'motthey olcen', 'maattyw oljzn', 'mtatwuw ohxon', 'mudthiw olikn', 'mautthh olqon'}, {'maytihw olaqn', 'amtthwu ylhan', 'mwdthiw olgem', 'mwttwyw olxkn', 'mahthey olswn'}, {'muthhuw olggn', 'hatwhwe uljem', 'madthwe olgwn', 'mittyww olkhn', 'mottheo olsyn'}, {'mawthiw olswn', 'mothhww olkin', 'mhtdhww olkan', 'myawtew olccn', 'hatyhwe owhwn'}, {'amtdhiw loshn', 'meatwew olxwn', 'muttwyw olegn', 'mwthhyw olzqn', 'matheuw olsyn'}, {'maddyew olhzn', 'mauttiw olsgm', 'mittyey olgun', 'maithyw olsyn', 'mtyathe ohcyn'}, {'maytheu olssn', 'mhtdhhw olsym', 'amdthuw ylqwn', 'matywaw olycn', 'matyyyw olekn'}, {'metthww olsyn', 'mhddhew olqcn', 'amtyheh ilqwn', 'muttyyw olssm', 'mothhyw olaxn'}, {'mawtewy oljin', 'maithuw olsyn', 'matdeww olqxn', 'maewtew olagn', 'nittehw losey'}, {'mewttew olgem', 'mattywy olxan', 'mttheow olcen', 'mittyaw olccn', 'amtthuy owzwn'}, {'madtwiw olhjn', 'mihtyew olkqn', 'matthii olssn', 'amtwehw awhen', 'mathhyy olshm'}, {'motthhh oljwn', 'mhwtheh olczn', 'maythuw olssn', 'mwatheh olxyn', 'amdthwe olwiw'}, {'mttheiw olcen', 'mottyyw olckn', 'mudtheh olhjn', 'mattwhh olxqn', 'ymtathe oywew'}, {'mattywh oljsn', 'medthiw olcon', 'muwthew olswn', 'mtatyey lhsan', 'motywew olekn'}, {'mawthhy oljxn', 'myathww oljin', 'maithyw olcen', 'amwthiw iyshn', 'meadtew olexn'}, {'mhtdhow olokn', 'mawdthe oljin', 'metthaw olswn', 'wtathey iywen', 'matywaw olqqn'}, {'amttwey oyqun', 'meadthe oljkn', 'motteyw olukn', 'madthue ollxn', 'motthww olcen'}, {'mhtyyew olkem', 'metthye olkkn', 'mhwthey olghn', 'wathhwe yljey', 'mwtthiw olcen'}, {'mwtthwe olszm', 'madyhiw olzhn', 'myttehw oljkn', 'aumttew luseh', 'maytthw olcen'}, {'mottyiw olexn', 'mtadhiw olesy', 'mahthea olcen', 'matteoh olwkn', 'mettihw olxhn'}, {'mutthwh olkem', 'methhey olsmh', 'matthoo olssn', 'mahthye olssm', 'amttyww loqen'}, {'maothyw olsyn', 'muatyew olcun', 'moaytew olhzn', 'mtatyeh ulhan', 'maddthe olygn'}, {'mawttiw oljkn', 'madthhe olzsn', 'amytehw wlqwn', 'mmaytew olexn', 'mmtthew olcen'}, {'mudthuw olegn', 'miwtyew olljn', 'ntathey iwseh', 'maithww olssn', 'mottuhw olqjn'}, {'mahthey olssn', 'mawthhe oljxn', 'mahtwhw olqhn', 'amdthiw ilsah', 'mytdyew olgsn'}, {'maathww olswn', 'wmtathe ulgem', 'mhtdheh olhkn', 'maittyw olhzn', 'mwttwhw olyqn'}, {'maethaw olssn', 'mhattiw olzxn', 'moadtew olzqn', 'mtathoy ilhwn', 'motyhhw olxin'}, {'mytthow olcen', 'madteww olucn', 'mawdthe olzcn', 'amththe hlesn', 'mththww olkqn'}, {'mtathay owkwn', 'mwtthwh olkyn', 'matwyyw olssm', 'maetheu olcen', 'mauttwe olqan'}, {'matdwyw olszm', 'maodthe olxqn', 'mmtthee olssn', 'htathuw loswn', 'mhtyyew olcon'}, {'amttwiw olwwe', 'maythew olcen', 'mitteiw olsqm', 'mottihw oluqn', 'mawteuw olccn'}, {'mwadthe olgcn', 'matdhwe olxjn', 'mettehw oljzn', 'hadtehw elsww', 'matthah olswn'}, {'mottyey olkxn', 'matthyy olsyn', 'mtatyow ylgyn', 'mawteyw olkon', 'mohthhw olzjn'}, {'amttwiw yhxen', 'matthuh olssn', 'motwyew olygn', 'mwathey olykn', 'mhttwhw olojn'}, {'madwhiw olhxn', 'modthaw olqan', 'mmwthew olsyn', 'amtdhhw hywen', 'moadtew olqcn'}, {'mohdhew oljcn', 'mhtdwew oloqn', 'mahtheh olcen', 'matyweh olkon', 'wtathww ulhin'}, {'hmtthwe ylzyn', 'miattwe olhqn', 'maotheh olssn', 'mhttwyw oloxn', 'mittyey olekn'}, {'moythhw olgan', 'muttohw olsjm', 'hmtthwe ilceh', 'motthww olcen', 'muttehw olkem'}, {'matywyw olecn', 'maotthw olssn', 'matwhwe oljem', 'wettehw iycen', 'myattuw olxwn'}, {'ytathuw ylsyw', 'motywew olhgn', 'mwathww oljkn', 'mahthwh olagn', 'mmtthuw olsyn'}, {'amtwthe awgen', 'mauthee olcen', 'myadthe olgqn', 'mattyyh olwcn', 'motyhaw olxqn'}, {'mwttwhw oljgn', 'modthww olqin', 'mottihw olgqn', 'mahthuw olswn', 'mtethwe hlyin'}, {'matthei olssn', 'mottyhw olscm', 'midtyew olqon', 'yattehh ywjen', 'matweuw olcjn'}, {'mutdheh olkxn', 'mhtdhhw oluqn', 'matthwy olsyn', 'naythwe hlyhn', 'meyttew olegn'}, {'metthow olcen', 'mitwyew olcem', 'mawteiw oljon', 'mtoatew iwseh', 'madwthe olxgn'}, {'maatthw olsyn', 'mohdhew ollcn', 'mhwthww olsmo', 'aimtthe owhwn', 'madteyw olchn'}, {'amtthhy hosyn', 'mmithew olswn', 'maottow ollkn', 'mettwey olgxn', 'meattaw oljan'}, {'maadtew olxgn', 'amtyhow wwsyn', 'mitthwe olycn', 'maotheh olcen', 'mahthwa olxjn'}, {'matdohw oljem', 'hathhwe wlhey', 'moaytew olqhn', 'mottyow olcun', 'maatthe olswn'}]
+matthew olsen       : DEBUG: Additional rule variations: {'MO', 'olsen    matthew'}
+matthew olsen       : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 7
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "matthew olsen": {
+            "first_name": {
+                "score": 0.766,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.21999999999999997,
+                        "orthographic": 1.0,
+                        "combined": 0.61
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "muthhuw",
+                            "phonetic_score": 0.15170451356295425,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "madtyhw",
+                            "phonetic_score": 0.15170451356295425,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "maytwhw",
+                            "phonetic_score": 0.15170451356295425,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "maitheu",
+                            "phonetic_score": 0.6154043491282973,
+                            "orthographic_score": 0.7142857142857143,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "amdthhw",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.4285714285714286,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.811052446238393,
+            "final_score": 0.7821752903240478,
+            "variation_count": 7,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 2,
+            "last_name": {
+                "score": 0.868,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.5599999999999999,
+                        "orthographic": 1.0,
+                        "combined": 0.78
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.26,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "olgxn",
+                            "phonetic_score": 0.4900377682834022,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "olcan",
+                            "phonetic_score": 0.4900377682834022,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "olhjn",
+                            "phonetic_score": 0.4900377682834022,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "olswn",
+                            "phonetic_score": 0.9642203309118388,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "wwjen",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "MO"
+                        ],
+                        "name_parts_permutations": [
+                            "olsen    matthew"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "MO": [
+                            "shorten_name_to_initials"
+                        ],
+                        "olsen    matthew": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.6666666666666666,
+        "by_name": {
+            "matthew olsen": {
+                "score": 0.6666666666666666,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_initials": [
+                            "MO"
+                        ],
+                        "name_parts_permutations": [
+                            "olsen    matthew"
+                        ],
+                        "duplicate_random_letter_as_double_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "MO": [
+                            "shorten_name_to_initials"
+                        ],
+                        "olsen    matthew": [
+                            "name_parts_permutations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.2857142857142857,
+                    "overall_compliant_unique_variations_count": 2,
+                    "expected_compliant_variations_count": 2,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.6666666666666666,
+                    "num_target_rules_met": 2,
+                    "total_target_rules": 3,
+                    "score": 0.6666666666666666
+                }
+            }
+        }
+    },
+    "average_quality": 0.7821752903240478,
+    "final_reward": 0.7821752903240478
+}
+matthew olsen       : DEBUG: ----------------------------------------------------------------------------------------------------

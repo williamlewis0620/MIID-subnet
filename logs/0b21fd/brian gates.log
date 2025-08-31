@@ -1,0 +1,1548 @@
+brian gates         : INFO: Generating variations for brian gates
+brian gates         : INFO: ----------------------------------------------------------------------------------------------------
+brian gates         : INFO: Effective rules: ['shorten_name_to_abbreviations']
+brian gates         : INFO: ----------------------------------------------------------------------------------------------------
+brian gates         : INFO: Min Required Rule Variation Set: [{'b gate', 'b g', 'br gat', 'bri gat', 'bria g', 'bri g', 'br g', 'br gate', 'bria ga', 'bri gate', 'b ga', 'b gat', 'bri ga', 'bria gat', 'bria gate', 'br ga'}]
+brian gates         : INFO: ----------------------------------------------------------------------------------------------------
+brian gates         : INFO: First name: brian
+brian gates         : INFO: Last name: gates
+brian gates         : INFO: ----------------------------------------------------------------------------------------------------
+brian gates         : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (0, 8), (1, 7), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8), (0, 11), (1, 10), (2, 9)]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 1 / 21: rule_count/nonrule_count: 0/1------------------------------
+brian gates         : DEBUG: O: [0, 1, 0, 0]
+brian gates         : DEBUG: P: [0, 1, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [1, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 1, 0, 0]
+brian gates         : DEBUG: P: [0, 1, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [1, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.50491122]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 2 / 21: rule_count/nonrule_count: 0/2------------------------------
+brian gates         : DEBUG: O: [0, 2, 0, 0]
+brian gates         : DEBUG: P: [0, 2, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [2, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 2, 0, 0]
+brian gates         : DEBUG: P: [0, 2, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [2, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.51814369]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 3 / 21: rule_count/nonrule_count: 0/3------------------------------
+brian gates         : DEBUG: O: [0, 3, 0, 0]
+brian gates         : DEBUG: P: [0, 3, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [3, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 3, 0, 0]
+brian gates         : DEBUG: P: [0, 3, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [3, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.53407365]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 4 / 21: rule_count/nonrule_count: 0/4------------------------------
+brian gates         : DEBUG: O: [0, 4, 0, 0]
+brian gates         : DEBUG: P: [0, 4, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [4, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 4, 0, 0]
+brian gates         : DEBUG: P: [0, 4, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [4, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.55325102]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 5 / 21: rule_count/nonrule_count: 0/5------------------------------
+brian gates         : DEBUG: O: [0, 5, 0, 0]
+brian gates         : DEBUG: P: [0, 5, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [5, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 5, 0, 0]
+brian gates         : DEBUG: P: [0, 5, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [5, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.56]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 6 / 21: rule_count/nonrule_count: 1/4------------------------------
+brian gates         : DEBUG: O: [0, 4, 0, 0]
+brian gates         : DEBUG: P: [0, 4, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [4, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 4, 0, 0]
+brian gates         : DEBUG: P: [0, 4, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [4, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.75325102]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 7 / 21: rule_count/nonrule_count: 0/6------------------------------
+brian gates         : DEBUG: O: [0, 6, 0, 0]
+brian gates         : DEBUG: P: [0, 6, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [6, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 6, 0, 0]
+brian gates         : DEBUG: P: [0, 6, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [6, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.56]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 8 / 21: rule_count/nonrule_count: 1/5------------------------------
+brian gates         : DEBUG: O: [0, 5, 0, 0]
+brian gates         : DEBUG: P: [0, 5, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [5, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 5, 0, 0]
+brian gates         : DEBUG: P: [0, 5, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [5, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.76]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 9 / 21: rule_count/nonrule_count: 0/7------------------------------
+brian gates         : DEBUG: O: [0, 7, 0, 0]
+brian gates         : DEBUG: P: [0, 7, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [7, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 7, 0, 0]
+brian gates         : DEBUG: P: [0, 7, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [7, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.5487216]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 10 / 21: rule_count/nonrule_count: 1/6------------------------------
+brian gates         : DEBUG: O: [0, 6, 0, 0]
+brian gates         : DEBUG: P: [0, 6, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [6, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 6, 0, 0]
+brian gates         : DEBUG: P: [0, 6, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [6, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.76]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 11 / 21: rule_count/nonrule_count: 0/8------------------------------
+brian gates         : DEBUG: O: [0, 8, 0, 0]
+brian gates         : DEBUG: P: [0, 8, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [8, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 8, 0, 0]
+brian gates         : DEBUG: P: [0, 8, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [8, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.53031122]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 12 / 21: rule_count/nonrule_count: 1/7------------------------------
+brian gates         : DEBUG: O: [0, 7, 0, 0]
+brian gates         : DEBUG: P: [0, 7, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [7, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 7, 0, 0]
+brian gates         : DEBUG: P: [0, 7, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [7, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.7487216]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 13 / 21: rule_count/nonrule_count: 0/9------------------------------
+brian gates         : DEBUG: O: [0, 9, 0, 0]
+brian gates         : DEBUG: P: [0, 9, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [9, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 9, 0, 0]
+brian gates         : DEBUG: P: [0, 9, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [9, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.51501836]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 14 / 21: rule_count/nonrule_count: 1/8------------------------------
+brian gates         : DEBUG: O: [0, 8, 0, 0]
+brian gates         : DEBUG: P: [0, 8, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [8, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 8, 0, 0]
+brian gates         : DEBUG: P: [0, 8, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [8, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.63031122]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 15 / 21: rule_count/nonrule_count: 2/7------------------------------
+brian gates         : DEBUG: O: [0, 7, 0, 0]
+brian gates         : DEBUG: P: [0, 7, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [7, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 7, 0, 0]
+brian gates         : DEBUG: P: [0, 7, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [7, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.7487216]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 16 / 21: rule_count/nonrule_count: 0/10------------------------------
+brian gates         : DEBUG: O: [0, 10, 0, 0]
+brian gates         : DEBUG: P: [0, 10, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 10, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [10, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 10, 0, 0]
+brian gates         : DEBUG: P: [0, 10, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 10, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [10, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.50231512]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 17 / 21: rule_count/nonrule_count: 1/9------------------------------
+brian gates         : DEBUG: O: [0, 9, 0, 0]
+brian gates         : DEBUG: P: [0, 9, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [9, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 9, 0, 0]
+brian gates         : DEBUG: P: [0, 9, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [9, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.61501836]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 18 / 21: rule_count/nonrule_count: 2/8------------------------------
+brian gates         : DEBUG: O: [0, 8, 0, 0]
+brian gates         : DEBUG: P: [0, 8, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [8, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 8, 0, 0]
+brian gates         : DEBUG: P: [0, 8, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [8, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.63031122]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 19 / 21: rule_count/nonrule_count: 0/11------------------------------
+brian gates         : DEBUG: O: [0, 11, 0, 0]
+brian gates         : DEBUG: P: [0, 11, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 11, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [11, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 11, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 11, 0, 0]
+brian gates         : DEBUG: P: [0, 11, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 11, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [11, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 11, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.49176299]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 20 / 21: rule_count/nonrule_count: 1/10------------------------------
+brian gates         : DEBUG: O: [0, 10, 0, 0]
+brian gates         : DEBUG: P: [0, 10, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 10, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [10, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 10, 0, 0]
+brian gates         : DEBUG: P: [0, 10, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 10, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [10, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.60231512]
+brian gates         : INFO: ------------------------------Trying rule_count_pair 21 / 21: rule_count/nonrule_count: 2/9------------------------------
+brian gates         : DEBUG: O: [0, 9, 0, 0]
+brian gates         : DEBUG: P: [0, 9, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+brian gates         : DEBUG: [2, 3, 0]
+brian gates         : DEBUG: [52, 31, 0]
+brian gates         : DEBUG: [181, 66, 0]
+brian gates         : DEBUG: [42, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [9, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: brian, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: brian, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: O: [0, 9, 0, 0]
+brian gates         : DEBUG: P: [0, 9, 0, 0]
+brian gates         : WARNING: Remains: 0
+brian gates         : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+brian gates         : DEBUG: [6, 4, 0]
+brian gates         : DEBUG: [94, 29, 0]
+brian gates         : DEBUG: [432, 48, 0]
+brian gates         : DEBUG: [500, 20, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [9, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0]
+brian gates         : DEBUG: final:
+brian gates         : DEBUG: name: gates, l_level: 0
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 1
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: name: gates, l_level: 2
+brian gates         : DEBUG: --------------------------------------------------
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+brian gates         : DEBUG: scores: [0.61501836]
+brian gates         : DEBUG: ----------------------------------------------------------------------------------------------------
+brian gates         : DEBUG: Best score achieved: 0.7600000000000001
+brian gates         : DEBUG: Best selected: 1/5
+brian gates         : DEBUG: Rule variations: [{'b gate', 'b g', 'br gat', 'bri gat', 'bria g', 'bri g', 'br g', 'br gate', 'bria ga', 'bri gate', 'b ga', 'b gat', 'bri ga', 'bria gat', 'bria gate', 'br ga'}]
+brian gates         : DEBUG: Nonrule variations: [{'bruyn gttys', 'brnaw gteas', 'bwran ggtez', 'brrwn gatsy', 'brnaa gudes'}, {'brnnn gatze', 'birin gatwz', 'brown gadds', 'branw gttez', 'bruyn gtues'}, {'brwwn gados', 'brnau gwtus', 'biran gaids', 'berin gadus', 'brrwn gatsu'}, {'branw gteas', 'burin gadez', 'brrrn ggtys', 'bairn gtees', 'bruwn gadds'}, {'bruyn gatzi', 'brany gttez', 'brynn gdies', 'beirn gttws', 'brewn gtesy'}, {'brown gatsw', 'brywn gadds', 'brnay gwtus', 'bairn gtesy', 'boirn gtesw'}, {'brwwn gteis', 'barin ggtas', 'bruyn gatsa', 'brinw gdies', 'brnnn gtesu'}, {'birin gatzu', 'bryyn gadys', 'biran gtues', 'brnnn gadis', 'buran gadas'}, {'bwrin gadys', 'byrin ggtws', 'brewn gteso', 'bruyn gtese', 'branw gatsy'}, {'brnae gados', 'buran gwtys', 'burin gttws', 'brrrn ggtas', 'barin gteos'}, {'brayn gtews', 'bwran gadss', 'brwnn gaeds', 'broyn gties', 'brrrn gttws'}, {'beran gadws', 'brnaw ggdes', 'byrin gaods', 'boirn gadez', 'brnau ggtus'}, {'brayn gadus', 'birin gauds', 'boran gtesu', 'beran godes', 'bairn gatsa'}, {'branw gatzw', 'buran gatsi', 'beran ggtws', 'baran gteso', 'brnia ggdes'}, {'bwran gteis', 'briny gdoes', 'biirn gddes', 'brrnn ggtos', 'brywn gatse'}, {'brnaa gwtis', 'birin gwtos', 'brayn gatzi', 'brnaw gadis', 'brnae gwtws'}, {'biarn gatcy', 'baran gatzo', 'borin ggtas', 'bryyn gatsw', 'boirn gtehs'}, {'branw gatzy', 'broyn ggtas', 'bwran gaids', 'brwwn gadys', 'brnao gtehs'}, {'byrin ggtos', 'bruwn gwtez', 'brany gaads', 'brrrn gteos', 'beran gadds'}, {'brrwn gwtas', 'brnia gotys', 'branw gwtws', 'bruwn gties', 'brown gatzy'}, {'birin gadez', 'brnae gtoes', 'bruyn gwtos', 'brnay gwtez', 'brayn ggtas'}, {'brown gatsu', 'barin gwtss', 'brynn gwtus', 'bryyn gaids', 'brrnn gteos'}, {'brayn gtaes', 'brown gdees', 'bruyn gatza', 'bruwn gdoes', 'brywn ggtus'}, {'barin gatci', 'beirn gtesw', 'brayn gayds', 'brrnn gatsy', 'byrin gttys'}, {'biarn gutws', 'brwwn gteys', 'brrnn ggtos', 'brnae gtesu', 'bruyn gtues'}, {'birin gatza', 'brnai gdues', 'burin gadus', 'brynn gwtws', 'briny gatcy'}, {'baran gatzy', 'barin gatce', 'bruyn gteus', 'brown ggdes', 'byrin gtaes'}, {'baran gaods', 'biarn gahds', 'borin ggtas', 'beran gwtas', 'brnaw gadis'}, {'bwran gttws', 'briny gwdes', 'barin gatzy', 'buirn ggtas', 'byrin gtees'}, {'brnnn ggtys', 'broyn gtesy', 'bruyn gatci', 'byrin gwtos', 'biirn gttis'}, {'brany gados', 'bruwn gtoes', 'byrin ggdes', 'bryyn gatzy', 'brnaa gatci'}, {'brrnn gaeds', 'brryn gttez', 'brany gwtos', 'brnaw gatwz', 'beran gteys'}, {'brayn gatcy', 'broyn gayts', 'bairn gadas', 'brnau gadss', 'biirn gwtos'}, {'birin gatcy', 'beirn gaods', 'brnay gteos', 'brrrn gtesi', 'barin gaids'}, {'brinw gttas', 'brynn gttis', 'biarn gteas', 'brwyn gttus', 'bwrin gatsy'}, {'biirn gotys', 'brnaa gatzy', 'boirn gadus', 'berin gatsy', 'brrnn gauds'}, {'boirn gttas', 'brown gwtis', 'brayn ggtis', 'bruyn gatzw', 'buran gadus'}, {'briny gwtts', 'brnau gdues', 'bairn gatce', 'brnaa gtaes', 'bwrin ggtus'}, {'brnae ggtys', 'bruwn gwtss', 'brnaa ggdes', 'brown gatzi', 'boran gayts'}, {'borin gtesi', 'brown gtoes', 'boirn gatce', 'barin gtesa', 'brrrn gddes'}, {'biirn gadds', 'brany gaids', 'brnai gotws', 'beirn gteso', 'baran gttis'}, {'briny gwtos', 'brnaw gddes', 'berin ggdes', 'biran gteys', 'birin gadws'}, {'brnai gatyz', 'beran gtess', 'boran gatse', 'brrwn gteso', 'branw gatwz'}, {'brywn ggtis', 'boran gutys', 'brnnn gtesa', 'bruyn gatzy', 'brown gtews'}, {'brnai gatcy', 'brnnn ggtez', 'bryyn gwtss', 'brrwn gteso', 'byrin gaeds'}, {'biirn ggtws', 'bruwn gtews', 'brrnn gwtys', 'brryn gdaes', 'brwwn ggtis'}, {'brrrn ggtos', 'brnia gttis', 'boirn ggtas', 'buirn gtees', 'brwyn gatsa'}, {'brnao gtess', 'brwyn gatse', 'byrin gtesw', 'brnah gatsu', 'bwran gttez'}, {'brnao gatsi', 'brnai gwtis', 'bwran ggtos', 'brewn gadss', 'bryyn gtoes'}, {'brrnn gtehs', 'bbirn gatzy', 'brwyn gwtws', 'brnay gdoes', 'brinw gtoes'}, {'brynn gwtys', 'brewn gties', 'bbirn gttos', 'brnia gaids', 'brayn gtees'}, {'beran gadws', 'biirn gutws', 'brryn gdoes', 'bruyn ggdes', 'brnah gteos'}, {'biirn gdaes', 'borin gawds', 'burin gayds', 'bruwn gtesu', 'buran gwtss'}, {'breyn gadds', 'briny gttys', 'brnao gteos', 'bwran gutws', 'bbirn gatsi'}, {'brayn gtess', 'berin gdaes', 'boran gatse', 'brryn gwtys', 'bwran gatsy'}, {'boirn gtesa', 'branw gteys', 'brnau gaads', 'bruyn gadas', 'brnia gtess'}, {'brnae ggtus', 'brnaa gttez', 'breyn gayts', 'briny gwtws', 'burin gdies'}, {'bruyn gawds', 'brnnn gadds', 'brewn gados', 'bwrin gdoes', 'birin gatsi'}, {'brwwn gddes', 'briny gadws', 'brewn gatce', 'brwyn gtoes', 'buirn gwtws'}, {'brynn gatwz', 'brewn godes', 'brnnn gatsy', 'brnia gatci', 'bwrin gtues'}, {'baran gttos', 'breyn gatyz', 'bryyn gteas', 'byran gtesy', 'brnae ggtez'}, {'baran ggtws', 'bwrin gatzw', 'brnae godes', 'byrin gotys', 'bbirn gties'}, {'burin gddes', 'brwnn gatce', 'briny gatwz', 'biarn gtees', 'brnia gtesa'}, {'brayn gttis', 'brrnn gwdes', 'barin gatsi', 'breyn gudes', 'brnai gaids'}, {'brnah gwtas', 'boirn gaeds', 'brnay gaids', 'baran gatyz', 'breyn gahds'}, {'brnai gawds', 'broyn gtaes', 'brwyn gwtos', 'briny gaods', 'brayn ggtus'}, {'biirn gdies', 'brown gadds', 'brnau gwtss', 'biran gteis', 'berin gudes'}, {'brnao gaads', 'biran gatze', 'biarn gtess', 'bryyn gatza', 'bairn gatsa'}, {'bruwn gwtts', 'brnnn gadws', 'baran gatsi', 'branw gttys', 'brnaw gadas'}, {'bairn ggtys', 'biirn gadss', 'brnai gdoes', 'brnia gadds', 'biarn gatsu'}, {'byrin ggtos', 'brnaa gttis', 'brnah gatze', 'beirn ggtws', 'bairn gtesu'}, {'burin gwtws', 'brwwn gwtts', 'brany gadez', 'bairn ggtez', 'bryyn ggtws'}, {'brynn gwtez', 'brown gatse', 'boran gtees', 'brnae ggdes', 'brayn gatsi'}, {'breyn gtesa', 'bruyn gudes', 'barin gwtus', 'brnay gotys', 'bryyn gayds'}, {'brnae gttez', 'brinw gatzy', 'burin gawds', 'birin gatcy', 'brnnn gties'}, {'brynn ggdes', 'branw gawds', 'brrnn gadds', 'biirn gdees', 'broyn gotws'}, {'buirn gatzi', 'borin ggtas', 'broyn gayds', 'brwnn gatsy', 'baran ggtws'}, {'briny gadis', 'brayn godes', 'boirn gatcy', 'branw gadas', 'beran gwtts'}, {'brnae gadez', 'berin gatce', 'brayn ggdes', 'byrin gatzw', 'bruwn gatyz'}, {'boirn gatzo', 'brown gaids', 'brnao gddes', 'bwran gteys', 'brrrn gatci'}, {'bruwn gatzi', 'burin gwtws', 'biran gatyz', 'brinw gwtts', 'brwwn gatso'}, {'boirn gtees', 'buirn gadis', 'bryyn gteys', 'brwwn gtews', 'barin gttws'}, {'bwrin gutws', 'brown gadws', 'baran ggtys', 'birin gtoes', 'beran gayts'}, {'brnau ggtws', 'brnao gdoes', 'brnai ggdes', 'brnnn gttis', 'byrin gdues'}, {'bruyn gutws', 'boran gtesw', 'brnae gwtts', 'burin gatza', 'brnao gadys'}, {'buirn gtues', 'bwran gteis', 'briny ggtas', 'berin gadss', 'brnaa gatzi'}, {'bwrin gties', 'buirn gutys', 'brryn gatsw', 'biarn ggtys', 'bryyn gteas'}, {'brnaa gtesi', 'brynn gatsw', 'brnnn gteso', 'brrrn gttas', 'brryn gtesw'}, {'berin gtesy', 'buirn gwtis', 'brnae ggtws', 'broyn gatze', 'bruyn ggtis'}, {'bwrin gahds', 'buirn gatsu', 'boran gatce', 'berin gdaes', 'brown gtesw'}, {'barin gaeds', 'bwran ggtos', 'brnao gttas', 'brrnn gwtus', 'berin gawds'}, {'bruyn gwtws', 'briny gatze', 'branw godes', 'brnay gwtos', 'boran gteys'}, {'boirn gotws', 'brryn gtesa', 'brnaw ggtos', 'broyn gawds', 'biarn ggtas'}, {'brryn gadys', 'brrnn gteus', 'borin gtehs', 'barin gatzy', 'berin ggtis'}, {'bbirn gatse', 'barin gtaes', 'bwrin gwtts', 'buirn gadez', 'buran gadus'}, {'brwwn gteso', 'brrnn gdues', 'biirn gahds', 'brnay gdaes', 'brany gteis'}, {'brwnn gadys', 'beirn gwtis', 'broyn gttos', 'breyn gddes', 'beran ggtez'}, {'brynn gadez', 'brnnn gttus', 'brryn gatsu', 'brnah gatcy', 'barin gatsy'}, {'burin gatso', 'brown ggtws', 'bwran gadus', 'brinw ggtis', 'brynn gttas'}, {'biarn gatso', 'brrnn gtesu', 'brrwn gddes', 'brwnn gayts', 'brewn gttez'}, {'brnnn ggtus', 'brrnn gaeds', 'brnaw gatzu', 'borin gatce', 'brany gtesw'}, {'buirn gutys', 'buran gatsi', 'bbirn gttez', 'brryn gauds', 'brnia gatcy'}, {'brwnn gtaes', 'byrin gatsu', 'beirn gtesi', 'brewn gwtis', 'brinw gotys'}, {'brnaa gwtez', 'brnah gudes', 'bwrin gaads', 'brryn gtoes', 'brayn gtesa'}, {'boirn gtees', 'brnia gadws', 'breyn gatsa', 'byran gttus', 'bwrin gutys'}, {'brnah gatza', 'bruyn gatzw', 'bwrin gatzu', 'brywn ggtez', 'bryyn gwtis'}, {'birin gadez', 'brrnn gaods', 'breyn gties', 'brywn ggtos', 'brnnn gatse'}, {'boirn gatzu', 'brynn gwtos', 'brwyn gatzi', 'brown gdees', 'brany gutys'}, {'brryn gayds', 'baran gauds', 'beirn gatzi', 'brnaw gttas', 'brnai ggtez'}, {'brnay gatsu', 'baran gaads', 'bruyn gdees', 'bruwn gatzo', 'brnai gwtys'}, {'brwnn gatzw', 'brnao gados', 'byrin gtesu', 'bryyn ggtws', 'bairn gdoes'}, {'brnaa gttus', 'brnah gatsa', 'bairn gauds', 'bruyn gatci', 'bruwn gtesw'}, {'bryyn gwtss', 'birin gttus', 'brayn gatse', 'brynn gtesy', 'brnae gttez'}, {'bruyn gwtis', 'brnaa gatze', 'brnay gtesi', 'broyn godes', 'bwrin ggtis'}, {'brnau gwtus', 'brrnn gdees', 'breyn gadis', 'boran gttez', 'baran gatzw'}, {'breyn gaids', 'byrin gdees', 'brown ggtys', 'boirn gttez', 'brewn gadss'}, {'brrwn gteis', 'brrnn gatse', 'bbirn gatwz', 'beran gdues', 'baran gteys'}, {'boran gwtts', 'byran gadez', 'bwran gayds', 'bruyn gteus', 'buirn gwtos'}, {'bbirn gttas', 'brrwn gatwz', 'beran gwtys', 'brwwn gatsy', 'brany gtesw'}, {'brnau gwtos', 'baran gatcy', 'bbirn gatsa', 'brayn ggtus', 'brewn gdoes'}, {'byrin gdaes', 'brnai gotys', 'brrnn ggdes', 'byran gaods', 'brynn gteas'}, {'bwran ggtus', 'brwwn gwdes', 'birin gties', 'brnaa gwtys', 'beirn gwtos'}, {'brnah gaods', 'brnae gatzw', 'byrin gtess', 'brown gties', 'bairn gatzy'}, {'brnao gatci', 'bryyn gatzo', 'brnia gatsu', 'bwrin gadas', 'brrwn gatza'}, {'brnay gatsy', 'brinw gutys', 'brywn gayts', 'brrnn gatzw', 'breyn gtese'}, {'burin gutys', 'berin ggtys', 'briny gdies', 'buran gatce', 'brnay gatwz'}, {'brnau gwtas', 'brnao gatza', 'brnah ggtws', 'brrrn gttws', 'barin gawds'}, {'broyn gtees', 'brinw gttez', 'bairn gudes', 'boirn gauds', 'byran gtehs'}, {'brnau gaads', 'brinw ggdes', 'broyn gatyz', 'brown gatsa', 'brnnn gayts'}, {'brewn gdees', 'byrin gwtws', 'brnnn gtaes', 'brnaw gwtus', 'burin gdoes'}, {'biran gttus', 'bairn gudes', 'brnnn gtees', 'briny gatsu', 'brayn gutys'}, {'branw gties', 'brnao gahds', 'buran gteso', 'brinw gwtus', 'bryyn gaads'}, {'biarn gtaes', 'brany gwtez', 'bairn gteas', 'buran gteis', 'baran gdues'}, {'bryyn gudes', 'byrin gatci', 'bbirn gaeds', 'boirn gttez', 'bwrin gdoes'}, {'brown gteys', 'boran gteso', 'buirn gtesy', 'brrwn gtoes', 'breyn gatsy'}, {'briny gadys', 'byrin gatzu', 'burin gadis', 'boran ggtws', 'beirn gaads'}, {'berin gaids', 'briny gteus', 'boran gaeds', 'biarn gaods', 'brnia gatsw'}, {'byrin ggtos', 'brany gadas', 'brnai gtesi', 'brnaa gaeds', 'branw gtees'}, {'burin ggtas', 'birin gtues', 'brown gadas', 'brnaw gttas', 'breyn gtess'}, {'brnaw gudes', 'brewn gwtos', 'bwrin gauds', 'brinw gatsy', 'brnnn gatza'}, {'brinw ggdes', 'brnaw gatso', 'brynn gaads', 'bruyn gatzo', 'boirn gaids'}, {'boran gatci', 'branw gadus', 'bwrin gaeds', 'brwyn gwtss', 'brewn gados'}, {'brnai gatsw', 'byran gados', 'brewn gatse', 'brrrn gwtts', 'bairn gatcy'}, {'brnao ggtos', 'brnaw gadus', 'bbirn ggtws', 'broyn ggdes', 'brnay gatse'}, {'biirn gwtas', 'brnnn gatzy', 'brnao ggdes', 'brewn gatse', 'brinw gttez'}, {'barin gatce', 'berin gatyz', 'biirn gatsi', 'brnay gdees', 'brnai gatzy'}, {'brown gatsw', 'borin gadis', 'brayn gdies', 'brnao gteso', 'bbirn gayts'}, {'brwwn gttws', 'bryyn gatzo', 'baran gaads', 'brnnn gddes', 'broyn gteos'}, {'byran gwtos', 'brrnn gdees', 'bwran gatso', 'brown gadds', 'brany gteas'}, {'bbirn gadds', 'briny gayts', 'brnau ggtys', 'brnai gttis', 'burin gtesy'}, {'brrnn gteis', 'brnae gtews', 'brnah gtaes', 'byrin gdees', 'biarn gutys'}, {'brnai gawds', 'bruyn gauds', 'berin gteis', 'brnao gatsu', 'biirn gados'}, {'briny gatyz', 'brayn ggtos', 'bruyn gatzu', 'brnay gtesu', 'broyn gdies'}, {'boirn gtesi', 'byran gatyz', 'buran gtoes', 'bwran gatza', 'brnah gatwz'}, {'brwnn gadws', 'brnae gtesy', 'bairn gaids', 'breyn gteas', 'barin gatso'}, {'barin gwtts', 'birin gotys', 'byrin gteso', 'borin gayds', 'bruwn gtesu'}, {'brewn gtesi', 'bwrin ggtos', 'brrnn gatso', 'bruyn gtoes', 'brrwn gatzy'}, {'bryyn gtesa', 'brnia gatsi', 'brayn gwtys', 'brnae gudes', 'brnaa gahds'}, {'boirn gaads', 'bruyn gatze', 'brown gawds', 'brany gatzu', 'birin gtesa'}, {'brnao gtese', 'bwran gdies', 'brnia gados', 'brryn godes', 'brynn gayds'}, {'branw gteus', 'brnnn gwtys', 'brnia gtess', 'brnaa ggtus', 'berin gatsa'}, {'brayn ggtas', 'bruwn gwtts', 'biarn gatzy', 'barin gtaes', 'boirn gtesw'}, {'bruyn gatce', 'brnah gaods', 'brnay ggtas', 'buirn gahds', 'brrnn gatsw'}, {'borin gatzi', 'branw gttis', 'barin godes', 'berin gwtws', 'brnao gtesi'}, {'baran gadez', 'bwrin gwdes', 'biirn gtews', 'biran ggtas', 'brynn ggtys'}, {'brnaw gteso', 'bruwn gadws', 'brnai ggdes', 'brrnn gwtys', 'brown gtesw'}, {'breyn gwtus', 'bwran gtess', 'byran gteis', 'briny gttis', 'brwyn gaids'}, {'branw gatzu', 'byran gteis', 'brnae gatsu', 'baran gwdes', 'brnau gatsy'}, {'brrnn gtees', 'brnnn gwdes', 'byrin godes', 'buran gtaes', 'broyn gaads'}, {'brown gadws', 'briny gatse', 'brnia gatzi', 'brnao gwtas', 'baran gatze'}, {'brnay gdoes', 'brown ggtys', 'brnao gauds', 'brinw gatwz', 'baran gdues'}, {'brnia gatsu', 'biran gdies', 'biarn gwtss', 'brryn gatse', 'burin gttos'}, {'brnnn gttus', 'barin gwtas', 'brnae godes', 'boran gtehs', 'bwran gadez'}, {'biarn gaods', 'bwran gadss', 'brynn gatci', 'brrrn gaids', 'brrnn gadus'}, {'brryn gtesi', 'brayn gaeds', 'breyn gaods', 'bruwn gteos', 'broyn gawds'}, {'brany gayds', 'brywn gdaes', 'beran gadez', 'barin gteos', 'brnau ggtus'}, {'barin gatzu', 'bruwn gdaes', 'brnaa gaids', 'briny gatso', 'brwnn gdies'}, {'briny ggtus', 'bruwn ggtas', 'brnah gadez', 'branw gwtws', 'brown gtews'}, {'bwran gadis', 'biirn gutws', 'brnao gahds', 'bruwn gdaes', 'bairn gwtts'}, {'boran gatsa', 'barin gauds', 'brewn gutys', 'brnia gadez', 'brwwn gdaes'}, {'brnau gawds', 'barin gatce', 'brywn gadys', 'bairn gtews', 'broyn gtehs'}, {'brayn gwtts', 'boran gwtas', 'brwyn gwtus', 'brnah gadss', 'buirn gwtos'}, {'brnay gddes', 'baran gadis', 'brwwn gadds', 'brnah gdees', 'broyn gatzi'}, {'biirn godes', 'brwyn ggtys', 'branw gatzw', 'bairn gutws', 'brywn gatzo'}, {'buirn gttys', 'brnaw gtees', 'brnnn gatsi', 'brrrn gddes', 'breyn gauds'}, {'bbirn gwtss', 'bwrin gwtas', 'bwran gtesy', 'biran gaeds', 'boran gatza'}, {'bairn ggtys', 'brewn gwdes', 'biran gttys', 'boirn gaods', 'brnau gadds'}, {'broyn gatci', 'berin ggtez', 'baran gdies', 'byran gaeds', 'brrwn gatyz'}, {'baran gatzu', 'barin gwtus', 'branw gatso', 'buran ggtis', 'brnai gatzy'}, {'buirn gaads', 'bruyn gauds', 'brwnn gatsu', 'burin gayts', 'bruwn gteso'}, {'bryyn gtesy', 'byrin gatsw', 'briny gatse', 'beran godes', 'brany gwtts'}, {'brnnn gteso', 'bryyn gatyz', 'bairn gtues', 'brnah gatcy', 'brwyn gadas'}, {'beran gadus', 'boirn godes', 'brnai gadss', 'brryn ggtus', 'bwrin gtesw'}, {'burin gadis', 'bairn gaods', 'brrnn gttis', 'berin gatzi', 'branw gados'}, {'biran ggtis', 'borin gatsw', 'brrnn gtesu', 'burin gwtis', 'brnah gteys'}, {'bbirn gteos', 'brnaw gttys', 'brnnn gatcy', 'brnay gaids', 'birin gahds'}, {'bruyn gtesi', 'burin gtoes', 'bryyn gdies', 'brynn gdees', 'brrrn gatse'}, {'brayn gtess', 'bwran gttos', 'broyn gatzo', 'brnao gayds', 'barin gttws'}, {'bbirn gatsi', 'brynn ggtis', 'brewn gdaes', 'brown gatzu', 'brryn gutws'}, {'buirn gttis', 'bbirn gdoes', 'bairn gayts', 'biran gadys', 'buran ggdes'}, {'boran gatzy', 'baran ggtys', 'beran gwtos', 'biarn ggtez', 'bruyn gatcy'}, {'biarn gauds', 'breyn gwtos', 'brnae gadds', 'brnay gtesy', 'brnao gadez'}, {'brwyn gatci', 'birin gttus', 'beirn gttws', 'bruyn gatzw', 'bruwn gties'}, {'brrrn gadds', 'bruyn gtesi', 'brwnn gotys', 'brrwn gttus', 'broyn gdoes'}, {'buirn gatzu', 'beirn gttws', 'bbirn gwtos', 'brnao gatzo', 'brwwn gayds'}, {'brwnn gatsi', 'baran gdaes', 'buran gayds', 'byran gwtus', 'brrrn gtesy'}, {'brnah gwtus', 'biirn gatse', 'bwran gatzy', 'bryyn gdues', 'boirn gtesw'}, {'birin gtesu', 'brwnn gttws', 'boirn gtoes', 'brryn gttys', 'bryyn gdees'}, {'breyn gdoes', 'briny ggtus', 'brnia gteis', 'byrin gwtss', 'brown gatzo'}, {'brnai gatyz', 'brnnn gtess', 'brywn gatzw', 'brown gadis', 'brnay gatzy'}, {'brynn gtees', 'brnah gdaes', 'brinw gatzu', 'bwrin gaeds', 'biarn ggtas'}, {'bwrin gahds', 'beran gotws', 'biarn gatce', 'brnaw gadds', 'brinw gteas'}, {'buirn gadas', 'brrwn gadis', 'branw gtues', 'boran gtesu', 'breyn gdaes'}, {'buirn gtesi', 'bairn gttys', 'beirn gotys', 'brnai gtesu', 'beran gtues'}, {'boran gtesy', 'brwwn gtoes', 'bbirn gatsw', 'borin gaads', 'biirn gtess'}, {'bwran gtesw', 'brwnn gtehs', 'brnae gdees', 'brywn gttus', 'byran gteus'}, {'brnah gutys', 'brrnn gdees', 'beran gadss', 'brnau gttys', 'boirn gudes'}, {'buirn gatwz', 'byrin gtesa', 'brnae gutys', 'brany gatzu', 'bairn gatsa'}, {'biarn godes', 'brwnn gadys', 'brnah gaids', 'buirn gatcy', 'brnaa gatzu'}, {'bwran ggtez', 'brnnn gtess', 'brryn gatsw', 'brwwn gatzi', 'birin gutys'}, {'brryn gayts', 'beirn gadds', 'brrrn gties', 'brnnn gadis', 'brnau gwtss'}, {'beirn gados', 'biirn gwtis', 'brany gtesi', 'biran gatci', 'bruwn gatze'}, {'boirn ggtos', 'broyn gtese', 'brnao gwtts', 'buirn gdies', 'bruwn godes'}, {'brnnn gadus', 'boran gwtts', 'brany gtese', 'brrnn gaads', 'brnai ggtis'}, {'brrnn gttas', 'brnay gatce', 'brrwn gatcy', 'bwran ggtis', 'brnaw gadss'}, {'berin gutys', 'brnae gtesw', 'baran ggtws', 'brwwn gatzi', 'bruyn gaads'}, {'breyn gawds', 'biarn gadez', 'brnia gatse', 'brnaa gwtss', 'brynn gttus'}, {'brany gatci', 'brrwn ggtos', 'briny ggtus', 'brnnn gtaes', 'burin gwtss'}, {'brwwn gtesu', 'brinw gwtas', 'burin gteso', 'brynn gatzu', 'bbirn gawds'}, {'barin gdoes', 'brrwn gttas', 'bairn gayts', 'bwrin gayds', 'brwwn ggtos'}, {'bwran gtoes', 'brywn gwtws', 'burin gayds', 'brnay gttys', 'buirn ggtez'}, {'bryyn gotys', 'buran gttas', 'biran gtesu', 'biirn gtaes', 'brwnn gauds'}, {'beran gatzi', 'bwran gteso', 'byrin gadds', 'burin gwtss', 'boirn gwtez'}, {'byran gtaes', 'brnay gaads', 'broyn gatsu', 'buirn gados', 'brrnn gdaes'}, {'brnay gatsu', 'burin gatzi', 'boran gtess', 'branw gwtos', 'bwrin gteys'}, {'briny gtess', 'brnae gahds', 'byran gayts', 'brnaw gttws', 'baran gteis'}, {'bbirn gatse', 'brrnn gtesi', 'biirn gteos', 'brnaa gdoes', 'birin gawds'}, {'brnia gadss', 'brany gtues', 'biran gteos', 'brayn gtese', 'brnnn gtews'}, {'buirn gatce', 'brrrn gtehs', 'brnau gtese', 'brwwn gteos', 'brnai gtess'}, {'brnao gddes', 'bruwn gtews', 'borin gttys', 'berin gadis', 'brnia gtues'}, {'broyn gatzu', 'barin gwtts', 'brwnn gayds', 'brnnn gatsw', 'biran gahds'}, {'bryyn gttus', 'boirn gteus', 'brynn gttez', 'bairn gtues', 'burin gtesu'}, {'brrwn gwdes', 'brnaa gttos', 'brynn gadis', 'brnia gtoes', 'brwwn ggtys'}, {'branw gadez', 'berin gttws', 'biarn ggtez', 'buirn gwdes', 'brnia gwtws'}, {'brnay gadys', 'birin gwtys', 'brrrn gatzo', 'byran gwtis', 'brnia gwtus'}, {'brnao gadss', 'bwran gdues', 'buran gdees', 'briny gatcy', 'boran gatzi'}, {'brrwn gatze', 'boran gatsw', 'brnao ggdes', 'brnay gadws', 'brnnn gaods'}, {'beirn gadus', 'breyn gadds', 'boran gteas', 'brewn gatzw', 'borin gddes'}, {'brnaa gatcy', 'brwyn gatsi', 'brnai gatsa', 'beran ggtws', 'brrwn gttas'}, {'birin gteis', 'bbirn gttez', 'beirn gotws', 'brnah gttus', 'brywn ggdes'}, {'bwran gwdes', 'borin gatzu', 'buran gttis', 'brnao ggtez', 'brnia gadas'}, {'buirn gauds', 'brrnn gatsu', 'brrrn gotws', 'bairn gatzy', 'barin gatsy'}, {'biran gttez', 'brwyn gaads', 'brinw gatci', 'brnae gatsy', 'bbirn gttis'}, {'brown gayds', 'burin ggtws', 'borin gadys', 'brnaw gayts', 'bruwn gttez'}, {'brynn gwtts', 'birin gwtas', 'biarn gotys', 'brrwn gatze', 'brywn gaods'}, {'broyn gatsa', 'brayn gtews', 'brnay gaads', 'brnai gteus', 'brnaw gwtis'}, {'breyn gaids', 'brwnn ggtys', 'brnau gayds', 'bwran gauds', 'brrrn gatze'}, {'brnau gatzy', 'brynn ggdes', 'byran ggtus', 'brinw ggtws', 'bbirn gadus'}, {'bryyn gttws', 'brnau gtees', 'brany gtesi', 'bwran gotws', 'brrnn gtoes'}, {'biarn gwtys', 'bbirn gwtos', 'barin gteas', 'brnay gwtez', 'bruyn gutys'}, {'bryyn gwtys', 'brwwn gwtus', 'brnia gaods', 'byrin ggtas', 'brewn gadds'}, {'boirn ggtas', 'bairn gwtus', 'byrin ggdes', 'biirn gtaes', 'birin gdees'}, {'bwran gatci', 'beran gwtws', 'beirn gttus', 'baran gatwz', 'byran gteso'}, {'brnae gatsw', 'briny gotws', 'brany gatso', 'breyn gtews', 'brnaw gwtts'}, {'brryn gdies', 'biirn gtesu', 'boran ggtas', 'bruyn gatzy', 'biran gtesw'}, {'brnia gotws', 'buirn gatzi', 'brrwn gados', 'brrrn gatso', 'bbirn ggtws'}, {'brrwn gaads', 'brnia gatse', 'branw gauds', 'broyn gddes', 'brynn ggtos'}, {'buran gatzw', 'beran gatsu', 'brrwn gddes', 'bruyn gatze', 'byrin gttis'}, {'brrnn gadss', 'brnay gutws', 'bbirn ggtws', 'berin gatso', 'brywn gaods'}, {'bwran gatcy', 'brnnn ggtys', 'brnay gayts', 'brrrn ggtws', 'buran gwtss'}, {'borin gados', 'brnai gttez', 'brnnn ggdes', 'baran gtese', 'brrwn gwtws'}, {'brnia gtesi', 'bairn gdees', 'brwnn gwtos', 'brwyn gatse', 'broyn gatzw'}, {'brrrn gdues', 'brrnn gadez', 'brwnn gatsi', 'biirn gwtis', 'brnao gteso'}, {'buran gties', 'berin gteis', 'brnao gdaes', 'biran gtese', 'boran gttez'}, {'brrwn ggtus', 'bruwn gwtez', 'biarn ggtez', 'brinw gddes', 'brwyn gteas'}, {'buirn gatsu', 'biran gatzi', 'brnao gwtts', 'brnia gaids', 'byran gdaes'}, {'brwnn ggtws', 'birin gatyz', 'barin gteso', 'brnaw gayts', 'bbirn gayds'}, {'brywn gdoes', 'brany gtews', 'biran gatse', 'bbirn gadss', 'boirn gudes'}, {'brnai gtees', 'brnay gttws', 'brrrn gatsi', 'byran gwtts', 'breyn gteso'}, {'branw gadws', 'brrwn gwtis', 'byrin gatzw', 'brwwn gtehs', 'bruyn gdaes'}, {'boirn gatsu', 'burin gatsy', 'biirn gtees', 'buran gadws', 'brwwn ggtws'}, {'buirn gadis', 'biran gtesa', 'brown ggtos', 'brnaa gdaes', 'baran gwtus'}, {'borin gaeds', 'brnaa gaads', 'buran gadez', 'bwrin gwdes', 'bryyn gatci'}, {'bryyn gteso', 'brrrn gwtys', 'bwrin gwtas', 'byran gteus', 'brnnn gatsu'}, {'bruwn gatci', 'bruyn gauds', 'brrnn gutws', 'brnay gtees', 'brayn gatsi'}, {'brown gatsi', 'baran gatcy', 'bbirn gutws', 'biran gutys', 'brrwn gaods'}, {'brany ggtus', 'byran gayds', 'breyn gadws', 'byrin gtese', 'biran ggtos'}, {'bairn gddes', 'brnaw gdoes', 'brnau gadss', 'brwnn gteso', 'brrnn gtesa'}, {'brnau gadis', 'brnia gttys', 'bwrin gdies', 'biran ggtos', 'borin gtesy'}, {'brnnn gudes', 'bryyn gadez', 'berin ggtez', 'brnia ggtus', 'brnao gutys'}, {'barin gatzu', 'boran gtesw', 'boirn gdees', 'brywn gttus', 'bbirn gadez'}, {'brrwn gatsi', 'bairn gadis', 'bruwn gatce', 'brnia gttys', 'brnau gdues'}, {'barin gadis', 'byrin gdues', 'borin gaads', 'burin gadws', 'brrnn gtoes'}, {'briny ggtis', 'brrwn gatcy', 'bwran gwtws', 'brywn gtesy', 'biarn gotws'}, {'bryyn gados', 'brany gtews', 'brnau ggtez', 'boirn gdees', 'brwyn ggtos'}, {'brewn gwtts', 'brywn gutws', 'bryyn gwtis', 'bwrin gadss', 'brnia ggtez'}, {'broyn gteus', 'brwwn gatci', 'brnaw gttys', 'brrrn gteso', 'boran gdaes'}, {'brrrn gudes', 'brwwn ggtez', 'buirn gwtas', 'brwnn gties', 'broyn gatza'}, {'brrwn gatsi', 'baran gttez', 'brrrn gttys', 'barin gteis', 'brryn gtews'}, {'boirn gdoes', 'boran gteas', 'biarn gatyz', 'brany gttys', 'brrnn gadds'}, {'brayn gadez', 'brany gdaes', 'brnaa gatse', 'brown gtaes', 'byrin gteus'}, {'biarn gtesa', 'brnnn gtesy', 'biran gtesw', 'brnau gteys', 'branw gdues'}, {'brany gwtys', 'brrrn gatso', 'buran gtesy', 'brnai gttis', 'branw gwtos'}, {'brrwn gatsa', 'bryyn gtess', 'beran gteas', 'brewn gwtas', 'buirn gttos'}, {'breyn ggtas', 'brnaw gteas', 'branw ggtos', 'bwran ggtis', 'brinw gtehs'}, {'brrrn gteys', 'brayn gtoes', 'bryyn ggtas', 'bwrin gttas', 'brynn gtaes'}, {'boirn gdies', 'brynn gties', 'brnnn gwtus', 'brwnn gwtez', 'brnau gadws'}, {'brnai gteas', 'brrnn gatce', 'broyn gadws', 'beran gtehs', 'brown gteos'}, {'brnay gatsu', 'brany gutws', 'brryn gtaes', 'biran gutys', 'bryyn gtese'}, {'brinw gatsw', 'brwnn gadez', 'byran gwtss', 'buran gtese', 'brany gdees'}, {'bruyn gttis', 'brnay ggtas', 'buirn gtaes', 'bruwn gudes', 'brrrn gddes'}, {'biran gwtos', 'brwwn gutys', 'brnai gadws', 'bwrin gtesy', 'beran gudes'}, {'byrin gatsw', 'bbirn ggtez', 'brown gwtus', 'byran ggtys', 'bruyn gdees'}, {'buran gayds', 'breyn gdies', 'brnae gdues', 'brown gados', 'boirn gteos'}, {'bwran gawds', 'brany ggtas', 'bbirn ggtys', 'barin gadus', 'brwwn gatsa'}, {'brwyn gatse', 'brany gttis', 'byran gadys', 'boran gwtis', 'barin ggtws'}, {'bryyn gteso', 'byrin gadys', 'brrnn gwdes', 'burin gatwz', 'brynn gayds'}, {'branw gties', 'brayn gadus', 'birin ggtys', 'brnae ggtis', 'brnnn gatza'}, {'bairn gatsi', 'borin gdaes', 'baran gteos', 'brynn gdies', 'buirn gatzi'}, {'brynn gwtys', 'brnia gtehs', 'brryn gayts', 'bryyn gteis', 'barin gados'}, {'bwran gawds', 'breyn gatze', 'borin gadys', 'byran gatzo', 'buirn gteis'}, {'brnaw gteys', 'buran gdaes', 'brnae gahds', 'biirn gttis', 'bruwn gatsa'}, {'brryn gtess', 'brrrn gwtws', 'byrin gwtus', 'bbirn gudes', 'brany gatse'}, {'beran gatcy', 'brnae gtesa', 'brnai gauds', 'brnaa gotws', 'brnia gatzw'}, {'brnai gatsi', 'brnah gtews', 'bruyn gaeds', 'brnay gtess', 'brwwn gwtez'}, {'breyn gwtts', 'brown gwtss', 'bwran gadss', 'brnnn gados', 'brnae gadis'}, {'baran gdaes', 'brnay ggtis', 'brnae gadas', 'brnaw gwdes', 'biarn gawds'}, {'bruyn gatce', 'boirn gawds', 'brnau gadus', 'brayn gttws', 'brnaw gteos'}, {'brown gayds', 'brewn gotws', 'bryyn ggtys', 'baran gadus', 'boran gatsy'}, {'byrin gatse', 'brynn gteys', 'brnaa gutws', 'borin gauds', 'branw gwtus'}, {'bbirn gatwz', 'bruwn gadas', 'brwyn gatsy', 'brnao gatzy', 'boran gatze'}, {'brayn gayts', 'byrin gudes', 'baran gttus', 'boran gtehs', 'brnnn gtesi'}, {'borin gatzi', 'brywn gtesa', 'brryn gtese', 'boran ggtas', 'brnae ggtos'}, {'bwran gwtts', 'brnaw gteas', 'breyn gadws', 'brnnn gtese', 'beirn gtues'}, {'brayn gttis', 'biran gadws', 'borin gadys', 'barin gatsi', 'brnae gayts'}, {'biarn ggtos', 'brayn gotws', 'biran ggtus', 'brwwn gatze', 'brinw gwtss'}, {'brnia gadss', 'brnay gatci', 'broyn gudes', 'brinw gttws', 'brnnn gadas'}, {'beirn gtesy', 'bwrin gadez', 'brnay ggtus', 'byran gudes', 'biran gatce'}, {'brewn gwtez', 'bruyn gttez', 'beirn gatzy', 'broyn gtoes', 'brrrn gttos'}, {'byran gtesa', 'brany gatci', 'brayn gdies', 'breyn gddes', 'beirn gttas'}, {'brayn gatyz', 'brryn gtess', 'brnao gaids', 'baran godes', 'beran gados'}, {'baran gwtos', 'brryn gayds', 'boran gatza', 'brrnn gatsy', 'bruyn godes'}, {'brnao ggtus', 'brrrn ggtez', 'biirn gadys', 'brnaw gayts', 'brnai gteso'}, {'bruyn gayts', 'bwrin ggtos', 'byrin gdoes', 'brnaw ggtus', 'brany gtess'}, {'berin gdaes', 'birin ggtws', 'bwran gteis', 'brwwn gtees', 'bairn ggtis'}, {'byran gatsw', 'bbirn gwtws', 'brnaw gatsa', 'brwwn gtesw', 'boirn gadus'}, {'brynn gadez', 'buran gtees', 'biarn gatsa', 'brnao gawds', 'baran gties'}, {'breyn gwtez', 'bryyn ggdes', 'byrin gdaes', 'brynn gwtos', 'biirn gutys'}, {'brnae gahds', 'beirn gatzi', 'birin gtesw', 'brnah gaeds', 'burin gteas'}, {'berin gdees', 'brnaw gteys', 'bwran gwtez', 'brewn gtesa', 'brnau gtesy'}, {'barin gadez', 'bryyn gtesa', 'brwyn gatso', 'brnai gtoes', 'brrnn gatsy'}, {'birin gatzu', 'brwnn gtoes', 'brywn gados', 'brany gatza', 'biarn gdues'}, {'bryyn gtesy', 'bairn gtese', 'biarn gahds', 'brrrn gatze', 'baran gteus'}, {'bwran gwtts', 'byrin gddes', 'bruwn gaids', 'brnay gteos', 'brrnn gatsy'}, {'brnao gadas', 'brown gatwz', 'biarn ggtos', 'brayn gwtez', 'brywn gtesy'}, {'buran gadds', 'borin gawds', 'brnae ggtas', 'burin gtews', 'birin gatze'}, {'briny gwtts', 'bruwn gauds', 'brnai gadys', 'brany gtesw', 'brryn gadez'}, {'brayn gatsy', 'brany gdees', 'bbirn gtews', 'branw gadds', 'biran gatzo'}, {'breyn gutws', 'brrwn gadss', 'biran gdees', 'brnaa gties', 'byran gatsu'}, {'baran gttos', 'bbirn gatsw', 'byrin gatse', 'birin gahds', 'bruyn ggtus'}, {'boirn gteus', 'brryn gdees', 'brnao gatcy', 'bryyn gatzy', 'broyn gwtez'}, {'brown gtesi', 'brrnn gatzo', 'buran gtese', 'biarn gatzw', 'brnay gadds'}, {'brnaw gtaes', 'bruwn gadys', 'brnah ggtys', 'brwwn gatzu', 'brywn gawds'}, {'bryyn gadys', 'brryn gatsw', 'brnia gadds', 'bwran gahds', 'bbirn gtesw'}, {'biirn ggtus', 'berin gtues', 'breyn ggtws', 'birin gotws', 'brown gteos'}, {'biarn godes', 'bwrin gwtys', 'beirn gteis', 'brnao gwtas', 'boirn gaids'}, {'beirn ggtys', 'barin gteus', 'briny gotys', 'brnai gdies', 'brnaw gadis'}, {'bryyn gados', 'boirn gutws', 'bwrin gwtys', 'broyn gtesy', 'brnae gadus'}, {'biran gdaes', 'beirn gteus', 'borin gwdes', 'brnae ggtis', 'breyn gteso'}, {'briny gtehs', 'breyn gtesy', 'bruwn gutws', 'brnay gtees', 'brnai gotws'}, {'biarn gadys', 'bwrin gaads', 'biran gadss', 'brywn gatzo', 'brnaa gatzi'}, {'brnia gtesy', 'brrrn gatzi', 'beran gdues', 'boran gatsu', 'breyn gtesi'}, {'brnah gatce', 'brnnn gttws', 'brrnn ggtos', 'brnaa gatso', 'burin gatza'}, {'brnao gtesw', 'biarn gwtas', 'biirn gttos', 'berin gadws', 'brany gdoes'}, {'bwran gatse', 'birin gttez', 'beran gatso', 'brwwn gwtss', 'brinw ggtis'}, {'branw gttas', 'brany ggtos', 'beirn gteus', 'brrnn gddes', 'bbirn gadez'}, {'byrin gties', 'brnay gwtts', 'burin gdies', 'boirn gaids', 'brwyn gttas'}, {'bryyn gutys', 'brinw gtesw', 'brynn ggtos', 'brnia gayts', 'brnaw gatsw'}, {'bairn gatsi', 'brryn gttis', 'brnai gauds', 'bwrin gotys', 'burin gawds'}, {'baran gddes', 'brany gadez', 'buran gaids', 'brnao gtesa', 'bruyn gtues'}, {'baran gatse', 'brywn gdaes', 'boran ggtys', 'biirn gtese', 'brrnn gddes'}, {'brwwn gudes', 'buran gawds', 'brwnn gatzw', 'boirn gteis', 'brnah gauds'}, {'bwran gatse', 'buirn gwtus', 'bwrin gttys', 'brayn gutws', 'brynn gatzi'}, {'brnnn ggtus', 'brnay gwtws', 'beirn gayts', 'bwrin gatce', 'brywn gttas'}, {'byrin gadys', 'brnaw gtesw', 'brwnn gtaes', 'biarn gttws', 'bruwn gatzw'}, {'bwrin gttez', 'briny ggtas', 'brnia gatcy', 'byran gutys', 'byrin gaeds'}, {'beirn ggtys', 'borin gteys', 'brnia gwtis', 'baran gties', 'broyn ggtos'}, {'brwnn gdues', 'brnau gtese', 'boran gatsy', 'brown gtehs', 'bairn gatza'}, {'buran gtese', 'brryn gttis', 'bwrin gatze', 'brown gutys', 'baran gatwz'}, {'bruyn gauds', 'biarn gtoes', 'brnnn gteus', 'biirn gtaes', 'brnai gwtos'}, {'boirn gteus', 'brayn ggtis', 'brrwn gttys', 'broyn gteso', 'bwran gtews'}, {'bruwn gatci', 'brayn gatsy', 'brrnn ggtas', 'bruyn gwtys', 'bwran gttys'}, {'brwyn gaeds', 'brown gaids', 'bwran gatsi', 'brnao gaods', 'brnai gwtos'}, {'brnay gdies', 'brywn gtues', 'brnaw gdaes', 'brinw gwtez', 'birin gadws'}, {'brnao gatsy', 'brnia godes', 'brinw gttus', 'baran gatwz', 'brnai gteso'}, {'brrwn gwtis', 'burin gdues', 'boran gatcy', 'buirn gwtts', 'brnnn gutws'}, {'broyn gatzu', 'brewn gatwz', 'boran gtese', 'biirn gteas', 'boirn gddes'}, {'beran gatsa', 'branw gatzu', 'brnau gwtis', 'brnah gadez', 'brnay gteas'}, {'brrnn gatze', 'brnia gtesw', 'brnai gtesu', 'beirn gatzi', 'byrin gados'}, {'brnah gwtis', 'biarn gatzy', 'brrwn gtesy', 'brnaa gwtos', 'brnia ggdes'}, {'boirn gadis', 'brnao gwtis', 'biarn gutws', 'brinw gtese', 'bruwn gtues'}, {'buran ggtus', 'beirn gatzy', 'brnae gtews', 'bbirn gdaes', 'brnaw gatsw'}, {'brnae gddes', 'biran gatzi', 'briny gaods', 'brrwn gtesi', 'brnaw gttws'}, {'bbirn gadys', 'beirn gtess', 'buran godes', 'brown gteso', 'baran gutys'}, {'brewn gatsu', 'bwran gwdes', 'bairn gotws', 'byran gttas', 'bruyn gdies'}, {'brinw ggtez', 'brrnn gdees', 'brewn gayds', 'burin gwtss', 'brnae gutys'}, {'buran gatsu', 'brayn godes', 'bbirn gttos', 'birin gatza', 'byran gwtts'}, {'buran gatsu', 'brwwn gtehs', 'bryyn gutys', 'bwran gtess', 'baran gteas'}, {'bruyn ggtws', 'brnaw godes', 'berin gatzy', 'bbirn gadus', 'bryyn gatci'}, {'brwwn gteso', 'brown gatza', 'buirn gwtez', 'brnnn gtesw', 'brewn gados'}, {'bbirn gteis', 'bruwn gteys', 'beran gteas', 'barin gwtas', 'brnah gttis'}, {'beirn gwdes', 'biirn ggtys', 'brinw gadss', 'brewn gayts', 'brnay gaeds'}, {'brnau gatsy', 'buran gttos', 'biarn gteys', 'buirn ggtws', 'brynn gteas'}, {'brnay gauds', 'bruyn gwtus', 'brown gteus', 'brinw gadus', 'biarn gatzu'}, {'beran gatsu', 'brrrn gttus', 'borin ggdes', 'breyn gauds', 'birin gtews'}, {'brnah ggdes', 'branw ggtus', 'brynn gtess', 'brnao gttus', 'brryn gadez'}, {'biirn gaods', 'brewn gahds', 'biran gayts', 'brwyn gados', 'brnaa ggtws'}, {'beirn gwdes', 'brwyn gutws', 'boran gatyz', 'brayn gadws', 'bwrin gwtws'}, {'briny gaods', 'brany gwtas', 'byrin gtehs', 'biarn gteso', 'brown gatzw'}, {'bbirn gtees', 'brryn gdues', 'brrnn gttys', 'briny gwtws', 'borin gtesy'}, {'beirn gwtas', 'bwrin gteas', 'brnia gttos', 'burin gttis', 'brayn gatzo'}, {'brwnn gatzw', 'barin gtoes', 'brnai gdues', 'baran gawds', 'bryyn gutws'}, {'brnay gwtys', 'burin gudes', 'branw gatsy', 'byran gotys', 'borin gaads'}, {'birin gtess', 'byran gatzu', 'boirn gwdes', 'brwyn gaods', 'brwwn gatse'}, {'barin gddes', 'brynn gaeds', 'brrnn gaods', 'brryn gtoes', 'buirn gwtos'}, {'brnao gteas', 'beirn gttez', 'burin gtesy', 'biarn gteys', 'brywn gttus'}, {'brnnn ggtos', 'brnaw gaads', 'broyn gtesy', 'barin gatzo', 'brnia gwtus'}, {'borin gtaes', 'byrin gwtas', 'bruwn gwtss', 'brnnn gteas', 'brnae gatzw'}, {'beirn gwdes', 'brnau gtews', 'brnaw gwtez', 'bwran godes', 'biarn gadus'}, {'brnao gatze', 'bbirn gtehs', 'birin gatce', 'boran gadys', 'buran gwtts'}, {'borin ggtos', 'bwran gwtez', 'bryyn gwtus', 'breyn gatse', 'brynn gatzo'}, {'bwrin gtesu', 'brnao gadws', 'bairn gteso', 'beirn gatsi', 'bwran gudes'}, {'brrwn gttus', 'biirn ggtos', 'brnau ggtws', 'boirn gatza', 'buirn gatzo'}, {'barin gwtus', 'boran gatci', 'brnae gatzy', 'bairn gttez', 'brnai gadez'}, {'boirn gwtos', 'bruwn gtews', 'brynn gdues', 'breyn gtese', 'brnaa ggtws'}, {'borin gdaes', 'biran gtess', 'brnae gteso', 'brown gatcy', 'bruyn gaads'}, {'brrnn gtees', 'bbirn gatsw', 'brany gatsu', 'burin gadez', 'bruwn gatzw'}, {'brywn gtues', 'beirn gttws', 'beran gtess', 'brnia gttas', 'brrrn gotws'}, {'baran gatcy', 'biran gtehs', 'brywn gatza', 'berin gatwz', 'birin gtesa'}, {'brryn ggtws', 'breyn gatzo', 'biirn gwtus', 'brown gotys', 'brnah ggtas'}, {'berin gahds', 'brinw gatzo', 'buirn gtesy', 'brnia gatci', 'boran gaids'}, {'brwwn gados', 'brrrn gatcy', 'brwnn gatwz', 'branw gahds', 'buirn gatci'}, {'brnaw gatzw', 'borin ggtas', 'brany gdees', 'beran ggtus', 'brayn gtesy'}, {'barin gatza', 'brown gddes', 'burin gdues', 'brnay gayds', 'bbirn gties'}, {'brwwn gtehs', 'brinw gttus', 'brown gutys', 'brnay gwtis', 'brnaa gaids'}, {'biran gwtws', 'biarn gaeds', 'brwwn gatzy', 'bwrin gatzu', 'bruyn gdues'}, {'beirn gauds', 'buirn gttws', 'brown gteas', 'brnae gdies', 'brnai ggtws'}, {'byran ggtos', 'brnae gteso', 'bruyn gtehs', 'biarn gadus', 'brown gteos'}, {'brrrn gauds', 'bairn gados', 'birin gaids', 'brnau gtaes', 'burin godes'}, {'buran gteso', 'brwwn gttws', 'brrnn gatze', 'brwyn gdies', 'byrin gotws'}, {'broyn gtesw', 'bbirn gatse', 'berin gadds', 'byran gwdes', 'brrnn gttys'}, {'brrrn gadez', 'brnay gdoes', 'burin gatse', 'brinw gwtas', 'brwyn ggtws'}, {'baran gayds', 'bruwn gaids', 'brown gwtis', 'bryyn ggtys', 'brnnn gatsi'}, {'brrrn gtese', 'borin gatzu', 'brnau gatza', 'breyn ggtys', 'branw ggtas'}, {'broyn gteso', 'brnao gayts', 'brryn gutws', 'boirn gudes', 'beran gauds'}, {'brnao gtaes', 'brany gatsu', 'brnah gatse', 'brnae ggtis', 'brywn gadss'}, {'byrin gatyz', 'beran gatse', 'briny gteos', 'bbirn gahds', 'beirn ggtws'}, {'broyn gtesu', 'brnah gatcy', 'brayn gtese', 'byran gudes', 'barin gaids'}, {'bbirn gwdes', 'brnae gwtus', 'breyn gatza', 'berin gwtis', 'biarn gatwz'}, {'brown gadws', 'bwran gtees', 'bairn gatzi', 'brwwn gtoes', 'brany gwdes'}, {'baran gttos', 'brown ggtys', 'brryn gatzi', 'bruwn gudes', 'brnay gtehs'}, {'brnah gawds', 'brayn gotws', 'bwran gatsi', 'burin gatze', 'birin gdues'}, {'brnaa gdees', 'brrnn gadys', 'berin ggtus', 'brinw gaods', 'boirn gatso'}, {'brewn gaids', 'biirn ggtis', 'brnaw gteus', 'broyn gtehs', 'baran gdees'}, {'brwnn gaids', 'brnah gotws', 'byran gatsw', 'biirn gtesw', 'bruyn ggtas'}, {'brwwn gadus', 'byrin gdoes', 'brnia gatsi', 'broyn gaods', 'brrnn gauds'}, {'branw gawds', 'brynn gtehs', 'brnnn gteus', 'brany gutys', 'barin gatzy'}, {'brwnn gdaes', 'breyn gttus', 'brnaa gadss', 'buran gaids', 'byrin gawds'}, {'brown gayts', 'birin gttez', 'brywn gtaes', 'bryyn gaids', 'berin gttas'}, {'brany gadus', 'brnae gutws', 'briny gatwz', 'bwrin gtesi', 'biarn ggtas'}, {'briny gwtis', 'brown gwtas', 'brrnn gadds', 'brnao gatzo', 'brnaa gwtus'}, {'brrrn gadds', 'biirn gatsa', 'berin gteas', 'buirn gdies', 'bwran gatyz'}, {'broyn gatsa', 'byran gatzi', 'brinw gteso', 'brnaa gtesu', 'bryyn ggtez'}, {'birin gteis', 'brnnn gatyz', 'biarn gatzw', 'brryn gtees', 'brynn gdaes'}, {'brnaa gttus', 'brryn gtesy', 'brewn gatza', 'brnia gttos', 'broyn gadws'}, {'brynn gaids', 'bwran ggtus', 'birin gudes', 'beran gwtws', 'brnnn gawds'}, {'beran gadws', 'boran gteso', 'brown gatze', 'branw gatsw', 'byrin gtees'}, {'brnau gtees', 'boran gwdes', 'buran ggtas', 'byran gadus', 'brwnn gahds'}, {'brwwn gwtys', 'briny ggtis', 'beirn gtese', 'brnnn gteus', 'brewn gwtas'}, {'bruwn gaeds', 'bbirn gtaes', 'beirn gtees', 'burin gtess', 'baran gdues'}, {'brnae gteso', 'branw gteus', 'bryyn ggtws', 'brnay gatse', 'broyn gttys'}, {'burin gatwz', 'bruyn gwtos', 'bryyn gtues', 'baran gwtus', 'buirn gtesu'}, {'bairn gotws', 'brnah gtues', 'bbirn gaads', 'brnao gteys', 'brnia ggtez'}, {'brnai gotws', 'boirn gteos', 'brnah gaeds', 'beirn gatsw', 'brnaa gwtus'}, {'brrnn gtees', 'biirn gtehs', 'brwnn gtaes', 'brany gutys', 'brwyn gtesu'}, {'bwran gatci', 'bruwn gddes', 'brany gttys', 'brnaa gwtos', 'brnau gatsw'}, {'byrin gttus', 'bruwn gatso', 'brany gtees', 'brnae ggtas', 'brnaa gteys'}, {'brrnn gatse', 'bwrin ggtws', 'biran gayts', 'burin gatze', 'birin gtews'}, {'brnia gotws', 'brryn ggtys', 'bryyn gatsw', 'buran gtoes', 'brwyn gdies'}, {'barin gttos', 'birin gwtas', 'biarn gotys', 'buirn gatcy', 'brrnn gatsy'}, {'branw gtoes', 'byrin ggtos', 'byran gatza', 'biran gatci', 'bwrin ggtus'}, {'bryyn gteis', 'brewn gwtws', 'brryn gatzi', 'brrnn gatsa', 'birin gatso'}, {'buirn godes', 'boran gttus', 'brnau gotys', 'brwyn gutys', 'brynn gatsa'}, {'brown ggtas', 'brayn gatci', 'brynn gatsa', 'brany ggtis', 'brinw gwtis'}, {'biirn gutws', 'boirn gtaes', 'brewn gtese', 'brnay gwtts', 'bairn gtesy'}, {'brayn gttis', 'brrrn gwtez', 'briny godes', 'breyn gdies', 'boran gadss'}, {'biirn ggtus', 'buran gteso', 'brrnn gttws', 'biarn gdoes', 'boran gtesa'}, {'brnnn gotws', 'bruyn gdues', 'birin gaods', 'brywn gteus', 'baran gatyz'}, {'bwrin gahds', 'buran gtues', 'brnao gwtys', 'biran gwtez', 'burin gatsa'}, {'bryyn ggtis', 'berin gtesy', 'biarn gaids', 'brnaa gdues', 'byrin gatso'}, {'bryyn gwtts', 'bwrin gteis', 'bwran gdees', 'brnnn ggtys', 'borin gatzw'}, {'brinw gdoes', 'beran ggtas', 'barin gatsy', 'berin gatzi', 'buirn gatsa'}, {'brwyn gaads', 'biarn gdoes', 'boran gdues', 'brrrn gatze', 'brnia gatza'}, {'brrwn gatsa', 'boran gddes', 'biirn gties', 'barin gtesu', 'brryn gwtos'}, {'brrrn gwtus', 'brnah gatzw', 'brnao gadis', 'brywn gatzi', 'boran gaids'}, {'brnau gatsi', 'byran gdoes', 'brnah gadas', 'bwrin gdues', 'bruyn gtess'}, {'bwran gawds', 'berin gteos', 'brwyn gwdes', 'brnaw gteus', 'byrin gaads'}, {'bairn gutys', 'brnaw gayds', 'brrwn gwdes', 'boirn gddes', 'boran gatzu'}, {'brrnn gtews', 'brnau gtess', 'brnao gteys', 'brnai gtesy', 'biran gatso'}, {'brnai ggtos', 'berin gdaes', 'biirn ggtez', 'brnnn gadis', 'barin gatzy'}, {'brnia ggtos', 'burin ggtez', 'bryyn gdees', 'birin gtesw', 'beran gaads'}, {'brwyn gauds', 'brwnn gadss', 'brinw gatce', 'brnnn gwtus', 'burin gtesa'}, {'brnau gddes', 'broyn gwtws', 'byrin gatzo', 'brwnn gteso', 'byran gaeds'}, {'brnae gaids', 'brany ggtus', 'brnaw gties', 'branw gatwz', 'birin gotys'}, {'brnnn gatso', 'byrin gatci', 'brnau gdues', 'brywn gtees', 'bryyn gaods'}, {'byran gwtts', 'beran gteas', 'bwrin gttas', 'buran gadus', 'brnaw gatwz'}, {'brwnn gatzi', 'bruyn ggtws', 'breyn gados', 'birin gtesw', 'broyn gadds'}, {'bwran gtehs', 'buirn gaeds', 'bairn ggtez', 'bwrin gados', 'brrrn gatzo'}, {'brnaa gttis', 'biran gatzi', 'byran gtesi', 'bruwn gatsy', 'biirn ggtez'}, {'biirn gwtas', 'brnae gddes', 'borin gahds', 'branw ggtas', 'brwnn gtesy'}, {'brayn gatcy', 'brwnn gtehs', 'brnia gatsa', 'brywn gtesw', 'birin gdaes'}, {'byran gttas', 'biirn gwtws', 'bbirn ggtys', 'brewn gatso', 'birin gadws'}, {'biirn gaids', 'briny gatwz', 'brwyn gwtas', 'brown gtaes', 'brayn ggtas'}, {'boran gties', 'bruwn gatsu', 'brywn gtesw', 'boirn gatwz', 'brnai gadis'}, {'boran gudes', 'brown gayts', 'brnnn gatsa', 'borin gtess', 'brrwn gadws'}, {'brnai gatsa', 'bairn gadys', 'brynn gudes', 'brnaw godes', 'brwyn ggtas'}, {'biran gwtws', 'berin gdies', 'branw gtese', 'brnnn gwtss', 'brwwn gteis'}, {'breyn gatsw', 'burin gtesw', 'brywn gttos', 'brnnn gtues', 'brnay gttez'}, {'brown gttis', 'burin gutws', 'byran gatsi', 'baran gawds', 'brrwn gadws'}, {'brrnn gwtws', 'brewn gtues', 'berin gtesy', 'branw gttws', 'bwrin gayds'}, {'brnnn gdoes', 'brryn gwtys', 'brywn gties', 'brwwn gdues', 'biarn gtees'}, {'boirn gtues', 'brany gdaes', 'brnia gdies', 'brnah gaeds', 'buirn gteis'}, {'birin gttus', 'brnay gteus', 'brryn gatyz', 'bruyn ggdes', 'briny gwtss'}, {'bbirn ggtez', 'beirn gatsa', 'barin gauds', 'brwwn gatce', 'buran ggtis'}, {'boirn gtoes', 'byran gadas', 'beirn gtesi', 'beran gteso', 'baran gatze'}, {'beran gadws', 'brwyn gatzo', 'brrnn gdoes', 'birin gatze', 'breyn gatsy'}, {'boirn gwtos', 'brayn gteos', 'brany ggtys', 'brnaa gwtts', 'brnai ggtws'}, {'beirn gttos', 'brwwn gtaes', 'boran gteos', 'brnay gwtts', 'biarn gadas'}, {'brnaa gttos', 'biirn gatzw', 'brnah gtese', 'bairn gtehs', 'boirn gtesw'}, {'berin gaeds', 'broyn gtesu', 'bairn gutws', 'brnaw gwtss', 'byrin gtews'}, {'brrwn ggtys', 'biran gttus', 'brnia gttys', 'borin gteso', 'breyn gtews'}, {'boirn gtees', 'brewn gwdes', 'brnai gadds', 'briny gatsi', 'beran gotys'}, {'berin gttus', 'brryn gteos', 'boran gddes', 'barin gdees', 'breyn ggtos'}, {'brnaa gtess', 'brnaw gttus', 'brnai gatsw', 'buran gutys', 'bwrin gttws'}, {'brnai gadus', 'brnaa gttys', 'brryn gadss', 'beran gados', 'brown gatso'}, {'brown gwtas', 'bbirn gadws', 'borin ggtez', 'bryyn gatyz', 'brewn gutys'}, {'brnnn gadas', 'bwran gtess', 'brrwn gteys', 'branw gdees', 'biirn gtesa'}, {'brnau gudes', 'biran gatwz', 'bryyn gtehs', 'bruyn gteys', 'bruwn ggtws'}, {'brinw gutws', 'brewn gutys', 'branw gtehs', 'brnae gwtws', 'briny gudes'}, {'bruyn gteos', 'brnaw gatsy', 'brnai gayts', 'brwwn gtesa', 'brewn ggtez'}, {'brnao gadss', 'brany gadis', 'bwran gtess', 'biirn gteso', 'brnae gdues'}, {'brnaa gotys', 'buran gtues', 'brnaw gteas', 'brewn gwtws', 'brrnn gwtus'}, {'bwrin gtesa', 'brrnn gatwz', 'brinw gtesw', 'birin gaeds', 'brnai gatsy'}, {'broyn gtesw', 'brwwn gadss', 'brynn godes', 'bruyn gwtus', 'brnao gttis'}, {'brnay ggtis', 'bbirn gtoes', 'beirn gaeds', 'brewn gdues', 'brnaa gtesu'}, {'buirn gadss', 'bruwn gtesy', 'brrrn gteus', 'brown gadis', 'beirn gotws'}, {'brynn gadss', 'broyn gwtos', 'brrrn gwdes', 'buirn gadez', 'beran gtesi'}, {'bryyn gatze', 'brayn gteis', 'borin gwtis', 'brrwn gadds', 'brnau ggtas'}, {'biarn gawds', 'byran gauds', 'brnae gteus', 'brnai gados', 'brnay gotys'}, {'baran gudes', 'brryn gayts', 'brnaw gttys', 'brnao gdaes', 'brown gadas'}, {'bairn gatzi', 'brrnn gties', 'bryyn gwtys', 'brryn gaeds', 'brnnn gtesu'}, {'buran gtesa', 'brnnn gttos', 'byrin gtese', 'burin gatsi', 'biarn ggtws'}, {'berin gatce', 'brany gados', 'brnnn gtaes', 'bruyn gteus', 'burin godes'}, {'buran gtues', 'brrnn gadds', 'breyn gatsi', 'baran gwtws', 'broyn gwtez'}, {'brnnn gteso', 'brrwn gttas', 'briny gatsy', 'bruyn gties', 'brany gwtts'}, {'buirn gatza', 'bwran gttws', 'brinw gatzu', 'bbirn ggtys', 'borin gwtis'}, {'barin gteys', 'brnah gwtus', 'brrrn gtehs', 'berin gatse', 'bwran ggtas'}, {'broyn gwtts', 'brnaa gdaes', 'bruyn gaids', 'bruwn gatza', 'biirn gwtss'}, {'brany gatci', 'brnnn gatsa', 'barin gaeds', 'buran gotws', 'brayn gatsu'}, {'bwrin gayts', 'biirn gdees', 'byrin gwtus', 'brnia gauds', 'brown gdoes'}, {'brywn gadus', 'bairn gwtos', 'brnao gtues', 'brwwn gdaes', 'brnaw gadis'}, {'barin gatsw', 'branw gteis', 'brnao ggtws', 'brrnn gteas', 'boirn gadys'}, {'brewn ggtws', 'brnaw ggdes', 'byran gatza', 'brrwn gudes', 'biran gatce'}, {'brrwn gteus', 'brwwn gatwz', 'brinw gadus', 'brnao gwtez', 'baran gatyz'}, {'brnai gdees', 'brnay gwdes', 'buirn gatyz', 'brany gtehs', 'brinw gteas'}, {'biirn gadss', 'brnau gatzu', 'beirn gwtas', 'berin gtesy', 'brinw gttus'}, {'beirn gayts', 'brrrn gtues', 'buran gotys', 'biran gdues', 'byrin gatza'}, {'byran gttas', 'byrin gdees', 'bryyn gatsi', 'buirn ggtws', 'brayn gtees'}, {'brnao gatzu', 'brnai gttws', 'biarn gaads', 'brnaa ggtus', 'brryn ggdes'}, {'borin gwtos', 'brwyn gadis', 'boirn gatzi', 'baran ggtus', 'brrnn ggtws'}, {'brayn gtesi', 'brnnn gttys', 'brewn gwtts', 'birin gatyz', 'brrrn gwtos'}, {'brnae gaeds', 'burin gteis', 'brynn gotys', 'brinw gteas', 'brywn ggtus'}, {'brwnn gteas', 'bryyn gatza', 'brrwn gudes', 'birin gwtez', 'buran gadds'}, {'baran gttos', 'birin gwtws', 'brrnn godes', 'brryn gatza', 'biirn gatsy'}, {'barin gatzw', 'brrnn gotws', 'bwrin gadds', 'brnae gauds', 'birin gtews'}, {'brwyn gadys', 'buran gties', 'birin gwtos', 'biran gudes', 'baran gdues'}, {'biirn gutws', 'baran gatci', 'brown gttis', 'bruwn gwtos', 'brrwn gdaes'}, {'brnnn gatsa', 'boirn gttis', 'berin gtesu', 'bruwn gatzy', 'bwran gadez'}, {'brryn gadws', 'beran gayds', 'birin ggdes', 'beirn gddes', 'brnnn gatwz'}, {'brwyn gotys', 'brnia gadss', 'boirn gwtys', 'borin gwtus', 'bwrin gdoes'}, {'berin gteas', 'brwnn gdees', 'brnah gtesu', 'baran gwtss', 'brany gauds'}, {'brrnn ggtus', 'brrrn gwtis', 'bwrin gatwz', 'brnaw gtesa', 'berin gttas'}, {'brewn gwtss', 'bryyn gdies', 'brnia gwtws', 'brnaw gtesa', 'brryn gteys'}, {'bwrin gtews', 'brnnn gteus', 'biarn gttos', 'boran gtees', 'brown gadys'}, {'briny gatyz', 'byran gadss', 'brnnn gddes', 'broyn gteys', 'biran gadus'}, {'beirn gtoes', 'boirn gtess', 'brinw gadws', 'briny gttws', 'brnao gdues'}, {'berin gdees', 'borin gatci', 'brnnn gatce', 'biarn gatzi', 'brnaa gddes'}, {'birin gatzu', 'baran gadez', 'bairn gwtos', 'brany ggtez', 'brayn gadss'}, {'bruwn gttis', 'brany gttez', 'brwnn gwdes', 'brown gatci', 'burin gadws'}, {'brewn gdies', 'brnaa gauds', 'brnia gtews', 'brwyn gwtus', 'bwran gatzy'}, {'brewn gties', 'brynn gteis', 'barin gdees', 'brnae gatzu', 'boran gdoes'}, {'brwwn gatzy', 'buran gatzo', 'bbirn gauds', 'brnaw gatcy', 'brnau gwtis'}, {'brown gadez', 'branw gteys', 'broyn gtese', 'birin gtesu', 'berin ggtis'}, {'bruyn gadus', 'brwyn ggtis', 'bairn gwtts', 'brwnn gtesw', 'beran gudes'}, {'briny gatyz', 'brnao gaeds', 'brnaa gadis', 'barin gdaes', 'berin ggtis'}, {'brrwn gatzy', 'brewn godes', 'brryn gatsu', 'breyn ggtus', 'brywn ggdes'}, {'breyn gadis', 'brwwn gaods', 'byrin ggdes', 'biran gotws', 'branw gatza'}, {'biarn gayts', 'brown ggtus', 'borin gtaes', 'biran gttws', 'barin ggtez'}, {'biarn gwtos', 'bruwn gados', 'beirn gadis', 'borin gtehs', 'briny gttez'}, {'baran gados', 'birin gwtos', 'biirn gatci', 'brewn gttus', 'biarn gatsy'}, {'brinw gties', 'berin gtoes', 'birin gadis', 'biran gatsa', 'bairn ggtez'}, {'brnnn gadus', 'boran gttws', 'brnaw gdaes', 'bryyn ggtas', 'brnao gadez'}, {'brrwn gadus', 'byrin gttas', 'brnae ggtws', 'brnau gttys', 'berin godes'}, {'barin gatcy', 'biran gotws', 'brnau gdues', 'brrwn gdies', 'byran gaods'}, {'byran gtesw', 'briny gadys', 'brnai gotws', 'branw gtese', 'burin ggtus'}, {'buirn gutys', 'bwrin gaods', 'brrwn gatze', 'bruwn gadez', 'bbirn ggtws'}, {'brnay gttis', 'brnae gtesy', 'barin godes', 'brywn gatza', 'briny gutws'}, {'bbirn gtesy', 'biarn gatse', 'brwnn gttas', 'brrnn gatzy', 'broyn gttys'}, {'brryn gatyz', 'brrwn gadss', 'biarn gteos', 'byrin gaads', 'berin gatzi'}, {'brnao gatsi', 'brnae gadez', 'biran gatci', 'brnia gdues', 'brnau gatce'}, {'bbirn gwtys', 'brrnn gaods', 'brown gttws', 'beirn gtess', 'broyn ggtas'}, {'biran gatsa', 'brewn gadws', 'bryyn gatcy', 'bwran gatsy', 'brrrn ggtys'}, {'brryn gatsi', 'brnao ggdes', 'bwran gwtos', 'byrin gdues', 'berin gdies'}, {'bryyn gwtts', 'brewn gatyz', 'brrnn gatzw', 'bwrin gatso', 'beran gttis'}, {'brayn gatcy', 'byrin gties', 'bwran gttos', 'brynn gteys', 'biirn gtese'}, {'brnaa gtehs', 'bbirn gotys', 'brnah gatse', 'brown ggtas', 'barin gatsa'}, {'brany gtesa', 'byrin gatce', 'brrnn gatwz', 'branw godes', 'brayn gtese'}, {'brryn ggtws', 'bryyn gutys', 'bruyn gatze', 'beran gwtws', 'bairn gatza'}, {'bruwn gayts', 'bbirn gaads', 'brany gtesu', 'branw gdees', 'bwrin gatzo'}, {'beran gatsu', 'brnah gatzu', 'borin ggtas', 'byran gwtys', 'brnia gatcy'}, {'brwwn gteso', 'biirn gwtis', 'barin gados', 'broyn gadws', 'brrwn gteas'}, {'bryyn gados', 'burin gwtws', 'brwwn gutws', 'biirn gddes', 'buran gatyz'}, {'broyn gwtys', 'bruyn gutws', 'bwran gaeds', 'borin gtesu', 'brnaa gtesw'}, {'bryyn gtees', 'brywn gawds', 'byran gatzy', 'bruwn gatzo', 'brnau ggtus'}, {'biran gwtts', 'bruwn gadys', 'burin gwtys', 'birin gtoes', 'brrrn gttez'}, {'bruwn gatsu', 'brwwn gteus', 'beirn gtesa', 'bairn gatyz', 'brnnn gties'}, {'birin gtoes', 'brewn godes', 'brnao gayts', 'brown gatso', 'brynn ggtws'}, {'brewn gatzw', 'brnaa gdies', 'brnao gtesi', 'brrwn gwtys', 'bairn gatza'}, {'brnao ggtis', 'byrin gties', 'beirn gtehs', 'brinw gwdes', 'bairn gatsa'}, {'borin gteys', 'brnaa gteos', 'brnia gatyz', 'buirn gteso', 'beirn gteas'}, {'branw gwtas', 'bwran gttas', 'boran gwtis', 'brrrn gddes', 'beirn gtesu'}, {'biirn gaads', 'biran ggtys', 'brinw gwtos', 'bruyn gdees', 'brwyn gatsu'}, {'brywn gaads', 'bwrin gdees', 'breyn gatzi', 'branw gatze', 'brinw gatsa'}, {'broyn gttis', 'brnao gteis', 'brany gadws', 'boran gatsy', 'briny gttws'}, {'brnao gadas', 'brany gaids', 'brrwn gdies', 'beran gttws', 'brown gwtos'}, {'brnao gadss', 'breyn gwtus', 'beirn gatzo', 'biran gteys', 'borin gauds'}, {'biirn gatzw', 'brnau gatso', 'bairn gadws', 'bruyn gtehs', 'biarn gwtss'}, {'briny gteus', 'brnau gadas', 'beirn ggdes', 'biarn gttas', 'brnaa gaeds'}, {'beran gatzo', 'brwyn gadas', 'brnay gdees', 'bwran gtews', 'briny gatsw'}, {'breyn gatze', 'brnay gadas', 'boirn gatwz', 'brown gttez', 'brany gauds'}, {'bbirn gteso', 'branw ggdes', 'bryyn gttos', 'bruwn gddes', 'biirn gauds'}, {'brnay gtaes', 'brown gtees', 'brwnn gtehs', 'burin ggtez', 'byran gudes'}, {'brewn gteus', 'bruwn gaids', 'brany gadis', 'biran gadys', 'boran gotws'}, {'brnia gtehs', 'branw gwtss', 'broyn ggtas', 'brnay gudes', 'briny gatzu'}, {'barin gdues', 'birin gttus', 'brnao gwtws', 'bwrin gttas', 'brryn gutys'}, {'brrrn gtees', 'barin gtues', 'biran gties', 'byran gtehs', 'brany ggdes'}, {'broyn gatzu', 'brnnn gotys', 'buran gteso', 'brynn gtues', 'bryyn gwtts'}, {'brewn gatsu', 'biarn gwtys', 'brwnn gatsi', 'bwrin gtesy', 'bbirn gtehs'}, {'brnia gatzo', 'biran gaids', 'brewn gwtis', 'branw ggtus', 'bruyn gaads'}, {'brown gties', 'brany gadus', 'brwnn gatzo', 'brrwn gudes', 'berin gtehs'}, {'brwnn gadus', 'brinw gttys', 'borin gatzo', 'beirn gatce', 'birin gatci'}, {'brrrn gutws', 'brwwn gatza', 'bbirn gahds', 'berin gudes', 'buirn gatzo'}, {'brnau gwtas', 'bruyn gadez', 'bwran gatsa', 'brewn gteso', 'birin gatzo'}, {'brynn gatyz', 'brinw gatzo', 'bwran gtesu', 'bairn gatze', 'bwrin gudes'}, {'brnay gatsy', 'brany gtesa', 'boran ggtys', 'biirn gadws', 'beran gwtas'}, {'breyn gwtis', 'brnah gatzw', 'byrin ggtus', 'bairn gteso', 'burin gwtss'}, {'brrnn gwtas', 'beirn gtesi', 'brywn gttus', 'biran gadys', 'burin gwtts'}, {'brwwn gteso', 'buirn gatcy', 'brayn ggtis', 'brywn gutys', 'beran gtese'}, {'brown gtess', 'byrin gadus', 'brwwn gadss', 'brnaa gtesy', 'bairn gteis'}, {'brnaa gatcy', 'bairn gados', 'brewn gatze', 'brnay gwtss', 'briny gdees'}, {'birin gudes', 'bbirn gdoes', 'brnay gadws', 'brewn gtese', 'brrwn gadis'}, {'brnaw gaods', 'burin gatsy', 'brany gatzi', 'brwnn ggtas', 'brryn gtesw'}, {'beran gatcy', 'berin gwtss', 'brnah gwtas', 'biirn gwtts', 'brayn godes'}, {'brnaw gatsi', 'brnai gatsw', 'brrwn gdoes', 'brynn gddes', 'brnay gwtas'}, {'brynn gadss', 'buirn gatwz', 'birin gatzo', 'bryyn gatsw', 'branw gteis'}, {'beirn gwdes', 'brnaa gdees', 'burin gtaes', 'bwrin godes', 'brwnn gdies'}, {'branw gtesy', 'buirn gadds', 'brwnn gayts', 'biran gtesw', 'bwran gtues'}, {'brywn ggtys', 'brrrn ggtez', 'brwwn gwdes', 'byrin gatcy', 'brnay gteys'}, {'brrrn gaads', 'baran ggtys', 'broyn ggtas', 'buirn gdees', 'brnnn gatza'}, {'brywn gatwz', 'beran gties', 'biarn gttos', 'baran gtews', 'bbirn gadus'}, {'bruyn gatwz', 'brany gatsy', 'bryyn gatze', 'brywn gadis', 'brwwn ggtas'}, {'biran gtesa', 'brywn ggtas', 'brwnn gatsa', 'barin gaids', 'bruwn godes'}, {'boran gatsa', 'boirn gadss', 'brrrn gttus', 'brewn gttys', 'brnia gtesw'}, {'brrrn gwtis', 'bbirn gatsa', 'brrnn gteus', 'brnaw gtess', 'brnnn gatse'}, {'bruyn ggtys', 'brnae gwtys', 'beran gatsy', 'brinw ggtas', 'brnnn gadss'}, {'borin gatsy', 'buirn gdaes', 'burin gudes', 'brayn gados', 'bryyn gwtez'}, {'biarn gwtus', 'brinw gtees', 'birin gadus', 'brnae gotys', 'brayn gteys'}, {'burin gatzi', 'brwyn gties', 'biarn gatze', 'bryyn gttez', 'boran gtesa'}, {'boirn gtesi', 'biran gwdes', 'brany gttis', 'buirn gtoes', 'borin gddes'}, {'brayn gadys', 'burin gdues', 'buran gttis', 'byrin gdees', 'boirn gddes'}, {'brryn gotws', 'beran gties', 'branw gwtis', 'brnay gteas', 'barin ggtez'}, {'brrnn gadas', 'baran gttez', 'brinw gaeds', 'brnia gttos', 'birin gtues'}, {'brnau ggtws', 'boran gatze', 'brwwn gatzu', 'berin gawds', 'burin gaids'}, {'birin ggtws', 'baran gtess', 'brnai gadys', 'brnaa gteus', 'brnao gdues'}, {'bruwn gayts', 'brnay gatzu', 'brown godes', 'beirn gatzo', 'brnao gteys'}, {'brayn ggtez', 'biarn gwtez', 'brnnn godes', 'brnai gatzu', 'bairn gwtas'}, {'beran gadss', 'brwwn gtesu', 'beirn gaods', 'bairn gwtss', 'buirn gttas'}, {'baran ggtez', 'brany gttas', 'brwwn gwtez', 'biarn gties', 'berin gatsy'}, {'bairn gawds', 'brrnn gadez', 'bwran gwtys', 'berin gwtws', 'burin gtesa'}, {'byrin gdoes', 'brywn gados', 'bryyn gatcy', 'brwwn gwtss', 'berin gawds'}, {'boran ggtas', 'baran gteas', 'byran gatsy', 'bryyn gatzi', 'brayn gties'}, {'brnia gtesy', 'boran gudes', 'brnae gatsa', 'bruyn gatsi', 'burin gteos'}, {'bwrin ggtws', 'brnai gwtus', 'biran gwtas', 'brryn gaods', 'berin gtaes'}, {'bbirn gatsy', 'buran gttis', 'byrin gtehs', 'brwyn gtees', 'brnae gties'}, {'brnaw gttus', 'bwran gayds', 'bruyn gwdes', 'brany gatzw', 'brryn gties'}, {'biirn gaeds', 'brywn gadis', 'bbirn gadys', 'brnaa gties', 'burin gwdes'}, {'borin gadss', 'boran gahds', 'brnao gttez', 'bwrin gteas', 'briny gutws'}, {'brrrn gwtus', 'brnay gwtws', 'boirn gadws', 'bairn gtues', 'bruwn gatcy'}, {'barin gatzu', 'burin gaeds', 'brnao gttys', 'bruyn gtees', 'brynn gwtus'}, {'brinw ggtez', 'berin gatce', 'biirn gadds', 'barin gwtas', 'bryyn gatsi'}, {'brany godes', 'bryyn gttys', 'brnaw gttus', 'baran gtess', 'berin gteso'}, {'borin gtews', 'breyn gaeds', 'buirn gaids', 'biirn gdoes', 'brinw gatwz'}, {'brnae gotws', 'brnah gwtis', 'brewn gwdes', 'byran gatzu', 'brnay ggtas'}, {'buirn ggtus', 'brrwn ggtis', 'brnau gtess', 'bwran gatsu', 'beirn gwtos'}, {'bwrin gadds', 'brywn gadus', 'brwyn gtesi', 'berin gteos', 'buirn ggtez'}, {'buran gadis', 'bbirn gauds', 'brrrn gadus', 'brnay gwtss', 'baran gatza'}, {'birin gttus', 'bbirn gwtws', 'burin gwtis', 'breyn gtesi', 'brwwn ggtys'}, {'brinw gatsi', 'barin gttis', 'burin gtess', 'brwwn gadys', 'byrin gawds'}, {'boran gadas', 'berin gados', 'baran gtesi', 'brrnn gttus', 'brnay gwtas'}, {'bbirn ggtos', 'brnia ggtws', 'byran gatse', 'beirn gatzo', 'bairn gwtus'}, {'biirn gdues', 'boran gtesi', 'brnae gtehs', 'brwnn gdies', 'brnaa gddes'}, {'berin gaeds', 'brywn gteys', 'birin gwtos', 'bairn gdues', 'brnia gayds'}, {'brywn gadis', 'brnai ggtys', 'byrin gtews', 'brnae gatcy', 'buirn gttas'}, {'bwran gties', 'branw gttws', 'brwwn gtesw', 'brryn gadus', 'byrin gatze'}, {'brinw ggtez', 'brnah gaids', 'brayn godes', 'buirn gahds', 'bryyn gaods'}, {'brnaw gteys', 'brewn gotws', 'brynn gatzi', 'brrrn gtues', 'biran gteos'}, {'broyn gtesi', 'bruwn gwtis', 'brrwn gdies', 'biran gadys', 'birin gatcy'}, {'byran gatse', 'brinw gotws', 'boran gwtss', 'biarn ggtis', 'brrwn gatza'}, {'buirn gotws', 'brnay gdoes', 'brynn gties', 'brnai gddes', 'beran gayts'}, {'barin gaods', 'bruwn gatce', 'broyn gatwz', 'brnah gatza', 'burin gadys'}, {'brrrn gtehs', 'breyn gadas', 'bbirn gwtas', 'biirn gtese', 'branw gtews'}, {'brnaa gtess', 'biarn gteus', 'beran gwtss', 'boirn gaads', 'branw gayds'}, {'bairn gddes', 'borin gatsy', 'biran gatwz', 'brnae gadas', 'brrnn gatsi'}, {'boirn gteis', 'brnae gudes', 'byrin godes', 'burin gteso', 'biarn gados'}, {'brnaa gatzo', 'brayn gttis', 'brnay gatsw', 'boirn gtaes', 'brnnn gtesa'}, {'brnaw gdues', 'brynn gwtez', 'biarn gatsu', 'bruyn ggtas', 'bairn gttws'}, {'brnai gwtez', 'brnae gadws', 'brnaw gwtws', 'brnah gwtys', 'brnao gtesy'}, {'brrrn gtees', 'bryyn gatwz', 'brnae gtoes', 'brnia gatsy', 'boirn gtesy'}, {'brnaa gaods', 'baran gtess', 'briny gdues', 'breyn gwtss', 'borin gtesu'}, {'brnaw gatsu', 'barin gtoes', 'buirn gatsy', 'brnau gdaes', 'boran ggtus'}, {'bwran ggdes', 'buran gaods', 'burin gwtys', 'brinw gayds', 'bruyn gatcy'}, {'bwrin gwtus', 'bryyn gteis', 'brrwn ggdes', 'branw gttos', 'bairn gtesu'}, {'bwrin gatso', 'branw gadus', 'brnao gadis', 'boran gaids', 'bairn ggdes'}, {'brown gotws', 'biran gatyz', 'bwran ggtys', 'breyn gddes', 'biarn gawds'}, {'bbirn gotws', 'broyn gdaes', 'bryyn gdues', 'baran gotys', 'brrnn gddes'}, {'boirn gadis', 'brinw gatzo', 'brany gatsy', 'brywn gadws', 'brnai gtess'}, {'brrnn gadez', 'brnay gtesa', 'biirn gudes', 'brnia gaids', 'biarn gtese'}, {'baran gteos', 'brwyn gadss', 'biarn gatza', 'beirn gteus', 'beran gadds'}, {'brnaw gdaes', 'boirn gadws', 'bwrin gtese', 'brnae gatze', 'biran gahds'}, {'breyn gwtts', 'berin gayds', 'boirn gatsw', 'beran gahds', 'brwyn gayts'}, {'byran gtesw', 'boirn ggtus', 'bruyn gutws', 'branw godes', 'burin gadds'}, {'brnay gatsu', 'brnai gttys', 'bairn gtoes', 'brrnn gtesw', 'brinw gtesu'}, {'borin gadss', 'boran gatce', 'brwwn gteas', 'brinw gaeds', 'brrrn gotws'}, {'bruyn ggtys', 'brnae gotws', 'brnao gttez', 'brrrn gayts', 'beran gaads'}, {'brnaw gatze', 'branw gawds', 'brnia gties', 'bwran gatzu', 'brany ggdes'}, {'bwrin gtesy', 'boirn gayds', 'brnaa gdues', 'brywn gttas', 'berin gatsy'}, {'burin gauds', 'boran gtoes', 'barin gdees', 'biirn gatsi', 'brnaa gwtys'}, {'berin gutys', 'borin gatzu', 'briny gtues', 'brnao gatsw', 'biran gadus'}, {'breyn gutws', 'boirn gatsu', 'brnaw gtesi', 'beirn gadds', 'brnae gdaes'}, {'beran gatcy', 'biarn gaeds', 'brnai gwtis', 'barin ggtos', 'biirn gttez'}, {'bwrin gteis', 'byrin gadez', 'brinw gtesy', 'brnay gddes', 'bwran gdoes'}, {'bbirn gatyz', 'brnnn gotws', 'bruyn gatsu', 'bairn gttos', 'beirn gatsw'}, {'brwwn gatce', 'brnaw ggtus', 'brnae gtaes', 'breyn gatzw', 'bwrin gutys'}, {'brown gayds', 'bryyn gahds', 'brwwn gadds', 'brywn gtews', 'boirn gatza'}, {'brywn gatsu', 'brryn gtaes', 'brewn gatcy', 'brnay gaeds', 'brnia gdaes'}, {'borin gados', 'brwnn gadez', 'brayn gwtys', 'brewn gtesy', 'bairn gttez'}, {'brewn gtehs', 'biirn gttys', 'bbirn gteis', 'beran gtesw', 'baran gtees'}, {'branw gwtas', 'brnaa gttos', 'boirn gwtws', 'brwyn gatzu', 'byrin gtesu'}, {'brnah gwtis', 'boirn gatsy', 'brnaw gatcy', 'brown gadss', 'brinw gwtss'}, {'bwran gadis', 'brwwn gutys', 'brnau ggtis', 'beirn gtues', 'brayn gtesa'}, {'brnia gatwz', 'brwnn ggtos', 'brnaa gwtis', 'brinw gtese', 'briny gudes'}, {'berin gatza', 'borin gdies', 'byrin gwdes', 'brnae gwtis', 'brany gadez'}, {'biarn gaods', 'birin gadys', 'baran gttis', 'broyn gaids', 'byran gtehs'}, {'brany gatwz', 'brnao gwtas', 'brrwn gwtez', 'brywn gttis', 'buirn gadys'}, {'brown gauds', 'bryyn gwtts', 'berin gtesi', 'byran gadas', 'boran gdaes'}, {'bbirn gwdes', 'boirn gadws', 'byrin gttws', 'briny gados', 'brnia gatzw'}, {'brayn gwtos', 'bryyn gdies', 'brnau gaeds', 'byran ggtez', 'brnao gayts'}, {'bryyn gteso', 'brnae gteys', 'biran gadds', 'brnia gados', 'biarn gatsi'}, {'baran gatsi', 'brwwn godes', 'brnaw gawds', 'birin gddes', 'berin gwtws'}, {'brnay gwtws', 'bbirn gteys', 'biarn ggdes', 'brnai gtehs', 'brrwn gwtus'}, {'brnia gteso', 'breyn gatzw', 'bwran gayts', 'barin ggtez', 'brown gwtos'}, {'bbirn gatyz', 'burin gwtws', 'brnai gwtez', 'brany gttas', 'birin gatze'}, {'brrrn gatce', 'borin gatso', 'bryyn gudes', 'brany gtaes', 'bruyn gadis'}, {'broyn gtaes', 'brnay gwtus', 'brrwn gatzw', 'brnaa gtese', 'barin gotys'}, {'baran gawds', 'bwran gtess', 'biirn gotys', 'biarn gtues', 'brryn ggtez'}, {'brany gttys', 'bwran gayds', 'byrin gttez', 'brown gadas', 'biarn gddes'}, {'brnah gatsi', 'brnay gwtis', 'brwyn gteys', 'brinw ggtis', 'brrnn gtaes'}, {'brnay gdies', 'broyn gdaes', 'brown gwtez', 'biran gadys', 'brnau gatzw'}, {'buran ggtez', 'brnay gawds', 'brnah gudes', 'brryn gttws', 'biran ggdes'}, {'brnah gahds', 'brryn gutys', 'brwwn gawds', 'bryyn ggtws', 'birin gatzw'}, {'beran gtesa', 'brayn gadus', 'brany gatsi', 'bairn gdaes', 'brnaw gaeds'}, {'brnau gtews', 'borin gttws', 'brinw ggtis', 'barin gotws', 'brrwn gwtws'}, {'bwrin gtees', 'burin gatsa', 'bbirn gayts', 'bruwn gtaes', 'baran gtews'}, {'brwwn gttys', 'briny gadas', 'broyn gttas', 'brinw gteas', 'brrwn gatse'}, {'brrnn ggtys', 'branw gatsu', 'brnia ggtus', 'byrin gayds', 'briny gudes'}, {'brynn gwdes', 'brnae gaids', 'breyn gttos', 'bruyn gatzu', 'broyn gutws'}, {'brnae ggtus', 'borin ggtws', 'baran gatci', 'bwran gadss', 'brwyn gteis'}, {'brewn gdies', 'brnai gaads', 'bryyn gadss', 'buirn gatcy', 'byran gwtys'}, {'brnaw gatzi', 'bruyn gwdes', 'boran gadus', 'brnay gtesy', 'brwyn gtews'}, {'buirn gatzy', 'beirn gatse', 'brynn gdoes', 'borin gwdes', 'brnah gadis'}, {'brrrn gtess', 'barin gadis', 'brnaw gatzu', 'bbirn gatsw', 'bruwn gttws'}, {'brnao gadss', 'byrin ggtys', 'baran gados', 'brnai gteus', 'bwrin gtesa'}, {'brinw ggtys', 'baran gttus', 'burin gatsu', 'brnnn gadss', 'brywn gtesy'}, {'branw gadis', 'brinw gwtws', 'bruwn godes', 'broyn gteas', 'brwwn gteys'}, {'baran gwtts', 'branw gatce', 'brrrn gwtss', 'brnao gatsa', 'brnia ggtus'}, {'brnae gwtus', 'brnau gtesu', 'bwrin gdues', 'breyn ggtez', 'brnai gatci'}, {'boirn gotws', 'bryyn gtesi', 'baran gteso', 'bairn gdaes', 'biarn ggtas'}, {'borin gaeds', 'brnaa gatze', 'bairn gotys', 'brrwn gtesi', 'brwnn gwtez'}, {'brrwn ggtus', 'baran gahds', 'brwwn godes', 'brnnn gdaes', 'brnia gteys'}, {'brynn gadys', 'brrrn gatwz', 'bwran gotys', 'brnai gados', 'brnnn gaids'}, {'brnae gttys', 'brwwn gteas', 'biirn gties', 'bruwn ggtez', 'brnaa gatzy'}, {'brnah gttas', 'boirn gdoes', 'brinw gatze', 'bairn gatzo', 'brnaa ggtws'}, {'brnay gwtws', 'breyn gtehs', 'brywn gwtys', 'beran gttys', 'barin ggtez'}, {'biarn gtesu', 'brnao ggdes', 'brnai gutws', 'bbirn gteas', 'byran gtesy'}, {'birin gteas', 'brrrn gutws', 'brnaw gttus', 'brnay gaods', 'biran gaids'}, {'brnai gaods', 'bruyn gatsy', 'brnah gtesi', 'brnau gteus', 'boran gatza'}, {'birin gwtts', 'brinw gatzu', 'brnay gutys', 'brnaw gttez', 'bruyn gdaes'}, {'brnau gatzi', 'brrrn gdees', 'brnah gadds', 'byrin gayds', 'brown gtews'}, {'briny gatse', 'brnai gdues', 'biran gahds', 'brnah gadss', 'borin gwdes'}, {'biarn gutws', 'brywn gteos', 'brrrn gadus', 'brwyn gayts', 'berin gttas'}, {'brywn gtese', 'brnai gtaes', 'bruwn gwtos', 'brnaa gatse', 'brewn gtesy'}, {'bruwn gatzu', 'buran gtehs', 'bwrin gteas', 'brany gotws', 'brwwn ggtys'}, {'burin gayts', 'beirn gtees', 'brnah gadss', 'brrnn gatsi', 'brywn ggtus'}, {'breyn gtews', 'brnaa gatyz', 'biarn gdaes', 'brnah gadss', 'brwnn gados'}, {'byran gwtos', 'bwran gtesi', 'brnai gdoes', 'brrnn gawds', 'byrin gteus'}, {'branw gttis', 'brnnn gados', 'burin gdies', 'brwyn gaids', 'bruwn gotws'}, {'bbirn ggtus', 'brinw gutws', 'brany gaeds', 'brnao gotys', 'bwrin gotws'}, {'brnnn gadus', 'brnay gtaes', 'burin ggtos', 'berin ggtus', 'bwran gwtas'}, {'biarn gtess', 'brrnn gotws', 'briny gttus', 'beirn gttez', 'barin gatze'}, {'bruyn gatce', 'brnau gttus', 'brnae gadis', 'brynn gatze', 'branw gadas'}, {'baran gutws', 'byran gwdes', 'brany gutys', 'brywn gatsy', 'bairn gtehs'}, {'berin gteas', 'bairn gteus', 'brnay gwtos', 'bwrin gtesa', 'brewn gados'}, {'boirn gtees', 'biarn gatce', 'buran gwtus', 'brnau gteos', 'brnaa gatzu'}, {'brrwn gteus', 'brnai ggtys', 'brwwn gadws', 'brrrn gteis', 'biran gwtis'}, {'buran gwtez', 'burin gtesw', 'brewn gteys', 'boran gwtis', 'brnaa gadas'}, {'brnaw gteso', 'biran gutys', 'bruwn gwtus', 'brnau gteys', 'bwran gatza'}, {'brnao gadss', 'bbirn gadas', 'brnah gtesu', 'brwwn gayts', 'brany gadds'}, {'broyn gatcy', 'biran gtesy', 'brown gties', 'brrwn gatsu', 'berin gatzo'}, {'buirn gatzy', 'bwran gatzi', 'brnaa gadys', 'bruyn gtess', 'brown gtaes'}, {'buran gtues', 'brnay gatsw', 'biirn gatze', 'bwrin gwtss', 'biarn gatza'}, {'baran gadez', 'brnia gwtas', 'brnaw gtoes', 'birin gwtez', 'brwyn gteas'}, {'brwwn gdoes', 'brnay gadss', 'brnia gahds', 'berin ggtys', 'brnah gatsu'}, {'briny gatce', 'brnaw gtaes', 'beirn gatzo', 'branw gatze', 'berin gwtws'}, {'broyn gados', 'brwyn gwtts', 'byran gatsi', 'boran gatso', 'beirn gaads'}, {'buirn gddes', 'bwrin gteso', 'burin ggtos', 'beirn gatzi', 'brnai gtehs'}, {'brnah gwtis', 'brnau ggtis', 'bwrin gatwz', 'byran gtesy', 'birin ggtez'}, {'boran gatzo', 'boirn ggdes', 'brnay gatce', 'beirn gatza', 'biirn gatwz'}, {'brnau gatsu', 'brinw gwtas', 'brnao gatzo', 'boirn gadas', 'brnia gdues'}, {'bruyn gttys', 'brinw gdues', 'beirn gtesy', 'bwran gttis', 'brnau gatsy'}, {'biran godes', 'baran gatsa', 'brnia gdies', 'brnao gwtss', 'broyn gatza'}, {'brnay gatsy', 'briny gteus', 'byran ggtis', 'brwnn gutws', 'brnau gotys'}, {'brnnn gatci', 'branw gudes', 'brnai gteis', 'brnao gties', 'bwrin gotws'}, {'boirn gotws', 'brwwn ggtez', 'brewn ggtis', 'bbirn gadez', 'brnau gttez'}, {'bwran gawds', 'broyn gwtys', 'byrin gteas', 'brany gtese', 'brown gties'}, {'bbirn ggtus', 'brrnn gudes', 'brnaa gadus', 'brnaw gteus', 'beran ggtez'}, {'bryyn gahds', 'branw gadis', 'bbirn gatyz', 'burin gteso', 'brwnn ggtas'}, {'brnai gudes', 'bruwn gatsw', 'brryn ggtys', 'brwwn gadez', 'brnay gatse'}, {'buran ggtws', 'brayn gddes', 'bwran gayts', 'biarn gawds', 'brywn gtesy'}, {'brryn gwtws', 'brwwn ggtus', 'biran gaads', 'brnia gatyz', 'breyn gtaes'}, {'brnay gaads', 'biran gatsw', 'beirn ggtus', 'brnia gttws', 'brnae gwtos'}, {'brnay gatcy', 'brrwn gadys', 'beirn gutys', 'brnai gayds', 'brnnn gadez'}, {'brynn gwdes', 'brayn gadys', 'burin gadas', 'brrnn gaeds', 'brnao ggtys'}, {'brryn gatsi', 'baran gwtez', 'brnia gtoes', 'brnnn gatzu', 'buran ggdes'}, {'bruyn gotws', 'brynn ggtas', 'borin gtesa', 'byrin gadas', 'bruwn ggtws'}, {'baran ggtys', 'brryn gwtez', 'brnay gtese', 'brnae gatzu', 'brwyn gties'}, {'berin gwdes', 'birin gtesu', 'brnaw ggtos', 'brwnn gdees', 'brrwn gties'}, {'brnau gatsu', 'bbirn gatsy', 'birin gttis', 'brnnn gtees', 'branw gteis'}, {'buran gatzu', 'buirn gudes', 'brayn gatsa', 'beran gwtws', 'branw gteos'}, {'boran gudes', 'brnau gwtws', 'brany gatzw', 'brynn gttas', 'barin ggtws'}, {'brnaw gatzw', 'bruyn gawds', 'brnah gadus', 'brinw gtese', 'brnnn gwtez'}, {'brrrn gatso', 'brwyn gtesi', 'brayn gatzu', 'byran gteis', 'brnay gttez'}, {'brnia gatzo', 'biirn gdaes', 'brnah gadez', 'borin gtese', 'brnay gttys'}, {'borin gaeds', 'brywn ggtas', 'boirn ggtys', 'brnao gatsa', 'bryyn gtese'}, {'biarn gttus', 'boran gatsw', 'brwwn ggtez', 'birin gatyz', 'brnai gtesu'}, {'birin gwtis', 'borin ggtws', 'brnah gteas', 'briny gties', 'brwyn gadss'}, {'byrin gatzi', 'brnnn gwdes', 'broyn gwtas', 'brinw gadws', 'baran gotys'}, {'brinw gteus', 'bruwn gteys', 'brnah gatzw', 'broyn gadus', 'burin gatwz'}, {'brnau gatzi', 'bruyn gawds', 'brewn gatso', 'brynn gtesy', 'brrwn ggtez'}, {'briny gteus', 'brrnn gttws', 'brryn gttis', 'brnay gaids', 'bryyn gwtez'}, {'brynn gtesu', 'biirn gteas', 'bbirn gttys', 'brwyn gwtys', 'brewn ggtez'}, {'biarn ggtus', 'broyn gatse', 'boran ggtas', 'buran gteys', 'byrin gaids'}, {'brrrn gwtws', 'brrnn gaids', 'brrwn gdies', 'barin gties', 'brnaw gatsw'}, {'brwwn gttos', 'buran gtews', 'brnai gadss', 'branw gatsy', 'brnaw gttas'}, {'brnnn gttys', 'brwwn gotws', 'bbirn gtesw', 'brwyn godes', 'brany gauds'}, {'buirn gtesi', 'brwyn gwtos', 'beirn gteos', 'bruyn gadws', 'buran gtesw'}, {'biran gtese', 'brewn gdaes', 'brwwn gatsy', 'broyn gwtez', 'brynn ggtws'}, {'buran gtues', 'brryn gotys', 'brwnn gadez', 'brnaw gtess', 'brwwn gayts'}, {'byran gadws', 'brryn gotys', 'brwyn gtese', 'brynn gatze', 'burin gadss'}, {'burin gatsa', 'brrwn gados', 'brnau gteos', 'berin gtese', 'brinw gwdes'}, {'branw gudes', 'brynn gtesu', 'brwwn gttas', 'buirn gttez', 'broyn gutws'}, {'brnaa gwtas', 'bbirn gteys', 'brrrn gttys', 'baran gaeds', 'brwyn gtesu'}, {'bruyn gteas', 'bryyn gties', 'brwnn gayds', 'burin gatsy', 'bwran gaids'}, {'brown gtess', 'burin gddes', 'biran gties', 'buirn gawds', 'byrin gwtys'}, {'biirn gadas', 'brnai gadds', 'briny gatsi', 'brynn gtoes', 'biarn ggtus'}, {'bwran gatso', 'brwnn gtoes', 'brnao gttos', 'biran gotys', 'brrrn gtesw'}, {'brrrn gauds', 'biarn gatsw', 'berin ggtos', 'brrnn gdies', 'barin gadys'}, {'broyn gatsa', 'burin gatse', 'buran gtaes', 'brnay gtues', 'brwyn gwtas'}, {'baran gtoes', 'bruwn gadas', 'brnao ggtus', 'brewn gtesw', 'brayn gadds'}, {'brnaw gatze', 'bairn gatzw', 'brywn gdees', 'brewn gtues', 'breyn gatsy'}, {'baran gttys', 'brnay gatsw', 'burin gwtws', 'biarn gadss', 'bruwn gwtas'}, {'beran gatzy', 'boran gtoes', 'beirn gatzi', 'brnai gotws', 'biarn gatsy'}, {'brrnn gadez', 'bwran gttus', 'bryyn gdues', 'brown ggdes', 'brnia gayts'}, {'buirn gteos', 'biran gteas', 'brany gtesu', 'borin gwtus', 'brywn gteis'}, {'brrwn gayds', 'brywn gatce', 'brnaw gatcy', 'bairn gdoes', 'breyn gteus'}, {'briny gteus', 'biran gatze', 'borin gatzw', 'brayn gtese', 'boran gadys'}, {'bruwn gttis', 'brwwn ggdes', 'bbirn gayts', 'brywn gatzi', 'brnaw gadis'}, {'birin gtaes', 'brnay gatze', 'brnae gwtas', 'borin gatza', 'burin ggtus'}, {'breyn gotws', 'broyn gayds', 'bwran gayts', 'brrrn gatzu', 'bruwn gdoes'}, {'broyn gadis', 'brinw gaeds', 'biran gatzw', 'brynn gteys', 'bairn gtesu'}, {'buran gttas', 'byran gatcy', 'brynn gtews', 'berin ggtys', 'bruwn ggtis'}, {'beran gwdes', 'brrrn godes', 'brnah gtoes', 'briny gatzw', 'branw gayds'}, {'boirn gatzi', 'biarn gdoes', 'brnau gayts', 'brrrn gotws', 'buirn gwtos'}, {'branw ggtys', 'brywn gadws', 'brwwn gatwz', 'barin gadys', 'buirn ggtez'}, {'brnah gados', 'biarn gayts', 'biran gtues', 'brrwn gatcy', 'byran ggtws'}, {'bwran gteso', 'bbirn gahds', 'brnau ggdes', 'boirn godes', 'boran gauds'}, {'briny gwtas', 'byran gadas', 'brnaa gayts', 'borin gatza', 'brnay gadus'}, {'branw gwtys', 'brwwn gttas', 'barin gteas', 'briny ggdes', 'brnau gatsy'}, {'bryyn gwtss', 'brwnn gatze', 'bwrin gadus', 'berin gwtos', 'brinw gotys'}, {'brnao gwdes', 'brrrn gatza', 'buran gtoes', 'breyn gttws', 'bruwn gties'}, {'burin gtehs', 'barin gwtas', 'bwran gaeds', 'brnau gatzw', 'brwwn gtesy'}, {'briny gteas', 'beran gttas', 'buirn gatze', 'bryyn gotws', 'broyn gtews'}, {'bwran gadws', 'bruwn gatsw', 'brywn ggtys', 'briny gdies', 'bruyn gwtus'}, {'beran gatsu', 'brnay gayds', 'brnaa gttas', 'brown gtesw', 'byran gutys'}, {'briny gteos', 'brrwn gdoes', 'berin gadys', 'bryyn ggtws', 'brnau gwtez'}, {'brnah gawds', 'brryn gadys', 'biirn gttws', 'branw gtese', 'bbirn gtess'}, {'biirn gatcy', 'brinw gadys', 'brnaw gtees', 'beirn gtesi', 'burin gatsi'}, {'brrrn gtesa', 'brywn gawds', 'breyn gadez', 'brinw gteas', 'brnia gtaes'}, {'boran gatce', 'beirn gtesy', 'bairn gadys', 'brwyn gadus', 'brewn gddes'}, {'bwrin gaids', 'bwran gatsw', 'byrin gudes', 'brnah gatzw', 'brewn gteys'}, {'brwnn gutws', 'biarn gttos', 'brnaa gawds', 'byrin gtaes', 'brewn gttws'}, {'brryn gtesa', 'brayn gdaes', 'brynn gadws', 'boirn gtesy', 'bruwn gties'}, {'borin gados', 'burin gatcy', 'brnae gadas', 'brnay gotws', 'brany gadys'}, {'biarn gtaes', 'birin gttez', 'brany gwtus', 'brnaa gadds', 'brewn gtesy'}, {'brnaw gatsi', 'bbirn gteus', 'buran gadas', 'bryyn gtese', 'brnai gwtys'}, {'boran gtews', 'boirn gwtts', 'brrnn gaids', 'brnia gauds', 'brnaa gatci'}, {'bwrin ggtws', 'breyn gadws', 'brrnn gatza', 'brynn ggtas', 'brnae gatze'}, {'bairn gawds', 'brnay gtesa', 'biarn gayds', 'brnai gadys', 'brnau gotys'}, {'byrin gatyz', 'briny gwtts', 'brwwn gttws', 'baran ggtus', 'buirn gttus'}, {'borin gotws', 'biarn gotys', 'brany gwtys', 'brrwn gatci', 'bruyn ggtas'}, {'brnia gddes', 'boran ggdes', 'buran gwtws', 'bairn gauds', 'brayn gados'}, {'brnah gatzu', 'bwran gttas', 'branw gadas', 'bairn gtehs', 'brrwn gatyz'}, {'brnah gtehs', 'birin gtees', 'brwwn gwtss', 'baran gteys', 'brnaa gadas'}, {'broyn gtesw', 'brwwn gttez', 'brnai gteys', 'beirn gwtss', 'berin gwtys'}, {'bruyn gauds', 'brnnn gados', 'brwnn gadez', 'brywn gatcy', 'burin gadus'}, {'biirn gadis', 'brryn gatza', 'biarn ggtis', 'byrin gtees', 'barin gwtis'}, {'brwnn gttez', 'breyn gatcy', 'brywn gttis', 'byrin gawds', 'brnae gdies'}, {'brrnn gaeds', 'brnaw gttus', 'brnah gwtos', 'brrwn gttys', 'birin gadys'}, {'brrnn gdees', 'berin gttys', 'beran gaeds', 'barin gdaes', 'byrin gotws'}, {'bwran gadis', 'bryyn gahds', 'buran gadez', 'brnao gatza', 'brnia gwtys'}, {'bruyn gatso', 'brnay ggtas', 'beirn gadis', 'brewn gtesu', 'bruwn gatcy'}, {'burin gados', 'bryyn ggtis', 'brayn gahds', 'brrnn gttis', 'brnah gwtys'}, {'breyn gtesa', 'bairn gadis', 'brewn gatzu', 'bruwn gatyz', 'broyn ggdes'}, {'brnai gtees', 'brnau gaeds', 'birin gtesi', 'biran gahds', 'byrin gatwz'}, {'bwran gatzo', 'burin gutws', 'biran gatcy', 'brnau gteys', 'birin gahds'}, {'bwrin gtaes', 'byran gadds', 'brnnn gties', 'berin ggtis', 'brewn gadez'}, {'buirn gadss', 'byrin gttis', 'birin gatzo', 'brewn ggtis', 'borin gdoes'}, {'berin gotws', 'beran gatce', 'brnau gatyz', 'brnnn gtees', 'brwyn gteis'}, {'bwran gadws', 'brwnn gtoes', 'branw godes', 'brown gttez', 'birin ggtez'}, {'brewn gatci', 'brywn gatzo', 'breyn gwtws', 'brrwn gwtys', 'beran gtehs'}, {'byran gttez', 'biarn gatzy', 'bbirn gwtez', 'bryyn gadis', 'brnay gwtas'}, {'briny gwtts', 'brnao gadws', 'burin gatzi', 'brnah gatsy', 'brwnn gttus'}, {'brnay gwdes', 'branw gtues', 'brnao gauds', 'brnau gatze', 'birin gtesy'}, {'branw gatyz', 'brnao gotys', 'brnaw gttis', 'boran gtess', 'beirn gwtos'}, {'bruwn gatsw', 'brnay gutys', 'brrrn gttys', 'biirn gteys', 'barin gaids'}, {'borin gttus', 'breyn gatzw', 'byran gtoes', 'brnae gtehs', 'brnaa ggtez'}, {'boran gaeds', 'baran gatsu', 'brnia gaads', 'biirn gatza', 'bruyn gtese'}, {'beran gutys', 'bbirn ggtis', 'burin gwtss', 'bwran gayts', 'biirn gtess'}, {'boirn gadss', 'bruyn gttws', 'bruwn gtesw', 'berin gatzu', 'brrrn gtesy'}, {'brnao gatsi', 'bryyn gudes', 'burin gtesi', 'bairn gutws', 'boran ggtus'}, {'boran gttis', 'berin gtesa', 'barin gutys', 'brown godes', 'biirn gatsu'}, {'brany gudes', 'brnnn gtesa', 'broyn gadws', 'berin godes', 'boirn gtesy'}, {'brnau gteis', 'brnai gatsa', 'brown ggtas', 'brywn gwtez', 'brany gatzu'}, {'brinw gadds', 'baran ggdes', 'buirn ggtys', 'biran ggtos', 'brnnn gwtss'}, {'brany ggtas', 'boirn gatcy', 'brrrn gatwz', 'bruyn gaids', 'brnaw gatsa'}, {'brnai ggtos', 'broyn gdues', 'barin gwtos', 'brinw gteys', 'brrwn gttys'}, {'branw gatsi', 'briny ggtys', 'byrin gudes', 'beran gatsy', 'brnia gotys'}, {'brnay gatzo', 'beran gatsu', 'briny gatwz', 'brayn gdees', 'brwwn gtesy'}, {'burin gadas', 'bruyn gadez', 'buirn gdies', 'brnnn gatzo', 'borin gayts'}, {'bairn gaeds', 'boran gutys', 'brwnn gtews', 'byran ggtas', 'brrwn gutws'}, {'brrwn gwtas', 'byran ggtez', 'barin gtues', 'bwran gadas', 'brnae gtesu'}, {'barin gttos', 'biran gwtws', 'biirn gatcy', 'byran gatze', 'bruyn gatza'}, {'buirn gadus', 'brnnn gtews', 'brnau gwtss', 'brewn gadds', 'brrwn gwtys'}, {'brnah gados', 'bairn gaods', 'biirn gddes', 'byran gawds', 'bwrin gtesw'}, {'broyn gwtss', 'brwwn ggdes', 'brnia gados', 'buran gaids', 'briny gdees'}, {'burin gutws', 'brnay gutys', 'brnao gttws', 'brrwn gatzw', 'buran gwtts'}, {'brnnn gatze', 'biran gttas', 'byran gwtys', 'brrrn gwtss', 'borin gddes'}, {'brnao gdoes', 'brynn gttos', 'biirn ggtis', 'barin gaods', 'baran gwtez'}, {'borin gatsy', 'baran gatsu', 'brrnn gttas', 'brnao gdees', 'brayn gtesa'}, {'bruyn gteas', 'byrin gttez', 'brnaw gawds', 'burin gatze', 'brrwn gttos'}, {'brrrn gahds', 'brryn gttas', 'broyn gwtas', 'brnaa gatso', 'buran gwtss'}, {'beran ggtws', 'branw gauds', 'bwrin gdees', 'brwyn gwtus', 'brryn gatzo'}, {'birin gwtus', 'bwran gtesi', 'beran godes', 'branw gtese', 'brayn gwtws'}, {'brnnn gudes', 'byran gtess', 'boran gtoes', 'brnae gatsa', 'burin godes'}, {'burin gauds', 'beirn gties', 'brrrn gatse', 'brnau ggdes', 'breyn gwtss'}, {'biirn ggtus', 'brany gwtez', 'birin gatsa', 'berin gatzu', 'bruyn gatse'}, {'beran gatsu', 'brnae gtese', 'brown gatse', 'biran gaeds', 'bruyn gtues'}, {'byrin gatce', 'bbirn gdues', 'brnnn gwdes', 'brany gdies', 'brrnn gttez'}, {'berin gdaes', 'burin gtues', 'biirn gadis', 'buirn gahds', 'bruyn gwtas'}, {'branw gadis', 'brrrn gatce', 'brnay gtaes', 'byrin gtues', 'bwrin ggtas'}, {'brinw gttas', 'brywn gudes', 'biarn gayds', 'bairn gteis', 'brnaa gtaes'}]
+brian gates         : DEBUG: Additional rule variations: {'b ga'}
+brian gates         : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 6
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "brian gates": {
+            "first_name": {
+                "score": 1.0,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 1.0,
+                        "combined": 1.0
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 5.390000000000001,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "brnnn",
+                            "phonetic_score": 0.7169419220817999,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "brryn",
+                            "phonetic_score": 0.7169419220817999,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "brnau",
+                            "phonetic_score": 0.7169419220817999,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "beirn",
+                            "phonetic_score": 0.7169419220817999,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "brrrn",
+                            "phonetic_score": 0.7169419220817999,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.8514487287462472,
+            "final_score": 0.8811589829969979,
+            "variation_count": 6,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.7,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 1.0,
+                        "combined": 0.5
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 5.390000000000001,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "gadis",
+                            "phonetic_score": 0.47472093318052133,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "gayts",
+                            "phonetic_score": 0.47472093318052133,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "gwtss",
+                            "phonetic_score": 0.47472093318052133,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "gadds",
+                            "phonetic_score": 0.47472093318052133,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "gties",
+                            "phonetic_score": 0.47472093318052133,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_abbreviations": [
+                            "b ga"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "b ga": [
+                            "shorten_name_to_abbreviations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.16666666666666666,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "brian gates": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_abbreviations": [
+                            "b ga"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "b ga": [
+                            "shorten_name_to_abbreviations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.16666666666666666,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.8811589829969979,
+    "final_reward": 0.8811589829969979
+}
+brian gates         : DEBUG: ----------------------------------------------------------------------------------------------------

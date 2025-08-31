@@ -1,0 +1,888 @@
+tamara smith        : INFO: Generating variations for tamara smith
+tamara smith        : INFO: ----------------------------------------------------------------------------------------------------
+tamara smith        : INFO: Effective rules: ['initial_only_first_name', 'remove_random_vowel', 'shorten_name_to_initials']
+tamara smith        : INFO: ----------------------------------------------------------------------------------------------------
+tamara smith        : INFO: Min Required Rule Variation Set: [{'t. SMiTh', 't. SmITH', 'T. Smith', 't. sMiTH', 'T.SMIth', 't. smIth', 'T.SmIth', 'T.sMiTh', 'T. smITh', 'T. smITH', 't.SMIth', 'T.SMItH', 'T. sMItH', 't. SmiTH', 'T.SmITh', 't.sMith', 't.SMItH', 't.sMIth', 't.SmiTH', 't.SMITH', 't.sMItH', 't.sMITh', 'T. SmItH', 'T. SmIth', 't. smITH', 'T.smiTH', 't. SMiTH', 't. SMIth', 't.SMith', 't. SmITh', 't.sMitH', 'T. SMith', 'T.sMitH', 't.smItH', 'T.sMIth', 't.SmITh', 'T.Smith', 'T. SmITh', 'T.smiTh', 'T.SMith', 'T.sMITh', 't. smItH', 't.sMITH', 'T. sMith', 'T. SmITH', 'T.SMiTH', 't.SMITh', 'T. sMITH', 't. SMITh', 't.SMitH', 't. sMITh', 't. SMITH', 'T. SMItH', 'T. SMiTH', 'T. sMITh', 'T. SMITh', 't. smITh', 'T. sMIth', 't.smiTh', 't. sMiTh', 't. sMith', 't. sMItH', 'T. smIth', 'T.SmiTH', 'T. sMitH', 't. smitH', 't.Smith', 't.SMiTh', 't.SmitH', 't.smITh', 't. SmItH', 't. sMIth', 't. SMItH', 't.smith', 't. Smith', 't.smiTH', 't. SmiTh', 'T.smITh', 'T.smitH', 't.SmiTh', 'T. SMIth', 't.smitH', 't. SMith', 'T.SmitH', 'T.SMITh', 'T. sMiTH', 'T. smiTh', 'T.smItH', 'T.SMITH', 'T.SMitH', 'T. smItH', 't. sMITH', 'T.smITH', 'T.sMItH', 'T. sMiTh', 'T.smith', 'T. SmiTh', 'T. SMitH', 't. sMitH', 'T. smith'}, {'TAMArA SMtH', 'taMaR sMiTH', 'TAmRA SmITH', 'TAMar SmiTH', 'TamRa smIth', 'tAMar SMiTh', 'TamaR SMITH', 'TMAra sMITH', 'TAMRA sMITH', 'TAmaR SMIth', 'TamArA SmTh', 'tAmaRA SmtH', 'taMar SMIth', 'tAmAra sMtH', 'TAMRa sMITh', 'taMArA SMtH', 'tmarA sMITh', 'TAMarA SmTh', 'TAmara smtH', 'TamRa sMIth', 'TamrA SMItH', 'tmAra SmiTh', 'TAmAr SMIth', 'TAmAra smTh', 'tAmRA SMIth', 'tAMAr sMIth', 'tAmaR sMitH', 'TaMRA smith', 'tAmAr smiTh', 'TaMra SMitH', 'TamarA SmTH', 'TAmaRA SMTh', 'TamARa sMTh', 'TMara smItH', 'tAmRa smiTH', 'TAmra smItH', 'TamRA SmItH', 'TaMRA SMITH', 'TamaR SMith', 'TaMaRA sMTh', 'tmara smIth', 'TMarA SMiTH', 'tmaRa SmiTH', 'TaMaR sMITh', 'tAMra sMiTH', 'tmara SMITh', 'tMaRa sMIth', 'tAmaRA SMth', 'TMARa smIth', 'TAMarA sMtH', 'taMar sMItH', 'TAMAR sMItH', 'tMAra SmItH', 'TAMrA sMIth', 'taMaR SmITH', 'tamar sMitH', 'TamRa SMITh', 'TamARA sMth', 'tamar sMITH', 'TAMaR smitH', 'taMRA SmitH', 'tAmAR SMitH', 'tAmra sMitH', 'TAMaR smItH', 'TAMaRA smtH', 'tmARa smith', 'tMara sMith', 'tmaRa SMitH', 'TAMaRa SMth', 'tAmarA sMth', 'TAMra SMitH', 'Tamara SMtH', 'tamRa smItH', 'tMArA sMith', 'tmARA SMith', 'tAmaRA SMTh', 'tAmRa SMitH', 'tmAra SmiTH', 'tamar SmIth', 'TaMaRA smtH', 'taMrA SMItH', 'TAMaRA sMth', 'TAmaRa SmTh', 'tamARA SmTh', 'TAmARA SMth', 'tAmarA sMtH', 'tAmrA Smith', 'Tamar Smith', 'tAMrA smITh', 'TmArA SMITH', 'TAMaR SmiTH', 'TmArA sMiTH', 'tmaRA SmITH', 'TAmar SMitH', 'tAMra SMiTH', 'taMARA SmtH', 'TmARa SMItH', 'tAMRA smitH', 'taMara SMtH', 'TaMArA SmTH'}, {'t. s.', 'T. s.', 't.s.', 'Ts', 'T. S.', 't.S.', 'TS', 't. S.', 'tS', 'T.S.', 'T.s.', 'ts'}]
+tamara smith        : INFO: ----------------------------------------------------------------------------------------------------
+tamara smith        : INFO: First name: tamara
+tamara smith        : INFO: Last name: smith
+tamara smith        : INFO: ----------------------------------------------------------------------------------------------------
+tamara smith        : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (0, 7), (0, 8)]
+tamara smith        : INFO: ------------------------------Trying rule_count_pair 1 / 8: rule_count/nonrule_count: 0/1------------------------------
+tamara smith        : DEBUG: O: [0, 0, 0, 1]
+tamara smith        : DEBUG: P: [0, 0, 0, 1]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [24]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: tamara, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+tamara smith        : DEBUG: name: tamara, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: O: [0, 0, 0, 1]
+tamara smith        : DEBUG: P: [0, 0, 0, 1]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [43]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: smith, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+tamara smith        : DEBUG: name: smith, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: scores: [0.26733728]
+tamara smith        : INFO: ------------------------------Trying rule_count_pair 2 / 8: rule_count/nonrule_count: 0/2------------------------------
+tamara smith        : DEBUG: O: [0, 0, 0, 2]
+tamara smith        : DEBUG: P: [1, 1, 0, 0]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [10, 2, 0]
+tamara smith        : DEBUG: [500, 161, 0]
+tamara smith        : DEBUG: [500, 308, 0]
+tamara smith        : DEBUG: [456, 224, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [13]
+tamara smith        : DEBUG: [298]
+tamara smith        : DEBUG: [188]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: tamara, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: O: [0, 0, 0, 2]
+tamara smith        : DEBUG: P: [1, 1, 0, 0]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [4, 7, 0]
+tamara smith        : DEBUG: [20, 50, 0]
+tamara smith        : DEBUG: [20, 85, 0]
+tamara smith        : DEBUG: [20, 45, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [8]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: smith, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: scores: [0.28409408]
+tamara smith        : INFO: ------------------------------Trying rule_count_pair 3 / 8: rule_count/nonrule_count: 0/3------------------------------
+tamara smith        : DEBUG: O: [0, 1, 0, 2]
+tamara smith        : DEBUG: P: [1, 1, 0, 1]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [10, 2, 0]
+tamara smith        : DEBUG: [500, 161, 0]
+tamara smith        : DEBUG: [500, 308, 0]
+tamara smith        : DEBUG: [456, 224, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+tamara smith        : DEBUG: [13]
+tamara smith        : DEBUG: [298]
+tamara smith        : DEBUG: [188]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [24]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: tamara, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+tamara smith        : DEBUG: name: tamara, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: O: [0, 1, 0, 2]
+tamara smith        : DEBUG: P: [1, 1, 0, 1]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [4, 7, 0]
+tamara smith        : DEBUG: [20, 50, 0]
+tamara smith        : DEBUG: [20, 85, 0]
+tamara smith        : DEBUG: [20, 45, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [0, 1, 0, 0]
+tamara smith        : DEBUG: [8]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [43]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: smith, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+tamara smith        : DEBUG: name: smith, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: scores: [0.3850208]
+tamara smith        : INFO: ------------------------------Trying rule_count_pair 4 / 8: rule_count/nonrule_count: 0/4------------------------------
+tamara smith        : DEBUG: O: [1, 1, 1, 1]
+tamara smith        : DEBUG: P: [2, 2, 0, 0]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 0, 1, 1]
+tamara smith        : DEBUG: [10, 2, 0]
+tamara smith        : DEBUG: [500, 161, 0]
+tamara smith        : DEBUG: [500, 308, 0]
+tamara smith        : DEBUG: [456, 224, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+tamara smith        : DEBUG: [13]
+tamara smith        : DEBUG: [298]
+tamara smith        : DEBUG: [188]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: tamara, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: O: [1, 1, 1, 1]
+tamara smith        : DEBUG: P: [2, 2, 0, 0]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 0, 1, 1]
+tamara smith        : DEBUG: [4, 7, 0]
+tamara smith        : DEBUG: [20, 50, 0]
+tamara smith        : DEBUG: [20, 85, 0]
+tamara smith        : DEBUG: [20, 45, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+tamara smith        : DEBUG: [8]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: smith, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: scores: [0.554]
+tamara smith        : INFO: ------------------------------Trying rule_count_pair 5 / 8: rule_count/nonrule_count: 0/5------------------------------
+tamara smith        : DEBUG: O: [1, 2, 1, 1]
+tamara smith        : DEBUG: P: [2, 2, 0, 1]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+tamara smith        : DEBUG: [10, 2, 0]
+tamara smith        : DEBUG: [500, 161, 0]
+tamara smith        : DEBUG: [500, 308, 0]
+tamara smith        : DEBUG: [456, 224, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+tamara smith        : DEBUG: [13]
+tamara smith        : DEBUG: [298]
+tamara smith        : DEBUG: [188]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [24]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: tamara, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+tamara smith        : DEBUG: name: tamara, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: O: [1, 2, 1, 1]
+tamara smith        : DEBUG: P: [2, 2, 0, 1]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 1, 1, 0]
+tamara smith        : DEBUG: [4, 7, 0]
+tamara smith        : DEBUG: [20, 50, 0]
+tamara smith        : DEBUG: [20, 85, 0]
+tamara smith        : DEBUG: [20, 45, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [1, 1, 0, 0]
+tamara smith        : DEBUG: [8]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [43]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: smith, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+tamara smith        : DEBUG: name: smith, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: scores: [0.5552]
+tamara smith        : INFO: ------------------------------Trying rule_count_pair 6 / 8: rule_count/nonrule_count: 0/6------------------------------
+tamara smith        : DEBUG: O: [1, 2, 1, 2]
+tamara smith        : DEBUG: P: [3, 3, 0, 0]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 0, 1, 2]
+tamara smith        : DEBUG: [10, 2, 0]
+tamara smith        : DEBUG: [500, 161, 0]
+tamara smith        : DEBUG: [500, 308, 0]
+tamara smith        : DEBUG: [456, 224, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [2, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [1, 2, 0, 0]
+tamara smith        : DEBUG: [13]
+tamara smith        : DEBUG: [298]
+tamara smith        : DEBUG: [188]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [2]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: tamara, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: O: [1, 2, 1, 2]
+tamara smith        : DEBUG: P: [3, 3, 0, 0]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 0, 1, 2]
+tamara smith        : DEBUG: [4, 7, 0]
+tamara smith        : DEBUG: [20, 50, 0]
+tamara smith        : DEBUG: [20, 85, 0]
+tamara smith        : DEBUG: [20, 45, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [2, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [1, 2, 0, 0]
+tamara smith        : DEBUG: [8]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [2]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: smith, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: scores: [0.5370208]
+tamara smith        : INFO: ------------------------------Trying rule_count_pair 7 / 8: rule_count/nonrule_count: 0/7------------------------------
+tamara smith        : DEBUG: O: [2, 2, 2, 1]
+tamara smith        : DEBUG: P: [3, 3, 0, 1]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 1, 2, 0]
+tamara smith        : DEBUG: [10, 2, 0]
+tamara smith        : DEBUG: [500, 161, 0]
+tamara smith        : DEBUG: [500, 308, 0]
+tamara smith        : DEBUG: [456, 224, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [2, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [2, 1, 0, 0]
+tamara smith        : DEBUG: [13]
+tamara smith        : DEBUG: [298]
+tamara smith        : DEBUG: [188]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [2]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [24]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: tamara, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+tamara smith        : DEBUG: name: tamara, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: O: [2, 2, 2, 1]
+tamara smith        : DEBUG: P: [3, 3, 0, 1]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 1, 2, 0]
+tamara smith        : DEBUG: [4, 7, 0]
+tamara smith        : DEBUG: [20, 50, 0]
+tamara smith        : DEBUG: [20, 85, 0]
+tamara smith        : DEBUG: [20, 45, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [2, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [2, 1, 0, 0]
+tamara smith        : DEBUG: [8]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [2]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+tamara smith        : DEBUG: [43]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [500]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [1]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: smith, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+tamara smith        : DEBUG: name: smith, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: scores: [0.52066551]
+tamara smith        : INFO: ------------------------------Trying rule_count_pair 8 / 8: rule_count/nonrule_count: 0/8------------------------------
+tamara smith        : DEBUG: O: [2, 3, 2, 1]
+tamara smith        : DEBUG: P: [4, 4, 0, 0]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 1, 2, 1]
+tamara smith        : DEBUG: [10, 2, 0]
+tamara smith        : DEBUG: [500, 161, 0]
+tamara smith        : DEBUG: [500, 308, 0]
+tamara smith        : DEBUG: [456, 224, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [2, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+tamara smith        : DEBUG: [13]
+tamara smith        : DEBUG: [298]
+tamara smith        : DEBUG: [188]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [2]
+tamara smith        : DEBUG: [2]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: tamara, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: tamara, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: O: [2, 3, 2, 1]
+tamara smith        : DEBUG: P: [4, 4, 0, 0]
+tamara smith        : WARNING: Remains: 0
+tamara smith        : DEBUG: p_level: 1, O: [0, 1, 2, 1]
+tamara smith        : DEBUG: [4, 7, 0]
+tamara smith        : DEBUG: [20, 50, 0]
+tamara smith        : DEBUG: [20, 85, 0]
+tamara smith        : DEBUG: [20, 45, 0]
+tamara smith        : DEBUG: [0, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: [2, 0, 0]
+tamara smith        : DEBUG: [1, 0, 0]
+tamara smith        : DEBUG: p_level: 0, O: [2, 2, 0, 0]
+tamara smith        : DEBUG: [8]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [20]
+tamara smith        : DEBUG: [2]
+tamara smith        : DEBUG: [2]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: [0]
+tamara smith        : DEBUG: final:
+tamara smith        : DEBUG: name: smith, l_level: 0
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [2, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 1
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: name: smith, l_level: 2
+tamara smith        : DEBUG: --------------------------------------------------
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+tamara smith        : DEBUG: scores: [0.50433728]
+tamara smith        : DEBUG: ----------------------------------------------------------------------------------------------------
+tamara smith        : DEBUG: Best score achieved: 0.5551999999999999
+tamara smith        : DEBUG: Best selected: 0/5
+tamara smith        : DEBUG: Rule variations: []
+tamara smith        : DEBUG: Nonrule variations: [{'atnyri jimyy', 'tmearo smthy', 'tomear smaTh', 'tumara smeth', 'teemre SMYth'}, {'tuumru SSMth', 'tamire SmEth', 'haamhu yhtih', 'tamera smEth', 'tmiarw simth'}, {'temara smath', 'teemar SmEth', 'tmoyrw Smthy', 'athawe jiwyh', 'twmwra ssmth'}, {'tmoiru SMTth', 'timara smEth', 'atmiah cmydy', 'tamerw Ssmth', 'tamoor sMoth'}, {'temriw SSMth', 'wuwaar hytih', 'tamaro smoth', 'tamohr SmAth', 'tamray Smwth'}, {'tumaru Smoth', 'tamury smthw', 'tuumri SAmth', 'tamaru smath', 'atmrhh cimmt'}, {'tmaoar smtho', 'temaar sMoth', 'timara smoth', 'tihmri SSMth', 'duyaar chowh'}, {'tomara smuth', 'tmuhru Smthe', 'tmoari Ssmth', 'tomaer smeTh', 'atmhyh wamtw'}, {'tomara smuth', 'wwnaar wcyit', 'tewmre SMMth', 'tawmri smtho', 'taemer sMuth'}, {'taumre smtha', 'teemrw SMYth', 'tamera smuth', 'tomiar smetH', 'hmaaye gnwyh'}, {'tmoaor SImth', 'tamari smAth', 'atmour khtuh', 'temerr smETh', 'tmuraa smthy'}, {'tomryy Smthi', 'tmawru Ssmth', 'tamaro smuth', 'temuro smEtH', 'atmrey yymdh'}, {'timirr Smath', 'atwwha sywiy', 'tuimra semth', 'timara smeth', 'tuimre SMtth'}, {'wmwaar knthh', 'temuru smetH', 'tomary ssmth', 'tamare smAth', 'tmeeri SMTth'}, {'atwawe xemwh', 'tamoir sMoth', 'tmiarw Smyth', 'tumara smeth', 'tmaowr SAMth'}, {'tymwry smthw', 'tmuoru SMYth', 'atmhaw syaiy', 'tumair sMAth', 'temara smuth'}, {'ywyaar chiwt', 'tumara smeth', 'tmiuru SMMth', 'twmawr semth', 'tomaar smEtH'}, {'tuamer smatH', 'temara smAth', 'tamwre ssmth', 'tmeire SMWth', 'whyraa yiwdh'}, {'atmuur syeiy', 'twmoir SMYth', 'tammor smatH', 'tumara smUth', 'timerw swmth'}, {'tamora smEth', 'tahmro smthi', 'tmraae Samth', 'timero sMuth', 'hmiaar chiit'}, {'tuomru SAMth', 'tymeri smthw', 'tamaro smUth', 'wmyaar chowh', 'tuomar Smeth'}, {'timira Smuth', 'timyro smthw', 'tumara smEth', 'whhraa chiet', 'timrii Smthu'}, {'atmywh ychit', 'tamarr smoth', 'timaur smETh', 'tymarw smtha', 'tmaoer SMwth'}, {'atnyry hwtih', 'toemri Smthy', 'tamora smath', 'tuamro smthw', 'tomaer SmAth'}, {'tamaro smOth', 'tuomro SSmth', 'tumuru sMath', 'tymaro somth', 'athayo shwut'}, {'tomoro sMath', 'tomury Smtth', 'timara smoth', 'tmioar SMmth', 'yaamhe ccyit'}, {'teemar SmAth', 'tymiro simth', 'tamare smeth', 'atmuor cimmt', 'tmiery SMyth'}, {'tuwmri SMmth', 'tamari smeth', 'tumrua swmth', 'tomaro smETh', 'atnaer qimdh'}, {'timire smETh', 'tamarr smuth', 'timrii SMTth', 'teamre symth', 'athorw hhmid'}, {'tumwrw ssmth', 'wuwaar xmuwt', 'temara smoth', 'tawmur SmAth', 'tumrww Smthi'}, {'tmiawr SImth', 'tahmor Smath', 'atywry syudw', 'tumary Smmth', 'timara smeth'}, {'teamra smthy', 'atmowy ywtih', 'temara smeth', 'tamorr smuTh', 'tumruo SMYth'}, {'athhya zmyhi', 'tamera smeth', 'temwyr Smthy', 'temahr Smath', 'tamury Smyth'}, {'tamrau symth', 'tumura Smoth', 'tamare smEth', 'atmyhw xwtih', 'tymeer Smthe'}, {'timurr smEtH', 'dmhaar gimhh', 'tymwri smtho', 'tamera smEth', 'tumriy SMMth'}, {'atmyai khhih', 'tymray semth', 'tamari smAth', 'temera smuTh', 'tomiyr SMTth'}, {'tmiaar SIMth', 'daamhu xmtiu', 'tamair Smeth', 'tamira smuth', 'taamyr Smwth'}, {'tomiru Smoth', 'tamare smUth', 'tymero simth', 'tmiurw Smthy', 'atmywh shhut'}, {'tamora smEth', 'tuimry SMMth', 'tamear Smoth', 'tymaer somth', 'wwwaar chuit'}, {'temory Ssmth', 'tuimro SMmth', 'atwuri chmut', 'timmar sMath', 'tamarr smAth'}, {'athhha gimtw', 'tamera smAth', 'tmoayr SAMth', 'twmahr Smtth', 'tamoru Smoth'}, {'tmiyri SIMth', 'timire Smeth', 'athyru jimdh', 'tamrii sumth', 'tamura smath'}, {'teimra sumth', 'atmhwe ijmyh', 'tamera smath', 'tuimro SMwth', 'timorr smeTh'}, {'atmwhe chiyt', 'temoro Smeth', 'tomara smOth', 'teamry smthw', 'toumre SAmth'}, {'tomara smEth', 'atmyhu himwh', 'tmoyry Smthy', 'tamruy simth', 'tamaur sMEth'}, {'tmieru SMmth', 'tumara smOth', 'wwhraa yihdh', 'timray smthy', 'temuri smeTh'}, {'tuumra semth', 'temero smeTh', 'tmihri Smthi', 'athuro gimty', 'tamari smUth'}, {'temiru Smoth', 'tamaru smAth', 'wmaair hmaot', 'teimrw SMtth', 'taimre smthy'}, {'atyyre xnwyh', 'temrew SSMth', 'tamaro smAth', 'temraa smthe', 'timurr sMuth'}, {'tymeru smthe', 'tmeyro SSMth', 'tamior sMAth', 'atmwwr jimyy', 'timara smeth'}, {'tamira smUth', 'tmuhrw Smthi', 'tamayr Ssmth', 'ttemar Smuth', 'athiro swuww'}, {'tumaro smaTh', 'tmehrw SMtth', 'weyraa cyiwt', 'tamarr smuth', 'tamwre Smyth'}, {'tmiaru somth', 'toumry SIMth', 'atmroh yihdh', 'tamira smath', 'tihmar Smeth'}, {'tuimro SMmth', 'twmero somth', 'atmowy qimty', 'taumir Smeth', 'tamaru smeth'}, {'athaah xmtiw', 'tamwwr smtha', 'taumur sMEth', 'tomroo SMwth', 'tamare smoth'}, {'athyrh ysimt', 'tmiiry SMWth', 'taimor smutH', 'tamora smeth', 'taymru swmth'}, {'tmehra samth', 'tomiar sMath', 'tomiwr SSmth', 'tamaro smoth', 'atnahe gmaid'}, {'tomyrw smthy', 'yaamyw gimyh', 'tamira smeth', 'timruu SMYth', 'tamiir smuTh'}, {'tamura smoth', 'tamaer smETh', 'atnwrw gmuid', 'temruu Smthe', 'taamro Ssmth'}, {'athahi knthi', 'tmoira smthy', 'tmooar Smthu', 'tamari smEth', 'tamiri sMoth'}, {'tomira sMeth', 'yhyaar qimyh', 'tmaaer SAMth', 'twmaru smtho', 'tomara smOth'}, {'atnyha wmewy', 'tamira smEth', 'tymuar simth', 'tmowru SIMth', 'temaer smatH'}, {'timaru SmAth', 'tamrih Smtth', 'atmwho xhmid', 'tmoaur SMyth', 'tamarr smeth'}, {'tmihrw SAMth', 'atmhor simmw', 'temayr swmth', 'toamer sMeth', 'tamura smUth'}, {'tuamry sumth', 'atmeur hmyut', 'tumara smUth', 'tohmrw Smthy', 'tumear Smoth'}, {'temrow Smthy', 'tamera smeth', 'taamer SmEth', 'atmyaw gmmid', 'tamuyr Smyth'}, {'twmrie SImth', 'wehraa zmhhi', 'tamarr smoth', 'tmeera Smmth', 'ttemar Smoth'}, {'tymurw simth', 'tamare smUth', 'tmuuar SImth', 'atmruy simmw', 'ttemar sMath'}, {'tymeor Samth', 'tamruy smtho', 'temure smuTh', 'tamarr smeth', 'atmuhi wmehy'}, {'temari smutH', 'timruo SAmth', 'tamera smeth', 'tomria smthw', 'howaar chiyt'}, {'tomrua Ssmth', 'tamari smAth', 'tamerr Smeth', 'hmaaur zmwhi', 'tomiyr SAMth'}, {'tamrea symth', 'tmreaa SIMth', 'atmuyu ijmyh', 'tamare smAth', 'taumer sMeth'}, {'tmehrw SMYth', 'tamier smeTh', 'tamryy smtha', 'athhri wnewh', 'timara smeth'}, {'dyyaar shtiy', 'timara smEth', 'tumori sMoth', 'taamyr symth', 'twmeor Simth'}, {'tumwri semth', 'ymoaar syeiy', 'tomuar Smath', 'tywmri SMYth', 'tumara smeth'}, {'twmary Smmth', 'atmohe hntih', 'timara smuth', 'tymruy SMTth', 'tuamor smeTh'}, {'tomary smthe', 'hyhaar jimmt', 'tamair sMath', 'tamira smoth', 'tmeiro SAMth'}, {'tamaro smath', 'atmhur shmuy', 'toamrw smthu', 'tumreh SAMth', 'tumaro smuTh'}, {'tumrio SSmth', 'tamuir smetH', 'temara smAth', 'twwmra smthy', 'daamyu qimty'}, {'tamaru smeth', 'teamar Smoth', 'timiry Smtth', 'tmuhro Simth', 'wmyaar qimwh'}, {'tmarai sumth', 'atyyrw jmydy', 'tamura smUth', 'tmeeru SImth', 'tamuru sMAth'}, {'hmiaar himtw', 'temere sMeth', 'twmerw smthy', 'tamari smUth', 'tmohrw SMWth'}, {'timorr SmEth', 'tomyry samth', 'tamari smEth', 'whhraa kntah', 'tmihro SMtth'}, {'tmoiro Smthy', 'tamira smuth', 'temurr smetH', 'tawmri smthe', 'atwaye wytih'}, {'tihmro SSMth', 'hmaayo zumyh', 'temiar SmEth', 'temara smUth', 'twmair semth'}, {'tomara smUth', 'tymorw smthy', 'yyyaar cheit', 'timare smETh', 'tmaior SMYth'}, {'wuwaar wimwh', 'timoru Smeth', 'tumara smeth', 'tuumra samth', 'tiumri SIMth'}, {'tamaro smOth', 'tamoer SmEth', 'tomroo SSMth', 'atmohe hmyut', 'tamyry samth'}, {'timyra Smyth', 'tamaro smuth', 'temirr smetH', 'wiyraa wchit', 'tmaaor Smthy'}, {'atyahi yimdy', 'tuamru semth', 'twmohr SMmth', 'taimur smEtH', 'tamura smOth'}, {'tumara smAth', 'tumuwr SMyth', 'tumria smthw', 'temiri sMath', 'atmehh cyiot'}, {'tmiarw swmth', 'atwyrw gwtih', 'tymuur SMmth', 'temere smuTh', 'tamaru smath'}, {'tamoir SmAth', 'tmewrw Smthy', 'athory jymyh', 'tamora smoth', 'tmearo ssmth'}, {'tomryw SMtth', 'tamera smAth', 'ayyaar hwmut', 'tumwra semth', 'temorr smETh'}, {'tumira SmAth', 'tymraw smthy', 'hmoaar ysimt', 'tmuoru SMyth', 'tamora smeth'}, {'atmyww cmowy', 'tmyyra smthw', 'tomirr sMeth', 'twmiyr Smthe', 'tumara smeth'}, {'tamroo smtho', 'twmoer SMwth', 'tamora smuth', 'atmruy jniat', 'tomuro smEtH'}, {'tmiuru SImth', 'atmhyh ymywt', 'tamyry somth', 'temiar sMeth', 'tamare smoth'}, {'atmuhh ymudw', 'tameri sMeth', 'tamywr somth', 'tiumre SIMth', 'tamira smEth'}, {'tamere smETh', 'tamare smOth', 'temrao semth', 'haamyu gnwyh', 'tmaaor SMtth'}, {'wiwaar xymti', 'tmaear Ssmth', 'temmar smEtH', 'tumara smeth', 'tmreaa SMTth'}, {'tahmra smtho', 'tmioar SMwth', 'tawmar smETh', 'tamora smoth', 'atmwai xemty'}, {'taamri Smwth', 'tameur smetH', 'atmway ycyit', 'tmeoar SMmth', 'tamare smath'}, {'timyri Smmth', 'tymrii SMWth', 'wiwaar yimdh', 'tumarr sMuth', 'tamari smUth'}, {'tamura smoth', 'wwnaar syyiy', 'tamihr sMeth', 'tmarua smthi', 'tmiaar SAMth'}, {'ywwaar xhmid', 'tomwyr SMWth', 'temuru smuTh', 'tamira smAth', 'tmowra Smtth'}, {'tmaoyr SMyth', 'tumarr smatH', 'ymiaar yiwdh', 'tamera smOth', 'tamyyr swmth'}, {'tmiyre Smthu', 'tomirr smatH', 'hwhaar xemyh', 'tamrih Smyth', 'tamaro smEth'}, {'tamarr smath', 'taaumr SSMth', 'taomar Smuth', 'toemra symth', 'atmeyh zimwh'}, {'twmira smtho', 'timrih SAmth', 'tuamor smatH', 'atheri qmtiw', 'tamura smAth'}, {'atmhur cmtiy', 'tymiru somth', 'tuamer smaTh', 'timara smAth', 'tmihro SAmth'}, {'tamaro smath', 'tomero SmAth', 'tmeaur Simth', 'atmwho cmaot', 'tmaraw smthe'}, {'atwahi himty', 'tamira smeth', 'tomiri SmEth', 'temrei SMwth', 'tumwru sumth'}, {'tywmra smthe', 'tymrou SIMth', 'taumar Smeth', 'tamora smoth', 'atyeya hhtih'}, {'tomoru sMoth', 'tumara smoth', 'tmoure SMwth', 'athuru xhmut', 'tamrah ssmth'}, {'tymrah semth', 'tmaawr SMyth', 'toamor smeTh', 'atmwah gmtiw', 'tamare smAth'}, {'atyoya yihdh', 'tamaro smath', 'temruo SMWth', 'tawmro symth', 'temeri Smoth'}, {'tamira smath', 'tahmir smEtH', 'yohraa ymydy', 'tmairi ssmth', 'tuimrw SMWth'}, {'atmiwi xniat', 'timare sMoth', 'temara smoth', 'tymaer ssmth', 'tmwwry SMwth'}, {'tomara smUth', 'temiri SmAth', 'twmaer samth', 'tmeirw Smthu', 'ymaayr jomyh'}, {'dwhraa wwehh', 'temroo SMTth', 'tomirw smthe', 'temura smEtH', 'tamarr smEth'}, {'atwayu whtih', 'tomerr smuTh', 'temerw sumth', 'temara smeth', 'tumrww SImth'}, {'tamera smUth', 'temoru sMuth', 'tmiyry Samth', 'atmwwy ccyit', 'twmaor smthy'}, {'teamur sMath', 'tuimrw Smthu', 'yaamyo xymti', 'tamura smUth', 'tumory simth'}, {'tymruo SSMth', 'tamora smEth', 'tmayru smthu', 'timiro SmAth', 'atmyaw qmudw'}, {'taamor SmAth', 'hmaair jinyh', 'tawmro swmth', 'tuemri Samth', 'tamari smUth'}, {'tomore Smeth', 'temara smOth', 'atmwwr gmudw', 'tamreo Smwth', 'tmoerw SMMth'}, {'atmrey gimty', 'taamir sMoth', 'tamarr smoth', 'tumraa smthe', 'tmraae Samth'}, {'tumero Smeth', 'toamri smthe', 'athhru qimhh', 'tihmri SAmth', 'tamora smUth'}, {'athwro sytiy', 'tmuaru Smtth', 'tumara smEth', 'tamoor sMEth', 'tymohr Smthy'}, {'tomahr SmAth', 'tomyru Smmth', 'tamarr smuth', 'tmuair Smthi', 'atyaay hmuot'}, {'temruo SSmth', 'tamari smeth', 'temaru sMeth', 'atwwya jntih', 'tymaro Smtth'}, {'tmuoru Smthi', 'yyhaar yimmt', 'tohmar sMuth', 'timara smOth', 'taamri samth'}, {'atyayo simmy', 'tamria simth', 'tumuwr SMYth', 'tamaro smEth', 'tamiru smatH'}, {'tomiar sMoth', 'tmoyra Ssmth', 'tmuhrw SMtth', 'tamaru smAth', 'atyory yimhh'}, {'tamuar Smeth', 'twymry Samth', 'tamari smuth', 'atwhha xymti', 'tuhmra samth'}, {'tymaru somth', 'athyru qimwh', 'tamaru smOth', 'tmeear SMWth', 'temore smeTh'}, {'tamari smoth', 'teamre smthi', 'tamiri smETh', 'tymehr SMYth', 'atmwaw xmtwi'}, {'atnwro wnewh', 'tehmar smETh', 'tmauer SMWth', 'twymra simth', 'tamare smoth'}, {'atwiya yimdw', 'toumro Simth', 'temeri smuTh', 'tamura smEth', 'tymwro samth'}, {'twmrii SMmth', 'tuimar sMuth', 'tamaro smAth', 'tmoaru simth', 'dihraa cmydy'}, {'teemri Smthy', 'atyiwa khthh', 'tamoro smuTh', 'tumurw samth', 'tamera smEth'}, {'atmrhh hmout', 'tomore Smoth', 'tumruo SImth', 'tymyra Smmth', 'tamera smEth'}, {'tmiaru ssmth', 'atmroe wnehh', 'tomorr sMEth', 'tamera smuth', 'temrue SAMth'}, {'tamarr smOth', 'twmywr Smthi', 'atmuur chiit', 'timaru sMEth', 'tmaurw smtha'}, {'tumari Smath', 'tmowru SImth', 'atywha yimdw', 'tamare smEth', 'taemra ssmth'}, {'tymerw samth', 'tamora smoth', 'twmuir SMYth', 'timere smatH', 'atmuur kntwh'}, {'twmyra symth', 'tmiurw Samth', 'tomuri smuTh', 'atyuya knteh', 'tamura smAth'}, {'tamira smuth', 'towmrw SSmth', 'atmyhe cwhit', 'temiry swmth', 'tamorr Smuth'}, {'atmrhh himdh', 'timahr Smoth', 'tamora smath', 'tawmry smthu', 'timruu SMYth'}, {'tomara smeth', 'hyyaar wumtw', 'tmwwry SMTth', 'tmehra symth', 'tiumar SmEth'}, {'atmwhu zmywt', 'tmaoru somth', 'tumara smeth', 'tumerr Smuth', 'tmiwry SIMth'}, {'tomiru smuTh', 'atmwhw xmtii', 'tamaro smeth', 'temrww SMyth', 'tmaara semth'}, {'timwyr Simth', 'temara smAth', 'atmoyy khdih', 'tahmer SmAth', 'tamroh smtho'}, {'tuemar Smeth', 'tomara smEth', 'hmoaar hmywt', 'tmraae Smthy', 'twmwro smtha'}, {'tuimar Smuth', 'tmoari samth', 'timroy Samth', 'atmuyr kmaot', 'tamarr smEth'}, {'ymeaar wyehh', 'tamarr smeth', 'tymwri somth', 'tomori smaTh', 'tmwwre Smthu'}, {'atmyur qytih', 'tamiwr smthi', 'tammer sMAth', 'twymri SMWth', 'tamare smEth'}, {'tuomrw SIMth', 'teemra sumth', 'tamora smEth', 'atmeaw wimdh', 'tamehr smatH'}, {'teymra somth', 'tamira smAth', 'haamwu kmydy', 'tymiir SMyth', 'tumurr smaTh'}, {'tamory smtho', 'temure smuTh', 'atmwhy chwit', 'tumara smAth', 'timrei Samth'}, {'tumrai ssmth', 'tuomar Smath', 'tmaaur Smthu', 'tomara smOth', 'atmehu hmuat'}, {'temere smaTh', 'athorw hmuwt', 'timyrw smthw', 'tamari smAth', 'tumoyr SMMth'}, {'tamura smeth', 'tomaer smeTh', 'twmwra smthw', 'tumriu Smthu', 'athayi xmudw'}, {'tomero Smath', 'tomyrw symth', 'tuemrw SMMth', 'temara smuth', 'atnaer zumdh'}, {'ymuaar chmid', 'tmoaor Simth', 'tamruh smthw', 'temure sMEth', 'timara smeth'}, {'hywaar chiwt', 'tuumar smaTh', 'teemrw Smthe', 'tmahre Smyth', 'tamarr smAth'}, {'temrww Samth', 'taomor Smath', 'wowraa qhtih', 'tamora smeth', 'tomerw somth'}, {'twmure smthu', 'tamuhr Smeth', 'atmeor jwuwh', 'taawmr SMYth', 'tamari smEth'}, {'tumrio SMTth', 'tamira smuth', 'athuri hmaut', 'tehmar sMoth', 'toamra smthi'}, {'tamarr smath', 'tahmir sMoth', 'atmihi jimwh', 'tmuiro Smthi', 'tamrwy swmth'}, {'tamaro smeth', 'ttamer sMeth', 'tuimrw Smthy', 'tymirw sumth', 'haamyu chait'}, {'tmeori SMWth', 'tomurw Ssmth', 'toamir SmEth', 'athyri xmydy', 'tamura smAth'}, {'atmuyu chiht', 'tamora smuth', 'timyru ssmth', 'tawmir SmEth', 'toumre SIMth'}, {'twmuur Smthi', 'tomara smoth', 'tymwra swmth', 'atmroo iwmtw', 'tumura smutH'}, {'tmuhra Smwth', 'tumaru SmEth', 'daamwo cntih', 'tamira smEth', 'tomrio Samth'}, {'tmaarw smthe', 'atmrhh syyiy', 'tamora smoth', 'tomaer sMAth', 'tmoyry SSMth'}, {'tymrwy Smthi', 'tomora smatH', 'tumara smUth', 'dmaahy zhmid', 'tamrue smthw'}, {'tmaerw Smtth', 'tamera smUth', 'tumuar sMAth', 'awnaar chyit', 'tmuayr Smthi'}, {'timroh SAmth', 'timyru smthw', 'tamira smuth', 'timere Smath', 'duyaar xmtoi'}, {'timara smath', 'tymoru smthw', 'atmhah ymudw', 'tmwwri Smthe', 'tumiri smetH'}, {'tmaroa sumth', 'tomriy SIMth', 'tomoru smutH', 'tamura smAth', 'duhraa yemdh'}, {'atnyri jimyw', 'tmaaro somth', 'tahmir smaTh', 'tamari smUth', 'tmiory SSMth'}, {'tmeura smthu', 'atmowe zhayh', 'tumwyr SMMth', 'timuro Smath', 'timara smOth'}, {'atmrey kmtiy', 'tmehrw SMmth', 'tumuro sMeth', 'twmory smtho', 'tamera smEth'}, {'tumruw SMtth', 'athhru ywtih', 'timmar Smoth', 'tamura smEth', 'timirw Smtth'}, {'atmihu wnehh', 'tmaroa smtho', 'tamare smUth', 'tiwmry SImth', 'tamour sMath'}, {'tumari SmEth', 'tamriw simth', 'tamari smuth', 'atwyrw ychit', 'tmiory SIMth'}, {'tmaior SIMth', 'tymerw Ssmth', 'tamaru smeth', 'atheri jiwyh', 'tamire smetH'}, {'atmyhi himwh', 'tiimri SAmth', 'tamera smeth', 'tomoru SmAth', 'tahmrw smthe'}, {'tmaria smthw', 'ttamar sMeth', 'tmauer SSmth', 'atmhhw gimty', 'timara smOth'}, {'tamarr smeth', 'tummar sMuth', 'tmaahr SMtth', 'tmoari samth', 'hmaaye chiat'}, {'atmhyr xhmti', 'tymwyr SMyth', 'tamora smeth', 'tiimar sMAth', 'tawmre ssmth'}, {'tmiary swmth', 'tumrew Smthe', 'tamehr smETh', 'atmoyw xytih', 'tamera smOth'}, {'tmuury SMWth', 'tawmra symth', 'temaur sMEth', 'hwhraa swudw', 'tamura smath'}, {'tumire smetH', 'tmehru SIMth', 'atyiri gmtiy', 'tumwri Ssmth', 'tomara smAth'}, {'teomra sumth', 'atwahu wimtw', 'tamira smoth', 'tuhmar sMath', 'tmaohr SImth'}, {'wmaayw zwaty', 'tamura smoth', 'tmaira smthi', 'teimre SMWth', 'timure sMoth'}, {'tamura smEth', 'tmaarw Smmth', 'tiimru SIMth', 'atmyao khtiw', 'temari smETh'}, {'temruh SMwth', 'tamare smUth', 'taymru smtha', 'tumoru smetH', 'atnwwa yihdh'}, {'tamyry smthi', 'tomara smEth', 'tmiwry Samth', 'tamour Smeth', 'atnwru simww'}, {'tamari smuth', 'wonraa zhmut', 'tmoarw swmth', 'taomor Smoth', 'toaamr Samth'}, {'tomery smthu', 'taomer sMAth', 'temiyr SIMth', 'atmour qimhh', 'tamora smuth'}, {'tmaaor SMMth', 'temrua samth', 'temara smoth', 'atheri hxmti', 'timiar sMath'}, {'athero qmydy', 'tamaur Smuth', 'tahmra semth', 'tamira smuth', 'tumruh SMwth'}, {'tamrao Smmth', 'timara smEth', 'timawr Smuth', 'temiyr Simth', 'athahi qhmid'}, {'tomroe Simth', 'tamora smuth', 'tumeri sMoth', 'athyre jimyy', 'tumyri Ssmth'}, {'tomriy SMYth', 'whwaar zumty', 'timrah Smyth', 'tamira smOth', 'toamer sMuth'}, {'tumero smetH', 'whwaar wymtw', 'tamaro smAth', 'tumrew SMMth', 'tmihra smthw'}, {'taamer sMAth', 'athawe kwuwh', 'temreu SMwth', 'tamarr smeth', 'tomyrw sumth'}, {'tumuru sMAth', 'tmeori Smthe', 'tymeru somth', 'atnyrw ghmut', 'timara smEth'}, {'tmaaru simth', 'tiwmry Smthe', 'tamear smETh', 'atmeor knyih', 'tamari smEth'}, {'tumwwr Smthe', 'tamira smAth', 'tymwra smthy', 'ttamar Smath', 'athawe hiemt'}, {'tmioar SIMth', 'yuhraa khwih', 'tamuer Smeth', 'tywmra smtha', 'tamare smoth'}, {'tamiir smEtH', 'tamora smuth', 'tmaria simth', 'dmwaar qimyh', 'tmuair SImth'}, {'tuamir Smoth', 'wuwaar shmuy', 'tamare smUth', 'tymohr SMyth', 'timroa sumth'}, {'tamora smEth', 'tumero sMath', 'tmaoar Smmth', 'atmohe wyehh', 'tiimri Smthy'}, {'tmaohr SMtth', 'twmawr smthi', 'tamarr smoth', 'tumuru sMath', 'atnaer hmmut'}, {'atmoyy whmid', 'tymrii SMwth', 'tamora smoth', 'temeri sMoth', 'twmaro ssmth'}, {'tamuwr swmth', 'tummar Smoth', 'tmaaer SSMth', 'timara smAth', 'atwayy cmydy'}, {'twmoir SMMth', 'atmeah jniat', 'tamora smEth', 'timiri sMAth', 'tomria Smtth'}, {'tmehra smthw', 'tmoaur SMwth', 'tumora smETh', 'tomara smOth', 'atmywi gmeid'}, {'tamuru smetH', 'taymru smthe', 'tumrow Smthy', 'tumara smEth', 'atmhur jwuwh'}, {'tmuare Smyth', 'temara smoth', 'temriw SImth', 'wmaaor qmtiy', 'tameri sMAth'}, {'tumara smAth', 'tmeera smthe', 'tiwmre SMwth', 'hmaahw wmudw', 'timori Smeth'}, {'tomirw semth', 'tammur sMeth', 'tamare smUth', 'duyaar jimwh', 'tmauer SIMth'}, {'atywya chwit', 'toamrw smthw', 'tumori smaTh', 'tymywr SMwth', 'tamora smUth'}, {'tamrio Smmth', 'temruy SMMth', 'tomara smoth', 'atmhwe khthi', 'ttomar smatH'}, {'tumara smEth', 'tumarw sumth', 'taemar smaTh', 'hwyaar wyewh', 'tiymre SMyth'}, {'tymyrw swmth', 'tiimro Smthu', 'atnure hmuot', 'temaor Smuth', 'tamaru smoth'}, {'tymaro Ssmth', 'tmeyro SMYth', 'tamaru smuth', 'haamyu xmtiw', 'tumurr sMAth'}, {'tumari smEtH', 'teemri SMTth', 'tamora smoth', 'tmaare swmth', 'athaah yimdy'}, {'timara smUth', 'teomrw SMwth', 'tommar Smuth', 'yyhaar cwyit', 'toamro smtho'}, {'atmrey yindh', 'tymwre Smmth', 'tamare smEth', 'tiwmrw SMMth', 'tamore smETh'}, {'tuumra somth', 'tomara smeth', 'hmaawi cyowh', 'tywmri SMmth', 'tamoro SmAth'}, {'tomurr Smath', 'tomrea semth', 'timreh SMmth', 'atwaye kimty', 'tomara smAth'}, {'timurr sMEth', 'tmuuar SMYth', 'tamora smoth', 'athayo zmaot', 'tumwru Smyth'}, {'atwaay kntah', 'tawmry Smtth', 'tumaru smaTh', 'teomri Smthy', 'tamaro smEth'}, {'atmoye xmtii', 'tomruo SMmth', 'timorw smtho', 'tamuro smuTh', 'tamari smUth'}, {'tymyrw Smwth', 'tamaru smOth', 'atmiwe jimdh', 'teamar smeTh', 'tmiire SImth'}, {'twmura smtho', 'tuomar smatH', 'hmhaar qimdh', 'tamare smUth', 'temrew SMYth'}, {'tomara smeth', 'tmehra smtho', 'tomaar smetH', 'tmeyro SMTth', 'yehaar yntih'}, {'wwwaar xmtiy', 'tmihru SMMth', 'tamura smEth', 'teamir smETh', 'tymerw Smmth'}, {'tymrio SMMth', 'atyawe yimhh', 'tumore smuTh', 'tmaeru smthi', 'tamarr smEth'}, {'ttumar Smoth', 'tmiear SSMth', 'hmuaar gwtih', 'tmiari ssmth', 'tamera smEth'}, {'temyra Ssmth', 'tmiahr SIMth', 'tamera smath', 'atmwwy cyiut', 'tohmar SmEth'}, {'twmihr Smthy', 'tamrai samth', 'ywyraa shwid', 'tuamor smeTh', 'tamari smath'}, {'tamare smeth', 'tammir sMEth', 'atmoyw wmewy', 'tmairy smthw', 'tmoaar SMtth'}, {'atmyau wemwh', 'temoro smuTh', 'twmure Ssmth', 'toaamr SSmth', 'temara smuth'}, {'atyayo shyut', 'tammar Smeth', 'tamaru smUth', 'tiemre SMYth', 'tamowr ssmth'}, {'tmihro Samth', 'temaru sMath', 'yywaar wgmid', 'tamera smOth', 'tomwro symth'}, {'tmuuru Smthi', 'atyaye xnwyh', 'tamira smeth', 'temuri sMeth', 'tamrio ssmth'}, {'taaimr SIMth', 'temeri sMeth', 'tamaro smath', 'atyiha chwit', 'tahmro simth'}, {'tumraa smthy', 'ywwraa zwyty', 'tamera smeth', 'tmiori SMMth', 'ttemar sMath'}, {'tmaora swmth', 'tamaro smOth', 'timrih Simth', 'hyyaar sywiy', 'taomir Smuth'}, {'timirr sMoth', 'tomara smeth', 'tumarw semth', 'tmaeir Smthy', 'hmaayh kntih'}, {'tomwru Smwth', 'tamora smuth', 'tumiru smetH', 'tuemro SAMth', 'atmrui shmuw'}, {'atyiwa wumtw', 'temwro Smyth', 'tamarr smUth', 'tuwmro Simth', 'tomura SmEth'}, {'tumero Smuth', 'tuwmro Smthu', 'timara smUth', 'tamruy ssmth', 'atmyay zumhh'}, {'tamari smOth', 'tamayr smthi', 'tumere sMoth', 'wwnaar ymudw', 'teimru SAMth'}, {'tamarr smuth', 'tmaehr Simth', 'tymery swmth', 'tumuri smuTh', 'athayh hmydy'}, {'athhru cyhit', 'tamroa smtha', 'tamare smUth', 'tmiyry SMYth', 'teamur sMeth'}, {'tumara smOth', 'tmiyri SMwth', 'tumero Smeth', 'tmarao semth', 'atyayi khtiw'}, {'twmure smthw', 'atmyyu qniat', 'tamaru smoth', 'timroh SIMth', 'timeru Smoth'}, {'tmwwri SImth', 'taimar SmEth', 'tmahra smthw', 'tamaru smUth', 'hwhaar chuit'}, {'taomar sMoth', 'atnahi gwmid', 'tamiyr semth', 'temara smeth', 'tmaohr Smthi'}, {'temair Smuth', 'tymaer Smyth', 'tymier SAmth', 'dwhraa zmdhi', 'tamura smOth'}, {'wihraa wsyiy', 'tuhmra smtha', 'tmoury SMYth', 'temaer sMoth', 'temara smuth'}, {'tmauar Ssmth', 'timirr smEtH', 'temroo Smthu', 'temara smuth', 'yunaar xmtei'}, {'timirr sMath', 'tmehra somth', 'dmaayh hmywt', 'tamari smUth', 'tmaair SSmth'}, {'atyaah khthi', 'timorw sumth', 'tuaamr SAmth', 'tamihr smatH', 'tamaro smEth'}, {'timere sMEth', 'tamaru smuth', 'tamwru smthu', 'tymeor Smthe', 'atmewe zwhty'}, {'tamury simth', 'tamuur Smath', 'atnuru zimtw', 'tamira smEth', 'twmuir Smthy'}, {'tamarr smath', 'timiar sMEth', 'tumroo SMMth', 'atnyru jniat', 'teomra simth'}, {'temreo SMyth', 'tumiar sMoth', 'tmaora smtho', 'atnwru khwih', 'tamare smOth'}, {'tmaiwr SMwth', 'tawmru swmth', 'tamaar smuTh', 'tamura smOth', 'yohraa swtiw'}, {'timair smutH', 'tymyyr SMtth', 'tmahri smtho', 'tumara smeth', 'athhri himhh'}, {'taemra smthy', 'atworw simyw', 'tmouru Smthy', 'tamira smOth', 'tumirr Smuth'}, {'tumoar sMeth', 'tymoir Smthy', 'timara smAth', 'whhraa shtiy', 'teamry ssmth'}, {'tmuarw Smyth', 'wwnaar yiydh', 'tmaoyr SMMth', 'tamuru SmAth', 'tamora smoth'}, {'tomyro symth', 'tymwwr SSmth', 'tahmer smeTh', 'tamaru smath', 'ymhaar zhtih'}, {'tawmra symth', 'timrey SMTth', 'atmeyr wimww', 'temero sMoth', 'tamora smOth'}, {'tymiry smtha', 'hmhaar kimty', 'timari smuTh', 'tmouru Smthu', 'tamira smEth'}, {'ywhraa xmtwi', 'twmyra semth', 'teamir SmEth', 'tmuiro SMYth', 'tamare smEth'}, {'timair smeTh', 'tamura smeth', 'tmwyra Smmth', 'hmaawi cmtiy', 'tmeorw SSMth'}, {'tamraa simth', 'atnwrw zmydy', 'twmuwr SMmth', 'tumare smEtH', 'tamera smEth'}, {'tumoru sMuth', 'atwwre zumty', 'tymiar smtho', 'temreh Smthi', 'tamaru smath'}, {'tamior smatH', 'temurw Smyth', 'tumara smEth', 'timroi SMyth', 'atmuwi zmwhi'}, {'atnyri shtiy', 'tomore sMuth', 'toomra swmth', 'tamaru smEth', 'twmrii SAmth'}, {'tamorw Smmth', 'tamora smath', 'wohraa wchit', 'tumrew SMMth', 'tamoru smetH'}, {'atyyya xmuwt', 'tymeru Ssmth', 'teomar SmAth', 'tamaro smEth', 'tmiurw Smthu'}, {'atmohr zmdhi', 'tmoaru smthu', 'tumara smUth', 'tumoru smuTh', 'toomri Smthu'}, {'tawmar Smeth', 'tumwrw samth', 'timrey Samth', 'atmhor gniat', 'tamura smOth'}, {'yuhaar knwih', 'tomryy Samth', 'tomera smETh', 'tumirw symth', 'timara smeth'}, {'tomrey SMYth', 'tumero smatH', 'atnurw gimdh', 'temara smAth', 'temerw semth'}, {'tamroh ssmth', 'tmoyry Smthi', 'tumirr SmEth', 'hwnaar hymut', 'tomara smAth'}, {'tamaru smAth', 'atmhor hmaot', 'tiymro SMWth', 'tmaure Smtth', 'tamaar smetH'}, {'temira Smoth', 'tamare smuth', 'tymrew Smthe', 'timwri smthi', 'atmyhw yimyh'}, {'tomara smuth', 'timaer sMEth', 'hwhraa kmywt', 'tmaiar smthy', 'tmiiru SMwth'}, {'wwnaar chiit', 'tamarr smoth', 'temrei SAMth', 'twmahr swmth', 'tomore smatH'}, {'tumreo SAmth', 'tymrea simth', 'tamera smeth', 'athhry zmywt', 'timeru SmAth'}, {'timroi Simth', 'atwyre chait', 'tumory Smwth', 'tamora smAth', 'tamori smutH'}, {'daamwu hwmut', 'tomiar sMeth', 'toomrw Smthe', 'twmaro smtha', 'tamaro smoth'}, {'atmwwi whtih', 'tmoore Samth', 'tamohr SmEth', 'tamira smOth', 'tymury Smyth'}, {'tamarr smath', 'atmrey xmtai', 'tymyre somth', 'temerr smeTh', 'tmauer SAMth'}, {'hmaayi hmeut', 'taomir smatH', 'twmiwr SMWth', 'tamywr Smmth', 'temara smuth'}, {'timraw smthi', 'tmiyrw Smthy', 'tumuro smeTh', 'atmyer xmywt', 'tamura smath'}, {'tamaro smath', 'timria Smtth', 'atnyro kniat', 'tomruo SIMth', 'temerr Smath'}, {'tumuru smETh', 'atmuhr jhmid', 'tuemry SMmth', 'temara smeth', 'tymirw symth'}, {'tomaer Smoth', 'teymre Smthi', 'athwro wiwtw', 'tmearu smthw', 'timara smeth'}, {'tamaur Smuth', 'tmayyr SMmth', 'timwrw smthi', 'atmehh qhmid', 'tamora smUth'}, {'atmruy gmywt', 'tamora smath', 'tamaer Smath', 'tymear smtho', 'tmihry SMYth'}, {'atnyri ximtw', 'tamura smeth', 'temaar SmAth', 'toumre Samth', 'timyry smthw'}, {'tamerw Smyth', 'tomera SmAth', 'teemrw Samth', 'atmeur yimtw', 'tamarr smAth'}, {'athory jinyh', 'tymour SAMth', 'timair Smuth', 'tymrae smthy', 'tamera smAth'}, {'tomorr smatH', 'tomraa swmth', 'tmraai Smthy', 'atmrye xmaot', 'tamare smuth'}, {'tomaro SmEth', 'tmeury SAMth', 'atnwwa zntih', 'tmairw smthy', 'timara smOth'}, {'tamyro smthu', 'temara smath', 'tmoaor Smthu', 'temarr smETh', 'ywnraa zmywt'}, {'tomara smath', 'timorr smEtH', 'atmuhi jimyh', 'tmeoru SMyth', 'tymori sumth'}, {'taumur sMAth', 'tmohra simth', 'dyhraa yindh', 'tmeayr Smthy', 'tamura smEth'}, {'tomara smuth', 'tumwwr SSMth', 'temuar Smeth', 'tumwro sumth', 'ywyraa yamdh'}, {'tomriy Smthy', 'wowaar hnwyh', 'tamaru smOth', 'taomri Ssmth', 'tomuri sMAth'}, {'tmuraa Smtth', 'timear smETh', 'atwayu khtiw', 'toumro SImth', 'tamura smath'}, {'tmeaer SMyth', 'timiro smETh', 'athawi gimwh', 'tomrea samth', 'tumara smeth'}, {'taomra symth', 'ymeaar xmtyi', 'teemar sMAth', 'timowr Smthe', 'tamare smoth'}, {'tomiro smETh', 'tamura smEth', 'wwyaar hhtih', 'taimre symth', 'tmeure SSMth'}, {'tumirw sumth', 'tmuyru SMWth', 'atnwry wmehw', 'tamour Smath', 'tamora smOth'}, {'tomara smeth', 'tmuuar Smthe', 'tumwre Smyth', 'atmowe zumyh', 'tamuir smETh'}, {'temirr sMAth', 'tmuaor Smthy', 'tamera smeth', 'woyaar zhthi', 'tamory smthw'}, {'atnhry zmwhi', 'taaemr SAmth', 'tamaro smuth', 'timawr SmEth', 'teamri smtha'}, {'tmowra smtho', 'tameri smeTh', 'tmeiro Smthe', 'tomara smOth', 'dmaayi syaot'}, {'teomri SIMth', 'tahmur smetH', 'tamaro smuth', 'tymroa smthi', 'atmroh chmut'}, {'tomara smath', 'athore swtiw', 'teamra simth', 'timoyr Samth', 'timeru Smath'}, {'yyyaar swuww', 'tamiur smetH', 'tamora smoth', 'tamwwr ssmth', 'tiemru SMtth'}, {'timaru smatH', 'tomirw Smtth', 'hmaaur wiwtw', 'timara smuth', 'twmrio SMmth'}, {'tumyri semth', 'tmuiro SIMth', 'tamari smUth', 'atmrhh jiwyh', 'tumaer smaTh'}, {'tamiri smuTh', 'timara smEth', 'twmrii Smthe', 'tomyry ssmth', 'atnair kmudw'}, {'athhre hmout', 'temara smEth', 'tumriw SMYth', 'tymiro smtha', 'timera sMath'}, {'atyirh zimdh', 'tmaoir Simth', 'tamure smuTh', 'tmiary smtho', 'tamaru smath'}, {'tamrai symth', 'ywyraa kwuwh', 'tmoury SIMth', 'temira SmAth', 'tamora smUth'}, {'tamrww symth', 'tmeaer SMYth', 'timara smAth', 'wmaair wwehh', 'temoar SmEth'}, {'tymywr SAmth', 'tamora smuth', 'taumor Smuth', 'tumwrw Smyth', 'duhraa shudw'}, {'tomrii SMYth', 'tumary smthe', 'temaar smatH', 'temara smath', 'atwaye zmhhi'}, {'tmoaor Smthe', 'temiru smuTh', 'athayo qhtih', 'tymrao smthw', 'tamari smUth'}, {'tumara smuth', 'awnaar whewh', 'tamurw Smwth', 'tameri Smuth', 'taawmr SImth'}, {'twmuir Smthe', 'tamari smuth', 'tamyyr symth', 'temuar sMuth', 'hmyaar xmtii'}, {'daamhe hmmut', 'tymare Smmth', 'tmeaer SMMth', 'ttumar Smoth', 'tamora smeth'}, {'tmairi smtha', 'hmuaar himwh', 'timaer sMuth', 'tmuhrw SMWth', 'tamaru smath'}, {'hwyraa yjmti', 'tymoar smthy', 'tumara smEth', 'timiru smETh', 'tymrei SMtth'}, {'tymoru Smtth', 'atworw jemyh', 'tomrio SMTth', 'tummar Smath', 'tomara smAth'}, {'timuro smaTh', 'hmaahw wmydy', 'tmoiru SSmth', 'tamaru smeth', 'tmaoru ssmth'}, {'twmiru Ssmth', 'tmeear SIMth', 'tamuro sMAth', 'atwahh kndih', 'tamare smoth'}, {'tymuar semth', 'temree Smthu', 'tamaru smOth', 'temero sMeth', 'atmhhr shtiy'}, {'twmare symth', 'tmiery Smthy', 'temear SmEth', 'tamura smUth', 'atmuhh wiytw'}, {'atmohu knhih', 'temiar sMath', 'tamari smOth', 'tumwyr SMTth', 'temayr samth'}, {'tamroo smthu', 'tamare smeth', 'daamho jniat', 'tohmro Smthi', 'temera smEtH'}, {'temara smuth', 'atmuor xemtw', 'timroy SIMth', 'tumori smatH', 'temorw smthw'}, {'temura smETh', 'tmaoir Samth', 'tamari smeth', 'taemru ssmth', 'atwhya jmudw'}, {'tamarr smoth', 'timerr Smeth', 'atnyro znayh', 'tamroa swmth', 'tuwmro SMmth'}, {'atnyya qhtih', 'tumriw SMwth', 'tamira smeth', 'tahmer smaTh', 'tumorw Smwth'}, {'atnair kntwh', 'tumria Smyth', 'tamari smOth', 'tamiur smuTh', 'tmeorw SSmth'}, {'tamarr smOth', 'wmaawr xhmti', 'temuro sMath', 'tmiory SAmth', 'tamriu samth'}, {'tamarr smath', 'tmarai smthw', 'tymiir Smthe', 'yaamyo gmaot', 'tamiru smEtH'}, {'tumara smOth', 'tmiaru ssmth', 'twmohr Smthi', 'tomaro sMAth', 'wmaayw xhmid'}, {'timrui Smthe', 'timara smoth', 'atmuor jimtw', 'tymora symth', 'tameru smEtH'}, {'ymaayr khtiy', 'tmauru smtha', 'tamaro smath', 'tamahr smeTh', 'toomre Smthu'}, {'tamuor smatH', 'toumry SIMth', 'twmaer smthu', 'tamera smeth', 'atnire yiydh'}, {'ttemar sMoth', 'twmwro swmth', 'tamaru smuth', 'tmeiro SMTth', 'atyiri cmudw'}, {'timory symth', 'daamhe cmydy', 'tumeru smaTh', 'twmier SMTth', 'tamari smath'}, {'tymero sumth', 'tmaour SMyth', 'atyirh gimmt', 'tamora smoth', 'taamor smeTh'}, {'hhwraa zwwty', 'twmaar semth', 'timruh SMMth', 'tamira smEth', 'tumiar smETh'}, {'tmiawr SMMth', 'atnyrw wxmti', 'teamry Smmth', 'temore sMEth', 'tamera smEth'}, {'taemir smETh', 'atyyru cimhh', 'taumrw Smyth', 'tamaro smOth', 'tomrie Smthy'}, {'twmura sumth', 'tumriw Samth', 'tomori sMAth', 'dmaahy zmaot', 'timara smeth'}, {'tmuorw SMyth', 'atmyhe choit', 'tawmir smaTh', 'temara smoth', 'tymrea samth'}, {'tomore smetH', 'tymaru smthi', 'wmaawr syoiy', 'tamera smeth', 'tmreaa Simth'}, {'tomara smUth', 'atnair wmewy', 'tiemra symth', 'teemar smETh', 'tumrih SSMth'}, {'teamer Smeth', 'temrah smtha', 'tmioru Smthi', 'tamaru smEth', 'atyorw wimdw'}, {'tamire Smuth', 'atmhho hmaut', 'tmuahr Smthi', 'tamaru smuth', 'timory smthi'}, {'tamari smoth', 'taimru sumth', 'tmauyr SIMth', 'tomere smatH', 'howaar yntih'}, {'tymroo SMMth', 'twmery ssmth', 'teamur smETh', 'tamura smuth', 'dmwaar ssyiy'}, {'temoar sMAth', 'dwyraa gmuid', 'tamaru smUth', 'tmeara semth', 'tmiuar Smthy'}, {'tuaamr SMYth', 'tamaru smOth', 'tamiry smthe', 'atmwho zyayh', 'tammur smEtH'}, {'taumur sMAth', 'tamrew smtha', 'tumara smEth', 'tehmre Smthu', 'athahu yiwdh'}, {'tomara smUth', 'athahu wwuwh', 'tmiirw SMTth', 'temure SmAth', 'tymrao Smwth'}, {'tamarr smeth', 'tymiru smthu', 'timrei Smthe', 'tuimar sMuth', 'ywhraa wniat'}, {'tuomru Smthe', 'hmaayh cchit', 'tumerr sMoth', 'timara smAth', 'tumwra ssmth'}, {'tmahro Smmth', 'temuar smETh', 'wmuaar chowh', 'tamare smEth', 'tmourw SMYth'}, {'tmoahr SMWth', 'teumar sMath', 'hmaaye chowh', 'tmaary smtha', 'tamora smUth'}, {'tameru smETh', 'taamre Smtth', 'tehmre Smthu', 'atmwyy xmtio', 'tamora smeth'}, {'tmaowr SSmth', 'taemer sMAth', 'awhaar shhut', 'tmarah smthi', 'tamera smOth'}, {'temery sumth', 'tamari smOth', 'atmuyi qwuwh', 'tmaoyr SImth', 'temura smEtH'}, {'tamari smoth', 'dwwaar chmut', 'tiimru SMYth', 'taymra symth', 'timaur sMoth'}, {'tmehru SAMth', 'tumraw Smwth', 'ywyaar sywiy', 'tumara smEth', 'tamuru smeTh'}, {'tmuure SMmth', 'tumeru smaTh', 'tumara smeth', 'tmwraa Ssmth', 'athyrw wimwh'}, {'tamirr SmAth', 'tmaoar Smmth', 'tamera smuth', 'towmri SMWth', 'atmruu shmuw'}, {'atyyru hcyit', 'tamira smath', 'tomwri somth', 'tmouru SMmth', 'ttumar Smath'}, {'twmury symth', 'tohmrw Smthy', 'tomaro smaTh', 'tamora smoth', 'yenaar jwuwh'}, {'tahmor smaTh', 'teimri Smthy', 'tamwrw Smwth', 'hmaaor yxmti', 'tamera smOth'}, {'tamarr smuth', 'tmauor SImth', 'taumre Ssmth', 'atmeir ghtih', 'tamiro SmEth'}, {'teamar sMEth', 'tmeara Smyth', 'atmuwu ximtw', 'tmouru SSMth', 'tamera smeth'}, {'wwhaar simmw', 'tamaro smUth', 'tammur Smeth', 'tmieru Simth', 'tymari Smmth'}, {'towmrw SIMth', 'athhha jiwyh', 'timyru symth', 'tumoru sMath', 'temara smuth'}, {'timerw Ssmth', 'yuyraa gmywt', 'tamira smeth', 'twmiur SMYth', 'tommar smEtH'}, {'atmwhi xmydy', 'tmeaur Smthe', 'tamurw Smtth', 'tumoro smaTh', 'tamura smOth'}, {'tomerr smEtH', 'ywwaar qimyh', 'tamaro smoth', 'tmaoer Simth', 'twmray swmth'}, {'yiwraa knwyh', 'taaemr Smthe', 'tammur sMuth', 'twmaro symth', 'tamura smOth'}, {'atwayh gmudw', 'tuamro smthi', 'tmoaor Samth', 'teamor Smoth', 'tamora smeth'}, {'tumrww Smthe', 'taemur sMath', 'tamrau symth', 'tamira smOth', 'ymuaar xmuet'}, {'toemar sMuth', 'tymeur Smthy', 'tumara smath', 'yiyaar xemwh', 'twmyra Ssmth'}, {'whwraa qmywt', 'tomara smEth', 'tomure smuTh', 'tymawr simth', 'tymwyr SImth'}, {'timara smUth', 'timroy SAMth', 'tomuro sMath', 'hmuaar hhmut', 'tawmry Smwth'}, {'tmoaur Simth', 'tameor sMAth', 'tamora smath', 'hmaayo jemyh', 'tymwri smthy'}, {'toaamr SAMth', 'taomir sMath', 'tiimra Smmth', 'tamera smeth', 'awnaar zhmut'}, {'temeri smutH', 'twmyry smthw', 'tumara smUth', 'timrwy SMwth', 'atmhhw ymaot'}, {'tmehrw SMyth', 'tamrao sumth', 'tamari smOth', 'tomiro smETh', 'atyahi yindh'}, {'tumray sumth', 'tomriy SIMth', 'tamira smUth', 'atmyhi hwtih', 'tuamer smETh'}, {'atmwwe jmtiy', 'temuri sMAth', 'temara smAth', 'tmeoar Smthi', 'tamwyr smthy'}, {'tomure smaTh', 'tuymry SMTth', 'tumyri Smwth', 'atnyry ymydy', 'tamora smUth'}, {'tawmri simth', 'tmihri Smthy', 'taamer smuTh', 'tamira smUth', 'wiwraa yiydh'}, {'teamra smtho', 'tomruy Simth', 'atmehi cytih', 'tawmar sMuth', 'tamari smUth'}, {'tymrui Simth', 'tymary somth', 'tumare smETh', 'atmrui chiit', 'tamare smuth'}, {'tamwri Smyth', 'tamuru SmAth', 'atwyya khmid', 'timara smuth', 'twmeer SSmth'}, {'timara smath', 'tomriu SSmth', 'atmywu qwtih', 'twmera smthi', 'tumuri smaTh'}, {'atnyre cmudw', 'temiyr SMTth', 'tamare smUth', 'tohmar SmAth', 'tamriu samth'}, {'tymoir Smthy', 'tmaaro symth', 'timari smatH', 'tamare smAth', 'atmway simyy'}, {'timrua smtha', 'teumrw SMWth', 'tamuru SmAth', 'tamaro smoth', 'woyaar kwuwh'}, {'temrey SSMth', 'tamarr smeth', 'tomore Smuth', 'atyawe ximmt', 'tiumra Smwth'}, {'tumuwr SAmth', 'tamaru smAth', 'toomar smeTh', 'atmhwr wihtw', 'timirw ssmth'}, {'tamoer sMath', 'woyaar xmtio', 'tamrao smthw', 'tamora smath', 'tumriu SMMth'}, {'tamarr smath', 'atmuhu cimhh', 'temire SmAth', 'toamri symth', 'tymrwy Smthu'}, {'tamare smeth', 'atyahi zmayy', 'toimre SAMth', 'timoar Smoth', 'temraa semth'}, {'tumuru SmAth', 'tmoire SImth', 'athaho xmtwi', 'tamyrw swmth', 'temara smuth'}, {'ywyraa qytih', 'temura Smoth', 'teimro SMyth', 'timurw smthe', 'timara smuth'}, {'tomair smutH', 'tamari smuth', 'atmwhw hmuut', 'tuhmro SMYth', 'temwra sumth'}, {'tamari smoth', 'temury smthu', 'atmhhr kimtw', 'timeri smutH', 'tmohro SMTth'}, {'timara smUth', 'atyury chwit', 'tmauir SMWth', 'tamriy ssmth', 'taumar smETh'}, {'ayyaar swydy', 'tamure SmAth', 'tymire Smyth', 'tiwmri Smthy', 'tamura smuth'}, {'atmeyh yimdy', 'toimru SMYth', 'tamiar smeTh', 'teamri smthy', 'tamera smEth'}, {'tamira smuth', 'tuamor Smeth', 'wewaar yhtih', 'taaymr SMWth', 'tmuaru smthe'}, {'tamera smoth', 'yiyaar kmtiw', 'tmuuar Samth', 'tymiru smtha', 'teamer Smath'}, {'timriu SSMth', 'hmhaar hwtih', 'toamri Ssmth', 'temara smath', 'taemur sMuth'}, {'tumiri smETh', 'tmaior Smthe', 'hmaahr swudw', 'tamare smath', 'tumwre smthy'}, {'atnywa zhmid', 'toymro Smthi', 'tahmar smeTh', 'tomara smAth', 'tymiry somth'}, {'tuymry SAmth', 'tahmur sMoth', 'tamaro smUth', 'tuamra Smyth', 'dohraa cntih'}, {'haamwu cmywt', 'tamerr smetH', 'taamra smthe', 'tamaru smoth', 'tiwmro SIMth'}, {'ymuaar zwhty', 'temaar Smeth', 'tamaru smOth', 'tomyro semth', 'temwwr SMWth'}, {'tmuorw Simth', 'tamora smEth', 'timore smetH', 'tmahre Smyth', 'dohraa jimdh'}, {'timero smaTh', 'tamera smAth', 'tiimro SAMth', 'tomrai Ssmth', 'atmhyr wiwtw'}, {'tamwwr symth', 'tmiaar SMtth', 'tumere Smuth', 'tomara smAth', 'atmoye ggmid'}, {'dwyaar jhmut', 'tuymry SMmth', 'tamera smuth', 'tiemar sMuth', 'twmere ssmth'}, {'tamera smUth', 'toamri smtha', 'tamaer sMEth', 'hmaahw xmtio', 'tmehre Smthe'}, {'athore jimty', 'tamaro smath', 'tiwmry Smthi', 'tumiri smutH', 'tymwry Ssmth'}, {'temurr Smath', 'ywyraa whewh', 'timara smoth', 'tmeaur SMTth', 'tmarra smtha'}, {'tomara smath', 'tihmri SIMth', 'tomaer sMath', 'temayr smthy', 'hynaar qytih'}, {'tamerr smaTh', 'diyaar jemyh', 'tamayr smthe', 'tumara smoth', 'timrwy Smthu'}, {'wmoaar cyiyt', 'taamir smatH', 'tamare smeth', 'tomriy Samth', 'tymira smtho'}, {'timara smOth', 'tiwmrw SMmth', 'tmaory Smmth', 'taemer Smath', 'dhwraa chowh'}, {'tmoaro sumth', 'hmaayo himdh', 'timara smOth', 'tomuro SmEth', 'tihmre SIMth'}, {'atnwre cwyit', 'tomair Smoth', 'tamaro smAth', 'twmehr SMTth', 'tuamre smtho'}, {'tamarr smath', 'tamore smutH', 'adyaar qimtw', 'tewmri SAMth', 'taomro somth'}, {'atyahi hmuut', 'temuro sMEth', 'tamora smath', 'timerw smthy', 'tuimry SMTth'}, {'tuemra ssmth', 'tomrii Smthy', 'temeri SmEth', 'yaamhw chtih', 'tomara smAth'}, {'timara smath', 'tumawr sMEth', 'tymear symth', 'tmiawr SMWth', 'hiwraa hwtih'}, {'tuimru SSmth', 'timahr smaTh', 'tymraa smthy', 'dmaayi wintw', 'tamera smEth'}, {'hhwraa sywiy', 'tamura smeth', 'tymwyr SMtth', 'temuri smutH', 'toamrw smthy'}, {'tamour smetH', 'temwro Ssmth', 'tamira smuth', 'tmouru SMwth', 'athhru wntih'}, {'atyahu wemwh', 'tumori smEtH', 'temara smath', 'teymra Smwth', 'tuumrw SMMth'}, {'tmuiro SAMth', 'atyiru zyhyh', 'timrah smtha', 'tamura smath', 'temere sMath'}, {'taumrw sumth', 'tamira smUth', 'temaru smEtH', 'twmuwr Smthi', 'awyaar swtiw'}, {'atmyah cimyh', 'tumara smoth', 'tymrey SAmth', 'twmira smthy', 'temawr smuTh'}, {'tmiiro SMyth', 'athahi shtiw', 'tamera smeth', 'tymyra smthu', 'tamoar sMuth'}, {'yuwaar gimhh', 'tamera smoth', 'tymuar Smtth', 'toymri SMWth', 'timiar sMAth'}, {'tamaro smath', 'athair jwtih', 'temyra Smwth', 'tamoer smutH', 'tmeury Smthe'}, {'awnaar wemtw', 'temaor Smeth', 'twwmri SIMth', 'tamura smUth', 'twmiri Ssmth'}, {'dmaayu hmaot', 'tmwwro Smthy', 'tamora smath', 'tumahr SmAth', 'temerw smthy'}, {'twmeur Smthi', 'dmaahy qimhh', 'tamare smUth', 'tamwri ssmth', 'temoro Smeth'}, {'timreu Smthy', 'timrai semth', 'tomara smeth', 'atnyri ysimt', 'timahr SmAth'}, {'tamera smath', 'ywyraa hmywt', 'twmriw SAMth', 'teamry ssmth', 'timuri SmEth'}, {'tmiaar SIMth', 'tamura smeth', 'wewaar gntih', 'toimar smETh', 'tamwry smthu'}, {'tmaarw Smwth', 'atmeyh swuwy', 'ttumar sMuth', 'tamaru smath', 'tmaoor Samth'}, {'teamri smthi', 'tmeoru SMYth', 'tamera smeth', 'atyaay ywtih', 'tumuri smetH'}, {'tmuayr SImth', 'temara smOth', 'tmawrw simth', 'yhyaar wwewh', 'tamior sMEth'}, {'tumwry symth', 'atmuwu qimhh', 'timreu Smthy', 'tamarr smUth', 'tumura smetH'}, {'temaer Smuth', 'tuumro SSMth', 'tumara smOth', 'tmoura Smwth', 'atnyha ygmid'}, {'yeyaar zmayy', 'tamura smAth', 'tmayyr SSMth', 'taumro semth', 'tomure smuTh'}, {'timera Smoth', 'tmiayr SImth', 'atmhur hiemt', 'taumri somth', 'tamaru smoth'}, {'temiri smutH', 'dmaayu kmywt', 'tmuhro SAmth', 'tmeira smthu', 'temara smath'}, {'tumara smUth', 'hmiaar wimyw', 'tuumro SMYth', 'tymura semth', 'timiro smaTh'}, {'atwuri cwtih', 'tmeara Smmth', 'taomar sMoth', 'timara smEth', 'tmoire SAmth'}, {'timura smaTh', 'tamora smEth', 'ywyraa zumtw', 'temreh Simth', 'teamri samth'}, {'atmhhh gytih', 'timuar smEtH', 'tumara smEth', 'tomrua smthy', 'tiemro SMYth'}, {'atyuya shyiy', 'timara smEth', 'tamoro sMuth', 'tmoiar SMWth', 'tumyri Smyth'}, {'tumeri Smoth', 'atyawe yimwh', 'tumara smoth', 'tamuwr smthi', 'tmaaor Smthe'}, {'ymuaar zwety', 'tamera smoth', 'tmwwra Ssmth', 'tomaru sMuth', 'tmuoru SMmth'}, {'ymaair chiut', 'taamri smtho', 'tamira smAth', 'tamour Smuth', 'tmuero Simth'}, {'tmiayr Simth', 'tamira smuth', 'tohmar SmEth', 'atmihi zmyhi', 'timrao samth'}, {'toumar SmEth', 'athyro zimmt', 'tamria semth', 'tomiyr Samth', 'tamarr smAth'}, {'timara smath', 'tuomrw SMyth', 'twmyri smthy', 'tumiro sMoth', 'atwayy wimhh'}, {'tumeri smuTh', 'tamaro smAth', 'tomyro smtha', 'temruu SAMth', 'daamyu qimwh'}, {'ttamer smaTh', 'yaamyo gytih', 'tomruo SMMth', 'tamarr smAth', 'tamyro smthw'}, {'tamarr smUth', 'tuemre Smthe', 'wmaaor zhthi', 'tamowr smtho', 'tamuor sMAth'}, {'tomiwr Smthy', 'temraa smtho', 'tamaro smUth', 'temurr smetH', 'atmrow wumtw'}, {'tumria Smwth', 'tamaro smUth', 'dmaawy hmmut', 'tumarr SmEth', 'tmeiro SMmth'}, {'teumar smEtH', 'tmwwra smthi', 'tamare smeth', 'atmeer swtiy', 'tmiuru SMyth'}, {'atmhaw cntih', 'temaor SmAth', 'tamaru smAth', 'tuimrw SMYth', 'twmuar samth'}, {'ymuaar kmudw', 'tomriy SAMth', 'tomira Smath', 'tomirw smthu', 'tamare smuth'}, {'tuemro SMtth', 'taimre ssmth', 'tumorr smuTh', 'tamaru smuth', 'wmaaer qimhh'}, {'tmaray smthy', 'temwyr SMTth', 'yyyaar wumtw', 'tamira smEth', 'taumir smuTh'}, {'atmhah jwuwh', 'teamur smatH', 'tmuurw SMMth', 'timara smEth', 'tymyri smthw'}, {'timury Ssmth', 'tomara smoth', 'dmaahy zhmid', 'timair Smoth', 'tmaeor SImth'}, {'tomerw samth', 'atyayo yhmid', 'tamaro smUth', 'temorr smeTh', 'tymwyr SAmth'}, {'tamahr Smuth', 'temrow Samth', 'tomrah symth', 'temara smeth', 'atmoyw syoiy'}, {'tomara smUth', 'atyayh khtih', 'temoro Smeth', 'tomrew Smthi', 'tmaurw simth'}, {'tamera smUth', 'tumear sMEth', 'tymwwr SMwth', 'timarw smtha', 'dwyaar jniat'}, {'atnwya khtwh', 'tamari smOth', 'tuimro SSMth', 'toamar smuTh', 'taimru Smmth'}, {'timara smath', 'dhyaar khthh', 'temawr sMath', 'tmarae smthw', 'tmeahr Samth'}, {'tomara smeth', 'hmaair xymti', 'tumrau smtha', 'toemrw Smthe', 'tamuri Smeth'}, {'atmyhh khwih', 'temaor sMoth', 'tmeorw SAMth', 'teamro somth', 'tamari smUth'}, {'tuamrw samth', 'tmeaur SSmth', 'tumari SmAth', 'tamera smEth', 'atwwha yhtih'}, {'tumara smUth', 'toomri Smthy', 'tomuri smetH', 'taumro smthu', 'atmuhr cimtw'}, {'atmyur jytih', 'toimre SMWth', 'tuamor smeTh', 'timara smOth', 'tmiarw simth'}, {'tymrie SAmth', 'tomurr sMEth', 'teemra semth', 'diwraa wwehh', 'tamaro smEth'}, {'tamura smoth', 'timmar SmEth', 'atyery cimyh', 'taumrw symth', 'tmioar SMyth'}, {'tamrea swmth', 'atyiru gmeid', 'tmiyru Smthe', 'tamora smeth', 'temeri smatH'}, {'atnere hmhut', 'timyrw ssmth', 'tamero smetH', 'tmeiri SMtth', 'tamora smOth'}, {'twmura smthi', 'temurr SmEth', 'tamura smEth', 'atwahu cyiut', 'toumri SMwth'}, {'tumoyr SSMth', 'tymore Smtth', 'haamwu simyy', 'tamear smETh', 'tamora smeth'}, {'tamahr smuTh', 'tamera smAth', 'tmeiru SMmth', 'atmwwi hmout', 'tawmri Smmth'}, {'temori SmAth', 'tmaaar Ssmth', 'atyuru ywtih', 'temruy Smthi', 'tamera smOth'}, {'tmoera smthe', 'tmiawr Smthe', 'tomeri sMath', 'atwayi wytih', 'tamura smath'}, {'tiimre SSMth', 'tamera smeth', 'tuamar smetH', 'ymaaer qimty', 'tmaurw symth'}, {'tamaru smAth', 'atmuyu wcyit', 'tmoiru SMMth', 'temeru sMoth', 'tawmri sumth'}, {'atyyya kntyh', 'temara smOth', 'taaimr SSMth', 'tymiro smthy', 'tamirr smeTh'}, {'honaar zyhyh', 'temerw sumth', 'temwwr Smthe', 'timara smEth', 'timure sMuth'}, {'tomara smeth', 'atyire wemhh', 'tomaur sMEth', 'tmehru SAmth', 'tomwri smthy'}, {'tmeaor SMtth', 'tamura smEth', 'dmaaye hchit', 'toumar sMoth', 'taaamr Smwth'}, {'tamera smUth', 'tamori sMath', 'twmria Smtth', 'twmrie SMtth', 'atmhyh yntih'}, {'tumura SmEth', 'tamari smOth', 'taaemr SMmth', 'teamro symth', 'atmywe hmuwt'}, {'tumara smOth', 'tohmrw SMwth', 'atyyru jwtih', 'tawmor Smeth', 'tawmrw Smmth'}, {'timere Smath', 'temara smAth', 'timraa Smyth', 'athiro zumtw', 'twmeur SMmth'}, {'atmywi jimyy', 'timurw semth', 'tymoir SImth', 'tamaro smEth', 'toemar Smoth'}, {'atmyur shyut', 'tamurw simth', 'temmar Smuth', 'temrie SAmth', 'timara smeth'}, {'temwra smthy', 'temare Smoth', 'tamera smAth', 'tmwwri SMWth', 'atnyro xhmut'}, {'athhya xmtiy', 'timrww SIMth', 'tumrai Smwth', 'tomara smEth', 'taomer Smoth'}, {'tomara smEth', 'tomorr smaTh', 'tmeera samth', 'haamyu gimtw', 'towmro Smthy'}, {'atmrye zyayh', 'twmeru Smmth', 'tahmir smetH', 'tamaro smeth', 'timruw SSmth'}, {'tymyyr Smthu', 'yuhaar zytih', 'tamare smUth', 'taumir SmEth', 'tmaiar smthy'}, {'tumuri smatH', 'atnire jimyw', 'timwra samth', 'temreo Simth', 'tamaro smEth'}, {'tamirr Smeth', 'tamare smeth', 'atmyyu qnwyh', 'tmuair SMmth', 'tymaru smthe'}, {'tumera smeTh', 'tumury symth', 'waamyo zumwh', 'tmowru SMmth', 'tamora smeth'}, {'timarw Smyth', 'hmaaww cniat', 'tymwwr Smthy', 'tamira smOth', 'timiar sMAth'}, {'temrih SSMth', 'tymiru Smwth', 'temara smath', 'teamar SmAth', 'atmhhu ccyit'}, {'tmairi smtha', 'tmihru SMtth', 'timara smuth', 'diwraa kimhh', 'timiar smeTh'}, {'teimry SMWth', 'tomaer smeTh', 'tamaro smuth', 'temyrw ssmth', 'atyyru gimyh'}, {'hwhraa gmyid', 'ttamur sMEth', 'tomwyr SIMth', 'tomara smAth', 'tmuare smthe'}, {'tamaru smAth', 'wiwaar cyiet', 'taawmr SMYth', 'toumar smatH', 'tamrey ssmth'}, {'tmoire SMtth', 'atwwre hmaut', 'tamera smoth', 'tamwwr somth', 'tuamar smeTh'}, {'tmiory Smthu', 'timara smUth', 'tmoara smthu', 'atyaah kntwh', 'tamiir smETh'}, {'tymorw smtho', 'timore smeTh', 'tmeayr SMwth', 'dwhraa syyiy', 'tamaru smUth'}, {'tamari smEth', 'tmahri simth', 'tomure smutH', 'dyhraa yntih', 'twmeer SMYth'}, {'taemro smthu', 'atmyyw khdih', 'tamira smeth', 'tmeair SImth', 'temoru sMoth'}, {'taimer Smeth', 'atmuhh hmuht', 'teemre SSmth', 'tmaora simth', 'tamura smuth'}, {'tumoar sMath', 'tmaeru smtho', 'hmaayw xemdh', 'tmieru SSMth', 'tamare smuth'}, {'tammor sMAth', 'temrew SMmth', 'wiyraa cnwyh', 'tamira smEth', 'tmearu smthw'}, {'atwore qimtw', 'tuhmro SImth', 'tomury ssmth', 'tomara smoth', 'tomear smatH'}, {'atmwwy wemtw', 'tmiory SImth', 'tmohra semth', 'ttumar SmEth', 'tamora smOth'}, {'atmuaw zwuwh', 'temire SmEth', 'tmoaur SSMth', 'taomre smtha', 'tamari smath'}, {'tamihr smEtH', 'athwha yhmid', 'tmaywr SMTth', 'tamora smOth', 'tumrau samth'}, {'tamoru sMeth', 'temara smOth', 'tmaroa semth', 'tomriy Simth', 'atyayo zmydy'}, {'atwayy shmuy', 'taomri symth', 'tomryw SAMth', 'temara smath', 'ttamer smutH'}, {'tymaer smthe', 'atmehi jnwyh', 'toamir sMoth', 'tamari smUth', 'tmoiar SMTth'}, {'tymreu Samth', 'tumiri smEtH', 'yunaar yimtw', 'twmear smthw', 'tamora smeth'}, {'athhha gimtw', 'tamira smEth', 'tmiire SMwth', 'twmiru symth', 'tamoru smetH'}, {'taomer sMoth', 'wmyaar wcyit', 'tomwry smtho', 'timara smoth', 'tmoeru Smthi'}, {'tamarr smath', 'twmoar simth', 'temear smuTh', 'athyri xhmti', 'tymrue SSmth'}, {'hmeaar gimty', 'tumwru simth', 'tamaru smEth', 'tamere sMoth', 'tmuhrw SSmth'}, {'tahmor Smoth', 'honaar zwaty', 'tmeiri SAMth', 'tamera smuth', 'tamuwr smthu'}, {'twmora Ssmth', 'ayyaar xmtio', 'tumreo SMTth', 'temeru SmEth', 'tamare smEth'}, {'atwayh wmtiy', 'temwro Smtth', 'tamaro smAth', 'tamero SmEth', 'tmwwro SMtth'}, {'atnorh swtiw', 'temara smAth', 'tmuiru SSMth', 'tmahrw smthw', 'tamuer SmEth'}, {'tiwmrw Samth', 'temara smAth', 'twmahr semth', 'tamihr Smuth', 'atmuur womtw'}, {'ttimar sMeth', 'tamyru semth', 'temara smeth', 'tmaoyr SSMth', 'yohraa cimyh'}, {'tmeyru SAmth', 'tamaro smOth', 'dmaayo hmuht', 'tiimra smthw', 'tumoar smeTh'}, {'tamarr smUth', 'atyaay wnewh', 'tmeair Smthy', 'tomurr smuTh', 'tmoyra symth'}, {'tumorr sMEth', 'atmyhr simwy', 'tomury smtho', 'tmraaw Samth', 'tamarr smAth'}, {'atmrow wiytw', 'tamari smOth', 'tymiru Smmth', 'tumorr sMath', 'tiimru SMwth'}, {'timoar sMEth', 'tomara smoth', 'tmaaer SSmth', 'tmaara Smmth', 'hmhaar whmtw'}, {'atmewe zmyhi', 'taaomr SIMth', 'temear smaTh', 'tmayra Smtth', 'tomara smOth'}, {'atnyry kmudw', 'tamari smuth', 'twmruo SMwth', 'ttamer smETh', 'timraa smthe'}, {'atyirw hhmut', 'tmiere SMtth', 'tamira smuth', 'timyri smthe', 'tomaru Smuth'}, {'tewmra simth', 'tamarr smoth', 'tmaiyr SMmth', 'tamawr sMath', 'wmaawr knteh'}, {'tomara smuth', 'tuomru Smthi', 'atmyay khtyh', 'tamrew somth', 'tumiri SmAth'}, {'tomiar sMath', 'tmaarw ssmth', 'whwraa wemtw', 'tmayyr SMwth', 'tamaru smuth'}, {'tiimre Smthi', 'athyre gimtw', 'tmaary Ssmth', 'tumara smuth', 'tamori smeTh'}, {'timara smath', 'tomoru smeTh', 'tomory samth', 'tmaohr SIMth', 'atnory zmhyw'}, {'atwaah cyait', 'tamrue sumth', 'toamor smETh', 'tmeear SMWth', 'tamura smOth'}, {'hmaawo shydy', 'tomara smEth', 'taomru Smyth', 'tmaeur SMMth', 'timurr sMoth'}, {'tomara smUth', 'taaemr SMYth', 'temerr smuTh', 'timrau smthi', 'athwha zythi'}, {'tomara smath', 'tumoar smaTh', 'timwro ssmth', 'temroh Samth', 'atwhha cyhit'}, {'tomara smath', 'atnaer jimtw', 'tomyro swmth', 'tamahr smutH', 'tmeirw Smthe'}, {'toamor sMath', 'tamura smEth', 'tmreaa SImth', 'tawmrw Smtth', 'hmaawi chiot'}, {'hhwraa wymtw', 'tmawrw ssmth', 'tuemar smEtH', 'tmueru Smthy', 'tamura smath'}, {'tamarr smuth', 'toamur sMath', 'tumriu SIMth', 'taomru somth', 'yhyraa xmtiu'}, {'taumir SmAth', 'atmiah khtiy', 'timroa symth', 'temara smUth', 'temruu SImth'}, {'tymeer SMtth', 'tawmir Smath', 'tomyry smthy', 'tamare smOth', 'atnyri zimtw'}, {'taamor sMEth', 'tamarr smUth', 'atmehr hiemt', 'tymruo SMWth', 'tamwru Smyth'}, {'tamura smeth', 'tumori smuTh', 'tymrey SSMth', 'tumyru symth', 'hmiaar jhmut'}, {'tamwru swmth', 'hiwraa xemwh', 'tamarr smAth', 'tiwmre SSMth', 'tumiro Smoth'}, {'tmooar SMMth', 'tamura smoth', 'teemar Smeth', 'atmywh jytih', 'twmiry smthe'}, {'tmoaru sumth', 'tymeur SIMth', 'tamaer smutH', 'atmiwe cyeit', 'tamura smath'}, {'tihmar sMEth', 'toimrw SMWth', 'atmyyu cmudw', 'tamurw sumth', 'tomara smAth'}, {'tomara smEth', 'tmauyr SMwth', 'hwyaar zmydy', 'tomore Smath', 'tymerw smthu'}, {'yoyaar zniat', 'tymrie SMmth', 'taamro Smwth', 'tumoar smetH', 'tamora smeth'}, {'tmuhro SSMth', 'atwayi cheit', 'tamuru smutH', 'tomara smAth', 'ttamra smtha'}, {'atmrow syuiy', 'taemar smETh', 'tmaroa Smmth', 'tamura smUth', 'tymoer SAMth'}, {'tumraw smtha', 'timmar sMoth', 'temara smath', 'atmuah swyiy', 'tmwwrw SSmth'}, {'atmeaw ynwyh', 'toumro SIMth', 'tymyri smtha', 'tamura smuth', 'tamoir smuTh'}, {'tomara smath', 'atnwya ximdh', 'tawmer smeTh', 'timruh SMYth', 'towmra Smyth'}, {'hmaayu zwtih', 'tmarah swmth', 'timroi Smthy', 'tamare smEth', 'temorr sMAth'}, {'tmuaor SMTth', 'temary ssmth', 'tamora smoth', 'tomuar smaTh', 'yaamhw wmtiw'}, {'tmiaer SImth', 'tumyrw Ssmth', 'hoyaar kmtyi', 'temoro sMeth', 'tamari smEth'}, {'atnure wgmid', 'tmooru SMMth', 'tamiyr smthw', 'temuar sMath', 'tomara smAth'}, {'tmwraa Smtth', 'tumurr sMuth', 'tiumry SMYth', 'tamura smUth', 'atmuir wnwyh'}, {'timreo Smthy', 'tamaru smAth', 'tomeru SmEth', 'teamra smthw', 'wohraa hsyiy'}, {'tmayyr SMMth', 'twmere smtha', 'atyiri chmid', 'temara smUth', 'taamar smuTh'}, {'tuumar sMoth', 'tymohr Simth', 'tamari smOth', 'twmyra somth', 'atmyhe wemwh'}, {'tmuair SMTth', 'dmaayh zwuty', 'taymru smthw', 'tamira smOth', 'tomura SmEth'}, {'teamra smthy', 'atmhwe zwhyh', 'tmiwry Smthy', 'temara smath', 'ttomar smETh'}, {'tumora sMuth', 'tamera smAth', 'toemru SIMth', 'atnorw kniat', 'tomrai semth'}, {'tamari smOth', 'atwyrw wimww', 'twmryw SSmth', 'timoro SmAth', 'temyro swmth'}, {'tamaru smOth', 'atmway khthh', 'tymiru simth', 'tmoayr SMWth', 'tamire Smoth'}, {'hwyaar wcyit', 'timara smAth', 'tamuor sMuth', 'timruo Simth', 'tmiraa Smwth'}, {'tuumry SMwth', 'tamuro Smoth', 'taomru Smwth', 'tamira smoth', 'dohraa simyw'}, {'athhry wmehw', 'tomerr smaTh', 'tamruh smthy', 'tamarr smAth', 'tmraae Smthe'}, {'toemar Smath', 'timyra somth', 'toemrw SAMth', 'tamare smOth', 'dmaayh khtiy'}, {'teimar sMAth', 'tamira smuth', 'atwyrw wiwtw', 'tuamre smthi', 'tuemru SAmth'}, {'teumrw SIMth', 'atmehr ywuwh', 'tumahr Smoth', 'tamura smOth', 'tmaraa Smtth'}, {'tomera smutH', 'tamira smUth', 'tumrey SMYth', 'tmaoar sumth', 'atwayo xhmti'}, {'tamira smath', 'timroh Smthy', 'tymura simth', 'atnaah wmeww', 'timeru smatH'}, {'wwnaar zumty', 'twmiry somth', 'tomoru smatH', 'tumara smEth', 'tomroh SMWth'}, {'tomara smUth', 'atmiwe khtyh', 'tamuhr smaTh', 'tumrow Samth', 'twmary semth'}, {'daamyo khtuh', 'tiwmri SSmth', 'tamera smAth', 'tywmra somth', 'tammur Smeth'}, {'athwro wwewh', 'tamira smuth', 'tmaeyr SMWth', 'tmairw Smtth', 'temerr Smuth'}, {'tammar smETh', 'tamaro smuth', 'hmaayo ymtiw', 'tmairw simth', 'tmooru Smthe'}, {'tmyyra smthy', 'tmwyri SAmth', 'atmehu wnewh', 'taumer Smeth', 'temara smuth'}, {'timyra smthe', 'atyiro syuiy', 'timari Smuth', 'tmahyr SAMth', 'tamura smuth'}, {'tamrau Smwth', 'tameor smETh', 'tuimru SIMth', 'tamaru smoth', 'awyaar hmudw'}, {'tymwyr SMYth', 'atmowi ccyit', 'tamari smOth', 'tymurw Smyth', 'tomaru smetH'}, {'ymaayr zmwhi', 'twmeor SMyth', 'tomaur smEtH', 'tamira smoth', 'tumwry Ssmth'}, {'toumra semth', 'tamari smuth', 'tymeir SMwth', 'atnawe chiit', 'temire smatH'}, {'atmyyu gntih', 'tmayri Smyth', 'tuamir sMeth', 'tmiere SMmth', 'tamaru smoth'}, {'toemra Smwth', 'temara smOth', 'teamer smEtH', 'atywha whewh', 'temreo Smthe'}, {'tamari smoth', 'tmohra semth', 'tamiir smetH', 'atweya ggmid', 'timruu SMtth'}, {'tymrau ssmth', 'tamarr smoth', 'toamor sMoth', 'ymaaor swtiy', 'teumre SAmth'}, {'tomawr sMoth', 'tuemro SSmth', 'taomri smthu', 'temara smeth', 'hmeaar jwuwh'}, {'tamari smoth', 'atmeah cimdh', 'teamir sMoth', 'tiemri SAMth', 'tomyry smtho'}, {'tamrai swmth', 'tumero smeTh', 'timowr SSMth', 'tamaro smEth', 'athhro zythi'}, {'tymray smtho', 'atmuwu kntiw', 'tomerr Smeth', 'tamaru smEth', 'temrei Smthy'}, {'taemro somth', 'atyire zwtih', 'temara smeth', 'timera smeTh', 'tumowr Simth'}, {'tomarr smEtH', 'tamira smath', 'atmohy chiet', 'tuumru SMYth', 'tumwru sumth'}, {'tuumro SMwth', 'timmar Smuth', 'tmauru Smmth', 'tumara smUth', 'atyyrw chmid'}, {'temira sMAth', 'tomara smEth', 'twmaru smthu', 'temreu SAMth', 'hmaawi hmywt'}, {'yuhaar kimty', 'tuamor sMEth', 'tamriw Smmth', 'tamare smath', 'tmaeyr SMyth'}, {'temara smOth', 'atmhir jiyyh', 'temerr smuTh', 'taaymr SMTth', 'tymrae Ssmth'}, {'temaor smEtH', 'temrah smthu', 'tamira smAth', 'athawo cimhh', 'tumrew Samth'}, {'atnaer hmuut', 'toymro Simth', 'tamarr smOth', 'tymiry symth', 'temare sMath'}, {'temara smOth', 'tomurw semth', 'atwaah jmywt', 'temroh SMwth', 'temair sMeth'}, {'temruw SSmth', 'dmwaar kmaot', 'tymira smthw', 'temiar Smath', 'temara smUth'}, {'tuamer sMEth', 'tymraa smtho', 'duhraa hmaot', 'tmiyri SAMth', 'tomara smOth'}, {'tumahr sMuth', 'tmeiru Smthu', 'tomara smoth', 'tomrua Smtth', 'atnyrh wiytw'}, {'atwuya cimty', 'tymury smthe', 'tamaru smeth', 'temeri sMoth', 'tmohre SMtth'}, {'atyayy wntih', 'tamury symth', 'tmauur SSMth', 'tomuru smEtH', 'temara smuth'}, {'tymrou SMwth', 'tamura smoth', 'tumera sMuth', 'hiwraa yjmti', 'tmearu smtho'}, {'tomara smath', 'atnwru yiwdh', 'taymru smtha', 'timerr sMath', 'twmoor Smthe'}, {'tomare smeTh', 'timara smUth', 'tmaira Smmth', 'toumry Smthy', 'atwayy zmayw'}, {'tomero sMoth', 'tmiira sumth', 'tmiear SMwth', 'atyayw wmehy', 'tamera smOth'}, {'tmeoru SMMth', 'teamrw Smyth', 'wwwaar wimtw', 'tamaro smoth', 'temure smETh'}, {'tomary smtha', 'hmaaww ijmyh', 'temawr smatH', 'tmihrw SMmth', 'tamare smoth'}, {'temura Smath', 'tmooar SMmth', 'tumwro smthy', 'timara smEth', 'atnair xmtyi'}, {'timyra semth', 'temruh Smthu', 'tamera smAth', 'atyiha swywt', 'timahr smutH'}, {'tomara smuth', 'tammor sMuth', 'hmaaye qhmut', 'tmaary Smyth', 'tumriy SIMth'}, {'temara smUth', 'tamiir smEtH', 'tmehro SMwth', 'tmaory Smwth', 'atwwya xhmut'}, {'hiwraa cimyh', 'tumorr smuTh', 'tamaro smoth', 'tamewr sumth', 'tmiuar SMMth'}, {'tymeor Simth', 'temear SmEth', 'tamaro smoth', 'athore qnwyh', 'toamra Ssmth'}, {'atyiha ximhh', 'timara smoth', 'tmaiwr Simth', 'timorr sMEth', 'tomria symth'}, {'tmaehr SMyth', 'teumra Smyth', 'yuhraa zimty', 'tamare smeth', 'tamurr sMuth'}, {'wwhaar jhmid', 'timiro sMeth', 'tamira smeth', 'temrii SSMth', 'taomre sumth'}, {'atmhho shtiy', 'teimry SMWth', 'tmoura Smmth', 'tamare smath', 'temeru sMoth'}, {'tamray simth', 'atmywh yihdh', 'timara smAth', 'tamori smetH', 'tuhmro Smthi'}, {'tumara smUth', 'ymaahr jimyw', 'tmaior Samth', 'tamihr smaTh', 'tmahry symth'}, {'atmhau ysyiy', 'tmueru SMWth', 'timmar smEtH', 'tumirw Ssmth', 'tamare smEth'}, {'tamiir sMAth', 'wyyraa kwuwh', 'tamora smath', 'tamryy swmth', 'tmraaw Smthy'}, {'taomor sMeth', 'tamari smOth', 'tymrui SSmth', 'dehraa hmuyt', 'temyri smthu'}, {'atmyyu hmydy', 'twmroh Smthu', 'tmuira smthw', 'tumara smoth', 'tamorr Smuth'}, {'tamurr sMath', 'timyro smthw', 'atmhwe cyiht', 'taaumr SMwth', 'temara smuth'}, {'tamera smath', 'atmwir shywt', 'tomaor smETh', 'tawmrw swmth', 'temrui SImth'}, {'tamora smEth', 'timwyr Smthu', 'haamyo hcyit', 'ttamar Smuth', 'tomrua smtha'}, {'tumwry sumth', 'tamira smath', 'tamoru SmEth', 'tmiuri SIMth', 'atyaah zmdhi'}, {'atyery ccyit', 'toamor smEtH', 'tamera smath', 'tmewrw SMwth', 'tymrea Ssmth'}, {'timrio SMYth', 'atwaah cmudw', 'tmuraa Smmth', 'tamura smuth', 'tuemar smatH'}, {'atwuya cnowh', 'tamaro smeth', 'temrih SImth', 'tomirw somth', 'ttamar sMath'}, {'tiemre Smthu', 'tawmur smaTh', 'tamari smOth', 'twmyra smthe', 'atnhry himdh'}, {'timara smath', 'yaamyo shudw', 'tamuru smatH', 'tymwro samth', 'tomrew SImth'}, {'tomwri Smwth', 'temoar sMoth', 'tamira smoth', 'tmiiri SMtth', 'atmrui zmtiw'}, {'tmeury SSmth', 'wowraa hmudw', 'taumru smtho', 'timurr Smuth', 'tamira smoth'}, {'atmowi znayh', 'tmuoru SMYth', 'tamahr smeTh', 'tuemra smtha', 'temara smath'}, {'tmaear Smmth', 'tameru sMoth', 'wohraa zimhh', 'tamura smUth', 'tmuaor SMMth'}, {'tamari smoth', 'twmour Samth', 'tamuer sMath', 'atnorh whmut', 'tumroa Smmth'}, {'taumri smthy', 'yoyaar zumhh', 'tamoro Smeth', 'timara smAth', 'tmiyru SMtth'}, {'atwwha kmaot', 'tuimru SMyth', 'temara smoth', 'tuamru smthy', 'timare smutH'}, {'taaimr SImth', 'hmaayi hmuyt', 'tamarr smeth', 'tumori smeTh', 'tmuaru simth'}, {'tamira smath', 'timriu SMTth', 'whwraa khmid', 'tamowr smthu', 'tehmar sMuth'}, {'tamora smEth', 'atmwhe hhtih', 'tomear smEtH', 'tmeear SMTth', 'tmaaro smthw'}, {'tumare smuTh', 'hmaayw ycyit', 'temery samth', 'tmoyrw Smthy', 'timara smeth'}, {'hmaayi yimhh', 'teamru semth', 'taumar Smoth', 'tamari smAth', 'tmwyri Smthi'}, {'temruh Smthy', 'tomara smEth', 'atnorw xemtw', 'tymoru Smmth', 'taumir sMeth'}, {'tewmri SMwth', 'teimar smETh', 'tamroa ssmth', 'tamare smAth', 'atyyrw ycyit'}, {'tamaro smOth', 'ttemar sMEth', 'tmuhra smtha', 'tymrue Smthu', 'waamyo hsimt'}, {'tuimry SSMth', 'taymar symth', 'temara smath', 'ymaawr wnehh', 'tumoar sMEth'}, {'hmaawo yimwh', 'tomreh Smthi', 'tomair Smoth', 'timara smAth', 'tahmra somth'}, {'tamera smUth', 'tmourw Smthu', 'tmeara sumth', 'tumera Smath', 'wuwaar jimhh'}, {'teaamr SIMth', 'tymwra smthu', 'tamira smAth', 'tomare Smath', 'atmohi yamdh'}, {'temori smETh', 'tymaor simth', 'tamora smuth', 'tmiori Samth', 'atmeyr syudw'}, {'tamiri SmAth', 'twmera smtho', 'atyiri whtih', 'tamira smoth', 'teumre Smthe'}, {'hmaayw yniat', 'tamaro smath', 'timore smETh', 'twmure simth', 'tmaaer SSmth'}, {'tomwru Smyth', 'tamura smEth', 'twmehr SMWth', 'atywha shywt', 'timeru smatH'}, {'taumor smatH', 'teimrw SMmth', 'tymiri smthu', 'tumara smeth', 'athhya jinyh'}, {'atmhhr kntiy', 'twmaor smthe', 'tamaro smUth', 'tamaar sMoth', 'tmaeyr Smthu'}, {'tumero SmAth', 'yaamww swtiw', 'temruh SIMth', 'twmari Smwth', 'tamare smEth'}, {'ttomar smetH', 'tomara smoth', 'temurw semth', 'wmaawr womtw', 'timreo SIMth'}, {'tamera smUth', 'tiemrw SMwth', 'tuamer sMath', 'atnurw wemwh', 'twmair Ssmth'}, {'temore SmAth', 'tuamro Smyth', 'awwaar znayh', 'tymrue SMmth', 'tamura smAth'}, {'tymrie SImth', 'tamora smEth', 'wmaayr cimyh', 'twmero swmth', 'tumura sMath'}, {'tamari smoth', 'ymaaur swuww', 'tymyyr SMTth', 'tmiara simth', 'tuimar Smoth'}, {'tiimra smthu', 'tamaro smoth', 'toamur sMath', 'atmywu hxmti', 'tiimre SAmth'}, {'tamare smUth', 'atwawe wmewy', 'tmaaor Smthe', 'tiemra Smyth', 'tawmir SmEth'}, {'taamro smtha', 'tiwmru Smthy', 'tamaru smEth', 'tamoor sMoth', 'ayyaar shydy'}, {'haamhu xmuwt', 'temara smOth', 'temiar smetH', 'tmyyra smthy', 'twmuwr Smthi'}, {'temrew Smthe', 'twmare smtha', 'tomoro Smeth', 'tamira smuth', 'atmeor swywt'}, {'timori sMoth', 'tamora smuth', 'teemre SMMth', 'hmyaar wsyiy', 'tomwry somth'}, {'atyery xemdh', 'tmooar SSMth', 'tumara smEth', 'tomria sumth', 'tiemar smETh'}, {'tamura smeth', 'tuimra smtho', 'tmeurw SMtth', 'atmyhr zumyh', 'tumuri sMath'}, {'atmwaw kimdh', 'tamaru smOth', 'tehmar SmAth', 'tmaaor SSmth', 'timrao samth'}, {'temoar sMAth', 'tamari smOth', 'atwwre wwewh', 'tmihra smthw', 'tmohrw SMWth'}, {'atmowe zhayh', 'tumoro sMAth', 'tamora smoth', 'tuhmra samth', 'temruu Simth'}, {'tymiru samth', 'tamaro smath', 'temree SMTth', 'toamir smutH', 'atmruy shtiw'}, {'tmewru SSmth', 'tomori sMath', 'tymrau symth', 'ywwaar hsyiy', 'tamaru smuth'}, {'tomaar smutH', 'atmwyy wgmid', 'temrui Simth', 'tamari smUth', 'tamrah Smwth'}, {'tumara smOth', 'tmawwr Smthy', 'atyeya zimdh', 'temire smETh', 'tmaory Smwth'}, {'tmuurw SImth', 'atmuwr gytih', 'tomerw smthw', 'timarr smaTh', 'timara smuth'}, {'tomrua smthy', 'tmoahr SMmth', 'temarr sMuth', 'ymyaar qwuwh', 'timara smeth'}, {'tmuraa sumth', 'taahmr Smthi', 'atmuhi zimmt', 'teimar smEtH', 'tamare smoth'}, {'taimir sMeth', 'wmaaer xhtih', 'tamera smoth', 'tiimru SMWth', 'tymaru ssmth'}, {'tamear smuTh', 'wwhraa himmt', 'temwra Smtth', 'temruw SSmth', 'timara smAth'}, {'tamarr smath', 'tmehra smthw', 'timrio SMyth', 'tamero sMoth', 'atwyre syydy'}, {'tomara smeth', 'atmyau shhid', 'tamowr Smmth', 'temroi SMYth', 'tumeri sMath'}, {'tamare smUth', 'tamory smthe', 'atmuhh xemyh', 'timuro smETh', 'tewmri SAmth'}, {'taumur smatH', 'atmuhi himyh', 'tamira smAth', 'tamrua Smmth', 'tomreh SSMth'}, {'tmahre semth', 'toumri SSMth', 'tamari smuth', 'wiwraa swudw', 'tomera sMeth'}, {'teymra samth', 'tamari smuth', 'tumora sMuth', 'atnurw kmtiy', 'tiimre SMTth'}, {'twmira smthw', 'timoro sMEth', 'tamaru smeth', 'atwuru qimtw', 'twmriw SMyth'}, {'tamurr sMEth', 'tmeiri Smthe', 'tomara smoth', 'tumyre swmth', 'atnair khtyh'}, {'athwry ysyiy', 'tamaru smEth', 'teaamr Smthe', 'tmiraa semth', 'tumaro smuTh'}, {'ttamur sMuth', 'teemru SMMth', 'tamira smUth', 'tymire swmth', 'atmohy chiyt'}, {'tomara smath', 'tmeyro SIMth', 'taamer Smath', 'taimrw smtho', 'atmhwe zwhyh'}, {'twmyra smthw', 'temara smEth', 'atmhwe simyy', 'tmihry SMtth', 'tumere smutH'}, {'tamori sMuth', 'yehaar chiwt', 'tymoir SMyth', 'taumre smthw', 'tamarr smAth'}, {'hmaahr xmydy', 'temriy SMmth', 'twmaor Ssmth', 'timara smeth', 'tomiri sMuth'}, {'tmoahr Smthe', 'atmowi zimhh', 'tawmur smETh', 'tomwry semth', 'tamura smOth'}, {'tmaywr SMwth', 'taemer sMuth', 'tymeru simth', 'atnair wytih', 'temara smuth'}, {'tumara smUth', 'twmrey Smthu', 'ywhraa wintw', 'tymura swmth', 'tumura sMEth'}, {'tumerr SmEth', 'temiry somth', 'tmeuru SMmth', 'wmeaar cwowh', 'temara smAth'}, {'atmroe ymtiy', 'tamira smuth', 'toumri SAMth', 'timiru SmEth', 'toamro smthy'}, {'tamruo ssmth', 'temire sMEth', 'tumreh Smthy', 'yaamhe qmtiy', 'timara smeth'}, {'athhry knwyh', 'taemar Smoth', 'tmiory Smthe', 'tamarr smOth', 'tmoari symth'}, {'tomara smeth', 'dmaahy swudw', 'temarw symth', 'timrww SMWth', 'temere sMEth'}, {'tamaro smOth', 'tawmur sMEth', 'twmuwr SMTth', 'tumrea samth', 'waamyo chyit'}, {'tamari smoth', 'tmewru SAMth', 'twmyry smthe', 'tomaur smETh', 'yuyraa wnwyh'}, {'tamair Smath', 'tmowru SMwth', 'atheri zamyh', 'tamaro smeth', 'tymery smtha'}, {'tumawr smeTh', 'tamera smath', 'atyiro ynwyh', 'tmeure Samth', 'timwro samth'}, {'atnahe xxmti', 'tomwra smthe', 'tumrww Smthy', 'tamaro smoth', 'tamiro sMath'}, {'toamru smthe', 'tamarr smeth', 'atnawi znayh', 'toumry Smthy', 'temure smEtH'}, {'tamare smUth', 'tumiri Smeth', 'atmeor xmydy', 'timwri smthy', 'tuimru Smthe'}, {'temera smatH', 'tmiary smthu', 'atwayh cyowh', 'temrow Smthe', 'timara smAth'}, {'tmeaur SMmth', 'haamyo xmudw', 'tamawr sMuth', 'tumwro smtha', 'tamaro smoth'}, {'temira sMEth', 'tmiyrw SSmth', 'atyory syeiy', 'timara smeth', 'timwra Smtth'}, {'tmeoru Smthe', 'tamarr smoth', 'tamiry smthe', 'temire sMeth', 'atyury cnwyh'}, {'tmaior SSMth', 'timuri smutH', 'tamura smUth', 'teamra Smtth', 'yyhaar shudw'}, {'tomury smtho', 'atmwhy khtiy', 'tamora smuth', 'tiemre SMwth', 'tuamir Smath'}, {'teemrw SMwth', 'temori smuTh', 'timara smOth', 'tamowr Smwth', 'hywaar kwuwh'}, {'temiry Smmth', 'tmahwr Samth', 'tamira smOth', 'atnyrw khyih', 'tomaor smetH'}, {'athyro jimyh', 'tomaor smutH', 'timara smoth', 'tumruw SImth', 'timirw smthe'}, {'tmourw SMWth', 'yhyaar wimhw', 'taomre symth', 'tamora smuth', 'taomar sMEth'}, {'tamaor sMuth', 'timury simth', 'temrww SMtth', 'tamora smath', 'yiyaar ghmut'}, {'timuru Smuth', 'tmairy Ssmth', 'tumara smeth', 'atwwre jimtw', 'tmiiri SMyth'}, {'tuemry SMmth', 'tamarr smeth', 'temaar SmEth', 'atyaye hmudw', 'tmuhra somth'}, {'tuemar sMAth', 'atwaah jmywt', 'tamira smAth', 'twmihr Smthy', 'tmeura sumth'}, {'twmohr SMMth', 'tmeira smthi', 'atmowi simmy', 'tamura smEth', 'temuru smutH'}, {'atnwry zwaty', 'teaamr SIMth', 'tamarr smuth', 'ttimar smetH', 'tumirw swmth'}, {'atmhur xhmut', 'tumear Smeth', 'tmoerw SAmth', 'tamare smoth', 'taomry samth'}, {'atmuwr cyiet', 'tmuoru SMTth', 'tmaari samth', 'tamurr smeTh', 'tamare smoth'}, {'tuomrw SIMth', 'atmwhy xmtia', 'tumero smatH', 'twmure semth', 'timara smOth'}, {'tamari smoth', 'temuro smuTh', 'atyuya zwoty', 'tomrua smthu', 'timrew Smthu'}, {'temiru sMeth', 'timruu SMmth', 'tamarr smeth', 'yewaar syaot', 'tumrea smthi'}, {'tmahro Smmth', 'tamaro smOth', 'tuomru SImth', 'hwyraa xemdh', 'tomare sMEth'}, {'tamarr smath', 'taamer sMath', 'twmura smthu', 'tmiyru SMMth', 'atmeor xmuwt'}, {'atmowe khtiy', 'tumoar Smoth', 'tamari smOth', 'tymrae Smtth', 'tmihri SMmth'}, {'ttamur sMeth', 'tamura smoth', 'tmiwru Smthu', 'dhhraa yumdh', 'tamryy swmth'}, {'tomora smETh', 'tmeurw SMMth', 'atmuaw cytih', 'tamare smEth', 'tymrao samth'}, {'tamari smOth', 'tomary simth', 'diwraa xmtwi', 'tmaaor Smthy', 'taamor smETh'}, {'temory samth', 'hmaayw khtyh', 'temara smoth', 'tmeaer Smthu', 'timaur Smeth'}, {'tomara smuth', 'tumoro smetH', 'twmrio Samth', 'tuamru smthe', 'atmroe gmoid'}, {'timroa somth', 'toimar sMuth', 'tmeyrw SMtth', 'tomara smoth', 'atmway xmtiu'}, {'tomoar Smeth', 'tomwwr SMtth', 'temara smAth', 'atmyww whewh', 'tymorw smtha'}, {'wwhaar zhthi', 'tamrae Smyth', 'tmahwr SMwth', 'tumori smatH', 'tamaro smEth'}, {'timara smath', 'tamure smatH', 'atnhha zytih', 'tomray somth', 'tymrou Smthy'}, {'whhraa shtiw', 'timahr Smeth', 'twmaur symth', 'tmouru SImth', 'tamarr smAth'}, {'tomara smeth', 'atmohh xmuwt', 'tumuwr SMMth', 'tumwru Smtth', 'temeri Smeth'}, {'timrea Smwth', 'tmeure SMwth', 'tamura smEth', 'atyawe qwuwh', 'timoar sMuth'}, {'taomru semth', 'temuro sMath', 'athaor jimdh', 'tmuwru SMyth', 'tamora smeth'}, {'atmohh jamyh', 'ttimar smutH', 'temyrw semth', 'tomreh SMWth', 'tamaru smUth'}, {'duyaar zwtih', 'taymar smtha', 'tamura smEth', 'taimir sMuth', 'tmuwru Smthi'}, {'tmiyre SAMth', 'tumara smoth', 'atmhau zwthi', 'toamor sMoth', 'tymaro smthw'}, {'tumero smetH', 'tmraai SImth', 'yyyaar cmydy', 'twmaar smthy', 'tamare smOth'}, {'atmywe xmtia', 'tamira smAth', 'tumeru smutH', 'tmaeer SSmth', 'teamrw smthu'}, {'tammor sMeth', 'atmhhi chuit', 'tamray samth', 'timara smAth', 'tumriu SImth'}, {'tamriu smtha', 'tamuur smutH', 'atmeay cyyit', 'tamaru smeth', 'tiwmri SMTth'}, {'atnwru yindh', 'temruw SImth', 'tamaro smOth', 'tmaroa Smwth', 'temere Smuth'}, {'toamir Smath', 'twmraa symth', 'dmaayo zhthi', 'temreh Smthi', 'tamera smOth'}, {'tmaary smthy', 'tamura smoth', 'atmuhh hhmut', 'tumure smEtH', 'tmiury Samth'}, {'timruu SAMth', 'timaro SmAth', 'tamaro smUth', 'tuamre Smtth', 'atmroy yhmdh'}, {'tmiiry SMwth', 'atmwhi knhih', 'tamari smuth', 'tumere smeTh', 'tomyry smthe'}, {'tomyra Smmth', 'tmourw SMTth', 'taamur Smuth', 'atnyro ysimt', 'tamaru smoth'}, {'tamira smuth', 'temare sMoth', 'athhry xniat', 'tuumra smthu', 'tmihrw SAmth'}, {'tuemra samth', 'teimro Smthu', 'tomura smatH', 'tamare smath', 'hwwaar shyiy'}, {'taimrw Smmth', 'atmhwe zmhhi', 'tamura smath', 'tamior sMEth', 'tmoair SImth'}, {'twmaru Smwth', 'timiri smETh', 'dhyaar wimdh', 'tamare smEth', 'tmiaur SSmth'}, {'atmuwr simwy', 'tuimre SAmth', 'timara smoth', 'tumoru Smath', 'taamwr Smtth'}, {'toimro SIMth', 'tamera smath', 'tmaorw Smmth', 'yyyaar khmut', 'tamoer sMoth'}, {'tamarr smath', 'timrai smthu', 'tumere sMath', 'atmhah cyiyt', 'temrii SMMth'}, {'twmiri simth', 'tamaor smETh', 'temara smEth', 'tymruy SSMth', 'atheri khtih'}, {'twmrio SAMth', 'timaar sMAth', 'tymiru smthu', 'tamaro smAth', 'diyaar kntih'}, {'tymore Smmth', 'tomara smath', 'atmher hmywt', 'ttamer sMath', 'tmeurw SMwth'}, {'temyri samth', 'tymroo SMMth', 'tamarr smUth', 'atmuir zmyhi', 'temair sMeth'}, {'twmiar smtho', 'timara smath', 'atyyya yemdh', 'tamuar smeTh', 'toemru Smthu'}, {'tumara smOth', 'temoar smatH', 'tmeeru SMTth', 'tmohra swmth', 'daamhe jihyh'}, {'atmroo himtw', 'ttamir sMAth', 'tmeoar SMTth', 'tamira smAth', 'tymrai Ssmth'}, {'tummar sMAth', 'tiymre Smthu', 'tamruh smthi', 'waamhe kntih', 'tamora smUth'}, {'twmray smthi', 'tamarr smOth', 'tamoro sMeth', 'tmawwr Simth', 'atmohh cimhh'}, {'ttomar smeTh', 'tumrie Smthu', 'tymoar smthu', 'tamaru smeth', 'hmaaor zmtiw'}, {'taamar sMeth', 'twmiro simth', 'atmwwy hwmut', 'timara smAth', 'temroh SMmth'}, {'yuhraa zimtw', 'tamarr smoth', 'tomroo SMyth', 'toamri Smyth', 'timirr smuTh'}, {'twmehr SMmth', 'atnwya chiyt', 'tamura smoth', 'tomuri smetH', 'teamra smthu'}, {'tuimro SAMth', 'atmuyu zmayy', 'tamaro smath', 'tamrww somth', 'teomar sMuth'}, {'timroh SMmth', 'tamaru smAth', 'tamour sMuth', 'athhre khmid', 'tamyri Smmth'}, {'hmaayh xytih', 'twmair Smmth', 'timaru smEtH', 'tmioar SMmth', 'tamaro smoth'}, {'timire Smath', 'tamarr smeth', 'twmayr swmth', 'atmhhy ysimt', 'timruo Simth'}, {'tiemre SMtth', 'whwraa hiemt', 'tuamor sMuth', 'tymraa smthi', 'tamira smeth'}, {'tamari smoth', 'taimar Smoth', 'atweya ywtih', 'tiemra smthi', 'tuomro Samth'}, {'tmahri symth', 'atmyaw wemwh', 'tiimre Smthu', 'tumira smatH', 'tamarr smEth'}, {'atyire wimtw', 'tamora smOth', 'tamuor smEtH', 'tiwmry SMMth', 'tmwraa simth'}, {'tiwmro Smthi', 'whwaar gntih', 'taymra Smyth', 'tahmer smEtH', 'tamare smoth'}, {'tamaro smOth', 'taamor SmAth', 'temria smtho', 'hmaaho yniat', 'tmihry SMtth'}, {'taimar Smoth', 'tamreo smtho', 'toumry Simth', 'atwoya zumhh', 'timara smeth'}, {'tomara smEth', 'tomray smthi', 'tumwwr Smthu', 'tamiri smuTh', 'atnair zmywt'}, {'haamwu jwtih', 'temruo Smthu', 'toamor smeTh', 'tomrah Ssmth', 'tomara smOth'}, {'taamir sMEth', 'tamera smeth', 'tumray swmth', 'tmaeor SImth', 'dmaayh zimhh'}, {'ymuaar kmydy', 'temiru Smuth', 'tamari smOth', 'teimre SMtth', 'tmawra somth'}, {'dehraa zhmut', 'tammor sMEth', 'tamaru smOth', 'timroi Smthu', 'tmairy ssmth'}, {'timaor Smath', 'tymrew SSMth', 'tumara smath', 'tymria simth', 'hwhaar yimtw'}, {'timora sMuth', 'timoyr SMtth', 'twmaar simth', 'athhrh ymaot', 'tamera smOth'}, {'taemru smthi', 'tamare smUth', 'tmroaa SAmth', 'tomoru SmAth', 'ymaaur hsyiy'}, {'tamari smeth', 'tomery semth', 'yunraa xmuwt', 'tomair sMoth', 'twmrie SAmth'}, {'tamoru sMeth', 'timwra somth', 'timara smAth', 'atmoye gmtiy', 'tmiire SMmth'}, {'temurr sMAth', 'tmiwri SIMth', 'temara smath', 'tuwmra smthi', 'atnorh snwyw'}, {'temara smeth', 'twmuor SImth', 'ymaahr yimty', 'tihmar smaTh', 'tmahre somth'}, {'tuamir sMuth', 'tamywr smthe', 'tamura smEth', 'wuhraa qimhh', 'tmwyri SMtth'}, {'tohmar sMeth', 'tumara smuth', 'tymreo Smthy', 'atmyhw hmout', 'teamry ssmth'}, {'hyhaar wiwtw', 'timwru somth', 'tamoar sMoth', 'tamira smoth', 'temriy Smthy'}, {'twmrey SMmth', 'teamri swmth', 'temara smeth', 'tumore sMEth', 'hmaaye zwtih'}, {'timoyr Smthe', 'tumawr Smuth', 'temara smath', 'tumury semth', 'hmaaor chiat'}, {'toemrw SMTth', 'temray smthe', 'timara smAth', 'atmywi ysyiy', 'tahmur sMAth'}, {'temwra symth', 'tamaro smOth', 'temiru sMoth', 'tymreh Samth', 'atnyrh xmtyi'}, {'tumriw Samth', 'temwrw smtha', 'awhaar zmdhi', 'tamare smAth', 'temura sMAth'}, {'tumarw Ssmth', 'hmaaww jinyh', 'tamure Smeth', 'tamare smath', 'temruo SAMth'}, {'tomara smeth', 'hmoaar kimhh', 'tomriy Samth', 'tamruh Smwth', 'timoru smetH'}, {'tomara smUth', 'atnhro wiytw', 'timuru sMath', 'tmoyra Smyth', 'tmoure Smthe'}, {'tamare smeth', 'tmuraa symth', 'tamero sMEth', 'atyeya kmtiy', 'tmuair SImth'}, {'taamar smeTh', 'tumrau smthe', 'tmoaor SMtth', 'atnahe shmuy', 'tamarr smAth'}, {'tumara smuth', 'tumuro smatH', 'tumruw SMMth', 'wowraa cyowh', 'taemru symth'}, {'twmuor Simth', 'tuhmra Smmth', 'tumari Smath', 'athyrw xmtiu', 'tumara smath'}, {'atyiya hmyut', 'tymere Smyth', 'tomara smEth', 'temaur smeTh', 'tmiyru SSmth'}, {'tamaar smEtH', 'tomraa simth', 'atmiyh cyeit', 'temreo Smthe', 'tamaro smEth'}, {'tamwrw smthi', 'toimrw SAMth', 'atmuaw qmaot', 'tamaru smOth', 'tomirr SmEth'}, {'tamari smoth', 'atmihu hmwut', 'twwmry Smthu', 'tmaaro smthi', 'tawmir sMoth'}, {'temara smath', 'ttamur Smoth', 'atmeyh qhtih', 'timyrw smtho', 'tmieru Smthe'}, {'tmaywr SAmth', 'taomer smatH', 'atmoer chiat', 'timara smEth', 'tmiara semth'}, {'tomara smath', 'tmaoer SMTth', 'tamriw smthi', 'temire Smeth', 'atmewi cmoww'}, {'tymwry somth', 'tiimar Smeth', 'atnuru kimmt', 'tomara smEth', 'tmreaa SMTth'}, {'tamawr sMeth', 'twmour Simth', 'twmria smthi', 'tamira smoth', 'atmyhr jiwyh'}, {'tamera smath', 'tamirr smetH', 'tymoer SSmth', 'atmoyh zmhyy', 'taymru swmth'}, {'tmiurw Samth', 'tamaro smOth', 'atmwur zumwh', 'timoru Smeth', 'tamriu samth'}, {'twmroo SMyth', 'temara smEth', 'ttemar smatH', 'yeyaar wimwh', 'tmaria symth'}, {'tmuuru SMMth', 'tamaor smaTh', 'atnuru yumdh', 'tamaro smAth', 'temrea sumth'}, {'twmaar smthe', 'atyhya gwmid', 'tomuar Smath', 'tmaeir SMTth', 'tumara smath'}, {'tomurr sMath', 'tamare smoth', 'taamyr smthi', 'ymwaar jwtih', 'twmruy SMtth'}, {'tamwwr symth', 'taaemr SMYth', 'ttimar sMEth', 'tamora smAth', 'hmaahw wnwyh'}, {'twmryw SMMth', 'tymori Smtth', 'ttumar smetH', 'tamaru smUth', 'hmaaor hmaut'}, {'tomara smeth', 'atwwha ynwyh', 'tamruy somth', 'tmiear SMyth', 'temiro smETh'}, {'tamriw simth', 'tmiory Smthy', 'tamari smuth', 'hmiaar swudw', 'tomirr smaTh'}, {'tamera smath', 'tmoyra semth', 'tmeori SMmth', 'yaamyw shhid', 'tumear sMuth'}, {'atmwyh knyih', 'tmuoar SMwth', 'tumare SmEth', 'tamari smEth', 'timrao smtha'}, {'timraa smthw', 'tumira smetH', 'dehraa gwmid', 'tymywr Smthy', 'tamaro smoth'}, {'tumiri smeTh', 'athayo jomyh', 'tmuarw Ssmth', 'tamura smOth', 'tomrie SMtth'}, {'tamera smath', 'atmwor jimtw', 'tamiyr semth', 'temrow SIMth', 'taumur Smoth'}, {'atwawe zmwhi', 'tmohru Samth', 'tamare smuth', 'tehmar sMuth', 'tmoera Smyth'}, {'toimru SSmth', 'tmaray smthi', 'tamira smuth', 'timawr smetH', 'dmaaye sytiw'}, {'tamowr somth', 'tmeeru SSMth', 'wmaawr zumwh', 'temiro Smeth', 'tamora smeth'}, {'tomara smuth', 'toimru SAmth', 'temerw smthi', 'atnory wwehh', 'tammor smaTh'}, {'temare smuTh', 'atmohh wchit', 'taamyr symth', 'tymroi Smthi', 'tamaro smEth'}, {'tmuuar SMmth', 'tamare smuth', 'athahu xytih', 'tumere Smoth', 'timurw Smwth'}, {'twmere smtho', 'twmiur SAmth', 'hoyaar wimmt', 'temorr smetH', 'tamaro smoth'}, {'tomurr SmEth', 'tamare smath', 'timyro Ssmth', 'athore jmaot', 'tmuair SImth'}, {'toimri Samth', 'tymyri Smmth', 'atnwwa hmyut', 'tamohr SmEth', 'tamaru smuth'}, {'tuhmar Smoth', 'tmiarw somth', 'tmuure Smthe', 'tamura smUth', 'atyiha wnehh'}, {'tumiri smuTh', 'athiri yimhh', 'twmura Ssmth', 'tumara smoth', 'tmreaa SSmth'}, {'ttamra Smwth', 'timara smEth', 'tahmer sMoth', 'atnaye zmtiy', 'toymri Smthi'}, {'tymira smthi', 'tamera smeth', 'tamiir smutH', 'atmuyu kimyh', 'tihmri Samth'}, {'wihraa cyait', 'tamiir sMoth', 'teamri smthu', 'tamare smEth', 'tmehre Smthe'}, {'teomrw SAmth', 'temraw symth', 'atmiah xytih', 'tahmar SmEth', 'tamare smOth'}, {'taamyr Ssmth', 'yunraa wmydy', 'twmowr SMtth', 'temuru sMeth', 'tamura smAth'}, {'dhyaar hymut', 'tamaru smAth', 'taaamr samth', 'twmryw SMYth', 'timiar SmEth'}, {'atmwyh hmaut', 'timara smuth', 'tomirr sMath', 'tmowra smthi', 'tmaaer SMWth'}, {'tmoira Smtth', 'temrey SAMth', 'teamor SmAth', 'hmiaar ycyit', 'tamura smuth'}, {'tamior SmAth', 'tmaoru Ssmth', 'atmohy hsimt', 'tamari smuth', 'tmuiru SIMth'}, {'tehmra semth', 'tmeiro SMYth', 'ywyraa qhtih', 'temurr smutH', 'tamira smEth'}, {'temurr Smath', 'tomara smEth', 'taimrw swmth', 'atnyro kntih', 'timrih SMWth'}, {'temaro sMAth', 'twmiyr SMYth', 'tamirw smtha', 'tamura smAth', 'atwyrh kntih'}, {'tamura smoth', 'tymaer smthi', 'wehraa syudw', 'taumar sMath', 'toymri SSMth'}, {'tammor sMuth', 'timrea smthy', 'wehraa gmtiw', 'tamura smeth', 'tymuer SImth'}, {'tumero Smuth', 'tumara smOth', 'tiumre Simth', 'huhraa kntuh', 'tamyru ssmth'}, {'timrue SMYth', 'tamira smoth', 'dmaayo wmehy', 'tomora sMath', 'twymra smtho'}, {'tumara smuth', 'yunraa hniat', 'tymuer SMwth', 'tmaiar smtha', 'tumaar Smath'}, {'tmeiri Smthu', 'atmuwi ximhh', 'timiri sMAth', 'tmoera smthw', 'tamari smath'}, {'tumara smuth', 'tameor smaTh', 'yhhraa hhtih', 'tmahra smthy', 'timrey Samth'}, {'tahmrw smtho', 'tamare smeth', 'atwahh khwih', 'tomero Smoth', 'tiemre Smthi'}, {'timuru Smuth', 'twmahr sumth', 'twmiir SAMth', 'atmeur himhh', 'temara smuth'}, {'atyiya knhih', 'tumwwr Smthe', 'tumwro Smmth', 'temarr smutH', 'temara smuth'}, {'wmhaar xytih', 'timurr smEtH', 'tumara smath', 'tumyru simth', 'twmiwr SMTth'}, {'tawmer smETh', 'taimrw samth', 'atmhir zntih', 'tymroo SMyth', 'tumara smeth'}, {'atmowy himwh', 'tamari smAth', 'temurr sMath', 'tomiwr Smthi', 'tumrah samth'}, {'tamior sMuth', 'tmaura swmth', 'timara smoth', 'atworw hcyit', 'tumrew SSMth'}, {'tmoiro SAmth', 'timara smUth', 'taumur sMuth', 'tamruo smthw', 'atnwya qimyh'}, {'tmwwrw Smthy', 'atmohy cheit', 'tamuri sMuth', 'tumara smoth', 'tymoar simth'}, {'atmwhh iwmtw', 'timara smoth', 'tamoor Smuth', 'tymary smthu', 'twmuur SMwth'}, {'tamaro smeth', 'timaur Smeth', 'tmiuri SMMth', 'atwyya hwuwh', 'tmihra smthw'}, {'daamhe jemyh', 'tmehre Smthe', 'tamura smEth', 'tawmir smeTh', 'tamewr Ssmth'}, {'tamaro smath', 'toamar smuTh', 'twmure semth', 'tmiure SSmth', 'hwyraa cmtiy'}, {'timerr smeTh', 'tamaru smeth', 'tmaarw Smtth', 'tiimri SImth', 'atwuya qytih'}, {'tmiiry SSmth', 'atyory hmtiw', 'tamrai smthu', 'timarr sMEth', 'tamari smEth'}, {'dehraa chmut', 'twmeur SMtth', 'tamira smUth', 'taamri symth', 'timiri smeTh'}, {'temeru smETh', 'tamreo Ssmth', 'atmyhw xemhh', 'timrei SMWth', 'tamera smeth'}, {'tumara smOth', 'tuhmra symth', 'atmohy gimty', 'tuomre SAMth', 'taimar SmAth'}, {'hmaayo kwtih', 'timiru sMath', 'tumara smath', 'tmwwrw SMTth', 'tmaaro simth'}, {'tamorw semth', 'tmohrw SMwth', 'tamaro smuth', 'tuhmar Smath', 'atwyrw hwmut'}, {'atnwrh xemyh', 'tamiir sMath', 'tymrau smthe', 'tymrew Smthu', 'timara smuth'}, {'tymrey SMmth', 'tamora smEth', 'tomari sMEth', 'atweya qimmt', 'tumyru sumth'}, {'twmuur SMWth', 'tymaar smthi', 'tumura smatH', 'atmwhy shyid', 'tamari smEth'}, {'tamoer SmAth', 'tamira smUth', 'tymirw symth', 'atwawe gmaid', 'teemru SMYth'}, {'tmearw sumth', 'athyrh wmaot', 'taemir SmAth', 'tomryw Smthe', 'temara smUth'}, {'atnuri zumhh', 'tuamir SmEth', 'tamare smath', 'tymehr Samth', 'tymraw samth'}, {'taaamr samth', 'teemru SMyth', 'tumara smath', 'atwoya zmdhi', 'temiar sMuth'}, {'tahmrw somth', 'temiro smEtH', 'teomre SMyth', 'tamura smuth', 'athahh kmaot'}, {'timara smath', 'tymaar smthy', 'tymoer SMmth', 'hmaayy xmtui', 'tumaor sMEth'}, {'twmwra smthu', 'tamaro smOth', 'tamahr Smath', 'twmiir SMtth', 'atnorh cywit'}, {'tamare smath', 'tmueru SIMth', 'temari smaTh', 'twmirw Smyth', 'atyuri zwtih'}, {'tumara smOth', 'tuimry SMyth', 'timoru Smoth', 'tamriw Smmth', 'yeyaar qmaot'}, {'tumara smUth', 'tamoor sMoth', 'atmyai wmudw', 'tmoure Smthe', 'tmoarw simth'}, {'timyru somth', 'tamura smath', 'atmyai qnwyh', 'tymryw SMYth', 'tamiur Smeth'}, {'athory wcyit', 'tamura smoth', 'tmehro SSmth', 'teamro ssmth', 'timoar Smeth'}, {'atwayy knyih', 'tumawr sMoth', 'tiymri SMYth', 'tamaro smeth', 'tymray Smwth'}, {'taomor sMuth', 'tamrio samth', 'tamaro smAth', 'tymreo SMMth', 'athero kndih'}, {'tamarr smuth', 'temure smaTh', 'teamro smtho', 'atmewe jmaot', 'taaemr SMyth'}, {'taumar smuTh', 'twmrey SMyth', 'twmaru sumth', 'tamaru smuth', 'atyahi yhtih'}, {'tmoaar Samth', 'tymiar Smmth', 'athiri znhyh', 'tamaro smEth', 'timora Smoth'}, {'tamera smOth', 'tmaowr SMWth', 'taamur smatH', 'tumrah samth', 'hwhaar kmtiy'}, {'taymar Smtth', 'atnory hmuut', 'tamaru smEth', 'tuamir sMAth', 'tumrew SMMth'}, {'tamoar smETh', 'dmyaar gimty', 'taumre smtha', 'tamira smEth', 'tmuoar Samth'}, {'tamura smEth', 'athhro qmtiy', 'tmwwri Simth', 'temerr sMAth', 'tamrua Smmth'}, {'hmaaye jwmyh', 'twymra swmth', 'teimar smutH', 'tmwwri Smthy', 'tamari smath'}, {'timruy SMMth', 'tamuur SmAth', 'atmwah wimwh', 'tmoari Smtth', 'tamaro smEth'}, {'tomreh Smthu', 'atmuyr hmwut', 'tamari smeth', 'twmerw samth', 'tumuru Smath'}, {'tumawr smetH', 'atmyhw ychit', 'tymria smthw', 'tomriu SMWth', 'tamora smAth'}, {'twmire samth', 'timeru smetH', 'tamaru smeth', 'wowaar kntih', 'toumri SSmth'}, {'teemar smuTh', 'timurw ssmth', 'tumara smoth', 'temrew Samth', 'haamhe shwut'}, {'temrao smtha', 'tomara smoth', 'tmoaor SMyth', 'taamar sMoth', 'atmwwr kimyh'}, {'tomrai Smmth', 'taaimr SIMth', 'hmwaar simmy', 'timara smUth', 'tumair smatH'}, {'tmaiar ssmth', 'tamaro smath', 'tomorr smEtH', 'tymeor Simth', 'atnahi wniat'}, {'tamarr smath', 'tmeuar Smthy', 'atnwrw xmaot', 'tumaur Smath', 'tamreh Smyth'}]
+tamara smith        : DEBUG: Additional rule variations: set()
+tamara smith        : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 5
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "tamara smith": {
+            "first_name": {
+                "score": 0.826,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.44,
+                        "orthographic": 0.98,
+                        "combined": 0.71
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.5,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "tumari",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "tuamrw",
+                            "phonetic_score": 0.5479104237175448,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "atwwha",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.16666666666666663,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "tamera",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8333333333333334,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "tmeaur",
+                            "phonetic_score": 0.5479104237175448,
+                            "orthographic_score": 0.33333333333333337,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.9052755847091666,
+            "final_score": 0.7242204677673333,
+            "variation_count": 5,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 0,
+            "last_name": {
+                "score": 0.988,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.98,
+                        "orthographic": 0.98,
+                        "combined": 0.98
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 4.5,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "SmAth",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "samth",
+                            "phonetic_score": 0.7871993575610836,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "yhtih",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "smEth",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "SSmth",
+                            "phonetic_score": 0.7871993575610836,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "initial_only_first_name": [],
+                        "remove_random_vowel": [],
+                        "shorten_name_to_initials": []
+                    },
+                    "rules_satisfied_by_variation": {},
+                    "compliance_ratio_overall_variations": 0.0,
+                    "overall_compliant_unique_variations_count": 0,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 0.0,
+                    "rule_diversity_factor": 0.0,
+                    "num_target_rules_met": 0,
+                    "total_target_rules": 3,
+                    "score": 0.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.0,
+        "by_name": {
+            "tamara smith": {
+                "score": 0.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "initial_only_first_name": [],
+                        "remove_random_vowel": [],
+                        "shorten_name_to_initials": []
+                    },
+                    "rules_satisfied_by_variation": {},
+                    "compliance_ratio_overall_variations": 0.0,
+                    "overall_compliant_unique_variations_count": 0,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 0.0,
+                    "rule_diversity_factor": 0.0,
+                    "num_target_rules_met": 0,
+                    "total_target_rules": 3,
+                    "score": 0.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.7242204677673333,
+    "final_reward": 0.7242204677673333
+}
+tamara smith        : DEBUG: ----------------------------------------------------------------------------------------------------

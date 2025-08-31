@@ -1,0 +1,1672 @@
+sarah collins       : INFO: Generating variations for sarah collins
+sarah collins       : INFO: ----------------------------------------------------------------------------------------------------
+sarah collins       : INFO: Effective rules: ['initial_only_first_name', 'swap_random_letter']
+sarah collins       : INFO: ----------------------------------------------------------------------------------------------------
+sarah collins       : INFO: Min Required Rule Variation Set: [{'S. cOlLinS', 'S. CollINs', 's.CoLLiNS', 'S.collins', 's. COLlINs', 'S. COllins', 's.CoLliNS', 'S. cOLLInS', 'S.CoLLins', 'S. coLlINs', 's.cOLLINS', 's.colliNs', 's. cOLlIns', 'S. colliNS', 's.COlliNS', 's.CoLLINs', 'S. ColLinS', 'S. COLLInS', 'S. coLLIns', 's.cOLlINS', 's.COllINs', 's. COLLins', 'S.cOLLins', 'S. COLliNS', 's. cOllinS', 'S. coLlins', 's. coLlins', 's.COLlins', 'S.coLLinS', 's.ColLINs', 'S. colLIns', 's. CollINS', 's. ColLIns', 's.COLLins', 's. cOlliNS', 's.coLLinS', 's.COLLINs', 'S. cOLLINs', 'S. cOLliNS', 'S.COLLINS', 'S.COlLIns', 's. cOlLiNs', 's. COLLinS', 'S.cOlLins', 's. cOLlINS', 'S.CoLLINs', 'S. coLLInS', 's.coLLInS', 's.COllins', 'S. coLlIns', 's. COllInS', 's. colliNs', 's. collinS', 's.cOllins', 's.CollInS', 'S. CoLlInS', 'S. CoLLInS', 's. cOLlInS', 'S. cOLlIns', 'S. collInS', 'S.COllIns', 's. cOllInS', 'S. cOlLiNs', 's.colliNS', 's. ColLInS', 's.cOLLins', 's. cOLLINS', 's. COlLInS', 'S.coLlIns', 'S. CoLliNS', 's.cOLlIns', 'S.COllinS', 's.cOlLINS', 's. CoLlinS', 'S.cOLliNS', 's. coLLInS', 'S.ColLinS', 's.coLLINS', 'S. cOLLiNs', 's. COLLINS', 'S.cOlliNS', 'S.colLInS', 's.CoLlInS', 's. COLlInS', 's.cOlLiNS', 'S.cOLlinS', 's.Collins', 'S.COLlINs', 's.coLlINS', 'S.CoLLIns', 'S.CoLliNs', 'S. cOllins', 'S. collinS', 'S.COLLins', 'S.ColLIns', 's. colLins', 'S. cOllIns', 'S.coLlINs', 'S.COLLInS', 'S. coLliNs'}, {'saarh collins', 'sarah clolins', 'sarahc ollins', 'sara hcollins', 'asrah collins', 'sarah ocllins', 'sarah collisn', 'sarah collnis', 'sarha collins', 'sarah colilns', 'sraah collins'}]
+sarah collins       : INFO: ----------------------------------------------------------------------------------------------------
+sarah collins       : INFO: First name: sarah
+sarah collins       : INFO: Last name: collins
+sarah collins       : INFO: ----------------------------------------------------------------------------------------------------
+sarah collins       : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (0, 7), (1, 6), (0, 8), (1, 7), (0, 9), (1, 8), (0, 10), (1, 9)]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 1 / 14: rule_count/nonrule_count: 0/1------------------------------
+sarah collins       : DEBUG: O: [0, 0, 0, 1]
+sarah collins       : DEBUG: P: [0, 0, 0, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [0, 0, 0, 1]
+sarah collins       : DEBUG: P: [0, 0, 0, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.26575294]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 2 / 14: rule_count/nonrule_count: 0/2------------------------------
+sarah collins       : DEBUG: O: [0, 0, 0, 2]
+sarah collins       : DEBUG: P: [0, 1, 0, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [0, 0, 0, 2]
+sarah collins       : DEBUG: P: [0, 1, 0, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.28018345]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 3 / 14: rule_count/nonrule_count: 0/3------------------------------
+sarah collins       : DEBUG: O: [0, 1, 0, 2]
+sarah collins       : DEBUG: P: [0, 1, 0, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [2]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [0, 1, 0, 2]
+sarah collins       : DEBUG: P: [0, 1, 0, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [2]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.34513049]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 4 / 14: rule_count/nonrule_count: 0/4------------------------------
+sarah collins       : DEBUG: O: [1, 1, 1, 1]
+sarah collins       : DEBUG: P: [0, 2, 0, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [1, 1, 1, 1]
+sarah collins       : DEBUG: P: [0, 2, 0, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 1, 0, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.55324051]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 5 / 14: rule_count/nonrule_count: 0/5------------------------------
+sarah collins       : DEBUG: O: [1, 2, 1, 1]
+sarah collins       : DEBUG: P: [1, 3, 1, 0]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [1, 2, 1, 1]
+sarah collins       : DEBUG: P: [1, 3, 1, 0]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.5552]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 6 / 14: rule_count/nonrule_count: 0/6------------------------------
+sarah collins       : DEBUG: O: [1, 2, 1, 2]
+sarah collins       : DEBUG: P: [1, 3, 1, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [1, 2, 1, 2]
+sarah collins       : DEBUG: P: [1, 3, 1, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.552]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 7 / 14: rule_count/nonrule_count: 0/7------------------------------
+sarah collins       : DEBUG: O: [2, 2, 2, 1]
+sarah collins       : DEBUG: P: [1, 4, 1, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [2, 2, 2, 1]
+sarah collins       : DEBUG: P: [1, 4, 1, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.53591685]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 8 / 14: rule_count/nonrule_count: 1/6------------------------------
+sarah collins       : DEBUG: O: [1, 2, 1, 2]
+sarah collins       : DEBUG: P: [1, 3, 1, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [1, 2, 1, 2]
+sarah collins       : DEBUG: P: [1, 3, 1, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [0, 2, 1, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.652]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 9 / 14: rule_count/nonrule_count: 0/8------------------------------
+sarah collins       : DEBUG: O: [2, 3, 2, 1]
+sarah collins       : DEBUG: P: [1, 4, 1, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [3, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [2, 3, 2, 1]
+sarah collins       : DEBUG: P: [1, 4, 1, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [3, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.51846636]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 10 / 14: rule_count/nonrule_count: 1/7------------------------------
+sarah collins       : DEBUG: O: [2, 2, 2, 1]
+sarah collins       : DEBUG: P: [1, 4, 1, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [2, 2, 2, 1]
+sarah collins       : DEBUG: P: [1, 4, 1, 1]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 2, 1, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 1]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.63591685]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 11 / 14: rule_count/nonrule_count: 0/9------------------------------
+sarah collins       : DEBUG: O: [2, 3, 2, 2]
+sarah collins       : DEBUG: P: [1, 5, 1, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 3, 1, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [3, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [2]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [2, 3, 2, 2]
+sarah collins       : DEBUG: P: [1, 5, 1, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 3, 1, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [3, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [2]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.50147164]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 12 / 14: rule_count/nonrule_count: 1/8------------------------------
+sarah collins       : DEBUG: O: [2, 3, 2, 1]
+sarah collins       : DEBUG: P: [1, 4, 1, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [3, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [2, 3, 2, 1]
+sarah collins       : DEBUG: P: [1, 4, 1, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 3, 0, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [3, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 1, 1]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 1, 0, 0, 1]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 1]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.61846636]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 13 / 14: rule_count/nonrule_count: 0/10------------------------------
+sarah collins       : DEBUG: O: [3, 4, 3, 0]
+sarah collins       : DEBUG: P: [2, 6, 2, 0]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 4, 1, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [4, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [2]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [3, 4, 3, 0]
+sarah collins       : DEBUG: P: [2, 6, 2, 0]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 4, 1, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [4, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 2, 0]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [2, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [2, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [2]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [2, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 2, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.49478217]
+sarah collins       : INFO: ------------------------------Trying rule_count_pair 14 / 14: rule_count/nonrule_count: 1/9------------------------------
+sarah collins       : DEBUG: O: [2, 3, 2, 2]
+sarah collins       : DEBUG: P: [1, 5, 1, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 3, 1, 0]
+sarah collins       : DEBUG: [5, 1, 0]
+sarah collins       : DEBUG: [75, 26, 0]
+sarah collins       : DEBUG: [359, 107, 0]
+sarah collins       : DEBUG: [372, 134, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [3, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [11, 4, 0]
+sarah collins       : DEBUG: [182, 46, 0]
+sarah collins       : DEBUG: [500, 420, 0]
+sarah collins       : DEBUG: [500, 500, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [14]
+sarah collins       : DEBUG: [81]
+sarah collins       : DEBUG: [226]
+sarah collins       : DEBUG: [233]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+sarah collins       : DEBUG: [31]
+sarah collins       : DEBUG: [499]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [2]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: sarah, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+sarah collins       : DEBUG: name: sarah, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: sarah, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: O: [2, 3, 2, 2]
+sarah collins       : DEBUG: P: [1, 5, 1, 2]
+sarah collins       : WARNING: Remains: 0
+sarah collins       : DEBUG: p_level: 1, O: [1, 3, 1, 0]
+sarah collins       : DEBUG: [185, 86, 21]
+sarah collins       : DEBUG: [500, 489, 146]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 20, 96]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [3, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 2, O: [0, 0, 1, 0]
+sarah collins       : DEBUG: [500, 81, 219]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [500, 500, 500]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: [1, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0]
+sarah collins       : DEBUG: p_level: 0, O: [1, 0, 0, 0]
+sarah collins       : DEBUG: [132]
+sarah collins       : DEBUG: [267]
+sarah collins       : DEBUG: [266]
+sarah collins       : DEBUG: [20]
+sarah collins       : DEBUG: [1]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: p_level: 3, O: [0, 0, 0, 2]
+sarah collins       : DEBUG: [497]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [500]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [0]
+sarah collins       : DEBUG: [2]
+sarah collins       : DEBUG: final:
+sarah collins       : DEBUG: name: collins, l_level: 0
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [1, 1, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 1, 0, 0, 1, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 2]
+sarah collins       : DEBUG: name: collins, l_level: 1
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: name: collins, l_level: 2
+sarah collins       : DEBUG: --------------------------------------------------
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+sarah collins       : DEBUG: scores: [0.60147164]
+sarah collins       : DEBUG: ----------------------------------------------------------------------------------------------------
+sarah collins       : DEBUG: Best score achieved: 0.6520000000000001
+sarah collins       : DEBUG: Best selected: 1/6
+sarah collins       : DEBUG: Rule variations: [{'S. cOlLinS', 'S. CollINs', 's.CoLLiNS', 'S.collins', 's. COLlINs', 'S. COllins', 's.CoLliNS', 'S. cOLLInS', 'S.CoLLins', 'S. coLlINs', 's.cOLLINS', 's.colliNs', 's. cOLlIns', 'S. colliNS', 's.COlliNS', 's.CoLLINs', 'S. ColLinS', 'S. COLLInS', 'S. coLLIns', 's.cOLlINS', 's.COllINs', 's. COLLins', 'S.cOLLins', 'S. COLliNS', 's. cOllinS', 'S. coLlins', 's. coLlins', 's.COLlins', 'S.coLLinS', 's.ColLINs', 'S. colLIns', 's. CollINS', 's. ColLIns', 's.COLLins', 's. cOlliNS', 's.coLLinS', 's.COLLINs', 'S. cOLLINs', 'S. cOLliNS', 'S.COLLINS', 'S.COlLIns', 's. cOlLiNs', 's. COLLinS', 'S.cOlLins', 's. cOLlINS', 'S.CoLLINs', 'S. coLLInS', 's.coLLInS', 's.COllins', 'S. coLlIns', 's. COllInS', 's. colliNs', 's. collinS', 's.cOllins', 's.CollInS', 'S. CoLlInS', 'S. CoLLInS', 's. cOLlInS', 'S. cOLlIns', 'S. collInS', 'S.COllIns', 's. cOllInS', 'S. cOlLiNs', 's.colliNS', 's. ColLInS', 's.cOLLins', 's. cOLLINS', 's. COlLInS', 'S.coLlIns', 'S. CoLliNS', 's.cOLlIns', 'S.COllinS', 's.cOlLINS', 's. CoLlinS', 'S.cOLliNS', 's. coLLInS', 'S.ColLinS', 's.coLLINS', 'S. cOLLiNs', 's. COLLINS', 'S.cOlliNS', 'S.colLInS', 's.CoLlInS', 's. COLlInS', 's.cOlLiNS', 'S.cOLlinS', 's.Collins', 'S.COLlINs', 's.coLlINS', 'S.CoLLIns', 'S.CoLliNs', 'S. cOllins', 'S. collinS', 'S.COLLins', 'S.ColLIns', 's. colLins', 'S. cOllIns', 'S.coLlINs', 'S.COLLInS', 'S. coLliNs'}]
+sarah collins       : DEBUG: Nonrule variations: [{'sirah coloins', 'asyuy qloyynq', 'sarow coiolns', 'syraa cuwlons', 'scoro cwyilmk', 'srroa cwwlnes'}, {'swroh collnzy', 'azriy qwwilnz', 'saraw coalons', 'syrie cahlnsi', 'swrau culinsw', 'sshrw cayulmc'}, {'awsri qloywhs', 'ssraw cawllns', 'ssruh colwnws', 'saruh ckolins', 'sruyu clyhamz', 'srryw cwylnys'}, {'kahyw glohynk', 'schri cliwwmx', 'sreah culyyns', 'syreh coylnes', 'saraa callons', 'saowr clwywns'}, {'sarww cohlnse', 'jayha zwwlnic', 'soray cullnes', 'srrue clohwns', 'syiry clyyamc', 'surah coluins'}, {'sxayr cuywlmq', 'swraa caoylns', 'sauyr cohwlnz', 'sorah culeins', 'whyra swyilms', 'saryy cwloans'}, {'sariy colewnz', 'seray cwlahns', 'asria ciyilhk', 'syrio cwlwnas', 'sarao collunz', 'sshry caiylmc'}, {'syray cwwlens', 'sraao caliynz', 'sarww colonsy', 'graay kihlniq', 'sirah cuhlins', 'srwiu cehelmz'}, {'srwwo cuyelmz', 'kawha kelwniy', 'swraa cuhlyns', 'syrew culwwnz', 'sirah coilons', 'swruh callynz'}, {'suray couwlns', 'saroh colluns', 'swruh cwloinz', 'schro ceholmz', 'srryw cuylynz', 'hwsra qalwniq'}, {'ssraw cuwlwns', 'sayri clohnws', 'saraw colians', 'sayra collnzu', 'yyrhi wulynic', 'sxayr cwyilmx'}, {'srauu cwlyniz', 'sarai coliuns', 'shwwr cliwemx', 'sarry caloyns', 'swruh cwwlens', 'geryw sywlnic'}, {'szyrw clohwmq', 'srrou cuylnws', 'ssrai clloons', 'saruh coolinz', 'saruy cullnes', 'swhyw wiyilnk'}, {'syrry cwwlnis', 'scaor clohemz', 'jraey jloyanc', 'srrau cohlnes', 'srahy cooilns', 'saruh coilens'}, {'sarae colinis', 'syrou cwlynsi', 'awgra zulynic', 'sshre clwwumx', 'sriah cowlnse', 'sarry cahlyns'}, {'swray collnce', 'sruaa clownsi', 'srhiy cloyemc', 'syrao colwnes', 'yerhe xiyilms', 'saraw ckelins'}, {'soray cowlnse', 'saroh coolinz', 'swrww cluwyns', 'squro cayulmc', 'swreh calywns', 'ajriy cywwnic'}, {'sarow coyylns', 'swriu cuywlnz', 'surah colluns', 'srrae cuwlons', 'axriy klowwnk', 'syayr cayolmk'}, {'goryw sulynic', 'syreh coylonz', 'swrau cohlnas', 'srhow clowmux', 'swryw cwllnwz', 'sarai colions'}, {'gyryw siyilnk', 'sarow cllaens', 'sarry coawlns', 'srwuw clowemx', 'saruh caelins', 'suriy cuwlnus'}, {'sxayr cyyilmx', 'grayw qahwnis', 'sraey clouyns', 'swruh cuylans', 'sorah cohlinz', 'srahw cllauns'}, {'swrao cllunys', 'saruh coalans', 'srrao cohlnis', 'syorw cliwemx', 'zerha qwwlnic', 'swruw coylnci'}, {'sarae coalinz', 'sayrw cwwlnws', 'sarew callnas', 'kaary qloyyny', 'srahw cohlnys', 'szwry cyyhlmz'}, {'sweru cloawmx', 'jawhe cuwynic', 'serew cuwlnis', 'saraa coilons', 'sarey cowlnus', 'sariw cllones'}, {'srrao cllniys', 'sarae colahns', 'score clowumc', 'wsrha qloywnq', 'saroy colewnz', 'syyra cuylynz'}, {'sareh coelinz', 'whrha kelwnik', 'sowra cuylonz', 'swehr ceywlmx', 'ssrih cwluhns', 'srahy coeilns'}, {'ssreh coillnz', 'shyha jiyilms', 'saryy cwlinns', 'saraw culiins', 'sxyre cloywmz', 'sraau cuwlonz'}, {'sarau calluns', 'ssyra clewwns', 'shyhr clouwmq', 'sroah cllenys', 'shyya zulyniz', 'sariw colynes'}, {'jurha cuwyniz', 'sqhry clewamq', 'ssraw collnzi', 'srueh caylnws', 'saruh colainz', 'srauh colwwnz'}, {'sariw clleans', 'sirah cuelins', 'sohha ochlamz', 'syray caullns', 'swrea cuwlnws', 'squre ceholmz'}, {'ssrao colonws', 'khyra yulyniz', 'sarau calains', 'siyra colynzi', 'szyri clwyumq', 'soray colwnsu'}, {'srreh cllonws', 'sirah cohlons', 'swwha ciyilwg', 'sarrw cullnsa', 'ssary cwlynas', 'sryye clawamx'}, {'sraae cwylynz', 'syrai cwlewns', 'acriy wloyniz', 'saroh colonns', 'syruh cuyluns', 'swuru cayelmc'}, {'syray culoyns', 'syryw cwyylns', 'xahyw qewilnz', 'shyhr clohemq', 'sarao calains', 'swreh cwleyns'}, {'sxawr cehilmx', 'saraa coeluns', 'ssraa cllewns', 'srrie cwwylns', 'sraoh clleons', 'jahha qwyilms'}, {'sorah coluins', 'jyrha kuwlnic', 'syraa coilnis', 'sohir cyyilmk', 'sarow culinsw', 'swruy calwnsi'}, {'sareh cuolins', 'sariy cwlinns', 'sahyr cuhlnis', 'awyra qloynik', 'sohor chyulmg', 'ssreh coollnz'}, {'serah collinz', 'srrai coylunz', 'sreyo clowemc', 'sarwy clloyns', 'wayha xwylniz', 'saeyr cwlynes'}, {'saraa culuins', 'ssrao cuylyns', 'swrri claayns', 'syreh cowlanz', 'swyor clohamg', 'gayyw kelwnik'}, {'sraae clohnws', 'agryw sywlnic', 'syreh collnzy', 'sarih coilinz', 'swiur clowemc', 'saryw cleihns'}, {'syraw cwllynz', 'siriy calnais', 'sshre caiylmj', 'srrih colwnos', 'asywh hulyniz', 'sarae culiins'}, {'surah collinz', 'srreh colynes', 'cyhra kulynik', 'sxwrw cayhlmk', 'srahw cwlihns', 'sraiu clywwns'}, {'swrio cluywnz', 'syrih cllunis', 'swraw cloiens', 'sarau cualins', 'swhwr cluwemx', 'siyha okwlniz'}, {'sirwy cloaynz', 'sarao coloans', 'syray cullnsw', 'swray collncy', 'xayha qoyilmg', 'syuru cehilmk'}, {'ssray cllwwns', 'syerw ceywlmx', 'ssrai cwllnso', 'sreau coylnyz', 'zerha qulynix', 'sareh ckelins'}, {'suryy cuhlnws', 'sewha gaylniy', 'ssroh cllwwns', 'saruh colains', 'syrau cullnso', 'sryey cloyemc'}, {'srraa colanws', 'srauh cowlanz', 'srywi ceyilmq', 'qraaw gwhlniz', 'srroo caywlns', 'sarai couluns'}, {'sorww clohwnz', 'curha yayilms', 'squrw cloywmz', 'swrau cowlnsi', 'saraw cuhlins', 'seray cuilyns'}, {'sreah colnisw', 'gayyw joyilmx', 'sjyri cuhilmz', 'serah coluins', 'sriah callnso', 'sauyr cuwlonz'}, {'sriay cohlnzi', 'sarew cwlyyns', 'sirah colunns', 'syrih cohlnws', 'srhia clouhmz', 'ahyuh qloynic'}, {'swraa cowlynz', 'usriy hwwlnic', 'srihy calwnus', 'sareh colinis', 'syraa caoilns', 'szwry cihalmz'}, {'sirah coluhns', 'sarew cllanns', 'ssary calwniz', 'agrha yulynic', 'srrao caylens', 'srweu clowymq'}, {'srauh cllenws', 'srraa cuhlwns', 'saarw cuwlniz', 'sewor clyoumq', 'sirah cohlans', 'wuriw cloyahc'}, {'saraw colinus', 'swyur clihymq', 'sariy cllawns', 'aosra jeyilms', 'sroai calnais', 'srray cuylans'}, {'srrou cullnzi', 'swrai caowlns', 'saraa caelins', 'cwyay khwlniz', 'srrai colneis', 'scyru clyoumq'}, {'srruw cohlnzi', 'swrau coilnws', 'sciro clhhamz', 'soyha keywnis', 'sorah ckilins', 'swraw cwliens'}, {'srauh culuyns', 'ssary cuwlnys', 'serah coilinz', 'srraw cwwlans', 'syeer clhwamq', 'awxra ochlhmj'}, {'sarih colinus', 'syruh cllienz', 'jyrhi wlowwnx', 'srawy cwwlnus', 'shory clwowmx', 'swrao coiylns'}, {'saroh culeins', 'suhyw giyilms', 'ssroh cllynns', 'suree callnaz', 'shirw clhhymq', 'seray caleyns'}, {'ssreh caluwns', 'soray cwyluns', 'sxore cehalmz', 'syrro clouyns', 'wuwih klowimq', 'sarai cailins'}, {'shyry cehilmj', 'sarrw cllonos', 'aswha zywlnic', 'saroh colenns', 'sarry cllynns', 'saeyr caelnis'}, {'sarow cllouns', 'syroi calwnis', 'syihr clhwamq', 'saraa callens', 'xiyha gayhnis', 'sroah coihlns'}, {'syraa culayns', 'xyurh goyilmg', 'sqeru cwailmz', 'saruy colownz', 'surah coliens', 'srawy caylenz'}, {'sxaur ceyylmx', 'saruh coleans', 'swray caohlns', 'swreh cwliyns', 'sraoo cwlwnis', 'haary jlohwnz'}, {'swrih cllonas', 'srhwa chyylmx', 'saree collncy', 'sraiu calywnz', 'serah cohlins', 'aswha xwlynic'}, {'srrao cuowlns', 'swyra cuhlnes', 'scaur clohumz', 'jayha gayhnis', 'sarih coalans', 'srruh couilns'}, {'sareh coelinz', 'szyri cloawmq', 'qhyra ciyilyk', 'soray cwlwyns', 'swrai caolwns', 'sorew cuilynz'}, {'saroy caylinz', 'srraw cllynsy', 'sraoy cullnwz', 'swhre ciwilmq', 'aisra qalwnih', 'sarau coilons'}, {'sirrw culwnws', 'saruy cuoylns', 'sorah cullens', 'sraih cullnus', 'sryyo cyyolmz', 'wuriw gywlnic'}, {'shher cewilmz', 'srrau cwliyns', 'srreh culowns', 'saraa colinis', 'swroi cahlnsi', 'kerha ciyilyk'}, {'srrih coylynz', 'sarey cullnso', 'xiyha klowwnj', 'srayw cwllnez', 'schru cuyylmx', 'surah coilins'}, {'saryw cwylwns', 'swwur clewamq', 'syrae colwynz', 'jywha kihlnic', 'sraoa cwlwnws', 'sareh collenz'}, {'srraw cuowlns', 'juwha wuwlnic', 'syruw cllnisy', 'sihur clowhmk', 'sarau coleuns', 'saruw clluhns'}, {'sruah cwluwns', 'cayru yywlnic', 'sariw coowlns', 'serah cohlans', 'sairw calywnz', 'swori clohhmq'}, {'srwea cuyolmq', 'sirah coeluns', 'sarry cloiens', 'ashha zwwlnic', 'saayr cuyylns', 'saruy claiyns'}, {'srueh cwylnws', 'swroh cwleyns', 'sarih colinns', 'ssrae cwlahns', 'swhor cwhilmz', 'aisra qwhlniz'}, {'srhiy cehilmk', 'sarww colwnsi', 'saraw colonns', 'syrwy caolniz', 'asyuw xulyniz', 'suray cllawns'}, {'swrai coilnsw', 'sjhru cwyilmx', 'ssrau cloinsy', 'surah culiins', 'shhha glohynj', 'syrwy callnci'}, {'swrau cleihns', 'sarow cuyllns', 'sryoe clohwmz', 'saraw coalinz', 'ssrio culynis', 'wuhih soyilmg'}, {'srahy coylnse', 'saroh coulons', 'sarie coiilns', 'sherw cuyelmz', 'surwy cuylnys', 'gyrhi kwyilms'}, {'swrae caloyns', 'srhua clwwhmx', 'saraw coleons', 'sirwy cllnois', 'sarry cahlyns', 'hsrha kawilnz'}, {'ssrao coylnas', 'yaary jawlniz', 'saraw coluons', 'sariw cullwnz', 'sweor cwyylmg', 'sewra clloanz'}, {'swryy cuilynz', 'jrweh ziyilng', 'sjuro cayylmc', 'sarih coilins', 'srrae cwwluns', 'sraeh cuhlwns'}, {'syrai coullnz', 'saraa colenns', 'sswer clowmaq', 'sirie cwlywnz', 'qurhu julynic', 'syraa colonws'}, {'shhyr ceyilmk', 'sirie cwyylnz', 'giryw kulynix', 'serah colains', 'siray colynso', 'swray callnsw'}, {'srhwa ciyolmq', 'qwyay swylniz', 'sruay calwniz', 'sariw cohylns', 'sareh culiins', 'syrih culinws'}, {'siray cuillns', 'sarao cawlins', 'ghryw wiyilnq', 'sreah claiwns', 'sowra cwylanz', 'srhiu clewumx'}, {'sorah cohlons', 'srryw callniz', 'sceri cyiylmz', 'xihha yayilms', 'sruah caolwns', 'swraa colynos'}, {'ssraa cllenys', 'saraa coluuns', 'zerhe oclhamz', 'swreh callnsa', 'sreoh cuwlanz', 'siory cayilmc'}, {'sreah colynso', 'ewsra glowimq', 'swrue cwllnez', 'sarie cllawns', 'sirah coleens', 'skhrw chyelmg'}, {'soriw cwwylns', 'kerha xulynic', 'sareh caliins', 'srwyi cayilmk', 'srroh callnse', 'ssrih colanws'}, {'saraw coolans', 'sruah caullns', 'xirwa qloyynj', 'sxayr clewamq', 'sawyr clllniz', 'ssruh cluiyns'}, {'swrui culonws', 'awsrw qloywws', 'sareh colions', 'ssrau cwwlyns', 'szhry chyolmz', 'sraih callnos'}, {'syreh cllensw', 'srrao callnas', 'sraew cawlnos', 'gahha klowwnw', 'soher cihylmz', 'saraw coolens'}, {'sayrw cluhnis', 'saraa callinz', 'sryow cuhilmz', 'sriah cowlnsa', 'gyryw kehwnis', 'srroh culyyns'}, {'syruh cowlnas', 'sweur chyulmg', 'syray caullns', 'sirah colaans', 'yerhe kuhynis', 'suruy clihnis'}, {'sirah coulans', 'srahw cleihns', 'sraao clehyns', 'shury clowwmq', 'axriy giyilms', 'sarew caellns'}, {'syrai cllanis', 'asrya ochlnoz', 'ssreu cleynis', 'saroy cllunsw', 'sarau coolons', 'srowa cyiylmz'}, {'serow clahyns', 'ssray cwlawns', 'seyhr cliwemx', 'asrhw giylnig', 'srahy colunsw', 'sarae colaons'}, {'swraa claihns', 'swayy ciyilhk', 'sryiw cawilmz', 'syrew clehyns', 'sorah colinis', 'srraa cllewns'}, {'ssrih caullns', 'schro cyyilmx', 'xwrha xiyilnq', 'surah colihns', 'sarow coollnz', 'sruaa culwnas'}, {'serah callins', 'srrau callnse', 'aswaw qowwniz', 'sroaa cuhwlns', 'sroah cllainz', 'sywur cayylmk'}, {'schrw cloyumk', 'sarai coolens', 'qraaw gywlnic', 'sayra caliyns', 'sraoh cllnihs', 'syreu caelnis'}, {'srewi cewilmx', 'sraea cliwyns', 'syrau coylunz', 'hwyay kwyilms', 'saroh coolins', 'syraw coeylns'}, {'sorah culluns', 'syyra cawlnos', 'swyiy cayilmh', 'scuru clowumz', 'ssrao cwloens', 'syruh colunsw'}, {'asria glowwnx', 'sorah coolons', 'srihy cwylnys', 'swray cooilns', 'sxawr clowumj', 'swrau cohlnsu'}, {'sryyo ciyilmc', 'srruh colonys', 'swrai callnos', 'wraaw ocwlnyz', 'sorah colinis', 'swwra cuwylns'}, {'sowha qloyniw', 'sarih calains', 'sreao colynaz', 'srwiw cloyumc', 'saruw cwlians', 'sraih cahlyns'}, {'srhww clowmax', 'saraa coolans', 'ssraw calywns', 'syruh cullwnz', 'swrry caiwlns', 'asrua jlowimq'}, {'sarae coolons', 'hraaw jywlnic', 'saree cayllns', 'shhry cihelmz', 'ssray cllniis', 'sraau cuylnas'}, {'ssraa callnos', 'sorah ckalins', 'shwyr chiilmz', 'sriah culywns', 'suhyw kowwniz', 'sruoh cloyynz'}, {'soray colanws', 'suary clwnois', 'asryw qloynik', 'sarae colouns', 'syray cohlnse', 'swyor cwyylmg'}, {'ssreh cllaons', 'sirah callens', 'srrae cwylinz', 'syrre cullnaz', 'yawha qloywnw', 'szhry cawilmz'}, {'ssrew cuwlwnz', 'sarih colaens', 'sraeh cwllonz', 'quyha wlowwnx', 'syruh cwwlyns', 'shhry clehemz'}, {'sjwru cuyilmk', 'ssreo colynez', 'swrau clluans', 'sarih colohns', 'swreh clleyns', 'jyurh jlowynq'}, {'srihy clywwns', 'swyor clowumk', 'aqriy gwlhniz', 'suray colwnso', 'sarai cailins', 'syrau cwloans'}, {'sarao colihns', 'srrua culwnws', 'syhor clowwmg', 'ssrai culiyns', 'swray couhlns', 'jraaw wlowimx'}, {'suray caluyns', 'sroaw clywwns', 'suhor cayilmx', 'waarw qalwniy', 'sareh cualins', 'srroh cwylwns'}, {'ajhyh glohynw', 'ssrau colinzy', 'srawy cuwlnse', 'syrao cawlwns', 'saraw coulens', 'syiir cyyilmc'}, {'swrow caylwnz', 'ssruh cohlnsy', 'saraw colainz', 'skyro cloyymq', 'seray cuwluns', 'ajryw kewwnis'}, {'swruh coeilns', 'swayr cluhymq', 'sarih colouns', 'ssroh cluiwns', 'sraii clownsy', 'awcra qloywng'}, {'serie clohwns', 'srauh coawlns', 'jhyra swwlnic', 'sorah cawlins', 'sarwy cawlwns', 'sweru cloyumk'}, {'saraa coilans', 'swraa cowlnws', 'swrih cuolnis', 'sryew clohhmx', 'soroy cloynsy', 'zerhe qloynik'}, {'swruh calowns', 'saruh coluans', 'sjeri cwyhlmq', 'ausra gaylnih', 'ssray cllewns', 'serrw callnci'}, {'swyyy clowwyx', 'srroh cwliens', 'sraii cwylynz', 'serah cullins', 'syuer ceholmz', 'swrae colynso'}, {'sswhr ciwilmq', 'srrea cwwlnis', 'sorah colinus', 'syreh cohlnws', 'wayha kihlnih', 'swraw cllanns'}, {'sareh coalinz', 'qurhy koywniz', 'srroh coylnsi', 'syreh cullnus', 'swury chiylmg', 'sruhy cllohnz'}, {'ssrwy clyyyns', 'suray coiylns', 'sarww coluynz', 'xahyw kulynij', 'serah coolins', 'sjeri chhilmg'}, {'scaor ceyilmz', 'syrau cooylns', 'srryy cleywns', 'saryw colwnos', 'asruw hwyilms', 'sarae caluins'}, {'srhyw cwyalmq', 'srioh claoyns', 'surah coolens', 'saryy cohlnse', 'jaarw qulyniy', 'sraih cawlyns'}, {'syrih cwluyns', 'ashyw yloyanc', 'sarai colluns', 'sroyu cwhilmj', 'ssruh cllynns', 'ssroi cwlwnas'}, {'sryyi cuhalmz', 'asrho cwwhnic', 'sareh colinis', 'srrwy claoyns', 'srahw cailwns', 'sariw cuylinz'}, {'jraay sloyniz', 'sarew coylnso', 'saraw coloans', 'srrua caylanz', 'ssraw cuoilns', 'srhwi clwowmx'}, {'srruo clownuz', 'sehur cwwelmj', 'gawyw clowyhq', 'sareh coloinz', 'syrih caallns', 'ssrau clleinz'}, {'swrio caalnis', 'syrai callnis', 'szyry clhhymq', 'sarrw cllwnws', 'saraw caleins', 'gayha qalwniw'}, {'kwyay klowwnw', 'srahy cloions', 'syorw ceyolmx', 'sorah caulins', 'srreh cwloons', 'swrra clwyyns'}, {'sareh callons', 'asyiy kihilms', 'sriah cllonns', 'sower clouwmx', 'ssrai cwllnws', 'syrre callnoz'}, {'sowir clewhmx', 'sirah collinz', 'xawha qalwnij', 'soray cwlahns', 'srrii culynis', 'srruh colinwz'}, {'sraeh cllanis', 'syhyw clohwyz', 'sareh coluons', 'sauwr cllonez', 'saryw cllynws', 'shhur clohymk'}, {'srrih clliinz', 'swuer clhnoiz', 'swreh cuwlons', 'sriau culiynz', 'asriw zulyniz', 'saroh colohns'}, {'swhhr cayulmk', 'cerha wuwlnic', 'srreh clliwnz', 'syroh cuilyns', 'sorah cailins', 'sruao cllnuis'}, {'sarry cuilyns', 'saraw coolins', 'syrew clonais', 'yayru jawlniz', 'sarwy cwwluns', 'szyrw clywhmx'}, {'saruy clluons', 'siorw clohamq', 'swraw coawlns', 'kayru kilhniz', 'sruaa clownsy', 'serah coeluns'}, {'swrra cwwlunz', 'ssrih coliynz', 'srray coielns', 'saraa coluens', 'axyuh qulynic', 'skyry clhhemz'}, {'saroy cloinsy', 'syeir cwwilmc', 'sarae coloens', 'xirwa gaylnig', 'srroh cwlayns', 'ssrwy caylnos'}, {'ssreh callnsa', 'sorah colains', 'swyyy cayilmh', 'saowr cuwlanz', 'szyre clawemx', 'srahw cohlnus'}, {'sjori clhwhmx', 'srauh colwnas', 'yyurh qloyniq', 'sorie cwlynus', 'ssrae colinzw', 'saraa colaens'}, {'swrau coiwlns', 'sarae callins', 'sriaw cuwlnso', 'swroh cohlnsy', 'sworo clouwmq', 'usrha huwlnic'}, {'sjwru cluhemz', 'seriw cloawns', 'sewha kelwnig', 'saraa coulins', 'saruy cuylens', 'syrai coliwnz'}, {'sywha gwlynic', 'sruai clioyns', 'swrau cullnsw', 'srwew cuwilmx', 'sarih coluans', 'ssrau cuwluns'}, {'suary cuwlunz', 'seher chiylmg', 'srahw coiwlns', 'curha qlolnoz', 'saruh ckolins', 'sarow coielns'}, {'asrhu joyilmx', 'srwoa cluwamx', 'sarrw culowns', 'sarai collunz', 'ssrio cluayns', 'swraw cloains'}, {'sarih collonz', 'syrri clawnus', 'ywrha ceyilmw', 'suhor cloyumk', 'ssrih cllyyns', 'sarrw cohlnws'}, {'saruh colinus', 'hcyra ywyilms', 'ssarw cuiwlns', 'syiyr cyyilmc', 'swreh colansy', 'sariw cwliyns'}, {'sorah cohlons', 'swrae cllaons', 'asryw ciyilmh', 'srray colensy', 'surww cwlwnys', 'srewa clwoamx'}, {'jayru xiyilnj', 'sceri chyhlmz', 'sarau coulons', 'saryy cwylyns', 'sarry coylnsw', 'syrii cliyyns'}, {'azrha sloyniz', 'saree cllienz', 'sawry caalnis', 'saraa coliens', 'sriwe cwyhlmg', 'syroh coewlns'}, {'ssrau cohlnsi', 'sryoo clwoemx', 'gwrha cuwwnic', 'soray colonsy', 'saurw clonisw', 'sarao callens'}, {'aswoh qloyynj', 'ssray cuellns', 'swroi cwlynas', 'srhow cloyamz', 'syraw cailyns', 'sareh cailins'}, {'sarih caluins', 'sraui cwwlnsi', 'zhyra qloyyms', 'srrih collnzu', 'syihr clowymx', 'ssrih calinsy'}, {'gurha gwwlnic', 'saraw ckilins', 'sorwy cuwylns', 'srruh coilwnz', 'sriya cyyilmj', 'ssraw clliunz'}, {'swreh clloans', 'srrau collncy', 'sriae cuylunz', 'asruw xlowimx', 'srhuy clowhmz', 'sarao culluns'}, {'soroy cloynis', 'saroh cohlens', 'sweri cluwemx', 'sraeh cllnihs', 'ssraa colwnas', 'yraay glohyms'}, {'sryiw cwyolmg', 'syreh coilnsw', 'sarau cuelins', 'akrha khwlniz', 'swrae cllinzy', 'surew cuwlanz'}, {'srroh colnois', 'ghrha weyilms', 'ssreh cllonus', 'surww clloonz', 'sryye ciyilmq', 'saroh caluins'}, {'seriw culonys', 'syrao couilns', 'wsyuh hawlniz', 'sirah coloins', 'sraeh cwwlwns', 'syhro clwhymq'}, {'sroya cloyamg', 'sarai coolinz', 'srahy cllahns', 'swreh cwluhns', 'kwyay xlohwnz', 'syrro cawlnys'}, {'sraio claoyns', 'sareh coelons', 'swrih cwllnsy', 'aswiy wlowimx', 'srwiw clowwmk', 'sarww callnys'}, {'syier clowamc', 'qawha ciyilwk', 'srrao cwllanz', 'swraa cullnys', 'saowr cwwlnos', 'saroh colions'}, {'saroy coylnes', 'sareh collans', 'swray cuylens', 'szwre cwwulmj', 'akriy gayhnis', 'sroae calyniz'}, {'surah ckulins', 'srhyy cihelmz', 'sruhw caylwnz', 'sriah cuwllns', 'acyuh qloyniy', 'srahy cuwlinz'}, {'sarau ckulins', 'swyya cywwnic', 'scyri cwyalmq', 'sruai coiylnz', 'saruy coylnos', 'sarwy coyylns'}, {'syraa cohlnse', 'saroh coloans', 'ssrih cuylens', 'quyha ocwlnyc', 'sayre caolnes', 'scwry ciwilmq'}, {'sriaa cwwlniz', 'cayru jwwlnic', 'saree culoyns', 'saraw colluns', 'swrai cllwnsy', 'syuru clwwemx'}, {'surah colainz', 'ssraw colincy', 'ajriy hlohwnz', 'sorow cwwlunz', 'sxoru cuyilmx', 'swrao cohwlns'}, {'swreh coohlns', 'xirhe ywylniz', 'srouh clwwnus', 'sarrw cuwlyns', 'saraw collenz', 'shwry cloyamk'}, {'kayha qwwilnz', 'swerw ciwilmz', 'srahy colnais', 'ssroh culinsy', 'sarae cooluns', 'sorww cohlnwz'}, {'sraoh cowlonz', 'aysra clowyyq', 'swraw cahllns', 'surah coalinz', 'suriy calynws', 'shhwr cloewmx'}, {'chrha giyilms', 'saraa cuilins', 'sryey clohymj', 'swreh calinsy', 'saree clliunz', 'syryw cwylwnz'}, {'sriah cullnws', 'surrw cuwlnys', 'sorah coelans', 'squro cahilmj', 'qyrha qohhniz', 'saroy cllnius'}, {'saroh collons', 'sryiy cayilmj', 'wwyay kulyniy', 'sriuh caolnas', 'srrih colwnas', 'srrau cllnios'}, {'sruah coylnso', 'srwwu ciholmz', 'sarao culeins', 'gawha wloyniz', 'swrae colwynz', 'srree cloynis'}, {'ssruh colynas', 'srueh caylniz', 'sarew cwllonz', 'szhro chiilmz', 'serah colihns', 'cwyra qayilms'}, {'serah coalens', 'ajwyh cywwnic', 'syrao cllniys', 'sraoy colwniz', 'syraw colwnsi', 'sweir clowomx'}, {'syrau clliwnz', 'srahy colonsw', 'sriya cloyumc', 'asroy qloywys', 'saroh coalinz', 'syrro cuywlns'}, {'sroah cohlnws', 'syroy cllnoes', 'kawha zawlniz', 'srray cllihnz', 'siyer cloyymc', 'sarih coiluns'}, {'srhue cliwwmx', 'swrau cloions', 'sarai coelinz', 'saryy colywnz', 'wruih zwylniz', 'suarw cleyyns'}, {'sraay clohnws', 'surah coilans', 'akyuh yulynic', 'ssrau coylnas', 'srreh caylens', 'shwyr cehelmz'}, {'syroy caolnos', 'srwuy cloyomc', 'surah colauns', 'ssrae clloans', 'swrau cowlnsw', 'yurha cuwhnic'}, {'saraw coluans', 'scery cuyolmx', 'aswiy ciyilhj', 'saroy calayns', 'sreeh cwylnus', 'sruah caloyns'}, {'sroah cuoylns', 'saraw colaons', 'sxori clyoamc', 'syrih colnnis', 'wraay wiyilms', 'sreaw cluhwns'}, {'syrau cllanws', 'srrio cleynis', 'surah cullins', 'syrai cuellns', 'syorr cahilmk', 'usruw gaylnij'}, {'sarau caulins', 'shyer clowwmz', 'srreh coylnas', 'awsha xoyilmg', 'ssreh clluinz', 'sroay calwnsi'}, {'sarao colinss', 'sraih callnse', 'srrae cllinnz', 'zahha xawlniz', 'swrow cloahns', 'shwry cleyumq'}, {'surah colainz', 'swhro cuiylmz', 'sraeh cwlewns', 'saury cwwlunz', 'srrih cowlunz', 'ashyw wayilms'}, {'sayra cloains', 'sarau coilinz', 'yurha zoyilmg', 'sshrw cayylmk', 'srryy cllnoas', 'sruah cwylyns'}, {'syryy caylanz', 'ssrau cohlwnz', 'saruh colauns', 'usrha gaywnis', 'sjhrw cliyamc', 'swray cwllanz'}, {'sriah coylnys', 'jerha joyilmg', 'saroh coluinz', 'sarrw culwyns', 'searw cloynes', 'sryye clawamq'}, {'srrae cllonsy', 'sjhrw clawumx', 'srrai cuowlns', 'swrro caylwnz', 'serah caleins', 'iwsra qulyniw'}, {'whrha qloywws', 'ssrai cuullns', 'saraw couluns', 'soryw cullnwz', 'srrih cuylans', 'shory cwwolmj'}, {'szwru ciyilmc', 'syraw cllunws', 'saraa colinas', 'yaary qloyyws', 'surie cwlynas', 'syrao callnsw'}, {'saruy cllwnsy', 'sarrw cowlnis', 'syhro cluwamx', 'sewha qawwnis', 'sahry coylnez', 'serah coolins'}, {'ssrae cowlanz', 'swrau colynys', 'hraay zlowynq', 'ssrui clownys', 'saroh colines', 'shayr cuyulmz'}, {'saruw clluwns', 'sareh coluans', 'syruw cwlwnis', 'sarie colynys', 'wirha kulilmz', 'srwwi clowmaq'}, {'swraa calyyns', 'sswhr cwwilmz', 'srauh cluihns', 'xwrha glowynq', 'sriay caolnus', 'sareh colinas'}, {'saryy caohlns', 'syaur chyhlmg', 'sreah calinws', 'saraw coulans', 'cyhra jlowynq', 'sruaw cullnyz'}, {'shwha zywlnic', 'syruh colwnse', 'ssray culeyns', 'soriw culwnsi', 'swyir clowmuz', 'sarau cualins'}, {'xyrha kehwnis', 'sarry coilnsw', 'suary cuhlnas', 'sarih coluons', 'sywir clawwmx', 'ssray cllincy'}, {'saroy clloinz', 'srruh cllaens', 'qurhy jlowynq', 'sarao ckilins', 'szyru clowamq', 'sreao callnyz'}, {'syrei cullnuz', 'wwrha qloynik', 'sxwre cyuilmq', 'surah ckolins', 'sruah cullwnz', 'siray calinsw'}, {'syhri cihilmj', 'awwra gaylniw', 'sarao coluins', 'siroy culonsw', 'swroh callnsu', 'ssraw cllynsw'}, {'sayri clawwns', 'siory cahilmk', 'saruh ckilins', 'jorha qloywnj', 'swraa cowlnsu', 'swraw cowylns'}, {'sraey cuwlnse', 'aswhh jwwlnic', 'sxhry clowumx', 'sriah cllnnis', 'srrae cllnies', 'saraw colohns'}, {'ssraw coiwlns', 'syrui culwnos', 'saroh coilins', 'siray culwyns', 'srwiu cloyemq', 'qurhe ciyilwj'}, {'sarww culyyns', 'suray colynsa', 'yraaw klohanh', 'seyer clewumq', 'saroh coluuns', 'sayrr cliowns'}, {'squru clohwmz', 'swreh clluwns', 'ashuh qulyniy', 'saiyr cuhlnus', 'saroh coalans', 'swraa colwnsa'}, {'sriah clluens', 'swrua culonsw', 'srhyu cloyamk', 'swrao cllywns', 'qahha jwylniz', 'sarau ckalins'}, {'swroe cwylniz', 'syrai coylnis', 'sihha ciyilyq', 'saraa coiluns', 'seyur cayilmz', 'syroh colywnz'}, {'srwyu cyyylmz', 'siray coylnas', 'swruh clleens', 'sraiy culyniz', 'sarih coolinz', 'asyaw siyilms'}, {'ssrao culayns', 'syiur clohymc', 'sarih coluans', 'ssarw cwylnsi', 'asroy hoyilmx', 'ssray cllwnys'}, {'srraw colynus', 'sarie colansw', 'shwer clyyamc', 'srrei cwlonis', 'serah colunns', 'axyuh klohanh'}, {'syhry cloyomq', 'ssraw caolnis', 'syroi cwwlnci', 'asrww ylohwnz', 'srreh cuwlinz', 'sirah coluans'}, {'ssruo calnais', 'syoru cwwilmj', 'saruw cllionz', 'hsriy qiyilnz', 'serah cuilins', 'sarow cohlnws'}, {'sroah colunsw', 'sryya cyailmj', 'surah coulans', 'seyha glohynw', 'sariy cllnihs', 'syrue colwnyz'}, {'xerhe gaylniw', 'sriih caolnsi', 'srroh coilnys', 'shyre clowhmg', 'saroh caluins', 'syruh colwynz'}, {'swori cehylmz', 'soryw cwwlnos', 'srrae clliunz', 'sraih clluens', 'sorah cohlinz', 'yawha giylnig'}, {'jyaeh kiyilms', 'sxwry cayelmk', 'srioh caylynz', 'sayra callwnz', 'sarwy coilnys', 'sarae culiins'}, {'saryy coylnsy', 'sirwy cllonez', 'saraa callinz', 'ssrao cwwllns', 'sryea cloyamz', 'haarw koywniz'}, {'srrai cuwlans', 'ssrao cloains', 'saruh coleins', 'ssroo cowlnci', 'hsrha cywwnic', 'srhei chwilmx'}, {'srehy calyynz', 'srraa cllwwns', 'srrih cloiins', 'szwru clouwmq', 'sarao colunns', 'yerhe ywwlnic'}, {'sarae coilens', 'syrau colansy', 'srraw colynus', 'iwsra yiyilng', 'sroaw clwnois', 'srhew clohemx'}, {'sayri cwlwnos', 'sarow callnsu', 'sirah coiluns', 'sriya chwilmj', 'xhrha xiyilnq', 'syreh colnnis'}, {'sarau coelons', 'sruay calynsi', 'srwya cwwylmj', 'yyrhi kihlnik', 'sraeh cuyllns', 'ssrai couilns'}, {'saraa coulinz', 'swery clohemq', 'soray cllainz', 'sarew cohlnas', 'awsya ciyilhk', 'sssra clowniz'}, {'scaor cloawmx', 'srrue clehyns', 'whrha qloywny', 'sarih callinz', 'syroh colwnes', 'srrai cuyluns'}, {'aesra hlowwnx', 'sarry cllensw', 'ssruh cllonsw', 'scorw clhhymq', 'serah coaluns', 'sriay cloeyns'}, {'syray cwwlens', 'syrae calowns', 'sshru clewumx', 'gyurh hlohwnz', 'sarau ckolins', 'sraoe colyniz'}, {'ssray colynes', 'shwha gulynic', 'sriwo clewumx', 'sraay caolnos', 'saroh culains', 'srroh callnas'}, {'shyer cwyilmc', 'saruh coolons', 'hyurh ziyilnj', 'seray colnisw', 'syraw caillns', 'sirwy cllnosi'}, {'srrao cllanis', 'syraa colynas', 'srhuu clawemx', 'sriau cliwnis', 'sarao cawlins', 'cahyw qeyilms'}, {'srrao coywlns', 'sayro caolnes', 'srwuu cuyelmx', 'ssrau colwwnz', 'shywa xlowwnx', 'sarae cooluns'}, {'asyru kywlnic', 'srrie cawlnus', 'sareh culiins', 'syrau coolnis', 'syure cywilmz', 'syruh cuolwns'}, {'sriwe clwoemx', 'yerhe qywilnz', 'sarih cawlins', 'swrra cwywlns', 'srauh calinws', 'syrau culowns'}, {'srrae cllenis', 'ahyuh cloyahc', 'soray colyynz', 'srrua cwwlynz', 'saroh calains', 'shyre clwwhmx'}, {'srhyo cahilmj', 'quhha kulynij', 'surah culoins', 'ssrau cowlonz', 'syraw cllanws', 'swrue cowlnyz'}, {'sraiu cuwlnes', 'cyrha yloyanc', 'shurw clihemz', 'ssraa cwllnsa', 'srrih collnwz', 'sarao coleans'}, {'sryew cwyalmg', 'sarih calains', 'jhyra zlohwnz', 'sraww cloyniz', 'ssroh cahlwns', 'srray cohlnws'}, {'hsyuh oclhamz', 'sarai colines', 'skyro cehilmj', 'sroaa calwnsi', 'srrae cwllnus', 'sariy cowlnse'}, {'saraw coolins', 'swruh cwwlwns', 'srrao colywnz', 'swhru chyalmg', 'wuruw kulilmz', 'sorew cwwlenz'}, {'sareh coliuns', 'swirw cuyylmq', 'jayha xloyniz', 'sorey cahylns', 'sriah cllainz', 'suray cllnihs'}, {'serah culiins', 'kayru xoyilmg', 'siray cwloons', 'sraoy claowns', 'syyur clyhamz', 'soray cowlnsu'}, {'srrau coeylns', 'aswiy wulynic', 'swrow cloehns', 'syeru ciyilmj', 'syroh cwllnws', 'sarau ckolins'}, {'srrih colincy', 'cwyra qloywng', 'srrau cllayns', 'saarw cuwlnse', 'sreya cloyomq', 'sorah culoins'}, {'srrua cuywlnz', 'qyrhi wiyilnk', 'swrae cohylns', 'ssraa coihlns', 'saraw coleuns', 'siayr cyiilmz'}, {'swrai cuolyns', 'srhuo clwwumx', 'sroaa cwlynez', 'syraw cllehns', 'sorah colawns', 'aisra qwhlniz'}, {'syreh cllenws', 'surie clownys', 'ashaw siyilnk', 'sraoh cllenns', 'shorw clowhmg', 'sarae colinss'}, {'surah colines', 'srraa clloinz', 'sryew chyhlmg', 'isriy gaylniq', 'syrau colynso', 'sayro calwnos'}, {'syraa colunys', 'kyurh kohilmz', 'sqero clyhemq', 'srrau colynos', 'suruw cwylonz', 'sorah collonz'}, {'ssrai cllanws', 'shury cihwlmz', 'whyra kwlynic', 'saruy caylinz', 'ssrie cwlynos', 'surah colinis'}, {'sroah cllnius', 'zyrha yloyanc', 'syruw caylniz', 'syrae cllinyz', 'sarih colenns', 'sworu cawolmz'}, {'swruo cliwnsi', 'syruh cllnius', 'syaer cwywlmg', 'ssrau coiwlns', 'ashuh kelwniy', 'sarih coolins'}, {'swraa cllunns', 'sraie colnuiz', 'qyrhi xwwlnic', 'sweur cloyamk', 'saraa cailins', 'syrih coylnos'}, {'syraw cluihns', 'shyhr cloymuq', 'saraw coelins', 'srriy cloynys', 'awsra jiyilnq', 'sarew cllwnis'}, {'ssrwy colynci', 'syuir cyeilmx', 'syrau cwleyns', 'herhe glowimq', 'sarau cahlins', 'ssray callnse'}, {'sarow cwlihns', 'swore cawilmj', 'saraa caulins', 'asrwa yiyilnj', 'syroo caylnws', 'sraeh coahlns'}, {'syraw culinws', 'hwyay kelwnig', 'sahwr cuylonz', 'srwuw cwyelmg', 'saraa culluns', 'srrao cllonsy'}, {'sayri culonsw', 'sryyi cayilmg', 'ssreh cahlwns', 'sarau coleinz', 'ssrau coylnse', 'jhaeh wloyanc'}, {'srowa cayylmj', 'sarau colauns', 'sowha qwlynic', 'ssrih coollnz', 'swrri colwnaz', 'swraw colonws'}, {'sraeh collnez', 'srehw caylynz', 'swruh cliiyns', 'sarai cuolins', 'yirha gaylnix', 'syoir clhoemq'}, {'sariy colynis', 'saraa cahlins', 'syyra cwlonas', 'srhuy cuyolmz', 'sewhe hulynic', 'swreh cuilyns'}, {'saruh colaons', 'syrih coiylns', 'cerhe kulyniw', 'syraa coliynz', 'sjair cayilmg', 'soriy cluwnws'}, {'shwhr cayelmj', 'sroah cwlywns', 'serah coaluns', 'srraa cuylons', 'awsre xiyilng', 'ssruw cwlynws'}, {'sqeri clowymq', 'saroh ckolins', 'srrih cuwllns', 'sraio cwwlnws', 'sarew cuhlyns', 'cayha oclhamz'}, {'srrou cloynes', 'syhri clahemq', 'ssroh cllynsw', 'sarrw callnso', 'saruh cailins', 'horha kihhnis'}, {'sruah cohlnsw', 'xrehh koyilmg', 'sarae colahns', 'ssrie cullnci', 'swirr cliwemx', 'srraa colunsw'}, {'srriw clyyyns', 'xyrha ziyilms', 'saree cliihns', 'sihur clhwamq', 'suray cullnws', 'sarau calains'}, {'swrai cohlnus', 'saroh coliens', 'syroa cwlyniz', 'sryoa clwhamz', 'asyyh cuwyniz', 'swraw cowylns'}, {'yraaw ocwlnzi', 'seruw cwylnys', 'sarau colawns', 'syrai colnnis', 'sreah cuwlons', 'sowhr clhhemq'}, {'srhie caywlmk', 'serah coaluns', 'swrai caallns', 'worha slowynq', 'sirwy cliayns', 'sraih cllaans'}, {'syrae clloyns', 'sarao colehns', 'kayha cwyhniz', 'ssroh collnyz', 'srowa cehilmq', 'sghra cwwlunz'}, {'syrry cuilynz', 'srraa collnza', 'sarau colluns', 'swray colwnse', 'ashiy kelwnik', 'shery clhwumq'}, {'ssrew caylanz', 'sroah collnzw', 'craaw kowhniz', 'szyru clhoymq', 'sarey callnis', 'sarao colinas'}, {'sarwy coihlns', 'swirw clhwamx', 'sraeh cwllnsy', 'syree clownws', 'sarau cullins', 'qaary cwywniz'}, {'saroy cowlnsi', 'syour ceyulmx', 'saraw coilins', 'srray cohwlns', 'ashih zlowwnx', 'saeyr calwniz'}, {'syyur clawumq', 'ssrei cllnisw', 'sarwy colaynz', 'syrih cllnius', 'xahyw xwlynic', 'sarih coolins'}, {'srrae caillns', 'sxury chhilmx', 'syrre cwwlnas', 'qraay kihlniq', 'sayra cullnus', 'saraa callins'}, {'swwir chhilmg', 'srahy calwyns', 'wuruw qewilnz', 'sarao callans', 'syrwy cawylns', 'saree caolwns'}, {'sarae culeins', 'ajryy qoyilmx', 'sraoh cllwnns', 'ssrau calwyns', 'suhir clhoemz', 'ssrow culwnws'}, {'jraay kelwnij', 'swrae cluiyns', 'sreai caiwlns', 'ssrau couhlns', 'sarih cawlins', 'shyro ciiylmz'}, {'saree cuwlwns', 'herhe ywwlnic', 'sraih coilnsw', 'saiyr cahlnys', 'srwuu clowumj', 'saroh coloens'}, {'ssrau callnas', 'sarao cullins', 'ssrih cliiwns', 'asyih joyilmg', 'syire clohemg', 'saeyr cwwwlns'}, {'srrau colneis', 'xriha zlowwnx', 'suhur cloymuq', 'saroh coiluns', 'sarew calewns', 'syreu clohwnz'}, {'sjyry ciyilmz', 'seary caolnws', 'sriah cllowns', 'sareh ckulins', 'ajrha zwwlnic', 'ssreh cwlians'}, {'sarrw colansy', 'syriy calwnos', 'sarao callans', 'sriah clluans', 'szhry ciyilmk', 'kwrha xoyilmg'}, {'xirhi klowwms', 'swraa colinyz', 'ssraa cwlywns', 'sraie clowyns', 'syaer cuyelmz', 'sarae coloins'}, {'sorah coeluns', 'qayru qiyilnq', 'ssruh cwwlons', 'sjuri cloyumc', 'syraw colynws', 'syruu cuwlwnz'}, {'seray cuwlinz', 'aqyuh hwyilms', 'shwir cayilmk', 'syrau cawlyns', 'saroh callans', 'sraia cawlnas'}, {'ywyay hlowwnx', 'sgori clouwmq', 'syroh cohllnz', 'sarey collnzu', 'saroh cualins', 'sirew claynis'}, {'syraa cllunws', 'swhha kowyniz', 'swirr cwwalmj', 'srrei culwnsi', 'srruh cuoylns', 'saroh colinos'}, {'saruw collnza', 'surah coelinz', 'hyrha hiyilnj', 'swrau caylinz', 'swori cehilmg', 'sraao caolnas'}, {'srroh coylnse', 'sahry cllnosi', 'sywer chyilmq', 'sarry cuylans', 'sarai callons', 'aqriy ocwlnhc'}, {'swreh culiwns', 'ayyuh cwyyniz', 'sawry calwnes', 'sarai colawns', 'syrih cwllnws', 'srhwi clowmex'}, {'sraey calwnas', 'sruye cloywmz', 'sarao colainz', 'girha jiyilnj', 'srrih caluwns', 'sayra cohlnos'}, {'awsra glohyny', 'srahw coilwnz', 'sarey coylunz', 'srwey cyiylmz', 'saraw colauns', 'sraua cuhylns'}, {'sarie cllanws', 'saroy caluwns', 'zyrhi gwlhniz', 'sxyro ciyilmj', 'syrru cohylnz', 'sarae callinz'}, {'sciry clwwumq', 'sraay cuwlnsy', 'sreah colansy', 'sarai culains', 'swrau cohlnes', 'asyhh koywniz'}, {'sariw colincy', 'soree culnais', 'esrha qalwnik', 'surah ckalins', 'ssraw coylnis', 'srwoy clowmuz'}, {'ssrih cwllnsw', 'suhur ciyolmz', 'sarae ckolins', 'cyrwa gwyilnz', 'swrae cowlwnz', 'ssrii cllonez'}, {'sarau coaluns', 'sirow caliwnz', 'sherw cliwumx', 'sarie cuohlns', 'sayra coollnz', 'uwsra julyniz'}, {'srrui cohlnzi', 'swruh cllnius', 'swrau cllwnsw', 'siyor cuhilmq', 'xirhy yoyilmg', 'saraw coloons'}, {'swruh cleiwns', 'syree caliwnz', 'sweir cloawmx', 'aswaw kihlniw', 'srreh cllinwz', 'saraa cuhlins'}, {'swwha qloynix', 'sareh cullans', 'srrou clyyyns', 'syroh colynso', 'soyir chyilmj', 'ssrih collnwz'}, {'srraw cllynsy', 'ssraa clluinz', 'ssrie cawwlns', 'sewer clhwumx', 'jrieh clohwwz', 'saraw colains'}, {'shhri clowwmg', 'sraih claoins', 'jayru ciyilyj', 'saraa coilons', 'soarw cuylwnz', 'sariy coowlns'}, {'sewur cwhilmz', 'swrao colownz', 'xayha gwlhniz', 'syraa clliunz', 'sorah cullons', 'surey clehwns'}, {'sroah callwnz', 'sraie cwlynis', 'srhew clowmuq', 'agryw qloyyys', 'saryy collnze', 'sarih colaons'}, {'sarae collonz', 'sariy coiilns', 'sryye chyylmz', 'ssreh cwwllns', 'xrehh xlowynq', 'swryy cuwlnys'}, {'srauh cwllnys', 'score clehemz', 'sarey colensw', 'werhe khlwniz', 'sarau caleins', 'siryy calynus'}, {'sruih cleywns', 'ssrao culinsy', 'sriah cllnies', 'saraw colouns', 'scuru cluwwmx', 'xhyra yiyilms'}, {'wyurh kiyilnk', 'sirah cullinz', 'ssreh colwwnz', 'srhyi ceihlmz', 'sarew coleynz', 'swrru cuhwlns'}, {'syrae cloains', 'sraiw calyynz', 'giryw qiyilms', 'sarae caluins', 'syiur cuwilmx', 'swrae cowlwnz'}, {'sarae collonz', 'swhry clohamg', 'suree clihyns', 'shyha klolamz', 'saryy cwliyns', 'swray couwlns'}, {'squrw cloyumk', 'owsra ocwlnhc', 'sarae coliinz', 'srauu culwnys', 'srahw clleuns', 'sariy coowlns'}, {'saruh colinos', 'syray colwnis', 'ssreh cuilwns', 'wayru kewwnis', 'srrio cawlwnz', 'sqyro cwwhlmj'}, {'sorah coliens', 'swaer cewilmz', 'surow cawlynz', 'srrau colynsw', 'srahy couilns', 'zorha kihlniy'}, {'sriyo cwwolmj', 'swrai calayns', 'ssria cllnois', 'saruy caylons', 'saruh coalinz', 'usyuh ocwlnyz'}, {'syrai callnso', 'sroih colynaz', 'sraoh cllahns', 'wsyuh sywlnic', 'swaor clohymq', 'sarau coloens'}, {'swrih coylnes', 'squru clihemz', 'syrih colynws', 'sorah colluns', 'awsha clowwwx', 'sraou coylniz'}, {'srihw cwyylns', 'sarae coloens', 'shhry chyilmx', 'sarow cloiins', 'asriy cwyyniz', 'sraih cwylwns'}, {'sraia cuwlenz', 'srruh coillnz', 'sarai colines', 'siory cliwhmx', 'akrha qwyilms', 'seray cwylons'}, {'gerhe swylniz', 'sriih cowlnci', 'swewr cuhulmz', 'srahy culiyns', 'sarih colenns', 'srauh colwynz'}, {'shyya qloynih', 'srrae cohlnis', 'sareh cuhlins', 'sayra cowlnsi', 'syore clohemj', 'siwra cwluwnz'}, {'ssrih cuillns', 'syria calwnes', 'asrww jwylniz', 'srwiy ceyilmx', 'sriah cohlnso', 'sorah ckilins'}, {'sroah clloons', 'kawha yiyilms', 'ssrio cawylns', 'syroh cllones', 'sareh colinos', 'syore cawolmz'}, {'szhrw chyhlmg', 'cwyay klowwnq', 'srauy cllnuis', 'sarih collenz', 'saree coaylns', 'ssruh colonsy'}, {'syrra cwylnos', 'sryoo cyyhlmz', 'surah coolins', 'ssrih cwllunz', 'swrai cohlnws', 'qurhi ciyilmy'}, {'srrea cuylnes', 'sraoh colynsw', 'siray callnis', 'suhyw ceyilmh', 'sswer ceyilmj', 'sirah coloans'}, {'syriw cuylnso', 'syiro clowumx', 'awyuh qloyniy', 'sarww cowlnos', 'syruh colynsw', 'sarai collans'}, {'sreah cllincy', 'sarae cuhlins', 'syiwr cloyamg', 'sihha cuhynic', 'saryy caoylns', 'srrey clloniz'}, {'syrao callnso', 'werha xulyniz', 'sruao cahlnes', 'sorah coleinz', 'srhei clowmaq', 'srauh cllonos'}, {'kyrha kelwniy', 'sorey clawwns', 'srrih cllonis', 'ssraw cwylens', 'saraa cohlinz', 'sweer cwwwlmj'}, {'kurha qoywniz', 'sirah culoins', 'syruh cullnws', 'srwyu chiylmx', 'ssrih culwyns', 'suarw cwlihnz'}, {'sarey cohlnis', 'jraew kihlnic', 'sswra cllnoas', 'sorah ckolins', 'srewa cuyelmq', 'swrao culiwns'}, {'hsrha klowwys', 'sarwy cayluns', 'swoer cihilmg', 'seray colnisw', 'swrre cloynsi', 'sarai coilins'}, {'surwy cuwlnsw', 'srray colunys', 'szwrw clowmuq', 'saraa coiluns', 'swray culowns', 'jwaeh gayynis'}, {'srraa cwllnsi', 'ssraw coywlns', 'kahha klowimq', 'sarao coolans', 'sxwrw clohhmx', 'serow clownws'}, {'serah colions', 'srahw coilnsw', 'ssroh cwllnsu', 'wurha kuhynis', 'sroaa cuwlnis', 'syury clwoamq'}, {'syuer chywlmg', 'sariy colwnos', 'swreh cloihns', 'wirha qyhlniz', 'sarae coliinz', 'ssrey cllohnz'}, {'swreh coeylns', 'swerr cuywlmx', 'ssrwy cowlnuz', 'swyey glohyms', 'saraa culains', 'srruh couylns'}, {'ssrao cawllns', 'syhur chyilmz', 'srroh colinwz', 'sarao cuilins', 'swywy wawlniz', 'sorww cuylonz'}, {'xyurh wwlynic', 'swraw cwloans', 'srroh calinys', 'saruh colinss', 'srooh cawlnws', 'scury chyulmz'}, {'saree coylnas', 'sarai cuelins', 'soroy cllnoas', 'wuhih ceyilmy', 'sxwrw clohumq', 'swraa cllwyns'}, {'ssrih cuolyns', 'srhuw cliwhmx', 'sarae coluins', 'kriaa wiyilng', 'sreaw cwwlnos', 'suray cllenws'}, {'herhe cuyynic', 'sroyu cyywlmz', 'ssrae cowlnas', 'srreu cliwnsi', 'ssrao cllohns', 'sarae cawlins'}, {'sariy cohlynz', 'swhha yiyilms', 'syruw calwnes', 'ssrae coylnos', 'sxawr cayulmc', 'sarih cullans'}, {'sarao coulons', 'swrai cowlenz', 'swwor cyyilmg', 'shhha qowwniz', 'srroh cwluwns', 'sruhy colwnwz'}, {'saroh collons', 'syraw cwlehns', 'sriaa caylynz', 'schry chywlmz', 'sewhe qloyyys', 'sariw coullnz'}, {'siruw cluwnis', 'asway hlowimq', 'sarau caalins', 'ssrae culwyns', 'ssruh collncy', 'syiwr cliwumx'}, {'qurhi koyilmx', 'sarau cailins', 'srreo culwnes', 'sarww cohlnsy', 'swiwr cwyilmj', 'soray colunsw'}, {'sirew clohnes', 'srrih colynse', 'sarao caalins', 'saruy colonws', 'seyir clwoamq', 'shywa kwwlnic'}, {'srwwu clhwumq', 'asrea qloynig', 'srahw cllaens', 'serah calains', 'swyra clownsu', 'syrau cullnws'}, {'sarao cooluns', 'siriw cluhnis', 'sriyu chyhlmg', 'swrao cohllnz', 'herhe ocwlnyz', 'srruh colewnz'}, {'showr cayolmc', 'saraa coilans', 'whrha hlowimq', 'sorey cllnosi', 'sarww cwlwwns', 'ssroh cleiyns'}, {'srraa coilnys', 'suruy cuylnis', 'sarai coulons', 'suray colwynz', 'aesra qalwnij', 'scwri ciyilmx'}, {'suriw cwwwlns', 'syroh coowlns', 'yraay ylowwnx', 'sarai coleins', 'swreh culinys', 'srwuy clawhmx'}, {'sarrw colwynz', 'qraaw zayilms', 'sarai colinss', 'sauwr cuwlnos', 'sruwe cayylmk', 'srraw callnes'}, {'sarae coilins', 'squri clwwumq', 'swree cuylnes', 'sarew coollnz', 'yaarw kawilnz', 'saree clluinz'}, {'srauh cowlanz', 'qorha woyilmg', 'sirrw cwwlynz', 'swiri cayilmk', 'surah caolins', 'sayra cwluwns'}, {'swruo cwyylnz', 'syhhi jloyniz', 'sayra cliiyns', 'sraoh clliynz', 'sarao colonns', 'syirw cehelmz'}, {'sorah cohlons', 'xirhe kwwlnic', 'ssroy cuylnas', 'srrao cllnius', 'syreh coylnsi', 'swero cwyulmg'}, {'sarae caulins', 'jhaeh cuhynic', 'sarey cloiens', 'swraw collnzo', 'soary cleayns', 'siyir cehilmx'}, {'szery ciyilmz', 'sirie cwlwniz', 'saroy cllonis', 'jewha xlowimq', 'srrae coehlns', 'sarai collons'}, {'swrry cwlwniz', 'syrih colnuis', 'skwrw cawwlmz', 'jawya kihhnis', 'serah cuulins', 'sarey cohlnos'}, {'syrao clluinz', 'sarai colehns', 'sxiry caholmz', 'sraaw cwlonas', 'asrew siyilnk', 'syrai colanws'}, {'sjhru clohomq', 'srruy cwwlnes', 'sareh coloinz', 'saruw colnnis', 'sruah clluwns', 'cyurh qloyynh'}, {'sarao coilins', 'uqrha julynic', 'sjaur chhilmz', 'syraw cwleyns', 'saryw caloyns', 'soarw colwnzi'}, {'sorah culluns', 'swroh colynso', 'qurhy cwywniz', 'syrua cliohns', 'srowo clowomx', 'saryw cllnies'}, {'swrau cuoilns', 'srrai cuowlns', 'sryiy cwwalmj', 'sruay cuhlniz', 'qwrha xlowimx', 'saroh coiluns'}, {'sroau cuwlnus', 'srray colwnws', 'syeri cuyylmx', 'swrih cuolnis', 'gorha glohynw', 'sarae colions'}, {'sehur chwilmg', 'awsya wlohwnz', 'srroh couylns', 'saruy clluens', 'saiyr clehnis', 'saraw ckulins'}, {'sarwy culinys', 'sjuru cyuilmq', 'sirey clewyns', 'quruw ziyilnj', 'sorah collonz', 'syruh callnsa'}, {'saryw coulnis', 'sarai colanns', 'kraay wwlynic', 'sqhrw ciyelmq', 'ssrau coylnws', 'saiyr colynaz'}, {'swhwr chyelmz', 'herhe juwlnic', 'serah coliinz', 'swrae colensw', 'saorw cawlnos', 'srahw colnais'}, {'xurha sloyanc', 'sirah culoins', 'szwrw clowumz', 'ssree cuhlnos', 'sariy cwlinsy', 'swrae collnzo'}, {'aqriy qloyyhs', 'srahy caillns', 'saree colwnos', 'suroy cllnosi', 'srwia cloyymc', 'surah caolins'}, {'ssrui cloynys', 'srrai cuwlons', 'srruh cllniys', 'sihha qloyyws', 'syorw ceyilmz', 'sareh colihns'}, {'skhry chyelmg', 'saruw couhlns', 'swroa cluwnus', 'zwyay kihlnic', 'ssray cllnihs', 'sarao coliinz'}, {'asrhi qlowimx', 'suray cwluwns', 'swrih cllonus', 'syriu caylnws', 'srewa clhyamc', 'saroh cuelins'}, {'shwwr ceyelmx', 'sruhy cwllnci', 'ssreh cuolwns', 'sorah coilins', 'swrae colanws', 'yahha qloynix'}, {'sarwy callnso', 'syria cuylnws', 'sxorw cehulmz', 'saruh culiins', 'sewhe slowynq', 'swruh cwllnas'}, {'sziry cewilmx', 'saruh coolinz', 'osrha zulynic', 'sayra calwyns', 'saryw colwnes', 'saarw cwlynez'}, {'soyur cyailmk', 'saraa coulans', 'sraei cwwlonz', 'qerha cuwyniz', 'saryw colwnis', 'ssrai cwloans'}, {'swruh couwlns', 'shhha kihlniw', 'sraei cullnzi', 'srywa ciihlmz', 'srrih cwloyns', 'sarai coalens'}, {'siyer cuyilmx', 'sirah cualins', 'hirha hayilms', 'syrih cllunsw', 'syrie culwniz', 'srahy caohlns'}, {'saraw coliuns', 'gyurh kelwnij', 'sorrw cuylnus', 'swowr ciyilmx', 'syrih cllenis', 'sarwy clluhns'}, {'sarww coewlns', 'swreh cwylwns', 'saraw coalinz', 'asuyh hlowimx', 'sshru cayilmz', 'swruu culwnys'}, {'sarao culiins', 'syryy cuwlnus', 'sciry cwwwlmj', 'ssrae coilnws', 'ssruh cwllnus', 'ashoh xulynic'}, {'swraw cohylns', 'swreh callnus', 'szery cayelmk', 'siroy cahylns', 'kaary qhhlniz', 'sirah cullins'}, {'sraoy cllnoiz', 'awhra kulynik', 'syrau cllanws', 'szhre cloywmq', 'sarww colynes', 'sarae cohluns'}, {'sarao coulons', 'srreh cllynsw', 'syrih cowlnis', 'sroaa cohylnz', 'syhhi zeyilms', 'syuri cloyemz'}, {'saraw collons', 'zerhe qulyniq', 'sirew cwlwnys', 'swrih clluhns', 'srauh colynos', 'srhyy clyyumq'}, {'shhyr clowumk', 'kerha zulynic', 'srauh cllyyns', 'serah cullins', 'sarie colwnsw', 'seree cahlwnz'}, {'sxere clohemz', 'siray cwloinz', 'hirha qaywnis', 'sarao colonns', 'sreah colenys', 'swruw cwylenz'}, {'swryy cwylniz', 'seray colynso', 'srrih cuyllns', 'syiwr clowomx', 'sarai coaluns', 'axriy cwhynic'}, {'xyrha ciyilmh', 'srraw cowlnsa', 'sarai colinis', 'swraw cloihns', 'sryoa cawilmq', 'swrwy culonsy'}, {'syruh colynsu', 'sarao ckolins', 'asrea wwwlnic', 'srroi caylnys', 'sreah cwllnys', 'sryoo ceyulmx'}, {'ausra wlowynq', 'sirah coliuns', 'sriah colwnsu', 'syrao colynsy', 'suruw calynsi', 'swaer cawalmz'}, {'srrih cowlnws', 'suray colnuis', 'sihor ciyilmk', 'syriy clawnis', 'jyrhi xlohwnz', 'sirah ckolins'}, {'saryw coailns', 'srraw cawllns', 'sxaor clowemj', 'ssruy culwynz', 'gayru guwilnz', 'sorah coliinz'}, {'sarww coluwnz', 'saroh cullins', 'gwyay kihlniq', 'siwur clwhemq', 'syrou cuwlnsy', 'syraa cohlnsa'}, {'sraoa cuwlnso', 'srrau coihlns', 'serah callans', 'srrao colynws', 'yraay qloyyny', 'sruwa cehilmq'}, {'qorha xywlnic', 'syraa cuwlwns', 'saruh cullinz', 'sruaa colwniz', 'sarie coilnws', 'swuru chywlmg'}, {'sarae colunns', 'aswai ziyilnk', 'sarww cuyluns', 'swrae cuwlans', 'sriwo cloyymq', 'srauo caolnas'}, {'saryw culewns', 'srrih cuolwns', 'srrie cuhlnas', 'asrew klowwnq', 'saroh coalans', 'srhya clhhemq'}, {'shiwr clwwhmx', 'hhrha oqylniz', 'sareh callinz', 'sarew coyylns', 'soryw cwlynez', 'ssrao clloinz'}, {'sairw clohynz', 'sarao coilons', 'scaor cehelmz', 'ssraa caolnis', 'herhe hlowimq', 'ssray colwnys'}, {'jawhi khwlniz', 'saraa colinos', 'saerw cahlnos', 'srruh cwlawns', 'ssrae colynsy', 'syiri clyyamc'}, {'swero clhhemq', 'swruh cllyyns', 'surah cullons', 'xayha qulynih', 'sraii cwwlwnz', 'srrae cuellns'}, {'sywha cwyilmw', 'swirr cawalmz', 'swraw calinsw', 'sarae coloens', 'sraao cullnuz', 'saruw cwllnas'}, {'srrao cllansy', 'swiri clhhemq', 'sorah coalins', 'srohw cluayns', 'ssray coehlns', 'zhyra kwyilms'}, {'srraw coullnz', 'syroy cahylns', 'ahrha zulynic', 'sarih caolins', 'sraeh cohlnsa', 'schru cawilmx'}, {'srrih cloains', 'swrih coywlns', 'sraou clwnois', 'syiri cwyilmg', 'aqriy qloyynk', 'sarai collens'}, {'schru caiylmj', 'srioh callniz', 'syraw cooylns', 'gwryw khlwniz', 'srrae coylnys', 'surah cohluns'}, {'suwra colynoz', 'surah cullons', 'sarwy coilnsw', 'srwiy clywemx', 'qurha qulyniq', 'saryy coailns'}, {'sarai culoins', 'saruy cllonus', 'kayru clohwhz', 'sirew clowniz', 'sriwa cehhlmz', 'srruh coleynz'}, {'sweru clawumq', 'wuyih ciyilwq', 'swraw clleans', 'sariy cowlnes', 'sraae cowlnuz', 'saroh colihns'}, {'seray cloians', 'sarau colauns', 'yhrha qwlynic', 'swuro clhwumx', 'swreh cohlwnz', 'swrii culiynz'}, {'swurw cuyulmz', 'srahy collnyz', 'ssrao cwylans', 'saraw colunns', 'khyra kihlniy', 'swrra cahlnos'}, {'kyurh glowimq', 'sarao cuolins', 'syeri cyyolmz', 'syrae collnoz', 'srraw cohlynz', 'syria caliwnz'}, {'sxwre clowumj', 'syrih cllincy', 'syraa cllawns', 'serah colahns', 'soroy cwyylns', 'swyya qwyilms'}, {'saruh coelans', 'srruh caohlns', 'sryyo chwilmx', 'srahw cllonys', 'swrue clehynz', 'ahriy qloywnh'}, {'sriay clooyns', 'sirah coleuns', 'shyya hayilms', 'swray caloyns', 'sjyry cloawmz', 'srray cllwnns'}, {'saraa coolons', 'srauh caylens', 'swrre cwwlnws', 'ssraa caowlns', 'aosra ocwlnyz', 'sshru cuyalmq'}, {'sraih coehlns', 'ssrio cloynos', 'gyryw kiyilnk', 'syray claiwns', 'saroh coleens', 'soher cwyelmq'}, {'swoer cawolmz', 'syraa cloinsw', 'qhyra qloywhs', 'sayra couylns', 'sarau colainz', 'syrii cwluwnz'}, {'yhyra xwlynic', 'syrih coiulns', 'swhro clowhmj', 'sariw colnais', 'sraoe cloewns', 'sarai colinns'}, {'surwy cuhlnas', 'sjiri clihemz', 'swrao colwnus', 'asrww cwyyniz', 'sirah collans', 'ssrae cllayns'}, {'surah colines', 'syraw cllawns', 'srueh clowynz', 'xhrha ziyilnq', 'skori cyyilmq', 'swrau cwluhns'}, {'swrew cuylniz', 'sarao culiins', 'zyurh clohwyz', 'ssrae cwwlwns', 'sriwo cluwwmx', 'siray cllenns'}, {'quyha huwlnic', 'sreau cwllnez', 'swoer cawilmg', 'surah culluns', 'saryy coiolns', 'syrau colewnz'}, {'qyurh klowynq', 'syroy cliwnis', 'srrai colynsi', 'syeru cywilmz', 'sraeh cwliyns', 'saraw collenz'}, {'sroao cuylenz', 'sryia chywlmg', 'syrae callwnz', 'sarao colines', 'swruh callnws', 'asria hulyniz'}, {'saroh coluons', 'asyuy cayilmw', 'swoer cuyilmz', 'syrih cowlnse', 'syrew calynws', 'srray caoylns'}, {'serah coulinz', 'hhyra swwlnic', 'siyra cohlnuz', 'syury ciyalmq', 'swraw cloions', 'saryy coleynz'}, {'saroh coolens', 'sjere cwwolmj', 'srruo cuhwlns', 'swray callynz', 'siyha kiyilng', 'ssreh clliwnz'}, {'jyrha jiyilms', 'syruw cuwlnes', 'sriah culuwns', 'swrih coiilns', 'saraw coelans', 'syayr cluwumq'}, {'sreyu clowhmj', 'srrui cloynez', 'cahha xwwlnic', 'saruh colouns', 'swrai cawllns', 'sraoh cuylens'}, {'sorah coelons', 'herhe zwlynic', 'swrao cleihns', 'srrih cwlayns', 'syiwr ciyelmz', 'sirey cwylenz'}, {'sywur chiylmg', 'saruy caylens', 'sahwr caiwlns', 'surah cahlins', 'jahha hwyilms', 'srraa calwwns'}, {'syrao cwllnas', 'saiwr cwylnus', 'serah cuelins', 'scori cloyhmx', 'saryw cwloens', 'soyha cwyynic'}, {'sxure ceihlmz', 'ssroh cuwlons', 'srrei cllnois', 'saree coywlns', 'sarae calains', 'ajryy kiyilng'}, {'sryuy clowmax', 'sraih colanws', 'xorha oclhamz', 'syrao colinyz', 'sorrw cawlnos', 'serah coleans'}, {'syrww cluywns', 'swhyw xloyniz', 'sareh coolans', 'sariy cleiwns', 'soray cllunsy', 'srweu cwiylmg'}, {'sraoh clluyns', 'ysrha zlowimx', 'swhre chhilmx', 'sarao cuilins', 'sroih cuhlnos', 'ssrau cohlnus'}, {'srrae colwnis', 'saywr clohwnz', 'sxorw cuyhlmz', 'sarau caalins', 'jwwha yawlniz', 'srraw caylens'}, {'sarry cohlwnz', 'swhhr cwwhlmj', 'saraa collunz', 'saoyr claywns', 'wyurh hlowimx', 'syraw cuwllns'}, {'sroeh cwylynz', 'xerha quhynis', 'ssreh culayns', 'squro cloyymz', 'sarao cohlins', 'srreh cwlayns'}, {'sriih clewwns', 'sraih collnaz', 'scwrw caywlmc', 'xerhe klowwny', 'sorah callinz', 'sarwy cahllns'}, {'shhry chwilmg', 'sarih callins', 'srruo cliwnis', 'syray cwllenz', 'haary qohyniz', 'ssrao colwnys'}, {'shiry cahilmk', 'sirah coelins', 'srrao coylnis', 'chyra qoyilmg', 'syreu clahwns', 'srruh cullnsy'}, {'sarae ckulins', 'shwrw chyelmx', 'gwryw huwlnic', 'syrih cllowns', 'sruah cwylwns', 'sreai clownuz'}, {'swori ciyolmq', 'soryy cayylns', 'sruah cllaons', 'wuriy zwwlnic', 'swraa cwlahns', 'sarae colaons'}, {'zwyay glohyys', 'skyro clwoamq', 'swrue cwlnais', 'sarww clleyns', 'srroh claiwns', 'serah caliins'}, {'serew cleayns', 'sarao cailins', 'sryou chyalmg', 'srahy cowlnes', 'asrwa ochlhmg', 'sarrw callnse'}, {'sriih cloynsi', 'sarih callans', 'sgyro clowomx', 'jraey zuwlnic', 'sarow cuhlwns', 'syrau collnwz'}, {'swreh cwllnsa', 'owsra klowwnk', 'siriy cuwlnsa', 'sarai coelinz', 'syrau colynws', 'shhyr cehwlmz'}, {'suray cooilns', 'syrai cllynsy', 'saroh coluinz', 'kerhe jlowimx', 'sraiu cwllniz', 'sryia cluwemx'}, {'ssrao cllinwz', 'ssroh cwllynz', 'sayro cwlynas', 'saraa colines', 'gayyw cywwnic', 'swiry clowemk'}, {'swhrr chywlmg', 'swrao cllaons', 'sywhi gowwniz', 'swrww cwlynos', 'saruh coulons', 'swray culoyns'}, {'sower cihilmk', 'srrau colenys', 'juruw wloyanc', 'sorah coilinz', 'swrey cwllnwz', 'soray coilynz'}, {'syrao cllunns', 'sywhi qloyyms', 'saoyr clehwns', 'sarai colonns', 'ssraw cllwnws', 'shyir cuiylmz'}, {'syiri cihilmx', 'srruy clohnsi', 'saraw colainz', 'srahw cwluhns', 'sarry cllnios', 'swyoy hwwlnic'}, {'sareh cuilins', 'ssraa cwllnas', 'srhiw clewumx', 'serww cllnohs', 'srrao cllayns', 'awyra ywlynic'}, {'jhrha ciyilwj', 'sraoe colwnoz', 'scoru cwwilmz', 'sayra cleiwns', 'saryw calayns', 'surah ckolins'}, {'surew cliwnsi', 'sarao collenz', 'yuruw cywwnic', 'syreh cllniws', 'sgyry clywumx', 'saryw clleens'}, {'syrao coylnos', 'ssrew caylnws', 'saruw cowlnus', 'sqero cayilmc', 'surah colehns', 'xahyw cywwnic'}, {'yuruw klowwnw', 'suarw culwnas', 'sariy cllihnz', 'srrih colyynz', 'swurw cuiylmq', 'sarih cualins'}, {'ixrha qiyilms', 'swrau cwloens', 'swreh collnce', 'swrru cuylanz', 'sxyro clawhmx', 'saraa callons'}, {'ssruu cluohns', 'kwrha cwyynic', 'syray cohlnsu', 'sjwrw cwhilmq', 'swray clluens', 'sarau coelens'}, {'swreh colyynz', 'qyurh kwwlnic', 'srrii cawlnws', 'saruh colehns', 'swruh cllwnns', 'sowor chyilmc'}, {'ssraw cwliens', 'syhur cahilmz', 'ssrae coylunz', 'hayru qaywnis', 'sarih cuulins', 'swruu claynis'}, {'sweer cheilmz', 'sreay cuhlnis', 'ssrae calinws', 'saruh ckelins', 'wwrha qoyilmg', 'syrao caolyns'}, {'srayw culwnes', 'awsha hlowynq', 'syoru clowmuz', 'sareh culluns', 'sarie cwlywns', 'syroh coiulns'}, {'jyrha qiyilnk', 'serah collens', 'srrai cwllanz', 'siriy cuylnso', 'sruah cuallns', 'sywor clowumq'}, {'herhe oqhlniz', 'sorah coolons', 'sreyi clwoumx', 'sroae cwwlanz', 'syrae culuwns', 'swroh couilns'}, {'xriha qwlynic', 'swour cehilmz', 'sarae coluuns', 'srrao cwlians', 'swrea cluywns', 'soray caallns'}, {'shhre clowumq', 'srroh cwluhns', 'yirha qloynij', 'srreh clluuns', 'sraue colnaiz', 'sarao callons'}, {'ssraw calinsy', 'syraa cohlnsu', 'sraei cwllnoz', 'sjhri clowmex', 'ghrha qulyniq', 'saraw coleins'}, {'sweor clowmuz', 'ssroe claayns', 'swray cwylinz', 'jraey hiyilnk', 'srrai cuhlwns', 'saroh colaons'}, {'sraeh callnsi', 'sarih coloinz', 'ssrae cwluwns', 'agrha yulynic', 'sriwo clyhemq', 'srroy clayyns'}, {'sirah colinas', 'sruah caowlns', 'asryw ywlynic', 'swreh culywns', 'syrii cluywnz', 'sohor clywamx'}, {'siray caoylns', 'sjeru cayelmk', 'saraa coulans', 'sarow cliiwns', 'jawho jiyilms', 'sraao cloayns'}, {'ssraa cohlynz', 'saree cowlwnz', 'swier cyailmk', 'wawha xiyilng', 'sswra culwnys', 'sorah cullins'}, {'sruaa cwllnuz', 'sihur cehelmz', 'saruy caluwns', 'saruh caulins', 'sariw cawllns', 'jawhe qulynic'}, {'swrii clohwnz', 'swrae cohlnos', 'sihyw cloyahc', 'sohir cluhymq', 'swraw colonws', 'sirah coelans'}, {'ssrao coellnz', 'aqrha zlowynq', 'swiru cloyumj', 'srauh colynws', 'saraa cohlans', 'srayw clahyns'}, {'sxayr chyelmz', 'sruhw coylnuz', 'syrao coliwnz', 'sowha oqhlniz', 'ssrau colynos', 'sirah colaens'}, {'srrao cwwlwns', 'syoro clhwamq', 'sraih coylanz', 'serew cloyniz', 'sarih colauns', 'jawya xeyilms'}, {'sorah coelinz', 'syrei cuylnis', 'hraaw ywyilms', 'srhiu chyalmx', 'sarww clleons', 'srrao cohlynz'}, {'sarih caulins', 'swraw coylnsw', 'jahyw xoyilmx', 'syoir cyyolmz', 'syruu cullnyz', 'ssruh collnze'}, {'ssrae colensw', 'sirah coleins', 'swhwr cayolmc', 'xahha ochlemz', 'syreo cloynez', 'saruw collnoz'}, {'swrao cuhlwns', 'sreaa cawlniz', 'sarih coulons', 'gawyw yeyilms', 'syoro cyyelmz', 'srreh cwliens'}, {'qerha kihlnix', 'syreh cllnias', 'saraw callans', 'sjyri chyelmx', 'srrai cllensy', 'sawry cwwlunz'}, {'ssrau couwlns', 'scuro clowamj', 'sareh coliinz', 'seyha ziyilnk', 'saruw cwlinsy', 'swroa cwlwnus'}, {'sariy cullnsu', 'sxury cwwhlmj', 'sarwy cuillns', 'saowr clohnes', 'gyrha klowwnq', 'sorah ckulins'}, {'swray collnce', 'soray cullnsy', 'sruyu cloyamx', 'saroh coolins', 'yerhe wloyanc', 'saiwr culwnws'}, {'ssruh cwwlans', 'szery clowemg', 'sirah coaluns', 'sarie calinys', 'xihha qloywnx', 'seriw calynos'}, {'awyra cuyyniz', 'sarao colehns', 'syrau coilnws', 'srrao colunsw', 'swiry clawhmx', 'srruy culwnus'}, {'sorah ckelins', 'srauy culiwnz', 'srray cwllynz', 'shery cyuilmz', 'aosra wiyilng', 'swrau clloans'}, {'szhri clowymq', 'saree colonsw', 'hsyuh soyilmx', 'saroh colinns', 'ssriu clewyns', 'sarry cllynws'}, {'saree claiyns', 'ashih ciyilyj', 'suray clluens', 'surah callans', 'swyur cayolmc', 'sruai cwllnuz'}, {'yaarw klolnaz', 'szwre chyylmx', 'saurw clohyns', 'suray colinzy', 'srauh cwllnsi', 'saraw coliens'}, {'sariy cllunsw', 'srwoa clowhmx', 'sawrw cuwlenz', 'aswaw glowwnx', 'sirah cooluns', 'ssruh cllunws'}, {'zirha oqhlniz', 'surah coalans', 'saerw cloohns', 'srreh colaynz', 'saruw callnus', 'sworw cloywmz'}, {'xirhy ocwlnci', 'soyer ciyhlmz', 'saruw cwllnus', 'srrih cllaons', 'saiyr cahlniz', 'saruh caelins'}, {'suray colyynz', 'surah cullens', 'sreyo clhhemq', 'swraw cluiwns', 'sreay cawlynz', 'yyurh jwlynic'}, {'sarai colluns', 'sriah coahlns', 'sorww culyniz', 'srwuw clowamg', 'siray cllonns', 'zahha keyilms'}, {'swrai collnaz', 'sarae coilins', 'swyiy wwylniz', 'szury ceywlmx', 'sraiw cuylonz', 'srruh cohlnis'}, {'syory clhhymq', 'sruah cwllnse', 'saryy caoylns', 'sreaw callnwz', 'ghrha ciyilyj', 'sarae colinss'}, {'syrry clayyns', 'sriah cleiwns', 'sarow collnzi', 'gorha kihlnic', 'shwre cluwemx', 'saroh colinas'}, {'seray callynz', 'syray coeilns', 'srawy clwnois', 'asweh kuwlnic', 'sarao cuulins', 'syoer clowmaq'}, {'saruw coluynz', 'sarai ckelins', 'saury culwnsi', 'sruyu cuiylmz', 'sreah cuilyns', 'xyrha hulyniz'}, {'siroy cowlniz', 'zhrha kihlnij', 'sruyu cyyalmz', 'syrae culewns', 'surah colunns', 'srraw coehlns'}, {'syrae callnsi', 'siroy colynuz', 'saraa coliinz', 'ajryw yoyilmx', 'skere clowomx', 'saruw cleiwns'}, {'swhro cuyhlmx', 'swraa coylnsa', 'sreay cuhlnes', 'sriah cwloinz', 'saruh coulins', 'ahyuh clohwyz'}, {'syrrw coylnci', 'srahy colunys', 'khyra glowynq', 'suray cohlnsa', 'sarai coulins', 'sjhri ceholmz'}, {'seree clwywns', 'syrae cwllnas', 'usyuh gaylniw', 'srrai cahllns', 'szwry clwwamq', 'saruh coluins'}, {'syraa culwwns', 'aswai qloywny', 'srrau culinws', 'syriu clownsu', 'sarao colenns', 'sjhri cluwamx'}, {'srray cwlouns', 'sxyre cloyamx', 'suyuw kihilms', 'sirah cawlins', 'syroh culinys', 'saowr cwylwnz'}, {'swrih cowlenz', 'sarao coilons', 'syhru cluwemx', 'ssroe cullnzi', 'acriy hwlynic', 'syrae cllonsw'}, {'swrih colansw', 'syire clohomq', 'ssrao cloiwns', 'corha hiyilnj', 'sareh colohns', 'surww cwlwnsi'}, {'swrih colwnas', 'qahyw qloyynh', 'skwrw cwyelmq', 'sirah cuhlins', 'swrua cohlnaz', 'sraeh cawlyns'}, {'saraw colians', 'sarew coywlns', 'sywhi qloyynk', 'sreah coylenz', 'sirie cohlnzi', 'shwir clohamg'}, {'sarai callinz', 'wuriw joyilmx', 'saroy cloains', 'swrui cllnois', 'suhir cuywlmz', 'sraeh cllaans'}, {'aosra clohwhz', 'srowe cloawmx', 'surew coywlnz', 'sorah caluins', 'srraa cwllnsa', 'swrau cuwlans'}, {'srwea clhyumq', 'serah callons', 'zayha zywlnic', 'swrau colynes', 'sahwr cuiylns', 'swrai coollnz'}, {'cerha klohanh', 'srray coollnz', 'sxorw cwwilmk', 'srrio clownsi', 'saruh coleans', 'suray cowlnis'}, {'sareh coelinz', 'saruw cowlnsi', 'ashwh xwyilms', 'sraao cawlnys', 'suray cuhllns', 'seyer clhwamx'}, {'sarih colluns', 'sriwe cwwalmj', 'sarrw cuhlwns', 'giryw qohhniz', 'sairw cloynsy', 'srraw coelnis'}, {'swroe cuwlnzi', 'wirha ciyilwk', 'sihur clowumk', 'saruw cllnnis', 'sarai cawlins', 'sraeh cllynws'}, {'swroi cawlynz', 'syraw callnsa', 'saroh colouns', 'isyuh klowynq', 'syiri clawwmx', 'srrau cuhllns'}, {'swori clohamj', 'awswa ciyilwq', 'saroy cailyns', 'ssrie callnci', 'ssrai caowlns', 'saraa coluhns'}, {'srrey cuywlns', 'syrae cwliyns', 'sroyu chyelmg', 'kyrhi keyilms', 'sorah cuolins', 'sarwy cwylinz'}, {'syraa coylunz', 'syuru cloyamk', 'sarih collons', 'sauwr caylniz', 'jwaeh qloywhs', 'sroah cwllnsa'}, {'ssreo cwlyynz', 'sarau coloans', 'srrae clleans', 'srray cullnis', 'shayw kulilmz', 'swuro clowmux'}, {'serwy colwnaz', 'ssray colonys', 'kayha slowwnx', 'saroh coilens', 'srrih culwyns', 'srhwu ciyilmj'}, {'syrih culewns', 'srrih caylinz', 'syury clyyumq', 'sruoh culynys', 'kawha qlolnoz', 'saruh cuhlins'}, {'sriaa cullnwz', 'saruw cliihns', 'saraa coilans', 'swrai cwlohns', 'sshre cloyamj', 'xerha oclymic'}, {'serah ckelins', 'hraaw cwyhniz', 'sarww cwloyns', 'sreah cullynz', 'syrou callniz', 'sxure cloyamj'}, {'swair clohemg', 'sayra cllonsi', 'surah coloinz', 'syrrw cluywns', 'syroh cuilyns', 'ccyra qloyyys'}, {'sariw caolnis', 'sayra cuwlwns', 'surah culluns', 'sraui clohnos', 'syawr cayylmk', 'asrwa qalwniw'}, {'syyra clwynis', 'srruh cullnas', 'sirah coleins', 'wyrha glowwnx', 'saryy callnws', 'sowhr clohomq'}, {'syray coylnws', 'swwra cwwwlns', 'szyro cwyulmq', 'ywrha kewwnis', 'swruh cllniws', 'sirah culuins'}, {'siyur clohamc', 'sreeh cuylanz', 'jawya kelwnix', 'sirah coleons', 'ssrau cwylens', 'saroy coiylns'}, {'sriah cwllnas', 'curha wiyilnq', 'saruh colunns', 'srrih coylnsw', 'shhro clwohmx', 'ssrwy cuwlnso'}, {'srruy culynos', 'ashaw gohwniz', 'sarwy cuellns', 'sxori cuwilmz', 'ssrae colynsw', 'sarae coelins'}, {'ssrae cwlinsw', 'srauh cwlihns', 'sayry calyynz', 'sowhr ciiylmz', 'surah coloons', 'ccyra qloywnq'}, {'sirah coelons', 'syroh colinyz', 'yurha wlowimx', 'srihw clyyyns', 'sarww colansw', 'syuru cuywlmz'}, {'serah colions', 'syrro cuwlnzi', 'sriah cuolyns', 'wayha klowynq', 'swrai cliiyns', 'szory clohwmx'}, {'zyrha qywilnz', 'sriah cllayns', 'swure cloymez', 'sreae caylnes', 'sorah collons', 'seray cllnias'}, {'swrih callnse', 'syrro caylnos', 'herha kihlnij', 'saruh collans', 'syroh colynsw', 'syore cayulmk'}, {'ssary cuhwlns', 'asiry kihwnis', 'sqeru clowmax', 'ssruh cwloens', 'ssray cuolwns', 'serah colainz'}, {'swyyy ceyilmw', 'sjori clowamc', 'sarww caellns', 'suyra culynys', 'sariy coliwnz', 'sareh coluens'}, {'srhue clwwamx', 'srreh cllwyns', 'ssrie cullnaz', 'jrweh cwyilmw', 'ssruh culywns', 'saroh coloins'}, {'swria cwlwnys', 'ssrau cliiwns', 'ajwha qlowynq', 'syoru caywlmj', 'sarau collonz', 'ssrih cullnsw'}, {'sarai cualins', 'swrae cuellns', 'sxaer clowhmx', 'asrwy gaylniq', 'seruw cahlnos', 'sriah coalnis'}, {'syaer chiylmx', 'saree coolnis', 'ghryw qloyynx', 'syraw colwnas', 'sirah caloins', 'sayry culynus'}, {'sirah colinus', 'haarw xlohwnz', 'siorw cwyilmj', 'ssreh calinws', 'sayru clohnes', 'sruah colnais'}, {'qwrha kelwniw', 'saowr cwllnaz', 'swrao cwllnsy', 'swray cuylans', 'sirah caluins', 'sjiri cloehmq'}, {'szwre clawwmx', 'yahha swwlnic', 'sarrw cowlnse', 'sraai calynos', 'saruh caulins', 'sarry cowlnsu'}, {'sruah cwleyns', 'shyre clowhmz', 'srruu callnyz', 'wwrha ochlhmj', 'syrih colansy', 'sarae colluns'}, {'sarai caliins', 'srauh cllyyns', 'syruu cloynas', 'kahyw xoyilmx', 'ssraw cllnios', 'shhri cwyilmq'}, {'srreh coewlns', 'craay qulyniq', 'sriah calwyns', 'srhio clowemc', 'syria caywlns', 'serah coleans'}, {'sreay clihnis', 'sirah coolinz', 'swere cwyilmg', 'syraa caolwns', 'guryw wulyniz', 'ssraw coelnis'}, {'yaarw wlowimq', 'sauwr calwwnz', 'siayr cehilmc', 'swrae clleons', 'sayra cllnias', 'sirah cullens'}, {'saruh colenns', 'corha zlowwnx', 'srrii cluhnis', 'seray cwllnsi', 'scoru clahymq', 'ssrau coollnz'}, {'sarae callins', 'ssrww colwnci', 'sweyr cloyemc', 'xirhu zlohwnz', 'srrau cuallns', 'sruah coewlns'}, {'sweyr clyoamc', 'sarao culeins', 'syrih cllouns', 'srrai caolyns', 'ssrwy cwwlnys', 'isrha qulynic'}, {'sreyo chyilmz', 'sarao colehns', 'srauw cwwlanz', 'sarwy cowlnso', 'syrai coiwlns', 'zorha uclyniz'}, {'ssrae cailwns', 'ashaw kowwniz', 'scyro cwwilmq', 'siruy cloewns', 'saruh coolens', 'syrai colynsi'}, {'siray cawlwns', 'serah colaens', 'shyir ceyalmx', 'sariw cawlyns', 'swayy woyilmx', 'sahwr cllonez'}, {'saroh coelinz', 'haary swyilms', 'saruy cuylinz', 'syrui cwlihnz', 'seyir cloyumj', 'syrae cullnsi'}, {'sareh cullons', 'ssraa cllayns', 'kayha hlowimx', 'suryy cllnows', 'sjyry clwoamq', 'seray cllohns'}, {'zyurh kiyilnq', 'syrih cowlnse', 'sarww colwnsy', 'scori cloawmz', 'seryy cloohns', 'saruh coolins'}, {'ssroo cllnohs', 'sarrw cllynns', 'suhor cloyhmq', 'sohha kowwniz', 'sarao coleans', 'srraw collnzw'}, {'swray cohlnsa', 'serah colehns', 'qraaw zwlynic', 'saarw clehnis', 'ssrih cohlynz', 'szyru chywlmx'}, {'jawho kelwnik', 'sruai cwlwnus', 'saraa cawlins', 'srroh cllinnz', 'sqero cluwamx', 'srrao colnois'}, {'sarow culinsw', 'xwrha qoyilmg', 'swori chyilmc', 'sarae collunz', 'swrou culwwnz', 'swroh cllnnis'}, {'sareh coleens', 'syraa couhlns', 'sreuh cawlnsi', 'srrai cloains', 'srweu clyhemz', 'cyurh glowynq'}, {'suroy cloohns', 'khrha qalwnij', 'swray caillns', 'srauh cllynsy', 'saruh coulins', 'swour cloyymz'}, {'sawrw cahwlns', 'swruh coilwnz', 'sraih cwlihns', 'saraa coluens', 'hawha jeyilms', 'sywir cyeilmx'}, {'saraw coluans', 'ssreh callnsa', 'syrau collnzu', 'sryui ciyilmg', 'owsra ghlwniz', 'syrri cliwnis'}, {'qyrhi ciyilhg', 'saraa cailins', 'scyru clyhymq', 'srruy cwloanz', 'sarie culwwns', 'srraw colnnis'}, {'syyra caylnas', 'qurhe zloyanc', 'saroh coalinz', 'siray cllwwns', 'saruy cohlnus', 'shhri cwwilmg'}, {'siyra cwllnyz', 'sirah coleuns', 'sqhrw clywemx', 'xerhe slowynq', 'ssrai coiwlns', 'sriah caylons'}, {'sarao culeins', 'xirha cwyynic', 'srrao cohlnus', 'surry clwwwns', 'swroh cullwnz', 'syihr clowhmk'}, {'ssriy cuwylns', 'swraa culywns', 'saroh coilens', 'asyhu slowimx', 'srhey cewilmz', 'sraoh cllonsi'}, {'sareh collonz', 'scorw cloywmc', 'sraaw cwllnuz', 'jwwha qalwniy', 'sarey colinzy', 'sriah calinsy'}, {'kwrha ywwlnic', 'ssraw coiilns', 'sarau coleins', 'sarow clleinz', 'sreuh cuwlnsw', 'syhor clowymz'}, {'srruh cuwlans', 'srwiu chyelmx', 'aswhh qloywnq', 'syrih cllowns', 'ssree culonws', 'saraa collons'}, {'sarrw cllones', 'sreay clyywns', 'swere cyyilmc', 'srraw cllniws', 'xirhi jeyilms', 'saraa colinos'}, {'swiur cayolmc', 'swrih colinyz', 'srruh cohlnws', 'sarai callans', 'xhyra xiyilng', 'siryy colwniz'}, {'sarry coiwlns', 'sarao culiins', 'ssruh cowlnos', 'sruhy calwnsi', 'sihur cawilmc', 'asrew jlowwnx'}, {'sxori cloywmc', 'serah calains', 'sraaa cowlnwz', 'awjra qloynih', 'srrae cllynws', 'srahy cuoilns'}, {'syoer clwowmx', 'srahw couilns', 'saruy cohllnz', 'sorah coilinz', 'syruy cuhlwnz', 'wurhi ciyilwj'}, {'seyor cyyilmk', 'ssree caillnz', 'ssraa coiolns', 'saruh coulans', 'sarww cuwlyns', 'azyuh qlowimx'}, {'seray cloians', 'sswhr chyilmg', 'sarao coilons', 'sruah cuhlyns', 'swyhy giyilms', 'sruhy cliwwns'}, {'sxore clohemg', 'qayha cwwwnic', 'swriw culwnus', 'srray cuolyns', 'swrih coalnis', 'sarai coulans'}, {'syirr clehamz', 'sarae colinss', 'curha cuwyniz', 'ssray cowlnse', 'sraei cahlwnz', 'srrao collniz'}, {'saroy cwwlans', 'sariw coiylns', 'sorah coliuns', 'srrue cwllnoz', 'srhei cahilmj', 'swyyy sloyniz'}, {'swrae cllincy', 'srroy coihlnz', 'srrih cllinzy', 'werhe xiyilng', 'saraa coliens', 'sohor clayamc'}, {'scwry cliwemx', 'syrey cwwlnsi', 'saruh callins', 'saryy cohwlns', 'jawhy qulynij', 'ssraw collnzo'}, {'swraa callnso', 'zurha kulyniw', 'saraa cuelins', 'srwou clohumq', 'syroy cllnois', 'syrih calowns'}, {'syroo culynos', 'swyya ocwlnci', 'sarry cllniis', 'srahy colensw', 'sarau calains', 'sryei cliwwmx'}, {'syeir chwilmx', 'curuw kelwnig', 'ssrau cllaens', 'srreo cwylnys', 'saroh coulens', 'saruy cohlnus'}, {'seray coellnz', 'sswhr chyilmx', 'juruw qulynig', 'serah collunz', 'ssrau colonsw', 'syrei culwnas'}, {'sarae coalinz', 'swreu cuwlonz', 'ssraw coailns', 'swrao cllenws', 'azrha qulynik', 'syhri cloyymc'}, {'ssruh colenys', 'asyha xulynic', 'serah caulins', 'srhua ciyolmq', 'sarrw cwlouns', 'seruw cllnoys'}, {'saraw collons', 'sarey cllynys', 'swrao collnez', 'swowr chyylmz', 'sroae calwnus', 'isriy hloyniz'}, {'awsru ocylnaz', 'ssyor cyiylmz', 'ssrwy cwylunz', 'saruw cowlnsy', 'ssraw colynsy', 'saruh coalens'}, {'sroai caylnis', 'sraoh cllunns', 'zayha xlowimx', 'sruah colynes', 'sqere clewhmx', 'saraa coalinz'}, {'saraw coelins', 'saory cwlyniz', 'swawr cluhamz', 'sariw cwlewns', 'sarww coliynz', 'ghrha kayilms'}, {'syrae culoyns', 'asruy ciyilwq', 'serah coluans', 'sahry cwwlynz', 'siowr clwoamx', 'swreh collnoz'}, {'ssruh cllaons', 'swray callnsa', 'swryw cwlonis', 'yaary hulynic', 'sorah callens', 'sryea cuyylmx'}, {'syrao colynsu', 'sraao cluohns', 'zyrha jlohwnz', 'surah colunns', 'szwri cloahmz', 'ssrih cllihnz'}, {'ssroh callnsy', 'sareh coulons', 'swrai cllenns', 'sewir clhoamz', 'suyuw sulynic', 'serey cohlnyz'}, {'sarae colians', 'ashaw clowwwx', 'syrau cohlnas', 'ssraw cloinsy', 'shurw cawulmz', 'sywra cliowns'}, {'sriah coialns', 'swrea callnzi', 'sarae cohlinz', 'ssraw cahlyns', 'swwha zeyilms', 'sjuri clohamx'}, {'swhru clwwwmx', 'sarey calwyns', 'surah coelins', 'saroy coleynz', 'sriau cliayns', 'jyrhi ylowwnx'}, {'sriay cliynis', 'sarih cullins', 'swray cowlnes', 'sxyry chhilmx', 'swraa cllynis', 'qhrha glohync'}, {'sreah cloions', 'szwre clhhemz', 'shhha xawlniz', 'sreuh cwllnez', 'surah collonz', 'srrai callnas'}, {'swrae cwllnws', 'saruh cohlens', 'xreyh ochlhmg', 'syruy cloynos', 'shwer cawilmx', 'siray coullnz'}, {'syuir cihhlmz', 'seray cllinwz', 'ssrwy cllnoiz', 'suyuw yiyilms', 'saroh coliinz', 'saryy clleinz'}, {'syrae cwwlinz', 'jreeh yiyilnj', 'swiur ciyilmc', 'soray cwllnso', 'serah colahns', 'swrui cuwlnsa'}, {'seyra cuyylns', 'saroh coelins', 'wwrha xlowimq', 'sarry cohlnsy', 'siray calowns', 'sxere chyelmz'}, {'syraw cwwllns', 'swray culinys', 'zhyra qloyynx', 'sarih coliins', 'swruo culynsi', 'syiyr clohomq'}, {'sarae callans', 'gyrha qhylniz', 'syrae caollnz', 'siwor clowhmx', 'ssrih couwlns', 'srihw clohwnz'}, {'sirah colinas', 'sqere cuyylmz', 'sroah coylynz', 'srahy cllinyz', 'ccyra zulyniz', 'sraaw coylnyz'}, {'gahha hiyilnj', 'sarry claihns', 'swrai cllunsy', 'sxery cihelmz', 'sarau coleuns', 'swrru cuwlniz'}, {'sareh coalinz', 'swray calinws', 'xhyra cloyahc', 'scuri cehalmz', 'srroe calwnys', 'sreah coylnsa'}, {'ssrao cloinsw', 'sryiy cwwalmj', 'srray cllewns', 'sraaa cuwlnzi', 'syhha qloynix', 'sarau coloens'}, {'syroh colwwnz', 'sorew cwlynus', 'sarao callinz', 'swrao cwllenz', 'aqyuh uclyniz', 'suhur cloymez'}, {'syraw cliihns', 'srhuu cloyumk', 'sorah coilinz', 'saary cahlnsi', 'sarey coilynz', 'asyeh kelwniq'}, {'srohy cwwwlns', 'sxhre cayilmc', 'wuirh klowynq', 'swray cullnsa', 'sarih colohns', 'ssrau cluiyns'}, {'sareh caliins', 'syery cawilmg', 'sarew caylinz', 'qraay qulynig', 'swroi cleywns', 'swroh cllenis'}, {'swrrw cllnoes', 'ssrih cllynsw', 'sarwy clloyns', 'sarae colanns', 'syyhr clowamx', 'jawhy gaylnig'}, {'syrao couylns', 'saruy callnsy', 'sirah coloens', 'srhea cwwylmj', 'sairy clyyyns', 'aysra cawwniz'}, {'swyra cwlwnos', 'soyer chyulmx', 'swray cullnes', 'surah ckelins', 'swrih cwwlens', 'corha qalwniw'}, {'sarai coloins', 'syrau clloans', 'srrai clleans', 'wahha cywhnic', 'sohir clowwmz', 'sraww cuylnys'}, {'sawrw clownws', 'kahha qlowimx', 'saraa colohns', 'syhor clohymx', 'ssrau claiyns', 'sarwy cuallns'}, {'sayrr clwwnis', 'wwrha jlowimx', 'syraa cllianz', 'saraw coleens', 'srywe clohamx', 'syray cuohlns'}, {'ashwh wloyniz', 'ssrew coyylnz', 'syrao coylnas', 'sarae collunz', 'score cawalmz', 'sarwy cuwluns'}, {'srruw clownos', 'saruh colawns', 'ssray callnsu', 'syero clohhmx', 'xhyra gaywnis', 'sraeh colynsu'}, {'isyuh wloyniz', 'saruy cuylyns', 'srwyi clawhmx', 'sarae coalons', 'sahyr caylnys', 'ssrae coylnes'}, {'sarau coolens', 'yahha qlowimx', 'syiir cloehmz', 'srrww callnzi', 'sreah cwlouns', 'swrau calinsw'}, {'suyra cuylnos', 'gerhe ocylnaz', 'sarai cohlons', 'suwir clowwmk', 'srrai colynos', 'ssrih culeyns'}, {'sywra cuwlnys', 'suhir cayilmj', 'saraa coluhns', 'ssreh cullnas', 'korha kelwnig', 'ssrai colnisw'}, {'sweor clywwmx', 'swreh cliihns', 'sriay cawlnos', 'swrai cuhlwns', 'jyaeh wuwlnic', 'saraa coolinz'}, {'asweh gwlynic', 'srwia cluhemq', 'sarih cooluns', 'syroh caylyns', 'srayw clawnis', 'sarry cohlnos'}, {'sraoa cowlnyz', 'hahha joyilmx', 'srrai cwllenz', 'sxair clohemz', 'saraa colouns', 'srahw clleons'}, {'ssrae cuohlns', 'sarih colawns', 'ssruu cwlonis', 'syurr clowhmc', 'awrha kowhniz', 'ssroh cowlenz'}, {'saruy cuilyns', 'srrai cuillns', 'syhor cyyolmz', 'ajyyh quyynis', 'serah coulons', 'syrui cwwlniz'}, {'saraw coluins', 'srrao cllaans', 'swroh cluiyns', 'sroae cwlynis', 'srhwy cloehmz', 'jryeh qloyanc'}, {'swhyr cloyemc', 'ssroe cllnisy', 'jhyra qwlhniz', 'soray culayns', 'sirah coloans', 'syroh cowlnys'}, {'saruw cllouns', 'saroy clleyns', 'cyrwa yoyilmx', 'sjuri clowamx', 'syrua cllnuis', 'surah coelens'}, {'shhhr clwhemq', 'srehy calynus', 'sarau callins', 'wuyih qloywhs', 'sraeh caolwns', 'ssruh culinys'}, {'hwyay yiyilnq', 'saryw cullnws', 'szwre cehilmx', 'ssrae coeilns', 'saroh colohns', 'ssrua cahlwnz'}, {'srrae cohlnos', 'sohor clohemg', 'serry cuhlnsi', 'aesra qulynix', 'sirah cahlins', 'suray coylnws'}, {'srruy calynys', 'sarai coleans', 'syraa coiylns', 'usrha qloyyhs', 'sraoh collnzw', 'swier cwyulmq'}, {'swyor cihelmz', 'ssray cllenws', 'srriu cwlynws', 'saraa coloens', 'shyya wlowimq', 'swrae cohlnsa'}, {'syuer clowemg', 'asrwa qloynic', 'sarao cohluns', 'sarry clluans', 'srruh cllahns', 'syriw cloaynz'}, {'serah coolinz', 'srraw colownz', 'graaw jlowwnx', 'srrow caolnws', 'srrao coowlns', 'shiwr cliyamc'}, {'swroh culinys', 'axriy qloyynk', 'sarao colions', 'ssrae clloyns', 'sgyry cwyilmx', 'syroe coiwlnz'}, {'sarau callans', 'ssruw cahlnus', 'qurhy kywlnic', 'swruh clluuns', 'syray clleyns', 'syeir clowamx'}, {'wuwih qulyniq', 'saroh cuhlins', 'srooh cliowns', 'sraoh cllwnis', 'ssroh cuylens', 'sriwa cluyumq'}, {'ssrae caleyns', 'soyor cloyymz', 'sarih cahlins', 'srrou calywnz', 'jawhe qalwnic', 'ssrih calinsw'}, {'sorie cuwlnys', 'xirhe giyilms', 'ssrao colynsy', 'saraa coluinz', 'sriah cuowlns', 'srwey cayilmj'}, {'sryoo cayhlmc', 'sarry cllunsw', 'siray cwllnws', 'wurhi yiyilnj', 'srreo cwlynsi', 'sirah ckolins'}, {'skori clowmux', 'ajwha ziyilms', 'sarau colenns', 'siruy culonsy', 'ssrau colensy', 'srauh claiwns'}, {'aswuh clowwhx', 'swreh cllnihs', 'syrao coilnys', 'srroi cloywns', 'sarih coelins', 'sgyry cwyhlmq'}, {'sariy colewnz', 'suray coylnsy', 'syrow cliwyns', 'graay qwlhniz', 'sryuy cluyumq', 'sarao coulinz'}, {'sraua coihlnz', 'saroh colians', 'swuer clywumx', 'sraeh cllonws', 'xurha gaylniw', 'ssrai clloyns'}, {'ssrao cuowlns', 'ssrew cloiynz', 'sarae coalins', 'syhor chyelmg', 'srahy cwllnys', 'guruw klowwys'}, {'akyuh clowyyq', 'saruh coaluns', 'ssruh cllynsy', 'swrrr cuhlnis', 'ssrao culeyns', 'sryow cawalmz'}, {'srueh cllnoys', 'siwer cayylmj', 'ssreh callnsy', 'sreah cllunys', 'serah culeins', 'curha wlohwnz'}, {'sariw cloiins', 'schry clowwmg', 'syrae cllanis', 'srieh cayylns', 'yawha qloywnx', 'sirah cullins'}, {'sareh coalons', 'sewor cloehmz', 'syrau cullnus', 'gyurh heyilms', 'sraew cullnci', 'srraa callnis'}, {'ssrih cwyllns', 'szyru clohemx', 'saruh colians', 'sraew culwnas', 'asriy glowynq', 'swray coleynz'}, {'scwrw cayilmx', 'ssrao caellns', 'jyaeh ciyilwq', 'srahw cllones', 'ssary culonsw', 'saruh collinz'}, {'swyir cyyylmz', 'sirah collunz', 'swrai cwllenz', 'sruai colwnoz', 'saryw cohlnos', 'sywha ceyilmw'}, {'sariy cllwnsw', 'sywha hiyilnk', 'siriw cuwlnsi', 'sarry cohlnsy', 'srhei cawilmj', 'saruh coalens'}, {'sewra cllnous', 'jwrha klohems', 'shyer clhwumq', 'sarry cllewns', 'sirah cuhlins', 'sayra cohllnz'}, {'awsre quyynis', 'syihr chwilmg', 'soray culuyns', 'saroh coleens', 'saryy coullnz', 'sraiu calynas'}, {'kayha kehwnis', 'ssruh cwluyns', 'srroh cllinwz', 'sarae cohlons', 'swaer cihulmz', 'sriao cllnohs'}, {'sarew coielns', 'swreh cuylwns', 'sxore cyyilmq', 'saroh cullinz', 'suryy cloynez', 'jayha ochlnuz'}, {'srrih colynys', 'srayy cuhlynz', 'sarww collnzi', 'swhhr cehulmz', 'jaary ylowwnx', 'saraw colunns'}, {'syrae calinsw', 'sqori cwywlmq', 'aisra wlowimx', 'sirew cuylonz', 'surah cohlons', 'soray colynus'}, {'syyhi qloywnk', 'srruh coylnsw', 'serah colawns', 'sroay caliwnz', 'sryuy cwwilmq', 'swraw cuullns'}, {'sjwrw cuyilmc', 'zerhe klowwms', 'sraoe cahlnis', 'srreh cwloens', 'sarao callons', 'sarow cuolnis'}, {'ssreh cloihns', 'asryi qloyniq', 'sarau colawns', 'syroh callynz', 'sriyu cihalmz', 'surie cwllnoz'}, {'saraw calluns', 'suriy cuhlnos', 'qahha wuwlnic', 'srhwo clowwmx', 'swraw cohlnes', 'swrih cuylons'}, {'soyur clohymx', 'syruh cllinnz', 'srroh callnsu', 'sirah callins', 'sroay cowlnaz', 'jhwha qloywws'}, {'srriw cluohns', 'sxury cloyhmc', 'syray cuwlinz', 'ssrao cllwwns', 'saroh collens', 'asuyh swwlnic'}, {'syrei cuwlnzi', 'shwer caiylmc', 'srauh cllinnz', 'qraaw hawlniz', 'sarao coilinz', 'sayra calyyns'}, {'sarww caallns', 'srhiw clohymc', 'serah colanns', 'jrieh keywnis', 'syraw cllonsw', 'ssrey clywnus'}, {'syray coeylns', 'sorah cualins', 'syorr clohhmx', 'ssryw calyniz', 'swruh cuylens', 'siyha kewwnis'}, {'sriaw cuylnas', 'sryoa cuyhlmz', 'swraw cllincy', 'xirwa ylohwnz', 'sarao cualins', 'syray colynsw'}, {'ssruh cowlnse', 'swria clewwns', 'sxaor ciyilmj', 'asryw qwyilms', 'ssraw coylenz', 'saraa callans'}, {'skyry ciwilmq', 'sarao caloins', 'swrae cllwwns', 'srraw colwnsy', 'srayw caolnus', 'sehha qulynik'}, {'soray coliwnz', 'sarai colinos', 'suyhr cayhlmk', 'sswra calynws', 'srreh cohlnsa', 'jewha qloyyny'}, {'sarrw callnis', 'sjaur cluwwmx', 'srreh cllones', 'sarih cohlans', 'syrio cluwnis', 'jawhe qloyyhs'}, {'sirah caulins', 'jayru gayilms', 'sariw coillnz', 'swrua coylniz', 'squry chyilmk', 'srauh cllinwz'}, {'syrua cahlniz', 'qwyay zeyilms', 'sryiy ceyilmx', 'ssray cliiwns', 'sareh calluns', 'srauh coeylns'}, {'asweh zulynic', 'szyre clowhmx', 'sarie coollnz', 'swraa cllniys', 'ssroe caihlns', 'surah cawlins'}, {'sarwy cwwllns', 'ssrih caylons', 'srhoy clowhmx', 'saraw callans', 'syrow clwwnis', 'goryw qiwilnz'}, {'sarow cwlayns', 'srruy cwlwnus', 'sarao coalins', 'sjyro cloawmz', 'sraeh caylyns', 'aswuh hwlynic'}, {'sraih cllawns', 'swwer cayylmc', 'saruy clluinz', 'cyhra qalwnig', 'sorah colouns', 'siruy calywnz'}, {'serey clwynis', 'swrih colynws', 'xiwha ceyilmw', 'syiur chyilmj', 'sirah colains', 'saruw cowlnis'}, {'usrha ywyilms', 'syrae cwllnso', 'ssroh cuylans', 'serah colawns', 'swiro cihylmz', 'sraow claynis'}, {'jowha hywlnic', 'saywr cawylns', 'shwrw chyulmg', 'sarae colanns', 'swrau coeilns', 'srahy colwnos'}, {'surah colauns', 'sreai cuhlynz', 'ssraw cwylinz', 'srwuw cuhilmz', 'swyha goyilmx', 'swrae clluuns'}, {'sarau ckelins', 'ssroh cowlnas', 'shwha ciyilwj', 'srawy cluwnis', 'srrau cowlnes', 'swuri cloyomq'}, {'sariy cwllenz', 'surah colluns', 'sewor clyhamz', 'qruha clohwhz', 'syreu caylnsi', 'syrai clluans'}, {'sarai cahlins', 'gyurh kewwnis', 'suray cwyluns', 'srrau cowlnis', 'srauy clownsu', 'sxyry clyyamc'}, {'swraw cwllnws', 'korha qlowwnx', 'sryei cloyumq', 'sreah cllniys', 'ssrey caylunz', 'sirah cullens'}, {'sarao cooluns', 'swrau cuilyns', 'sjwru cluwamx', 'suryw cllnoas', 'syrih clloinz', 'ashwh sywlnic'}, {'swwra cllnoiz', 'syrae cowlnsy', 'srrai cohlnas', 'sywor chywlmx', 'sorah coalinz', 'jahyw kwlynic'}, {'ashaw ciyilyg', 'sarrw colwnsu', 'sarao colains', 'srroi cllnosi', 'sxere clowhmj', 'swrai cwylons'}, {'syryw cuhlnes', 'wuwih hwwlnic', 'saryy caellns', 'srroh cwlohns', 'shory clohumx', 'saraw ckalins'}, {'syroh cllynns', 'skere cuiylmx', 'wyrha gloyanc', 'syrae culuyns', 'saroh caulins', 'ssruo cuiwlns'}, {'hraaw qlowwnx', 'syrai collnzu', 'swwur cuiylmz', 'srrau cwllnws', 'sorah coliins', 'seriw cowlnez'}, {'sroah cohlnws', 'yhyra ciyilwq', 'ssrea clownas', 'szury clowemg', 'ssroh culinsy', 'serah colinos'}, {'saruh cooluns', 'syria cullnyz', 'syore cloyumk', 'syrih cohlnsy', 'swyuy clowyyq', 'sarie cohlnys'}, {'srroh cwllnas', 'yayha yloyniz', 'srowe cwwelmj', 'srrua cwlones', 'sorah calluns', 'saree cllansy'}, {'ssrai cloions', 'ssary cwloanz', 'syair cloyumz', 'saraa coaluns', 'qruha ciyilyj', 'ssreh cwwlens'}, {'srrau cowlynz', 'swhre cuyylmx', 'awrha khwlniz', 'srroh cwllonz', 'syrew cllnoos', 'sareh colauns'}, {'yraay gaylniy', 'swriu culwynz', 'srroh collnce', 'sareh caelins', 'suray cwllnes', 'srwwo cloawmq'}, {'ssrih cuylans', 'sarai cullens', 'sjyru clhwamx', 'ssrau collnce', 'syrua cwlwwnz', 'shwha wlohwnz'}, {'saroh cohlens', 'swrao callnsa', 'swhha qulyniq', 'srhuu cwyelmg', 'syrih coylenz', 'swruu cwlihnz'}, {'srrau cowlonz', 'syreh cwwluns', 'sjwrw cyywlmz', 'syruy cwluynz', 'qwrha wwwlnic', 'sarae colions'}, {'sarey colnois', 'ssruh callnus', 'swroa clouwns', 'srhuy cayalmc', 'sorah colawns', 'yyrha yawlniz'}, {'sroah caallns', 'swior cyuilmz', 'saraa coulans', 'ashaw klowimx', 'swrau cllincy', 'soriw cuylynz'}, {'ssrau cowlnus', 'syhri cayylmj', 'esyuh qeyilms', 'swrey caylnos', 'sarau colinns', 'saryy cllunns'}, {'syorr ciyilmq', 'surah coloins', 'saury cawlynz', 'saruw cwylens', 'qirha xuwlnic', 'syrae cllenis'}, {'sariy caoilns', 'xreyh ocylnaz', 'ssrie cliyyns', 'sryyo cwyalmg', 'soray caillns', 'sarae colinss'}, {'scuri chyylmg', 'suyha cwyhniz', 'suree cwlnuis', 'syrao callnws', 'sarau coalans', 'swroh culwwns'}, {'ssrea cohlnwz', 'sraih caluwns', 'sruwa clwwwmx', 'sroah colenws', 'saraw calluns', 'axriy swwlnic'}, {'srauy calwnsi', 'syrai caylens', 'siwur clowymq', 'yhrha jiyilnj', 'sarao caliins', 'ssray cwllnus'}, {'soray cllwyns', 'sarey colwnsy', 'srieh coylnyz', 'sarau calains', 'syhrr caywlmc', 'qurya kwwlnic'}, {'sariw colinwz', 'awjra klowwnk', 'srroy cwllnyz', 'shyre cayelmk', 'swroh cohlnis', 'sareh colohns'}, {'syrao cohlnso', 'surah collanz', 'swreh cuullns', 'sewir clowmax', 'wwyay jlowimq', 'ssrou cllonez'}, {'sarwy cleiyns', 'swrae clliwnz', 'swrey coylnoz', 'axriy jlohwnz', 'sarih cuelins', 'srowa cliwumx'}, {'saury cuiwlns', 'syruh cloinsy', 'sarau colaans', 'srhyw clowwmx', 'seray collnze', 'qaary qloynix'}, {'saryy colansw', 'saroh coulins', 'usyuh xlowwnx', 'swraa cwlewns', 'shyer cehelmz', 'syrew cwlwnos'}, {'sirah coluins', 'swoer caywlmk', 'hayru yiyilnq', 'swroh caleyns', 'seray cwloyns', 'syrei clonais'}, {'srehw clownsy', 'sorah cahlins', 'swrao coohlns', 'seyur cwyilmq', 'yayha wulynic', 'swraw cwlwwns'}, {'srruh cullnsu', 'serah colaens', 'ssryy cwwylns', 'swrai culowns', 'swhha qywlnic', 'ssyor clohmaz'}, {'sriah cowlunz', 'aesra weyilms', 'shwru clohymj', 'sroaw cuhlnos', 'sareh caluins', 'ssrae cowlynz'}, {'sarie coylnus', 'srhyi cwyolmq', 'wraay zwyilms', 'saroy cwllnsw', 'serah coulens', 'sraww culonsw'}, {'sxiry cahilmc', 'sarih callinz', 'sirey cuwlnas', 'swyoy slohwnz', 'swrao cllayns', 'syrau calinys'}, {'swayy zywlnic', 'sraey cwylnys', 'sarao cohlens', 'sjeri ceyylmx', 'srrau cwlawns', 'srauh cwlyyns'}, {'swrih cllywns', 'jayha cwhynic', 'swhre cwwylmj', 'srruh colwnsw', 'saroh coalinz', 'swriy clloniz'}, {'sriah cllincy', 'sarai coloens', 'suwra cuhylns', 'suhha julyniz', 'swhor cwywlmg', 'ssraw cullnsi'}, {'sarie coiylns', 'sxhre clowhmz', 'syreh colwnws', 'suree claayns', 'awsha qlolnoz', 'sarao coulinz'}, {'saory cloohns', 'sareh coelinz', 'sarww coelnis', 'gwrha ocwlnac', 'sariw colywnz', 'sshre clywumx'}, {'syrae collnza', 'sworu clouymq', 'asrow hulyniz', 'sorww cuilynz', 'sareh colians', 'sroah colynse'}, {'srioh cwylnes', 'gyrha qhhlniz', 'srywe chyilmq', 'syreh cuhllns', 'srahw cwloans', 'sarae caluins'}, {'ssrau colwnsy', 'qyurh qalwnik', 'syrau cllonis', 'serow cuwlnsw', 'szhru ceyylmx', 'saruh coulans'}, {'sarih cooluns', 'saryy coylanz', 'shyri cehilmc', 'ausra ciyilyg', 'sroah collnyz', 'soary cluhnis'}, {'srrau caoilns', 'sarau calluns', 'sraih culeyns', 'ahyuh joyilmg', 'syruy cwlyniz', 'szwri clohhmq'}, {'sarae coalinz', 'sawwr cahlnas', 'ssraw calinws', 'sewhe zayilms', 'ssrih colonws', 'shwrw cwwilmg'}, {'sayra coilwnz', 'saraw colians', 'srraa cllohns', 'shayw glowimx', 'syure cliwwmx', 'syruo caylanz'}, {'saraw collonz', 'sraeh claiwns', 'sraih coylnse', 'sryyu clwoamq', 'ixrha sayilms', 'sruhy caahlns'}, {'usrha xoyilmx', 'sirah calluns', 'serie cawlnws', 'syrae coiwlns', 'swhhr clowhmk', 'syray calowns'}, {'cyrwa kelwnig', 'sraoh colwnas', 'saruh ckalins', 'sraue calynsi', 'swraw colinzy', 'swoer ceiylmx'}, {'sorah callons', 'scero clihamz', 'syrae coahlns', 'sauwr cwlohnz', 'ssraw cwllunz', 'yerhe ochlnoz'}, {'sreah caliwns', 'syirw cluhemz', 'saraa culiins', 'asyhh kelwnig', 'ssroh caowlns', 'srroa cohlnwz'}, {'shhre clohmaz', 'cwyay xiyilng', 'sorah colahns', 'siray cohlnsy', 'soray clleinz', 'sorie clouhns'}, {'sariy cullnsu', 'syray caloyns', 'scwru chyelmz', 'sarao ckulins', 'syrru cuylnus', 'asheh klowwnw'}, {'jawya klowwnc', 'sraeh colunsy', 'saerw cuwlonz', 'sareh cualins', 'ssrau cwlwwns', 'syori clhoemz'}, {'srrao cuilyns', 'saruh coaluns', 'sohir clowhmx', 'saroy cohlnsa', 'swayy slowimq', 'syrri cwlohnz'}, {'syraw cllayns', 'surow callnez', 'cwyra hlowynq', 'srywi clouwmq', 'sarai coalons', 'srahw caylinz'}, {'syraw cllynis', 'asrhy swlynic', 'srhyi cayolmj', 'saraw coiluns', 'sriah cloiwns', 'srreu cliynis'}, {'sarew colaynz', 'kuruw qulynih', 'sarae cualins', 'srrai colwynz', 'seryw cahylns', 'syirw cwyylmg'}, {'sarao cooluns', 'sqhrw clawhmx', 'jyrha ocwlnhc', 'sayry clouyns', 'sarow culwwns', 'swrae callnsw'}, {'ayriy qalwnig', 'srruh cleihns', 'serah callans', 'syroh clluhns', 'scaor cyyylmz', 'siree cohlnaz'}, {'swhyw jawlniz', 'seher cluhamz', 'sraao cahlniz', 'ssrih cllonsy', 'surah coleens', 'syroh collnaz'}, {'srroh caellns', 'sriah cullnus', 'swrri cahlnas', 'serah collans', 'sxori caiylmc', 'gyurh jiyilng'}, {'sarau coilins', 'srihw cwylnsi', 'szyre ciyalmq', 'saree claihns', 'asria ywwlnic', 'sarow cwwlinz'}, {'sarie clloans', 'srruy cuwlnsi', 'sxhrw cwyilmj', 'gaarw soyilmg', 'srrao cwleyns', 'sarao culuins'}, {'syrei cahlynz', 'sywir cuyilmq', 'sarih collens', 'ssreh culinws', 'girha xwyilms', 'ssrau colenys'}, {'sirah coolinz', 'ssryy cuwlnci', 'wirha kayilms', 'sruah claihns', 'syrai culywns', 'srowe clohumq'}, {'awzra qlowwnx', 'saroy cwlouns', 'ssrua cwwlnci', 'sarry cleihns', 'sareh colaens', 'srwwi clowumg'}, {'syray cullynz', 'srhuy cloyamz', 'saraw collinz', 'wwyay gylwniz', 'swrae cohlnys', 'siruw clohnus'}, {'hhyra gwlynic', 'sqery cwyilmq', 'siray colneis', 'swrry coywlnz', 'syrao cullnws', 'sareh callins'}, {'wahha ziyilnj', 'squri cliwumq', 'suwra colwniz', 'sroah clluans', 'sarry cwlawns', 'saraa ckilins'}, {'qyrha qloyyhs', 'ssrih clliynz', 'sraui cllnais', 'swrae cullnsw', 'sarau colians', 'sroyu cluwhmx'}, {'cirha juwlnic', 'sorah colanns', 'sarrw colwnsi', 'syreh collnze', 'soree cwylnws', 'syury chiylmx'}, {'swrui colwnzi', 'ssyir clohymc', 'awjra yeyilms', 'sarrw colynsw', 'saraa callons', 'swrai culinsw'}, {'syhru cawilmj', 'sarai cuhlins', 'swray colynsu', 'aswoh ciyilmy', 'sariw culwwns', 'srryw clohnas'}, {'srahw cllunsw', 'cahha klowwws', 'sriai colynez', 'ssreh cuolnis', 'sareh coleins', 'siwor clowmuq'}, {'syruh coylnis', 'sroah cwylons', 'syruu cuwlnso', 'shher cwwilmg', 'saruh coluons', 'gayru qloywnh'}, {'sruah claiyns', 'jyaeh qwyilms', 'swroh colwwnz', 'saiwr cwlynus', 'shwhr cayilmq', 'sirah cullins'}, {'syrih cwllnsa', 'sarai coliuns', 'saryw calyyns', 'sirww cowlniz', 'qurha ocwlnzi', 'swowr cihylmz'}, {'swrae couwlns', 'srwea clowwmg', 'gyryw yiyilnk', 'sroah cwlouns', 'saruh collans', 'swrrr calynys'}, {'sehyw jiyilng', 'sarau cuilins', 'srrae clleens', 'swhry ciyylmz', 'srrai cllehns', 'serey cuwlnse'}, {'sqeri clhwhmx', 'sarae coluhns', 'srauh coaylns', 'ashyw qalwnic', 'ssraa collnze', 'swrra caylnys'}, {'syria clownuz', 'saroh ckelins', 'khrha ocwlnci', 'sryii clhwemx', 'sarww cllewns', 'ssrau calinsy'}, {'syreo calwynz', 'szyru cloywmx', 'ssruh cllwnsy', 'saraa coalons', 'srauh cowlnsw', 'xirhw yeyilms'}, {'sohir cawilmz', 'sraih cullnis', 'surrw culynws', 'ajrha khlwniz', 'sriah cllnios', 'sarae cawlins'}, {'sarae callins', 'sraee cloawns', 'srrao cwlinsw', 'sraih collnzw', 'awjra xawlniz', 'swwor clhwamx'}, {'khyra cloyayc', 'sjure clowymq', 'syreh cllonsy', 'syrau cwllanz', 'syryw cluwwns', 'sarai collinz'}, {'srieh cwlonis', 'sewir clehemq', 'hraaw clowyhq', 'soray cailwns', 'syrau cllowns', 'serah colonns'}, {'xerhe jlowimq', 'saruw cllinnz', 'suriy clouyns', 'srrau cllonws', 'sarih collenz', 'sewor cuyilmj'}, {'sxwry ceyalmx', 'osyuh clohwhz', 'syrai callnes', 'sroah cllahns', 'saraw collunz', 'seree clloynz'}, {'srauh cllenys', 'syreh cwllunz', 'sarih caliins', 'srruw cwylwnz', 'shhwr clhhamz', 'shhha qwlhniz'}, {'asroy qhlwniz', 'surwy clloanz', 'srrae cohlnos', 'ssrau cleiwns', 'surah couluns', 'srowo clohamg'}, {'syerr clowmux', 'saraa colinss', 'sarww coylnsi', 'qyrha kiyilnq', 'syreh cowlenz', 'suroy cuwlnos'}, {'ssrue clloenz', 'asrwa hloyanc', 'sshru cayelmc', 'srreh cllynsy', 'serah coluuns', 'swreh collniz'}, {'aisra kihynis', 'scere ciyhlmz', 'surah callinz', 'srrae coylnes', 'saree cullnsa', 'srriu cohlnzi'}, {'siruw cllaynz', 'swrae cuhlwns', 'syraa cuullns', 'swiry cuyhlmq', 'sarau coluins', 'asway xwwlnic'}, {'sarai caliins', 'sarww colynse', 'sirow cllnows', 'ahyuh qalwnij', 'syerr cloaymc', 'ssrae caylinz'}, {'srhuo caywlmc', 'srraa calywns', 'sarau cullons', 'srruh caallns', 'yerha qloyniw', 'sauyr culwnwz'}, {'sreuh clllniz', 'sarae coilons', 'xihha qloywnq', 'syrao claiwns', 'srruh colwnsw', 'scwri cliwhmx'}, {'swreh cowlnsi', 'swraa cwlehns', 'sriih cawlniz', 'sjure clowwmx', 'hayru hloyniz', 'sirah cawlins'}, {'skyro clohmaz', 'ssrao colwnso', 'wraaw qulynik', 'syroh collnza', 'srruo cllounz', 'saruh coloins'}, {'ssray cllawns', 'ssroi cawlnis', 'ahriy wlohwnz', 'sywhr cloywmx', 'seray callnsi', 'saraa coloans'}, {'sraih collnci', 'sirah cohlons', 'suyuw siyilnk', 'syiwr cayalmj', 'syrea cuhlwnz', 'syrao couwlns'}, {'sworw clhwumx', 'saree colynis', 'aswuh cuyyniz', 'saruh ckelins', 'srroe clloniz', 'sraih coaylns'}, {'szwry cayylmj', 'sarae coluens', 'sraeh cloiens', 'swroy cawlnys', 'jrweh weyilms', 'srrau cohlnos'}, {'syrre cwylenz', 'sareh coolins', 'sryow clhyumq', 'sariy cllynis', 'kerha klolnaz', 'swreh cwlihns'}, {'jyrha cwywniz', 'swour chyhlmg', 'srrao cohlnos', 'saraa coeluns', 'sariw cliiwns', 'sruae cliwnsi'}, {'sxaor cuyulmz', 'syreh cllensy', 'srraa cllonos', 'gwyay clowwyx', 'surah coaluns', 'sraee clowniz'}, {'kahyw ochlamz', 'suray cllonys', 'sehur clhwumx', 'srraa coeylns', 'sirey cliwwns', 'surah colinus'}, {'srawy clohniz', 'siray cwylans', 'sariw callnis', 'syair cehilmz', 'serah coulins', 'jawha qloynic'}, {'soruy cailnis', 'swrae cllniws', 'cwrha jlowimq', 'sarau caloins', 'swuer clowumq', 'swraw cullnas'}, {'aswih cwwwnic', 'syruw cahlnos', 'suray caliwns', 'sxory clayamc', 'sayra cllianz', 'sareh colainz'}, {'ssrao cloains', 'ssrih coleynz', 'ssruo calyynz', 'sorah culains', 'schru clowmex', 'ajwyh quhynis'}, {'srhie cuhilmq', 'srrae cuylyns', 'saruy caellns', 'asyuw wlowimx', 'syroo cowlnci', 'sarai colions'}, {'sariw cwllnsu', 'sarih cohlens', 'ssrih coewlns', 'asriy glohynj', 'shhwr clawemx', 'saorw cwlonis'}, {'saryw cullynz', 'kraaw gwlynic', 'szyro cwwilmq', 'ssrao coeylns', 'ssrii cuwlnos', 'saraw culuins'}, {'srray cllnius', 'srhww chyulmz', 'sarih coleuns', 'siroy caolnas', 'ayyuh hwylniz', 'srrao collnzo'}, {'ssray collnza', 'scwru chiylmz', 'jrueh wiyilms', 'ssrai cowlonz', 'syria cwlynos', 'saruh culluns'}, {'ssraw cllniis', 'sarae cullens', 'srwow cwwilmj', 'zhyra jwlynic', 'saruw cloihns', 'srihw cwllnwz'}, {'swruy cwwlnys', 'saruh colihns', 'sohyw kohwniz', 'syirw ceyulmx', 'syray cowlnse', 'sraeh cohlnso'}, {'saree colinzw', 'srroh collnce', 'ssrio cloawns', 'sarau collans', 'sweer cuyalmx', 'jraaw kuwynis'}, {'seary calyniz', 'sareh colanns', 'syreh cohylns', 'syrae cllawns', 'sweer cyyilmq', 'ashiy qywlnic'}, {'swrew culywnz', 'sareh cuelins', 'ewsra khwlniz', 'syraa culywns', 'scory clohamj', 'sarey cwlihns'}, {'scoru chyhlmx', 'ssrae colewnz', 'seree calwnos', 'sarih coelinz', 'jroeh cuyynic', 'sreah cllinwz'}, {'sraoy cuhlnys', 'saraa cohlens', 'jraay slowwnx', 'shhru cehalmz', 'saryw coylnsy', 'srraw cllonsi'}, {'qruha ocwlnyc', 'serah coluens', 'sreah cllionz', 'syrau cllonos', 'sxorw cehhlmz', 'sraou cwlwnos'}, {'sauwr colwnyz', 'srahw cuylyns', 'sihur clwyumq', 'gwryw qloyynx', 'sarih coelinz', 'sarow cohlnus'}, {'scuru cwyylmg', 'asyiy zayilms', 'srroh culewns', 'saraa ckulins', 'swrow cwlwnys', 'saryy cllaens'}, {'shhro cayolmj', 'srray colunsy', 'syrww clloniz', 'sarwy coywlns', 'sarau callens', 'qurya cloyawc'}, {'sarau coelons', 'sraoh clluons', 'srrew cwllnez', 'sryea ciiylmz', 'qhyra qlolnoz', 'syruh cwllnsi'}, {'ssree caylnas', 'sraih cullnas', 'sweor chyalmz', 'syrae cwyllns', 'sareh collenz', 'zhyra ceyilmy'}, {'xirhu slowwnx', 'sarae cohlins', 'ssroh cullnsu', 'swrrr cluwwns', 'sarry couylns', 'szwrw ceyylmx'}, {'jawhu qloyniw', 'sirah colluns', 'sjuri cayilmz', 'swrao colonsw', 'swrau cowlnus', 'syrua cwwwlns'}, {'ssrai cleihns', 'sorah coalons', 'sawrw calynes', 'syray collnce', 'hayha kulynic', 'sruya cwyilmc'}, {'sarih cooluns', 'syrih cllensy', 'sswer cyyylmz', 'surew clownus', 'swruh caellns', 'aisra glohyhs'}, {'sroay coylnyz', 'asrhu giylnig', 'sarai colohns', 'saruw colynws', 'sjori chyilmk', 'srroh coylanz'}, {'srruo clawnus', 'saroh couluns', 'sruwe cawwlmz', 'xiyha hoyilmg', 'sriah coyylns', 'ssruh cwyllns'}, {'wuhih wwwlnic', 'srrau coiylns', 'swuru cyyilmz', 'saruh coleuns', 'sariy cowlwnz', 'serow cuywlnz'}, {'ssrih cuwlens', 'saroh cullens', 'swruu cuwlnsy', 'wruih qoyhniz', 'syory cluwumq', 'sarie cuellns'}, {'swray coylnws', 'saraa colanns', 'srreh cllincy', 'swure cuyalmq', 'sreae colwnzi', 'aswaw hwyilms'}, {'syrre caylanz', 'syroh clloens', 'xrewh wwlynic', 'sjwru cloyhmc', 'sarrw callnse', 'saraa ckelins'}, {'asyha ylowynq', 'swruh colynsa', 'suruy caylnes', 'sorah coulens', 'sraih colaynz', 'swerw cloaymc'}, {'shyre cuyylmz', 'ssraw cuoylns', 'qurhy qiwilnz', 'saruy clloyns', 'sriau cllnous', 'sirah cohlans'}, {'sraeh claoins', 'swhru cwiylmq', 'jyrha zloyniz', 'sarih coalens', 'srahy cllonns', 'ssrww cwlynez'}, {'srroe calynsi', 'sewha kawilnz', 'sarww coillnz', 'swyhr clehemz', 'sraoh cwloyns', 'sirah coolins'}, {'saraa cahlins', 'srray caoilns', 'sarow calwyns', 'sroao clwwwns', 'srwwu chhilmx', 'zhrha kloyanc'}, {'sywhr cayulmk', 'serah coluens', 'ssreh coolnis', 'serew cwlnois', 'sihyw klowwnk', 'ssroh coielns'}, {'srrih cuohlns', 'srueh cliwyns', 'iwsra giylnig', 'syaer clowymz', 'sayra colenys', 'sirah cohlans'}, {'swwha qloyynw', 'sarai collens', 'ssroa calwynz', 'syuri cloymac', 'sraeh cllaans', 'ssruh colwynz'}, {'qerhe wlowwnx', 'sariw cllyyns', 'sayra calwyns', 'sirah coilans', 'srrey cloayns', 'szwru cwhilmj'}, {'ssrue clwwnus', 'soyur chyelmz', 'sariw cwloons', 'ssraa colanws', 'sarai colawns', 'asyih qloyynj'}, {'ghrha xloyniz', 'saury cloihnz', 'sarow cwllnys', 'srewa clywwmx', 'soray caloyns', 'sarae colinns'}, {'sayra cwllnos', 'saree cllowns', 'sarau colunns', 'siree cwlynus', 'scoro clohwmz', 'gyrha gloyanc'}, {'siray coilwnz', 'sriih culwnas', 'srhwy cayylmk', 'sarao coluons', 'qerhe juwlnic', 'ssraa cleiwns'}, {'sraoe cuylwnz', 'swrae collnzu', 'saruh coalins', 'sohir cihilmk', 'srahw cllionz', 'khrha yeyilms'}, {'scori cayhlmk', 'srrau cllinyz', 'suray colwnos', 'herhe kihlnix', 'sarai coleinz', 'sayro cuwlnsu'}, {'sirah caelins', 'swraa cwlians', 'srowe cwiwlmj', 'sihha qloywnq', 'ssruh cohlynz', 'syrow cowylnz'}, {'saraw colaans', 'sarew callnso', 'sryoi clahamz', 'saruw cwllwnz', 'wahyw qloywnc', 'sayyr cwylunz'}, {'sraai cliayns', 'srrai cllonys', 'sreah colinzw', 'sirah ckolins', 'zurha glohynj', 'sruwu clohmez'}, {'srwey clohymj', 'srioh cllownz', 'sirah colainz', 'sruah cloiyns', 'caarw qloywms', 'sraeh cullnys'}, {'syaor caholmz', 'zerha jloyanc', 'sauyr cluohns', 'ssrae coilnsw', 'syrao cllincy', 'sareh coloans'}, {'sareh coelins', 'scyro cyyilmg', 'syhhi jywlnic', 'srruu clohnis', 'swrae colwnws', 'swrau coylnsu'}, {'awrha qulyniy', 'syrih colyynz', 'syyir clohemk', 'ssyra cwwlnws', 'syrae cullnse', 'sarae coloinz'}, {'xhrha hloyniz', 'surah calluns', 'srrau cwllnes', 'sryue chyhlmz', 'sruah cuyllns', 'sirey cwylnsi'}, {'srryw cluhnis', 'syrai cllaans', 'guryw siyilms', 'serah cahlins', 'swruh culewns', 'sworu cloyamx'}, {'ssrao colinzw', 'ssrih cllunws', 'sarae colouns', 'soarw cuwlunz', 'quruw klowwng', 'syyur cahalmz'}, {'siray cayllns', 'swour cywilmj', 'swrio cuwlnus', 'haarw xawlniz', 'saraw coelans', 'swrih coylnsy'}, {'zyrha hlowwnx', 'sarwy cowlenz', 'srrey cuwlnsu', 'swory cyyolmz', 'swrae collnoz', 'sirah coolins'}, {'srruh cllonws', 'soriy clehynz', 'syhrw cloyumk', 'xerhe klohems', 'syraw cohlnsa', 'sarai coaluns'}, {'cyrha kywlnic', 'srraw coolnis', 'swrau cwliwns', 'sruyu cayilmz', 'swrio cwlynes', 'sarae coaluns'}, {'sceru clhwamq', 'srruh coielns', 'srrai couwlns', 'sarau calains', 'yraaw klowwnk', 'siruw cwwlnas'}, {'shwwr cluhamz', 'sirah coliuns', 'syraa clliwnz', 'sarrw cwllunz', 'soroy calwnus', 'gawha kulynik'}, {'sarau cohlens', 'asrhe gaylniy', 'saruy collnyz', 'suray culywns', 'swryw cwllnuz', 'szyru cloyumc'}, {'sarai coolens', 'wuirh qloyyhs', 'ssria cloynis', 'srywa clawwmx', 'srrau caliyns', 'syrai cwloens'}, {'kaarw yayilms', 'srreu caliwnz', 'swruh cllynsy', 'scyri cloyemc', 'sirah colinis', 'sariy cllonis'}, {'swrao callynz', 'saroh coolons', 'sjuru clawwmx', 'ashoh jiyilnq', 'syria callnez', 'swroh colonys'}, {'ssrai clloons', 'saraa collonz', 'swure cwwolmj', 'syree clowniz', 'swyoy cwyilmy', 'saree coialns'}, {'sarrw cwllnis', 'sarau coolins', 'syrae colynos', 'sioyr cuyelmq', 'srauu calynys', 'jraaw yulynic'}, {'saroy cohlnws', 'syiru cloyumx', 'ssrau cwllnas', 'sarau culoins', 'yraaw zulyniz', 'sorry cuwlnys'}, {'kriaa jwlynic', 'srruu cllnuis', 'srwou cyailmj', 'ssroh coylnys', 'sarae colonns', 'sreah culiyns'}, {'srray clleuns', 'swrai cuwlens', 'sruhy cllnous', 'szhri cloyhmc', 'sarih calluns', 'asyyh kulilmz'}, {'aswuh jlowimq', 'sayre cwwlynz', 'schru clohumx', 'sirah colehns', 'sraoh collnza', 'suray cllynns'}, {'syraw coilwnz', 'srwey cahilmk', 'awsru kelwniw', 'ssraa cuullns', 'sowra cloynys', 'sirah caalins'}, {'syrau colwnas', 'syyhr cawulmz', 'asyhu ciyilhj', 'sraia caylnsi', 'ssrai cwlinns', 'saraa coliins'}, {'shwrw cwailmz', 'sareh ckolins', 'swraa cllonsi', 'ssary calwnas', 'srrai culinys', 'aswha cwwhnic'}, {'sraaa colnaiz', 'srrih cuwlyns', 'sryoi cluwwmx', 'sihyw kwwlnic', 'saroy cllewns', 'saraw coluinz'}, {'qurhe qloyyng', 'sorew cwlwnes', 'saraa cohlins', 'ssray colwnsw', 'sxaer cuyilmj', 'srrau caliyns'}, {'sraih cllunns', 'srraa colwnse', 'syrre clloniz', 'yyurh qalwnig', 'sjwrw chhilmz', 'saraa coloens'}, {'ewsra gywlnic', 'sriih cwylnes', 'sarww cuylyns', 'ssrao coohlns', 'saraa coalans', 'shyrw cloyymc'}, {'jahha hwlynic', 'scyro clywhmx', 'sariw colynws', 'syroh caluwns', 'sorry cloahns', 'sarao coloens'}, {'ssroh claihns', 'szhro caholmz', 'sareh coalans', 'sroah cwllenz', 'swyoy goyilmx', 'syrww callnwz'}, {'srrau colwnsy', 'saroh ckilins', 'shiry cwyulmg', 'sreae cloaynz', 'awgra qloyyys', 'swreh coylnis'}, {'sarry coolnis', 'sraay cullnaz', 'aswiy qloyyny', 'serah coliins', 'syraa cawlwns', 'sxwrw chyilmx'}, {'sryia cwywlmg', 'sorow cloahns', 'sirah coluuns', 'sariw cwluwns', 'cwyay qlowimq', 'syray clloans'}, {'asria ocyilmg', 'swree cuylonz', 'srauh cuolnis', 'swroh coliynz', 'srhii cloywmx', 'sarao coleuns'}, {'sarow cwliwns', 'azyuh zoyilmg', 'sriao cuwlonz', 'sarau coalinz', 'swere clowwmk', 'syraw cwlowns'}, {'srahy cllwnsw', 'sriyo cawilmk', 'soryw culwnws', 'saruh colihns', 'saryy claihns', 'qruha cayilmy'}, {'srrih cwlwwns', 'sirah coelons', 'awsro qywilnz', 'searw cwlwnos', 'swrao colynos', 'syeri cayhlmj'}, {'sruah cwluhns', 'srhya chyelmx', 'aswih kiyilnk', 'ssrae callynz', 'sarau colinus', 'syrru cowlnez'}, {'sriai callnzi', 'saroh collanz', 'swruh clleans', 'ashoh xwyilms', 'srraa cllanis', 'shhru cliwwmx'}, {'swrih cahlyns', 'cwrha wloyniz', 'srrea clwwnis', 'sarey colnais', 'syaur cloyamj', 'sareh colians'}, {'xirho glohyms', 'serey cwlwnsi', 'sarai coulons', 'shwre cihilmx', 'saroy coylynz', 'ssrao colnisy'}, {'swrei cahlnws', 'sjere cuyilmj', 'ssreh collnez', 'saraa ckilins', 'saryy colwnsu', 'kerhe qloynij'}, {'sariy cohylns', 'sarao callins', 'zahyw qlowimq', 'seray cwlahns', 'srwwo cuyulmq', 'syrry culwnis'}, {'saroh cohlans', 'swreo culwnws', 'syorw cwyalmg', 'awsri qloyanc', 'srraw cwllnas', 'srrao culywns'}, {'sxaer cehilmg', 'aswwh klowwnw', 'saraw ckelins', 'srruh cluiwns', 'sraiu cliwnis', 'sarrw cllunys'}, {'sarai colians', 'saruy cullnus', 'xriha xiyilnq', 'sriah cullnsi', 'srhie clyhemq', 'seryy cuiylns'}, {'syerr ciyilmx', 'sahry cliynis', 'sroah cllwnsw', 'syray clluhns', 'surah coalens', 'aswaw kelwniy'}, {'swurw cyailmj', 'swruh cwlinsy', 'sauwr calwniz', 'sarai caalins', 'swyey klohanh', 'sarwy cwliens'}, {'swrai cllwnis', 'sryow clayumq', 'siroy cuhlnus', 'sirah coulinz', 'saruw cloiyns', 'asrua kiyilng'}, {'shhru clouymq', 'sraoh claihns', 'ssria cllnoes', 'zahyw clohwhz', 'swrao cllanis', 'saraw caliins'}, {'syree clawnis', 'sarai coloens', 'sruah caoilns', 'saryw coeylns', 'sxhre clawamx', 'whyra xlowwnx'}, {'ssrau clloinz', 'sruah cwloons', 'chyra julynic', 'sroaw cuylnws', 'sarai culains', 'skere ceyilmj'}, {'surie cuwlnis', 'serah coaluns', 'sarry cohllnz', 'seyhe qloyynj', 'siray calewns', 'suhir clowmax'}, {'ssray caluwns', 'sarao colehns', 'syray colwynz', 'swyoy qloywms', 'suyir clowumq', 'siriw culynis'}, {'zerhe gayhnis', 'srauh cohwlns', 'sruye cawilmx', 'srrew caolniz', 'sarww coluwnz', 'sirah collons'}, {'saruw cwylwns', 'sarih colinns', 'jrieh wwlynic', 'seriy cohwlnz', 'sxayr clihemz', 'ssrao coylnes'}, {'sswer cehelmz', 'hayru qoyhniz', 'sarey cllihnz', 'ssruw cwwlnws', 'sarae cuelins', 'srraw cllonas'}, {'sarai coluans', 'ajhyh wulyniz', 'szwri clahymq', 'srruh coylnws', 'syrri cwlynes', 'swreh cwlahns'}, {'sirew clownes', 'jawhw qalwniy', 'syrih coilnsy', 'sqyro clihymq', 'saraw culoins', 'sraeh colwnse'}, {'swruh calinws', 'sjhrw chwilmz', 'sarae cailins', 'ssreu cloynys', 'syroh callnsy', 'shyha xlohwnz'}, {'seray cllonsy', 'giryw glohync', 'srwya cloyhmx', 'ssruh cllonos', 'ssrui cuywlnz', 'sarao coleens'}, {'syrai coeilns', 'sroah collniz', 'sweir cuyilmk', 'jurha qahwnis', 'srrui cuylnsi', 'serah coolins'}, {'sarih coulens', 'swiur cloyamg', 'seray couwlns', 'seroy cwlynas', 'wraay gulynic', 'saruw cllonos'}, {'swrai clluens', 'siorw cyyhlmz', 'sraue cwwlnws', 'syrih colwnse', 'saraa collunz', 'wuriy kihlnih'}, {'sruuh cuwlnsy', 'saroh coluhns', 'swaur clhoamz', 'sarow callnws', 'ahyuh gayhnis', 'sarww calinys'}, {'srywa cloyemq', 'syrai cllanws', 'swrri coywlnz', 'sirah coloans', 'herha xwlynic', 'syray cwwluns'}, {'sorwy culonys', 'saryw colywnz', 'sraoh collnzy', 'wurha julynic', 'seyir clohhmz', 'sarao coliuns'}, {'syraa cloihns', 'shery cwwhlmj', 'surah colinas', 'srreh coylenz', 'sahwr clohnes', 'ashyw clowwyx'}, {'ausra swyilms', 'saewr calwwnz', 'suhor cwywlmq', 'saryy cullnsi', 'syrih cwlewns', 'surah calains'}, {'shhro ciyolmz', 'syreh cwlayns', 'surah cuulins', 'ssruh cllenws', 'awsri ylowimx', 'suroy callnoz'}, {'srreh cohlnes', 'sorry cuwylns', 'ssraw coylynz', 'sriyo cawilmq', 'saraa caloins', 'gerhe julynic'}, {'syuer cuhilmz', 'quruw ceyilmw', 'sarrw caylans', 'ssrau colnnis', 'sarih coelons', 'swrri cuhlnws'}, {'siray colynes', 'syrrw clywnis', 'swyyy clowyhq', 'swreh cllanws', 'sryoi cuyelmx', 'saroh couluns'}, {'srrau clliinz', 'sarao colawns', 'kerha qalwniq', 'srauu cloowns', 'ssraw colnisy', 'srhuo cloyamq'}, {'saery caolnys', 'scury cliyumq', 'hsair xwylniz', 'sarww colwnes', 'serah coloons', 'ssrae coluynz'}, {'swayy cwwhnic', 'sraau clohnsi', 'swwhr clihymq', 'saryw callnsy', 'sarae cuolins', 'saruw cohllnz'}, {'sreao culyynz', 'saruh coelons', 'jyaeh xiyilnq', 'syrao cwwlinz', 'suwor clhwemx', 'ssrao caylwns'}, {'sorah colaons', 'kaarw ochlhmj', 'srrow cohlnyz', 'sohhr cloyumg', 'ssraa coylnes', 'ssrae cwloans'}, {'soyor ceyilmx', 'syrau coylonz', 'asrew ocwlnzi', 'saryw colunsy', 'serry callnuz', 'sorah coelens'}, {'sxayr cihilmj', 'awhra woyilmg', 'srrih cwlawns', 'sruih coylnaz', 'sareh colinos', 'sarry culayns'}, {'syrae colensy', 'cawha qhlwniz', 'ssruh clleinz', 'ssyra cuwlnas', 'sirah calains', 'swher chywlmx'}, {'srrai callynz', 'sarae cuulins', 'qaarw jloyniz', 'sarrw cllonas', 'soary cohlnyz', 'srwew cihylmz'}, {'soher cloyemz', 'swrae cllwwns', 'syrry cwwlniz', 'qruha clowyyq', 'sarae collinz', 'saryw colonsy'}, {'srruh cllonsi', 'azriy siyilnj', 'saruh ckelins', 'surry clewwns', 'swhyr clouhmz', 'srraw cwwlons'}, {'serah coleuns', 'srrai callnsi', 'syoro cuyilmk', 'awcra wlowynq', 'swriu clohyns', 'srroh cllunis'}, {'sarow cllionz', 'jraaw ciyilwg', 'sarae coluons', 'soriy clwwwns', 'swrau cullnsu', 'sxaer ciyilmz'}, {'syraw cohylns', 'syure clohemx', 'srroh cowlnsu', 'sarau cullons', 'srehy colwnzi', 'aswhh kowhniz'}, {'srruh coylunz', 'serah callons', 'syeer cawhlmz', 'sraoy calynsi', 'srauh callnus', 'asiry kihlnix'}, {'jewha kywlnic', 'sarih coleens', 'sraiu cllonez', 'saryw calywns', 'syrih coihlns', 'syuer cihalmz'}, {'syrih cowlnsu', 'sraou cwllniz', 'sjhru clowamj', 'sorah collunz', 'qahha ciyilwq', 'syrae cuwluns'}, {'sjoru clhoemq', 'sriah colynis', 'swraa cwllnsi', 'suriy caolnos', 'saraw collenz', 'gawha jloyniz'}, {'swruh colywnz', 'sarai coliuns', 'shiry cawilmx', 'srrei callnez', 'asrya xwylniz', 'suray cailwns'}, {'awsre cuwhnic', 'ssrau cwyllns', 'sqeru ciyhlmz', 'sraiu calywnz', 'swrao calayns', 'serah ckolins'}, {'saraw caloins', 'schrw cuyalmz', 'ywrha cayilmw', 'sarww cowlnus', 'sreaw colwnoz', 'sraoh cwlwyns'}, {'ssraw cwylinz', 'swray couilns', 'surah culoins', 'syerr cuyalmx', 'aswai khlwniz', 'sahwr calwnas'}, {'sxhre cehilmk', 'sarai coilons', 'sraoh cahllns', 'srrai culayns', 'gaarw cwyhniz', 'srauw cawlnsi'}, {'sarie colewnz', 'swroo cwloanz', 'shiry cihhlmz', 'sarey cwluhns', 'asrhy kywlnic', 'saraa callans'}, {'swywy yiyilnj', 'surah cooluns', 'swery clewwmx', 'sroah cwylinz', 'syrih collnce', 'sroaa cluhyns'}, {'sraua colwnez', 'sciri caywlmj', 'srrae culwwns', 'jyrhi qoyyniz', 'swruh cohlnos', 'saraw colinos'}, {'swraa callnws', 'jrweh gaylnih', 'swray colynos', 'srhia clohamj', 'sarau cualins', 'syroi cwwlnsi'}, {'swrae coylnis', 'syaur cwyilmc', 'syreo cllnohs', 'sirah cuhlins', 'saryw cwlwwns', 'zayha qywilnz'}, {'sarrw coylanz', 'ssraa colynso', 'sruih caylnes', 'sarao colians', 'aswai qlowimx', 'swuur cuwilmz'}, {'syreh cllonos', 'sruay caylnos', 'sryiy cloawmx', 'sarau coiluns', 'yuruw qhylniz', 'srrai cllinnz'}, {'sorie calynes', 'saroy cuoylns', 'saraa colinis', 'saruy clluuns', 'sweur clywumx', 'kaawr qloyniw'}, {'sraai clohniz', 'asroy zuwlnic', 'swiro clhyumq', 'sarih coliins', 'sarry colnisy', 'saruw cwylons'}, {'sarae coalinz', 'saryw coawlns', 'syery cliwamx', 'siray cwlayns', 'sreao colwnzi', 'yurha yiyilng'}, {'srrao colwnsu', 'sryye chyilmq', 'sariw cllnihs', 'sarae ckolins', 'ayrha kehwnis', 'saorw culwwnz'}, {'syrae coihlns', 'surah coleinz', 'sjiri clhwamx', 'kayru siyilnk', 'sraeh cailyns', 'swruu cliwyns'}, {'sarwy caluyns', 'siray cwlinns', 'sowor cluwwmx', 'syrie caolnsi', 'xirhu koyilmx', 'saruh colainz'}, {'surrw cuylnso', 'syhhi qulynic', 'surah cuolins', 'syiru clohymc', 'sarie cwluwns', 'srruh cllunys'}, {'sarow cowlonz', 'syrio colwnaz', 'surah collons', 'siher cluhamz', 'ssruh cwlinsy', 'ajrha ochlemz'}, {'sorah cohlons', 'squro clohamk', 'srrao cwluwns', 'srahy cwllanz', 'suhha giylnig', 'syrio cullnzi'}, {'jhaeh qloywny', 'swray cllinzy', 'shyri cwyhlmq', 'sareh cuulins', 'ssrih colincy', 'sssra calnais'}, {'srroe cawlnas', 'syoru cihelmz', 'saroh colunns', 'swrih cloions', 'srrae colywnz', 'xirhy ywylniz'}]
+sarah collins       : DEBUG: Additional rule variations: {'s.cOLLins'}
+sarah collins       : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.14285714285714285,
+        "special_char_variations_count": 1,
+        "total_variations_count": 7
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "sarah collins": {
+            "first_name": {
+                "score": 0.79,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.33333333333333337,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.65
+                    },
+                    "count": {
+                        "actual": 6,
+                        "expected": 5.04,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 6,
+                        "total_count": 6,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "sraoh",
+                            "phonetic_score": 0.7993547315201837,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "saraw",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.8,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "schrw",
+                            "phonetic_score": 0.35559178364047045,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ywrha",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.19999999999999996,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "sarww",
+                            "phonetic_score": 0.7993547315201837,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "sreaw",
+                            "phonetic_score": 0.7993547315201837,
+                            "orthographic_score": 0.4,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.8610477748197463,
+            "final_score": 0.788838219855797,
+            "variation_count": 7,
+            "non_rule_compliant_variations_count": 6,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.92,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.7666666666666667,
+                        "orthographic": 0.9666666666666667,
+                        "combined": 0.8666666666666667
+                    },
+                    "count": {
+                        "actual": 6,
+                        "expected": 5.04,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 6,
+                        "total_count": 6,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "cwlwyns",
+                            "phonetic_score": 0.6479321165064282,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "caloins",
+                            "phonetic_score": 1.0,
+                            "orthographic_score": 0.7142857142857143,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "cuyalmz",
+                            "phonetic_score": 0.2411431864240923,
+                            "orthographic_score": 0.1428571428571429,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "cayilmw",
+                            "phonetic_score": 0.0,
+                            "orthographic_score": 0.1428571428571429,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "cowlnus",
+                            "phonetic_score": 0.6479321165064282,
+                            "orthographic_score": 0.5714285714285714,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "colwnoz",
+                            "phonetic_score": 0.6479321165064282,
+                            "orthographic_score": 0.4285714285714286,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "initial_only_first_name": [
+                            "s.cOLLins"
+                        ],
+                        "swap_random_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "s.cOLLins": [
+                            "initial_only_first_name"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.14285714285714285,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.5,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 2,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 0.5,
+        "by_name": {
+            "sarah collins": {
+                "score": 0.5,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "initial_only_first_name": [
+                            "s.cOLLins"
+                        ],
+                        "swap_random_letter": []
+                    },
+                    "rules_satisfied_by_variation": {
+                        "s.cOLLins": [
+                            "initial_only_first_name"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.14285714285714285,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 0.5,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 2,
+                    "score": 0.5
+                }
+            }
+        }
+    },
+    "average_quality": 0.788838219855797,
+    "final_reward": 0.788838219855797
+}
+sarah collins       : DEBUG: ----------------------------------------------------------------------------------------------------

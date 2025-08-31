@@ -1,0 +1,1548 @@
+simon martin        : INFO: Generating variations for simon martin
+simon martin        : INFO: ----------------------------------------------------------------------------------------------------
+simon martin        : INFO: Effective rules: ['shorten_name_to_abbreviations']
+simon martin        : INFO: ----------------------------------------------------------------------------------------------------
+simon martin        : INFO: Min Required Rule Variation Set: [{'sim mar', 'si mart', 'simo m', 'simo ma', 'sim marti', 's mart', 'simo marti', 's mar', 'si ma', 'sim m', 's ma', 'sim mart', 'si m', 'simo mar', 's marti', 'sim ma', 's m', 'si mar', 'simo mart', 'si marti'}]
+simon martin        : INFO: ----------------------------------------------------------------------------------------------------
+simon martin        : INFO: First name: simon
+simon martin        : INFO: Last name: martin
+simon martin        : INFO: ----------------------------------------------------------------------------------------------------
+simon martin        : INFO: Rule count pairs: [(0, 1), (0, 2), (0, 3), (0, 4), (0, 5), (1, 4), (0, 6), (1, 5), (0, 7), (1, 6), (0, 8), (1, 7), (0, 9), (1, 8), (2, 7), (0, 10), (1, 9), (2, 8), (0, 11), (1, 10), (2, 9)]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 1 / 21: rule_count/nonrule_count: 0/1------------------------------
+simon martin        : DEBUG: O: [0, 1, 0, 0]
+simon martin        : DEBUG: P: [0, 1, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [1, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 1, 0, 0]
+simon martin        : DEBUG: P: [0, 1, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 1, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [1, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 1, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.50491122]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 2 / 21: rule_count/nonrule_count: 0/2------------------------------
+simon martin        : DEBUG: O: [0, 2, 0, 0]
+simon martin        : DEBUG: P: [0, 2, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [2, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 2, 0, 0]
+simon martin        : DEBUG: P: [0, 2, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 2, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [2, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 2, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.51814369]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 3 / 21: rule_count/nonrule_count: 0/3------------------------------
+simon martin        : DEBUG: O: [0, 3, 0, 0]
+simon martin        : DEBUG: P: [0, 3, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [3, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 3, 0, 0]
+simon martin        : DEBUG: P: [0, 3, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 3, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [3, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 3, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.53407365]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 4 / 21: rule_count/nonrule_count: 0/4------------------------------
+simon martin        : DEBUG: O: [0, 4, 0, 0]
+simon martin        : DEBUG: P: [0, 4, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [4, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 4, 0, 0]
+simon martin        : DEBUG: P: [0, 4, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [4, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.55325102]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 5 / 21: rule_count/nonrule_count: 0/5------------------------------
+simon martin        : DEBUG: O: [0, 5, 0, 0]
+simon martin        : DEBUG: P: [0, 5, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [5, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 5, 0, 0]
+simon martin        : DEBUG: P: [0, 5, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [5, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.56]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 6 / 21: rule_count/nonrule_count: 1/4------------------------------
+simon martin        : DEBUG: O: [0, 4, 0, 0]
+simon martin        : DEBUG: P: [0, 4, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [4, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 4, 0, 0]
+simon martin        : DEBUG: P: [0, 4, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 4, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [4, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 4, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.75325102]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 7 / 21: rule_count/nonrule_count: 0/6------------------------------
+simon martin        : DEBUG: O: [0, 6, 0, 0]
+simon martin        : DEBUG: P: [0, 6, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [6, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 6, 0, 0]
+simon martin        : DEBUG: P: [0, 6, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [6, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.56]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 8 / 21: rule_count/nonrule_count: 1/5------------------------------
+simon martin        : DEBUG: O: [0, 5, 0, 0]
+simon martin        : DEBUG: P: [0, 5, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [5, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 5, 0, 0]
+simon martin        : DEBUG: P: [0, 5, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 5, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [5, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 5, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.76]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 9 / 21: rule_count/nonrule_count: 0/7------------------------------
+simon martin        : DEBUG: O: [0, 7, 0, 0]
+simon martin        : DEBUG: P: [0, 7, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [7, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 7, 0, 0]
+simon martin        : DEBUG: P: [0, 7, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [7, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.5487216]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 10 / 21: rule_count/nonrule_count: 1/6------------------------------
+simon martin        : DEBUG: O: [0, 6, 0, 0]
+simon martin        : DEBUG: P: [0, 6, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [6, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 6, 0, 0]
+simon martin        : DEBUG: P: [0, 6, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 6, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [6, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 6, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.76]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 11 / 21: rule_count/nonrule_count: 0/8------------------------------
+simon martin        : DEBUG: O: [0, 8, 0, 0]
+simon martin        : DEBUG: P: [0, 8, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [8, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 8, 0, 0]
+simon martin        : DEBUG: P: [0, 8, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [8, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.53031122]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 12 / 21: rule_count/nonrule_count: 1/7------------------------------
+simon martin        : DEBUG: O: [0, 7, 0, 0]
+simon martin        : DEBUG: P: [0, 7, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [7, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 7, 0, 0]
+simon martin        : DEBUG: P: [0, 7, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [7, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.7487216]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 13 / 21: rule_count/nonrule_count: 0/9------------------------------
+simon martin        : DEBUG: O: [0, 9, 0, 0]
+simon martin        : DEBUG: P: [0, 9, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [9, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 9, 0, 0]
+simon martin        : DEBUG: P: [0, 9, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [9, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.51501836]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 14 / 21: rule_count/nonrule_count: 1/8------------------------------
+simon martin        : DEBUG: O: [0, 8, 0, 0]
+simon martin        : DEBUG: P: [0, 8, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [8, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 8, 0, 0]
+simon martin        : DEBUG: P: [0, 8, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [8, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.63031122]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 15 / 21: rule_count/nonrule_count: 2/7------------------------------
+simon martin        : DEBUG: O: [0, 7, 0, 0]
+simon martin        : DEBUG: P: [0, 7, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [7, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 7, 0, 0]
+simon martin        : DEBUG: P: [0, 7, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 7, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [7, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 7, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.7487216]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 16 / 21: rule_count/nonrule_count: 0/10------------------------------
+simon martin        : DEBUG: O: [0, 10, 0, 0]
+simon martin        : DEBUG: P: [0, 10, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 10, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [10, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 10, 0, 0]
+simon martin        : DEBUG: P: [0, 10, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 10, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [10, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.50231512]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 17 / 21: rule_count/nonrule_count: 1/9------------------------------
+simon martin        : DEBUG: O: [0, 9, 0, 0]
+simon martin        : DEBUG: P: [0, 9, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [9, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 9, 0, 0]
+simon martin        : DEBUG: P: [0, 9, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [9, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.61501836]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 18 / 21: rule_count/nonrule_count: 2/8------------------------------
+simon martin        : DEBUG: O: [0, 8, 0, 0]
+simon martin        : DEBUG: P: [0, 8, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [8, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 8, 0, 0]
+simon martin        : DEBUG: P: [0, 8, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 8, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [8, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 8, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.63031122]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 19 / 21: rule_count/nonrule_count: 0/11------------------------------
+simon martin        : DEBUG: O: [0, 11, 0, 0]
+simon martin        : DEBUG: P: [0, 11, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 11, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [11, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 11, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 11, 0, 0]
+simon martin        : DEBUG: P: [0, 11, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 11, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [11, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 11, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.49176299]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 20 / 21: rule_count/nonrule_count: 1/10------------------------------
+simon martin        : DEBUG: O: [0, 10, 0, 0]
+simon martin        : DEBUG: P: [0, 10, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 10, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [10, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 10, 0, 0]
+simon martin        : DEBUG: P: [0, 10, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 10, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [10, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 10, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.60231512]
+simon martin        : INFO: ------------------------------Trying rule_count_pair 21 / 21: rule_count/nonrule_count: 2/9------------------------------
+simon martin        : DEBUG: O: [0, 9, 0, 0]
+simon martin        : DEBUG: P: [0, 9, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+simon martin        : DEBUG: [5, 3, 0]
+simon martin        : DEBUG: [44, 20, 0]
+simon martin        : DEBUG: [71, 40, 0]
+simon martin        : DEBUG: [20, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [9, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: simon, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: simon, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: O: [0, 9, 0, 0]
+simon martin        : DEBUG: P: [0, 9, 0, 0]
+simon martin        : WARNING: Remains: 0
+simon martin        : DEBUG: p_level: 1, O: [0, 9, 0, 0]
+simon martin        : DEBUG: [9, 1, 0]
+simon martin        : DEBUG: [500, 24, 0]
+simon martin        : DEBUG: [450, 20, 0]
+simon martin        : DEBUG: [36, 20, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [9, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0]
+simon martin        : DEBUG: final:
+simon martin        : DEBUG: name: martin, l_level: 0
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 9, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 1
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: name: martin, l_level: 2
+simon martin        : DEBUG: --------------------------------------------------
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: [0, 0, 0, 0, 0, 0, 0, 0]
+simon martin        : DEBUG: scores: [0.61501836]
+simon martin        : DEBUG: ----------------------------------------------------------------------------------------------------
+simon martin        : DEBUG: Best score achieved: 0.7600000000000001
+simon martin        : DEBUG: Best selected: 1/5
+simon martin        : DEBUG: Rule variations: [{'sim mar', 'si mart', 'simo m', 'simo ma', 'sim marti', 's mart', 'simo marti', 's mar', 'si ma', 'sim m', 's ma', 'sim mart', 'si m', 'simo mar', 's marti', 'sim ma', 's m', 'si mar', 'simo mart', 'si marti'}]
+simon martin        : DEBUG: Nonrule variations: [{'symen mwrttn', 'smonu miradn', 'swmen mrteen', 'smoon meirtn', 'swmun mahrtn'}, {'smoin murtna', 'smoyn mrtanw', 'smman mrtaon', 'ssmyn mortwn', 'smmen mrwtyn'}, {'semyn mmratn', 'samyn mreidn', 'ssmin mroton', 'swmen merdon', 'smown mortnu'}, {'smohn murrtn', 'syman morwtn', 'smonu mirdyn', 'swmyn mrotan', 'ssmen murden'}, {'smonw mirttn', 'smoun mortno', 'smuon mirdan', 'smoon mardna', 'smona mrtenu'}, {'smaon mrtiun', 'swmen mwrdan', 'swman morrtn', 'ssmun martna', 'samyn mrwtun'}, {'swman morwdn', 'smeon mrwtan', 'symun mahrdn', 'ssmin mmrten', 'smohn miredn'}, {'smmin myrtni', 'symin mrteny', 'smeon mrodin', 'smmen mwyrtn', 'smoen mrwtyn'}, {'smonu mrtiwn', 'smmun morodn', 'smmyn mrutin', 'smony myritn', 'smoni mrdiun'}, {'smone mortnw', 'smmin mrutin', 'smoyn mrrton', 'symen martno', 'smona mreidn'}, {'smonu mriton', 'swmen mirwtn', 'symyn moretn', 'smeon mwrydn', 'smion morytn'}, {'smony mrtehn', 'smonw mrdiny', 'swmyn meretn', 'smoen myrdyn', 'syman miredn'}, {'smonw mardny', 'symun mardun', 'smaon meurtn', 'smoni mertne', 'smmyn mrtanw'}, {'ssmen meritn', 'smoyn mreitn', 'smoni mrtnii', 'swman mraetn', 'smman mordyn'}, {'smman marwdn', 'smoen mrtony', 'smoon myrotn', 'smmin mwrtna', 'smono myrtno'}, {'ssmyn merdun', 'sumyn mrtuen', 'smonu morudn', 'smown mwritn', 'swmun mwwrtn'}, {'swmyn mrtaen', 'symun marotn', 'ssmen myrwtn', 'smaon mrtoen', 'smmun mardnw'}, {'smoni moredn', 'syman mwrtnu', 'smonu murtni', 'smone mrtiwn', 'semyn miredn'}, {'smmun myrdan', 'smmin myrodn', 'smoon mrrdin', 'symen mirtne', 'smonu myrudn'}, {'smuon mrityn', 'ssmen marden', 'smoyn merdyn', 'ssmin myrdun', 'semyn mmrtwn'}, {'smion mrrton', 'smmun mroton', 'syman mirdyn', 'smoan mirwtn', 'smoin meyrtn'}, {'symun mrtain', 'smuon mrtwny', 'smaon marytn', 'swmyn merrtn', 'smonu mrttwn'}, {'smonw mardwn', 'smoyn mehrtn', 'symin morudn', 'smone myrytn', 'smmen meridn'}, {'somyn morydn', 'smown mrattn', 'smonw mrtuwn', 'swmin mryton', 'smoen mrttyn'}, {'smmen mriton', 'smoun mrtein', 'ssmin mratin', 'swmen mraton', 'swmun mrttan'}, {'samyn mirwdn', 'swmyn mrautn', 'smman miredn', 'swmun mrrton', 'smaon mrtehn'}, {'smoan mraotn', 'smoni muhrtn', 'smmin meartn', 'ssmin mortna', 'semyn mrtniy'}, {'swmin myrten', 'smoon moirtn', 'smoni mrtane', 'swmen mirtni', 'smony mrteni'}, {'smion marwtn', 'smeon mrwten', 'smohn mwrrtn', 'symyn miortn', 'ssmen murdon'}, {'smone mrtuon', 'symyn mritun', 'semyn mrwdin', 'somyn mwrtan', 'symun mmurtn'}, {'syman maordn', 'somyn murtna', 'swmyn myrdin', 'swmin mrtnii', 'symun mrydin'}, {'samyn mmrtwn', 'smoyn mwrtna', 'swmyn maertn', 'smmyn mmirtn', 'symyn mreitn'}, {'smmyn mrtuon', 'smono mardnw', 'ssmun mortny', 'swmyn mwrtun', 'ssmin mwrdan'}, {'smmyn morwdn', 'ssmun mrtuun', 'swman mroidn', 'smone mairtn', 'smmun murdon'}, {'sumyn mirtnw', 'samyn mriton', 'smoni murrtn', 'ssman mrtaon', 'smoon mrtuin'}, {'swmen mrwten', 'symyn mwrtne', 'symin mroten', 'smoon merdin', 'samyn mrotan'}, {'swman mrtiyn', 'smion mroitn', 'smoen mratan', 'smmyn mrttyn', 'symen mrritn'}, {'semyn miratn', 'symun marydn', 'ssmyn mraitn', 'smaon meertn', 'samyn mordyn'}, {'smaon mretin', 'ssmyn mrrdin', 'symyn myrdun', 'ssman mwrdwn', 'smion mrttyn'}, {'smoin murdun', 'smonn mroton', 'ssman mirwdn', 'smmen mrtown', 'ssmyn martno'}, {'symin moridn', 'ssmyn myrdan', 'smion mrtiun', 'somyn mrtniw', 'semyn merudn'}, {'smonw myrtnu', 'ssmyn mraidn', 'smoin meradn', 'ssman mortno', 'smoen mmurtn'}, {'smoon murden', 'smion miridn', 'smmyn mrtoen', 'smonu myrtyn', 'swmyn mirwdn'}, {'smoin mrtanu', 'semyn mroton', 'ssman mrtiin', 'smony mairtn', 'symen mrttin'}, {'smoin mohrtn', 'ssmyn meertn', 'ssmin mrotwn', 'smoan mriidn', 'smoni myrudn'}, {'smona meirtn', 'smion mirtwn', 'smoun mrtton', 'symun mrdiun', 'ssmen miratn'}, {'smonn mradin', 'smeon marrdn', 'syman mrytan', 'ssmun mrttin', 'symin mretun'}, {'smonn myrdun', 'symun mrtuyn', 'smoen mwrton', 'swmun mwwrtn', 'smonw mordyn'}, {'smoyn mrwdin', 'ssman muradn', 'ssmin myrrtn', 'somyn merdan', 'smoan meridn'}, {'symen mrtoni', 'smuon murttn', 'smoen mertnu', 'smaon mrtany', 'swmun mrotan'}, {'semyn mrtahn', 'symin mrrtun', 'smoen mrtuin', 'smony mraytn', 'smona myrodn'}, {'smmen mwrwdn', 'smown mrtino', 'smona mrrtun', 'smoon mrtuny', 'smoin mwrtnw'}, {'smona mrrton', 'smown mertnw', 'ssmun mrotun', 'smone mrtwni', 'ssman martna'}, {'smonu mrtine', 'smoun mrdion', 'symun mirtnw', 'swmun mertyn', 'smoni mwrodn'}, {'smeon muurtn', 'smion miyrtn', 'symen mreton', 'symun miardn', 'syman mrtiny'}, {'swman myridn', 'swmin mrtany', 'smoyn mordyn', 'semyn mrwtyn', 'smona muritn'}, {'smoan mrawtn', 'syman mordan', 'ssmyn merdon', 'smoyn mruton', 'smony merytn'}, {'semyn merdin', 'ssmun mywrtn', 'smman mrtiyn', 'symyn mrtino', 'ssmen meyrtn'}, {'smman mmratn', 'semyn martnu', 'ssmin mrtiny', 'smion mrtean', 'smohn morrtn'}, {'smman mirtnw', 'symun mrtten', 'smuon mrtaan', 'smion mertno', 'smeon muritn'}, {'smoyn marwdn', 'symen mrtiin', 'smona mmardn', 'smonu mrwtyn', 'symyn meardn'}, {'symin mirwdn', 'smoun maertn', 'smown morytn', 'semyn mrtnii', 'smion myrudn'}, {'ssmyn mwradn', 'swmyn mrtuun', 'swmin miredn', 'smonu mroten', 'smeon mirwtn'}, {'semyn murtna', 'smown morodn', 'ssmin mrtena', 'ssmun mroten', 'swmyn mrdiny'}, {'smman mmrtyn', 'smoyn merotn', 'smown maretn', 'symyn mwrtnu', 'smonn myrytn'}, {'swman moredn', 'ssman mretan', 'smmen mrtoyn', 'ssmyn mmrdin', 'smonn mordun'}, {'ssmin mrudin', 'semyn mretyn', 'smona mertno', 'smuon mrdein', 'symun martny'}, {'smoun mortyn', 'smman mwrtne', 'smmyn miretn', 'ssmen mrutyn', 'smmun myredn'}, {'sumyn mourtn', 'swmun murden', 'syman mrtiyn', 'smaon mretan', 'smman mrtehn'}, {'ssmen mwradn', 'ssmyn mrtuon', 'smonn marden', 'smown myrtna', 'ssmun mreten'}, {'smona marutn', 'smoin mrtnii', 'swmin moertn', 'smonn myridn', 'smmun meurtn'}, {'smmyn mardon', 'smono mrutyn', 'smuon mwretn', 'symen mrrtan', 'smown mrtayn'}, {'smonw mrteun', 'sumyn mrwtan', 'swmyn mwwrtn', 'swmun mruten', 'swmin miirtn'}, {'smoen merydn', 'swmen mrtywn', 'ssman moredn', 'smion miirtn', 'symen mordon'}, {'symun mrwtyn', 'smony marytn', 'semyn mrudin', 'swmin mriten', 'smona mwrydn'}, {'smown mrotyn', 'ssmen mrytun', 'swmen mrtiwn', 'smuon mretyn', 'smono mrteno'}, {'syman mrtahn', 'smmyn mrtana', 'smoon murdan', 'smmun mrtuen', 'swman mrdiyn'}, {'symyn mrrton', 'swmyn mrtten', 'ssmun mrytyn', 'smoin mrtiin', 'smmyn mirdin'}, {'somyn mrtuyn', 'smmyn mrdihn', 'symun miirtn', 'symin mirttn', 'smman murytn'}, {'smoni marodn', 'ssman merdon', 'smoen mertni', 'smaon morydn', 'ssmin moretn'}, {'smono myrtan', 'syman mrutin', 'sumyn mortne', 'swmun mwrtni', 'symyn mmratn'}, {'smoan mertne', 'smone mruten', 'ssmin murdan', 'samyn mrwton', 'smmen mirtny'}, {'smaon moartn', 'swmen mohrtn', 'sumyn mrtniu', 'swmin morotn', 'smohn martnu'}, {'ssmen mrudin', 'smohn miretn', 'smeon mrdion', 'swmun mrittn', 'smoon mmrten'}, {'smmyn mretwn', 'sumyn mridin', 'symin myrtne', 'somyn mwredn', 'symen mrotun'}, {'smoan marudn', 'smman mardwn', 'smoen myrdin', 'smuon mwrtna', 'smmin mwrdwn'}, {'smmyn mreidn', 'smuon mrtoan', 'smaon maridn', 'smona mwrdwn', 'swman mrteny'}, {'smown mrteyn', 'smuon mrdiun', 'swmyn mrtonu', 'swmen mirttn', 'sumyn murdwn'}, {'symyn mwrtne', 'ssmin mrtiun', 'symin mrrtyn', 'smonw meratn', 'syman mrrtan'}, {'syman mrdion', 'semyn mruitn', 'sumyn mrtuwn', 'smion mrritn', 'smoan mrtwnw'}, {'smoan maredn', 'smmen mahrtn', 'ssman mrtniw', 'smony mrttni', 'smmun mrdien'}, {'symyn mratan', 'smona mrtten', 'smown mrteno', 'smion mrydin', 'syman mrrtyn'}, {'swmin mwrtne', 'smoyn mrteny', 'smoun myrtun', 'smoen myrtnu', 'smeon mirttn'}, {'smony maartn', 'smion meratn', 'smoun mmrtni', 'syman mmrtan', 'smoan myrton'}, {'semyn mretun', 'smoun mrotwn', 'sumyn mratwn', 'swmen mrtniy', 'smmen mrtown'}, {'ssmyn mrrtwn', 'smoen murtyn', 'smuon mirtno', 'swman mrrtyn', 'smonw murdin'}, {'smaon mruton', 'smoan mrratn', 'smonw mrtoun', 'smoun mirtnu', 'somyn miirtn'}, {'symun merotn', 'smonu mrtuwn', 'semyn mehrtn', 'ssmyn mredin', 'syman myrtny'}, {'smone mirotn', 'smoyn mwrtun', 'symin miretn', 'swman mrytwn', 'symen mrautn'}, {'swmun mrytwn', 'smoyn mirtne', 'symyn murdin', 'smown maordn', 'smonw mwrtyn'}, {'smoan mwrutn', 'swman murtnu', 'smonn mwrtne', 'smoon meridn', 'smoin mrutun'}, {'syman mirtny', 'swman maurdn', 'smonn mrtanu', 'smoyn meratn', 'ssmun mrtehn'}, {'smmun mwrwtn', 'swmin myrytn', 'smoyn mrteyn', 'ssmun mardnw', 'smoen murwdn'}, {'smoan murtwn', 'smone myrtna', 'smoen mmortn', 'smmyn mwredn', 'symin mrtnie'}, {'swmun mrodin', 'smoun mertna', 'symen mrttwn', 'smman murttn', 'smaon mwrytn'}, {'symyn mwrttn', 'ssmun mrdiyn', 'smmin mirytn', 'smoan maartn', 'samyn mordan'}, {'smmyn mortni', 'swmen mroitn', 'smoon mrdian', 'smmin mehrtn', 'symen mwridn'}, {'symyn mrtniw', 'smoin muardn', 'smown mraton', 'somyn mrtaun', 'swman myrten'}, {'sumyn mrtohn', 'symen mrtein', 'smown moratn', 'smono mirtnw', 'symun mwrdwn'}, {'smion myrydn', 'smoni mmrton', 'smonw murdyn', 'smmun mriitn', 'smmyn myrton'}, {'syman mmurtn', 'smona murotn', 'smoni myretn', 'symin mruitn', 'symyn mrtehn'}, {'swman murtne', 'smmen mrtine', 'symun mirtne', 'symin muritn', 'smoni mritwn'}, {'smony merden', 'smoni muredn', 'smonw mraytn', 'smuon mardnu', 'smmun mrteon'}, {'swman moredn', 'smony mrytun', 'smman mardni', 'sumyn moritn', 'smown myrdin'}, {'smoyn miradn', 'ssmyn merydn', 'swmyn mrtniy', 'smoon meertn', 'smmun mmrdin'}, {'smaon muritn', 'smman mirudn', 'smoni myrdan', 'smeon mirdan', 'smmyn mwrydn'}, {'swmyn mrrtyn', 'samyn mretun', 'smmin myredn', 'smoun merydn', 'smonw mwrwdn'}, {'ssman myrotn', 'smuon mwrten', 'smoun mrutwn', 'smoan mardnw', 'symun marodn'}, {'symen merdon', 'smion mardyn', 'smoan mriitn', 'smonu mretyn', 'smaon myrtyn'}, {'smmen miirtn', 'smonu mrtiny', 'smman marutn', 'smohn merytn', 'samyn mrotun'}, {'symin mrttin', 'smoyn mrtynw', 'swmun mrahtn', 'smoen myrdyn', 'swmyn mortyn'}, {'smmun mrtehn', 'smown mratun', 'smeon mrtany', 'smoyn myrden', 'smona mirydn'}, {'ssmyn mrityn', 'smony muredn', 'smoen muardn', 'symin marydn', 'sumyn mritan'}, {'smonn mordyn', 'ssmyn martne', 'smaon mriton', 'smeon mardna', 'samyn mywrtn'}, {'sumyn mrtniy', 'smuon mirdan', 'smohn moortn', 'smmen mourtn', 'swmin mrytin'}, {'symun mrtean', 'smown murtnw', 'symen mwrdan', 'swmyn mryten', 'syman mewrtn'}, {'smown mrwten', 'smeon mwritn', 'smonn mrtonw', 'smoan mrteun', 'smoon mretwn'}, {'smmyn mortyn', 'ssmen mortna', 'smuon mreidn', 'smaon mirdyn', 'smeon mmyrtn'}, {'smmin mriidn', 'smmen mrtaan', 'smman mordwn', 'swmin mratyn', 'smono mohrtn'}, {'smoin mrtain', 'swman mordun', 'smoun mwrudn', 'smonu mawrtn', 'smoyn myrutn'}, {'smman mritun', 'smaon marodn', 'ssman merotn', 'swmin maradn', 'smmin mrtinu'}, {'ssmun mirdon', 'smoin mrtino', 'smmyn mwrttn', 'swman mrtaen', 'smonu murdyn'}, {'smuon mrtane', 'smaon meretn', 'ssmen marytn', 'symen mirotn', 'smonu mwrdan'}, {'smony mrtoyn', 'swmin murdyn', 'syman mwrtno', 'smion mrydin', 'smoun mmrtyn'}, {'smone mortni', 'smoan mrtwni', 'smohn martnw', 'ssmin marwdn', 'smoyn mwrdun'}, {'ssmun myrton', 'smonw merttn', 'somyn meratn', 'smoon mertni', 'smonu mrutun'}, {'samyn myrtyn', 'smion mmardn', 'swmun maridn', 'smoon mwritn', 'symun mwradn'}, {'smoon mortnu', 'smmen mruten', 'smaon mrutan', 'smmyn mwretn', 'smonu mordon'}, {'smona maartn', 'smman mwrydn', 'sumyn mraotn', 'somyn mertny', 'smmun mertyn'}, {'smion marrtn', 'smonu mwrdin', 'swmen morrtn', 'smonn miyrtn', 'swmun merwtn'}, {'smonn mritun', 'swmen miirtn', 'ssmyn martni', 'smone mrtiun', 'symen moredn'}, {'ssmen mrdien', 'swmin mrtohn', 'somyn meridn', 'smonn mruitn', 'smony mrtoin'}, {'smonn mrduin', 'smoni morden', 'smoin mirtnw', 'swmen myrudn', 'swmin myrtun'}, {'symen myrotn', 'smone mwrten', 'symyn merdan', 'smmen mwrwtn', 'swmin mertno'}, {'swmin marwtn', 'smonn mrtuin', 'swmyn mrdiyn', 'smoin mordyn', 'smeon mmortn'}, {'smman mmratn', 'smone martnw', 'ssman mrtaun', 'symin myyrtn', 'smonw morudn'}, {'symun miritn', 'swman mretwn', 'smone mmirtn', 'somyn merdwn', 'smaon mrotin'}, {'smmen maerdn', 'smaon myrtnw', 'swmun mrrtni', 'smohn murwtn', 'smman mrwtan'}, {'swmun maradn', 'smone mrtuhn', 'smoni murotn', 'sumyn muardn', 'smoon merwdn'}, {'ssmen mwredn', 'smonn muurtn', 'symen mwrttn', 'sumyn mirydn', 'ssmyn mrtini'}, {'smoon mohrtn', 'smohn marwtn', 'smmyn marydn', 'somyn muradn', 'symun morytn'}, {'smmun marydn', 'smoun mwrodn', 'smonn morotn', 'ssmin mrtuin', 'smmen marrdn'}, {'smmun mwrtyn', 'swmyn mrrton', 'ssmun muradn', 'smony mrttyn', 'sumyn murtnw'}, {'smmun mwrotn', 'smoun mrtoin', 'syman mirtyn', 'smone murydn', 'smoon mourtn'}, {'ssman mriton', 'smony mrtnie', 'smonw mrotyn', 'swman mawrdn', 'samyn mrduin'}, {'smoni mwwrtn', 'symin mrwtin', 'smion mwyrtn', 'smoun mrtonu', 'smuon moertn'}, {'smoen mryten', 'symen martne', 'smone mwrytn', 'samyn mwrtnw', 'smeon mordon'}, {'smoon miyrtn', 'symun mrwtin', 'smion mrautn', 'swman meridn', 'swmin mwradn'}, {'ssmun murtne', 'smmun myrdan', 'smoen murodn', 'smoun mwretn', 'ssmyn mrutan'}, {'symin mmurtn', 'smuon mrtony', 'ssmen mreten', 'swman mrrton', 'smonu mrytun'}, {'swmun muirtn', 'symun mrtoon', 'smoni mrtenu', 'smony muhrtn', 'smonu mrtahn'}, {'smono mrtuon', 'smone martni', 'smion murrtn', 'syman murdan', 'samyn myrtna'}, {'smmin merdwn', 'smion mertna', 'smmyn mirtnu', 'smoon mwretn', 'smoun mryten'}, {'swmen miretn', 'ssmyn mrwtwn', 'symyn mwrdwn', 'swmyn mwrtwn', 'smoyn mrtihn'}, {'syman mrdain', 'ssmyn mirtnw', 'smony mardwn', 'semyn mrtihn', 'smoen mrtinu'}, {'swmun mrtiun', 'swmyn mwrtyn', 'smaon myrttn', 'somyn mraidn', 'symun mraton'}, {'swmun muurtn', 'smoon mwrdan', 'smmyn moritn', 'smona mrattn', 'smonu mirydn'}, {'smonu mortno', 'sumyn marodn', 'symun mrytin', 'swmen mrtein', 'smeon mrtini'}, {'smono myrtny', 'smmun myrtni', 'symyn myrdon', 'symen mmurtn', 'smion murdon'}, {'ssmin moritn', 'smoun murdwn', 'smoin myrtne', 'sumyn mrtwwn', 'smoon mrtony'}, {'smoen mertyn', 'symun myrden', 'smmun mrtiyn', 'smony mirtwn', 'sumyn mrotun'}, {'smion mmrton', 'smoin mretwn', 'smoon mwrtun', 'syman mardyn', 'smohn mrdiun'}, {'smonw muartn', 'smoyn mraitn', 'ssmin myrotn', 'smoen mardyn', 'smman mayrtn'}, {'ssmun miredn', 'ssman mahrdn', 'smoni muortn', 'smona myrdyn', 'sumyn mrtaun'}, {'smona myrdon', 'smohn marrdn', 'ssman maerdn', 'smown mratwn', 'smuon mrwtun'}, {'ssman myrudn', 'swman mrotyn', 'smmin mirrtn', 'smmun merrtn', 'smmyn mrteno'}, {'smone mihrtn', 'somyn mruten', 'smoun myrtyn', 'smoni mrwtyn', 'syman mrattn'}, {'smony mruten', 'symun mrtana', 'somyn mrwton', 'ssmyn mraytn', 'smoun myrdon'}, {'smone mriten', 'smoan mmrtwn', 'smeon mratan', 'smona marudn', 'samyn mrtain'}, {'ssman mmertn', 'smman mrtanw', 'swmin mwrttn', 'somyn mmrtni', 'smona mwrden'}, {'ssmyn murtnw', 'smona miridn', 'smmen mwrrtn', 'smoon mrtena', 'smuon mwrotn'}, {'smonn morwtn', 'swmun mrtien', 'smmun merodn', 'smion miredn', 'ssmin mrdihn'}, {'smman moardn', 'smuon meardn', 'symun mwratn', 'smoyn mrtyyn', 'sumyn mirutn'}, {'smohn murdwn', 'ssmin myrttn', 'smoon mrtuun', 'smeon mrdiun', 'smmun mrdinu'}, {'ssman mrtiny', 'smmin myratn', 'smmun mrtuwn', 'smonn mwrudn', 'smonu mrdion'}, {'smion mrwtyn', 'sumyn myrutn', 'smuon merdon', 'samyn mrduin', 'smoyn mardnu'}, {'smony muredn', 'smion myritn', 'smonu mirtni', 'smoen mrtoan', 'swmin mrduin'}, {'syman marotn', 'swmen moartn', 'smoyn maerdn', 'ssmun mordwn', 'ssmyn mreitn'}, {'smman merwdn', 'symen miredn', 'smoin mwrdin', 'ssmyn mrrtwn', 'smohn mrtini'}, {'smmen murdin', 'smoin mirtna', 'smoni mrtewn', 'smman murdun', 'ssman mrytun'}, {'symyn myrdan', 'smmin muwrtn', 'ssmun myrdon', 'smone mrdinw', 'swman muradn'}, {'smonw moardn', 'smoun meertn', 'samyn mrdinw', 'symen mrytun', 'smuon mratin'}, {'smono mrwtin', 'smman mawrdn', 'smone mwrtyn', 'smony mardon', 'smeon mirtny'}, {'symen mirudn', 'swman mordwn', 'smoyn mraotn', 'symin mrdiin', 'smmen merdwn'}, {'smone mrtoan', 'swmin mretin', 'semyn martnu', 'swmyn myredn', 'smaon mruitn'}, {'smohn mrdien', 'smone mrtuni', 'swmen mortna', 'smion mruton', 'somyn mrttan'}, {'smoon myrten', 'smmyn mrtaun', 'swmen mwrrtn', 'smonw murytn', 'swman mrattn'}, {'smmin merudn', 'smmun meartn', 'sumyn miridn', 'symyn moredn', 'symun mrttun'}, {'samyn marudn', 'symyn mrtana', 'smona myrtnu', 'swmun moardn', 'ssmyn murodn'}, {'ssmin mewrtn', 'smoni mwrton', 'ssmun mmrton', 'swmen mradin', 'smonn meardn'}, {'symyn mirudn', 'smona mwrttn', 'smoon mryten', 'semyn mirtno', 'smoin mrtihn'}, {'smman myrrtn', 'samyn martna', 'ssmyn mrutwn', 'ssman mirdan', 'smaon myrwtn'}, {'ssmin mmardn', 'smoan murudn', 'ssmun myrtno', 'ssmen moratn', 'syman meartn'}, {'smuon mrtane', 'smonw mreton', 'smoun mortwn', 'smeon mrtaan', 'smono mrtynw'}, {'ssmin mrtano', 'sumyn myrtna', 'smman murtny', 'smonw murytn', 'symin mrtoan'}, {'smoen mardne', 'smona mrtiin', 'swmen myrtyn', 'smeon mordun', 'ssmyn mroton'}, {'smono mratan', 'ssmen meertn', 'sumyn mrtoun', 'smman myrtne', 'smonw mwrtny'}, {'smman maerdn', 'smmun mardon', 'smono mrwten', 'symyn mratyn', 'sumyn mrtena'}, {'ssman mriitn', 'ssmun mwrtnu', 'smuon mardno', 'samyn marwtn', 'ssmen muhrtn'}, {'smaon mrtwny', 'swmun murtni', 'samyn mrdian', 'smoin morrtn', 'smmun mrtien'}, {'ssmin murudn', 'smion mardni', 'ssmen mraotn', 'smohn muritn', 'ssmun mrtwyn'}, {'smono mirdon', 'swmin mortnw', 'smmen mraidn', 'smoyn mrtina', 'swmyn mrtten'}, {'syman mrtoyn', 'sumyn mrtoin', 'symen murtnw', 'swman mrytwn', 'swmen murtni'}, {'smown maritn', 'smona myrudn', 'symyn moartn', 'smmyn moretn', 'ssmen muradn'}, {'smonn mwrtun', 'smown mmrtyn', 'swmun mwrtyn', 'ssmyn mortnu', 'ssmun mrtanw'}, {'smonw mmrton', 'smmen maertn', 'smonn myritn', 'ssmin mrutan', 'somyn mrwdin'}, {'smonw miridn', 'smono mretyn', 'smoni mayrtn', 'swmun merrtn', 'smony mretan'}, {'smonu maartn', 'samyn mrytun', 'smmyn mwratn', 'smonn mirdyn', 'ssmin mehrtn'}, {'samyn mardan', 'smmen martno', 'swmun mritan', 'smmin mertyn', 'swmyn maerdn'}, {'smuon mertyn', 'ssmin mratyn', 'symen murtny', 'smono mrityn', 'swman maurdn'}, {'smoin moertn', 'sumyn mrtinw', 'smown mrdian', 'smona marydn', 'ssmen meridn'}, {'symun myrden', 'ssmyn mwrotn', 'smohn murtyn', 'swmin myrtnu', 'ssmin mowrtn'}, {'symen mrtehn', 'smona mirtwn', 'ssmun myrton', 'smoon mrtinw', 'smmun mirdun'}, {'sumyn mirodn', 'somyn meretn', 'smmun mortni', 'smmen merdyn', 'swmun meradn'}, {'swmen miirtn', 'smmyn murutn', 'smuon murdwn', 'smman mrtuhn', 'smonu muradn'}, {'samyn mrtunw', 'ssmin mrtiny', 'smmun mrtawn', 'symyn mrtuni', 'smono mrahtn'}, {'semyn morotn', 'ssman moredn', 'ssmen mwrten', 'smmin murdyn', 'smaon mordan'}, {'ssmen mmrtwn', 'smaon mrtyni', 'somyn martni', 'ssman mrteon', 'smeon meretn'}, {'swmyn mrtino', 'smona mrtuwn', 'smone mrawtn', 'smono muretn', 'smaon mwritn'}, {'ssman mirdyn', 'ssmyn myyrtn', 'samyn meyrtn', 'sumyn murdwn', 'swmen murtnw'}, {'smoni maratn', 'smown meratn', 'smonn mwrtnw', 'smman mrtnii', 'sumyn miardn'}, {'smonw moardn', 'smohn mrtano', 'samyn mwrydn', 'smoon mrtahn', 'swmyn mowrtn'}, {'swmyn mortni', 'samyn mirudn', 'ssmyn muertn', 'syman morydn', 'smmun mrtahn'}, {'smeon mrtniy', 'swmin murydn', 'smono marytn', 'smohn meredn', 'ssmin merydn'}, {'samyn mwrtwn', 'smown mardne', 'smonu mrtuen', 'smoin mrtywn', 'semyn mrtina'}, {'smaon mrtwny', 'samyn mrytan', 'smown mrattn', 'smuon myrdin', 'smone mrtony'}, {'smonn meritn', 'smuon merodn', 'symin mroidn', 'smone mwrtni', 'samyn moirtn'}, {'somyn mrtown', 'syman mirydn', 'ssmen mrtwwn', 'smoen mrttin', 'smona murtna'}, {'smmun mwrden', 'smoun marrdn', 'smoni myrtnu', 'smonw mirtne', 'smman moritn'}, {'symun mardni', 'smmyn mrtien', 'smman murttn', 'smmun mwrttn', 'semyn mertnw'}, {'semyn mwrwdn', 'swmin murtno', 'smmun mrtewn', 'smona mrrtun', 'somyn mrdinu'}, {'samyn mawrtn', 'symin mrotan', 'smone mwrton', 'swmin mmwrtn', 'smuon mritwn'}, {'sumyn mordun', 'symun mrwten', 'smony mrdiin', 'smoni mrtina', 'symyn mrtonw'}, {'smohn marwdn', 'smony mwrten', 'smion mrrtan', 'smmen muridn', 'smono mmertn'}, {'smaon moertn', 'somyn murtnw', 'smoen mraetn', 'smuon mardwn', 'swman mmyrtn'}, {'smaon miradn', 'smonw mmrtan', 'swmen mrdion', 'symun mrrtni', 'swmun marutn'}, {'ssmen mrotun', 'ssmyn mrdiin', 'smoin murytn', 'symin mwratn', 'symen mordyn'}, {'ssmyn marutn', 'smion mwrdwn', 'smmen mrtanu', 'sumyn mrtniu', 'symun murytn'}, {'smmen marytn', 'smmun mrtany', 'somyn maartn', 'symyn murutn', 'smoni mrutan'}, {'smona mwradn', 'smono murytn', 'sumyn morotn', 'smohn mehrtn', 'smmyn mwrudn'}, {'ssmyn mrtton', 'smmen mraidn', 'swman morttn', 'smony mmratn', 'smoan mrtoon'}, {'smman mrdiyn', 'swmin merytn', 'smony merdon', 'sumyn merwtn', 'smoin mardon'}, {'swmyn mrtown', 'ssmen myrden', 'smona mwrdan', 'smoan mrtanw', 'smeon mreten'}, {'smown myrrtn', 'symen moyrtn', 'swmyn moridn', 'samyn miretn', 'smoun mrtwni'}, {'ssmun myrdyn', 'semyn merodn', 'swmyn morttn', 'smonu merytn', 'smohn moretn'}, {'swmun myyrtn', 'smoan mwrdon', 'ssman merytn', 'swmin marodn', 'symyn merden'}, {'swmen murttn', 'smoni mwrttn', 'symun myratn', 'smion martni', 'ssmyn moritn'}, {'swmen moyrtn', 'syman murrtn', 'ssmun murudn', 'smoin mortna', 'ssmen mrtynw'}, {'smuon myrtnu', 'syman mrtnih', 'smoyn mrodin', 'smono mrtiny', 'smone mrtnii'}, {'smoin mrtnie', 'smmin mertwn', 'smuon mmyrtn', 'smmun mrrtwn', 'smony murtno'}, {'smaon murtyn', 'smoyn myrdwn', 'smeon mrtyni', 'somyn murtna', 'smonn mwrtna'}, {'smohn miretn', 'smoyn morydn', 'smeon miurtn', 'smoen myrutn', 'smaon martna'}, {'smeon murden', 'smmin mrttin', 'samyn myrutn', 'smion mrttun', 'smono mirytn'}, {'smonw maartn', 'smmyn mwrtnu', 'ssmun mrtuan', 'smuon mredin', 'smmun mritwn'}, {'ssmyn mwrudn', 'smony mrttun', 'ssman merrtn', 'ssmen moradn', 'smown mrtoen'}, {'swmen myrdwn', 'symin mrtiny', 'sumyn mortnw', 'smono myrdan', 'symyn mredin'}, {'smoen mryton', 'smoun mrtahn', 'smono mraton', 'smmyn mwrtnw', 'smonw moritn'}, {'smaon myyrtn', 'swmen mirtny', 'smoen mardyn', 'swmyn mirutn', 'smmyn muirtn'}, {'ssmen myrtni', 'ssmun mrttyn', 'smoni mirotn', 'smeon muretn', 'smonw moertn'}, {'symyn mertnw', 'smown meortn', 'smmen mrtoen', 'semyn mmortn', 'smono mmrtni'}, {'swmin moertn', 'ssmin mrtain', 'smoni myyrtn', 'smonu mrtaan', 'smony myrtwn'}, {'smone mmortn', 'smoun mrwton', 'smoon marden', 'smion mrtony', 'smmun maratn'}, {'symun mwredn', 'smony mortne', 'smonu mrtton', 'smonn mrttun', 'smeon myrdan'}, {'symyn mardon', 'smohn mwretn', 'smoen meretn', 'smmin mratwn', 'sumyn mrtuny'}, {'smoyn mwrwtn', 'symun murdyn', 'semyn moyrtn', 'smoni myrdyn', 'ssmen mrtwnw'}, {'smoun mortny', 'smone mirwtn', 'somyn mrdihn', 'smmin mertno', 'ssmun mwrtne'}, {'smoin murudn', 'symun mwrtni', 'swmen mwridn', 'smmen myrodn', 'smonw mortny'}, {'symin mohrtn', 'samyn merodn', 'syman mordun', 'smonu mahrtn', 'swman mirudn'}, {'smona mrwtan', 'symen mertny', 'smmun murtnu', 'smonu mrtuin', 'swmyn meardn'}, {'semyn mirtwn', 'smonn maradn', 'smeon mirdyn', 'symun mardnw', 'smonw mardnu'}, {'smona mwrtan', 'smony mrtuen', 'ssmyn mrratn', 'smohn murdon', 'smoun myrrtn'}, {'smoen mritwn', 'smmyn marodn', 'swmun miyrtn', 'semyn myrdan', 'smona mrtonu'}, {'smoni mirtnw', 'swmun murdan', 'smohn mrtton', 'smeon mertnw', 'symin mirodn'}, {'symen mrtaon', 'smown mwrdon', 'smoin mrtynw', 'smuon mayrtn', 'symun miurtn'}, {'smmyn mrwtwn', 'smoon mwrttn', 'smoyn merrtn', 'smown myrudn', 'smoin mrodin'}, {'smeon murrtn', 'smmyn murtyn', 'swmyn mrytwn', 'smion meartn', 'ssmin myrttn'}, {'smoin murudn', 'smoen miwrtn', 'ssman mrdain', 'swmin mwredn', 'smoun marodn'}, {'smoon mertwn', 'smeon mrtwyn', 'smaon mrteny', 'swmin mrtani', 'smoan mortno'}, {'symun mrtaen', 'ssman merudn', 'smmen murotn', 'smmun mmrten', 'smona murodn'}, {'ssmyn mahrtn', 'smonu mraatn', 'smoyn mardnw', 'smoin mredin', 'smonn mraten'}, {'smono mirdan', 'samyn mraotn', 'smoon miretn', 'symun miredn', 'smona muortn'}, {'symun murutn', 'smoin mrydin', 'smonn moredn', 'ssmun miardn', 'smmun mrwdin'}, {'smoen mreton', 'ssmyn maurdn', 'swmen mrrtan', 'symen mruidn', 'smoni martna'}, {'smoun myrttn', 'smonn mrtnih', 'swmun muortn', 'symen mruitn', 'somyn myrtni'}, {'ssman murdan', 'smeon mirdyn', 'swmin myretn', 'swmyn mrwton', 'smmyn mwrydn'}, {'smony mrytwn', 'smona merdin', 'semyn mrwdin', 'smmyn mrtwny', 'swmun mirdin'}, {'smaon mraotn', 'smoni maerdn', 'ssmyn mrtaan', 'symen mrtuwn', 'swmun mardni'}, {'smonu miartn', 'smoin mraatn', 'smoan mrtiny', 'ssmyn mrtina', 'smaon mwridn'}, {'smman mirtne', 'swmin mrtano', 'smoun myrotn', 'smoin mrudin', 'swman mywrtn'}, {'smuon mrtoin', 'ssmyn mirtnu', 'smonu mwrdin', 'swman mwrtny', 'swmin mwrtwn'}, {'smone mwrten', 'smoin mrtein', 'smoon mrdihn', 'smmin mwrtna', 'smman miradn'}, {'ssmun mrttyn', 'ssman mrtniw', 'swmin mardno', 'smoen martny', 'smmun mwrudn'}, {'swman mrtwyn', 'smoni mrtwni', 'smmyn mrtiin', 'smmun mortni', 'smuon mruton'}, {'smion mairtn', 'symen miirtn', 'smoon moardn', 'smony mrytan', 'smmyn maurdn'}, {'symun mrtino', 'smony myrtan', 'smoun mortna', 'syman mrtene', 'symyn meradn'}, {'symin mirtnu', 'somyn mordun', 'smion mrutyn', 'ssmyn mrteon', 'sumyn mrtyni'}, {'smony mmertn', 'syman mroten', 'ssman mrrtun', 'symyn murodn', 'smonu mordin'}, {'syman mmrtyn', 'smoni mrtine', 'smaon mrutan', 'smman murttn', 'swmun myrtna'}, {'smown mrwtin', 'smona mwrdyn', 'syman morwdn', 'smoon moratn', 'ssman mreidn'}, {'smony mratyn', 'ssmyn mraton', 'smonw mrattn', 'ssmen mrttin', 'smoin mertny'}, {'ssmyn merodn', 'smoon muortn', 'ssmun mardon', 'smoni mrytyn', 'ssman mordyn'}, {'smonn murtno', 'smoen myrdun', 'smonu mrtino', 'smmun moritn', 'ssman morwtn'}, {'ssmun mirtna', 'smonn merutn', 'smoun mmrtni', 'smoan mrtuin', 'smuon myrwdn'}, {'smman mrrtan', 'smoan moratn', 'smone mrdiwn', 'smeon myrydn', 'symin muridn'}, {'ssmyn miirtn', 'smonw mrtuyn', 'semyn mrdion', 'smony mardon', 'smmen muratn'}, {'symen mrtoon', 'smmyn mmrten', 'smono mairtn', 'smohn murwtn', 'smonw merwtn'}, {'swmyn mrtehn', 'smaon mardni', 'symen mredin', 'smonn mrdiin', 'smone meredn'}, {'ssman mahrtn', 'symyn myrtno', 'smonu mrtoon', 'ssmen mirdan', 'smoin mortne'}, {'smoen mirtny', 'smoin meurtn', 'ssmun mmrtni', 'smmen myrtwn', 'smony mortna'}, {'ssman mirutn', 'swman murdyn', 'smoyn merttn', 'smonw mrteno', 'smeon mrtuhn'}, {'smaon moradn', 'smman mruidn', 'smony mourtn', 'smoni mmortn', 'smuon mmritn'}, {'ssmun mrtean', 'smoni muhrtn', 'sumyn mrwton', 'ssman mrtoin', 'semyn moratn'}, {'smoun mrtniy', 'ssman mirodn', 'swmen mrrdin', 'swmyn merrtn', 'smoyn marutn'}, {'smeon mrtuin', 'samyn murtwn', 'smono moardn', 'smoan murodn', 'swman mrutwn'}, {'smony mertyn', 'smoun mwrdyn', 'smona morydn', 'ssman moertn', 'smoin mwrwdn'}, {'syman mardun', 'smonn morotn', 'smone mrdihn', 'sumyn mrrton', 'smmen mrtawn'}, {'swmyn mruton', 'semyn mraton', 'swman myrodn', 'smmyn mirdyn', 'smonw maradn'}, {'smeon mrtawn', 'swman merwdn', 'samyn mryten', 'ssmen merdan', 'smmun mrtanu'}, {'swmyn meretn', 'smoyn martny', 'ssmun maurtn', 'swmun mrttyn', 'smmen mrytun'}, {'symen mrtanw', 'smoun mruten', 'ssmyn mrwton', 'smuon moridn', 'smoin mardan'}, {'smonn murudn', 'ssman miredn', 'smown miwrtn', 'smoni mrtoin', 'smona maridn'}, {'swmin maartn', 'ssmin mraytn', 'ssmyn merwdn', 'smion mriitn', 'symun martna'}, {'smoun mwrwdn', 'swman mrtwwn', 'ssman mirotn', 'smoni mrwtin', 'smony mreton'}, {'swmin mwrdan', 'smono muartn', 'ssmin maordn', 'smoin mrdion', 'smonn mrydin'}, {'smono mraetn', 'smonu mrtano', 'smmen mradin', 'smaon myrttn', 'swmyn muwrtn'}, {'swmin mertna', 'smony morwtn', 'smman mrtana', 'symin mwrtnw', 'smoin mrtaan'}, {'smonn mrityn', 'syman mrwtyn', 'smoun myrten', 'smeon mwrtun', 'smaon murwdn'}, {'ssman mritin', 'swmin myrtna', 'swman mrytwn', 'swmen mirydn', 'smohn mrtwyn'}, {'ssman mrtwny', 'smony mrtuen', 'smeon murtnu', 'smoon murdon', 'smoen mrutin'}, {'ssmyn meyrtn', 'sumyn mrttni', 'semyn mrtniw', 'smmyn maratn', 'smman mardno'}, {'smonu moridn', 'symen mrittn', 'smaon mratwn', 'syman murdan', 'ssmen maridn'}, {'swmin mrodin', 'smono mirtni', 'smoun mretyn', 'smmyn meortn', 'smoin myrton'}, {'swmen mrtuwn', 'ssmun mwrdun', 'smono mrtnii', 'smonn mrtaen', 'smoan mrutyn'}, {'smmyn maridn', 'smuon mmrtwn', 'symyn mirttn', 'smoni mrtawn', 'smonn moortn'}, {'smoan mrteyn', 'samyn mrttyn', 'ssman mratin', 'ssmun mertna', 'smmun myrydn'}, {'smonw mrutan', 'ssmyn mrdinu', 'swmen muredn', 'smaon mraatn', 'smmun mritwn'}, {'swmyn myrten', 'smown mertny', 'samyn mmrtwn', 'smmun mrytan', 'smoan muardn'}, {'sumyn mrtenu', 'swman mordon', 'semyn mertwn', 'smman mrtany', 'ssmyn moirtn'}, {'ssmyn mirdon', 'swmen moartn', 'smoen mrdiny', 'smaon maardn', 'ssmin myrtna'}, {'smoin marrdn', 'semyn mardon', 'swmun mrdinw', 'sumyn myrdwn', 'smmyn mriidn'}, {'smoyn mirwdn', 'semyn mraten', 'symun mrtwni', 'ssmyn mrotun', 'smonu mwrutn'}, {'ssman myrtne', 'smoni mwrtna', 'ssmin mmrtan', 'ssmyn maertn', 'smonw mridin'}, {'swmen mwwrtn', 'sumyn mreton', 'smohn mirtno', 'swmin mardan', 'swmyn mwrydn'}, {'symyn murtne', 'ssmyn mwrdun', 'smmun marrtn', 'smonw mwrudn', 'smmin murrtn'}, {'smeon myrodn', 'swmyn mrtinw', 'ssmun mrtuen', 'smmyn mrritn', 'smono morttn'}, {'swmin murtwn', 'syman mwrtun', 'smmin mrteen', 'smoyn maredn', 'smmyn moredn'}, {'smeon mrtyyn', 'ssmen murtyn', 'smmin mmrtan', 'symyn mmwrtn', 'smman merydn'}, {'symin mordan', 'syman mrdain', 'smonu mrtenw', 'samyn merutn', 'smown murdin'}, {'smoon mrdien', 'smeon myrtnu', 'smoen mroten', 'symin myrttn', 'smona mwrydn'}, {'smown mrawtn', 'smoni merotn', 'ssmen mretun', 'syman mordon', 'swman mrtuhn'}, {'ssman mrtonu', 'smone mayrtn', 'smown mraidn', 'swmen marden', 'smoon myyrtn'}, {'smoni mirdan', 'smoin mwrdin', 'smown murtno', 'smoon mrttin', 'smoun mairdn'}, {'ssman mretan', 'smman maurtn', 'smeon mrotun', 'smoin mrotan', 'ssmun murdan'}, {'smaon mrtanw', 'swmyn murdin', 'ssmyn myridn', 'swmin mrdiin', 'smeon mrtniw'}, {'ssman mirudn', 'swmun mortnu', 'swmin merwdn', 'smonn mrtanu', 'smoin morwdn'}, {'smonu mrtwnw', 'smonw mwrtan', 'smion muyrtn', 'smoen mmrtan', 'smman mwrtna'}, {'smion meertn', 'semyn myrden', 'smono mrityn', 'smmin mrtunw', 'smmen mrytwn'}, {'smoon maortn', 'smoyn merydn', 'somyn marydn', 'sumyn myrtni', 'smman mrtehn'}, {'smoan maortn', 'smmen maretn', 'smonw miortn', 'smonn mrtine', 'samyn mrwtun'}, {'sumyn moratn', 'samyn miratn', 'swmin murden', 'smown mrittn', 'smoen merytn'}, {'smonw mrritn', 'smaon maridn', 'smmen marrdn', 'ssmun mrtena', 'smoan mrtenw'}, {'swmen mmrtan', 'smohn mrteyn', 'smmen mrdihn', 'smonu mardna', 'symen mmrten'}, {'syman mryten', 'smion mrdoin', 'symun mrtahn', 'smoen murtne', 'smoin meurtn'}, {'smonu mardny', 'smman morutn', 'ssman mwrwdn', 'ssmin mrtewn', 'symen morden'}, {'smown mrutyn', 'smmen mrtino', 'smuon mwrwtn', 'swmin mmirtn', 'smoun merden'}, {'smoon murdan', 'smonu mrautn', 'smmin muyrtn', 'syman mrdiyn', 'smmyn mwrtyn'}, {'smoon mardon', 'smmen merotn', 'somyn murwdn', 'smaon mrtoyn', 'sumyn moretn'}, {'ssmyn meertn', 'smmen mordwn', 'smonw myrdon', 'smonu mrwtun', 'smaon marden'}, {'smohn miyrtn', 'symun merdin', 'ssmyn mrtean', 'smoin maortn', 'syman mrwtyn'}, {'smoun mrdain', 'smono mwritn', 'somyn mrdihn', 'smman mrtuhn', 'smeon mrityn'}, {'smmun mardnu', 'smman mrotan', 'smono mrdinu', 'smown mortni', 'semyn mirotn'}, {'swmin moredn', 'swmyn mardan', 'swmun meertn', 'smoyn mortwn', 'smone mrtony'}, {'smmen mrteyn', 'smonn mirwdn', 'ssmun mrdiyn', 'smmin mwrttn', 'smman mrtuwn'}, {'smono mwritn', 'smmen mrutun', 'smown merdyn', 'ssmin maradn', 'smmyn murwtn'}, {'smoun meredn', 'smeon meertn', 'smoin mrautn', 'ssmen mertny', 'smonw mrtown'}, {'smown mwrutn', 'smmun mriitn', 'smmyn martno', 'ssmun murdwn', 'smoun mrtuhn'}, {'smmin muurtn', 'symen mrityn', 'swman mirtna', 'smoin merotn', 'smoen miridn'}, {'symin myratn', 'smonw muradn', 'swmin mrtino', 'ssmin marwtn', 'samyn meertn'}, {'ssmin myrdwn', 'symin morodn', 'swmin mmardn', 'smown mrtany', 'smonn mrratn'}, {'swman merwdn', 'smmyn mrdihn', 'smoun mrttni', 'smony mywrtn', 'symin maortn'}, {'smone myrudn', 'ssmyn mryten', 'smown mrtniw', 'smonu miritn', 'ssmen mrtwni'}, {'sumyn mirtnw', 'ssman mratwn', 'smonu mertny', 'ssmin mrawtn', 'smona mirotn'}, {'ssmin mortny', 'swmyn mirtny', 'ssmun merdan', 'smmen mwrwdn', 'semyn mertna'}, {'smony merdwn', 'smoin mrtuin', 'symin mmurtn', 'smonw mertnu', 'smonu mirdan'}, {'smonw mrtanw', 'symin mrtoyn', 'smown mrdiyn', 'smoin mrttni', 'smmin myrtnw'}, {'smoan muritn', 'smmin mrdiin', 'semyn mrutan', 'swman mrrtyn', 'smeon mratun'}, {'smmen mrritn', 'smohn maardn', 'smoni muortn', 'smaon mirwtn', 'symyn mrtohn'}, {'smmun mrtehn', 'ssmun mwrodn', 'smion mraetn', 'ssmyn mmrdin', 'smeon mortno'}, {'swmyn moortn', 'smman mortnw', 'smown myrdyn', 'symun mrtuhn', 'samyn morwtn'}, {'swmen mrtawn', 'samyn mwrtni', 'smoun mordwn', 'smone mrdein', 'ssmyn mrttwn'}, {'smonu marwdn', 'semyn mirutn', 'smonw mrtoin', 'smoyn mordun', 'smaon mardyn'}, {'ssmyn muretn', 'swmun moritn', 'ssman merydn', 'swmin mmrdin', 'smoyn mrtyyn'}, {'syman mirutn', 'swman mardna', 'ssmen mratyn', 'smona mrtino', 'smonn muortn'}, {'smmen mrtniu', 'swmyn meredn', 'symun moortn', 'smono myrtna', 'smoon mrahtn'}, {'symin mirudn', 'smoyn mrityn', 'smion murdyn', 'ssmin mretan', 'somyn mrtenw'}, {'smohn murytn', 'semyn mirtnu', 'smion mwrtnu', 'smman merdon', 'swman miirtn'}, {'smonn mordyn', 'smonu miortn', 'symin mrytin', 'smown mrwdin', 'syman mwrtwn'}, {'syman mertne', 'smonu murtni', 'smoyn miortn', 'symen mmrtun', 'somyn mraatn'}, {'smeon mrtyny', 'ssmyn mrrdin', 'ssmin miradn', 'symyn mordwn', 'symen mrtuan'}, {'smohn meardn', 'smoun mrdain', 'syman mrtuny', 'smoni myrtnu', 'smoen mrrdin'}, {'swmun mirotn', 'smonu mmrtun', 'smoun maretn', 'smoan mritwn', 'smoen mortnu'}, {'ssmen mrtenu', 'swmyn muardn', 'swmun myredn', 'ssmyn mirwtn', 'somyn mwrdun'}, {'smonw murttn', 'somyn mwrdan', 'syman morudn', 'ssmun murwtn', 'smoen moratn'}, {'smony moratn', 'smoen merdun', 'syman miradn', 'smona mruidn', 'smone mroton'}, {'smoni mrtenu', 'smuon mrtuwn', 'sumyn mairtn', 'syman merdon', 'smmyn mwrydn'}, {'symyn morrtn', 'smoni martnu', 'symen mordon', 'smoin myrydn', 'swman mrtonw'}, {'smaon mratun', 'ssmun mrtein', 'swmun mrahtn', 'symyn murtnu', 'swmyn mrrtan'}, {'smony merydn', 'smone morotn', 'smeon moridn', 'ssmun mratwn', 'symyn murtni'}, {'ssmen mrtinw', 'smmyn mrtyni', 'ssman mordun', 'ssmyn mehrtn', 'swmun mrtuny'}, {'samyn mrtena', 'ssman mmurtn', 'smoun murdon', 'smeon myredn', 'smonw mirodn'}, {'ssman morutn', 'smonn mrtonw', 'ssmyn myrwdn', 'smono mrotwn', 'smmen mmrtni'}, {'smmin mmartn', 'ssmen myrtni', 'smonn marutn', 'ssmun mwyrtn', 'smown mardno'}, {'symyn morudn', 'ssmen merudn', 'smona mertno', 'sumyn mraatn', 'swmin meridn'}, {'smone mrwtin', 'smmen martno', 'ssmen meardn', 'symin mardnu', 'smoni myredn'}, {'smuon merudn', 'samyn mriidn', 'smoin mrrten', 'smaon mreten', 'smown myrdon'}, {'smonw mretyn', 'symin myrttn', 'smono mirydn', 'smonu mraten', 'smona mordwn'}, {'sumyn mrdain', 'smono martno', 'smony myrtne', 'ssman mrattn', 'smmen mrdoin'}, {'smmun myrtun', 'smonw maortn', 'swmun mmrdin', 'smoin mrutan', 'swmyn mwredn'}, {'smony murutn', 'smuon moardn', 'smaon maertn', 'smoun mrtuwn', 'smion mrtiny'}, {'ssman mrdian', 'ssmin mardnu', 'samyn mretun', 'somyn mirotn', 'smown merden'}, {'smona mwrtun', 'sumyn muhrtn', 'ssman myrtni', 'somyn mrdein', 'symin mrutan'}, {'smoin mrtony', 'smoun maertn', 'smmun muirtn', 'somyn mrtton', 'smion mrrdin'}, {'smoni mrtinw', 'symun miradn', 'smmyn mratyn', 'smoen murrtn', 'swmyn mihrtn'}, {'ssmun mrrtni', 'smona murytn', 'symyn merydn', 'smone mrteni', 'smeon mirudn'}, {'smone mrritn', 'smuon mirtno', 'smoni mrtton', 'symun morytn', 'smmen mortny'}, {'smonw muratn', 'smone myrttn', 'smonu myrdon', 'syman mrtnii', 'ssmen mmrton'}, {'smony mrtihn', 'ssmen mwrutn', 'ssmun mraton', 'smeon mrdion', 'symun mrdein'}, {'symyn merudn', 'smuon mirdan', 'smono mryten', 'smoan muridn', 'symen morudn'}, {'ssmyn martne', 'swman mrrtan', 'swmun mrduin', 'ssmin morytn', 'swmyn mmrtyn'}, {'smono mordan', 'smoin murtnu', 'smohn mirttn', 'ssman mairtn', 'smona murtni'}, {'swman mirdun', 'smoen miredn', 'smonw mmrtwn', 'smony mridin', 'smmin mrteny'}, {'smoen mritan', 'smuon myrudn', 'smion mrtnii', 'ssmyn miredn', 'swman meritn'}, {'smoan marudn', 'smohn mwratn', 'smoni mirdyn', 'smona muyrtn', 'symun mrydin'}, {'ssmen mrtnih', 'smonu mwyrtn', 'swmyn merwdn', 'smmyn mrtein', 'ssmyn mrtaun'}, {'smono mordwn', 'smmin moredn', 'smmyn mrtinu', 'smmun mrtyny', 'swmun martne'}, {'symyn muardn', 'smeon mrtniu', 'smown mrtton', 'semyn meratn', 'smony mraton'}, {'smion mwritn', 'smeon mmrtwn', 'smonn myridn', 'smuon mmurtn', 'smmyn mwrudn'}, {'ssmen mmertn', 'smonu moretn', 'ssmin maardn', 'smoan moyrtn', 'semyn murtno'}, {'symin mrratn', 'smoon mmertn', 'smonn mewrtn', 'somyn mmritn', 'smaon murwdn'}, {'smonw myrydn', 'smuon myrdyn', 'smono myrdin', 'smmin mrotun', 'swmen mwrtwn'}, {'somyn mrytyn', 'smone moirtn', 'smohn mrtuni', 'ssmin myrdun', 'smmyn murwtn'}, {'semyn mwrdun', 'smeon myrtnu', 'ssman mirtny', 'smonu mrratn', 'ssmun mrdion'}, {'symin mruton', 'syman myratn', 'smoon mrwtyn', 'smoin mrdinw', 'smonu mrwtwn'}, {'samyn mrtuon', 'smonn mortyn', 'symin mardun', 'ssmin mardon', 'smony merwtn'}, {'smone murtno', 'smoin merden', 'smoni mrtoni', 'syman mertno', 'ssmen mirtnw'}, {'symyn mertnw', 'symen murwtn', 'swmen murydn', 'ssman mrtony', 'somyn mortnu'}, {'sumyn mrutwn', 'smmin mrtein', 'smoun myrtyn', 'symen mwrtyn', 'smmen mrttan'}, {'smony myrtan', 'sumyn marutn', 'smoen muratn', 'smonn mordun', 'swmyn murtna'}, {'smonn mriton', 'smmin mrrtwn', 'symyn mihrtn', 'smonw mordwn', 'smoyn miertn'}, {'symin mryten', 'smoen mmirtn', 'ssmun mrtenw', 'smoon meritn', 'symyn mewrtn'}, {'swmun mrdihn', 'smonw mortwn', 'swmen mrtonw', 'symin mertna', 'symen mrttin'}, {'smman myrudn', 'smmyn mrwtyn', 'ssmun mrtini', 'smona murtyn', 'swmin meertn'}, {'ssmyn muwrtn', 'smonn morytn', 'smony mritwn', 'swmun mwrton', 'smonw mreidn'}, {'smoni mrtinw', 'smmen murotn', 'smoon murtnw', 'symyn mrtniy', 'smoun mardun'}, {'smuon mwrtno', 'samyn mwrwdn', 'swmen mrteon', 'smoen meridn', 'smony mertwn'}, {'symyn moartn', 'ssmin mmwrtn', 'semyn mmyrtn', 'smown mardwn', 'ssmyn muradn'}, {'symyn mritan', 'smohn murtno', 'smown mrrdin', 'ssman martne', 'smonu mraton'}, {'ssmin mourtn', 'smoun mrutun', 'smohn mrrtwn', 'ssmun morden', 'sumyn mraidn'}, {'sumyn mwrutn', 'swmin mrytwn', 'smoen mordin', 'syman mrtwny', 'smonw mrtoen'}, {'smuon mrattn', 'smone mratun', 'smion mrtoin', 'smoin murdin', 'syman mrrtun'}, {'smmin morutn', 'symun mrytan', 'smoun marudn', 'smuon mmrtni', 'swmin mrtuwn'}, {'swman meretn', 'smmun mrtuhn', 'samyn mrtiun', 'smoyn mrittn', 'ssmen merdun'}, {'ssmun mirtno', 'smony mortno', 'smoon mrtwny', 'symin meurtn', 'smoun moridn'}, {'smoon mrwtan', 'samyn mwrtyn', 'smoni mertyn', 'symen mirotn', 'semyn miredn'}, {'smoyn mwradn', 'smono mrtwyn', 'ssmin meredn', 'symin murytn', 'sumyn mroitn'}, {'smman myrudn', 'syman mayrdn', 'swmen murwtn', 'swmin mirodn', 'smonu mrtahn'}, {'smoni muradn', 'smoin mroton', 'smona mrdein', 'swmen mwradn', 'smonu maertn'}, {'smuon mrtnih', 'smoni mrtywn', 'smoin mrteon', 'smona mrtaen', 'smown mrutwn'}, {'smmun mrwtun', 'smuon mmrtwn', 'ssmen marotn', 'smoin myrttn', 'smeon mrutin'}, {'swmen mroitn', 'smonw mrtaan', 'smoon myrton', 'smone mroton', 'ssmen mewrtn'}, {'smaon mrtwni', 'smmyn mirytn', 'smmen mertnw', 'smoyn murtnu', 'smonn mwrdun'}, {'swman mridin', 'smonu mrtonw', 'ssmyn muurtn', 'symen maurdn', 'smoin mrtoen'}, {'syman murtyn', 'smmin murtna', 'ssman maredn', 'smoan meyrtn', 'symun moartn'}, {'somyn mwrtno', 'semyn mrttwn', 'samyn miratn', 'smuon moyrtn', 'swmun mrtuun'}, {'symen murdon', 'smono myradn', 'swmen mertna', 'smeon mrtien', 'smone mwrtni'}, {'smmin morttn', 'ssman mrtynw', 'smone mroidn', 'swmin murtni', 'swman mrdien'}, {'symun mrtiin', 'smony mraotn', 'ssmin mritan', 'symin mrodin', 'smaon maratn'}, {'swmin mirydn', 'ssmun morydn', 'swmun murdyn', 'ssman merotn', 'swmen murwdn'}, {'swman mrittn', 'smaon muritn', 'ssmen mretun', 'symun muratn', 'smown mryton'}, {'smeon mwrtyn', 'smoan mraten', 'smohn mrtnih', 'smmun mrdiwn', 'smuon mairdn'}, {'ssmen murtni', 'smuon mirrtn', 'sumyn myritn', 'smeon mmrten', 'smown moredn'}, {'swmyn mrtino', 'smone maurdn', 'symyn myrwtn', 'samyn merttn', 'smoan maretn'}, {'syman mwrotn', 'smoon mardna', 'smeon mrteny', 'smona murtnw', 'somyn murttn'}, {'swmin mrtiny', 'sumyn mmrdin', 'samyn mrtonw', 'ssmyn mirdin', 'swmun mrtunw'}, {'smeon mrdian', 'smown myrdyn', 'smohn mortny', 'smonw mirdan', 'samyn mrtyni'}, {'smoni moredn', 'smono meradn', 'symin mrtwnw', 'ssman mwredn', 'smmin miritn'}, {'smoen mwyrtn', 'smmin mreten', 'smony mrtwwn', 'swmun miredn', 'sumyn mrtuny'}, {'smoyn mirdun', 'ssmyn mrdiun', 'smmen mrtihn', 'ssmun mrdiyn', 'symen merdan'}, {'smman miurtn', 'smono mwrutn', 'syman maretn', 'smion mridin', 'smoen miartn'}, {'ssman mrrtni', 'symin mordon', 'smoun mrdiun', 'smoan murodn', 'ssmun mwrtyn'}, {'somyn mirwdn', 'smonn myyrtn', 'swmyn mrutin', 'symun mwrtno', 'smonu murutn'}, {'smohn marwtn', 'ssmin mwrutn', 'smona mertwn', 'smmun mreidn', 'somyn miretn'}, {'ssmen mwrtni', 'ssmun murtny', 'smoyn mraitn', 'syman mrutan', 'smoen mwradn'}, {'smona mwrtnw', 'smown mwrttn', 'smman mirtno', 'ssmen morrtn', 'smmun mwrtun'}, {'ssmen mratun', 'symun mraetn', 'swman mrrtwn', 'syman miridn', 'swmun mortne'}, {'ssmun mmrtan', 'smonn myrdin', 'smmun mrtony', 'smoon mywrtn', 'smonw muridn'}, {'smion mrtiin', 'smaon miertn', 'samyn mrtien', 'smoon merwtn', 'symun mmritn'}, {'smoan mrdain', 'ssmen muritn', 'smoyn mwrdan', 'symun mrttwn', 'syman mwrydn'}, {'smone miratn', 'swmen murdan', 'syman murtna', 'smeon marwdn', 'smoen murodn'}, {'swmun myrytn', 'smoun mortyn', 'smoni mrtnie', 'ssmyn mriten', 'ssman murtni'}, {'smion mrteni', 'swmyn mrtany', 'ssmyn mrtein', 'symun mrwtan', 'smone myrden'}, {'samyn myrdin', 'ssmun mrdain', 'swman moratn', 'symyn mrtuny', 'smoyn morwtn'}, {'smoon mrdion', 'ssmun mraidn', 'ssmen mrrtwn', 'smown mrteno', 'swman mrtany'}, {'smona mirtno', 'somyn myrdan', 'smoni miratn', 'smoon mrtena', 'smeon mirttn'}, {'symen miredn', 'smuon miurtn', 'smoun mwrden', 'symin mrwten', 'smion mrtana'}, {'ssmen mwredn', 'symin mrtawn', 'ssmyn mrdiny', 'smone mardnu', 'symen mrtoyn'}, {'symen marrtn', 'smony miredn', 'smohn mrtawn', 'smoen maurtn', 'smoan mrtoon'}, {'smonw mrtiin', 'smoan murtny', 'smonu mertni', 'sumyn mrteen', 'swman maradn'}, {'ssmin mrtyyn', 'smona mirtno', 'smaon mmortn', 'smown mahrtn', 'smmin mrotin'}, {'smoan mrtuwn', 'symyn mrtonu', 'smoen mrtini', 'smohn moardn', 'smonu mreitn'}, {'swman mrtoan', 'smoun mirdwn', 'ssmyn mrtiyn', 'semyn miritn', 'symin mroton'}, {'symen murttn', 'smonw murtny', 'semyn mrtene', 'smaon mrteun', 'smoun merrtn'}, {'smoun mwrden', 'smohn moratn', 'smoni mirtnu', 'samyn murrtn', 'smmun mrtene'}, {'swmen mmrtan', 'smion marutn', 'smeon mohrtn', 'smoin mmortn', 'smmyn muretn'}, {'smohn mmortn', 'swmun marutn', 'ssmen mruton', 'smono maartn', 'symin meredn'}, {'semyn mirrtn', 'smone miurtn', 'smonu merttn', 'smony mirttn', 'samyn mwrdwn'}, {'smoin mywrtn', 'ssman merwdn', 'smoan myrtnw', 'smonu maordn', 'smone myrtun'}, {'smion muritn', 'somyn mardyn', 'smoyn miredn', 'smmen mrtaun', 'smohn myrodn'}, {'syman mortwn', 'smoin marutn', 'swmyn mirtna', 'somyn martny', 'swmen myrtwn'}, {'sumyn meyrtn', 'ssman merden', 'syman mredin', 'ssmun myretn', 'smoni mrdiin'}, {'smonw mrityn', 'smion mrtawn', 'smoun myrdun', 'smono moardn', 'smaon mirrtn'}, {'symyn mrtaon', 'swmyn myrdan', 'smmun mraetn', 'smoni mrtiny', 'smoan myritn'}, {'smmen mrtanu', 'smoni mrdinw', 'ssmun moardn', 'smoin morutn', 'smman mrtaan'}, {'ssman martnu', 'smmen maerdn', 'ssmen maurdn', 'symin muridn', 'syman mrdoin'}, {'smion myrdin', 'smoyn muredn', 'ssmun meortn', 'smoan mratyn', 'smoin moyrtn'}, {'symyn murydn', 'smonn muridn', 'swmen meartn', 'smmen mirotn', 'smion merotn'}, {'smmun merdwn', 'ssmin mrttin', 'swmen myrrtn', 'ssmun mirytn', 'swmyn mrdiun'}, {'ssmin mmrtni', 'smoyn morodn', 'smman mrdiun', 'smuon myretn', 'swmin marodn'}, {'smoyn mmrtyn', 'ssmin morwdn', 'swmun mertnw', 'smonw muurtn', 'ssmen mrittn'}, {'smone mrtnie', 'sumyn mordan', 'syman murdwn', 'symun martna', 'smown mirdin'}, {'smonw mrttni', 'smmin martno', 'somyn mrritn', 'symyn mrwtwn', 'smuon mrotun'}, {'smoyn mratan', 'ssmun mrtown', 'smona mmrdin', 'smeon mrratn', 'smion mrdinu'}, {'smoun martnu', 'smonu murwtn', 'smony mawrtn', 'smman muertn', 'ssmun marutn'}, {'smmun mmratn', 'smona mrtony', 'syman mmertn', 'semyn myrrtn', 'smeon mirrtn'}, {'smoon mardon', 'smoan myrutn', 'smoyn mmyrtn', 'syman mrtein', 'smion marudn'}, {'smmin mwrtny', 'swmen meridn', 'smmun mrytin', 'swman myrtne', 'smman mrutan'}, {'smonu murtnw', 'smony mirdon', 'smaon mratun', 'ssman mwrudn', 'ssmen mrtunw'}, {'smeon mrutan', 'smown mraitn', 'symyn mretyn', 'symun mertyn', 'smonw merytn'}, {'smoon myrten', 'smoyn mwrtwn', 'smmyn mirttn', 'swman mmrten', 'smohn mirwtn'}, {'swman merdan', 'smman mraitn', 'smaon myrdyn', 'smeon morudn', 'ssmun mrtoni'}, {'smoin mayrtn', 'smohn mriton', 'semyn mraton', 'symun mretun', 'smoni myrdin'}, {'swmen mriton', 'swmun mrttni', 'smmun myrtan', 'smoni mwritn', 'symun morden'}, {'smoyn myyrtn', 'smoen mirttn', 'smona marrtn', 'smeon mrtunw', 'ssmen mretin'}, {'swmyn mrtawn', 'ssmen mirutn', 'smmen miardn', 'symin merwtn', 'smman mwrtno'}, {'sumyn mwrdan', 'ssmen mirdyn', 'smona mmrtan', 'smoin murtyn', 'smohn morytn'}, {'swmin myrudn', 'smoan mortni', 'samyn murttn', 'smohn mrtoun', 'smono myrtwn'}, {'swmyn martny', 'smoin mmrtan', 'smohn muradn', 'smion mortno', 'smmun murttn'}, {'ssmyn mrtniw', 'smonw miyrtn', 'symin myrttn', 'smoni myrtnu', 'smuon mrotin'}, {'swmun mrotun', 'ssmyn myrtne', 'swmyn mrtiin', 'somyn merydn', 'smmyn mrtonw'}, {'smmun mrodin', 'semyn mrtten', 'smaon morotn', 'symun mrtynw', 'swmen mridin'}, {'sumyn murdun', 'swmun mrtene', 'smion maratn', 'swman moritn', 'symyn murtna'}, {'smoen mrtana', 'swmen mairdn', 'smown mrtywn', 'swmin muardn', 'swmun mardun'}, {'smion mrtynw', 'syman mraetn', 'smmen muyrtn', 'ssmin merodn', 'ssmyn merrtn'}, {'smonw mrtano', 'swman martne', 'swmin mardyn', 'smoen mrtaon', 'symen mirodn'}, {'symyn merytn', 'swmyn mrtoan', 'ssmin mardan', 'swman mirden', 'somyn merwdn'}, {'somyn martno', 'smmin mrtuyn', 'smone merydn', 'smeon mrdain', 'smaon meurtn'}, {'smohn myrdon', 'smmyn martno', 'smony myrdun', 'ssmyn merttn', 'symin murtyn'}, {'swmyn mrtien', 'ssmen mrrtni', 'ssman mrwtan', 'ssmun mrtwyn', 'smone mraytn'}, {'smoen mrytan', 'ssmun mrrtni', 'smmyn mwrdwn', 'smoin mmertn', 'smohn mrawtn'}, {'smone mritan', 'symun moradn', 'smaon mrotyn', 'smmun mrtaon', 'somyn mwrtan'}, {'smion mwrdun', 'ssmin murudn', 'swmen moortn', 'samyn murdun', 'smuon marotn'}, {'smoen mirtna', 'smmun mritun', 'smoin mrtina', 'ssmen mirytn', 'smuon mroitn'}, {'smmin mihrtn', 'smion marutn', 'smoon mrtywn', 'swman mwrton', 'semyn murttn'}, {'swmun mrtiin', 'swmyn mrotwn', 'smone mrtwyn', 'smoni muridn', 'symen mwritn'}, {'symen mrtniw', 'smown mritan', 'swmyn mrrtwn', 'smman morydn', 'swmin mordun'}, {'smmun mirdwn', 'ssmyn mardno', 'smoan mordyn', 'ssmen mritwn', 'swmyn murtwn'}, {'smmin mwrodn', 'smoin mrdiun', 'smonu meartn', 'symin marotn', 'smaon mertni'}, {'smoun mriton', 'smone mrtuon', 'smonn martnw', 'smaon mrattn', 'smoin mrtenu'}, {'smony murtna', 'smown merdan', 'ssmyn mrtoan', 'smonu mertnw', 'smoyn meritn'}, {'smonu mrattn', 'ssmun mairtn', 'symin mrtwnw', 'smoan mwrdwn', 'symun moyrtn'}, {'smonu mrwton', 'smoon muardn', 'smmen mraten', 'smoun mrtein', 'smono merdan'}, {'smoen mwwrtn', 'ssmyn mmrtan', 'smuon miratn', 'smone mrtani', 'somyn muurtn'}, {'somyn mmrten', 'smoin mrdiin', 'smone murdan', 'smoun merttn', 'swmin muartn'}, {'symin mritun', 'ssmyn mahrtn', 'symyn mrtwnw', 'smony merdyn', 'sumyn mrtiwn'}, {'smeon mwrten', 'smoan mihrtn', 'samyn mrtoni', 'smonw miardn', 'smmun mreten'}, {'smman mrwten', 'smonu mrdain', 'smone murdyn', 'ssmun muredn', 'smmun mrtwwn'}, {'somyn mardnu', 'smoin mrtonw', 'smoyn mawrdn', 'ssmin mmratn', 'smono mrtwwn'}, {'swman murrtn', 'swmun muortn', 'smmen mrrtwn', 'swmen mrtehn', 'smuon morydn'}, {'smono mirdon', 'smonw mretin', 'ssmin mairtn', 'symun mawrtn', 'ssmen meratn'}, {'smoen mrydin', 'ssmin mritin', 'ssmun mmyrtn', 'swmen mardon', 'syman mirdin'}, {'smoon myrotn', 'semyn mrdian', 'smoun mmertn', 'smonw myritn', 'smone mrtain'}, {'semyn mwwrtn', 'symyn merwtn', 'smoni mrwtin', 'smoyn merttn', 'swmun mwradn'}, {'smion mmrtyn', 'smoun mritin', 'smonw myretn', 'ssmun mrteno', 'smmin meortn'}, {'smono mrtuun', 'smoan mreten', 'ssmen mretan', 'swmen morydn', 'swmin mayrdn'}, {'somyn mryten', 'smonw mwrwtn', 'smone mirtwn', 'ssmin mrrtyn', 'smaon mwratn'}, {'syman mardwn', 'ssmun murotn', 'swmen mmrtni', 'ssmin myrutn', 'symun murwdn'}, {'smonw mrittn', 'smonn mwrtnu', 'smman mrtoan', 'symun mrrtan', 'smmyn mrteno'}, {'smonu mrtwnw', 'swmun mrtenw', 'smman miridn', 'smohn mmurtn', 'smuon muretn'}, {'smoan mradin', 'symyn miyrtn', 'smmen meretn', 'ssmun murdwn', 'ssmin myrutn'}, {'smion mirtno', 'ssmyn mrtuhn', 'smoni mrityn', 'smonu maardn', 'sumyn mroitn'}, {'ssmin mywrtn', 'samyn mmortn', 'smmen mrtehn', 'symun myrotn', 'swmin mrtuen'}, {'smoen murtyn', 'ssmin mrrtan', 'ssman moyrtn', 'smown mmertn', 'smman miratn'}, {'ssmyn mrtuin', 'symun mwrtni', 'smaon mrutin', 'smmin murtna', 'smmen mardwn'}, {'smoni mrwtin', 'smmin mortnw', 'smion murden', 'ssman mreitn', 'swmyn moradn'}, {'ssmun myrwdn', 'swman mrahtn', 'smonu muratn', 'smony mawrdn', 'swmin merdyn'}, {'smoni martnu', 'symin mirdyn', 'ssmun mirtnu', 'smono mrautn', 'swmen mrtanw'}, {'ssman mohrtn', 'smone myrtun', 'smono mrdinw', 'samyn mwrdon', 'symyn muyrtn'}, {'ssmen merodn', 'swmun mmrtan', 'smonu myrdyn', 'smono marotn', 'smmin mrtany'}, {'ssmen mwyrtn', 'symen mrudin', 'smono mryten', 'sumyn mrdein', 'smmen mwrodn'}, {'smoan mrtoin', 'smoen mrwtun', 'semyn myrttn', 'smeon merdyn', 'smion merotn'}, {'syman mrtnih', 'sumyn mrtown', 'smmin moyrtn', 'smoun mredin', 'somyn mraatn'}, {'smeon merden', 'smonw mrudin', 'smoyn maridn', 'smohn mrratn', 'samyn mrotyn'}, {'smono marrdn', 'smoen mriitn', 'swmin mrdien', 'smoni myrttn', 'smoan mwrodn'}, {'ssmin moartn', 'smoon maurtn', 'swmyn mirtno', 'smono meritn', 'smmin mritin'}, {'ssmyn mrotin', 'smoni miyrtn', 'swman mratin', 'swmin mahrtn', 'smman mrtonu'}, {'smoen mertyn', 'smoni mraetn', 'smony mrtwyn', 'smoun mwrden', 'ssmin myrton'}, {'smony myrdin', 'swmen mratyn', 'swmun miartn', 'smmun mirtne', 'smonu mratan'}, {'smaon miurtn', 'smona mmrtyn', 'smone mortnw', 'smion mirttn', 'sumyn meredn'}, {'smoni maredn', 'smona mrdiin', 'smoan myrtan', 'smeon muwrtn', 'swmyn mwradn'}, {'smonw mrtene', 'somyn mrtena', 'swmun mrudin', 'symin mrteen', 'smoan myrydn'}, {'ssmin mrteun', 'samyn mwrtne', 'symin mrtiwn', 'smoon mrodin', 'swmun mrityn'}, {'smone myrtnw', 'smion mrwtan', 'smmyn meirtn', 'smmen mrtene', 'somyn mrrtni'}, {'smmun mortnw', 'ssman maritn', 'somyn mrtehn', 'smoen myrton', 'smona myrodn'}, {'swmen mrdion', 'symin mwrdyn', 'smoni mrdinw', 'ssmen mrtanu', 'smoan mrtynw'}, {'swmen miridn', 'smoan mrtoyn', 'swmin mertnu', 'symin murudn', 'smoon mardnw'}, {'ssman merudn', 'smion mardun', 'somyn maordn', 'smone myrdin', 'syman mrtuin'}, {'sumyn mardwn', 'smmun mritan', 'smonn mwritn', 'ssmen mrtonu', 'smoen mirtnw'}, {'swman mirydn', 'semyn mrtaun', 'swmun myrtnw', 'sumyn mrtaon', 'ssmin mrtuny'}, {'smaon mirudn', 'symen mwretn', 'swman muyrtn', 'smoyn mrtihn', 'symin mihrtn'}, {'ssman mrrton', 'smaon moyrtn', 'smion marutn', 'smone mroidn', 'swmyn mritin'}, {'smonn morytn', 'smoyn mirrtn', 'symen mrautn', 'smoun mryten', 'symin miridn'}, {'ssmin mrtine', 'swmun mrtyyn', 'symun mewrtn', 'smonu mrteon', 'ssman mrtano'}, {'smmen marutn', 'syman mrtoun', 'smmyn mirtnw', 'smoni murwdn', 'ssmen mrtayn'}, {'smonu mrwton', 'smoni mrytyn', 'smone mrdinu', 'smonw mawrtn', 'smoen mrteny'}, {'somyn myrtun', 'swmin marrdn', 'swmun mritun', 'smown mordon', 'smoni moertn'}, {'smone mriitn', 'smono mrutwn', 'smmun mordon', 'ssmin merdwn', 'ssmen mraotn'}, {'smaon mrwtun', 'smoin moartn', 'semyn mrtani', 'sumyn mrtunw', 'symun merutn'}, {'smoon mertyn', 'ssmyn mrtonw', 'smmyn mraatn', 'smown myrtyn', 'smonu mwrtnw'}, {'samyn muhrtn', 'smoun myratn', 'swman mrytyn', 'smoyn mwrdon', 'smone murdun'}, {'smonu moritn', 'smonw mrattn', 'smmyn murtny', 'ssmun mortyn', 'smeon mraetn'}, {'smoon meratn', 'smown myrten', 'smoun murtna', 'ssmyn mrtanu', 'smmen mardon'}, {'symun mrtuan', 'smman mrwton', 'smaon mrdiyn', 'smonn mardnw', 'syman mmwrtn'}, {'ssmun mrtnie', 'smoyn merotn', 'syman meradn', 'smone mrwtan', 'smohn murdin'}, {'smown moretn', 'symen miardn', 'swmun mirudn', 'smoon miwrtn', 'samyn marotn'}, {'swmyn mwrdun', 'smmyn marden', 'smono mroten', 'ssman mrtiun', 'symin mowrtn'}, {'smeon martne', 'smmyn miratn', 'ssman mardno', 'smonn mreten', 'symun mawrtn'}, {'swmyn miortn', 'smono mretyn', 'symyn muirtn', 'samyn mrtoin', 'smion murden'}, {'swman mardun', 'smuon mrtyyn', 'smoin mwrdyn', 'smoan murtnw', 'smaon merodn'}, {'somyn mratwn', 'smonu mrtiyn', 'smony moortn', 'swmin mrtaen', 'smono merudn'}, {'smohn mrittn', 'smoan mairdn', 'smonw mrtany', 'ssmen mruitn', 'smuon marodn'}, {'smoen mrtuen', 'swman myrtnw', 'swmun meertn', 'smoyn mrdion', 'smmyn mrydin'}, {'smman mertnw', 'smonn myrdun', 'ssmyn mertno', 'smmun mrtani', 'symin maritn'}, {'smown mridin', 'smman mirydn', 'ssman meradn', 'symen mrtany', 'swmen mrtuni'}, {'smman mrwtun', 'smion mrtuen', 'smonn mrtuin', 'ssmin mrtunw', 'smmyn mwrudn'}, {'smonu mrrtni', 'smony murtnw', 'smmun muwrtn', 'ssmen mirytn', 'smoen mrtniw'}, {'smono mirutn', 'symyn mahrtn', 'sumyn mrrtni', 'smmyn mruidn', 'smoon mrtien'}, {'smmun mrtehn', 'ssmyn murdin', 'smoni mrtinw', 'ssmen myrodn', 'smoyn mardni'}, {'smoni mrtine', 'ssmun mrtenw', 'smona martne', 'smoin marodn', 'ssman mrtana'}, {'smoni murutn', 'smmin martna', 'smoin mrttni', 'smmen mwrdon', 'smeon moartn'}, {'symin myrudn', 'smuon miyrtn', 'symyn morudn', 'smone meurtn', 'somyn mwrdin'}, {'smonu mrautn', 'smoen mirotn', 'samyn mroten', 'smion mahrtn', 'smony mirtna'}, {'ssmyn mrttin', 'smmen mwrton', 'smoen mwrdun', 'smmyn mirutn', 'samyn mmritn'}, {'smohn moirtn', 'ssmen mrtoyn', 'sumyn mrdiyn', 'smown mordyn', 'swmin mretwn'}, {'smion morudn', 'smoyn mwrydn', 'ssmen mirtyn', 'ssmyn mirudn', 'smeon mmortn'}, {'smoan mirtni', 'smonn mertnw', 'ssmun mraitn', 'smmen marwdn', 'swmin mardnw'}, {'smone mardne', 'smohn mrytin', 'smoin muwrtn', 'ssmen mrtnii', 'smmen mirtny'}, {'smoni mmritn', 'smmin mardno', 'swmen mrrtyn', 'smmen mrytin', 'ssmen marrtn'}, {'smono mrotan', 'smmen mrdiny', 'symen mwrtny', 'smona mrtoyn', 'semyn mrtana'}, {'smmyn moyrtn', 'smaon mirtnw', 'ssmyn mrtoan', 'ssmin mwrtni', 'smeon myrtna'}, {'samyn merodn', 'smone mwrdwn', 'smown mrtuny', 'ssmen mrtoan', 'smmyn mwrtwn'}, {'swmyn mraetn', 'smohn mirttn', 'smaon merttn', 'symin mrrtan', 'symyn murtnu'}, {'smoni mrtiin', 'smmin marutn', 'smona mrutwn', 'smono maritn', 'somyn mrtein'}, {'semyn mrtein', 'smman mertna', 'smmyn murtno', 'smown mrtahn', 'ssmen mrtten'}, {'smaon mrtten', 'smony mordwn', 'syman miartn', 'smoon mmratn', 'smoni mrratn'}, {'symen mwredn', 'smmen mrtniw', 'smoni myrrtn', 'smoen mrwdin', 'smona mrteen'}, {'smoon mrotun', 'smonn mrdinu', 'smmyn mahrtn', 'smoen mraytn', 'smuon mardwn'}, {'ssmin meyrtn', 'smoan mrtuun', 'syman myrdan', 'smaon mritan', 'swmyn mertnu'}, {'somyn mrutin', 'symen mrtonu', 'symin mrtwnw', 'smohn mrtaan', 'symyn mertno'}, {'ssmen mradin', 'ssmun mordin', 'smuon marytn', 'smone maordn', 'smion mwridn'}, {'symen merutn', 'smoni murdan', 'smmyn muortn', 'smoyn mrtoni', 'semyn mrtehn'}, {'smoan mordon', 'smony marrtn', 'symyn mrodin', 'ssmyn miartn', 'symun mordyn'}, {'syman mortna', 'smoon mriton', 'smonu marydn', 'smmun mwrtnw', 'swmyn maratn'}, {'samyn myyrtn', 'smohn murtnu', 'smaon mirydn', 'somyn mruitn', 'symin myrtna'}, {'smeon miyrtn', 'ssman mrutin', 'ssmyn miratn', 'ssmen miretn', 'smona mrdein'}, {'smonn murtwn', 'smoon mrdien', 'smion mwyrtn', 'smoyn mreitn', 'swmyn mmrtyn'}, {'smaon mraotn', 'smion mwrwdn', 'smonn mrttan', 'symyn mwrdwn', 'ssmyn murodn'}, {'syman mratin', 'ssmun myrtno', 'smonw maardn', 'ssmin mordwn', 'smmyn mrtino'}, {'smman myrwtn', 'smonn mroten', 'smeon mrutwn', 'symen mmrton', 'smono mirytn'}, {'swmin mrrtwn', 'swmyn mrtyni', 'smmun merden', 'symyn mairtn', 'smown mrtaen'}, {'semyn mrdiny', 'ssmen mrttwn', 'ssmyn mrtunw', 'symyn mrtenu', 'smono mwredn'}, {'smoon marrdn', 'somyn mraotn', 'smoni mrtoen', 'smona myratn', 'smmyn murotn'}, {'smoyn myrtun', 'smony mrtayn', 'smman mwrtno', 'ssman myrdon', 'smoon mretin'}, {'ssmyn mritun', 'smmin mwrtan', 'ssman mratyn', 'swman mourtn', 'smoen murdyn'}, {'syman myrtne', 'smmyn moortn', 'smonu marutn', 'ssmen morwtn', 'ssmin mretan'}, {'smoni muortn', 'ssmyn mrtaon', 'smoen marrtn', 'semyn mrittn', 'swmun mretan'}, {'ssmen mwretn', 'smmyn meardn', 'smoun mrydin', 'swmen mirttn', 'smony miritn'}, {'smohn myrodn', 'somyn myretn', 'smoun mrtaun', 'ssmyn merdyn', 'smoni mortnw'}, {'swmen myrdun', 'ssmen mwyrtn', 'ssman mrtein', 'smaon mewrtn', 'smmen mwrydn'}, {'smown mrtynw', 'smion mardny', 'smone myrwdn', 'swman maurtn', 'smonu mirtna'}, {'smoni mirodn', 'smuon mwrden', 'symen maurtn', 'smony myrtwn', 'swmen mrtane'}, {'smone myrten', 'symyn mrtani', 'smman mertna', 'smoon muhrtn', 'smion moridn'}, {'smion mrtoan', 'smono mrdian', 'samyn murtni', 'smuon mortno', 'swmin marwdn'}, {'smmen mruidn', 'swmen mwrden', 'smohn moartn', 'smmin mirtnw', 'smone mritin'}, {'smoen morudn', 'ssmen moretn', 'symyn myrtyn', 'smonw myyrtn', 'somyn mrdiwn'}, {'smonn mwrotn', 'smion mwrtny', 'ssman mirtny', 'smoon mywrtn', 'smonu mrtniy'}, {'swmun mrdiny', 'smmun mrtuny', 'smonu mrtaon', 'somyn moratn', 'smuon mrrtan'}, {'swmin mmrtwn', 'smona myrwdn', 'smoan meratn', 'sumyn mirydn', 'swmun maredn'}, {'smoni mardon', 'swmun mrtniw', 'smion myrton', 'symin murtno', 'swmyn mrdiun'}, {'smown mrttni', 'symin mrotyn', 'smone mrtnie', 'ssman meretn', 'smmin mrdain'}, {'smoin mrytwn', 'syman myrtan', 'smoon mrtuyn', 'swman mrdion', 'smonw maertn'}, {'smoon mrttni', 'smoun mertni', 'smeon mayrtn', 'sumyn mortny', 'smonn meertn'}, {'symen mrtoni', 'symin mrrdin', 'smoun meredn', 'swmun mortnw', 'smuon meortn'}, {'smmen merwdn', 'smmin mirtni', 'smono miartn', 'smonu mrytin', 'smion myrtno'}, {'smmin mrawtn', 'smeon mertni', 'symyn mirdyn', 'smmyn mraton', 'smmen mrytyn'}, {'smoyn myrdwn', 'smonu mirytn', 'swmun mwrdwn', 'smown mrtaon', 'smmen murutn'}, {'smman marwdn', 'smono maordn', 'smonw murotn', 'somyn muertn', 'smuon mmrtni'}, {'smaon mrdinw', 'smone marudn', 'swmen myrtna', 'swmun maretn', 'symin meyrtn'}, {'smown mrduin', 'smoun mwridn', 'smoni mrwtun', 'smonu mirdwn', 'somyn murtno'}, {'swmen mrutin', 'smoan mrteno', 'smoni mrtuny', 'sumyn mrteon', 'ssmen muretn'}, {'smonn mwrtnw', 'symen martni', 'symin mrtanw', 'smoni myrton', 'smoan mrdiwn'}, {'smony marden', 'smmen mrwdin', 'sumyn mertnu', 'smmun myrodn', 'samyn miartn'}, {'symen murwtn', 'smion mwrttn', 'symun moredn', 'smmyn myrttn', 'somyn merydn'}, {'smmin mrteen', 'ssman moritn', 'ssmyn miradn', 'swmen morwtn', 'smonu maerdn'}, {'smman mourtn', 'swmin miwrtn', 'smown mrtoun', 'smone miretn', 'smmun mrtony'}, {'smono mreten', 'sumyn mwrdan', 'smuon mrtown', 'ssmun murytn', 'symyn mwrotn'}, {'smonn martnw', 'smman merdan', 'smoan mardna', 'symen mrotyn', 'smoon mratun'}, {'symin mohrtn', 'smaon myrtun', 'smoon mrtyyn', 'smonw mrrtun', 'somyn mrtwnw'}, {'swmyn mrteon', 'sumyn mortno', 'somyn mirttn', 'swman mertyn', 'smonu murudn'}, {'swmyn meortn', 'smmyn moirtn', 'ssmyn mwrdan', 'smoin merdwn', 'smion mirdyn'}, {'smmen mrtoun', 'symyn mreten', 'samyn mmrten', 'swmin mradin', 'ssmyn mrotun'}, {'ssman mretyn', 'smoni martnu', 'ssmen mraatn', 'smoen mrtain', 'swmyn mmartn'}, {'smonu mrteyn', 'smion mrttin', 'smmun mretan', 'swmin mrytan', 'samyn mrtenw'}, {'smoon mrtani', 'swmen mwrtun', 'smoun mordan', 'smoan marytn', 'smonu mrtina'}, {'smoun mmurtn', 'symun mrtenu', 'smony miyrtn', 'smown mruidn', 'smonw maradn'}, {'smoen mardan', 'swmen muredn', 'smion mrtonw', 'smona mrahtn', 'smoon mirydn'}, {'symen myritn', 'swmun mrwtin', 'smohn muardn', 'swmen mortny', 'smmin mrtany'}, {'smone mrduin', 'sumyn mordun', 'smion mwredn', 'smuon maurtn', 'smaon myratn'}, {'somyn mrrtwn', 'samyn martna', 'swmen mrittn', 'smonw marudn', 'smoen morwdn'}, {'smoyn mwradn', 'ssmin mraatn', 'smmyn muurtn', 'symen mehrtn', 'ssman muyrtn'}, {'smone mahrtn', 'swmyn moardn', 'smoan mairdn', 'smaon mirtnu', 'semyn mwrtnu'}, {'smoen maortn', 'smeon mardny', 'smoni mrteyn', 'symin mwrotn', 'somyn myrdin'}, {'samyn mrtonu', 'smion mrtanw', 'smony myrttn', 'swmin marutn', 'ssmun mrtoin'}, {'smown morodn', 'smoan mrdinu', 'ssmun mrtnie', 'swman miredn', 'ssmen mehrtn'}, {'smman mwrytn', 'smonu mrrten', 'semyn mrtony', 'smuon mirdin', 'smmyn murtne'}, {'ssmun mrdinw', 'swmin maratn', 'swmun merdwn', 'smmun merodn', 'smonn mreitn'}, {'smoan mrtyny', 'smman mrdihn', 'swmyn myrtnw', 'swman mretan', 'symun martne'}, {'smmen mreitn', 'smohn mwrttn', 'smmin maradn', 'swmen mritwn', 'swmun mrytin'}, {'smoun mrdien', 'smuon morodn', 'smion mmirtn', 'somyn meratn', 'semyn myrdan'}, {'smono mertwn', 'smohn mwritn', 'smony morttn', 'swmun mrtenu', 'smoun mordwn'}, {'ssmyn marrtn', 'ssmin mmartn', 'smoen mmurtn', 'smoan moredn', 'ssman mrytun'}, {'smion merutn', 'smmun moyrtn', 'smuon maertn', 'smone mardnu', 'smoyn mwrtne'}, {'ssmyn mrteyn', 'smion mirtni', 'smohn mwrwdn', 'smone maardn', 'smmin mwridn'}, {'smohn mrtehn', 'smone mahrtn', 'smoon mrttwn', 'swmun mairdn', 'syman muartn'}, {'smonn mrtoni', 'smona mrtuni', 'smone myrdon', 'smonu mrtaon', 'ssmen mrotan'}, {'smonw murttn', 'smeon maredn', 'smion myrytn', 'symin myrodn', 'smohn meretn'}, {'smoni maartn', 'smoyn mmrdin', 'smmun mraitn', 'smoan morwtn', 'swmen muwrtn'}, {'smown mirudn', 'smono martne', 'ssmun meratn', 'ssman mirttn', 'sumyn mrytin'}, {'smeon mwrrtn', 'smoan morutn', 'smoen mmardn', 'ssmun meretn', 'symen mertyn'}, {'smona mrdiun', 'swmyn mrtown', 'smoni merydn', 'smoon mrwtwn', 'swmen morden'}, {'smmyn mrdiyn', 'symun merdan', 'symyn mardni', 'swmen mrttin', 'symin mwradn'}, {'ssmin mwrtnu', 'smony mardny', 'symyn meyrtn', 'sumyn martno', 'smoni mwrotn'}, {'smman mrtton', 'samyn mrodin', 'sumyn murtni', 'symyn mrtanu', 'semyn moretn'}, {'smown mrtniu', 'smoyn mertna', 'samyn mrtano', 'symen mrytin', 'smmun mrtene'}, {'smmin moridn', 'smono mrdain', 'ssmin mrrton', 'swmyn marutn', 'smown murtny'}, {'smeon mrtyyn', 'swmyn myrton', 'samyn mrtinw', 'smonw mortno', 'symen morotn'}, {'smaon mrutun', 'syman mraetn', 'smmen mirtwn', 'symyn mrtuan', 'smohn mwrwtn'}, {'symen mmrten', 'smona muertn', 'ssmin mrttan', 'ssman mrduin', 'symun mwratn'}, {'symen mmrtwn', 'symyn mrrton', 'smmyn muortn', 'smoni myrdin', 'smoin miredn'}, {'symin mayrtn', 'swmen mwredn', 'smonn mwrudn', 'ssmen mrttin', 'smuon mirtnw'}, {'smoan mmrtyn', 'smohn mrutin', 'sumyn mrtayn', 'smmin miortn', 'smmyn mirutn'}, {'ssmen mrdien', 'smaon mrydin', 'sumyn myrton', 'smone mrrton', 'somyn mretun'}, {'smoni mertwn', 'somyn mardnu', 'smono myrten', 'smoan mrytun', 'smown mrtaon'}, {'smmun merdun', 'smman mmertn', 'swmyn mortyn', 'ssmen merwdn', 'symyn muwrtn'}, {'smoan mirotn', 'symin mortni', 'smoun mrtohn', 'ssmyn mrtonu', 'smone mrtenu'}, {'smohn mrytyn', 'sumyn merrtn', 'somyn mordun', 'symun mwrdon', 'swman mrtniu'}, {'smohn mrtuwn', 'symun mrtana', 'swmin moretn', 'ssmin mrwdin', 'smony mohrtn'}, {'smman mardon', 'smony mraotn', 'swman marodn', 'samyn mordan', 'smoni mreidn'}, {'ssmin myrdwn', 'smoin mrteni', 'semyn mraton', 'somyn muhrtn', 'sumyn mrytun'}, {'smoan muredn', 'smion mardan', 'smona mwrtno', 'smonw mriten', 'symen martny'}, {'smonw myrtan', 'ssman mraetn', 'smoun merden', 'swmyn mrritn', 'symun mrtoni'}, {'smmyn mrtena', 'symyn mroton', 'swmun mrwtwn', 'smeon mwrwdn', 'smonu mrtaan'}, {'smonu morutn', 'smoon mrtano', 'ssmun mrtten', 'syman mrudin', 'smoin mrtyni'}, {'ssmen mratin', 'smman mortno', 'symin mwrtne', 'smony mrteny', 'smonw mwrdwn'}, {'smony mayrtn', 'smmyn muirtn', 'ssmen mrutyn', 'smona mriidn', 'smoyn mmardn'}, {'smoun mratun', 'ssmyn murydn', 'smmun meradn', 'smman muertn', 'smuon mmwrtn'}, {'swmun mrtony', 'symen meritn', 'smoun mirotn', 'smoon maridn', 'smmun mrtawn'}, {'ssman mrtniy', 'smonn muurtn', 'ssmyn muhrtn', 'symun mirwtn', 'smoan mrtwyn'}, {'syman mmortn', 'smoon mrtaon', 'smman mirotn', 'swman mraidn', 'swmun mrrtyn'}, {'symun mrtayn', 'ssmin mretyn', 'smoen mrahtn', 'ssmun mradin', 'smoin myrutn'}, {'smoun mrdain', 'smona myrudn', 'smonw mrityn', 'swmyn martnu', 'smoni moortn'}, {'swmin meurtn', 'smmen mertne', 'smeon myrtnw', 'ssmyn mrrtun', 'samyn mahrdn'}, {'ssmyn mwrtna', 'smeon mrutun', 'syman myrtwn', 'semyn mwrtni', 'smman mritun'}, {'smion myritn', 'ssmen mrawtn', 'smohn merudn', 'smonw mridin', 'smono mihrtn'}, {'smmen mrtenw', 'smona merdwn', 'swman moirtn', 'smmun maurtn', 'ssman mordwn'}, {'ssmen mrytun', 'sumyn murdin', 'swman mirdwn', 'symun maortn', 'smoun mortne'}, {'sumyn maratn', 'smono miartn', 'smmin mrwtun', 'smonw mrtwyn', 'samyn muyrtn'}, {'smonn mwrtyn', 'smuon mrdiny', 'syman mwrdan', 'symyn muretn', 'ssmen mrdian'}, {'smony mmortn', 'ssmin mrtoun', 'swmin mruidn', 'swmen mrtuan', 'symun murrtn'}, {'smeon mrteny', 'smmyn maordn', 'smuon mertne', 'ssmyn merdan', 'samyn moirtn'}, {'smono martno', 'smony mmrtun', 'smone mrtoon', 'semyn mrtwwn', 'symin mrtown'}, {'symin mrwtwn', 'symen mreton', 'smonn myrton', 'swmun mwrdon', 'smoen meurtn'}, {'smoon meritn', 'smoun muardn', 'smman morytn', 'smuon mirutn', 'smown mrwtun'}, {'syman myrdun', 'smaon mardni', 'smoun muretn', 'smeon merdyn', 'smoin mrdien'}, {'symen meretn', 'smoon morden', 'samyn mrduin', 'swmun meradn', 'smman muartn'}, {'ssmyn mywrtn', 'smoon mroidn', 'smonw mrtean', 'smohn meirtn', 'smoan mreton'}, {'syman mrtoni', 'swmen miyrtn', 'sumyn mrutin', 'smoon mrtyny', 'ssmin mrdoin'}, {'smmin mmwrtn', 'semyn mrtniw', 'smonn muradn', 'smone mrrtyn', 'smuon miratn'}, {'smona mirtyn', 'swmin marotn', 'smoni miardn', 'symun mirdun', 'smmun murdan'}, {'samyn merdan', 'swmyn moyrtn', 'ssmin mwrden', 'smonu mrttin', 'smonn mrrten'}, {'smaon murtni', 'smeon myrdwn', 'smmin mrtton', 'smoin mihrtn', 'smonn mirydn'}, {'ssman mrittn', 'smono mreton', 'smoon murttn', 'symin merutn', 'smmen mrtani'}, {'symyn mertny', 'smmyn mrotin', 'ssmin moradn', 'smuon mwrden', 'smoni morwdn'}, {'symun mordun', 'smonu mriitn', 'smohn mrtawn', 'smoon mrydin', 'smmin merwtn'}, {'smonw muartn', 'smoon mrtiyn', 'somyn mrtanu', 'smono myradn', 'smonn myrtun'}, {'smona merutn', 'somyn mrtani', 'smoyn mryton', 'swman mywrtn', 'ssmun moirtn'}, {'smuon martnw', 'smonu mrrten', 'swmun mmrdin', 'smmin miortn', 'ssmun mrrtan'}, {'smmen mraten', 'ssmun mraetn', 'semyn mwrden', 'smonu mardno', 'ssmyn mirdwn'}, {'smonw moirtn', 'smona meretn', 'smonu mrdihn', 'somyn mrtiin', 'swmun myridn'}, {'symyn maartn', 'smohn myretn', 'symin myrttn', 'smona meratn', 'smmyn mertna'}, {'samyn mwrden', 'smonu mrttni', 'ssmun mwrtna', 'smona mertnw', 'symun mrtiun'}, {'swmin mertna', 'syman mroitn', 'smonu maradn', 'smmyn mmrtyn', 'symun mraytn'}, {'smoin mruten', 'smion mirtno', 'ssmyn mrwtyn', 'smeon morydn', 'symen mrdiyn'}, {'ssmin mrrten', 'smmyn mrdihn', 'smoin muridn', 'smman mrttwn', 'somyn mrotan'}, {'swmun mreten', 'ssmin myrdyn', 'smoin myrutn', 'smman mrtihn', 'smono mrtuen'}, {'smoon mrtanu', 'smoin mrteyn', 'smown moratn', 'ssmin maratn', 'symen mrtwyn'}, {'smuon mwwrtn', 'smmen muradn', 'semyn mrytun', 'swmyn marodn', 'swmen mrtuen'}, {'swmen maretn', 'smony mmrtni', 'smmen mawrdn', 'ssmen moridn', 'syman murtnu'}, {'smone mirtnu', 'smony mwyrtn', 'smmen merodn', 'smown mmardn', 'sumyn mrytun'}, {'smony mrtene', 'smonu mraatn', 'sumyn muertn', 'smono mrteni', 'smown mardny'}, {'swmun mmardn', 'syman mrdiyn', 'smoin mwrtwn', 'smown mrtayn', 'smion mrtniu'}, {'ssman mwrttn', 'smoyn mertna', 'swman myrydn', 'syman mrtniu', 'smoan mreton'}, {'smoon marden', 'swmun myrdun', 'smoni mairdn', 'smone mrwtan', 'smohn mrtoan'}, {'ssmen mrotin', 'smoin merwdn', 'ssmyn mwrtne', 'symen mrteyn', 'smone mwrydn'}, {'smion murdan', 'symun mrtanw', 'smonn mrdiun', 'swmun mrtnih', 'smonu mirotn'}, {'smion mriton', 'ssman mrrtwn', 'smono mirrtn', 'ssmen mmrtyn', 'smown myridn'}, {'smmin murwtn', 'smmen mmertn', 'smman mirttn', 'smown murdon', 'swmin mrttin'}, {'smoin mrtwnw', 'syman myrton', 'swmun mrttin', 'smoyn mrtain', 'semyn mordon'}, {'ssman maerdn', 'smaon mmrtan', 'symun mrityn', 'smoin mrahtn', 'smmyn muradn'}, {'smonn mrtoun', 'swmen mroton', 'sumyn mirudn', 'smaon maertn', 'swmyn mrtoni'}, {'syman morytn', 'smion mratwn', 'ssmin mrrtun', 'smuon meardn', 'smown mayrdn'}, {'smoni murotn', 'swmyn mrwtan', 'smeon merudn', 'swmun mwrdwn', 'smoin mrtuon'}, {'ssmin mrtuun', 'smonu mrtnii', 'smmen mwrton', 'smohn mrtton', 'smony mrtown'}, {'smoin mwrodn', 'symen mrtawn', 'smmen mrtiin', 'smony mehrtn', 'smono muurtn'}, {'smion merdyn', 'swmyn mirtyn', 'syman mwrtwn', 'smown myrden', 'somyn mrtywn'}, {'smone mrtwwn', 'smoin mwrden', 'smoan myrton', 'samyn mritin', 'swmen myradn'}, {'somyn murtna', 'sumyn mridin', 'semyn mardnu', 'smohn mrtnih', 'swman myrutn'}, {'smuon morodn', 'smony murytn', 'ssman mwwrtn', 'smman mortnu', 'smoin myrtyn'}, {'smeon muurtn', 'ssman myrtun', 'smoan mirwdn', 'samyn marwtn', 'smohn mwrtnu'}, {'smonn mwrdan', 'smono maortn', 'symun myrodn', 'smoen mratwn', 'smonu mmyrtn'}, {'swmyn meortn', 'smonn mwrwdn', 'smoun myrdan', 'smmen mirwdn', 'smoyn mirodn'}, {'smoon mrduin', 'smoin mwrttn', 'somyn marwtn', 'sumyn mrtaen', 'swman mardnu'}, {'smoan mordwn', 'smona meertn', 'smuon martny', 'symyn merdun', 'swman myratn'}, {'ssman myrydn', 'smoon morwdn', 'smoni mretyn', 'symen marutn', 'smoun myrton'}, {'smoen murytn', 'symun muardn', 'smohn mriitn', 'swmun myrden', 'swmin mrtoun'}, {'ssmun myrdyn', 'smone mardno', 'smoon mrtoon', 'smmin mirytn', 'semyn mwrwtn'}, {'smown mwrdwn', 'smoun mrttni', 'smohn mrtuni', 'smmin myritn', 'symen moradn'}, {'smono meardn', 'smoan mmritn', 'smman mertni', 'syman mrrtun', 'sumyn merden'}, {'symyn morrtn', 'smoni merrtn', 'smoun myyrtn', 'smona miirtn', 'smonw mwrdwn'}, {'smono myrodn', 'smmyn miratn', 'swman mwrdyn', 'symun mmrtwn', 'swmin mrtiun'}, {'smono mraetn', 'samyn mirudn', 'symen mrdein', 'sumyn mrittn', 'swmun mrwtyn'}, {'smmyn mahrtn', 'smonw meertn', 'smonn mretin', 'smoun marudn', 'ssmin mrtwni'}, {'swmin mwrdan', 'smuon merdyn', 'semyn mardwn', 'swmen mrautn', 'somyn mreten'}, {'swmin mortyn', 'symen muretn', 'symyn mwrten', 'smoni mardno', 'sumyn muredn'}, {'swman mroton', 'smuon mwridn', 'smown mywrtn', 'smoan mwrudn', 'smmyn mrtoyn'}, {'smono mruitn', 'smoun mreitn', 'smmin maortn', 'swmen mrtoin', 'smaon miwrtn'}, {'smone mriidn', 'ssmun mmrtwn', 'smoan merdyn', 'smmun mroidn', 'samyn mrtenw'}, {'symin myrytn', 'smona muertn', 'syman mmertn', 'smonn mrotwn', 'smown maretn'}, {'smoyn mrwdin', 'smonu murtni', 'smuon maurdn', 'ssman myrdan', 'smohn murdyn'}, {'symyn martne', 'ssmin mritan', 'smeon mrtwwn', 'ssmun muortn', 'smoin muertn'}, {'smmen mrtino', 'smmyn mritwn', 'smony mrtiny', 'smohn mirrtn', 'smonu mwrttn'}, {'smown mrdiun', 'ssman mrtean', 'smono merydn', 'swman mwrtun', 'smohn mertne'}, {'ssmin murtna', 'smmin mwrytn', 'smono mortwn', 'smaon mrrton', 'syman mrityn'}, {'smown mreidn', 'ssmyn mirtno', 'smona muirtn', 'smuon myrdwn', 'smonn mwradn'}, {'symun mwrttn', 'smuon mrtaan', 'ssmyn mrttan', 'samyn mairdn', 'smono myrdwn'}, {'smona mrittn', 'symyn moertn', 'samyn mrtehn', 'smono miardn', 'ssmin marwtn'}, {'semyn moardn', 'smonw mrdein', 'ssman mrwtwn', 'syman mruidn', 'samyn miartn'}, {'swmun murotn', 'smuon myrtyn', 'smaon mowrtn', 'syman meredn', 'samyn mehrtn'}, {'ssmin miurtn', 'smoyn myrden', 'smone mrautn', 'smoen mrtien', 'smaon mwridn'}, {'smmin mardna', 'swmin mirtni', 'smona mirdun', 'ssmin mrtonw', 'symyn mirotn'}, {'symin mwrdon', 'smonw mrteni', 'syman muertn', 'smaon marwtn', 'ssmyn maredn'}, {'smmin mrtuhn', 'smeon mrwtan', 'swman myradn', 'smone myrutn', 'smoan mmyrtn'}, {'smmyn mrteon', 'symen mmardn', 'ssmin mratan', 'smony martny', 'smonn myrytn'}, {'smono morydn', 'swman mairdn', 'ssmen mwrutn', 'smoan mayrtn', 'smoyn marrtn'}, {'symen mmrtwn', 'smmun mrdian', 'smoen mmertn', 'smmyn martne', 'symyn murodn'}, {'smona mrtiun', 'symen mrtiwn', 'smuon mriton', 'sumyn mwretn', 'smonw mortne'}, {'samyn mrodin', 'ssman mwrtyn', 'smonu merdyn', 'smoon mrtain', 'smona martno'}, {'ssmin mryton', 'ssmyn mretin', 'syman mrtwni', 'symen mardyn', 'swmen moridn'}, {'smeon mrdion', 'ssman mruidn', 'symin mwrudn', 'smuon mrtuan', 'smoyn mmratn'}, {'symin mrtaan', 'smony marden', 'ssmyn mrwtun', 'smone mrtiny', 'smmen mretan'}, {'symyn mahrdn', 'somyn mrtynw', 'smuon marwtn', 'smown myretn', 'swmyn miradn'}, {'samyn mrtony', 'ssman mawrtn', 'smuon mratyn', 'somyn myridn', 'symun mruton'}, {'smown myrtno', 'somyn mrtene', 'samyn mretun', 'smoni mirttn', 'smonn mordun'}, {'smmen mrytyn', 'smuon mertnu', 'smoni mrtnii', 'smoun mwrudn', 'somyn mihrtn'}, {'smoin mruten', 'smoni mrytyn', 'sumyn mrtten', 'ssman marrtn', 'ssmyn mroidn'}, {'smona muredn', 'symun mmartn', 'swmun mradin', 'smown mwrdon', 'samyn murtnw'}, {'smoun mwrodn', 'ssmen myrton', 'smmun myrytn', 'swmyn mortna', 'smoin mairtn'}, {'smmin mwrtnw', 'smmun mrtuun', 'smony mrtoen', 'smown mroten', 'smaon mraten'}, {'smoon mrtoen', 'smonn mrtain', 'ssmin mirutn', 'ssmen moratn', 'somyn mardno'}, {'symin mrtoni', 'symun mrtyny', 'sumyn mortny', 'smono meratn', 'smuon mrwten'}, {'smoni morudn', 'smmen mrtuny', 'ssmun maredn', 'swmyn murtny', 'smmin miritn'}, {'smmin morden', 'swmin myrttn', 'ssmen mrtahn', 'symen mrtanu', 'smmun marwtn'}, {'smoon mayrdn', 'smona myrtyn', 'symun mrwtan', 'smohn mrotyn', 'smman mwritn'}, {'swmyn meratn', 'smono murodn', 'semyn mrtain', 'somyn mrattn', 'symin murtne'}, {'smohn mrtean', 'smoon mirdon', 'smono merudn', 'smoen muertn', 'smoni martna'}, {'smony mrtehn', 'swman mortnw', 'somyn mrwton', 'syman mrtonu', 'swmyn marutn'}, {'smmen mraten', 'smony mratun', 'smono miertn', 'smown mrratn', 'smeon mardan'}, {'symen murttn', 'swmun mrtiun', 'smone mrtinu', 'smuon mmritn', 'smmyn mrwtun'}, {'smoon merudn', 'somyn mirtne', 'smown mrtino', 'smone mwrtni', 'smona mirdun'}, {'samyn mordwn', 'swman mayrtn', 'symen muridn', 'symun maretn', 'ssmyn maerdn'}, {'swmen mreton', 'smoen mrtini', 'ssmin meridn', 'smmin miretn', 'smman mrwtwn'}, {'symun mrdain', 'samyn myritn', 'smuon mrtoun', 'smaon mirtne', 'smohn mirdan'}, {'smonu mrautn', 'smion mrtonu', 'smohn mrtynw', 'swmun mrtanw', 'ssmen mrtano'}, {'smmin moardn', 'smown miartn', 'smoon mrttan', 'smoun mrdihn', 'somyn mirttn'}, {'smoyn mrdein', 'smone mrdiin', 'samyn mmyrtn', 'semyn mrtani', 'smonw mwrdwn'}, {'ssmen mrdein', 'smion mwrtnw', 'swmun mrutun', 'symun meirtn', 'smohn muirtn'}, {'symen mayrtn', 'smoni merydn', 'smoin marwdn', 'ssmyn martnu', 'smeon mretyn'}, {'ssman myrydn', 'smuon myrdon', 'symun mourtn', 'smono mrtana', 'smion mmertn'}, {'smman marwdn', 'symen martne', 'smmyn mrtton', 'swmyn mmrtun', 'samyn mwrydn'}, {'ssmen mordin', 'ssmun mrutan', 'smone moortn', 'syman muratn', 'swmin mrytan'}, {'smman mowrtn', 'smona mordan', 'symun mrtonw', 'samyn mortwn', 'smion mwrydn'}, {'smoyn murwtn', 'symen mrtane', 'somyn mwrden', 'swmen mrtoan', 'smmen miratn'}, {'smmen mrtoan', 'ssmen myrudn', 'symyn mmyrtn', 'swmin miradn', 'symin mwrten'}, {'smoin moratn', 'symen mrtaen', 'smman mrratn', 'smono mrttan', 'smoyn myrdon'}, {'smonu mrtuyn', 'symun mortni', 'somyn muradn', 'smmun mrtaon', 'swman marudn'}, {'ssmin mortnw', 'smmun mirdyn', 'smoyn martnw', 'smaon mirtni', 'smman mrtoyn'}, {'symin mrtonw', 'symyn mertne', 'smmun merdun', 'smoon mertno', 'swmun marrdn'}, {'symen mertwn', 'smony mwradn', 'smoun mmortn', 'symun myrtno', 'smono mrtohn'}, {'smmun murodn', 'ssmun mwrotn', 'symin mriitn', 'smmen mrautn', 'sumyn myrwdn'}, {'smoan myrdan', 'smmen murrtn', 'swmun mrotin', 'smona miortn', 'ssmin maerdn'}, {'ssmyn moartn', 'smman mrwten', 'smoyn mirwtn', 'somyn miradn', 'smoan mrtenw'}, {'smone marwdn', 'symin meardn', 'smoyn mrtony', 'symyn mrteon', 'ssman mertni'}, {'smmyn moortn', 'smmun mordyn', 'sumyn mrotin', 'ssmin myrtna', 'symyn merttn'}, {'symin meartn', 'smuon mayrtn', 'symyn mrdinu', 'smmin mrtniw', 'symun mrutyn'}, {'swmin mrtuhn', 'ssman mwrytn', 'smman mwrden', 'ssmen myrton', 'swman maradn'}, {'symen morydn', 'smown maridn', 'smaon merdan', 'smonu miratn', 'smonw myrwdn'}, {'smmin meretn', 'ssmun myrton', 'somyn miredn', 'symen murwtn', 'ssmen miardn'}, {'smuon maradn', 'smone murdun', 'symin mwrden', 'smoon muyrtn', 'smeon mewrtn'}, {'ssman myrtny', 'smmin marrdn', 'smoun myrutn', 'smone miirtn', 'smohn merdin'}, {'smoin mrtyny', 'smman mratin', 'swmun muritn', 'somyn mwredn', 'smmen mrtiny'}, {'smmen mwrttn', 'symun myrdun', 'ssmen mwrtni', 'somyn mwyrtn', 'ssmin mrattn'}, {'smoyn mrtnie', 'somyn mreton', 'syman miretn', 'swmin mratyn', 'smmin merytn'}, {'smion maurdn', 'smown mritun', 'smonw mwrtna', 'smona mrtayn', 'smmun mortny'}, {'smohn mratan', 'symyn mwrudn', 'smion mrwten', 'smaon merwdn', 'smeon marytn'}, {'smoan mreitn', 'smmun maritn', 'symen mriidn', 'smuon mrdion', 'somyn mrtana'}, {'smone moritn', 'swmen mrtena', 'smoyn moyrtn', 'swmun mrdiwn', 'smona mraetn'}, {'swmen merudn', 'smuon merodn', 'smoyn mordun', 'smohn myrdwn', 'swmin mrritn'}, {'smuon mordan', 'ssmin merotn', 'smmen mrtoen', 'smoun myretn', 'smmun mertni'}, {'smoon mruton', 'smona mwrudn', 'swmun mmrtwn', 'smoun mrtaun', 'smmen mriten'}, {'smoun myrtnw', 'swmyn mrttwn', 'smmyn mertni', 'smion mrutwn', 'smoyn mrtayn'}, {'smone moritn', 'symen murtny', 'smonw mruidn', 'semyn mwrtan', 'smohn mrtniu'}, {'semyn mrduin', 'smoen mrytan', 'smone morutn', 'ssmyn mreton', 'symyn maortn'}, {'syman muirtn', 'smmyn mraitn', 'ssmyn mrtoin', 'smown myrwdn', 'smoin mairtn'}, {'swmun mirtne', 'ssmyn mrtoan', 'smmun muritn', 'symyn mortno', 'smono meritn'}, {'smona mrrton', 'sumyn mourtn', 'ssmun mryten', 'smion mruton', 'smuon mwrotn'}, {'somyn marotn', 'smona mrodin', 'samyn mrtine', 'smonn merrtn', 'smoon mwretn'}, {'smaon myrydn', 'swmun mrratn', 'smmin merdan', 'symun mehrtn', 'smoyn mertne'}, {'swmen maardn', 'syman merdan', 'symin mrtywn', 'swmyn mrritn', 'ssmun mertny'}, {'smoan marrdn', 'smoen miirtn', 'smoon myrudn', 'swmen mrtehn', 'smonw murwtn'}, {'smoan mmritn', 'ssmyn mrtuon', 'smmun mordon', 'smoon mroitn', 'smoen murotn'}, {'smonn mrtaan', 'smoan myrden', 'swman mrttun', 'smonu mraatn', 'ssman mrdiun'}, {'smeon mrtyny', 'smoni mrtonw', 'swman mrtoni', 'swmun mwrtwn', 'ssmin martni'}, {'smion myrden', 'smoni marodn', 'smown mrdiun', 'smony merttn', 'smonw mrteyn'}, {'semyn mriidn', 'smone mrtuhn', 'smoyn mmurtn', 'symen myrten', 'ssmin mrtonw'}, {'smono mrtoen', 'smman mrtany', 'smoon mirotn', 'sumyn mrtoyn', 'smone murtnw'}, {'sumyn mrtihn', 'ssmen merdon', 'smmyn mirttn', 'smmin mriten', 'symen meredn'}, {'swmyn morwdn', 'smoan mrduin', 'symun mraotn', 'smeon murtne', 'smown morwtn'}, {'smony mwrwtn', 'ssmyn mriitn', 'smman maridn', 'smmyn mratwn', 'smion mmritn'}, {'smonw maartn', 'smoin maradn', 'smohn myrdun', 'swman mrtwny', 'smono mreidn'}, {'smoen mertna', 'ssmyn mirdun', 'smonw mwwrtn', 'ssmun mrttun', 'sumyn myrydn'}, {'smoin mrttun', 'smown mordin', 'smmin mrtwni', 'symen maurtn', 'symun marutn'}, {'swman mrtuun', 'smaon marydn', 'smown mirden', 'smmen mrtina', 'ssmun mrodin'}, {'ssmin miartn', 'symin marudn', 'samyn mrteni', 'ssman mirtwn', 'smmyn mardne'}, {'ssmyn myrrtn', 'syman miretn', 'smonu miertn', 'somyn mrtean', 'smmyn miirtn'}, {'syman myredn', 'symun miwrtn', 'swman mirtne', 'smmen mrttni', 'smmyn morudn'}, {'smone mrtein', 'smonw mairtn', 'swmin mordon', 'ssmin merwtn', 'smoin mrteny'}, {'smmyn mraton', 'swman mrtawn', 'smeon meritn', 'smaon mrytun', 'smony mrtuin'}, {'smony mreton', 'smona mwrden', 'smohn mrtaen', 'ssmen mrwton', 'swmen mroten'}, {'smoni mriitn', 'smmen murydn', 'symyn myrden', 'smoin mrtuyn', 'swmin mardwn'}, {'smono mrtuin', 'symin mardnw', 'smmyn murdan', 'smaon mwrden', 'smonw mayrtn'}, {'smohn maordn', 'ssmyn mrtoan', 'smmun muhrtn', 'smona mratyn', 'smmen meardn'}, {'smeon mrdiwn', 'smion miredn', 'smohn myrtan', 'swmin miertn', 'smoin mortne'}, {'smmyn mrutin', 'swmen mrtonw', 'symyn mrtnih', 'smown mwrrtn', 'swmun mrotan'}, {'symin mritun', 'smaon murutn', 'swman mwrodn', 'semyn mmrtni', 'smmun mratwn'}, {'swman mardon', 'smion mrwtan', 'smoen myrwtn', 'smoan merdyn', 'smoon myrtwn'}, {'somyn mirytn', 'smman mirden', 'swmyn morutn', 'smoun murttn', 'swmin mreton'}, {'ssmyn miertn', 'smohn moardn', 'smaon marrdn', 'smonw mrtuin', 'samyn merdyn'}, {'smmin mordin', 'swman murdyn', 'smone mirrtn', 'symyn mrudin', 'smown mordwn'}, {'symun mrtinw', 'smono mrodin', 'ssmun mayrtn', 'swman meartn', 'ssmin mrwtin'}, {'smonw mirotn', 'syman mwwrtn', 'smmyn marrtn', 'swman mirden', 'symen muurtn'}, {'smmin mratyn', 'smonw mritwn', 'smoen murden', 'smmyn mwrdwn', 'symin miridn'}, {'somyn mrtien', 'smown myrodn', 'symen meridn', 'smohn mrtnie', 'semyn murttn'}, {'smonu myridn', 'symun mrtein', 'swmun mrtenu', 'samyn myrtun', 'smoin miwrtn'}, {'somyn mrtuun', 'smown mrtanw', 'smoni mirutn', 'ssmin maradn', 'smaon mrtein'}, {'swmen mreton', 'smone mrtwwn', 'symin mrtwnw', 'symyn mrtine', 'samyn muertn'}, {'smion meirtn', 'smown mrtuen', 'smmun mrtana', 'symen mritwn', 'smona mradin'}, {'smoun moritn', 'smuon murden', 'smoin meredn', 'smonu mrtyny', 'swmyn mrytun'}, {'smoan murrtn', 'syman murtno', 'smonu mrtwyn', 'swmen mrtyny', 'smmin mrtwnw'}, {'smaon mrtniy', 'smoun mwrden', 'somyn mirdan', 'smoan muortn', 'swman mrtoon'}, {'smohn mirtnw', 'smmin mrytyn', 'smman mriidn', 'symen mawrtn', 'ssman myrtni'}, {'smion mmyrtn', 'smmen mardno', 'swmen mortni', 'swmyn mehrtn', 'smmyn mwridn'}]
+simon martin        : DEBUG: Additional rule variations: {'si m'}
+simon martin        : DEBUG: Metric: 
+{
+    "quality_scores": {},
+    "penalties": {
+        "extra_names": 0.0,
+        "missing_names": 0.0,
+        "total_penalty": 0.0,
+        "special_chars_ratio": 0.0,
+        "special_char_variations_count": 0,
+        "total_variations_count": 6
+    },
+    "completeness_multiplier": 1.0,
+    "name_metrics": {
+        "simon martin": {
+            "first_name": {
+                "score": 1.0,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 1.0,
+                        "orthographic": 1.0,
+                        "combined": 1.0
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 5.390000000000001,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "syman",
+                            "phonetic_score": 0.603351794939053,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "ssmen",
+                            "phonetic_score": 0.603351794939053,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "swmun",
+                            "phonetic_score": 0.603351794939053,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "symun",
+                            "phonetic_score": 0.603351794939053,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "swman",
+                            "phonetic_score": 0.603351794939053,
+                            "orthographic_score": 0.6,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "base_score": 0.8190324431245051,
+            "final_score": 0.8552259544996041,
+            "variation_count": 6,
+            "non_rule_compliant_variations_count": 5,
+            "rule_compliant_variations_count": 1,
+            "last_name": {
+                "score": 0.7,
+                "metrics": {
+                    "similarity": {
+                        "phonetic": 0.0,
+                        "orthographic": 1.0,
+                        "combined": 0.5
+                    },
+                    "count": {
+                        "actual": 5,
+                        "expected": 5.390000000000001,
+                        "score": 1.0
+                    },
+                    "uniqueness": {
+                        "unique_count": 5,
+                        "total_count": 5,
+                        "score": 1.0
+                    },
+                    "length": {
+                        "score": 1.0
+                    },
+                    "variations": [
+                        {
+                            "variation": "miridn",
+                            "phonetic_score": 0.8758434679997984,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "mratun",
+                            "phonetic_score": 0.8758434679997984,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "mortne",
+                            "phonetic_score": 0.8758434679997984,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "mraetn",
+                            "phonetic_score": 0.8758434679997984,
+                            "orthographic_score": 0.5,
+                            "length_ratio": 1.0
+                        },
+                        {
+                            "variation": "mrrtwn",
+                            "phonetic_score": 0.8758434679997984,
+                            "orthographic_score": 0.6666666666666667,
+                            "length_ratio": 1.0
+                        }
+                    ]
+                }
+            },
+            "rule_compliance": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_abbreviations": [
+                            "si m"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "si m": [
+                            "shorten_name_to_abbreviations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.16666666666666666,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "invalid_names": [],
+    "missing_names": [],
+    "rule_compliance": {
+        "overall_score": 1.0,
+        "by_name": {
+            "simon martin": {
+                "score": 1.0,
+                "metrics": {
+                    "compliant_variations_by_rule": {
+                        "shorten_name_to_abbreviations": [
+                            "si m"
+                        ]
+                    },
+                    "rules_satisfied_by_variation": {
+                        "si m": [
+                            "shorten_name_to_abbreviations"
+                        ]
+                    },
+                    "compliance_ratio_overall_variations": 0.16666666666666666,
+                    "overall_compliant_unique_variations_count": 1,
+                    "expected_compliant_variations_count": 1,
+                    "quantity_score": 1.0,
+                    "rule_diversity_factor": 1.0,
+                    "num_target_rules_met": 1,
+                    "total_target_rules": 1,
+                    "score": 1.0
+                }
+            }
+        }
+    },
+    "average_quality": 0.8552259544996041,
+    "final_reward": 0.8552259544996041
+}
+simon martin        : DEBUG: ----------------------------------------------------------------------------------------------------
