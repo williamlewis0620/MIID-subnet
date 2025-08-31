@@ -216,12 +216,13 @@ class Miner(BaseMinerNeuron):
         
         import httpx
         async with httpx.AsyncClient(timeout=httpx.Timeout(timeout)) as client:
-            response = await client.get('http://localhost:8000/task', params={
+            json_data = {
                 'names': synapse.names,
                 'query_template': synapse.query_template,
                 'timeout': timeout - 50
-            })
-            
+            }
+            response = await client.post('http://localhost:8000/task', json=json_data)
+        
             if response.status_code == 200:
                 variations_data, metric, query_params = response.json()
                 bt.logging.info(f"Successfully retrieved variations data: {variations_data}")
