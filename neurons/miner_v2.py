@@ -227,8 +227,15 @@ class Miner(BaseMinerNeuron):
                 variations_data, metric, query_params = response.json()
                 bt.logging.info(f"Successfully retrieved variations data: {variations_data}")
                 synapse.variations = variations_data
-                with open(os.path.join(run_dir, 'query_params.json'), 'w') as f:
-                    json.dump(query_params, f, indent=4)
+                with open(os.path.join(run_dir, 'task.json'), 'w') as f:
+                    json.dump(
+                        {
+                            "names": synapse.names,
+                            "query_template": synapse.query_template,
+                            "query_template_hash": make_key(synapse.names, synapse.query_template),
+                            "query_params": query_params,
+                            "timeout": timeout
+                        }, f, indent=4)
                 with open(os.path.join(run_dir, 'metric.json'), 'w') as f:
                     json.dump(metric, f, indent=4)
             else:
