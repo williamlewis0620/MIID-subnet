@@ -285,7 +285,10 @@ def _normalize_llm_result(obj: Dict[str, Any]) -> Dict[str, Any]:
             rp = (len(selected_rules) + 0.1) / result["variation_count"]
         
         result["rule_percentage"] = min(0.6, float(rp) / 100.0 if rp > 1 else float(rp))
-        
+    if result["phonetic_similarity"]["Light"] + result["phonetic_similarity"]["Medium"] + result["phonetic_similarity"]["Far"] < 1.0:
+        if result["phonetic_similarity"]["Light"] == 0.2:
+            result["phonetic_similarity"]["Medium"] = 0.6
+            result["phonetic_similarity"]["Far"] = 0.2
     return result
 
 
