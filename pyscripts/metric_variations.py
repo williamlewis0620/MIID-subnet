@@ -26,7 +26,7 @@ if __name__ == "__main__":
         names = task['names']
     if "query_params" not in task:
         print(f"No parsed query found, parsing query template")
-        from neurons.miner.parse_query import query_parser
+        from MIID.miner.parse_query_gemini import query_parser
         query_params = query_parser(query_template)
         task['query_params'] = query_params
     else:
@@ -43,7 +43,7 @@ if __name__ == "__main__":
     if "me" not in task["results"]:
         task["results"]["metrics"] = {}
         print(f"No results found, generating variations and calculating metrics")
-        from neurons.miner.generate_variations import generate_variations_using_params
+        from MIID.miner.generate_variations import generate_variations_using_params
         name_results, metrics = asyncio.run(generate_variations_using_params(names, query_template))
         task["results"]["me"] = {
             {

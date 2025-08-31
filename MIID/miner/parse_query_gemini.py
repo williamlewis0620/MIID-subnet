@@ -2,7 +2,7 @@
 Utilities to parse query templates produced by `MIID.validator.query_generator.QueryGenerator`.
 
 Features:
-- LLM-based parsing via OpenRouter API (default)
+- LLM-based parsing via Google Gemini API
 - Regex-based fallback when LLM is unavailable
 
 Extracts:
@@ -26,7 +26,7 @@ import re
 from typing import Any, Dict, List, Optional
 import logging
 
-from openai import AsyncOpenAI
+import google.generativeai as genai
 from MIID.validator.rule_extractor import RULE_DESCRIPTIONS
 import bittensor as bt
 
@@ -37,18 +37,16 @@ DESCRIPTION_TO_RULE: Dict[str, str] = {
     description.lower(): rule_name for rule_name, description in RULE_DESCRIPTIONS.items()
 }
 
-# Available models for OpenRouter API
+# Available Gemini models
 AVAILABLE_MODELS = [
-    # "google/gemini-2.5-flash-lite-preview-06-17"
-    # "google/gemini-2.5-pro"
-    # "anthropic/claude-3.5-sonnet"
-    # "anthropic/claude-sonnet-4"
-    # "anthropic/claude-3.7-sonnet"
-    "openai/gpt-4.1"
+    "gemini-1.5-flash",
+    "gemini-1.5-pro",
+    "gemini-2.0-flash-exp",
+    "gemini-2.0-flash"
 ]
 
 # -----------------------------
-# OPENROUTER API UTILITIES
+# GEMINI API UTILITIES
 # -----------------------------
 
 def _get_api_keys() -> List[str]:
@@ -56,32 +54,22 @@ def _get_api_keys() -> List[str]:
     api_keys = []
     
     # Try to get API keys from environment variables
-    env_key = os.getenv('OPENROUTER_API_KEY')
+    env_key = os.getenv('GOOGLE_API_KEY')
     if env_key and env_key not in api_keys:
         api_keys.append(env_key)
     
     # Try to get multiple API keys from environment
-    env_keys = os.getenv('OPENROUTER_API_KEYS')
+    env_keys = os.getenv('GOOGLE_API_KEYS')
     if env_keys:
         env_key_list = [key.strip() for key in env_keys.split(',') if key.strip()]
         for key in env_key_list:
             if key not in api_keys:
                 api_keys.append(key)
     
-    # If no API keys found, use default
+    # If no API keys found, use default (you should set your own key)
     if not api_keys:
-        # default_key = "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"
-        # default_key = "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"
-        default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
+        # Replace with your actual Google API key
+        default_key = "AIzaSyB9UHlanXuy4AFnk7tNGwrNzR-5ZSHsMFI"
         api_keys.append(default_key)
     
     # Remove duplicates while preserving order
@@ -92,25 +80,27 @@ def _get_api_keys() -> List[str]:
     
     return unique_keys
 
-def _initialize_clients() -> List[AsyncOpenAI]:
-    """Initialize OpenRouter clients for each API key"""
+def _initialize_clients() -> List[genai.GenerativeModel]:
+    """Initialize Gemini clients for each API key"""
     clients = []
     api_keys = _get_api_keys()
     
     for api_key in api_keys:
         try:
-            client = AsyncOpenAI(
-                base_url="https://openrouter.ai/api/v1",
-                api_key=api_key,
-            )
-            clients.append(client)
-        except Exception:
+            # Configure the API key
+            genai.configure(api_key=api_key)
+            
+            # Create a model instance (we'll use the first available model)
+            model = genai.GenerativeModel(AVAILABLE_MODELS[0])
+            clients.append(model)
+        except Exception as e:
+            logger.warning(f"Failed to initialize Gemini client with key: {e}")
             # Continue with other clients even if one fails
             continue
     return clients
 
 # -----------------------------
-# LLM-BASED PARSING (OpenRouter)
+# LLM-BASED PARSING (Gemini)
 # -----------------------------
 
 def _extract_recent_mistake_examples(max_examples: int = 100) -> List[Dict[str, str]]:
@@ -256,7 +246,7 @@ def _normalize_llm_result(obj: Dict[str, Any]) -> Dict[str, Any]:
         "selected_rules": [],
     }
 
-    # Variation count``
+    # Variation count
     vc = obj.get("variation_count")
     if not vc:
         vc = 5
@@ -292,7 +282,7 @@ def _normalize_llm_result(obj: Dict[str, Any]) -> Dict[str, Any]:
     if isinstance(rp, (int, float)):
         # If >1, assume percentage and convert to decimal
         if rp == 0.0:
-            rp =  (len(selected_rules) + 0.1) / result["variation_count"]
+            rp = (len(selected_rules) + 0.1) / result["variation_count"]
         
         result["rule_percentage"] = min(0.6, float(rp) / 100.0 if rp > 1 else float(rp))
         
@@ -302,10 +292,10 @@ def _normalize_llm_result(obj: Dict[str, Any]) -> Dict[str, Any]:
 async def parse_query_with_llm(
     query_text: str,
     *,
-    clients: Optional[List[AsyncOpenAI]] = None,
+    clients: Optional[List[genai.GenerativeModel]] = None,
     max_retries: int = 1,
 ) -> Dict[str, Any]:
-    """Parse using OpenRouter LLM into a structured dict. Falls back to empty result on failure."""
+    """Parse using Gemini LLM into a structured dict. Falls back to empty result on failure."""
     if not clients:
         clients = _initialize_clients()
     
@@ -327,23 +317,14 @@ async def parse_query_with_llm(
             client = random.choice(clients)
             selected_model = random.choice(AVAILABLE_MODELS)
             
+            # Create a new model instance with the selected model
+            model = genai.GenerativeModel(selected_model)
+            
             # Get response from LLM
-            response = await client.chat.completions.create(
-                model=selected_model,
-                messages=[{
-                    'role': 'user',
-                    'content': prompt,
-                }],
-                temperature=0,
-                top_p=1,
-                stream=False,
-                presence_penalty=0,
-                frequency_penalty=1.0,
-                max_tokens=1024
-            )
+            response = await model.generate_content_async(prompt)
             
             # Extract and parse response
-            content = response.choices[0].message.content
+            content = response.text
             if not content:
                 raise ValueError("Empty response from LLM")
             
@@ -354,7 +335,7 @@ async def parse_query_with_llm(
                 return llm_parsed
             
         except Exception as e:
-            bt.logging.error(f"Error parsing query with LLM: {e}")
+            bt.logging.error(f"Error parsing query with Gemini LLM: {e}")
             if response:
                 bt.logging.error(f"Response: {response}")
             continue
@@ -377,8 +358,8 @@ async def parse_query_with_llm(
 async def query_parser(
     query_text: str,
     *,
-    clients: Optional[List[AsyncOpenAI]] = None,
-    max_retries: int = 1,
+    clients: Optional[List[genai.GenerativeModel]] = None,
+    max_retries: int = 10,
 ) -> Dict[str, Any]:
     """Public API: LLM-only parsing interface."""
     result = await parse_query_with_llm(
@@ -391,8 +372,8 @@ async def query_parser(
 def query_parser_sync(
     query_text: str,
     *,
-    clients: Optional[List[AsyncOpenAI]] = None,
-    max_retries: int = 1,
+    clients: Optional[List[genai.GenerativeModel]] = None,
+    max_retries: int = 10,
 ) -> Dict[str, Any]:
     """Synchronous wrapper for parse_query for backwards compatibility."""
     return asyncio.run(query_parser(

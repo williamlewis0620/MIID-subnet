@@ -2,7 +2,7 @@ import sys
 import json
 
 from MIID.miner.generate_variations import generate_variations_using_params
-from MIID.miner.parse_query import query_parser
+from MIID.miner.parse_query_gemini import query_parser
 
 
 if __name__ == "__main__":

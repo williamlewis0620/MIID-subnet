@@ -140,8 +140,8 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"Error parsing {logfile}: {e}")
             continue
-        from neurons.miner.parse_query import query_parser
-        from neurons.miner.generate_variations import generate_variations_using_params
+        from MIID.miner.parse_query_gemini import query_parser
+        from MIID.miner.generate_variations import generate_variations_using_params
         query_params = asyncio.run(query_parser(template))
         # name_results, metrics = asyncio.run(generate_variations(names, template))
 

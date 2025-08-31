@@ -75,7 +75,7 @@ async def calculate_answer_candidate(names: List[str], query_template: str, quer
     """
     Calculate answer candidate from names and query template
     """
-    from MIID.miner.parse_query import query_parser
+    from MIID.miner.parse_query_gemini import query_parser
     try:
         if query_params is None:
             query_params = await query_parser(query_template, max_retries=1)

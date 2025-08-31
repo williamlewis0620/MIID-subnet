@@ -200,7 +200,7 @@ class Miner(BaseMinerNeuron):
         os.makedirs(run_dir, exist_ok=True)
         
         from MIID.miner.generate_variations import generate_variations_using_params
-        from MIID.miner.parse_query import query_parser
+        from MIID.miner.parse_query_gemini import query_parser
         try:
             query_params = await query_parser(synapse.query_template, max_retries=1)
         except Exception as e:

@@ -67,6 +67,7 @@ from bittensor.core.errors import NotVerifiedException
 
 from datetime import datetime
 import json
+from MIID.miner.nvgen_service import make_key
 
 class Miner(BaseMinerNeuron):
     """
@@ -209,53 +210,29 @@ class Miner(BaseMinerNeuron):
                 {
                     "names": synapse.names,
                     "query_template": synapse.query_template,
+                    "query_template_hash": make_key(synapse.names, synapse.query_template),
                     "timeout": timeout
                 }, f, indent=4)
         
         import httpx
-        import asyncio
-        
-        max_retries = 3
-        base_delay = 1.0
-        
-        for attempt in range(max_retries):
-            try:
-                bt.logging.info(f"Attempting to connect to service (attempt {attempt + 1}/{max_retries})")
-                
-                # Use a shorter timeout for individual requests to allow for retries
-                # request_timeout = min(30, timeout / max_retries)
-                
-                async with httpx.AsyncClient(timeout=httpx.Timeout(timeout)) as client:
-                    json_data = {
-                        'names': synapse.names,
-                        'query_template': synapse.query_template,
-                        'timeout': timeout - 50
-                    }
-                    response = await client.post('http://localhost:8000/task', json=json_data)
-                    
-                    if response.status_code == 200:
-                        variations_data, metric, query_params = response.json()
-                        bt.logging.info(f"Successfully retrieved variations data: {variations_data}")
-                        synapse.variations = variations_data
-                        with open(os.path.join(run_dir, 'query_params.json'), 'w') as f:
-                            json.dump(query_params, f, indent=4)
-                        with open(os.path.join(run_dir, 'metric.json'), 'w') as f:
-                            json.dump(metric, f, indent=4)
-                        break
-                    else:
-                        bt.logging.warning(f"Service returned status {response.status_code}")
-                        raise httpx.HTTPStatusError(f"HTTP {response.status_code}", request=response.request, response=response)
-            except (httpx.RequestError, httpx.HTTPStatusError, asyncio.TimeoutError) as e:
-                bt.logging.warning(f"Attempt {attempt + 1} failed: {e}")
-                
-                if attempt < max_retries - 1:
-                    # Exponential backoff with jitter
-                    delay = base_delay * (2 ** attempt) + np.random.uniform(0, 1)
-                    bt.logging.info(f"Waiting {delay:.2f}s before retry...")
-                    await asyncio.sleep(delay)
-                else:
-                    bt.logging.error(f"All {max_retries} attempts failed")
-                    raise e
+        async with httpx.AsyncClient(timeout=httpx.Timeout(timeout)) as client:
+            response = await client.get('http://localhost:8000/task', params={
+                'names': synapse.names,
+                'query_template': synapse.query_template,
+                'timeout': timeout - 50
+            })
+            
+            if response.status_code == 200:
+                variations_data, metric, query_params = response.json()
+                bt.logging.info(f"Successfully retrieved variations data: {variations_data}")
+                synapse.variations = variations_data
+                with open(os.path.join(run_dir, 'query_params.json'), 'w') as f:
+                    json.dump(query_params, f, indent=4)
+                with open(os.path.join(run_dir, 'metric.json'), 'w') as f:
+                    json.dump(metric, f, indent=4)
+            else:
+                bt.logging.warning(f"Service returned status {response.status_code}")
+                return None
         total_time = time.time() - start_time
         bt.logging.info(
             f"Request completed in {total_time:.2f}s of {timeout:.1f}s allowed. "

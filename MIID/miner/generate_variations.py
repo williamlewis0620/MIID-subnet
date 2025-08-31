@@ -4,7 +4,7 @@ import asyncio
 import random
 
 from MIID.miner.generate_name_variations import generate_name_variations
-from MIID.miner.parse_query import query_parser, query_parser_sync
+from MIID.miner.parse_query_gemini import query_parser, query_parser_sync
 
 
 def run_single_generation(args):

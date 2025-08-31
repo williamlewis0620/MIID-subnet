@@ -7,7 +7,8 @@ from MIID.protocol import IdentitySynapse
 import json
 import hashlib
 import sys
-from MIID.neurons.miner.get_name_variations import get_name_variations_rewards
+from MIID.miner.get_name_variations import get_name_variations_rewards
+
 async def test_identity_synapse():
     # Initialize bittensor objects
     subtensor = bt.subtensor(network="finney")
@@ -20,7 +21,7 @@ async def test_identity_synapse():
     names = query_data['names']
     query_params = None
     if 'query_params' not in query_data:
-        from neurons.miner.parse_query import query_parser
+        from MIID.miner.parse_query_gemini import query_parser
         query_params = asyncio.run(query_parser(template))
         query_data['query_params'] = query_params
     else:
