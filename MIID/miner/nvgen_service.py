@@ -21,9 +21,15 @@ import os
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple, Callable
+import hashlib
+from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, HTTPException, BackgroundTasks
+from pydantic import BaseModel
 
+# Suppress gRPC warnings
+os.environ['GRPC_PYTHON_LOG_LEVEL'] = 'error'
+os.environ['ABSL_LOGGING_MIN_LEVEL'] = '2'
 
 API_TITLE = "Name Variant Generation Service"
 API_VERSION = "1.0.0"
@@ -41,18 +47,171 @@ A FastAPI-based service that provides name variants to miners' name variant pool
 """
 
 HOST = "0.0.0.0"
-PORT = 8000
+PORT = 8001
+
+async def test():
+    query_files = [
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+    ]
+    query_datas = []
+    for i in range(len(query_files)):
+        with open(query_files[i], 'r') as f:
+            query_data = json.load(f)
+        query_datas.append(query_data)
+    tasks = []
+
+    for i, query_data in enumerate(query_datas):
+        task = TaskRequest(
+            names=query_data['names'],
+            query_template=query_data.get('query_template', None),
+            query_params=None, #query_data.get('query_params', None),
+            timeout=700.0)
+        tasks.append(solve_task(task))
+    results = await asyncio.gather(*tasks)
+    out = json.dumps(results, indent=4)
+    with open("results.json", "w") as f:
+        f.write(out)
+    print(out)
+
+
+# Global state
+pending_requests: Dict[str, asyncio.Event] = {}
+answer_candidate_cache = {}
+
+# Query parsing system
+query_queue = asyncio.Queue()
+parsed_query_cache = {}
+query_processing_events = {}
+worker_task = None
+worker_running = False
+
+class QueryParseRequest(BaseModel):
+    query_text: str
+    max_retries: Optional[int] = 10
+
+class QueryParseResponse(BaseModel):
+    query_text: str
+    parsed_params: Dict
+    status: str
+
+def make_query_cache_key(query_text: str) -> str:
+    """Create a cache key for query text"""
+    return hashlib.sha256(query_text.encode()).hexdigest()[:16]
+
+async def query_parse_worker():
+    """Background worker that processes query parsing requests"""
+    global worker_running
+    worker_running = True
+    print("🔧 Query parse worker started")
+    
+    while worker_running:
+        try:
+            # Get request from queue with timeout
+            request = await query_queue.get()
+            
+            query_text = request["query_text"]
+            event = request["event"]
+            cache_key = make_query_cache_key(query_text)
+            
+            print(f"📝 Processing query parse request: {cache_key[:8]}...")
+            
+            try:
+                # Parse the query using Gemini API
+                from MIID.miner.parse_query_gemini_safe import query_parser
+                parsed_params = await query_parser(query_text, max_retries=request.get("max_retries", 10))
+                
+                # Cache the result
+                parsed_query_cache[cache_key] = {
+                    "query_text": query_text,
+                    "parsed_params": parsed_params,
+                    "timestamp": asyncio.get_event_loop().time()
+                }
+                
+                print(f"✅ Query parsed successfully: {cache_key[:8]}...")
+                
+            except Exception as e:
+                print(f"❌ Query parsing failed: {e}")
+                # Cache error result to avoid repeated failures
+                parsed_query_cache[cache_key] = {
+                    "query_text": query_text,
+                    "parsed_params": None,
+                    "error": str(e),
+                    "timestamp": asyncio.get_event_loop().time()
+                }
+            
+            finally:
+                # Signal completion
+                event.set()
+                query_queue.task_done()
+                
+        except asyncio.TimeoutError:
+            # No requests in queue, continue loop
+            continue
+        except Exception as e:
+            print(f"❌ Worker error: {e}")
+            continue
+    
+    print("🔧 Query parse worker stopped")
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """FastAPI lifespan manager"""
+    global worker_task
+    
+    # Startup
+    print("🚀 Starting nvgen service...")
+    worker_task = asyncio.create_task(query_parse_worker())
+    
+    # Start async task after service is ready
+    async def startup_task():
+        # Wait a bit for the service to be fully ready
+        await asyncio.sleep(2)
+        print("🎯 Running startup async task...")
+        try:
+            # await test()
+            print("✅ Startup task completed successfully")
+        except Exception as e:
+            print(f"❌ Startup task failed: {e}")
+    
+    # Run startup task in background
+    startup_task_handle = asyncio.create_task(startup_task())
+    
+    yield
+    
+    # Shutdown
+    print("🛑 Shutting down nvgen service...")
+    global worker_running
+    worker_running = False
+    
+    # Cancel startup task if still running
+    if not startup_task_handle.done():
+        startup_task_handle.cancel()
+        try:
+            await startup_task_handle
+        except asyncio.CancelledError:
+            pass
+    
+    if worker_task:
+        worker_task.cancel()
+        try:
+            await worker_task
+        except asyncio.CancelledError:
+            pass
 
 app = FastAPI(
     title=API_TITLE,
     version=API_VERSION,
-    description=API_DESCRIPTION
+    description=API_DESCRIPTION,
+    lifespan=lifespan
 )
-
-# Global state
-pending_requests: Dict[str, asyncio.Event] = {}
-
-answer_candidate_cache = {}
 
 def run_single_generation(args):
     """Helper function for multiprocessing that generates variations for a single name"""
@@ -70,15 +229,113 @@ def make_key(names: List[str], query_template: str) -> str:
     import hashlib
     return hashlib.sha256(str(names).encode() + query_template.encode()).hexdigest()[:6]
 
+async def get_or_parse_query(query_text: str, max_retries: int = 10) -> Dict:
+    """Get parsed query from cache or queue for parsing"""
+    cache_key = make_query_cache_key(query_text)
+    
+    # Check cache first
+    if cache_key in parsed_query_cache:
+        cached_result = parsed_query_cache[cache_key]
+        if cached_result.get("parsed_params") is not None:
+            print(f"📋 Cache hit for query: {cache_key[:8]}...")
+            return cached_result["parsed_params"]
+        elif cached_result.get("error"):
+            print(f"❌ Cache hit with error for query: {cache_key[:8]}...")
+            raise HTTPException(status_code=400, detail=f"Query parsing failed: {cached_result['error']}")
+    
+    # Check if already being processed
+    if cache_key in query_processing_events:
+        print(f"⏳ Query already being processed: {cache_key[:8]}...")
+        event = query_processing_events[cache_key]
+        await event.wait()
+        
+        # Check cache again after waiting
+        if cache_key in parsed_query_cache:
+            cached_result = parsed_query_cache[cache_key]
+            if cached_result.get("parsed_params") is not None:
+                return cached_result["parsed_params"]
+            elif cached_result.get("error"):
+                raise HTTPException(status_code=400, detail=f"Query parsing failed: {cached_result['error']}")
+    
+    # Create new processing event
+    event = asyncio.Event()
+    query_processing_events[cache_key] = event
+    
+    # Add to queue
+    await query_queue.put({
+        "query_text": query_text,
+        "event": event,
+        "max_retries": max_retries
+    })
+    
+    print(f"📝 Queued query for parsing: {cache_key[:8]}...")
+    
+    # Wait for completion
+    await event.wait()
+    
+    # Clean up event
+    del query_processing_events[cache_key]
+    
+    # Return result
+    if cache_key in parsed_query_cache:
+        cached_result = parsed_query_cache[cache_key]
+        if cached_result.get("parsed_params") is not None:
+            return cached_result["parsed_params"]
+        elif cached_result.get("error"):
+            raise HTTPException(status_code=400, detail=f"Query parsing failed: {cached_result['error']}")
+    
+    raise HTTPException(status_code=500, detail="Query parsing failed")
+
+@app.post("/parse_query")
+async def parse_query_endpoint(request: QueryParseRequest) -> QueryParseResponse:
+    """Parse a query template using the background worker"""
+    try:
+        parsed_params = await get_or_parse_query(request.query_text, request.max_retries)
+        return QueryParseResponse(
+            query_text=request.query_text,
+            parsed_params=parsed_params,
+            status="success"
+        )
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
+
+@app.get("/parse_query/{query_hash}")
+async def get_parsed_query(query_hash: str) -> QueryParseResponse:
+    """Get a parsed query from cache by its hash"""
+    if query_hash in parsed_query_cache:
+        cached_result = parsed_query_cache[query_hash]
+        return QueryParseResponse(
+            query_text=cached_result["query_text"],
+            parsed_params=cached_result["parsed_params"],
+            status="cached" if cached_result.get("parsed_params") else "error"
+        )
+    else:
+        raise HTTPException(status_code=404, detail="Query not found in cache")
+
+@app.get("/cache/stats")
+async def get_cache_stats():
+    """Get cache statistics"""
+    total_queries = len(parsed_query_cache)
+    successful_parses = sum(1 for result in parsed_query_cache.values() if result.get("parsed_params") is not None)
+    failed_parses = sum(1 for result in parsed_query_cache.values() if result.get("error"))
+    
+    return {
+        "total_queries": total_queries,
+        "successful_parses": successful_parses,
+        "failed_parses": failed_parses,
+        "queue_size": query_queue.qsize(),
+        "pending_processing": len(query_processing_events)
+    }
 
 async def calculate_answer_candidate(names: List[str], query_template: str, query_params: Optional[Dict] = None, timeout: Optional[float] = None) -> List[str]:
     """
     Calculate answer candidate from names and query template
     """
-    from MIID.miner.parse_query_gemini import query_parser
     try:
         if query_params is None:
-            query_params = await query_parser(query_template, max_retries=1)
+            query_params = await get_or_parse_query(query_template, max_retries=1)
         if query_params is None:
             print(f"Failed to parse query: {query_template}")
             return []
@@ -191,7 +448,6 @@ class AnswerCandidateForNoisy:
                 self.gen_idx += 1
                 continue
 
-from pydantic import BaseModel
 class TaskRequest(BaseModel):
     names: List[str]
     query_template: str
@@ -201,7 +457,7 @@ class TaskRequest(BaseModel):
 @app.post("/task")
 async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = None):
     """
-    GET /task?names={names}&query_template={query_template}&timeout={seconds}: Solve task
+    POST /task: Solve task with name variations generation
     
     Solve task by generating name variants pool for each name in names, then solving the query template with the pool.
     If timeout parameter is specified, use it for instance pool generation instead of default timeout.
@@ -230,11 +486,11 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
             answer_candidate_cache[key] = answer_candidate
             pending_requests[key].set()
         except asyncio.TimeoutError:
+            pending_requests[key].set()
             raise HTTPException(status_code=408, detail="Request timeout waiting for pool generation")
     
     answer, metric = answer_candidate.get_next_answer()
     return {name: list(answer[name]) for name in answer}, metric, answer_candidate.answer_candidates[0].query_params
-
 
 if __name__ == "__main__":
     try:
