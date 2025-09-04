@@ -230,3 +230,24 @@ Expected:
             "name_parts_permutations"
         ]
     },
+Template:
+Generate 8 variations of {name}, ensuring phonetic similarity with 70% Light variations and 30% Medium variations. Ensure orthographic similarity with 50% Light variations and 50% Medium variations. Approximately 14% of the total variations should follow these rule-based transformations: Additionally, generate variations that perform these transformations: Replace a random vowel in {name} with an empty string or a different vowel, and abbreviate name parts by truncating them to 2-3 characters.\n[VALIDATION HINTS]: Apply these rule-based transformations: Remove a random vowel.; Orthographic similarity: 50% Light, 50% Medium.; Phonetic similarity: 30% Medium, 70% Light.
+Expected:
+{
+    "variation_count": 8,
+    "phonetic_similarity": {
+        "Light": 0.7,
+        "Medium": 0.3,
+        "Far": 0.0
+    },
+    "orthographic_similarity": {
+        "Light": 0.5,
+        "Medium": 0.5,
+        "Far": 0.0
+    },
+    "rule_percentage": 0.14,
+    "selected_rules": [
+        "remove_random_vowel",
+        "shorten_name_to_abbreviations"
+    ]
+}
