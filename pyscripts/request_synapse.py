@@ -1,23 +1,25 @@
 import os
 import bittensor as bt
 import asyncio
-from types import SimpleNamespace
 from MIID.validator.reward import get_name_variation_rewards
 from MIID.protocol import IdentitySynapse
 import json
-import hashlib
 import sys
-from MIID.miner.get_name_variations import get_name_variations_rewards
 
 async def test_identity_synapse():
     # Initialize bittensor objects
+    import argparse
+    parser = argparse.ArgumentParser()
+    bt.logging.add_args(parser)
+    parser.add_argument("--query_file", type=str, default="hard_tasks/1.json")
+    args = parser.parse_args()
     subtensor = bt.subtensor(network="finney")
     metagraph = subtensor.metagraph(54)  # Using netuid 91 as in original test
     wallet = bt.wallet(name="test", hotkey="miner")
-    query_file = sys.argv[1] if len(sys.argv) > 1 else "/work/54/miners/pub54-2/net54_uid192/netuid54/miner/validator_59/run_2025-08-24-08-53/query.json"
+    query_file = args.query_file
     with open(query_file, 'r') as f:
         query_data = json.load(f)
-    template = query_data['template']
+    template = query_data['query_template']
     names = query_data['names']
     query_params = None
     if 'query_params' not in query_data:
@@ -26,7 +28,8 @@ async def test_identity_synapse():
         query_data['query_params'] = query_params
     else:
         query_params = query_data['query_params']
-    test_uid = 144 # 5H1jrSmC49vbTbXe8s68xBxHN6djqWQmpvEa8vTLCpfrUfJt
+    test_uid = 62 # 5H1jrSmC49vbTbXe8s68xBxHN6djqWQmpvEa8vTLCpfrUfJt
+    # test_uid = 188 # 5H1jrSmC49vbTbXe8s68xBxHN6djqWQmpvEa8vTLCpfrUfJt
     coldkey = metagraph.axons[test_uid].coldkey
     try:
         async with bt.dendrite(wallet=wallet) as dendrite:
@@ -49,34 +52,48 @@ async def test_identity_synapse():
             response = await dendrite(
                 axons=[axon],
                 synapse=synapse,
-                deserialize=True,  # We want the deserialized response
+                deserialize=False,  # We want the deserialized response
                 timeout=720,  # Increased timeout for better reliability
             )
             # Process the response
             if response and len(response) > 0:
+                if response[0].axon.status_code == 200:
+                    print (response[0].variations)
+                    # pass
                 try:
-                    rewards, detailed_metrics = get_name_variations_rewards(
-                        names, query_params, [response]
+                    rule_based = {
+                        "selected_rules": query_params.get("selected_rules"),
+                        "rule_percentage": query_params.get("rule_percentage") * 100
+                    }
+                    rewards, detailed_metrics = get_name_variation_rewards(
+                        None,
+                        seed_names=names,
+                        responses=response,
+                        uids=[test_uid],
+                        variation_count=query_params.get("variation_count"),
+                        phonetic_similarity=query_params.get("phonetic_similarity"),
+                        orthographic_similarity=query_params.get("orthographic_similarity"),
+                        rule_based=rule_based,
                     )
                 except Exception as e:
                     bt.logging.error(f"Error during testing: {e}")
-                variations = response[0]  # Get first response
                 query_data['results'] = {
                     coldkey: {
                         "total_reward": rewards[0],
-                        "variations": variations,
+                        "variations": response[0].variations,
                         "metrics": detailed_metrics[0]
                     }
                 }
-                bt.logging.info(f"Received variations: {variations}")
-
-                template_hash = hashlib.md5(template.encode()).hexdigest()
-                workdir = f"tests/{test_uid}/{template_hash}"
+                from MIID.miner.nvgen_service import make_key
+                template_hash = make_key(names, template)
+                bt.logging.info(f"Received variations: {response[0].variations}")
+                workdir = os.path.dirname(os.path.abspath(__file__)) + f"/tasks/{template_hash}/{test_uid}"
                 os.makedirs(workdir, exist_ok=True)
                 with open(f"{workdir}/query.json", "w", encoding="utf-8") as f:
                     json.dump(query_data, f, indent=4)
                 with open(f"{workdir}/variants.json", "w", encoding="utf-8") as f:
-                    json.dump(variations, f, indent=4)
+                    json.dump(response[0].variations, f, indent=4)
+                bt.logging.info(f"Saved variations: {workdir}/query.json")
             else:
                 bt.logging.error("No response received")
 
