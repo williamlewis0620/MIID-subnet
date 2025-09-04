@@ -105,7 +105,7 @@ PORT = 8000
 
 async def test():
     base_query_files = [
-        os.path.join(os.path.dirname(__file__), "nvgen_test_query_1.json"),
+        os.path.join(os.path.dirname(__file__), "nvgen_test_query_2.json"),
     ]
     dup = 20
     query_files = []

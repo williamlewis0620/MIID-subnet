@@ -11,7 +11,7 @@ async def test_identity_synapse():
     import argparse
     parser = argparse.ArgumentParser()
     bt.logging.add_args(parser)
-    parser.add_argument("--query_file", type=str, default="hard_tasks/1.json")
+    parser.add_argument("--query_file", type=str, default=os.path.join(os.path.dirname(__file__), "hard_tasks/1.json"))
     args = parser.parse_args()
     subtensor = bt.subtensor(network="finney")
     metagraph = subtensor.metagraph(54)  # Using netuid 91 as in original test
@@ -24,12 +24,13 @@ async def test_identity_synapse():
     query_params = None
     if 'query_params' not in query_data:
         from MIID.miner.parse_query_gemini import query_parser
-        query_params = asyncio.run(query_parser(template))
+        query_params = await query_parser(template)
         query_data['query_params'] = query_params
     else:
         query_params = query_data['query_params']
-    test_uid = 62 # 5H1jrSmC49vbTbXe8s68xBxHN6djqWQmpvEa8vTLCpfrUfJt
-    # test_uid = 188 # 5H1jrSmC49vbTbXe8s68xBxHN6djqWQmpvEa8vTLCpfrUfJt
+    # test_uid = 62 # 5H1jrSmC49vbTbXe8s68xBxHN6djqWQmpvEa8vTLCpfrUfJt
+    test_uid = 246 # 5CysjkSsSS3D8w5Ap61URozFPwBUFPjH7q7wEtqAEXJ5eEW9
+    # test_uid = 163 # 5HmoxRai5fq9xjRQnH1Nz8nkgC7K26gxH5AmbVS9GY2GFUX4 
     coldkey = metagraph.axons[test_uid].coldkey
     try:
         async with bt.dendrite(wallet=wallet) as dendrite:

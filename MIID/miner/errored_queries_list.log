@@ -209,3 +209,24 @@ The first part of the query (`(SELECT COUNT(*) ...`) checks if the variation is 
 
 The 41% rule-based transformation requirement is implemented using `COUNT(*)` on the variations that follow this rule, where the variation follows the rule if the inserted random letter matches the first letter of the target name.
 Expected: {'variation_count': None, 'phonetic_similarity': {'Light': 0.5, 'Medium': 0.5}, 'orthographic_similarity': {'Light': 0.7, 'Medium': 0.3}, 'rule_percentage': 0.41, 'selected_rules': ["insert_random_letter"]}
+
+Template:
+Here is the query template:\n\n\"Generate 9 variations of {name}, ensuring phonetic similarity (20% Light, 60% Medium, 20% Far) and orthographic similarity (10% Light, 30% Medium, 60% Far). Approximately 55% of the total variations should follow these rule-based transformations: Append suffixes to first name, append prefixes to last name, append middle names in random order, remove middle name if present, reorder first and last name, replace vowels with consonants, insert numerical characters, truncate first name to 3 characters, truncate last name to 4 characters. Additionally, generate variations that: Reorder name parts.\"
+Expected:
+    "query_params": {
+        "variation_count": 9,
+        "phonetic_similarity": {
+            "Light": 0.2,
+            "Medium": 0.6,
+            "Far": 0.2
+        },
+        "orthographic_similarity": {
+            "Light": 0.1,
+            "Medium": 0.3,
+            "Far": 0.6
+        },
+        "rule_percentage": 0.55,
+        "selected_rules": [
+            "name_parts_permutations"
+        ]
+    },
