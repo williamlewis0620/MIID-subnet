@@ -24,9 +24,61 @@ from typing import Dict, List, Optional, Set, Tuple, Callable
 import hashlib
 from contextlib import asynccontextmanager
 import re
+import time
+import bittensor as bt
+import datetime
 
 from fastapi import FastAPI, HTTPException, BackgroundTasks
 from pydantic import BaseModel
+import logging  # add this near the top
+
+TRACE_LOG_FORMAT = (
+    f"%(asctime)s | %(levelname)s | %(name)s:%(filename)s:%(lineno)s | %(message)s"
+)
+
+LOGGING_CONFIG = {
+    "version": 1,
+    "disable_existing_loggers": False,
+    "formatters": {
+        # For app/uvicorn error logs (with timestamps)
+        "default": {
+            "()": "uvicorn.logging.DefaultFormatter",
+            "fmt": TRACE_LOG_FORMAT,
+            "datefmt": "%Y-%m-%d %H:%M:%S",
+            "use_colors": None,
+        },
+        # For access logs — no client IP, no request line/URL
+        "access": {
+            "()": "uvicorn.logging.AccessFormatter",
+            "fmt": "%(levelprefix)s %(asctime)s status=%(status_code)s",
+            "datefmt": "%Y-%m-%d %H:%M:%S",
+            "use_colors": None,
+        },
+    },
+    "handlers": {
+        "default": {
+            "class": "logging.StreamHandler",
+            "formatter": "default",
+            "stream": "ext://sys.stderr",
+        },
+        "access": {
+            "class": "logging.StreamHandler",
+            "formatter": "access",
+            "stream": "ext://sys.stdout",
+        },
+    },
+    "loggers": {
+        "uvicorn": {"handlers": ["default"], "level": "INFO"},
+        "uvicorn.error": {"level": "INFO"},
+        # important: don't propagate or you'll get duplicate access lines
+        "uvicorn.access": {"handlers": ["access"], "level": "INFO", "propagate": False},
+
+        # optional: your own app logger so your prints become timestamped logs if you switch to logging
+        "nvgen": {"handlers": ["default"], "level": "INFO", "propagate": False},
+    },
+}
+
+log = logging.getLogger("nvgen")
 
 # Suppress gRPC warnings
 os.environ['GRPC_PYTHON_LOG_LEVEL'] = 'error'
@@ -51,34 +103,14 @@ HOST = "0.0.0.0"
 PORT = 8000
 
 
-
-
 async def test():
-    query_files = [
-        # "/work/54/miners/pub54-2/net54_uid192/netuid54/miner/validator_59/run_2025-08-24-09-07/query.json",
-        # "/work/54/miners/pub54-2/net54_uid192/netuid54/miner/validator_59/run_2025-08-24-11-03/query.json",
-        # "/work/54/miners/pub54-2/net54_uid192/netuid54/miner/validator_59/run_2025-08-24-10-54/query.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
-        "/work/54/tasks_fvs/1.json",
+    base_query_files = [
+        os.path.join(os.path.dirname(__file__), "nvgen_test_query_1.json"),
     ]
+    dup = 20
+    query_files = []
+    for q in base_query_files:
+        query_files.extend([q] * dup)
     query_datas = []
     for i in range(len(query_files)):
         with open(query_files[i], 'r') as f:
@@ -91,12 +123,14 @@ async def test():
             names=query_data['names'],
             query_template=query_data.get('query_template', None),
             query_params=query_data.get('query_params', None),
+            miner_uid=0,
+            validator_uid=0,
             timeout=700.0)
         tasks.append(solve_task(task))
     results = await asyncio.gather(*tasks)
-    out = json.dumps(results, indent=4)
-    with open("results.json", "w") as f:
-        f.write(out)
+    # out = json.dumps(results, indent=4)
+    # with open("results.json", "w") as f:
+    #     f.write(out)
 
 
 # Global state
@@ -119,15 +153,11 @@ class QueryParseResponse(BaseModel):
     parsed_params: Dict
     status: str
 
-def make_query_cache_key(query_text: str) -> str:
-    """Create a cache key for query text"""
-    return hashlib.sha256(query_text.encode()).hexdigest()[:16]
-
 async def query_parse_worker():
     """Background worker that processes query parsing requests"""
     global worker_running
     worker_running = True
-    print("🔧 Query parse worker started")
+    log.info("🔧 Query parse worker started")
     
     while worker_running:
         try:
@@ -136,9 +166,9 @@ async def query_parse_worker():
             
             query_text = request["query_text"]
             event = request["event"]
-            cache_key = make_query_cache_key(query_text)
+            cache_key = make_key([], query_text)
             
-            print(f"📝 Processing query parse request: {cache_key[:8]}...")
+            log.info(f"📝 Processing query parse request: {cache_key[:8]}...")
             
             try:
                 # Parse the query using Gemini API
@@ -152,10 +182,10 @@ async def query_parse_worker():
                     "timestamp": asyncio.get_event_loop().time()
                 }
                 
-                print(f"✅ Query parsed successfully: {cache_key[:8]}...")
+                log.info(f"✅ Query parsed successfully: {cache_key[:8]}...")
                 
             except Exception as e:
-                print(f"❌ Query parsing failed: {e}")
+                log.info(f"❌ Query parsing failed: {e}")
                 # Cache error result to avoid repeated failures
                 parsed_query_cache[cache_key] = {
                     "query_text": query_text,
@@ -173,10 +203,10 @@ async def query_parse_worker():
             # No requests in queue, continue loop
             continue
         except Exception as e:
-            print(f"❌ Worker error: {e}")
+            log.info(f"❌ Worker error: {e}")
             continue
     
-    print("🔧 Query parse worker stopped")
+    log.info("🔧 Query parse worker stopped")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -184,21 +214,21 @@ async def lifespan(app: FastAPI):
     global worker_task
     
     # Startup
-    print("🚀 Starting nvgen service...")
+    log.info("🚀 Starting nvgen service...")
     worker_task = asyncio.create_task(query_parse_worker())
     
     # Start async task after service is ready
     async def startup_task():
         # Wait a bit for the service to be fully ready
         await asyncio.sleep(2)
-        print("🎯 Running startup async task...")
+        log.info("🎯 Running startup async task...")
         try:
             # await test()
-            print("✅ Startup task completed successfully")
+            log.info("✅ Startup task completed successfully")
         except Exception as e:
             import traceback
             traceback.print_exc()
-            print(f"❌ Startup task failed: {e}")
+            log.info(f"❌ Startup task failed: {e}")
     
     # Run startup task in background
     startup_task_handle = asyncio.create_task(startup_task())
@@ -206,7 +236,7 @@ async def lifespan(app: FastAPI):
     yield
     
     # Shutdown
-    print("🛑 Shutting down nvgen service...")
+    log.info("🛑 Shutting down nvgen service...")
     global worker_running
     worker_running = False
     
@@ -237,7 +267,6 @@ app = FastAPI(
 def run_single_generation(args):
     """Helper function for multiprocessing that generates variations for a single name"""
     i, name, query_params, timeout, key = args
-    print(f"Running for [{key}] {i+1}. {name}")
     from MIID.miner.generate_name_variations import generate_name_variations
     return generate_name_variations(
         original_name=name,
@@ -252,21 +281,21 @@ def make_key(names: List[str], query_template: str) -> str:
 
 async def get_or_parse_query(query_text: str, max_retries: int = 10) -> Dict:
     """Get parsed query from cache or queue for parsing"""
-    cache_key = make_query_cache_key(query_text)
+    cache_key = make_key([], query_text)
     
     # Check cache first
     if cache_key in parsed_query_cache:
         cached_result = parsed_query_cache[cache_key]
         if cached_result.get("parsed_params") is not None:
-            print(f"📋 Cache hit for query: {cache_key[:8]}...")
+            log.info(f"📋 Cache hit for query: {cache_key[:8]}...")
             return cached_result["parsed_params"]
         elif cached_result.get("error"):
-            print(f"❌ Cache hit with error for query: {cache_key[:8]}...")
+            log.info(f"❌ Cache hit with error for query: {cache_key[:8]}...")
             raise HTTPException(status_code=400, detail=f"Query parsing failed: {cached_result['error']}")
     
     # Check if already being processed
     if cache_key in query_processing_events:
-        print(f"⏳ Query already being processed: {cache_key[:8]}...")
+        log.info(f"⏳ Query already being processed: {cache_key[:8]}...")
         event = query_processing_events[cache_key]
         await event.wait()
         
@@ -289,7 +318,7 @@ async def get_or_parse_query(query_text: str, max_retries: int = 10) -> Dict:
         "max_retries": max_retries
     })
     
-    print(f"📝 Queued query for parsing: {cache_key[:8]}...")
+    log.info(f"📝 Queued query for parsing: {cache_key[:8]}...")
     
     # Wait for completion
     await event.wait()
@@ -358,10 +387,10 @@ async def calculate_answer_candidate(names: List[str], query_template: str, quer
         if query_params is None:
             query_params = await get_or_parse_query(query_template, max_retries=1)
         if query_params is None:
-            print(f"Failed to parse query: {query_template}")
+            log.info(f"Failed to parse query: {query_template}")
             return []
     except Exception as e:
-        print(f"Failed to parse query: {e}")
+        log.info(f"Failed to parse query: {e}")
         return []
     
     task_args = []
@@ -379,19 +408,24 @@ async def calculate_answer_candidate(names: List[str], query_template: str, quer
         try:
             results = await asyncio.gather(*tasks)
         except asyncio.TimeoutError:
-            print(f"Timeout waiting for {len(tasks)} tasks to complete")
+            log.info(f"Timeout waiting for {len(tasks)} tasks to complete")
             return []
         return results
 
 from MIID.miner.generate_name_variations import AnswerCandidate
 class AnswerCandidateForNoisy:
-    def __init__(self, answer_candidates: List[AnswerCandidate]):
+    def __init__(self, task_key: str, answer_candidates: List[AnswerCandidate], validator_uid: int):
+        self.task_key = task_key
         self.answer_candidates = answer_candidates
         self.serial = 0
         self.buckets_exact = {}
         self.answer_list = []
-
-    def calc_reward_and_penalty(self, answers: List[Dict[str, List[str]]]):
+        self.miner_list = []
+        self.first_time = time.time()
+        self.start_at = time.time()
+        self.validator_uid = validator_uid
+        
+    def calc_reward_and_penalty(self, answers: List[Dict[str, List[str]]], miners: List[int]):
         from types import SimpleNamespace
         responses = {}
         responses = [SimpleNamespace(
@@ -402,15 +436,14 @@ class AnswerCandidateForNoisy:
             "selected_rules": self.answer_candidates[0].query_params["selected_rules"],
             "rule_percentage": self.answer_candidates[0].query_params["rule_percentage"] * 100
         }
-        import bittensor as bt
         debug_level = bt.logging.get_level()
-        bt.logging.setLevel('CRITICAL')
+        bt.logging.setLevel('WARNING')
         from MIID.validator.reward import get_name_variation_rewards
         _, metrics = get_name_variation_rewards(
             None,
             seed_names=list(answers[0].keys()), 
             responses=responses,
-            uids=list(range(len(answers))),
+            uids=miners,
             variation_count=self.answer_candidates[0].query_params["variation_count"],
             phonetic_similarity=self.answer_candidates[0].query_params["phonetic_similarity"],
             orthographic_similarity=self.answer_candidates[0].query_params["orthographic_similarity"],
@@ -421,9 +454,9 @@ class AnswerCandidateForNoisy:
             if 'collusion' in metric['penalties'] or 'duplication' in metric['penalties']:
                 penalty = True
                 break
-        return metrics[-1], penalty
+        return metrics, penalty
     
-    def get_next_answer(self) -> Set[str]:
+    def get_next_answer_for(self, miner_uid: int) -> Set[str]:
         COLLUSION_GROUP_SIZE_THRESHOLD = 1
         answer = {}
         metric = {}
@@ -435,11 +468,13 @@ class AnswerCandidateForNoisy:
             noisy_plan, noisy_count = kth_plan(len(self.answer_candidates), max(0, self.serial - COLLUSION_GROUP_SIZE_THRESHOLD) + 1)
             for i,cand in enumerate(self.answer_candidates):
                 answer[cand.name] = cand.get_next_answer(noisy_plan[i])
-            metric, penalty = self.calc_reward_and_penalty(self.answer_list + [answer])
+            metrics, penalty = self.calc_reward_and_penalty(self.answer_list + [answer], self.miner_list + [miner_uid])
             if not penalty:
                 self.answer_list.append(answer)
+                self.miner_list.append(miner_uid)
+                self.metrics = metrics
                 break
-        return answer, metric
+        return answer, metrics[-1]
 
 
 class TaskRequest(BaseModel):
@@ -447,6 +482,40 @@ class TaskRequest(BaseModel):
     query_template: str
     query_params: Optional[Dict] = None
     timeout: Optional[float] = None
+    miner_uid: Optional[int] = None
+    validator_uid: Optional[int] = None
+
+def save_result(answer_candidate: AnswerCandidateForNoisy, miner_uid: int):
+    timestamp = datetime.datetime.fromtimestamp(answer_candidate.start_at).strftime("%Y-%m-%d_%H-%M-%S")
+    run_dir = os.path.join(
+        os.path.dirname(__file__),
+        "tasks",
+        f"validator_{answer_candidate.validator_uid}",        
+        f"{timestamp}-{answer_candidate.task_key}")
+    os.makedirs(run_dir, exist_ok=True)
+
+    try:
+        with open(os.path.join(run_dir, f"serial_{answer_candidate.serial:02d}-miner_{miner_uid}.json"), 'w', encoding="utf-8") as f:
+            # output_json = {
+            #     "names": ", ".join([ cand.name for cand in answer_candidate.answer_candidates ]),
+            #     "final_reward": answer_candidate.metrics[-1]["final_reward"],
+            #     "answers": [
+            #         {
+            #             "miner_uid": miner_uid,
+            #             "answers": [
+            #                 f"{name:20s} = [ {', '.join(list(answer))} ]"
+            #                 for name, answer in answer_candidate.answer_list[miner_uid].items()
+            #             ]
+            #         } for miner_uid in answer_candidate.miner_list
+            #     ],
+            #     "all_metrics": answer_candidate.metrics,
+            # }
+            output_json = answer_candidate.metrics[-1]
+            json.dump(output_json, f, indent=4)
+    except Exception as e:
+        log.error(f"Error saving serial_{answer_candidate.serial}-miner_{miner_uid}.json: {e}")
+        pass
+    
 
 @app.post("/task")
 async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = None):
@@ -465,35 +534,50 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
     query_template = request.query_template
     query_params = request.query_params
     timeout = request.timeout
-    key = make_key(names, query_template)
-    if key in pending_requests:
-        print(f"Pending request hit for {key}")
-        await asyncio.wait_for(pending_requests[key].wait(), timeout=timeout)
-    if key in answer_candidate_cache:
-        answer_candidate = answer_candidate_cache[key]
+    task_key = make_key(names, query_template)
+    start_at = time.time()
+    log.info(
+        f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
+        f"Start task for {task_key}, timeout:{timeout: .1f}s")
+
+    if task_key in pending_requests:
+        log.info(
+            f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
+            f"Pending request hit for {task_key}")
+        await asyncio.wait_for(pending_requests[task_key].wait(), timeout=timeout)
+    if task_key in answer_candidate_cache:
+        answer_candidate = answer_candidate_cache[task_key]
     else:
-        print(f"Calculate answer candidate for {key} with timeout {timeout}")
-        pending_requests[key] = asyncio.Event()
+        log.info(
+            f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
+            f"Calculate answer candidate for {task_key} with timeout {timeout: .1f}s")
+        pending_requests[task_key] = asyncio.Event()
         try:
             answer_candidate = await calculate_answer_candidate(names, query_template, query_params, timeout)
-            answer_candidate = AnswerCandidateForNoisy(answer_candidate)
-            answer_candidate_cache[key] = answer_candidate
-            pending_requests[key].set()
+            answer_candidate = AnswerCandidateForNoisy(task_key, answer_candidate, validator_uid=request.validator_uid)
+            answer_candidate_cache[task_key] = answer_candidate
+            pending_requests[task_key].set()
         except asyncio.TimeoutError:
-            pending_requests[key].set()
+            pending_requests[task_key].set()
             raise HTTPException(status_code=408, detail="Request timeout waiting for pool generation")
     
-    answer, metric = answer_candidate.get_next_answer()
-    print(f"Answer candidate: {answer_candidate.serial}")
+    answer, metric = answer_candidate.get_next_answer_for(request.miner_uid)
+    log.info(
+        f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
+        f"Answer candidate: {answer_candidate.serial}, "
+        f"Timeout: {time.time() - start_at: .1f}s")
+    save_result(answer_candidate, request.miner_uid)
     return {name: list(answer[name]) for name in answer}, metric, answer_candidate.answer_candidates[0].query_params
+
 
 if __name__ == "__main__":
     import argparse
     port = argparse.ArgumentParser()
+    bt.logging.add_args(port)
     port.add_argument("--port", type=int, default=PORT)
     args = port.parse_args()
     PORT = args.port
-    print(f"Starting nvgen service on port {PORT}")
+    log.info(f"Starting nvgen service on port {PORT}")
     try:
         import uvicorn
         # Start the server
@@ -502,7 +586,8 @@ if __name__ == "__main__":
             host=HOST, 
             port=PORT,
             log_level="info",
-            access_log=True,
+            access_log=False,
+            log_config=LOGGING_CONFIG,
             limit_concurrency=1000,
             limit_max_requests=1000,
         )
@@ -510,9 +595,9 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         import traceback
         traceback.print_exc()
-        print("\n🛑 KeyboardInterrupt received, shutting down gracefully...")
-        print("👋 Service stopped by user")
+        log.info("\n🛑 KeyboardInterrupt received, shutting down gracefully...")
+        log.info("👋 Service stopped by user")
         sys.exit(0)
     except Exception as e:
-        print(f"\n❌ Error starting service: {e}")
+        log.info(f"\n❌ Error starting service: {e}")
         sys.exit(1)
