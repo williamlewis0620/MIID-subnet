@@ -251,3 +251,23 @@ Expected:
         "shorten_name_to_abbreviations"
     ]
 }
+Template:
+Generate 9 variations of {name}, ensuring phonetic similarity (20% Light, e.g. {name}y, {name}i, etc., 60% Medium, e.g. {name}ee, {name}ay, etc., 20% Far, e.g. {name}kuh, {name}shun, etc.) and orthographic similarity (20% Light, e.g. {name}, {name}s, etc., 60% Medium, e.g. {name}e, {name}a, etc., 20% Far, e.g. {name}kh, {name}z, etc.). Approximately 54% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace a letter with a similar-looking one (e.g. o -> q), Transpose two adjacent letters, Insert a random letter between two existing ones, Remove a single letter, Append a common suffix (e.g. -ian, -son).
+Expected:
+{
+    "variation_count": 9,
+    "phonetic_similarity": {
+        "Light": 0.2,
+        "Medium": 0.6,
+        "Far": 0.2
+    },
+    "orthographic_similarity": {
+        "Light": 0.2,
+        "Medium": 0.6,
+        "Far": 0.2
+    },
+    "rule_percentage": 0.54,
+    "selected_rules": [
+        "insert_random_letter"
+    ]
+}
