@@ -231,7 +231,9 @@ class Miner(BaseMinerNeuron):
                     json_data = {
                         'names': synapse.names,
                         'query_template': synapse.query_template,
-                        'timeout': timeout - 50
+                        'timeout': timeout - 50,
+                        'miner_uid': self.uid,
+                        "validator_uid": validator_uid
                     }
                     response = await client.post(url, json=json_data)
                     
