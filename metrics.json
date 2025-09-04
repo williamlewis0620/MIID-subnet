@@ -1,0 +1,2830 @@
+[
+    {
+        "quality_scores": {},
+        "penalties": {
+            "extra_names": 0.0,
+            "missing_names": 0.0,
+            "total_penalty": 0.0,
+            "special_chars_ratio": 0.09166666666666666,
+            "special_char_variations_count": 11,
+            "total_variations_count": 120
+        },
+        "completeness_multiplier": 1.0,
+        "name_metrics": {
+            "maria henry": {
+                "first_name": {
+                    "score": 0.7510127758979281,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.17004258632642721,
+                            "orthographic": 1.0,
+                            "combined": 0.5850212931632136
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "mriea",
+                                "phonetic_score": 0.8548357904973596,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "marii",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mywir",
+                                "phonetic_score": 0.06569486928836596,
+                                "orthographic_score": 0.4,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "myriu",
+                                "phonetic_score": 0.8548357904973596,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mmriu",
+                                "phonetic_score": 0.8548357904973596,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.7438483819416004,
+                "final_score": 0.7950787055532804,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.736,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.12,
+                            "orthographic": 1.0,
+                            "combined": 0.56
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "hnnru",
+                                "phonetic_score": 0.15574236976301808,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "hunry",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "hhmri",
+                                "phonetic_score": 0.15286474942635014,
+                                "orthographic_score": 0.4,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "henar",
+                                "phonetic_score": 0.15574236976301808,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "heynr",
+                                "phonetic_score": 0.15574236976301808,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "marina henry"
+                            ],
+                            "shorten_name_to_initials": [
+                                "Mh"
+                            ],
+                            "remove_random_vowel": [
+                                "MRIa hENRY"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "marina henry": [
+                                "insert_random_letter"
+                            ],
+                            "Mh": [
+                                "shorten_name_to_initials"
+                            ],
+                            "MRIa hENRY": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "tracey lin": {
+                "first_name": {
+                    "score": 0.8058798830058032,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.35293294335267744,
+                            "orthographic": 1.0,
+                            "combined": 0.6764664716763387
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "trceyw",
+                                "phonetic_score": 0.5475734009954538,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "trocey",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8333333333333334,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "trihca",
+                                "phonetic_score": 0.27957157617365425,
+                                "orthographic_score": 0.33333333333333337,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "ttraze",
+                                "phonetic_score": 0.5475734009954538,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "trocew",
+                                "phonetic_score": 0.5475734009954538,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.7813006114115881,
+                "final_score": 0.8250404891292706,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.7398798830058032,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.35293294335267744,
+                            "orthographic": 0.78,
+                            "combined": 0.5664664716763388
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "lWn",
+                                "phonetic_score": 0.38032240060959205,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "lOn",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "hae",
+                                "phonetic_score": 0.0,
+                                "orthographic_score": 0.0,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "lne",
+                                "phonetic_score": 0.38032240060959205,
+                                "orthographic_score": 0.33333333333333337,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "lyn",
+                                "phonetic_score": 0.38032240060959205,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "tracey qlin"
+                            ],
+                            "shorten_name_to_initials": [
+                                "tl"
+                            ],
+                            "remove_random_vowel": [
+                                "trcEy lIn"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "tracey qlin": [
+                                "insert_random_letter"
+                            ],
+                            "tl": [
+                                "shorten_name_to_initials"
+                            ],
+                            "trcEy lIn": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "andre nyamvumba": {
+                "first_name": {
+                    "score": 0.934,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.78,
+                            "orthographic": 1.0,
+                            "combined": 0.89
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "ander",
+                                "phonetic_score": 0.7622051910180864,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "andrR",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "andar",
+                                "phonetic_score": 0.7622051910180864,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "amdar",
+                                "phonetic_score": 0.18575503812063657,
+                                "orthographic_score": 0.4,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "anwdr",
+                                "phonetic_score": 0.7622051910180864,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.8653831963255383,
+                "final_score": 0.8923065570604307,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.8170127758979281,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.39004258632642724,
+                            "orthographic": 1.0,
+                            "combined": 0.6950212931632136
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "nyemvymbo",
+                                "phonetic_score": 0.9488165927255632,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "nyemvumbe",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.7777777777777778,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "nyamuvmab",
+                                "phonetic_score": 0.9488165927255632,
+                                "orthographic_score": 0.5555555555555556,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "nhamuvmab",
+                                "phonetic_score": 0.3659165471055491,
+                                "orthographic_score": 0.4444444444444444,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "nyamvmuyb",
+                                "phonetic_score": 0.9488165927255632,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "aendre nyamvumba"
+                            ],
+                            "shorten_name_to_initials": [
+                                "A.n."
+                            ],
+                            "remove_random_vowel": [
+                                "aNDRE nymvUMbA"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "aendre nyamvumba": [
+                                "insert_random_letter"
+                            ],
+                            "A.n.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "aNDRE nymvUMbA": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "james morales": {
+                "first_name": {
+                    "score": 0.934,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.78,
+                            "orthographic": 1.0,
+                            "combined": 0.89
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "jamez",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "jhmaq",
+                                "phonetic_score": 0.2881512542361185,
+                                "orthographic_score": 0.4,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "jamzi",
+                                "phonetic_score": 0.6159115755246067,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "jymys",
+                                "phonetic_score": 0.6159115755246067,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "jmues",
+                                "phonetic_score": 0.6159115755246067,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.9339999999999999,
+                "final_score": 0.9472,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.934,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.78,
+                            "orthographic": 1.0,
+                            "combined": 0.89
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "morilis",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.7142857142857143,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "marlaex",
+                                "phonetic_score": 0.0718976197569389,
+                                "orthographic_score": 0.4285714285714286,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "morliez",
+                                "phonetic_score": 0.6285097228095786,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mrialus",
+                                "phonetic_score": 0.6285097228095786,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "morulsw",
+                                "phonetic_score": 0.6285097228095786,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "ejames morales"
+                            ],
+                            "shorten_name_to_initials": [
+                                "J. m."
+                            ],
+                            "remove_random_vowel": [
+                                "jaMES MORaLS"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "ejames morales": [
+                                "insert_random_letter"
+                            ],
+                            "J. m.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "jaMES MORaLS": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "kimberly knight": {
+                "first_name": {
+                    "score": 0.736,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.12,
+                            "orthographic": 1.0,
+                            "combined": 0.56
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "kmivurlh",
+                                "phonetic_score": 0.06610741629351027,
+                                "orthographic_score": 0.375,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "kambroly",
+                                "phonetic_score": 0.2656108096554426,
+                                "orthographic_score": 0.625,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "kwmbberl",
+                                "phonetic_score": 0.2656108096554426,
+                                "orthographic_score": 0.625,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "kembirly",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.75,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "kamborlw",
+                                "phonetic_score": 0.2656108096554426,
+                                "orthographic_score": 0.625,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.8678330899757775,
+                "final_score": 0.8942664719806219,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 1.0,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 1.0,
+                            "orthographic": 1.0,
+                            "combined": 1.0
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "kmgyit",
+                                "phonetic_score": 0.39265500674255316,
+                                "orthographic_score": 0.33333333333333337,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "knghdy",
+                                "phonetic_score": 0.7318011694324879,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "knghyd",
+                                "phonetic_score": 0.7318011694324879,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "knaght",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8333333333333334,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "knghtw",
+                                "phonetic_score": 0.7318011694324879,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "kimberly knqight"
+                            ],
+                            "shorten_name_to_initials": [
+                                "K.k."
+                            ],
+                            "remove_random_vowel": [
+                                "kiMbrlY KNighT"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "kimberly knqight": [
+                                "insert_random_letter"
+                            ],
+                            "K.k.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "kiMbrlY KNighT": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "kayla salas": {
+                "first_name": {
+                    "score": 1.0,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 1.0,
+                            "orthographic": 1.0,
+                            "combined": 1.0
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "kylwl",
+                                "phonetic_score": 0.4330962294830534,
+                                "orthographic_score": 0.4,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "koela",
+                                "phonetic_score": 0.7685609992192024,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "kehla",
+                                "phonetic_score": 0.7685609992192024,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "koyla",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "kaolu",
+                                "phonetic_score": 0.7685609992192024,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.8723638894643433,
+                "final_score": 0.8978911115714747,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.7589010616666759,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.19633687222225316,
+                            "orthographic": 1.0,
+                            "combined": 0.5981684361111266
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "swlig",
+                                "phonetic_score": 0.8779574994428415,
+                                "orthographic_score": 0.4,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "sllws",
+                                "phonetic_score": 0.9988518266570217,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "slahs",
+                                "phonetic_score": 0.9988518266570217,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "sales",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "slass",
+                                "phonetic_score": 0.9988518266570217,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "kayla sdalas"
+                            ],
+                            "shorten_name_to_initials": [
+                                "K.S."
+                            ],
+                            "remove_random_vowel": [
+                                "kayLa SLas"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "kayla sdalas": [
+                                "insert_random_letter"
+                            ],
+                            "K.S.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "kayLa SLas": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "khalifa ghawil": {
+                "first_name": {
+                    "score": 0.8058798830058032,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.35293294335267744,
+                            "orthographic": 1.0,
+                            "combined": 0.6764664716763387
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "khlaipo",
+                                "phonetic_score": 0.1513083991153204,
+                                "orthographic_score": 0.4285714285714286,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "kholiyf",
+                                "phonetic_score": 0.3881501093566612,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "khalyvo",
+                                "phonetic_score": 0.3881501093566612,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "khalifu",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8571428571428572,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "khulyfo",
+                                "phonetic_score": 0.3881501093566612,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.7750557359224424,
+                "final_score": 0.8200445887379539,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.736,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.12,
+                            "orthographic": 1.0,
+                            "combined": 0.56
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "gewhli",
+                                "phonetic_score": 0.18880552201345394,
+                                "orthographic_score": 0.33333333333333337,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "ghuwal",
+                                "phonetic_score": 0.2224332722834487,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "gwhwel",
+                                "phonetic_score": 0.2224332722834487,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "ghawol",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8333333333333334,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "ghowal",
+                                "phonetic_score": 0.2224332722834487,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "khalifa ghajwil"
+                            ],
+                            "shorten_name_to_initials": [
+                                "k.g."
+                            ],
+                            "remove_random_vowel": [
+                                "KhaLiFa GHAwl"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "khalifa ghajwil": [
+                                "insert_random_letter"
+                            ],
+                            "k.g.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "KhaLiFa GHAwl": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "tami reid": {
+                "first_name": {
+                    "score": 1.0,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 1.0,
+                            "orthographic": 1.0,
+                            "combined": 1.0
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "ttma",
+                                "phonetic_score": 0.6942515878582154,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "tmme",
+                                "phonetic_score": 0.6942515878582154,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "tumw",
+                                "phonetic_score": 0.6942515878582154,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "tyim",
+                                "phonetic_score": 0.41762441910297377,
+                                "orthographic_score": 0.25,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "tama",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.75,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.903892304017735,
+                "final_score": 0.9231138432141881,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.8058798830058032,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.35293294335267744,
+                            "orthographic": 1.0,
+                            "combined": 0.6764664716763387
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "reut",
+                                "phonetic_score": 0.3546244055099609,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "royd",
+                                "phonetic_score": 0.3546244055099609,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "rowd",
+                                "phonetic_score": 0.3546244055099609,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "rtyu",
+                                "phonetic_score": 0.23611263377789476,
+                                "orthographic_score": 0.25,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "roid",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.75,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "etami reid"
+                            ],
+                            "shorten_name_to_initials": [
+                                "T. r."
+                            ],
+                            "remove_random_vowel": [
+                                "tAm REId"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "etami reid": [
+                                "insert_random_letter"
+                            ],
+                            "T. r.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "tAm REId": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "amanulah goshtasbi": {
+                "first_name": {
+                    "score": 0.8170127758979281,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.39004258632642724,
+                            "orthographic": 1.0,
+                            "combined": 0.6950212931632136
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "amanleay",
+                                "phonetic_score": 0.846881900885343,
+                                "orthographic_score": 0.625,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "aimanula",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.75,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "amanealy",
+                                "phonetic_score": 0.846881900885343,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "amenuluy",
+                                "phonetic_score": 0.846881900885343,
+                                "orthographic_score": 0.625,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "anwunlhh",
+                                "phonetic_score": 0.4798578825932468,
+                                "orthographic_score": 0.375,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.7739849888954213,
+                "final_score": 0.8191879911163371,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.736,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.12,
+                            "orthographic": 1.0,
+                            "combined": 0.56
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "gashdasby",
+                                "phonetic_score": 0.2765379956082067,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "goshtawsb",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.7777777777777778,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "gochatsbo",
+                                "phonetic_score": 0.2765379956082067,
+                                "orthographic_score": 0.5555555555555556,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "goshetsbw",
+                                "phonetic_score": 0.2765379956082067,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "gojhthkib",
+                                "phonetic_score": 0.1909902724465153,
+                                "orthographic_score": 0.4444444444444444,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "amanulahj goshtasbi"
+                            ],
+                            "shorten_name_to_initials": [
+                                "Ag"
+                            ],
+                            "remove_random_vowel": [
+                                "amaNUlah GoSHtsbI"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "amanulahj goshtasbi": [
+                                "insert_random_letter"
+                            ],
+                            "Ag": [
+                                "shorten_name_to_initials"
+                            ],
+                            "amaNUlah GoSHtsbI": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "shane morris": {
+                "first_name": {
+                    "score": 0.8058798830058032,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.35293294335267744,
+                            "orthographic": 1.0,
+                            "combined": 0.6764664716763387
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "shano",
+                                "phonetic_score": 0.9999999999999999,
+                                "orthographic_score": 0.8,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "shhem",
+                                "phonetic_score": 0.1535745810109094,
+                                "orthographic_score": 0.4,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "shwnw",
+                                "phonetic_score": 0.42638432559947925,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "shnae",
+                                "phonetic_score": 0.42638432559947925,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "shwno",
+                                "phonetic_score": 0.42638432559947925,
+                                "orthographic_score": 0.6,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.8058798830058032,
+                "final_score": 0.8447039064046427,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.8058798830058032,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.35293294335267744,
+                            "orthographic": 1.0,
+                            "combined": 0.6764664716763387
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "murris",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8333333333333334,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "miriwq",
+                                "phonetic_score": 0.22126375329557396,
+                                "orthographic_score": 0.33333333333333337,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mwyras",
+                                "phonetic_score": 0.4371954609358808,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mrroas",
+                                "phonetic_score": 0.4371954609358808,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mwwrus",
+                                "phonetic_score": 0.4371954609358808,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "oshane morris"
+                            ],
+                            "shorten_name_to_initials": [
+                                "S.m."
+                            ],
+                            "remove_random_vowel": [
+                                "ShaNe Mrris"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "oshane morris": [
+                                "insert_random_letter"
+                            ],
+                            "S.m.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "ShaNe Mrris": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "sophia gilbert": {
+                "first_name": {
+                    "score": 1.0,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 1.0,
+                            "orthographic": 1.0,
+                            "combined": 1.0
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "sypyai",
+                                "phonetic_score": 0.3562533258103626,
+                                "orthographic_score": 0.33333333333333337,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "suphia",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8333333333333334,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "suyfia",
+                                "phonetic_score": 0.6440251179906331,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "svioia",
+                                "phonetic_score": 0.6440251179906331,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "sphiue",
+                                "phonetic_score": 0.6440251179906331,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.9022138426290731,
+                "final_score": 0.9217710741032585,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.8058798830058032,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.35293294335267744,
+                            "orthographic": 1.0,
+                            "combined": 0.6764664716763387
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "gelfiry",
+                                "phonetic_score": 0.027419802400216367,
+                                "orthographic_score": 0.4285714285714286,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "gelbort",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.7142857142857143,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "geulbrt",
+                                "phonetic_score": 0.5189962084131594,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "gelbbrd",
+                                "phonetic_score": 0.5189962084131594,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "gylybrt",
+                                "phonetic_score": 0.5189962084131594,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "sophia gilbbert"
+                            ],
+                            "shorten_name_to_initials": [
+                                "s.G."
+                            ],
+                            "remove_random_vowel": [
+                                "Sophi giLBErT"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "sophia gilbbert": [
+                                "insert_random_letter"
+                            ],
+                            "s.G.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "Sophi giLBErT": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "brandon todd": {
+                "first_name": {
+                    "score": 0.8170127758979281,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.3900425863264272,
+                            "orthographic": 1.0,
+                            "combined": 0.6950212931632136
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "brnydan",
+                                "phonetic_score": 0.9833137544124824,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "brnwden",
+                                "phonetic_score": 0.9833137544124824,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "brnidah",
+                                "phonetic_score": 0.7215642467620755,
+                                "orthographic_score": 0.4285714285714286,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "brrantn",
+                                "phonetic_score": 0.9833137544124824,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "brendan",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.7142857142857143,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.817012775897928,
+                "final_score": 0.8536102207183425,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.8170127758979281,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.3900425863264272,
+                            "orthographic": 1.0,
+                            "combined": 0.6950212931632136
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "tiwd",
+                                "phonetic_score": 0.9155292416775686,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "tedw",
+                                "phonetic_score": 0.9155292416775686,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "tyut",
+                                "phonetic_score": 0.6385176660797217,
+                                "orthographic_score": 0.25,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "totw",
+                                "phonetic_score": 0.9155292416775686,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "tohd",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.75,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "brandon tcodd"
+                            ],
+                            "shorten_name_to_initials": [
+                                "BT"
+                            ],
+                            "remove_random_vowel": [
+                                "bRaNDN TOdD"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "brandon tcodd": [
+                                "insert_random_letter"
+                            ],
+                            "BT": [
+                                "shorten_name_to_initials"
+                            ],
+                            "bRaNDN TOdD": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "alexander mikheev": {
+                "first_name": {
+                    "score": 0.8170127758979281,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.39004258632642724,
+                            "orthographic": 1.0,
+                            "combined": 0.6950212931632136
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "alekintre",
+                                "phonetic_score": 0.3670008067112529,
+                                "orthographic_score": 0.4444444444444444,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "aloxnadyr",
+                                "phonetic_score": 0.5592889627236212,
+                                "orthographic_score": 0.5555555555555556,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "aylxandor",
+                                "phonetic_score": 0.5592889627236212,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "alyxanedr",
+                                "phonetic_score": 0.5592889627236212,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "alexinder",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8888888888888888,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.8170127758979281,
+                "final_score": 0.8536102207183425,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.8170127758979281,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.39004258632642724,
+                            "orthographic": 1.0,
+                            "combined": 0.6950212931632136
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "mikehhb",
+                                "phonetic_score": 0.4308364073910963,
+                                "orthographic_score": 0.4285714285714286,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mokhevu",
+                                "phonetic_score": 0.8835172573828555,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mikhhhf",
+                                "phonetic_score": 0.8835172573828555,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mykuhev",
+                                "phonetic_score": 0.8835172573828555,
+                                "orthographic_score": 0.5714285714285714,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "mekheev",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8571428571428572,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "alexander hmikheev"
+                            ],
+                            "shorten_name_to_initials": [
+                                "a. M."
+                            ],
+                            "remove_random_vowel": [
+                                "aLxaNDEr MIKHEEv"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "alexander hmikheev": [
+                                "insert_random_letter"
+                            ],
+                            "a. M.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "aLxaNDEr MIKHEEv": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "sergey ryzhenkov": {
+                "first_name": {
+                    "score": 0.8170127758979281,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.39004258632642724,
+                            "orthographic": 1.0,
+                            "combined": 0.6950212931632136
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "srjehy",
+                                "phonetic_score": 0.5086999710988833,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "serggy",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.8333333333333334,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "syrgea",
+                                "phonetic_score": 0.5086999710988833,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "syrgii",
+                                "phonetic_score": 0.5086999710988833,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "sorcow",
+                                "phonetic_score": 0.46742348232613445,
+                                "orthographic_score": 0.33333333333333337,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.7706122435776972,
+                "final_score": 0.8164897948621579,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 0.736,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.12,
+                            "orthographic": 1.0,
+                            "combined": 0.56
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "rzheankiv",
+                                "phonetic_score": 0.5918461236341142,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "ryzhankiv",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.7777777777777778,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "rzhonkovw",
+                                "phonetic_score": 0.5918461236341142,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "rzyhhnkov",
+                                "phonetic_score": 0.5918461236341142,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "rwzehnokw",
+                                "phonetic_score": 0.2235173366551725,
+                                "orthographic_score": 0.33333333333333337,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "sergey ryezhenkov"
+                            ],
+                            "shorten_name_to_initials": [
+                                "s. R."
+                            ],
+                            "remove_random_vowel": [
+                                "srGeY RyzHenkov"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "sergey ryezhenkov": [
+                                "insert_random_letter"
+                            ],
+                            "s. R.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "srGeY RyzHenkov": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            },
+            "brittney hanson": {
+                "first_name": {
+                    "score": 0.8170127758979281,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 0.39004258632642724,
+                            "orthographic": 1.0,
+                            "combined": 0.6950212931632136
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "brattony",
+                                "phonetic_score": 0.8548799636204998,
+                                "orthographic_score": 0.625,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "brottnay",
+                                "phonetic_score": 1.0,
+                                "orthographic_score": 0.75,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "briewtne",
+                                "phonetic_score": 0.8548799636204998,
+                                "orthographic_score": 0.625,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "bryttnah",
+                                "phonetic_score": 0.8548799636204998,
+                                "orthographic_score": 0.625,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "birhtnyo",
+                                "phonetic_score": 0.5491975511380097,
+                                "orthographic_score": 0.375,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "base_score": 0.8935039132161151,
+                "final_score": 0.9148031305728921,
+                "variation_count": 8,
+                "non_rule_compliant_variations_count": 5,
+                "rule_compliant_variations_count": 3,
+                "last_name": {
+                    "score": 1.0,
+                    "metrics": {
+                        "similarity": {
+                            "phonetic": 1.0,
+                            "orthographic": 1.0,
+                            "combined": 1.0
+                        },
+                        "count": {
+                            "actual": 5,
+                            "expected": 4.4,
+                            "score": 1.0
+                        },
+                        "uniqueness": {
+                            "unique_count": 5,
+                            "total_count": 5,
+                            "score": 1.0
+                        },
+                        "length": {
+                            "score": 1.0
+                        },
+                        "variations": [
+                            {
+                                "variation": "hynozn",
+                                "phonetic_score": 0.7301231011071134,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "hansun",
+                                "phonetic_score": 0.9999999999999999,
+                                "orthographic_score": 0.8333333333333334,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "huinsn",
+                                "phonetic_score": 0.7301231011071134,
+                                "orthographic_score": 0.5,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "hwnsyn",
+                                "phonetic_score": 0.7301231011071134,
+                                "orthographic_score": 0.6666666666666667,
+                                "length_ratio": 1.0
+                            },
+                            {
+                                "variation": "hencna",
+                                "phonetic_score": 0.3791815741524037,
+                                "orthographic_score": 0.33333333333333337,
+                                "length_ratio": 1.0
+                            }
+                        ]
+                    }
+                },
+                "rule_compliance": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "britytney hanson"
+                            ],
+                            "shorten_name_to_initials": [
+                                "B.h."
+                            ],
+                            "remove_random_vowel": [
+                                "BRItTnY Hanson"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "britytney hanson": [
+                                "insert_random_letter"
+                            ],
+                            "B.h.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "BRItTnY Hanson": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            }
+        },
+        "invalid_names": [],
+        "missing_names": [],
+        "rule_compliance": {
+            "overall_score": 1.0,
+            "by_name": {
+                "maria henry": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "marina henry"
+                            ],
+                            "shorten_name_to_initials": [
+                                "Mh"
+                            ],
+                            "remove_random_vowel": [
+                                "MRIa hENRY"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "marina henry": [
+                                "insert_random_letter"
+                            ],
+                            "Mh": [
+                                "shorten_name_to_initials"
+                            ],
+                            "MRIa hENRY": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "tracey lin": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "tracey qlin"
+                            ],
+                            "shorten_name_to_initials": [
+                                "tl"
+                            ],
+                            "remove_random_vowel": [
+                                "trcEy lIn"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "tracey qlin": [
+                                "insert_random_letter"
+                            ],
+                            "tl": [
+                                "shorten_name_to_initials"
+                            ],
+                            "trcEy lIn": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "andre nyamvumba": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "aendre nyamvumba"
+                            ],
+                            "shorten_name_to_initials": [
+                                "A.n."
+                            ],
+                            "remove_random_vowel": [
+                                "aNDRE nymvUMbA"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "aendre nyamvumba": [
+                                "insert_random_letter"
+                            ],
+                            "A.n.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "aNDRE nymvUMbA": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "james morales": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "ejames morales"
+                            ],
+                            "shorten_name_to_initials": [
+                                "J. m."
+                            ],
+                            "remove_random_vowel": [
+                                "jaMES MORaLS"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "ejames morales": [
+                                "insert_random_letter"
+                            ],
+                            "J. m.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "jaMES MORaLS": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "kimberly knight": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "kimberly knqight"
+                            ],
+                            "shorten_name_to_initials": [
+                                "K.k."
+                            ],
+                            "remove_random_vowel": [
+                                "kiMbrlY KNighT"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "kimberly knqight": [
+                                "insert_random_letter"
+                            ],
+                            "K.k.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "kiMbrlY KNighT": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "kayla salas": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "kayla sdalas"
+                            ],
+                            "shorten_name_to_initials": [
+                                "K.S."
+                            ],
+                            "remove_random_vowel": [
+                                "kayLa SLas"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "kayla sdalas": [
+                                "insert_random_letter"
+                            ],
+                            "K.S.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "kayLa SLas": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "khalifa ghawil": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "khalifa ghajwil"
+                            ],
+                            "shorten_name_to_initials": [
+                                "k.g."
+                            ],
+                            "remove_random_vowel": [
+                                "KhaLiFa GHAwl"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "khalifa ghajwil": [
+                                "insert_random_letter"
+                            ],
+                            "k.g.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "KhaLiFa GHAwl": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "tami reid": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "etami reid"
+                            ],
+                            "shorten_name_to_initials": [
+                                "T. r."
+                            ],
+                            "remove_random_vowel": [
+                                "tAm REId"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "etami reid": [
+                                "insert_random_letter"
+                            ],
+                            "T. r.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "tAm REId": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "amanulah goshtasbi": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "amanulahj goshtasbi"
+                            ],
+                            "shorten_name_to_initials": [
+                                "Ag"
+                            ],
+                            "remove_random_vowel": [
+                                "amaNUlah GoSHtsbI"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "amanulahj goshtasbi": [
+                                "insert_random_letter"
+                            ],
+                            "Ag": [
+                                "shorten_name_to_initials"
+                            ],
+                            "amaNUlah GoSHtsbI": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "shane morris": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "oshane morris"
+                            ],
+                            "shorten_name_to_initials": [
+                                "S.m."
+                            ],
+                            "remove_random_vowel": [
+                                "ShaNe Mrris"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "oshane morris": [
+                                "insert_random_letter"
+                            ],
+                            "S.m.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "ShaNe Mrris": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "sophia gilbert": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "sophia gilbbert"
+                            ],
+                            "shorten_name_to_initials": [
+                                "s.G."
+                            ],
+                            "remove_random_vowel": [
+                                "Sophi giLBErT"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "sophia gilbbert": [
+                                "insert_random_letter"
+                            ],
+                            "s.G.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "Sophi giLBErT": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "brandon todd": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "brandon tcodd"
+                            ],
+                            "shorten_name_to_initials": [
+                                "BT"
+                            ],
+                            "remove_random_vowel": [
+                                "bRaNDN TOdD"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "brandon tcodd": [
+                                "insert_random_letter"
+                            ],
+                            "BT": [
+                                "shorten_name_to_initials"
+                            ],
+                            "bRaNDN TOdD": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "alexander mikheev": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "alexander hmikheev"
+                            ],
+                            "shorten_name_to_initials": [
+                                "a. M."
+                            ],
+                            "remove_random_vowel": [
+                                "aLxaNDEr MIKHEEv"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "alexander hmikheev": [
+                                "insert_random_letter"
+                            ],
+                            "a. M.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "aLxaNDEr MIKHEEv": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "sergey ryzhenkov": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "sergey ryezhenkov"
+                            ],
+                            "shorten_name_to_initials": [
+                                "s. R."
+                            ],
+                            "remove_random_vowel": [
+                                "srGeY RyzHenkov"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "sergey ryezhenkov": [
+                                "insert_random_letter"
+                            ],
+                            "s. R.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "srGeY RyzHenkov": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                },
+                "brittney hanson": {
+                    "score": 1.0,
+                    "metrics": {
+                        "compliant_variations_by_rule": {
+                            "insert_random_letter": [
+                                "britytney hanson"
+                            ],
+                            "shorten_name_to_initials": [
+                                "B.h."
+                            ],
+                            "remove_random_vowel": [
+                                "BRItTnY Hanson"
+                            ]
+                        },
+                        "rules_satisfied_by_variation": {
+                            "britytney hanson": [
+                                "insert_random_letter"
+                            ],
+                            "B.h.": [
+                                "shorten_name_to_initials"
+                            ],
+                            "BRItTnY Hanson": [
+                                "remove_random_vowel"
+                            ]
+                        },
+                        "compliance_ratio_overall_variations": 0.375,
+                        "overall_compliant_unique_variations_count": 3,
+                        "expected_compliant_variations_count": 3,
+                        "quantity_score": 1.0,
+                        "rule_diversity_factor": 1.0,
+                        "num_target_rules_met": 3,
+                        "total_target_rules": 3,
+                        "score": 1.0
+                    }
+                }
+            }
+        },
+        "average_quality": 0.8679412070495461,
+        "final_reward": 0.8679412070495461
+    }
+]

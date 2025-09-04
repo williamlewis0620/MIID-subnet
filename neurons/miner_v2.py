@@ -219,7 +219,7 @@ class Miner(BaseMinerNeuron):
         
         max_retries = 3
         base_delay = 1.0
-        
+        reward = 0.0
         for attempt in range(max_retries):
             try:
                 
@@ -238,17 +238,22 @@ class Miner(BaseMinerNeuron):
                     if response.status_code == 200:
                         variations_data, metric, query_params = response.json()
                         synapse.variations = variations_data
-                        with open(os.path.join(run_dir, 'task.json'), 'w') as f:
-                            json.dump(
-                                {
-                                    "names": synapse.names,
-                                    "query_template": synapse.query_template,
-                                    "query_template_hash": make_key(synapse.names, synapse.query_template),
-                                    "query_params": query_params,
-                                    "timeout": timeout
-                                }, f, indent=4)
-                        with open(os.path.join(run_dir, 'metric.json'), 'w') as f:
-                            json.dump(metric, f, indent=4)
+                        try:
+                            with open(os.path.join(run_dir, 'task.json'), 'w') as f:
+                                json.dump(
+                                    {
+                                        "names": synapse.names,
+                                        "query_template": synapse.query_template,
+                                        "query_template_hash": make_key(synapse.names, synapse.query_template),
+                                        "query_params": query_params,
+                                        "timeout": timeout
+                                    }, f, indent=4)
+                            with open(os.path.join(run_dir, 'metric.json'), 'w') as f:
+                                json.dump(metric, f, indent=4)
+                            reward = metric["final_reward"]
+                        except Exception as e:
+                            bt.logging.error(f"Error saving task.json: {e}")
+                            pass
                     else:
                         bt.logging.warning(f"Service returned status {response.status_code}")
                         raise httpx.HTTPStatusError(f"HTTP {response.status_code}", request=response.request, response=response)
@@ -268,6 +273,7 @@ class Miner(BaseMinerNeuron):
         bt.logging.info(
             f"Request completed in {total_time:.2f}s of {timeout:.1f}s allowed. "
             f"Processed {len(synapse.variations)}/{len(synapse.names)} names. "
+            f"reward: {reward}"
             f"Validator: {synapse.dendrite.hotkey}"
         )
         return synapse

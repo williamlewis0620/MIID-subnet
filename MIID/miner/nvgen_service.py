@@ -416,7 +416,6 @@ class AnswerCandidateForNoisy:
             orthographic_similarity=self.answer_candidates[0].query_params["orthographic_similarity"],
             rule_based=rule_based,
         )
-        # print (json.dumps(metrics, indent=4))
         penalty = False
         for metric in metrics:
             if 'collusion' in metric['penalties'] or 'duplication' in metric['penalties']:
