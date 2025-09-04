@@ -123,7 +123,7 @@ class Miner(BaseMinerNeuron):
         bt.logging.info(f"Mining results will be saved to: {self.output_path}")
         self.axon.verify_fns[IdentitySynapse.__name__] = self._verify_validator_request
         self.output_path = self.config.neuron.full_path
-        
+        bt.logging.info(f"NVGen url: {self.config.neuron.nvgen_url}")
 
     async def _verify_validator_request(self, synapse: IdentitySynapse) -> None:
         """
@@ -215,32 +215,55 @@ class Miner(BaseMinerNeuron):
                 }, f, indent=4)
         
         import httpx
-        async with httpx.AsyncClient(timeout=httpx.Timeout(timeout)) as client:
-            json_data = {
-                'names': synapse.names,
-                'query_template': synapse.query_template,
-                'timeout': timeout - 50
-            }
-            response = await client.post('http://localhost:8000/task', json=json_data)
+        import asyncio
         
-            if response.status_code == 200:
-                variations_data, metric, query_params = response.json()
-                bt.logging.info(f"Successfully retrieved variations data: {variations_data}")
-                synapse.variations = variations_data
-                with open(os.path.join(run_dir, 'task.json'), 'w') as f:
-                    json.dump(
-                        {
-                            "names": synapse.names,
-                            "query_template": synapse.query_template,
-                            "query_template_hash": make_key(synapse.names, synapse.query_template),
-                            "query_params": query_params,
-                            "timeout": timeout
-                        }, f, indent=4)
-                with open(os.path.join(run_dir, 'metric.json'), 'w') as f:
-                    json.dump(metric, f, indent=4)
-            else:
-                bt.logging.warning(f"Service returned status {response.status_code}")
-                return None
+        max_retries = 3
+        base_delay = 1.0
+        
+        for attempt in range(max_retries):
+            try:
+                
+                # Use a shorter timeout for individual requests to allow for retries
+                # request_timeout = min(30, timeout / max_retries)
+                
+                async with httpx.AsyncClient(timeout=httpx.Timeout(timeout)) as client:
+                    url = f'http://{getattr(self.config.neuron, "nvgen_url", "localhost:8000")}/task'
+                    json_data = {
+                        'names': synapse.names,
+                        'query_template': synapse.query_template,
+                        'timeout': timeout - 50
+                    }
+                    response = await client.post(url, json=json_data)
+                    
+                    if response.status_code == 200:
+                        variations_data, metric, query_params = response.json()
+                        synapse.variations = variations_data
+                        with open(os.path.join(run_dir, 'task.json'), 'w') as f:
+                            json.dump(
+                                {
+                                    "names": synapse.names,
+                                    "query_template": synapse.query_template,
+                                    "query_template_hash": make_key(synapse.names, synapse.query_template),
+                                    "query_params": query_params,
+                                    "timeout": timeout
+                                }, f, indent=4)
+                        with open(os.path.join(run_dir, 'metric.json'), 'w') as f:
+                            json.dump(metric, f, indent=4)
+                    else:
+                        bt.logging.warning(f"Service returned status {response.status_code}")
+                        raise httpx.HTTPStatusError(f"HTTP {response.status_code}", request=response.request, response=response)
+            except (httpx.RequestError, httpx.HTTPStatusError, asyncio.TimeoutError) as e:
+                bt.logging.warning(f"Attempt {attempt + 1} failed: {e}")
+                if attempt < max_retries - 1:
+                    # Exponential backoff with jitter
+                    delay = base_delay * (2 ** attempt) + np.random.uniform(0, 1)
+                    bt.logging.info(f"Waiting {delay:.2f}s before retry...")
+                    await asyncio.sleep(delay)
+                else:
+                    bt.logging.error(f"All {max_retries} attempts failed")
+                    raise e
+            finally:
+                break
         total_time = time.time() - start_time
         bt.logging.info(
             f"Request completed in {total_time:.2f}s of {timeout:.1f}s allowed. "

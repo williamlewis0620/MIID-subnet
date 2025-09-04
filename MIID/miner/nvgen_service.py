@@ -23,6 +23,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple, Callable
 import hashlib
 from contextlib import asynccontextmanager
+import re
 
 from fastapi import FastAPI, HTTPException, BackgroundTasks
 from pydantic import BaseModel
@@ -47,10 +48,27 @@ A FastAPI-based service that provides name variants to miners' name variant pool
 """
 
 HOST = "0.0.0.0"
-PORT = 8001
+PORT = 8000
+
+
+
 
 async def test():
     query_files = [
+        # "/work/54/miners/pub54-2/net54_uid192/netuid54/miner/validator_59/run_2025-08-24-09-07/query.json",
+        # "/work/54/miners/pub54-2/net54_uid192/netuid54/miner/validator_59/run_2025-08-24-11-03/query.json",
+        # "/work/54/miners/pub54-2/net54_uid192/netuid54/miner/validator_59/run_2025-08-24-10-54/query.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
+        "/work/54/tasks_fvs/1.json",
         "/work/54/tasks_fvs/1.json",
         "/work/54/tasks_fvs/1.json",
         "/work/54/tasks_fvs/1.json",
@@ -72,14 +90,13 @@ async def test():
         task = TaskRequest(
             names=query_data['names'],
             query_template=query_data.get('query_template', None),
-            query_params=None, #query_data.get('query_params', None),
+            query_params=query_data.get('query_params', None),
             timeout=700.0)
         tasks.append(solve_task(task))
     results = await asyncio.gather(*tasks)
     out = json.dumps(results, indent=4)
     with open("results.json", "w") as f:
         f.write(out)
-    print(out)
 
 
 # Global state
@@ -179,6 +196,8 @@ async def lifespan(app: FastAPI):
             # await test()
             print("✅ Startup task completed successfully")
         except Exception as e:
+            import traceback
+            traceback.print_exc()
             print(f"❌ Startup task failed: {e}")
     
     # Run startup task in background
@@ -205,6 +224,8 @@ async def lifespan(app: FastAPI):
             await worker_task
         except asyncio.CancelledError:
             pass
+
+
 
 app = FastAPI(
     title=API_TITLE,
@@ -366,15 +387,16 @@ from MIID.miner.generate_name_variations import AnswerCandidate
 class AnswerCandidateForNoisy:
     def __init__(self, answer_candidates: List[AnswerCandidate]):
         self.answer_candidates = answer_candidates
-        self.gen_idx = 0
+        self.serial = 0
         self.buckets_exact = {}
+        self.answer_list = []
 
-    def calculate_reward(self, answer):
+    def calc_reward_and_penalty(self, answers: List[Dict[str, List[str]]]):
         from types import SimpleNamespace
         responses = {}
         responses = [SimpleNamespace(
             variations=answer
-        )]
+        ) for answer in answers]
         # Calculate rule-based metadata
         rule_based = {
             "selected_rules": self.answer_candidates[0].query_params["selected_rules"],
@@ -383,70 +405,43 @@ class AnswerCandidateForNoisy:
         import bittensor as bt
         debug_level = bt.logging.get_level()
         bt.logging.setLevel('CRITICAL')
-        from MIID.miner.generate_name_variations import get_name_variation_rewards_exclude_phonetic
-        scores, metrics = get_name_variation_rewards_exclude_phonetic(
-            seed_names=list(answer.keys()), 
+        from MIID.validator.reward import get_name_variation_rewards
+        _, metrics = get_name_variation_rewards(
+            None,
+            seed_names=list(answers[0].keys()), 
             responses=responses,
-            uids=[0],
+            uids=list(range(len(answers))),
             variation_count=self.answer_candidates[0].query_params["variation_count"],
             phonetic_similarity=self.answer_candidates[0].query_params["phonetic_similarity"],
             orthographic_similarity=self.answer_candidates[0].query_params["orthographic_similarity"],
             rule_based=rule_based,
         )
-        bt.logging.setLevel(debug_level)
-        return scores[0], metrics[0]
-
+        # print (json.dumps(metrics, indent=4))
+        penalty = False
+        for metric in metrics:
+            if 'collusion' in metric['penalties'] or 'duplication' in metric['penalties']:
+                penalty = True
+                break
+        return metrics[-1], penalty
+    
     def get_next_answer(self) -> Set[str]:
-        init_answer = {}
-        for cand in self.answer_candidates:
-            init_answer[cand.name] = cand.get_next_answer()
-        reward = 0.0
-        if self.gen_idx < 5:
-            reward, metric = self.calculate_reward(init_answer)
-            fmt15 = f"{reward:.15f}"
-            if fmt15 not in self.buckets_exact:
-                self.buckets_exact[fmt15] = []
-            self.buckets_exact[fmt15].append(self.gen_idx)
-            self.gen_idx += 1
-            return init_answer, metric
-        try_count = 1000
-        while try_count > 0:
+        COLLUSION_GROUP_SIZE_THRESHOLD = 1
+        answer = {}
+        metric = {}
+        try_count = 100
+        while try_count >= 0:
+            self.serial += 1
             try_count -= 1
-            answer = {}
-            for cand in self.answer_candidates:
-                answer[cand.name] = init_answer[cand.name].copy()
-            mod_count = self.gen_idx // len(self.answer_candidates)
-            cand_idx = self.gen_idx % len(self.answer_candidates)
-            cand = self.answer_candidates[cand_idx]
-            modifications = []
-            attempts = 0
-            for idx, var in enumerate(answer[cand.name]):
-                replaced = var
-                for v in var.split(" "):
-                    if v in cand.replacement_for_noisy:
-                        replaced = replaced.replace(v, cand.replacement_for_noisy[v])
-                        attempts += 1
-                        if attempts >= mod_count:
-                            break
-                if replaced != var:
-                    modifications.append((var, replaced))
-                if attempts >= mod_count:
-                    break
-            for var, replaced in modifications:
-                answer[cand.name].remove(var)
-                answer[cand.name].add(replaced)
-            reward, metric = self.calculate_reward(answer)
-            fmt15 = f"{reward:.15f}"
-            if fmt15 not in self.buckets_exact or len(self.buckets_exact[fmt15]) < 5:
-                if fmt15 not in self.buckets_exact:
-                    self.buckets_exact[fmt15] = [self.gen_idx]
-                else:
-                    self.buckets_exact[fmt15].append(self.gen_idx)
-                self.gen_idx += 1
-                return answer, metric
-            else:
-                self.gen_idx += 1
-                continue
+            from MIID.miner.kth_plan import kth_plan
+            noisy_plan, noisy_count = kth_plan(len(self.answer_candidates), max(0, self.serial - COLLUSION_GROUP_SIZE_THRESHOLD) + 1)
+            for i,cand in enumerate(self.answer_candidates):
+                answer[cand.name] = cand.get_next_answer(noisy_plan[i])
+            metric, penalty = self.calc_reward_and_penalty(self.answer_list + [answer])
+            if not penalty:
+                self.answer_list.append(answer)
+                break
+        return answer, metric
+
 
 class TaskRequest(BaseModel):
     names: List[str]
@@ -490,9 +485,16 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
             raise HTTPException(status_code=408, detail="Request timeout waiting for pool generation")
     
     answer, metric = answer_candidate.get_next_answer()
+    print(f"Answer candidate: {answer_candidate.serial}")
     return {name: list(answer[name]) for name in answer}, metric, answer_candidate.answer_candidates[0].query_params
 
 if __name__ == "__main__":
+    import argparse
+    port = argparse.ArgumentParser()
+    port.add_argument("--port", type=int, default=PORT)
+    args = port.parse_args()
+    PORT = args.port
+    print(f"Starting nvgen service on port {PORT}")
     try:
         import uvicorn
         # Start the server
@@ -502,9 +504,13 @@ if __name__ == "__main__":
             port=PORT,
             log_level="info",
             access_log=True,
+            limit_concurrency=1000,
+            limit_max_requests=1000,
         )
         
     except KeyboardInterrupt:
+        import traceback
+        traceback.print_exc()
         print("\n🛑 KeyboardInterrupt received, shutting down gracefully...")
         print("👋 Service stopped by user")
         sys.exit(0)

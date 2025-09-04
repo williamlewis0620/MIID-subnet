@@ -245,7 +245,8 @@ class Miner(BaseMinerNeuron):
                         orthographic_similarity=query_params.get("orthographic_similarity")
                         selected_rules=query_params.get("selected_rules")
                         rule_based = {"selected_rules": selected_rules, "rule_percentage": rule_percentage * 100}
-
+                        debug_level = bt.logging.get_level()
+                        bt.logging.setLevel('CRITICAL')
                         rewards, detailed_metrics = get_name_variation_rewards(
                             None,
                             seed_names=synapse.names,
@@ -256,6 +257,7 @@ class Miner(BaseMinerNeuron):
                             orthographic_similarity=orthographic_similarity,
                             rule_based=rule_based
                         )
+                        bt.logging.setLevel(debug_level)
                         
                         query_data = {
                             "query_template": synapse.query_template,

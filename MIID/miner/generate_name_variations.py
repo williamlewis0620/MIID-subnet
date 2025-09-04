@@ -35,7 +35,7 @@ def calculate_orthographic_level(name: str, variation: str) -> int:
     for level, (min_val, max_val) in orthographic_boundaries.items(): 
         if min_val <= sim <= max_val:
             return level
-    return 3 # Too low orthographic similarity
+    return None # Too low orthographic similarity
 
 def get_effective_rules(name: str, selected_rules: List[str]) -> List[str]:
     compliant_variations, _ = evaluate_rule_compliance(name, [""], selected_rules)
@@ -66,6 +66,7 @@ def generate_one_rule_based_variation(rules, name, rng, max_attempts = 1000):
             for r in rules:
                 if not RULE_EVALUATORS[r](name, variation):
                     is_valid = False
+                    break
             if is_valid:
                 return variation
         except Exception:
@@ -189,18 +190,26 @@ def gen_pool(name, effective_rules, logger: CustomLogger, timeout_s: float = 100
                         # normalize to list of strings
                         if not isinstance(variants, list) or not variants:
                             continue
-                        dst = nonrule_vpools[l_level][o_level][p_level]
                         nonempty = True
                         for v in variants:
                             if not isinstance(v, str):
                                 continue
                             if effective_rules and variation_matches_any_rule(name, v, effective_rules):
                                 continue
-                            dst.add(v)
+                            if len(nonrule_vpools[l_level][o_level][p_level]) >= 20:
+                                break
+                            # diagnose miscalculated orthographic level
+                            o_target = calculate_orthographic_level(name, v)
+                            if o_target is None:
+                                logger.warning(f"Miscalculated orthographic level: {v} -> {o_target}")
+                                continue
+                            nonrule_vpools[l_level][o_target][p_level].add(v)
                 if not nonempty:
                     # stop expanding further l-levels if this one is empty
                     break
     except Exception as e:  # pragma: no cover
+        import traceback
+        traceback.print_exc()
         logger.warning(f"nvgen fetch failed for {name}: {e}")
 
     if not nonrule_vpools:
@@ -232,6 +241,8 @@ def gen_pool(name, effective_rules, logger: CustomLogger, timeout_s: float = 100
                         cased = src[:i+1].upper() + src[i+1:]
                         cased_str = "".join(cased)
                         o_target = calculate_orthographic_level(name, cased_str)
+                        if o_target is None:
+                            continue
                         if len(vpools_out[l_level][o_target][p_level]) >= 20:
                             continue
                         if effective_rules and variation_matches_any_rule(name, cased_str, effective_rules):
@@ -251,6 +262,8 @@ def gen_pool(name, effective_rules, logger: CustomLogger, timeout_s: float = 100
                                 cased[c] = cased[c].upper()
                             cased_str = "".join(cased)
                             o_target = calculate_orthographic_level(name, cased_str)
+                            if o_target is None:
+                                continue
                             if len(vpools_out[l_level][o_target][p_level]) >= 20:
                                 break
                             if effective_rules and variation_matches_any_rule(name, cased_str, effective_rules):
@@ -436,8 +449,8 @@ def calculate_nonrule_variations_count(
         return []
 
     # Use provided similarity distributions or defaults
-    phonetic_dist = phonetic_similarity if phonetic_similarity else {"Light": 0.33, "Medium": 0.34, "Far": 0.33}
-    orthographic_dist = orthographic_similarity if orthographic_similarity else {"Light": 0.33, "Medium": 0.34, "Far": 0.33}
+    phonetic_dist = phonetic_similarity if phonetic_similarity else {"Light": 0.3, "Medium": 0.4, "Far": 0.3}
+    orthographic_dist = orthographic_similarity if orthographic_similarity else {"Light": 0.3, "Medium": 0.4, "Far": 0.3}
 
     # calculate the number of variations for each orthographic similarity level
     # to complete the nonrule_count, the rest will be assigned to the too-far level
@@ -456,6 +469,9 @@ def calculate_nonrule_variations_count(
     #     phonetic_dist["Light"] = 0.3
     #     phonetic_dist["Medium"] = 0.3
     #     phonetic_dist["Far"] = 0.3
+    # from MIID.miner.cal_phonetic_similarity import optimal_n0_n1_n2
+    # P[0], P[1], P[2] = optimal_n0_n1_n2(nonrule_count, phonetic_dist)
+    # P[3] = 0
     for key in phonetic_dist.keys():
         if key == "Light":
             P[0] = int(phonetic_dist["Light"] * nonrule_count)
@@ -465,6 +481,7 @@ def calculate_nonrule_variations_count(
             P[2] = int(phonetic_dist["Far"] * nonrule_count)
     # to complete the nonrule_count, the rest will be assigned to the medium level
     P[3] += nonrule_count - sum(P)
+
     logger.debug(f"O: {O}")
     logger.debug(f"P: {P}")
 
@@ -520,28 +537,31 @@ class AnswerCandidate:
                  effective_rules: Set[str],
                  cand_minrequired_rule_varset: List[Set[str]],
                  additional_rule_varset: Set[str],
-                 cand_nonrule_varset: List[Set[str]],
-                 replacement_for_noisy: Dict[str, str],
+                 nonrule_count_matrix: Dict[str, List[List[List[int]]]],
+                 nonrule_name_pools: Dict[str, List[List[List[List[str]]]]],
                  scores: float,
                  metric: Dict[str, Any]):
         self.name = name
+        self.first_name, self.last_name = get_name_parts(name)
         self.rule_count = rule_count
         self.nonrule_count = nonrule_count
         self.effective_rules = effective_rules
         self.cand_minrequired_rule_varset = cand_minrequired_rule_varset
         self.additional_rule_varset = additional_rule_varset
-        self.cand_nonrule_varset = cand_nonrule_varset
-        self.replacement_for_noisy = replacement_for_noisy
+        self.nonrule_count_matrix = nonrule_count_matrix
+        self.nonrule_name_pools = nonrule_name_pools
         self.scores = scores
         self.metric = metric
         self.rng = random.Random(hash(name))
         self.query_params = None
 
-    def get_next_answer(self) -> Set[str]:
+    def get_next_answer(self, noisy_count: int = 0) -> Set[str]:
         sample_variations = set()
+        # add minimum required rule variations
         if len(self.cand_minrequired_rule_varset) > 0:
             for varset in self.cand_minrequired_rule_varset:
                 sample_variations.add(list(varset)[self.rng.randint(0, len(varset) - 1)])
+        # add additional rule variations
         additionals = self.additional_rule_varset
         if len(self.cand_minrequired_rule_varset) > 0:
             for varset in self.cand_minrequired_rule_varset:
@@ -549,9 +569,56 @@ class AnswerCandidate:
         additionals -= sample_variations
         if len(additionals) >= self.rule_count - len(self.cand_minrequired_rule_varset):
             sample_variations.update(self.rng.sample(list(additionals), self.rule_count - len(self.cand_minrequired_rule_varset)))
-        if len(self.cand_nonrule_varset) > 0:
-            nonrule_varset = self.cand_nonrule_varset[self.rng.randint(0, len(self.cand_nonrule_varset) - 1)]
-            sample_variations.update(nonrule_varset)
+        # add nonrule variations
+        
+        def select_variations(pool, count_matrix):
+            selected_variations = set()
+            for l_level in range(len(pool)):
+                for o_level in range(4):
+                    for p_level in range(8):
+                        if len(pool[l_level][o_level][p_level]) >= count_matrix[l_level][o_level][p_level]:
+                            selected_variations.update(self.rng.sample(pool[l_level][o_level][p_level], count_matrix[l_level][o_level][p_level]))
+            return selected_variations
+        def add_noisy_to_count_mat(pool, count_matrix, noisy_count):
+            result = [[[[] for _ in range(8)] for _ in range(4)] for _ in range(len(pool))]
+            for l_level in range(0, len(pool)):
+                for o_level in range(4):
+                    for p_level in range(8):
+                        result[l_level][o_level][p_level] = count_matrix[l_level][o_level][p_level]
+                        if l_level == 0:
+                            continue
+                        if (result[l_level - 1][o_level][p_level] > 0 and
+                            len(pool[l_level][o_level][p_level]) - result[l_level][o_level][p_level] > 0):
+                            max_noisy = min(
+                                result[l_level - 1][o_level][p_level],
+                                len(pool[l_level][o_level][p_level]) - result[l_level][o_level][p_level],
+                                noisy_count
+                            )
+                            result[l_level - 1][o_level][p_level] -= max_noisy
+                            result[l_level][o_level][p_level] += max_noisy
+                            noisy_count -= max_noisy
+            return result
+        # import copy
+        count_matrix = {}
+        # copy.deepcopy(self.nonrule_count_matrix[self.name])
+        first_noisy_count = noisy_count if not self.last_name else noisy_count//2
+        last_noisy_count = noisy_count - first_noisy_count
+        
+        count_matrix[self.first_name] = add_noisy_to_count_mat(self.nonrule_name_pools[self.first_name], self.nonrule_count_matrix[self.first_name], first_noisy_count)
+        first_variations = select_variations(self.nonrule_name_pools[self.first_name], count_matrix[self.first_name])
+        nonrule_variations = set()
+        if not self.last_name:
+            nonrule_variations = first_variations
+        else:
+            count_matrix[self.last_name] = add_noisy_to_count_mat(self.nonrule_name_pools[self.last_name], self.nonrule_count_matrix[self.last_name], last_noisy_count)
+            last_variations = list(select_variations(self.nonrule_name_pools[self.last_name], count_matrix[self.last_name]))
+            for i, v in enumerate(first_variations):
+                if i < len(last_variations):
+                    v = v + " " + last_variations[i]
+                    if self.effective_rules and variation_matches_any_rule(self.name, v, self.effective_rules):
+                        continue
+                    nonrule_variations.add(v)
+        sample_variations.update(nonrule_variations)
         return sample_variations
 
     def get_scores(self) -> float:
@@ -586,15 +653,8 @@ def try_once(
                      f"cand_minrequired_rule_varset: {cand_minrequired_rule_varset}, "
                      f"additional_rule_varset: {additional_rule_varset}")
         return None
-    # # Adjust rule count based on actual generated variations
-    # if len(cand_minrequired_rule_varset) + len(additional_rule_varset) < rule_count:
-    #     rule_count = len(cand_minrequired_rule_varset) + len(additional_rule_varset)
-    #     nonrule_count = total_count - rule_count
-    #     logger.debug(f"Adjusted rule_count: {rule_count}, nonrule_count: {nonrule_count}")
-    # rule_variations = set(list(rule_variations)[:rule_count])
-
-    # 2) Generate non-rule variations
     count_matrix = {}
+
     for name in [first_name, last_name]:
         count_matrix[name] = calculate_nonrule_variations_count(
             name,
@@ -605,74 +665,6 @@ def try_once(
             effective_rules,
             logger
         )
-        # for l_level in range(len(max_flow2)):
-        #     for o_level in range(4):
-        #         for p_level in range(8):
-        #             if max_flow2[l_level][o_level][p_level] > 0:
-        #                 nonrule_variations.add(name_pools[name][l_level][o_level][p_level])
-    rng = random.Random(hash(original_name))
-    def count_matrix_to_flat_list(name):
-        count_list = list()
-        for l_level in range(len(count_matrix[name])):
-            for o_level in range(4):
-                for pidx in range(8):
-                    target = count_matrix[name][l_level][o_level][pidx]
-                    if target <= 0:
-                        continue
-                    count_list.append((l_level, o_level, pidx, target))
-        return count_list
-
-    first_count_list = count_matrix_to_flat_list(first_name)
-    last_count_list = count_matrix_to_flat_list(last_name)
-    cand_nonrule_varset = []
-    replacement_for_noisy = {}
-    max_attempts = 1000
-    attempts = 0
-    seen = set()
-    while attempts < max_attempts:
-        # Flatten count lists - convert from tuples to flat lists with variants
-        nonrule_varset = set()
-        first_flat = []
-        for l, o, pidx, count in first_count_list:
-            available = list(name_pools[first_name][l][o][pidx])
-            if len(available) >= count:
-                sample = rng.sample(available, count)
-                first_flat.extend(sample)
-                # Safely access previous level variations if available
-                if l + 1 < len(name_pools[first_name]) and name_pools[first_name][l + 1][o][pidx]:
-                    for s in sample:
-                        replacement_for_noisy[s] = list(name_pools[first_name][l + 1][o][pidx])[0]
-        
-        last_flat = []
-        for l, o, pidx, count in last_count_list:
-            available = list(name_pools[last_name][l][o][pidx])
-            if len(available) >= count:
-                sample = rng.sample(available, count)
-                last_flat.extend(sample)
-                # Safely access previous level variations if available
-                if l + 1 < len(name_pools[last_name]) and name_pools[last_name][l + 1][o][pidx]:
-                    for s in sample:
-                        replacement_for_noisy[s] = list(name_pools[last_name][l + 1][o][pidx])[0]
-        # if len(first_flat) != len(last_flat):
-        #     print(f"first_flat: {first_flat}, last_flat: {last_flat}")
-            # print(f"first_count_list: {first_count_list}, last_count_list: {last_count_list}")
-            # print(f"name_pools: {name_pools}")
-            # print(f"effective_rules: {effective_rules}")
-            # print(f"variation_matches_any_rule: {variation_matches_any_rule(original_name, first_flat[0], effective_rules)}")
-            # print(f"variation_matches_any_rule: {variation_matches_any_rule(original_name, last_flat[0], effective_rules)}")
-            # print(f"nonrule_varset: {nonrule_varset}")
-        for i in range(len(first_flat)):
-            cand = first_flat[i]
-            if last_name and len(last_flat) >= len(first_flat):
-                cand += " " + last_flat[i]
-            if effective_rules and variation_matches_any_rule(original_name, cand, effective_rules):
-                continue
-            nonrule_varset.add(cand)
-        key = "".join(sorted(list(nonrule_varset)))
-        if key not in seen:
-            seen.add(key)
-            cand_nonrule_varset.append(nonrule_varset)
-        attempts += 1
 
     cand = AnswerCandidate(
         name=original_name,
@@ -681,8 +673,8 @@ def try_once(
         effective_rules=effective_rules,
         cand_minrequired_rule_varset=cand_minrequired_rule_varset,
         additional_rule_varset=additional_rule_varset,
-        cand_nonrule_varset=cand_nonrule_varset,
-        replacement_for_noisy=replacement_for_noisy,
+        nonrule_count_matrix=count_matrix,
+        nonrule_name_pools=name_pools,
         scores=0.0,
         metric={}
     )
@@ -830,18 +822,17 @@ def generate_name_variations(
         logger.debug(json.dumps(cand.metric, indent=4))
         if cand.scores > best_cand.scores:
             best_cand = cand
-    if best_cand:
-        logger.debug(f"-" * 100)
+    logger.debug(f"-" * 100)
+    try:
         logger.debug(f"Best score achieved: {best_cand.scores}")
-        logger.debug(f"Best selected: {best_cand.rule_count}/{len(best_cand.cand_nonrule_varset[0]) if best_cand.cand_nonrule_varset else 1}")
-        logger.debug(f"Rule variations: {best_cand.cand_minrequired_rule_varset}")
-        logger.debug(f"Nonrule variations: {best_cand.cand_nonrule_varset}")
-        logger.debug(f"Additional rule variations: {best_cand.additional_rule_varset}")
+        logger.debug(f"Best selected: {best_cand.rule_count}/{best_cand.nonrule_count}")
+        logger.debug(f"Min Required Rule Variation Set: {best_cand.cand_minrequired_rule_varset}")
+        logger.debug(f"Additional Rule Variation Set: {best_cand.additional_rule_varset}")
         logger.debug(f"Metric: \n{json.dumps(best_cand.metric, indent=4)}")
-        best_cand.query_params = query_params
         logger.debug(f"-" * 100)
-    else:
-        logger.debug(f"No best candidate found")
-        best_cand = None
+        best_cand.query_params = query_params
+    except Exception as e:
+        pass
+    
     logger.flush()
     return best_cand

@@ -339,7 +339,7 @@ def detect_cheating_patterns(
             key = int(round(r * 10000))
             buckets_near.setdefault(key, []).append(idx)
 
-    COLLUSION_GROUP_SIZE_THRESHOLD = 5
+    COLLUSION_GROUP_SIZE_THRESHOLD = 1
     for bucket_indices in buckets_exact.values():
         if len(bucket_indices) > COLLUSION_GROUP_SIZE_THRESHOLD:
             if rewards[bucket_indices[0]] < 0.95:
@@ -367,6 +367,7 @@ def detect_cheating_patterns(
                 thr_overlap, thr_jacc = 0.80, 0.70
             
             if max_avg_overlap > thr_overlap or max_avg_jaccard > thr_jacc:
+                printf(f"Penalizing group {valid_indices} with max_avg_overlap {max_avg_overlap} and max_avg_jaccard {max_avg_jaccard}.")
                 overlap_pen = max(0.0, (max_avg_overlap - thr_overlap) / max(1e-6, 1.0 - thr_overlap))
                 jaccard_pen = max(0.0, (max_avg_jaccard - thr_jacc) / max(1e-6, 1.0 - thr_jacc))
                 penalty = min(1.0, max(overlap_pen, jaccard_pen))

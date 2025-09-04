@@ -137,6 +137,13 @@ def add_miner_args(cls, parser):
     """Add miner specific arguments to the parser."""
 
     parser.add_argument(
+        "--neuron.nvgen_url",
+        type=str,
+        help="Url to nvgen service",
+        default="localhost:8000",
+    )
+
+    parser.add_argument(
         "--neuron.name",
         type=str,
         help="Trials for this neuron go in neuron.root / (wallet_cold - wallet_hot) / neuron.name. ",

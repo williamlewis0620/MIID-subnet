@@ -986,17 +986,59 @@ def get_name_variation_rewards(
             miner_metrics["average_quality"] = 0.0
             miner_metrics["final_reward"] = 0.0
         
-        # # # ADD DETAILED LOGGING HERE to debug 0.0 scores
-        # # bt.logging.info(f"--- DEBUGGING REWARD FOR MINER {uid} ---")
-        # # bt.logging.info(f"Seed names with variations: {[name for name in seed_names if name in variations and variations[name]]}")
-        # # bt.logging.info(f"Quality scores per name: {quality_scores}")
-        # # bt.logging.info(f"Average quality score: {miner_metrics['average_quality']:.4f}")
-        # # bt.logging.info(f"Completeness multiplier (1.0 - penalty): {completeness_multiplier:.4f}")
-        # # bt.logging.info(f"Final reward (avg_quality * completeness_multiplier): {rewards[i]:.4f}")
-        # # bt.logging.info(f"--- END DEBUGGING REWARD FOR MINER {uid} ---")
+        # # ADD DETAILED LOGGING HERE to debug 0.0 scores
+        # bt.logging.info(f"📊--- DEBUGGING REWARD FOR MINER {uid} ---")
+        # bt.logging.info(f"Seed names with variations: {[name for name in seed_names if name in variations and variations[name]]}")
+        # bt.logging.info(f"Quality scores per name: {quality_scores}")
+        # bt.logging.info(f"Average quality score: {miner_metrics['average_quality']:.4f}")
+        # bt.logging.info(f"Completeness multiplier (1.0 - penalty): {completeness_multiplier:.4f}")
+        # bt.logging.info(f"Final reward (avg_quality * completeness_multiplier): {rewards[i]:.4f}")
+
+        # phonetic_similarity_score = 0
+        # orthographic_similarity_score = 0
+        # count_score = 0
+        # uniqueness_score = 0
+        # length_score = 0
+        # for name, name_metrics in miner_metrics['name_metrics'].items():
+        #     first_name_metrics = name_metrics['first_name']['metrics']
+        #     if not first_name_metrics:
+        #         continue
+        #     first_phonetic_similarity = first_name_metrics['similarity']['phonetic']
+        #     first_orthographic_similarity = first_name_metrics['similarity']['orthographic']
+        #     first_count_score = first_name_metrics['count']['score']
+        #     first_uniqueness_score = first_name_metrics['uniqueness']['score']
+        #     first_length_score = first_name_metrics['length']['score']
+        #     if 'last_name' in name_metrics:
+        #         last_name_metrics = name_metrics['last_name']['metrics']
+        #         last_phonetic_similarity = last_name_metrics['similarity']['phonetic']
+        #         last_orthographic_similarity = last_name_metrics['similarity']['orthographic']
+        #         last_count_score = last_name_metrics['count']['score']
+        #         last_uniqueness_score = last_name_metrics['uniqueness']['score']
+        #         last_length_score = last_name_metrics['length']['score']
+
+        #         phonetic_similarity_score += first_phonetic_similarity * 0.3 + last_phonetic_similarity * 0.7
+        #         orthographic_similarity_score += first_orthographic_similarity * 0.3 + last_orthographic_similarity * 0.7
+        #         count_score += first_count_score * 0.3 + last_count_score * 0.7
+        #         uniqueness_score += first_uniqueness_score * 0.3 + last_uniqueness_score * 0.7
+        #         length_score += first_length_score * 0.3 + last_length_score * 0.7
+        #     else:
+        #         phonetic_similarity_score += first_phonetic_similarity
+        #         orthographic_similarity_score += first_orthographic_similarity
+        #         count_score += first_count_score
+        #         uniqueness_score += first_uniqueness_score
+        #         length_score += first_length_score
+
+        # bt.logging.info(f"Miner {uid} * Phonetic similarity: {phonetic_similarity_score / len(seed_names)}")
+        # bt.logging.info(f"Miner {uid} * Orthographic similarity: {orthographic_similarity_score / len(seed_names)}")
+        # bt.logging.info(f"Miner {uid} * Count score: {count_score / len(seed_names)}")
+        # bt.logging.info(f"Miner {uid} * Uniqueness score: {uniqueness_score / len(seed_names)}")
+        # bt.logging.info(f"Miner {uid} * Length score: {length_score / len(seed_names)}")
+
+
+        # bt.logging.info(f"--- END DEBUGGING REWARD FOR MINER {uid} ---")
         
-        # #bt.logging.info(f"Miner {uid} final Score: {rewards[i]}")
-        # #bt.logging.info(f"Miner {uid} penalties: {miner_metrics['penalties']}")
+        # bt.logging.info(f"Miner {uid} final Score: {rewards[i]}")
+        # bt.logging.info(f"Miner {uid} penalties: {miner_metrics['penalties']}")
         # if 'rule_compliance' in miner_metrics:
         #     bt.logging.info(f"Miner {uid} rule compliance: {miner_metrics['rule_compliance']['overall_score']}")
         # else:
