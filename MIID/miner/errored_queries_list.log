@@ -230,3 +230,24 @@ Expected:
             "name_parts_permutations"
         ]
     },
+
+Template:
+Generate 5 variations of {name}, ensuring phonetic similarity (30% Light, e.g. \"Jhon\", 40% Medium, e.g. \"Jon\", 30% Far, e.g. \"Zahn\") and orthographic similarity (30% Light, e.g. \"{name}y\", 40% Medium, e.g. \"{name}son\", 30% Far, e.g. \"{name}szk\"). Approximately 47% of the total variations should follow these rule-based transformations: \n- Replace first character with similar sound (e.g., \"p\" for \"b\"), \n- Remove or add one letter from the end, \n- Swap two adjacent letters within a word, \n- Reverse order of name parts (e.g. \"John Smith\" becomes \"Smith John\").\n[VALIDATION HINTS]: Apply these rule-based transformations: Reorder name parts.; Phonetic similarity: 30% Far, 30% Light, 40% Medium.; Orthographic similarity: 30% Far, 30% Light, 40% Medium.; Exact number of variations: 5.; Approximately 47% of the variations should follow rule-based transformations.
+Expeted:
+{
+        "variation_count": 5,
+        "phonetic_similarity": {
+            "Light": 0.3,
+            "Medium": 0.4,
+            "Far": 0.3
+        },
+        "orthographic_similarity": {
+            "Light": 0.3,
+            "Medium": 0.4,
+            "Far": 0.3
+        },
+        "rule_percentage": 0.47,
+        "selected_rules": [
+            "name_parts_permutations"
+        ]
+    }
