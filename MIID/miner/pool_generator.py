@@ -70,12 +70,13 @@ def orth_level(x: float) -> int:
     # Optimized with direct comparisons (faster than loop)
     if x >= 0.70:
         return 0
-    elif x >= 0.50:
+    elif 0.69 >= x >= 0.50:
         return 1
-    elif x >= 0.20:
+    elif 0.49 >= x >= 0.20:
         return 2
-    else:
+    elif 0.19 >= x >= 0.00:
         return 3
+    return None # for some gaps 
 
 
 # ---------------- Phonetic class (P0..P7 by equality pattern)
@@ -355,10 +356,11 @@ def bfs_layers(
                     continue
                 o = orth_level(orth_sim(seed, v))
                 p = phon_class(seed_ph, v)
-                if len(vpool[ld][o][p]) == BUCKET_K:
+                if o is None or len(vpool[ld][o][p]) == BUCKET_K:
                     seen.add(v)
                     continue
                 vpool[ld][o][p].add(v)
+                seen.add(v)
                 cur.add(v)
         layers[depth] = cur
         if not cur:
@@ -433,7 +435,6 @@ def expand_into_buckets(
     # Generate additional layer with same-length variations using only different characters
     used_chars = set(seed.lower())
     available_chars = [c for c in alphabet if c not in used_chars]
-    rng = random.Random()
     if available_chars:  # Only generate if we have available characters
         max_try = bucket_k * 10
         try_count = 0
@@ -447,7 +448,7 @@ def expand_into_buckets(
             try_count += 1
     
     # materialize - ensure we always return at least one layer structure
-    out = [[[list(vpool[ld][o][p]) for p in range(8)] for o in range(4)] for ld in range(len(vpool))]
+    out = [[[sorted(vpool[ld][o][p]) for p in range(8)] for o in range(4)] for ld in range(len(vpool))]
     stats = {
         "timeout": timeout_seconds,
         "elapsed_sec": f"{round(elapsed_sec, 2)}s",

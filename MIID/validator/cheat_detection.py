@@ -327,7 +327,7 @@ def detect_cheating_patterns(
         all_normalized_sets.append(miner_normalized_sets)
         all_signatures.append(hash_signature(miner_map_for_signature))
 
-    fmt15 = [f"{r:.15f}" for r in rewards]
+    fmt15 = [f"{r:.10f}" for r in rewards]
     buckets_exact: Dict[str, List[int]] = {}
     for idx, key in enumerate(fmt15):
         if rewards[idx] > 0.0:
@@ -367,7 +367,7 @@ def detect_cheating_patterns(
                 thr_overlap, thr_jacc = 0.80, 0.70
             
             if max_avg_overlap > thr_overlap or max_avg_jaccard > thr_jacc:
-                printf(f"Penalizing group {valid_indices} with max_avg_overlap {max_avg_overlap} and max_avg_jaccard {max_avg_jaccard}.")
+                logging.warning(f"Penalizing group {valid_indices} with max_avg_overlap {max_avg_overlap} and max_avg_jaccard {max_avg_jaccard}.")
                 overlap_pen = max(0.0, (max_avg_overlap - thr_overlap) / max(1e-6, 1.0 - thr_overlap))
                 jaccard_pen = max(0.0, (max_avg_jaccard - thr_jacc) / max(1e-6, 1.0 - thr_jacc))
                 penalty = min(1.0, max(overlap_pen, jaccard_pen))
@@ -411,6 +411,7 @@ def detect_cheating_patterns(
                 jac = sum(jaccard_scores) / len(jaccard_scores)
 
             if overlap > 0.95 or jac > 0.90:
+                logging.warning(f"Penalizing pair {idx1} and {idx2} with overlap {overlap} and jac {jac}.")
                 penalty = 0.5
                 duplication_penalties[idx1] = max(duplication_penalties[idx1], penalty)
                 duplication_penalties[idx2] = max(duplication_penalties[idx2], penalty)
