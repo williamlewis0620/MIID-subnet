@@ -530,5 +530,25 @@
                 "initial_only_first_name"
             ]
         }
+    },
+    {
+        "template": "Generate 15 variations of {name}, ensuring phonetic similarity (70% Light, 30% Medium) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 47% of the total variations should follow these rule-based transformations: \nAdditionally, generate variations that: \n- Use abbreviations for first and last names. \n- Replace first name with a common nickname. \n- Replace last name with a similar-sounding surname. \n- Omit middle name. \n- Reorder name parts (e.g., \"John David Smith\" becomes \"Smith David John\").",
+        "label": {
+            "variation_count": 15,
+            "phonetic_similarity": {
+                "Light": 0.7,
+                "Medium": 0.3,
+                "Far": 0.0
+            },
+            "orthographic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "rule_percentage": 0.47,
+            "selected_rules": [
+                "name_parts_permutations"
+            ]
+        }
     }
 ]
