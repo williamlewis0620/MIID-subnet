@@ -414,7 +414,7 @@ async def calculate_answer_candidate(names: List[str], query_template: str, quer
 
 from MIID.miner.generate_name_variations import AnswerCandidate
 class AnswerCandidateForNoisy:
-    def __init__(self, task_key: str, answer_candidates: List[AnswerCandidate], validator_uid: int):
+    def __init__(self, task_key: str, answer_candidates: List[AnswerCandidate], validator_uid: int, query_template: str):
         self.task_key = task_key
         self.answer_candidates = answer_candidates
         self.serial = 0
@@ -424,7 +424,8 @@ class AnswerCandidateForNoisy:
         self.first_time = time.time()
         self.start_at = time.time()
         self.validator_uid = validator_uid
-        
+        self.query_template = query_template
+
     def calc_reward_and_penalty(self, answers: List[Dict[str, List[str]]], miners: List[int]):
         from types import SimpleNamespace
         responses = {}
@@ -496,22 +497,18 @@ def save_result(answer_candidate: AnswerCandidateForNoisy, miner_uid: int):
 
     try:
         with open(os.path.join(run_dir, f"serial_{answer_candidate.serial:02d}-miner_{miner_uid}.json"), 'w', encoding="utf-8") as f:
-            # output_json = {
-            #     "names": ", ".join([ cand.name for cand in answer_candidate.answer_candidates ]),
-            #     "final_reward": answer_candidate.metrics[-1]["final_reward"],
-            #     "answers": [
-            #         {
-            #             "miner_uid": miner_uid,
-            #             "answers": [
-            #                 f"{name:20s} = [ {', '.join(list(answer))} ]"
-            #                 for name, answer in answer_candidate.answer_list[miner_uid].items()
-            #             ]
-            #         } for miner_uid in answer_candidate.miner_list
-            #     ],
-            #     "all_metrics": answer_candidate.metrics,
-            # }
             output_json = answer_candidate.metrics[-1]
             json.dump(output_json, f, indent=4)
+
+        with open(os.path.join(run_dir, f"_task.json"), 'w', encoding="utf-8") as f:
+            json.dump(
+                {
+                    "names": [ cand.name for cand in answer_candidate.answer_candidates ],
+                    "query_template": answer_candidate.query_template,
+                    "query_template_hash": answer_candidate.task_key,
+                    "query_params": answer_candidate.answer_candidates[0].query_params
+                }, f, indent=4)
+
     except Exception as e:
         log.error(f"Error saving serial_{answer_candidate.serial}-miner_{miner_uid}.json: {e}")
         pass
@@ -554,7 +551,7 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
         pending_requests[task_key] = asyncio.Event()
         try:
             answer_candidate = await calculate_answer_candidate(names, query_template, query_params, timeout)
-            answer_candidate = AnswerCandidateForNoisy(task_key, answer_candidate, validator_uid=request.validator_uid)
+            answer_candidate = AnswerCandidateForNoisy(task_key, answer_candidate, validator_uid=request.validator_uid, query_template=query_template)
             answer_candidate_cache[task_key] = answer_candidate
             pending_requests[task_key].set()
         except asyncio.TimeoutError:

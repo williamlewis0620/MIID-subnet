@@ -72,81 +72,27 @@ def _get_gemini_client():
 # LLM-BASED PARSING (Gemini)
 # -----------------------------
 
-def _extract_recent_mistake_examples(max_examples: int = 100) -> List[Dict[str, str]]:
-    """Extract up to N recent (Template/Query, Expected/Answer) pairs from known logs.
-
-    Supports files containing blocks with 'Template:' and 'Expected:' or with
-    'Query:' and 'Answer:'. Returns newest examples first.
-    """
-    candidate_paths = [
-        os.path.join(os.path.dirname(__file__), "errored_queries_list.log"),
-    ]
-
-    def parse_pairs(lines: List[str]) -> List[Dict[str, str]]:
-        pairs: List[Dict[str, str]] = []
-        capturing_template = False
-        template_lines: List[str] = []
-        for line in lines:
-            stripped = line.strip()
-            # Prefer explicit Template: if present
-            if stripped.startswith("Template:"):
-                capturing_template = True
-                template_lines = [line.split("Template:", 1)[1]]
-                continue
-            # Fallback: Query:
-            if not capturing_template and stripped.startswith("Query:"):
-                capturing_template = True
-                template_lines = [line.split("Query:", 1)[1]]
-                continue
-            if capturing_template:
-                if stripped.startswith("Expected:") or stripped.startswith("Answer:"):
-                    expected_str = (
-                        line.split(":", 1)[1].strip()
-                        if ":" in line
-                        else stripped
-                    )
-                    raw_template = "".join(template_lines).strip()
-                    raw_template = re.sub(r"\s+", " ", raw_template)
-                    if len(raw_template) > 900:
-                        raw_template = raw_template[:900] + " …"
-                    pairs.append({"template": raw_template, "expected_json": expected_str})
-                    capturing_template = False
-                    template_lines = []
-                else:
-                    template_lines.append(line)
-        return pairs
-
-    collected: List[Dict[str, str]] = []
+def _load_parse_examples() -> List[Dict[str, str]]:
+    """Load parse examples from file"""
     try:
-        for path in candidate_paths:
-            if not os.path.exists(path):
-                continue
-            with open(path, "r", encoding="utf-8", errors="ignore") as f:
-                lines = f.readlines()
-            collected.extend(parse_pairs(lines))
+        with open(os.path.join(os.path.dirname(__file__), "correct_parse_examples.json"), "r", encoding="utf-8") as f:
+            return json.load(f)
     except Exception:
-        pass
-
-    # Keep most recent
-    if collected:
-        collected = collected[-max_examples:]
-        collected.reverse()
-    return collected
-
+        return []
 
 def _build_llm_prompt(query_text: str) -> str:
     """Construct a concise instruction for the LLM to output strict JSON, with few-shot examples from recent errors."""
     
     id_list_only = "\n".join(f"- {rule_id}" for rule_id in RULE_DESCRIPTIONS.keys())
 
-    examples = _extract_recent_mistake_examples()
+    examples = _load_parse_examples()
     examples_text = ""
     if examples:
         blocks: List[str] = []
         for idx, ex in enumerate(examples, start=1):
             blocks.append(
                 "Example {}:\nINPUT:\n{}\nOUTPUT:\n{}\n".format(
-                    idx, ex["template"], ex["expected_json"]
+                    idx, ex["template"], ex["label"]
                 )
             )
         examples_text = (
