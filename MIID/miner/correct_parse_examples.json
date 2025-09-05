@@ -450,5 +450,25 @@
                 "name_parts_permutations"
             ]
         }
+    },
+    {
+        "template": "Generate 15 variations of {name}, ensuring phonetic similarity (10% Light, e.g. \"Boris\" -> \"Bryce\", 50% Medium, e.g. \"Boris\" -> \"Baris\", 40% Far) and orthographic similarity (20% Light, e.g. \"Boris\" -> \"Buris\", 60% Medium, e.g. \"Boris\" -> \"Borres\", 20% Far). Approximately 35% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace {name} with a vowel (\"a\", \"e\", \"i\", \"o\", \"u\") removed randomly; Replace {name} with one or more adjacent vowels (\"ai\" -> \"a\", \"ei\" -> \"e\", etc.) replaced with a single random vowel.",
+        "label": {
+            "variation_count": 15,
+            "phonetic_similarity": {
+                "Light": 0.1,
+                "Medium": 0.5,
+                "Far": 0.4
+            },
+            "orthographic_similarity": {
+                "Light": 0.2,
+                "Medium": 0.6,
+                "Far": 0.2
+            },
+            "rule_percentage": 0.35,
+            "selected_rules": [
+                "remove_random_vowel"
+            ]
+        }
     }
 ]
