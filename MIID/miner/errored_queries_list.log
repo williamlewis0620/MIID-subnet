@@ -230,24 +230,105 @@ Expected:
             "name_parts_permutations"
         ]
     },
-
+Template:
+Generate 8 variations of {name}, ensuring phonetic similarity with 70% Light variations and 30% Medium variations. Ensure orthographic similarity with 50% Light variations and 50% Medium variations. Approximately 14% of the total variations should follow these rule-based transformations: Additionally, generate variations that perform these transformations: Replace a random vowel in {name} with an empty string or a different vowel, and abbreviate name parts by truncating them to 2-3 characters.\n[VALIDATION HINTS]: Apply these rule-based transformations: Remove a random vowel.; Orthographic similarity: 50% Light, 50% Medium.; Phonetic similarity: 30% Medium, 70% Light.
+Expected:
+{
+    "variation_count": 8,
+    "phonetic_similarity": {
+        "Light": 0.7,
+        "Medium": 0.3,
+        "Far": 0.0
+    },
+    "orthographic_similarity": {
+        "Light": 0.5,
+        "Medium": 0.5,
+        "Far": 0.0
+    },
+    "rule_percentage": 0.14,
+    "selected_rules": [
+        "remove_random_vowel",
+        "shorten_name_to_abbreviations"
+    ]
+}
+Template:
+Generate 9 variations of {name}, ensuring phonetic similarity (20% Light, e.g. {name}y, {name}i, etc., 60% Medium, e.g. {name}ee, {name}ay, etc., 20% Far, e.g. {name}kuh, {name}shun, etc.) and orthographic similarity (20% Light, e.g. {name}, {name}s, etc., 60% Medium, e.g. {name}e, {name}a, etc., 20% Far, e.g. {name}kh, {name}z, etc.). Approximately 54% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace a letter with a similar-looking one (e.g. o -> q), Transpose two adjacent letters, Insert a random letter between two existing ones, Remove a single letter, Append a common suffix (e.g. -ian, -son).
+Expected:
+{
+    "variation_count": 9,
+    "phonetic_similarity": {
+        "Light": 0.2,
+        "Medium": 0.6,
+        "Far": 0.2
+    },
+    "orthographic_similarity": {
+        "Light": 0.2,
+        "Medium": 0.6,
+        "Far": 0.2
+    },
+    "rule_percentage": 0.54,
+    "selected_rules": [
+        "insert_random_letter"
+    ]
+}
+Template:
+Generate 14 variations of {name}, ensuring phonetic similarity (100% Far) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 49% of the total variations should follow these rule-based transformations: \nAdd a title suffix (Jr., PhD, etc.) to {name};\nConvert {name} to initials;\n{name} spelled backwards;\n{name} with a random character added at the beginning or end;\n{name} with each word capitalized;\n{name} with a hyphen between words;\n{name} with a space between words replaced with no space;\nRemove all vowels from {name};\nRemove all consonants from {name};\nChange first and last letters of {name};\nAdd a prefix to {name}; \nAdd a suffix to {name};
+Expected:
+{
+    "variation_count": 14,
+    "phonetic_similarity": {
+        "Light": 0.0,
+        "Medium": 0.0,
+        "Far": 1.0
+    },
+    "orthographic_similarity": {
+        "Light": 0.3,
+        "Medium": 0.4,
+        "Far": 0.3
+    },
+    "rule_percentage": 0.49,
+    "selected_rules": [
+        "add_random_trailing_title",
+        "shorten_name_to_initials"
+    ]
+}
+Template:
+Generate 13 variations of {name}, ensuring phonetic similarity (100% Medium) and orthographic similarity (20% Light, 60% Medium, 20% Far). Approximately 22% of the total variations should follow these rule-based transformations: \n1. Reverse spelling order. \n2. Remove first/last letter(s). \n3. Swap adjacent letters.\n4. Add prefix/suffix. \n5. Replace similar-sounding letters (e.g., \"p\" with \"b\"). \n6. Additionally, generate variations that: Swap adjacent syllables.
+Expected:
+{
+    "variation_count": 13,
+    "phonetic_similarity": {
+        "Light": 0.0,
+        "Medium": 1.0,
+        "Far": 0.0
+    },
+    "orthographic_similarity": {
+        "Light": 0.2,
+        "Medium": 0.6,
+        "Far": 0.2
+    },
+    "rule_percentage": 0.22,
+    "selected_rules": [
+        "swap_adjacent_syllables"
+    ]
+}
 Template:
 Generate 5 variations of {name}, ensuring phonetic similarity (30% Light, e.g. \"Jhon\", 40% Medium, e.g. \"Jon\", 30% Far, e.g. \"Zahn\") and orthographic similarity (30% Light, e.g. \"{name}y\", 40% Medium, e.g. \"{name}son\", 30% Far, e.g. \"{name}szk\"). Approximately 47% of the total variations should follow these rule-based transformations: \n- Replace first character with similar sound (e.g., \"p\" for \"b\"), \n- Remove or add one letter from the end, \n- Swap two adjacent letters within a word, \n- Reverse order of name parts (e.g. \"John Smith\" becomes \"Smith John\").\n[VALIDATION HINTS]: Apply these rule-based transformations: Reorder name parts.; Phonetic similarity: 30% Far, 30% Light, 40% Medium.; Orthographic similarity: 30% Far, 30% Light, 40% Medium.; Exact number of variations: 5.; Approximately 47% of the variations should follow rule-based transformations.
-Expeted:
+Expected:
 {
-        "variation_count": 5,
-        "phonetic_similarity": {
-            "Light": 0.3,
-            "Medium": 0.4,
-            "Far": 0.3
-        },
-        "orthographic_similarity": {
-            "Light": 0.3,
-            "Medium": 0.4,
-            "Far": 0.3
-        },
-        "rule_percentage": 0.47,
-        "selected_rules": [
-            "name_parts_permutations"
-        ]
-    }
+    "variation_count": 5,
+    "phonetic_similarity": {
+        "Light": 0.3,
+        "Medium": 0.4,
+        "Far": 0.3
+    },
+    "orthographic_similarity": {
+        "Light": 0.3,
+        "Medium": 0.4,
+        "Far": 0.3
+    },
+    "rule_percentage": 0.47,
+    "selected_rules": [
+        "name_parts_permutations"
+    ]
+}

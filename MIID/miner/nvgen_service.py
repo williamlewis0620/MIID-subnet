@@ -589,7 +589,7 @@ if __name__ == "__main__":
             access_log=False,
             log_config=LOGGING_CONFIG,
             limit_concurrency=1000,
-            limit_max_requests=1000,
+            limit_max_requests=None,
         )
         
     except KeyboardInterrupt:
