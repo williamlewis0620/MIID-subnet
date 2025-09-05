@@ -490,5 +490,25 @@
                 "shorten_name_to_initials"
             ]
         }
+    },
+    {
+        "template": "Generate 10 variations of {name}, ensuring phonetic similarity (sound-alike names) with a distribution of 10% Light, 30% Medium, and 60% Far, and orthographic similarity (visually similar spellings) with a distribution of 50% Light and 50% Medium. Approximately 34% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace {name} with its phonetic equivalent; Remove one consonant from the middle of {name}; Remove one vowel from the beginning of {name}; Insert \"de\" or \"la\" at the end of {name}; Delete a random letter.",
+        "label": {
+            "variation_count": 10,
+            "phonetic_similarity": {
+                "Light": 0.1,
+                "Medium": 0.3,
+                "Far": 0.6
+            },
+            "orthographic_similarity": {
+                "Light": 0.5,
+                "Medium": 0.5,
+                "Far": 0.0
+            },
+            "rule_percentage": 0.34,
+            "selected_rules": [
+                "delete_random_letter"
+            ]
+        }
     }
 ]
