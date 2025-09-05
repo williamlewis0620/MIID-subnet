@@ -550,5 +550,27 @@
                 "name_parts_permutations"
             ]
         }
+    },
+    {
+        "template": "Generate 7 variations of {name}, ensuring phonetic similarity (30% Light, e.g. Met{name}, Mer{name}, etc., 40% Medium, e.g. Mert{name}, Myt{name}, etc., and 30% Far, e.g. Malt{name}, Mar{name}, etc.) and orthographic similarity (30% Light, e.g. {name}ty, {name}sie, etc., 40% Medium, e.g. {name}try, {name}zy, etc., and 30% Far, e.g. {name}rx, {name}vy, etc.). Approximately 58% of the total variations should follow these rule-based transformations: Additionally, generate variations that perform these transformations: Remove all spaces from {name}, Reorder parts in {name}, and Replace a random consonant with X in {name}.",
+        "label": {
+            "variation_count": 7,
+            "phonetic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "orthographic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "rule_percentage": 0.58,
+            "selected_rules": [
+                "remove_all_spaces",
+                "name_parts_permutations",
+                "remove_random_consonant"
+              ]
+        }
     }
 ]
