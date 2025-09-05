@@ -470,5 +470,25 @@
                 "remove_random_vowel"
             ]
         }
+    },
+    {
+        "template": "Generate 9 variations of {name}, ensuring phonetic similarity (100% Medium) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 56% of the total variations should follow these rule-based transformations: \nConvert {name} to its initials; \nCreate a misspelling of {name} with one character off by one position; \nChange the suffix or prefix of {name}; \nReplace a letter in {name} with a similar sounding letter.",
+        "label": {
+            "variation_count": 9,
+            "phonetic_similarity": {
+                "Light": 0.0,
+                "Medium": 1.0,
+                "Far": 0.0
+            },
+            "orthographic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "rule_percentage": 0.56,
+            "selected_rules": [
+                "shorten_name_to_initials"
+            ]
+        }
     }
 ]
