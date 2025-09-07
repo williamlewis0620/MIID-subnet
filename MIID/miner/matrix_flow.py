@@ -396,6 +396,84 @@ def solve_integer_diverse(Max, O):
     row_sums = [sum(x[i][j] for j in range(C)) for i in range(R)]
     return trans_x(x), row_sums
 
+def solve_integer_diverse_min(Max, O):
+    """
+    Diverse *minimizing* integer flow (i.e., concentrate mass on as few rows as possible)
+    using min-cost max-flow with *decreasing* marginal costs per row.
+
+    Max: 3x4 matrix of nonnegative integers (upper bounds per row/col)
+    O  : length-4 list of nonnegative integers (column budgets)
+    Returns: x (3x4 integer matrix), row_sums (len 3)
+    """
+    R, C = 3, 4
+    Max = trans_x(Max)
+    if len(Max) == 1:
+        return trans_x([O]), trans_x([O])
+
+    assert len(Max) == R and all(len(row) == C for row in Max)
+    assert len(O) == C
+
+    # Effective per-column supply (cap by what rows can actually accept)
+    t = [min(O[j], sum(Max[i][j] for i in range(R))) for j in range(C)]
+    total = sum(t)
+
+    # Row capacity (max possible into each row)
+    row_cap = [sum(Max[i][j] for j in range(C)) for i in range(R)]
+
+    # For symmetry with the previous version, keep the same avg reference,
+    # but we will make the marginal costs *decrease* with k to favor concentration.
+    avg = round(total / R)
+
+    # Build graph: S | C0..C3 | R0..R2 | T
+    S = 0
+    C0 = 1
+    R0 = C0 + C
+    T  = R0 + R
+    Nn = T + 1
+    g = MCMF(Nn)
+
+    # S -> columns
+    for j in range(C):
+        g.add_edge(S, C0 + j, t[j], 0)
+
+    # columns -> rows (store handles to extract x later)
+    rc_handle = [[None]*C for _ in range(R)]
+    for j in range(C):
+        for i in range(R):
+            rc_handle[i][j] = g.add_edge(C0 + j, R0 + i, Max[i][j], 0)
+
+    # rows -> T with *decreasing* incremental cost:
+    #   For the k-th unit on a row (k=0-based):
+    #       inc_cost_dec(k) = (2*avg - (2*k + 1)) + shift_i
+    #   => total cost for r units (before shift) = 2*avg*r - r^2 (concave),
+    #      so min-cost prefers packing many units into the same row (low diversity).
+    for i in range(R):
+        K = row_cap[i]
+        # Choose a per-row shift so all arc costs are non-negative for k in [0..K-1]
+        # Minimum of (2*avg - (2*k + 1)) occurs at k=K-1: value = 2*avg - (2*K - 1)
+        shift_i = max(0, (2*K - 1) - 2*avg)
+        for k in range(K):
+            inc_cost = (2*avg - (2*k + 1)) + shift_i
+            g.add_edge(R0 + i, T, 1, inc_cost)
+
+    # Push exactly 'total' units
+    pushed, _ = g.min_cost_flow(S, T, total)
+    if pushed != total:
+        raise RuntimeError("Infeasible: not enough capacity to realize all t_j")
+
+    # Extract integer x from column->row edges
+    x = [[0]*C for _ in range(R)]
+    for i in range(R):
+        for j in range(C):
+            u, idx = rc_handle[i][j]
+            e = g.g[u][idx]
+            used = e.orig - e.cap
+            x[i][j] = used
+
+    row_sums = [sum(x[i][j] for j in range(C)) for i in range(R)]
+    return trans_x(x), row_sums
+
+
 
 from typing import List, Tuple
 
@@ -496,3 +574,305 @@ if __name__ == "__main__":
     print("\n1x4 solution:")
     for row in x2: print(row)
     print("flow_value:", val2)
+
+
+
+
+from heapq import heappush, heappop
+
+class MinCostMaxFlow:
+    class Edge:
+        __slots__ = ("to", "rev", "cap", "cost", "orig")
+        def __init__(self, to, rev, cap, cost):
+            self.to   = to
+            self.rev  = rev
+            self.cap  = cap
+            self.cost = cost
+            self.orig = cap
+
+    def __init__(self, n):
+        self.n = n
+        self.g = [[] for _ in range(n)]
+
+    def add_edge(self, u, v, cap, cost):
+        a = MinCostMaxFlow.Edge(v, len(self.g[v]), cap, cost)
+        b = MinCostMaxFlow.Edge(u, len(self.g[u]), 0,  -cost)
+        self.g[u].append(a)
+        self.g[v].append(b)
+        return (u, len(self.g[u]) - 1)  # handle to forward edge
+
+    def min_cost_flow(self, s, t, maxf=None):
+        n = self.n
+        flow, cost = 0, 0
+        pot = [0] * n  # potentials (Johnson's trick); costs are non-negative so this stays 0
+        INF = 10**18
+
+        while True:
+            dist = [INF] * n
+            inq  = [False] * n
+            par  = [(-1, -1)] * n  # (node, edge_index)
+
+            dist[s] = 0
+            pq = [(0, s)]
+            while pq:
+                d, u = heappop(pq)
+                if d != dist[u]:
+                    continue
+                for idx, e in enumerate(self.g[u]):
+                    if e.cap <= 0:
+                        continue
+                    nd = d + e.cost + pot[u] - pot[e.to]
+                    if nd < dist[e.to]:
+                        dist[e.to] = nd
+                        par[e.to]  = (u, idx)
+                        heappush(pq, (nd, e.to))
+
+            if dist[t] == INF:
+                break
+
+            for v in range(n):
+                if dist[v] < INF:
+                    pot[v] += dist[v]
+
+            # bottleneck
+            add = INF
+            v = t
+            while v != s:
+                u, idx = par[v]
+                add = min(add, self.g[u][idx].cap)
+                v = u
+
+            if add == 0 or (maxf is not None and flow == maxf):
+                break
+
+            if maxf is not None:
+                add = min(add, maxf - flow)
+
+            # augment
+            v = t
+            path_cost = 0
+            while v != s:
+                u, idx = par[v]
+                e = self.g[u][idx]
+                path_cost += e.cost
+                e.cap -= add
+                self.g[v][e.rev].cap += add
+                v = u
+
+            flow += add
+            cost += add * path_cost
+
+            if maxf is not None and flow == maxf:
+                break
+
+            # if no positive-cost edges were used and maxf is None,
+            # loop continues until no more augmenting path
+
+        return flow, cost
+
+
+def solve_lex_maxflow_minvariance(MaxU, O):
+    """
+    Lexicographic objective with integer capacities:
+      1) maximize total flow sum_{i,j} x_ij
+      2) among max-flow solutions, minimize sum_i (S_i - avg)^2
+         where S_i = sum_j x_ij and avg = (sum_i S_i)/rows
+
+    Inputs:
+      MaxU: matrix of size 1x4 or 3x4 (non-negative integers)
+      O   : list of 4 non-negative integers (column caps)
+
+    Returns:
+      x: integer matrix same shape as MaxU (optimal under the lexicographic objective)
+      flow_value: integer total flow
+    """
+    # --- normalize inputs ---
+    MaxU = trans_x(MaxU)
+    if not (isinstance(MaxU, list) and all(isinstance(row, list) for row in MaxU)):
+        raise ValueError("MaxU must be a list of lists.")
+    if len(O) != 4:
+        raise ValueError("O must be length 4.")
+
+    R = len(MaxU)
+    if R not in (1, 3):
+        raise ValueError("MaxU must have 1 or 3 rows.")
+    C = 4
+    for r in range(R):
+        if len(MaxU[r]) != C:
+            raise ValueError("Each row of MaxU must have length 4.")
+        if any(x < 0 for x in MaxU[r]):
+            raise ValueError("MaxU entries must be non-negative integers.")
+    if any(v < 0 for v in O):
+        raise ValueError("O entries must be non-negative integers.")
+
+    # Trivial 1x4 case: only one row, max flow is simple min per column
+    if R == 1:
+        x_row = [min(MaxU[0][j], O[j]) for j in range(C)]
+        return trans_x([x_row]), sum(x_row)
+
+    # Effective per-column supply (cannot exceed what rows can absorb)
+    col_caps = [min(O[j], sum(MaxU[i][j] for i in range(R))) for j in range(C)]
+    total_possible = sum(col_caps)
+    row_caps = [sum(MaxU[i][j] for j in range(C)) for i in range(R)]
+
+    # Node layout: S | C0..C3 | R0..R{R-1} | T
+    S = 0
+    C0 = 1
+    R0 = C0 + C
+    T  = R0 + R
+    Nn = T + 1
+
+    # ---------- Stage 1: find maximum flow (costs = 0) ----------
+    g1 = MinCostMaxFlow(Nn)
+
+    # S -> columns
+    for j in range(C):
+        g1.add_edge(S, C0 + j, col_caps[j], 0)
+
+    # columns -> rows
+    for j in range(C):
+        for i in range(R):
+            cap = MaxU[i][j]
+            if cap > 0:
+                g1.add_edge(C0 + j, R0 + i, cap, 0)
+
+    # rows -> T (enough capacity)
+    for i in range(R):
+        if row_caps[i] > 0:
+            g1.add_edge(R0 + i, T, row_caps[i], 0)
+
+    F_star, _ = g1.min_cost_flow(S, T, maxf=None)  # maximum flow value
+
+    if F_star == 0:
+        # No feasible flow
+        return trans_x([[0]*C for _ in range(R)]), 0
+
+    # ---------- Stage 2: among max flows, minimize sum_i S_i^2 ----------
+    # Note: sum_i (S_i - avg)^2 = sum_i S_i^2 - const, since avg = F_star / R and sum_i S_i = F_star
+    # So minimizing variance is equivalent to minimizing sum_i S_i^2.
+    # We realize S_i^2 via unit arcs with increasing marginal costs: k-th unit to row i costs (2k+1).
+
+    g2 = MinCostMaxFlow(Nn)
+    # Keep handles to column->row edges to read back flows later
+    handles = [[None]*C for _ in range(R)]
+
+    # S -> columns
+    for j in range(C):
+        g2.add_edge(S, C0 + j, col_caps[j], 0)
+
+    # columns -> rows (capacity as given, zero cost)
+    for j in range(C):
+        for i in range(R):
+            cap = MaxU[i][j]
+            if cap > 0:
+                handles[i][j] = g2.add_edge(C0 + j, R0 + i, cap, 0)
+            else:
+                handles[i][j] = None
+
+    # rows -> T : unit-capacity arcs with costs 2k+1 (k = 0..row_caps[i]-1)
+    for i in range(R):
+        K = row_caps[i]
+        for k in range(K):
+            g2.add_edge(R0 + i, T, 1, 2*k + 1)
+
+    # push exactly F_star units
+    flowed, _ = g2.min_cost_flow(S, T, maxf=F_star)
+    assert flowed == F_star, "Internal error: cannot realize max flow in stage 2."
+
+    # extract x from column->row edges
+    x = [[0]*C for _ in range(R)]
+    for i in range(R):
+        for j in range(C):
+            h = handles[i][j]
+            if h is None:
+                x[i][j] = 0
+            else:
+                u, idx = h
+                e = g2.g[u][idx]
+                used = e.orig - e.cap  # how much flowed on this edge
+                x[i][j] = used
+
+    return trans_x(x), F_star
+
+def _raise_to_level(base, caps, s, iters=60):
+    """
+    Solve: y_i = clip(L - base_i, 0, caps_i) with sum(y) = s.
+    Returns y (list).
+    """
+    base = [float(b) for b in base]
+    caps = [float(c) for c in caps]
+    lo = min(base)
+    hi = max(b + c for b, c in zip(base, caps))
+    for _ in range(iters):
+        mid = (lo + hi) / 2.0
+        total = 0.0
+        for b, c in zip(base, caps):
+            total += max(0.0, min(c, mid - b))
+        if total < s:
+            lo = mid
+        else:
+            hi = mid
+    L = (lo + hi) / 2.0
+    y = [max(0.0, min(c, L - b)) for b, c in zip(base, caps)]
+    # tiny numerical fix to hit s exactly
+    diff = s - sum(y)
+    if abs(diff) > 1e-9:
+        for i in range(len(y)):
+            room_up = caps[i] - y[i]
+            room_dn = y[i]
+            if diff > 0 and room_up > 0:
+                add = min(diff, room_up)
+                y[i] += add
+                diff -= add
+            elif diff < 0 and room_dn > 0:
+                take = min(-diff, room_dn)
+                y[i] -= take
+                diff += take
+            if abs(diff) <= 1e-12:
+                break
+    return y
+
+def solve_min_row_variance(Max, O, max_sweeps=50, tol=1e-9):
+    """
+    Max: 3x4 nonnegative matrix
+    O:   length-4 nonnegative list (column budgets)
+
+    Returns:
+      x: 3x4 optimal matrix
+      r: length-3 row sums
+      avg, obj: target average and objective value
+    """
+    Max = trans_x(Max)
+    nrows, ncols = len(Max), 4
+    assert len(Max) == nrows and all(len(row) == ncols for row in Max)
+    assert len(O) == ncols
+
+    # Column targets: use as much as feasible
+    s = [min(float(O[j]), sum(Max[i][j] for i in range(nrows))) for j in range(ncols)]
+
+    # Initialize
+    x = [[0.0]*ncols for _ in range(nrows)]
+    r = [0.0]*nrows
+    avg = sum(O) / nrows
+
+    # Cyclic coordinate descent over columns
+    for _ in range(max_sweeps):
+        delta = 0.0
+        for j in range(ncols):
+            caps = [Max[i][j] for i in range(nrows)]
+            # remove current column from row sums to get base
+            base = [r[i] - x[i][j] for i in range(nrows)]
+            y_new = _raise_to_level(base, caps, s[j])
+            # measure change
+            for i in range(nrows):
+                delta = max(delta, abs(y_new[i] - x[i][j]))
+            # commit
+            for i in range(nrows):
+                r[i] = base[i] + y_new[i]
+                x[i][j] = round(y_new[i])
+        if delta <= tol:
+            break
+
+    obj = sum((ri - avg)**2 for ri in r)
+    return trans_x(x), r #, avg, obj
+

@@ -25,6 +25,49 @@ def generate_all_possible_count_pairs(C: int, Pr: float) -> list[Tuple[int, int]
     
     return pairs
     
+def generate_all_possible_count_pairs_v2(expected_count, minimum_rule_based_count, rule_percent, orthograph_similarity) -> list[Tuple[int, int]]:
+    expected_base_count = expected_count * (1.0 - rule_percent)
+    base_tolerance = 0.2  # 20% base tolerance
+    tolerance = base_tolerance + (0.05 * (expected_base_count // 10))  # Add 5% per 10 expected variations
+    tolerance = min(tolerance, 0.4)  # Cap at 40% maximum tolerance
+    
+    tolerance_range = expected_base_count * tolerance
+    lower_bound = max(1, expected_base_count - tolerance_range)  # Ensure at least 1 variation required
+    upper_bound = expected_base_count + tolerance_range
+    
+    pairs = []
+    # strategy1: focus on expected_base_count
+    base_count_range = range(int(lower_bound * 0.5), int(upper_bound * 0.5) + 1)
+    # strategy2: focus on orthographic similarity
+    min_orth_similarity = min(orthograph_similarity.values())
+    if min_orth_similarity == 0.1:
+        base_count_range = range(min(base_count_range.start, 10), max(base_count_range.stop, 12))
+    # strategy3: more wide range to cover all possible combinations
+    # base_count_range = range(5, 30)
+    # for base_count in base_count_range:
+    #     cur_rule_count = minimum_rule_based_count
+    #     while True:
+    #         rule_count_based_total = math.ceil(cur_rule_count / rule_percent)
+    #         if base_count <= rule_count_based_total - cur_rule_count:
+    #             break
+    #         cur_rule_count += 1
+    #     additional_rule_based_count = cur_rule_count - minimum_rule_based_count
+    #     duplicated_rule_based_count = rule_count_based_total - cur_rule_count - base_count
+    #     pairs.append((minimum_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count))
+    for base_count in range(3, 15, 1):
+        for total_count in range(4, 50):
+            for rule_based_count in range(int(total_count * rule_percent * 0.5), int(total_count * rule_percent * 1.5) + 1):
+                # rule_based_count = int(total_count * rule_percent)
+                _minimum_rule_based_count = minimum_rule_based_count
+                if rule_based_count < _minimum_rule_based_count:
+                    continue
+                additional_rule_based_count = rule_based_count - _minimum_rule_based_count
+                duplicated_rule_based_count = total_count - rule_based_count - base_count
+                pairs.append((_minimum_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count))
+        
+    return [(2,2,0,5)]
+
+
 
 def generate_possible_count_pairs(C: int, Pr: float, O: Dict[str, float], Ce: int) -> list[Tuple[int, int]]:
     """

@@ -415,14 +415,14 @@ def counts_in_matrix48(
             logger.debug(f"p_level: {p_level}, O: {O}")
             for row in MaxU:
                 logger.debug(f"{row}")
+            
+            # # v1.0 : divergent algorithm
+            # from MIID.miner.matrix_flow import maxflow_then_maxdisp_int
+            # xx, _ = maxflow_then_maxdisp_int(MaxU, O)
 
-            # v1.0 : divergent algorithm
-            from MIID.miner.matrix_flow import maxflow_then_maxdisp_int
-            xx, _ = maxflow_then_maxdisp_int(MaxU, O)
-
-            # # v2.0: normalize algorithm
-            # from MIID.miner.matrix_flow import solve_integer_diverse
-            # xx, _ = solve_integer_diverse(MaxU, O)
+            # v2.0: normalize algorithm
+            from MIID.miner.matrix_flow import solve_integer_diverse
+            xx, _ = solve_integer_diverse(MaxU, O)
 
             for o_level in range(4):
                 logger.debug(f"{xx[o_level]}")

@@ -13,8 +13,8 @@ async def test_identity_synapse():
     bt.logging.add_args(parser)
     parser.add_argument("--query_file", type=str, default=os.path.join(os.path.dirname(__file__), "hard_tasks/1.json"))
     args = parser.parse_args()
-    subtensor = bt.subtensor(network="finney")
-    metagraph = subtensor.metagraph(54)  # Using netuid 91 as in original test
+    subtensor = bt.subtensor(network="test")
+    metagraph = subtensor.metagraph(261)  # Using netuid 91 as in original test
     wallet = bt.wallet(name="test", hotkey="miner")
     query_file = args.query_file
     with open(query_file, 'r') as f:
@@ -28,9 +28,10 @@ async def test_identity_synapse():
         query_data['query_params'] = query_params
     else:
         query_params = query_data['query_params']
-    # test_uid = 62 # 5H1jrSmC49vbTbXe8s68xBxHN6djqWQmpvEa8vTLCpfrUfJt
-    test_uid = 246 # 5CysjkSsSS3D8w5Ap61URozFPwBUFPjH7q7wEtqAEXJ5eEW9
+    # test_uid = 37 # 5H1jrSmC49vbTbXe8s68xBxHN6djqWQmpvEa8vTLCpfrUfJt
+    # test_uid = 246 # 5CysjkSsSS3D8w5Ap61URozFPwBUFPjH7q7wEtqAEXJ5eEW9
     # test_uid = 163 # 5HmoxRai5fq9xjRQnH1Nz8nkgC7K26gxH5AmbVS9GY2GFUX4 
+    test_uid = 100 # 5FZo testnet
     coldkey = metagraph.axons[test_uid].coldkey
     try:
         async with bt.dendrite(wallet=wallet) as dendrite:
@@ -47,7 +48,7 @@ async def test_identity_synapse():
             
             bt.logging.info(f"Testing with validator UID={test_uid}, Hotkey={axon.hotkey}")
             
-            synapse.dendrite.hotkey = "5C4qiYkqKjqGDSvzpf6YXCcnBgM6punh8BQJRP78bqMGsn54"
+            synapse.dendrite.hotkey = "5Ejk5HeFxruA61fSYE1pzupPf8893Fjq9EUDZxRKjSYG9oD2"
             # Send the query
             bt.logging.info(f"Sending query to validator UID={test_uid}, axon={axon}")
             response = await dendrite(
@@ -94,7 +95,42 @@ async def test_identity_synapse():
                     json.dump(query_data, f, indent=4)
                 with open(f"{workdir}/variants.json", "w", encoding="utf-8") as f:
                     json.dump(response[0].variations, f, indent=4)
-                bt.logging.info(f"Saved variations: {workdir}/query.json")
+                metrics = detailed_metrics[0]
+                count_matrix = {}
+                phonetic_score = {}
+                orthographic_score = {}
+                nonrule_count = {}
+                for name in metrics['name_metrics']:
+                    name_metrics = metrics['name_metrics'][name]
+                    
+                    for sub_name in [f"first_name", "last_name"]:
+                        sub_count_matrix = [[0 for _ in range(8)] for _ in range(4)]
+                        sub_name_data = name_metrics.get(sub_name, [])
+                        if sub_name_data:
+                            variation_scores = sub_name_data['metrics'].get('variations', [])
+                            for variation in variation_scores:
+                                from MIID.miner.pool_generator import orth_level, orth_sim, phon_class, seed_codes
+                                
+                                o_level = orth_level(orth_sim(name.split(" ")[0] if sub_name == "first_name" else name.split(" ")[1],variation['variation']))
+                                p_level = phon_class(seed_codes(name.split(" ")[0] if sub_name == "first_name" else name.split(" ")[1]), variation['variation'])
+                                sub_count_matrix[o_level][p_level] += 1
+                        count_matrix[name + " - " + sub_name] = sub_count_matrix
+                        phonetic_score[name + " - " + sub_name] = sub_name_data['metrics']['similarity']['phonetic']
+                        orthographic_score[name + " - " + sub_name] = sub_name_data['metrics']['similarity']['orthographic']
+                        nonrule_count[name + " - " + sub_name] = sub_name_data['metrics']['count']['actual']
+                output = ""
+                for subname in count_matrix:
+                    mat = count_matrix[subname]
+                    count = nonrule_count[subname]
+                    phonetic = phonetic_score[subname]
+                    orthographic = orthographic_score[subname]
+                    output += f"{subname}\n - Count: {count}\n - Phonetic: {phonetic:.2f}\n - Orthographic: {orthographic:.2f}\n"
+                    from MIID.miner.utils import _mat_str84
+                    output += _mat_str84(mat)
+                with open(f"workdir_count_matrix.txt", "w") as f:
+                    f.write(output)
+                print(output)
+                # bt.logging.info(f"Saved variations: {workdir}/query.json")
             else:
                 bt.logging.error("No response received")
 

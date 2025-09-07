@@ -32,6 +32,7 @@ from fastapi import FastAPI, HTTPException, BackgroundTasks
 from pydantic import BaseModel
 import logging  # add this near the top
 
+
 TRACE_LOG_FORMAT = (
     f"%(asctime)s | %(levelname)s | %(name)s:%(filename)s:%(lineno)s | %(message)s"
 )
@@ -79,7 +80,6 @@ LOGGING_CONFIG = {
 }
 
 log = logging.getLogger("nvgen")
-
 # Suppress gRPC warnings
 os.environ['GRPC_PYTHON_LOG_LEVEL'] = 'error'
 os.environ['ABSL_LOGGING_MIN_LEVEL'] = '2'
@@ -101,37 +101,6 @@ A FastAPI-based service that provides name variants to miners' name variant pool
 
 HOST = "0.0.0.0"
 PORT = 8000
-
-
-async def test():
-    base_query_files = [
-        os.path.join(os.path.dirname(__file__), "nvgen_test_query_2.json"),
-    ]
-    dup = 20
-    query_files = []
-    for q in base_query_files:
-        query_files.extend([q] * dup)
-    query_datas = []
-    for i in range(len(query_files)):
-        with open(query_files[i], 'r') as f:
-            query_data = json.load(f)
-        query_datas.append(query_data)
-    tasks = []
-
-    for i, query_data in enumerate(query_datas):
-        task = TaskRequest(
-            names=query_data['names'],
-            query_template=query_data.get('query_template', None),
-            query_params=query_data.get('query_params', None),
-            miner_uid=0,
-            validator_uid=0,
-            timeout=700.0)
-        tasks.append(solve_task(task))
-    results = await asyncio.gather(*tasks)
-    # out = json.dumps(results, indent=4)
-    # with open("results.json", "w") as f:
-    #     f.write(out)
-
 
 # Global state
 pending_requests: Dict[str, asyncio.Event] = {}
@@ -171,10 +140,43 @@ async def query_parse_worker():
             log.info(f"📝 Processing query parse request: {cache_key[:8]}...")
             
             try:
-                # Parse the query using Gemini API
-                from MIID.miner.parse_query_gemini_safe import query_parser
-                parsed_params = await query_parser(query_text, max_retries=request.get("max_retries", 10))
-                
+                # Read version string from strategy.json file if exists, else use version v1
+                version = ""
+                try:
+                    version_path = Path(os.path.dirname(__file__), "versions.json")
+                    if version_path.exists():
+                        with open(version_path, 'r') as f:
+                            version_data = json.load(f)
+                            version = version_data.get("versions", {"parser": version_data.get("version", "v1")}).get("parser", "")
+                except Exception as e:
+                    pass
+                # Import the appropriate module dynamically based on version
+                if version in (None, "", "default", "v1"):
+                    modname = "MIID.miner.parse_query_gemini_safe"
+                else:
+                    # accept "v2" or "2", normalize to _v2
+                    ver = str(version).lstrip("_")
+                    if not ver.startswith("v"):
+                        ver = "v" + ver
+                    modname = f"MIID.miner.parse_query_gemini_safe_{ver}"
+                try:
+                    log.info(f"Running {modname} for {cache_key}")
+                    import importlib
+                    module = importlib.import_module(modname)
+                    importlib.reload(module)
+                    func = getattr(module, "query_parser")
+                    parsed_params = await func(
+                        query_text=query_text,
+                        max_retries=request.get("max_retries", 10)
+                    )
+                except Exception as e:
+                    import traceback
+                    traceback.print_exc()
+                    from MIID.miner.parse_query_gemini_safe import query_parser
+                    parsed_params = await query_parser(
+                        query_text=query_text,
+                        max_retries=request.get("max_retries", 10)
+                    )
                 # Cache the result
                 parsed_query_cache[cache_key] = {
                     "query_text": query_text,
@@ -217,36 +219,12 @@ async def lifespan(app: FastAPI):
     log.info("🚀 Starting nvgen service...")
     worker_task = asyncio.create_task(query_parse_worker())
     
-    # Start async task after service is ready
-    async def startup_task():
-        # Wait a bit for the service to be fully ready
-        await asyncio.sleep(2)
-        log.info("🎯 Running startup async task...")
-        try:
-            # await test()
-            log.info("✅ Startup task completed successfully")
-        except Exception as e:
-            import traceback
-            traceback.print_exc()
-            log.info(f"❌ Startup task failed: {e}")
-    
-    # Run startup task in background
-    startup_task_handle = asyncio.create_task(startup_task())
-    
     yield
     
     # Shutdown
     log.info("🛑 Shutting down nvgen service...")
     global worker_running
     worker_running = False
-    
-    # Cancel startup task if still running
-    if not startup_task_handle.done():
-        startup_task_handle.cancel()
-        try:
-            await startup_task_handle
-        except asyncio.CancelledError:
-            pass
     
     if worker_task:
         worker_task.cancel()
@@ -267,13 +245,48 @@ app = FastAPI(
 def run_single_generation(args):
     """Helper function for multiprocessing that generates variations for a single name"""
     i, name, query_params, timeout, key = args
-    from MIID.miner.generate_name_variations import generate_name_variations
-    return generate_name_variations(
-        original_name=name,
-        query_params=query_params,
-        timeout=timeout,
-        key=key
-    )
+    # Read version string from strategy.json file if exists, else use version v1
+    version = ""
+    try:
+        strategy_path = Path(os.path.dirname(__file__), "versions.json")
+        if strategy_path.exists():
+            with open(strategy_path, 'r') as f:
+                strategy_data = json.load(f)
+                version = strategy_data.get("versions", {"generator": strategy_data.get("version", "v1")}).get("generator", "")
+    except Exception as e:
+        # log.error(f"Error reading version.json: {e}")
+        pass
+    # Import the appropriate module dynamically based on version
+    if version in (None, "", "default", "v1"):
+        modname = "MIID.miner.generate_name_variations"
+    else:
+        # accept "v2" or "2", normalize to _v2
+        ver = str(version).lstrip("_")
+        if not ver.startswith("v"):
+            ver = "v" + ver
+        modname = f"MIID.miner.generate_name_variations_{ver}"
+    try:
+        log.info(f"Running {modname} for {name}")
+        import importlib
+        module = importlib.import_module(modname)
+        importlib.reload(module)
+        func = getattr(module, "generate_name_variations")
+        return func(
+            original_name=name,
+            query_params=query_params,
+            timeout=timeout,
+            key=key
+        )
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        from MIID.miner.generate_name_variations import generate_name_variations
+        return generate_name_variations(
+            original_name=name,
+            query_params=query_params,
+            timeout=timeout,
+            key=key
+        )
 
 def make_key(names: List[str], query_template: str) -> str:
     import hashlib
@@ -311,7 +324,9 @@ async def get_or_parse_query(query_text: str, max_retries: int = 10) -> Dict:
     event = asyncio.Event()
     query_processing_events[cache_key] = event
     
+    
     # Add to queue
+    
     await query_queue.put({
         "query_text": query_text,
         "event": event,
@@ -533,16 +548,22 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
     timeout = request.timeout
     task_key = make_key(names, query_template)
     start_at = time.time()
-    log.info(
-        f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
-        f"Start task for {task_key}, timeout:{timeout: .1f}s")
 
     if task_key in pending_requests:
         log.info(
             f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
-            f"Pending request hit for {task_key}")
+            f"Waiting pending request hit for {task_key}")
         await asyncio.wait_for(pending_requests[task_key].wait(), timeout=timeout)
-    if task_key in answer_candidate_cache:
+        if task_key in answer_candidate_cache:
+            log.info(
+                f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
+                f"Finished waiting pending request hit. Using cached answer candidate for {task_key}")
+            answer_candidate = answer_candidate_cache[task_key]
+
+    elif task_key in answer_candidate_cache:
+        log.info(
+            f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
+            f"Using cached answer candidate for {task_key}")
         answer_candidate = answer_candidate_cache[task_key]
     else:
         log.info(
@@ -554,8 +575,14 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
             answer_candidate = AnswerCandidateForNoisy(task_key, answer_candidate, validator_uid=request.validator_uid, query_template=query_template)
             answer_candidate_cache[task_key] = answer_candidate
             pending_requests[task_key].set()
+            log.info(
+                f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
+                f"Finished calculating answer candidate for {task_key}")
         except asyncio.TimeoutError:
             pending_requests[task_key].set()
+            log.info(
+                f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
+                f"Timeout waiting for pool generation for {task_key}")
             raise HTTPException(status_code=408, detail="Request timeout waiting for pool generation")
     
     answer, metric = answer_candidate.get_next_answer_for(request.miner_uid)

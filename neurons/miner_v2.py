@@ -101,7 +101,8 @@ class Miner(BaseMinerNeuron):
         "5Hmypa1isVpEwrQTYkGGKga54C13XnUj3fBJPHxH2etZkCF7": "Local Test Validator",
         "5DLLwfW9vw3c5Yw6V7FTPojMrojPsZyrHqrf9keusGMXcBUF": "Local Test Validator2",
         "5DZXBWkPedMDYoUrUNLA79naxrjZDCHseT5kfz9et3eeBMZU": "Local Test Validator3",
-        "5CZi3t7LBUEoUWTqtwQnbjTT2LYXtNpEmCerXS5ZagzMEj9d": "Local Test Validator4"
+        "5CZi3t7LBUEoUWTqtwQnbjTT2LYXtNpEmCerXS5ZagzMEj9d": "Local Test Validator4",
+        "5Ejk5HeFxruA61fSYE1pzupPf8893Fjq9EUDZxRKjSYG9oD2": "Testnet Validator"
     }
 
     def __init__(self, config=None):
@@ -121,7 +122,7 @@ class Miner(BaseMinerNeuron):
         self.output_path = os.path.join(self.config.logging.logging_dir, "mining_results")
         os.makedirs(self.output_path, exist_ok=True)
         bt.logging.info(f"Mining results will be saved to: {self.output_path}")
-        self.axon.verify_fns[IdentitySynapse.__name__] = self._verify_validator_request
+        # self.axon.verify_fns[IdentitySynapse.__name__] = self._verify_validator_request
         self.output_path = self.config.neuron.full_path
         bt.logging.info(f"NVGen url: {self.config.neuron.nvgen_url}")
 

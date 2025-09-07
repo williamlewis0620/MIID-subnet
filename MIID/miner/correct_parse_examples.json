@@ -572,5 +572,103 @@
                 "remove_random_consonant"
               ]
         }
+    },
+    {
+        "template": "GENERATE 9 NAME VARIATIONS OF {NAME}, ENSURING PHONETIC SIMILARITY (70% LIGHT TRANSPOSITIONS AND 30% MEDIUM METAPHONES) AND ORTHOGRAPHIC SIMILARITY (20% LIGHT SPELLINGS, 60% MEDIUM SPELLINGS WITH ONE CHARACTER DEVIATION, AND 20% FAR SPELLINGS WITH TWO OR MORE CHARACTER DEVIATIONS). APPROXIMATELY 10% OF THE TOTAL VARIATIONS SHOULD FOLLOW THESE RULE-BASED TRANSFORMATIONS: ADDITIONALLY, GENERATE VARIATIONS THAT: SUBSTITUTE A RANDOM CHARACTER; INSERT A RANDOM CHARACTER; REMOVE A RANDOM CHARACTER; SWAP RANDOM ADJACENT LETTERS.\n[VALIDATION HINTS]: Here is the name that you should generate variations of: {name}",
+        "label": {
+            "variation_count": 9,
+            "phonetic_similarity": {
+                "Light": 0.7,
+                "Medium": 0.3,
+                "Far": 0.0
+            },
+            "orthographic_similarity": {
+                "Light": 0.2,
+                "Medium": 0.6,
+                "Far": 0.2
+            },
+            "rule_percentage": 0.1,
+            "selected_rules": [
+                "swap_random_letter"
+            ]
+        }
+    },
+    {
+        "template": "Generate 15 variations of {name}, ensuring phonetic similarity (10% Light, e.g. {name}~L, 30% Medium, e.g. {name}~M, and 60% Far, e.g. {name}~~) and orthographic similarity (30% Light, e.g. {name}*1, 40% Medium, e.g. {name}*2, and 30% Far, e.g. {name}**). Approximately 29% of the total variations should follow these rule-based transformations: Additionally, generate variations that: \n- Replace {name} with a substring of itself (e.g., {name}[3]).\n- Insert random characters between letters in {name}.\n- Remove one random letter from {name}.\n[VALIDATION HINTS]: Apply these rule-based transformations: Swap random adjacent letters.",
+        "label": {
+            "variation_count": 15,
+            "phonetic_similarity": {
+                "Light": 0.1,
+                "Medium": 0.3,
+                "Far": 0.6
+            },
+            "orthographic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "rule_percentage": 0.29,
+            "selected_rules": [
+                "swap_random_letter"
+            ]
+        }
+    },
+    {
+        "template": "Generate 15 variations of {name}, ensuring phonetic similarity (10% Light, 30% Medium, 60% Far) and orthographic similarity (100% Medium). Approximately 32% of the total variations should follow these rule-based transformations: \n\nAdditionally, generate variations that:\n- Append ' Jr' or 'Sr' to {name}\n- Replace first letter with a similar-sounding letter\n- Change middle name to 'Michael'\n- Remove last name from {name} \n- Insert numbers into {name}\n- Convert name to initials.",
+        "label": {
+            "variation_count": 15,
+            "phonetic_similarity": {
+                "Light": 0.1,
+                "Medium": 0.3,
+                "Far": 0.6
+            },
+            "orthographic_similarity": {
+                "Medium": 1.0
+            },
+            "rule_percentage": 0.32,
+            "selected_rules": [
+                "shorten_name_to_initials"
+            ]
+        }
+    },
+    {
+        "template": "Generate exactly 6 variations of {name}, ensuring phonetic similarity with a distribution of 10% Light, 30% Medium, and 60% Far, and orthographic similarity with a distribution of 50% Light and 50% Medium. Approximately 25% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Transpose adjacent consonant sounds, Replace 'c' with 'k', Replace 'v' with 'b', Remove vowels in the middle, Add 'Mc' prefix to names starting with a vowel, and Swap adjacent syllables.",
+        "label": {
+            "variation_count": 6,
+            "phonetic_similarity": {
+                "Light": 0.1,
+                "Medium": 0.3,
+                "Far": 0.6
+            },
+            "orthographic_similarity": {
+                "Light": 0.5,
+                "Medium": 0.5,
+                "Far": 0.0
+            },
+            "rule_percentage": 0.25,
+            "selected_rules": [
+                "swap_adjacent_syllables"
+            ]
+        }
+    },
+    {
+        "template": "Generate 11 variations of {name}, ensuring phonetic similarity (20% Light, 60% Medium, 20% Far) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 55% of the total variations should follow these rule-based transformations: \n- Add a randomly selected prefix to {name}.\n- Remove the first letter from {name}.\n- Replace the first vowel in {name} with a random digit.\n- Swap the positions of two random letters within {name}.\n- Change the case (lowercase to uppercase or vice versa) for exactly 2 characters in {name}.\n- Transpose adjacent repeated letters in {name}.\n- Add \" Junior\" or \" Sr.\" suffixes randomly.\n- Remove any non-alphanumeric characters from {name}.\n- Replace one random letter in {name} with a number from the alphabet (A = 1, B = 2, etc.).\n- Insert a random word between two words in {name}, if applicable.\n- Replace a single middle name (if present) with initials.\n\nAdditionally, generate variations that: Swap random adjacent letters.",
+        "label": {
+            "variation_count": 11,
+            "phonetic_similarity": {
+                "Light": 0.2,
+                "Medium": 0.6,
+                "Far": 0.2
+            },
+            "orthographic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "rule_percentage": 0.55,
+            "selected_rules": [
+                "swap_random_letter"
+            ]
+        }
     }
 ]
