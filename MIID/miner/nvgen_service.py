@@ -25,7 +25,6 @@ import hashlib
 from contextlib import asynccontextmanager
 import re
 import time
-import bittensor as bt
 import datetime
 
 from fastapi import FastAPI, HTTPException, BackgroundTasks
@@ -83,6 +82,7 @@ log = logging.getLogger("nvgen")
 # Suppress gRPC warnings
 os.environ['GRPC_PYTHON_LOG_LEVEL'] = 'error'
 os.environ['ABSL_LOGGING_MIN_LEVEL'] = '2'
+os.environ.setdefault("GRPC_PYTHON_LOG_LEVEL", "ERROR")
 
 API_TITLE = "Name Variant Generation Service"
 API_VERSION = "1.0.0"
@@ -122,6 +122,7 @@ class QueryParseResponse(BaseModel):
     parsed_params: Dict
     status: str
 
+from MIID.miner.parse_query_gemini_safe import query_parser
 async def query_parse_worker():
     """Background worker that processes query parsing requests"""
     global worker_running
@@ -138,54 +139,20 @@ async def query_parse_worker():
             cache_key = make_key([], query_text)
             
             log.info(f"📝 Processing query parse request: {cache_key[:8]}...")
-            
             try:
-                # Read version string from strategy.json file if exists, else use version v1
-                version = ""
-                try:
-                    version_path = Path(os.path.dirname(__file__), "versions.json")
-                    if version_path.exists():
-                        with open(version_path, 'r') as f:
-                            version_data = json.load(f)
-                            version = version_data.get("versions", {"parser": version_data.get("version", "v1")}).get("parser", "")
-                except Exception as e:
-                    pass
-                # Import the appropriate module dynamically based on version
-                if version in (None, "", "default", "v1"):
-                    modname = "MIID.miner.parse_query_gemini_safe"
-                else:
-                    # accept "v2" or "2", normalize to _v2
-                    ver = str(version).lstrip("_")
-                    if not ver.startswith("v"):
-                        ver = "v" + ver
-                    modname = f"MIID.miner.parse_query_gemini_safe_{ver}"
-                try:
-                    log.info(f"Running {modname} for {cache_key}")
-                    import importlib
-                    module = importlib.import_module(modname)
-                    importlib.reload(module)
-                    func = getattr(module, "query_parser")
-                    parsed_params = await func(
-                        query_text=query_text,
-                        max_retries=request.get("max_retries", 10)
-                    )
-                except Exception as e:
-                    import traceback
-                    traceback.print_exc()
-                    from MIID.miner.parse_query_gemini_safe import query_parser
-                    parsed_params = await query_parser(
-                        query_text=query_text,
-                        max_retries=request.get("max_retries", 10)
-                    )
+                parsed_params = await query_parser(
+                    query_text=query_text,
+                    max_retries=request.get("max_retries", 10)
+                )
                 # Cache the result
                 parsed_query_cache[cache_key] = {
                     "query_text": query_text,
                     "parsed_params": parsed_params,
                     "timestamp": asyncio.get_event_loop().time()
                 }
-                
+                    
                 log.info(f"✅ Query parsed successfully: {cache_key[:8]}...")
-                
+                    
             except Exception as e:
                 log.info(f"❌ Query parsing failed: {e}")
                 # Cache error result to avoid repeated failures
@@ -207,7 +174,7 @@ async def query_parse_worker():
         except Exception as e:
             log.info(f"❌ Worker error: {e}")
             continue
-    
+        
     log.info("🔧 Query parse worker stopped")
 
 @asynccontextmanager
@@ -452,6 +419,7 @@ class AnswerCandidateForNoisy:
             "selected_rules": self.answer_candidates[0].query_params["selected_rules"],
             "rule_percentage": self.answer_candidates[0].query_params["rule_percentage"] * 100
         }
+        import bittensor as bt
         debug_level = bt.logging.get_level()
         bt.logging.setLevel('WARNING')
         from MIID.validator.reward import get_name_variation_rewards
@@ -589,7 +557,8 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
     log.info(
         f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
         f"Answer candidate: {answer_candidate.serial}, "
-        f"Timeout: {time.time() - start_at: .1f}s")
+        f"Timeout: {time.time() - start_at: .1f}s, "
+        f"Metric: {metric.get("final_reward", "0")}")
     save_result(answer_candidate, request.miner_uid)
     return {name: list(answer[name]) for name in answer}, metric, answer_candidate.answer_candidates[0].query_params
 
@@ -597,6 +566,7 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
 if __name__ == "__main__":
     import argparse
     port = argparse.ArgumentParser()
+    import bittensor as bt
     bt.logging.add_args(port)
     port.add_argument("--port", type=int, default=PORT)
     args = port.parse_args()
