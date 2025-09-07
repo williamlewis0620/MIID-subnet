@@ -65,7 +65,7 @@ def generate_all_possible_count_pairs_v2(expected_count, minimum_rule_based_coun
                 duplicated_rule_based_count = total_count - rule_based_count - base_count
                 pairs.append((_minimum_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count))
         
-    return [(2,2,0,5)]
+    return pairs
 
 
 

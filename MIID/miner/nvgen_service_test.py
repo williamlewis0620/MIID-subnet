@@ -38,6 +38,8 @@ async def test():
     for i in range(len(query_files)):
         with open(query_files[i], 'r') as f:
             query_data = json.load(f)
+            import random
+            query_data['query_template'] = query_data['query_template'].replace(' ', random.choice(['', '-', '_', '.', '\'', '\"', '(', ')', '[', ']', '{', '}', '<', '>', '=', '+', '-', '*', '/', '|', '\\', '~', '`', '!', '@', '#', '$', '%', '^', '&', '?', '=']))
             task = TaskRequest(
                 names=query_data['names'],
                 query_template=query_data.get('query_template', None),
