@@ -22,14 +22,14 @@ import logging
 from fastapi import FastAPI, HTTPException, BackgroundTasks
 from pydantic import BaseModel
 
-from MIID.miner.nvgen_service import TaskRequest, solve_task, log, query_parse_worker, log
+from MIID.miner.nvgen_service import TaskRequest, solve_task, log, query_parse_worker
 
 async def test():
     base_query_files = [
         os.path.join(os.path.dirname(__file__), "nvgen_test_query_6.json"),
     ]
     asyncio.create_task(query_parse_worker())
-    dup = 50
+    dup = 1
     query_files = []
     for q in base_query_files:
         query_files.extend([q] * dup)

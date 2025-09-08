@@ -799,7 +799,7 @@ def generate_name_variations(
         expected_total_count,
         len(cand_minrequired_rule_varset),
         rule_percentage,
-        orthographic_similarity
+        phonetic_similarity
     )
     logger.info(f"Rule count pairs: {rule_count_pairs}")
     
@@ -843,12 +843,13 @@ def generate_name_variations(
         if not cand:
             continue
         logger.debug(f"\n{json.dumps(cand.metric, indent=4)}")
-        fmt4 = f"{cand.scores:.4f}"
-        if fmt4 not in bucket_cand:
-            bucket_cand[fmt4] = []
-        bucket_cand[fmt4].append(cand)
-        if fmt4 not in scores:
-            scores.append(fmt4)
+        # precision from 4->2 : orthographic's minor difference is not significant, instead focus on phonetic similarity
+        fmt2 = f"{cand.scores:.2f}" # 2 decimal places
+        if fmt2 not in bucket_cand:
+            bucket_cand[fmt2] = []
+        bucket_cand[fmt2].append(cand)
+        if fmt2 not in scores:
+            scores.append(fmt2)
         # if cand.scores - best_cand.scores >= 0.001:
         #     best_cand = cand
     scores.sort()

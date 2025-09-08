@@ -232,7 +232,7 @@ def encode_config_key(target):
     return "".join(digits)
 
 
-def generate_all_possible_count_pairs_v2(expected_count, minimum_rule_based_count, rule_percent, orthograph_similarity) -> list[Tuple[int, int]]:
+def generate_all_possible_count_pairs_v2(expected_count, minimum_rule_based_count, rule_percent, phonetic_similarity) -> list[Tuple[int, int]]:
     expected_base_count = expected_count * (1.0 - rule_percent)
     base_tolerance = 0.2  # 20% base tolerance
     tolerance = base_tolerance + (0.05 * (expected_base_count // 10))  # Add 5% per 10 expected variations
@@ -250,14 +250,14 @@ def generate_all_possible_count_pairs_v2(expected_count, minimum_rule_based_coun
     # strategy1: focus on expected_base_count
     base_range_count_score_1 = list(range(lower_bound, upper_bound + 1))
     base_range_count_score_0_9 = list(range(int(lower_bound * 0.5), lower_bound)) + list(range(upper_bound + 1, int(upper_bound * 1.5) + 1))
-    # strategy2: focus on orthographic similarity
-    min_orth_similarity = min(orthograph_similarity.values())
-    config_key = encode_config_key(orthograph_similarity)
+    # strategy2: focus on phonetic similarity
+    min_phonetic_similarity = min(phonetic_similarity.values())
+    config_key = encode_config_key(phonetic_similarity)
     ordered_list = order_candidates(config_key, base_range_count_score_0_9, Ordered) + order_candidates(config_key, base_range_count_score_1, Ordered)
     
 
     for base_count, level, counts, rank in ordered_list:
-        for total_count in range(4, 50):
+        for total_count in range(base_count, 50):
             # for rule_based_count in range(int(total_count * rule_percent * 0.5), int(total_count * rule_percent * 1.5) + 1):
             # rule_base_count can be defined unique by total_count
             rule_based_count = int(total_count * rule_percent)
@@ -266,6 +266,8 @@ def generate_all_possible_count_pairs_v2(expected_count, minimum_rule_based_coun
                 continue
             additional_rule_based_count = rule_based_count - _minimum_rule_based_count
             duplicated_rule_based_count = total_count - rule_based_count - base_count
+            if duplicated_rule_based_count < 0:
+                continue
             pairs.append((_minimum_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count, total_count))
         
     return pairs
