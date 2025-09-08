@@ -670,5 +670,25 @@
                 "swap_random_letter"
             ]
         }
+    },
+    {
+        "template": "SELECT * FROM ExecutionVectors AS EV \nWHERE EV.Type = 'SanctionsScreening'\nAND EV.Name LIKE '{name}' \nAND EV.SimilarityPhonetic IN ('Light', 'Medium', 'Far') \nAND EV.SimilarityOrthographic IN ('Light', 'Medium', 'Far')\nAND EV.RulesBasedTransformation IN (\n  SELECT RuleBasedTransformation\n  FROM SanctionsScreeningRules\n  WHERE RuleBasedTransformation IN ('RemoveRandomVowel')\n)\n[VALIDATION HINTS]: Exact number of variations: 6.; Phonetic similarity: 10% Light.; Orthographic similarity: 30% Light.; Approximately 43% of the variations should follow rule-based transformations.; Phonetic similarity: 10% Light, 30% Medium, 60% Far.; Orthographic similarity: 30% Far, 30% Light, 40% Medium.; Apply these rule-based transformations: Remove a random vowel.",
+        "label": {
+            "variation_count": 6,
+            "phonetic_similarity": {
+                "Light": 0.1,
+                "Medium": 0.3,
+                "Far": 0.6
+            },
+            "orthographic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "rule_percentage": 0.43,
+            "selected_rules": [
+                "remove_random_vowel"
+            ]
+        }
     }
 ]

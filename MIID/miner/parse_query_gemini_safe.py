@@ -334,9 +334,37 @@ def _normalize_llm_result(obj: Dict[str, Any], query_text: str) -> Dict[str, Any
             result["phonetic_similarity"]["Medium"] = 0.6
             result["phonetic_similarity"]["Far"] = 0.2
 
+        if result["phonetic_similarity"]["Light"] == 0.1:
+            result["phonetic_similarity"]["Medium"] = 0.5
+            result["phonetic_similarity"]["Far"] = 0.4
+
         if result["phonetic_similarity"]["Light"] == 0.7:
             result["phonetic_similarity"]["Medium"] = 0.3
             result["phonetic_similarity"]["Far"] = 0.0
+
+        if result["phonetic_similarity"]["Light"] + result["phonetic_similarity"]["Medium"] + result["phonetic_similarity"]["Far"]  == 0.0:
+            result["phonetic_similarity"]["Light"] = 0.0
+            result["phonetic_similarity"]["Medium"] = 0.0
+            result["phonetic_similarity"]["Far"] = 0.0
+
+    if result["orthographic_similarity"]["Light"] + result["orthographic_similarity"]["Medium"] + result["orthographic_similarity"]["Far"] < 1.0:
+        if result["orthographic_similarity"]["Light"] == 0.2:
+            result["orthographic_similarity"]["Medium"] = 0.6
+            result["orthographic_similarity"]["Far"] = 0.2
+
+        if result["orthographic_similarity"]["Light"] == 0.1:
+            result["orthographic_similarity"]["Medium"] = 0.5
+            result["orthographic_similarity"]["Far"] = 0.4
+
+        if result["orthographic_similarity"]["Light"] == 0.7:
+            result["orthographic_similarity"]["Medium"] = 0.3
+            result["orthographic_similarity"]["Far"] = 0.0
+
+        if result["orthographic_similarity"]["Light"] + result["orthographic_similarity"]["Medium"] + result["orthographic_similarity"]["Far"]  == 0.0:
+            result["orthographic_similarity"]["Light"] = 0.0
+            result["orthographic_similarity"]["Medium"] = 0.0
+            result["orthographic_similarity"]["Far"] = 0.0
+
     return result
 
 
