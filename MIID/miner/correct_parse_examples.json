@@ -712,5 +712,25 @@
                 "replace_double_letters_with_single_letter"
             ]
         }
+    },
+    {
+        "template": "Here is the query template:\n\n\"Generate exactly 14 variations of {name}, ensuring phonetic similarity (70% Light, 30% Medium) and orthographic similarity (100% Light). Approximately 44% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace double letters with a single letter.\"",
+        "label": {
+            "variation_count": 14,
+            "phonetic_similarity": {
+                "Light": 0.7,
+                "Medium": 0.3,
+                "Far": 0.0
+            },
+            "orthographic_similarity": {
+                "Light": 1.0,
+                "Medium": 0.0,
+                "Far": 0.0
+            },
+            "rule_percentage": 0.44,
+            "selected_rules": [
+                "replace_double_letters_with_single_letter"
+            ]
+        }
     }
 ]
