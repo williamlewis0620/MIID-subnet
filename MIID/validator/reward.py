@@ -874,7 +874,7 @@ def get_name_variation_rewards(
             },
             "completeness_multiplier": 1.0,
             "name_metrics": {},
-            "invalid_names": [],
+             "invalid_names": [],
             "missing_names": []
         }
         

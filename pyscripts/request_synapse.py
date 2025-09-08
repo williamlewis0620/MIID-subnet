@@ -11,10 +11,10 @@ async def test_identity_synapse():
     import argparse
     parser = argparse.ArgumentParser()
     bt.logging.add_args(parser)
-    parser.add_argument("--query_file", type=str, default=os.path.join(os.path.dirname(__file__), "hard_tasks/1.json"))
+    parser.add_argument("--query_file", type=str, default=os.path.join(os.path.dirname(__file__), "hard_tasks/17bf13.json"))
     args = parser.parse_args()
-    subtensor = bt.subtensor(network="test")
-    metagraph = subtensor.metagraph(261)  # Using netuid 91 as in original test
+    subtensor = bt.subtensor(network="finney")
+    metagraph = subtensor.metagraph(54)  # Using netuid 91 as in original test
     wallet = bt.wallet(name="test", hotkey="miner")
     query_file = args.query_file
     with open(query_file, 'r') as f:
@@ -31,7 +31,10 @@ async def test_identity_synapse():
     # test_uid = 37 # 5H1jrSmC49vbTbXe8s68xBxHN6djqWQmpvEa8vTLCpfrUfJt
     # test_uid = 246 # 5CysjkSsSS3D8w5Ap61URozFPwBUFPjH7q7wEtqAEXJ5eEW9
     # test_uid = 163 # 5HmoxRai5fq9xjRQnH1Nz8nkgC7K26gxH5AmbVS9GY2GFUX4 
-    test_uid = 100 # 5FZo testnet
+    # test_uid = 14 # 5EWQ
+    # test_uid = 138 # 5DHQ
+    # test_uid = 41 # 5Hqjr
+    test_uid = 128 # 5Ct2
     coldkey = metagraph.axons[test_uid].coldkey
     try:
         async with bt.dendrite(wallet=wallet) as dendrite:
@@ -48,7 +51,9 @@ async def test_identity_synapse():
             
             bt.logging.info(f"Testing with validator UID={test_uid}, Hotkey={axon.hotkey}")
             
-            synapse.dendrite.hotkey = "5Ejk5HeFxruA61fSYE1pzupPf8893Fjq9EUDZxRKjSYG9oD2"
+            
+            # synapse.dendrite.hotkey = "5Ejk5HeFxruA61fSYE1pzupPf8893Fjq9EUDZxRKjSYG9oD2" # testnet
+            synapse.dendrite.hotkey = "5C4qiYkqKjqGDSvzpf6YXCcnBgM6punh8BQJRP78bqMGsn54"
             # Send the query
             bt.logging.info(f"Sending query to validator UID={test_uid}, axon={axon}")
             response = await dendrite(
