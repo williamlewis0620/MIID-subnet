@@ -14,7 +14,7 @@ import httpx
 import time
 
 from MIID.miner.custom_logger import CustomLogger
-from MIID.miner.generate_possible_count_pairs import generate_possible_count_pairs, generate_all_possible_count_pairs, generate_all_possible_count_pairs_v2
+from MIID.miner.generate_possible_count_pairs_v2 import generate_all_possible_count_pairs_v2
 from MIID.miner.rule_based_transformations import RULE_BASED_TRANSFORMATIONS
 from MIID.miner.rule_based_transformations import RULE_BASED_TRANSFORMATIONS_COMBINED
 from MIID.validator.reward import calculate_variation_quality, calculate_orthographic_similarity
@@ -651,7 +651,7 @@ def try_once(
     first_name: str,
     last_name: str,
     name_pools: Dict[str, List[str]],
-    total_count: int,
+    expected_total_count: int,
     minimal_rule_based_count: int,
     additional_rule_based_count: int,
     duplicated_rule_based_count: int,
@@ -713,7 +713,7 @@ def try_once(
             seed_names=[original_name], 
             responses=responses,
             uids=[0],
-            variation_count=total_count,
+            variation_count=expected_total_count,
             phonetic_similarity=phonetic_similarity,
             orthographic_similarity=orthographic_similarity,
             rule_based=rule_based,
@@ -723,7 +723,7 @@ def try_once(
             seed_names=[original_name], 
             responses=responses,
             uids=[0],
-            variation_count=total_count,
+            variation_count=expected_total_count,
             phonetic_similarity=phonetic_similarity,
             orthographic_similarity=orthographic_similarity,
             rule_based=rule_based,
@@ -741,7 +741,7 @@ def generate_name_variations(
     timeout: int = 100
 ) -> List[str]:
 
-    total_count=int(query_params.get("variation_count") or 0)
+    expected_total_count=int(query_params.get("variation_count") or 0)
     rule_percentage=float(query_params.get("rule_percentage") or 0.0)
     selected_rules=list(query_params.get("selected_rules") or [])
     phonetic_similarity=query_params.get("phonetic_similarity")
@@ -790,13 +790,13 @@ def generate_name_variations(
 
     # # Get all possible rule count pairs
     # rule_count_pairs = generate_possible_count_pairs(
-    #     total_count,
+    #     expected_total_count,
     #     rule_percentage,
     #     orthographic_similarity,
     #     len(effective_rules)
     # )
     rule_count_pairs = generate_all_possible_count_pairs_v2(
-        total_count,
+        expected_total_count,
         len(cand_minrequired_rule_varset),
         rule_percentage,
         orthographic_similarity
@@ -809,10 +809,10 @@ def generate_name_variations(
 
     from tqdm import tqdm
     # for i, (rule_count, nonrule_count) in tqdm(enumerate(rule_count_pairs), desc=f"Processing {original_name}"):
-    for i, (minimal_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count) in enumerate(rule_count_pairs):
+    for i, (minimal_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count, total_count) in enumerate(rule_count_pairs):
         logger.info(
             f"-" * 30 +
-            f"Trying rule_count_pair {i+1} / {len(rule_count_pairs)}: minimal_rule_based_count/additional_rule_based_count/duplicated_rule_based_count/base_count: {minimal_rule_based_count}/{additional_rule_based_count}/{duplicated_rule_based_count}/{base_count}" +
+            f"Trying rule_count_pair {i+1} / {len(rule_count_pairs)}: minimal_rule_based_count/additional_rule_based_count/duplicated_rule_based_count/base_count: {minimal_rule_based_count}/{additional_rule_based_count}/{duplicated_rule_based_count}/{base_count}/{total_count}" +
             "-" * 30
         )
         if time.time() > timeout_at:
@@ -822,7 +822,7 @@ def generate_name_variations(
             first_name,
             last_name,
             name_pools,
-            total_count,
+            expected_total_count,
             minimal_rule_based_count,
             additional_rule_based_count,
             duplicated_rule_based_count,

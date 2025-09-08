@@ -558,7 +558,7 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
         f"Miner {request.miner_uid} (validator: {request.validator_uid}, task:{task_key}): "
         f"Answer candidate: {answer_candidate.serial}, "
         f"Timeout: {time.time() - start_at: .1f}s, "
-        f"Metric: {metric.get("final_reward", "0")}")
+        f"Metric: {metric.get('final_reward', '0')}")
     save_result(answer_candidate, request.miner_uid)
     return {name: list(answer[name]) for name in answer}, metric, answer_candidate.answer_candidates[0].query_params
 
