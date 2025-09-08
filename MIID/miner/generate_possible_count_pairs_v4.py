@@ -232,7 +232,7 @@ def encode_config_key(target):
     return "".join(digits)
 
 
-def generate_all_possible_count_pairs_v3(expected_count, minimum_rule_based_count, rule_percent, phonetic_similarity) -> list[Tuple[int, int]]:
+def generate_all_possible_count_pairs_v4(expected_count, minimum_rule_based_count, rule_percent, phonetic_similarity) -> list[Tuple[int, int]]:
     expected_base_count = expected_count * (1.0 - rule_percent)
     base_tolerance = 0.2  # 20% base tolerance
     tolerance = base_tolerance + (0.05 * (expected_base_count // 10))  # Add 5% per 10 expected variations
