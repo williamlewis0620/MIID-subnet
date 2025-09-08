@@ -690,5 +690,27 @@
                 "remove_random_vowel"
             ]
         }
+    },
+    {
+        "template": "SELECT * FROM executions WHERE id IN (SELECT id FROM targets) AND name = '{name}' AND similarity_type = 'phonetic' ORDER BY random() LIMIT 9; \n\n UNION ALL \n\nSELECT * FROM executions WHERE id IN (SELECT id FROM targets) AND name = '{name}' AND similarity_type = 'orthographic' ORDER BY random() LIMIT 9;\n\nSELECT * FROM executions WHERE id IN (SELECT id FROM targets) AND name = '{name}' AND transformation IN ('abbreviate_name_part', 'swap_adjacent_syllables', 'replace_double_letters') AND probability > 0.6;\n[VALIDATION HINTS]: Phonetic similarity: 30% Light.; Orthographic similarity: 30% Light.; Approximately 60% of the variations should follow rule-based transformations. Apply these rule-based transformations: Abbreviate name parts; Replace double letters with a single letter.",
+        "label": {
+            "variation_count": 9,
+            "phonetic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "orthographic_similarity": {
+                "Light": 0.3,
+                "Medium": 0.4,
+                "Far": 0.3
+            },
+            "rule_percentage": 0.6,
+            "selected_rules": [
+                "shorten_name_to_abbreviations",
+                "swap_adjacent_syllables",
+                "replace_double_letters_with_single_letter"
+            ]
+        }
     }
 ]
