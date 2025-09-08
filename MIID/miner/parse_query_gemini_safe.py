@@ -343,9 +343,9 @@ def _normalize_llm_result(obj: Dict[str, Any], query_text: str) -> Dict[str, Any
             result["phonetic_similarity"]["Far"] = 0.0
 
         if result["phonetic_similarity"]["Light"] + result["phonetic_similarity"]["Medium"] + result["phonetic_similarity"]["Far"]  == 0.0:
-            result["phonetic_similarity"]["Light"] = 0.0
-            result["phonetic_similarity"]["Medium"] = 0.0
-            result["phonetic_similarity"]["Far"] = 0.0
+            result["phonetic_similarity"]["Light"] = 0.3
+            result["phonetic_similarity"]["Medium"] = 0.4
+            result["phonetic_similarity"]["Far"] = 0.3
 
     if result["orthographic_similarity"]["Light"] + result["orthographic_similarity"]["Medium"] + result["orthographic_similarity"]["Far"] < 1.0:
         if result["orthographic_similarity"]["Light"] == 0.2:
@@ -361,9 +361,9 @@ def _normalize_llm_result(obj: Dict[str, Any], query_text: str) -> Dict[str, Any
             result["orthographic_similarity"]["Far"] = 0.0
 
         if result["orthographic_similarity"]["Light"] + result["orthographic_similarity"]["Medium"] + result["orthographic_similarity"]["Far"]  == 0.0:
-            result["orthographic_similarity"]["Light"] = 0.0
-            result["orthographic_similarity"]["Medium"] = 0.0
-            result["orthographic_similarity"]["Far"] = 0.0
+            result["orthographic_similarity"]["Light"] = 0.3
+            result["orthographic_similarity"]["Medium"] = 0.4
+            result["orthographic_similarity"]["Far"] = 0.3
 
     return result
 
@@ -376,8 +376,8 @@ def parse_query_sync_safe(query_text: str, max_retries: int = 3) -> Dict[str, An
         # Fallback to default values if no client available
         return {
             "variation_count": 10,
-            "phonetic_similarity": {"Light": 1.0, "Medium": 0.0, "Far": 0.0},
-            "orthographic_similarity": {"Light": 1.0, "Medium": 0.0, "Far": 0.0},
+            "phonetic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
+            "orthographic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
             "rule_percentage": 0,
             "selected_rules": [],
         }
@@ -407,9 +407,9 @@ def parse_query_sync_safe(query_text: str, max_retries: int = 3) -> Dict[str, An
     
     # Return default values if all attempts failed
     return {
-        "variation_count": 5,
-        "phonetic_similarity": {"Light": 1.0, "Medium": 0.0, "Far": 0.0},
-        "orthographic_similarity": {"Light": 1.0, "Medium": 0.0, "Far": 0.0},
+        "variation_count": 10,
+        "phonetic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
+        "orthographic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
         "rule_percentage": 0.0,
         "selected_rules": [],
     }
