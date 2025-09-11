@@ -18,7 +18,7 @@ import logging
 import requests
 import threading
 from MIID.validator.rule_extractor import RULE_DESCRIPTIONS
-from typing import Set
+from collections import Counter, defaultdict
 logger = logging.getLogger(__name__)
 
 # Suppress gRPC warnings
@@ -28,59 +28,57 @@ os.environ['ABSL_LOGGING_MIN_LEVEL'] = '2'
 # Thread-local storage for Gemini clients
 _thread_local = threading.local()
 
-# Reverse map: description -> rule_name for easy lookup (lowercased)
-DESCRIPTION_TO_RULE: Dict[str, str] = {
-    description.lower(): rule_name for rule_name, description in RULE_DESCRIPTIONS.items()
+_IGNORED_WORDS = {
+    # Articles
+    "a", "an", "the",
+    # Common prepositions/conjunctions often inserted without changing meaning
+    "in", "on", "at", "to", "for", "with", "by", "of", "from", "into",
+    "onto", "upon", "over", "under", "between", "among", "about", "around",
+    "after", "before", "within", "without", "across", "through", "per",
+    "via", "as", "like", "and", "or"
 }
 
-# Lightweight stopword list to allow matching with reordered words and inserted prepositions/articles
-_STOPWORDS: Set[str] = {
-    "a", "an", "the", "of", "in", "on", "at", "to", "for", "with", "by", "from",
-    "into", "onto", "over", "under", "between", "among", "about", "as", "than", "like",
-    "around", "across", "after", "before", "during", "without", "within", "upon", "off",
-}
+def _normalize_and_tokenize(text: str, remove_braces: bool = False) -> List[str]:
+    """Lowercase, remove braces if requested, strip punctuation, split into tokens, and drop ignored words."""
+    if remove_braces:
+        text = text.replace("{", " ").replace("}", " ")
+    # Replace any non-alphanumeric (unicode word chars) with space
+    text = re.sub(r"[^\w]+", " ", text.lower())
+    tokens = [t for t in text.split() if t and t not in _IGNORED_WORDS]
+    return tokens
 
-def _tokenize_content_words(text: str) -> List[str]:
-    """Lowercase, remove braces and punctuation, split to tokens, drop stopwords.
+def _select_rules_from_query(query_text: str) -> List[str]:
+    """Select rule IDs whose description tokens (order-agnostic, ignoring prepositions/articles) are present in the query.
 
-    Used to detect description strings in the query even when word order changes or
-    prepositions/articles are inserted.
+    - Removes '{' and '}' from the query during comparison.
+    - Allows different word orders and insertion of common prepositions/articles.
+    - Returns up to 3 IDs ordered by first appearance of any description token in the query.
     """
-    # Remove braces only from the input text (query side may contain placeholders like {name})
-    text = text.replace("{", " ").replace("}", " ")
-    text = text.lower()
-    # Keep alphanumerics as tokens, treat others as separators
-    tokens = re.findall(r"[a-z0-9]+", text)
-    return [t for t in tokens if t not in _STOPWORDS]
+    query_tokens = _normalize_and_tokenize(query_text, remove_braces=True)
+    if not query_tokens:
+        return []
 
-def _description_matches_query(description: str, query_text: str) -> bool:
-    """Check if a rule description is present in the query text.
+    query_counts = Counter(query_tokens)
+    token_positions: Dict[str, List[int]] = defaultdict(list)
+    for idx, tok in enumerate(query_tokens):
+        token_positions[tok].append(idx)
 
-    Matching strategy:
-    1) Case-insensitive substring check after removing braces from query and collapsing spaces
-    2) Content-word token subset check (ignoring order and common prepositions/articles)
-    """
-    # Fast path: normalized substring
-    desc_norm = re.sub(r"\s+", " ", description.strip().lower())
-    query_norm = query_text.replace("{", " ").replace("}", " ")
-    query_norm = re.sub(r"\s+", " ", query_norm.strip().lower())
-    if desc_norm and desc_norm in query_norm:
-        return True
-
-    # Content-word subset match
-    desc_tokens = _tokenize_content_words(description)
-    if not desc_tokens:
-        return False
-    query_tokens = set(_tokenize_content_words(query_text))
-    return all(tok in query_tokens for tok in desc_tokens)
-
-def _find_rules_from_query(query_text: str) -> List[str]:
-    """Scan all RULE_DESCRIPTIONS and return rule IDs whose descriptions match the query."""
-    matched: List[str] = []
+    matches: List[tuple[int, str]] = []  # (first_position, rule_id)
     for rule_id, description in RULE_DESCRIPTIONS.items():
-        if _description_matches_query(description, query_text):
-            matched.append(rule_id)
-    return matched
+        desc_tokens = _normalize_and_tokenize(str(description), remove_braces=True)
+        if not desc_tokens:
+            continue
+        desc_counts = Counter(desc_tokens)
+        # Multiset containment check
+        if all(query_counts.get(tok, 0) >= count for tok, count in desc_counts.items()):
+            # Determine earliest occurrence index for ordering
+            earliest_positions = [token_positions[tok][0] for tok in desc_counts.keys() if tok in token_positions]
+            first_pos = min(earliest_positions) if earliest_positions else len(query_tokens)
+            matches.append((first_pos, rule_id))
+
+    matches.sort(key=lambda x: x[0])
+    # Return up to 3 rule IDs
+    return [rule_id for _, rule_id in matches[:3]]
 
 def _get_api_keys() -> List[str]:
     """Get API keys from environment variables"""
@@ -257,9 +255,8 @@ def _extract_json_from_text(text: str) -> Optional[Dict[str, Any]]:
     return None
 
 
-def _normalize_llm_result(obj: Dict[str, Any], query_text: str) -> Dict[str, Any]:
+def _normalize_llm_result(obj: Dict[str, Any]) -> Dict[str, Any]:
     """Normalize the LLM JSON into the expected dictionary structure."""
-    
     result: Dict[str, Any] = {
         "variation_count": None,
         "phonetic_similarity": {},
@@ -292,26 +289,12 @@ def _normalize_llm_result(obj: Dict[str, Any], query_text: str) -> Dict[str, Any
     result["phonetic_similarity"] = normalize_distribution(obj.get("phonetic_similarity", {}))
     result["orthographic_similarity"] = normalize_distribution(obj.get("orthographic_similarity", {}))
 
-    # Rules: start from LLM-provided identifiers if valid
+    # Rules: expect identifiers only; drop anything not in allowed list
     selected_rules: List[str] = []
     if isinstance(obj.get("rule_based_rules"), list):
         for item in obj["rule_based_rules"]:
-            # Get description for this rule item
-            description = RULE_DESCRIPTIONS.get(item, "")
-            if _description_matches_query(description, query_text):
+            if isinstance(item, str) and item in RULE_DESCRIPTIONS:
                 selected_rules.append(item)
-
-    # Also detect rules directly from the query by matching descriptions (with flexible comparison)
-    # detected_from_query = _find_rules_from_query(query_text)
-    # for rid in detected_from_query:
-    #     # if rid not in selected_rules:
-    #     selected_rules.append(rid)
-    if not selected_rules:
-        selected_rules = [
-            "remove_random_consonant",
-            "replace_random_vowel_with_random_vowel",
-            "replace_spaces_with_random_special_characters"
-        ]
     result["selected_rules"] = selected_rules
 
     rp = obj.get("rule_percentage")
@@ -321,50 +304,10 @@ def _normalize_llm_result(obj: Dict[str, Any], query_text: str) -> Dict[str, Any
             rp = (len(selected_rules) + 0.1) / result["variation_count"]
         
         result["rule_percentage"] = min(0.6, float(rp) / 100.0 if rp > 1 else float(rp))
-    # warn with 0.09, 0.64, ...
-    result["orthographic_similarity"]["Light"] = round(result["orthographic_similarity"]["Light"], 1)
-    result["orthographic_similarity"]["Medium"] = round(result["orthographic_similarity"]["Medium"], 1)
-    result["orthographic_similarity"]["Far"] = round(result["orthographic_similarity"]["Far"], 1)
-    result["phonetic_similarity"]["Light"] = round(result["phonetic_similarity"]["Light"], 1)
-    result["phonetic_similarity"]["Medium"] = round(result["phonetic_similarity"]["Medium"], 1)
-    result["phonetic_similarity"]["Far"] = round(result["phonetic_similarity"]["Far"], 1)
-
     if result["phonetic_similarity"]["Light"] + result["phonetic_similarity"]["Medium"] + result["phonetic_similarity"]["Far"] < 1.0:
         if result["phonetic_similarity"]["Light"] == 0.2:
             result["phonetic_similarity"]["Medium"] = 0.6
             result["phonetic_similarity"]["Far"] = 0.2
-
-        if result["phonetic_similarity"]["Light"] == 0.1:
-            result["phonetic_similarity"]["Medium"] = 0.5
-            result["phonetic_similarity"]["Far"] = 0.4
-
-        if result["phonetic_similarity"]["Light"] == 0.7:
-            result["phonetic_similarity"]["Medium"] = 0.3
-            result["phonetic_similarity"]["Far"] = 0.0
-
-        if result["phonetic_similarity"]["Light"] + result["phonetic_similarity"]["Medium"] + result["phonetic_similarity"]["Far"]  == 0.0:
-            result["phonetic_similarity"]["Light"] = 0.3
-            result["phonetic_similarity"]["Medium"] = 0.4
-            result["phonetic_similarity"]["Far"] = 0.3
-
-    if result["orthographic_similarity"]["Light"] + result["orthographic_similarity"]["Medium"] + result["orthographic_similarity"]["Far"] < 1.0:
-        if result["orthographic_similarity"]["Light"] == 0.2:
-            result["orthographic_similarity"]["Medium"] = 0.6
-            result["orthographic_similarity"]["Far"] = 0.2
-
-        if result["orthographic_similarity"]["Light"] == 0.1:
-            result["orthographic_similarity"]["Medium"] = 0.5
-            result["orthographic_similarity"]["Far"] = 0.4
-
-        if result["orthographic_similarity"]["Light"] == 0.7:
-            result["orthographic_similarity"]["Medium"] = 0.3
-            result["orthographic_similarity"]["Far"] = 0.0
-
-        if result["orthographic_similarity"]["Light"] + result["orthographic_similarity"]["Medium"] + result["orthographic_similarity"]["Far"]  == 0.0:
-            result["orthographic_similarity"]["Light"] = 0.3
-            result["orthographic_similarity"]["Medium"] = 0.4
-            result["orthographic_similarity"]["Far"] = 0.3
-
     return result
 
 
@@ -376,14 +319,15 @@ def parse_query_sync_safe(query_text: str, max_retries: int = 3) -> Dict[str, An
         # Fallback to default values if no client available
         return {
             "variation_count": 10,
-            "phonetic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
-            "orthographic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
+            "phonetic_similarity": {"Light": 1.0, "Medium": 0.0, "Far": 0.0},
+            "orthographic_similarity": {"Light": 1.0, "Medium": 0.0, "Far": 0.0},
             "rule_percentage": 0,
-            "selected_rules": [],
+            "selected_rules": _select_rules_from_query(query_text),
         }
     
     prompt = _build_llm_prompt(query_text)
     
+    # print(f"prompt: {prompt}")
     
     for attempt in range(max_retries):
         try:
@@ -393,7 +337,10 @@ def parse_query_sync_safe(query_text: str, max_retries: int = 3) -> Dict[str, An
             if response and response.text:
                 obj = _extract_json_from_text(response.text)
                 if obj:
-                    return _normalize_llm_result(obj, query_text)
+                    result = _normalize_llm_result(obj)
+                    # Override/augment with deterministic selection from query text per relaxed matching
+                    result["selected_rules"] = _select_rules_from_query(query_text)
+                    return result
             
             # Add delay between retries
             if attempt < max_retries - 1:
@@ -407,11 +354,11 @@ def parse_query_sync_safe(query_text: str, max_retries: int = 3) -> Dict[str, An
     
     # Return default values if all attempts failed
     return {
-        "variation_count": 10,
-        "phonetic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
-        "orthographic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
+        "variation_count": 5,
+        "phonetic_similarity": {"Light": 1.0, "Medium": 0.0, "Far": 0.0},
+        "orthographic_similarity": {"Light": 1.0, "Medium": 0.0, "Far": 0.0},
         "rule_percentage": 0.0,
-        "selected_rules": [],
+        "selected_rules": _select_rules_from_query(query_text),
     }
 
 async def parse_query_async_safe(query_text: str, max_retries: int = 3) -> Dict[str, Any]:
