@@ -251,7 +251,7 @@ def _normalize_llm_result(obj: Dict[str, Any]) -> Dict[str, Any]:
     if not vc:
         vc = 5
     elif vc > 15:
-        vc = 15
+        vc = 10
     result["variation_count"] = int(vc)
 
     def normalize_distribution(dist: Any) -> Dict[str, float]:

@@ -20,6 +20,7 @@ from __future__ import annotations
 
 import asyncio
 import json
+from math import e
 import os
 import random
 import re
@@ -71,17 +72,7 @@ def _get_api_keys() -> List[str]:
     # If no API keys found, use default
     if not api_keys:
         # default_key = "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"
-        # default_key = "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"
-        default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
-        # default_key = "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"
+        default_key = "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"
         api_keys.append(default_key)
     
     # Remove duplicates while preserving order
@@ -113,86 +104,12 @@ def _initialize_clients() -> List[AsyncOpenAI]:
 # LLM-BASED PARSING (OpenRouter)
 # -----------------------------
 
-def _extract_recent_mistake_examples(max_examples: int = 100) -> List[Dict[str, str]]:
-    """Extract up to N recent (Template/Query, Expected/Answer) pairs from known logs.
-
-    Supports files containing blocks with 'Template:' and 'Expected:' or with
-    'Query:' and 'Answer:'. Returns newest examples first.
-    """
-    candidate_paths = [
-        "/root/MIID-subnet/errored_queries_list.log",
-    ]
-
-    def parse_pairs(lines: List[str]) -> List[Dict[str, str]]:
-        pairs: List[Dict[str, str]] = []
-        capturing_template = False
-        template_lines: List[str] = []
-        for line in lines:
-            stripped = line.strip()
-            # Prefer explicit Template: if present
-            if stripped.startswith("Template:"):
-                capturing_template = True
-                template_lines = [line.split("Template:", 1)[1]]
-                continue
-            # Fallback: Query:
-            if not capturing_template and stripped.startswith("Query:"):
-                capturing_template = True
-                template_lines = [line.split("Query:", 1)[1]]
-                continue
-            if capturing_template:
-                if stripped.startswith("Expected:") or stripped.startswith("Answer:"):
-                    expected_str = (
-                        line.split(":", 1)[1].strip()
-                        if ":" in line
-                        else stripped
-                    )
-                    raw_template = "".join(template_lines).strip()
-                    raw_template = re.sub(r"\s+", " ", raw_template)
-                    if len(raw_template) > 900:
-                        raw_template = raw_template[:900] + " …"
-                    pairs.append({"template": raw_template, "expected_json": expected_str})
-                    capturing_template = False
-                    template_lines = []
-                else:
-                    template_lines.append(line)
-        return pairs
-
-    collected: List[Dict[str, str]] = []
-    try:
-        for path in candidate_paths:
-            if not os.path.exists(path):
-                continue
-            with open(path, "r", encoding="utf-8", errors="ignore") as f:
-                lines = f.readlines()
-            collected.extend(parse_pairs(lines))
-    except Exception:
-        pass
-
-    # Keep most recent
-    if collected:
-        collected = collected[-max_examples:]
-        collected.reverse()
-    return collected
 
 def _build_llm_prompt(query_text: str) -> str:
     """Construct a concise instruction for the LLM to output strict JSON, with few-shot examples from recent errors."""
     id_list_only = "\n".join(f"- {rule_id}" for rule_id in RULE_DESCRIPTIONS.keys())
+    rules_descriptions_json = json.dumps(RULE_DESCRIPTIONS, indent=4)
 
-    examples = _extract_recent_mistake_examples()
-    examples_text = ""
-    if examples:
-        blocks: List[str] = []
-        for idx, ex in enumerate(examples, start=1):
-            blocks.append(
-                "Example {}:\nINPUT:\n{}\nOUTPUT:\n{}\n".format(
-                    idx, ex["template"], ex["expected_json"]
-                )
-            )
-        examples_text = (
-            "Past failures and correct outputs (follow these patterns):\n"
-            + "\n".join(blocks)
-            + "\n"
-        )
 
     return f"""
 You are extracting parameters from a natural-language query about generating name variations.
@@ -202,7 +119,6 @@ Return ONLY a JSON object with fields:
   "variation_count": <int not 0, valid range: 1-15>,
   "phonetic_similarity": {{"Light": <0.0-1.0>, "Medium": <0.0-1.0>, "Far": <0.0-1.0>}},
   "orthographic_similarity": {{"Light": <0.0-1.0>, "Medium": <0.0-1.0>, "Far": <0.0-1.0>}},
-  "rule_based_rules": [<up to 3 identifiers from the list below>],
   "rule_percentage": <0.0 if not mentioned in query, otherwise 0.1-0.6>
 }}
 
@@ -211,23 +127,14 @@ Rules:
 - If orthographic similarity is mentioned without per-level numbers, set {{"Light": 1.0}} unless the text clearly says significant/major/heavy (then {{"Far": 1.0}}).
 - List at most 3 rule identifiers, only if explicitly requested.
 - If rule percentage is not mentioned in query, set rule_percentage to 0.0 (don't guess/infer a value)
-- For variation_count, extract explicit numbers like "generate 5 variations" or "create 10 names", "10 excutor vectors"
-- For rule_based_rules:
-  - Only include rules explicitly requested in query
-  - Don't infer/guess rules that aren't clearly stated
-  - Maximum 3 rules total
-  - Must match exactly from the rule ID list
-  - If no rules mentioned, return empty list []
+- For variation_count, extract explicit numbers like "generate 5 variations" or "create 10 names", "10 excutor vectors".
 
-- Identifiers must be EXACTLY one of:
-{id_list_only}
-
-{examples_text}
 Input query:
 {query_text}
 
 Output: JSON only, no extra text.
 """
+
 
 
 def _extract_json_from_text(text: str) -> Optional[Dict[str, Any]]:
@@ -246,6 +153,72 @@ def _extract_json_from_text(text: str) -> Optional[Dict[str, Any]]:
     return None
 
 
+def _extract_rules_from_query(query_text: str, rule_descriptions: Dict[str, str]) -> List[str]:
+    """Extract rule IDs from query text by matching rule descriptions with flexible matching."""
+    import re
+    from itertools import permutations
+    
+    # Stop words to remove
+    stop_words = {
+        'a', 'an', 'last', 'first', 'the', 'in', 'on', 'at', 'to', 'for', 'with', 'name', 'target', "one", "or", "more", "is" ,
+        "identity", "'s", "within"
+    }
+    
+    def normalize_text(text: str) -> str:
+        """Normalize text by removing braces, converting to lowercase, and cleaning whitespace."""
+        # Remove braces and normalize
+        # Replace words ending with -ed with just 'e'
+        text = re.sub(r'\b(\w+)ed\b', r'\1e', text)
+        text = re.sub(r'\b(\w+)s\b', r'\1', text)
+        text = re.sub(r'\bone or more\b', 'random', text)
+        text = re.sub(r'\btwo adjacent\b', 'random adjacent', text)
+        text = re.sub(r'[{}]', '', text)
+        text = text.lower().strip()
+        return text
+    
+    def extract_meaningful_words(text: str) -> List[str]:
+        """Extract meaningful words by removing stop words and punctuation."""
+        # Split on whitespace and punctuation
+        words = re.findall(r'\b\w+\b|,', text.lower())
+        # Remove stop words
+        meaningful_words = [word for word in words if word not in stop_words and (len(word) > 1 or word == ",")]
+        return meaningful_words
+    
+    def generate_all_variants(words: List[str]) -> List[str]:
+        """Generate all permutations of meaningful words as contiguous phrases."""
+        if not words:
+            return []
+        # Limit permutations to avoid explosion
+        if len(words) > 6:
+            return []
+        return [' '.join(p) for p in permutations(words)]
+    
+    # Normalize query text and build a contiguous string of meaningful words
+    normalized_query = normalize_text(query_text)
+    query_meaningful_tokens = extract_meaningful_words(normalized_query)
+    query_meaningful_str = ' '.join(query_meaningful_tokens)
+    print(query_meaningful_str)
+    
+    
+    matched_rules: List[str] = []
+    
+    # Process each rule description
+    for rule_id, description in rule_descriptions.items():
+        normalized_desc = normalize_text(description)
+        meaningful_words = extract_meaningful_words(normalized_desc)
+        if not meaningful_words:
+            continue
+        
+        # Generate all permutations and require a contiguous phrase match in the meaningful stream
+        for variant in generate_all_variants(meaningful_words):
+            if variant and variant in query_meaningful_str:
+                matched_rules.append(rule_id)
+                break
+    
+    # Return at most 3 rules
+    return matched_rules[:3]
+
+
 def _normalize_llm_result(obj: Dict[str, Any]) -> Dict[str, Any]:
     """Normalize the LLM JSON into the expected dictionary structure."""
     result: Dict[str, Any] = {
@@ -261,7 +234,7 @@ def _normalize_llm_result(obj: Dict[str, Any]) -> Dict[str, Any]:
     if not vc:
         vc = 5
     elif vc > 15:
-        vc = 15
+        vc = 10
     result["variation_count"] = int(vc)
 
     def normalize_distribution(dist: Any) -> Dict[str, float]:
@@ -295,6 +268,111 @@ def _normalize_llm_result(obj: Dict[str, Any]) -> Dict[str, Any]:
             rp =  (len(selected_rules) + 0.1) / result["variation_count"]
         
         result["rule_percentage"] = min(0.6, float(rp) / 100.0 if rp > 1 else float(rp))
+    # warn with 0.09, 0.64, ...
+    result["orthographic_similarity"]["Light"] = round(result.get("orthographic_similarity", {"Light": 0.0}).get("Light", 0.0), 1)
+    result["orthographic_similarity"]["Medium"] = round(result.get("orthographic_similarity", {"Medium": 0.0}).get("Medium", 0.0), 1)
+    result["orthographic_similarity"]["Far"] = round(result.get("orthographic_similarity", {"Far": 0.0}).get("Far", 0.0), 1)
+    result["phonetic_similarity"]["Light"] = round(result.get("phonetic_similarity", {"Light": 0.0}).get("Light", 0.0), 1)
+    result["phonetic_similarity"]["Medium"] = round(result.get("phonetic_similarity", {"Medium": 0.0}).get("Medium", 0.0), 1)
+    result["phonetic_similarity"]["Far"] = round(result.get("phonetic_similarity", {"Far": 0.0}).get("Far", 0.0), 1)
+
+    if result["phonetic_similarity"]["Light"] + result["phonetic_similarity"]["Medium"] + result["phonetic_similarity"]["Far"] < 1.0:
+        if result["phonetic_similarity"]["Light"] == 0.2:
+            result["phonetic_similarity"]["Medium"] = 0.6
+            result["phonetic_similarity"]["Far"] = 0.2
+
+        elif result["phonetic_similarity"]["Light"] == 0.1:
+            if result["phonetic_similarity"]["Medium"] == 0.5:
+                result["phonetic_similarity"]["Far"] = 0.4
+            elif result["phonetic_similarity"]["Medium"] == 0.6:
+                result["phonetic_similarity"]["Far"] = 0.3
+            else:
+                result["phonetic_similarity"]["Far"] = 0.4
+                result["phonetic_similarity"]["Medium"] = 0.5
+
+        elif result["phonetic_similarity"]["Light"] == 0.3:
+            result["phonetic_similarity"]["Medium"] = 0.4
+            result["phonetic_similarity"]["Far"] = 0.3
+
+        elif result["phonetic_similarity"]["Light"] == 0.5:
+            result["phonetic_similarity"]["Medium"] = 0.5
+            result["phonetic_similarity"]["Far"] = 0.0
+
+        elif result["phonetic_similarity"]["Light"] == 0.7:
+            result["phonetic_similarity"]["Medium"] = 0.3
+            result["phonetic_similarity"]["Far"] = 0.0
+
+        elif result["phonetic_similarity"]["Medium"] == 0.4:
+            result["phonetic_similarity"]["Light"] = 0.3
+            result["phonetic_similarity"]["Far"] = 0.3
+
+        elif result["phonetic_similarity"]["Far"] == 0.6:
+            result["phonetic_similarity"]["Medium"] = 0.3
+            result["phonetic_similarity"]["Far"] = 0.1
+
+        elif result["phonetic_similarity"]["Far"] == 0.4:
+            result["phonetic_similarity"]["Medium"] = 0.5
+            result["phonetic_similarity"]["Far"] = 0.1
+
+        elif result["phonetic_similarity"]["Light"] + result["phonetic_similarity"]["Medium"] + result["phonetic_similarity"]["Far"]  == 0.0:
+            result["phonetic_similarity"]["Light"] = 0.3
+            result["phonetic_similarity"]["Medium"] = 0.4
+            result["phonetic_similarity"]["Far"] = 0.3
+
+        elif result["phonetic_similarity"]["Light"] + result["phonetic_similarity"]["Medium"] + result["phonetic_similarity"]["Far"]  < 1.0:
+            result["phonetic_similarity"]["Light"] = 0.3
+            result["phonetic_similarity"]["Medium"] = 0.4
+            result["phonetic_similarity"]["Far"] = 0.3
+
+    if result["orthographic_similarity"]["Light"] + result["orthographic_similarity"]["Medium"] + result["orthographic_similarity"]["Far"] < 1.0:
+        if result["orthographic_similarity"]["Light"] == 0.2:
+            result["orthographic_similarity"]["Medium"] = 0.6
+            result["orthographic_similarity"]["Far"] = 0.2
+
+        elif result["orthographic_similarity"]["Light"] == 0.1:
+            if result["orthographic_similarity"]["Medium"] == 0.5:
+                result["orthographic_similarity"]["Far"] = 0.4
+            elif result["orthographic_similarity"]["Medium"] == 0.6:
+                result["orthographic_similarity"]["Far"] = 0.3
+            else:
+                result["orthographic_similarity"]["Far"] = 0.4
+                result["orthographic_similarity"]["Medium"] = 0.5
+
+        elif result["orthographic_similarity"]["Light"] == 0.3:
+            result["orthographic_similarity"]["Medium"] = 0.4
+            result["orthographic_similarity"]["Far"] = 0.3
+
+        elif result["orthographic_similarity"]["Light"] == 0.5:
+            result["orthographic_similarity"]["Medium"] = 0.5
+            result["orthographic_similarity"]["Far"] = 0.0
+
+        elif result["orthographic_similarity"]["Light"] == 0.7:
+            result["orthographic_similarity"]["Medium"] = 0.3
+            result["orthographic_similarity"]["Far"] = 0.0
+
+        elif result["orthographic_similarity"]["Medium"] == 0.4:
+            result["orthographic_similarity"]["Light"] = 0.3
+            result["orthographic_similarity"]["Far"] = 0.3
+
+        elif result["orthographic_similarity"]["Far"] == 0.6:
+            result["orthographic_similarity"]["Medium"] = 0.3
+            result["orthographic_similarity"]["Far"] = 0.1
+
+        elif result["orthographic_similarity"]["Far"] == 0.4:
+            result["orthographic_similarity"]["Medium"] = 0.5
+            result["orthographic_similarity"]["Far"] = 0.1
+
+        elif result["orthographic_similarity"]["Light"] + result["orthographic_similarity"]["Medium"] + result["orthographic_similarity"]["Far"]  == 0.0:
+            result["orthographic_similarity"]["Light"] = 0.3
+            result["orthographic_similarity"]["Medium"] = 0.4
+            result["orthographic_similarity"]["Far"] = 0.3
+
+        elif result["orthographic_similarity"]["Light"] + result["orthographic_similarity"]["Medium"] + result["orthographic_similarity"]["Far"]  < 1.0:
+            result["orthographic_similarity"]["Light"] = 0.3
+            result["orthographic_similarity"]["Medium"] = 0.4
+            result["orthographic_similarity"]["Far"] = 0.3
+
+
         
     return result
 
@@ -312,16 +390,16 @@ async def parse_query_with_llm(
     if not clients:
         # No clients available, return empty result
         return {
-            "variation_count": 0,
-            "phonetic_similarity": {"Light": 0.0, "Medium": 0.0, "Far": 0.0},
-            "orthographic_similarity": {"Light": 0.0, "Medium": 0.0, "Far": 0.0},
-            "rule_percentage": 0.0,
+            "variation_count": 10,
+            "phonetic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
+            "orthographic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
+            "rule_percentage": 0.3,
+            "selected_rules": _extract_rules_from_query(query_text, RULE_DESCRIPTIONS),
         }
     
     prompt = _build_llm_prompt(query_text)
     
     for _ in range(max_retries + 1):
-        response = None
         try:
             # Randomly select a client and model
             client = random.choice(clients)
@@ -351,20 +429,22 @@ async def parse_query_with_llm(
             
             if obj:
                 llm_parsed = _normalize_llm_result(obj)
+                # Populate selected_rules by matching description variants in the query text
+                llm_parsed["selected_rules"] = _extract_rules_from_query(query_text, RULE_DESCRIPTIONS)
                 return llm_parsed
             
         except Exception as e:
             bt.logging.error(f"Error parsing query with LLM: {e}")
-            if response:
-                bt.logging.error(f"Response: {response}")
+            bt.logging.error(f"Response: {response}")
             continue
     
     # If here, LLM failed - return empty result
     return {
-        "variation_count": 0,
-        "phonetic_similarity": {"Light": 0.0, "Medium": 0.0, "Far": 0.0},
-        "orthographic_similarity": {"Light": 0.0, "Medium": 0.0, "Far": 0.0},
-        "rule_percentage": 0.0,
+        "variation_count": 10,
+        "phonetic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
+        "orthographic_similarity": {"Light": 0.3, "Medium": 0.4, "Far": 0.3},
+        "rule_percentage": 0.3,
+        "selected_rules": _extract_rules_from_query(query_text, RULE_DESCRIPTIONS),
     }
 
 
