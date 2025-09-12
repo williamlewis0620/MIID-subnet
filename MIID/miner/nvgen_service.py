@@ -122,7 +122,8 @@ class QueryParseResponse(BaseModel):
     parsed_params: Dict
     status: str
 
-from MIID.miner.parse_query_gemini_safe import query_parser
+from MIID.miner.parse_query_gemini_safe import query_parser as query_parser_gemini
+from MIID.miner.parse_query import query_parser
 async def query_parse_worker():
     """Background worker that processes query parsing requests"""
     global worker_running
@@ -140,10 +141,17 @@ async def query_parse_worker():
             
             log.info(f"📝 Processing query parse request: {cache_key[:8]}...")
             try:
-                parsed_params = await query_parser(
-                    query_text=query_text,
-                    max_retries=request.get("max_retries", 10)
-                )
+                try:
+                    parsed_params = await query_parser(
+                        query_text=query_text,
+                        max_retries=request.get("max_retries", 10)
+                    )
+                except Exception as e:
+                    log.info(f"❌ OpenAI Query parsing failed: {e}")
+                    parsed_params = await query_parser_gemini(
+                        query_text=query_text,
+                        max_retries=request.get("max_retries", 10)
+                    )
                 # Cache the result
                 parsed_query_cache[cache_key] = {
                     "query_text": query_text,
