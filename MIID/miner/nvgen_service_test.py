@@ -26,7 +26,7 @@ from MIID.miner.nvgen_service import TaskRequest, solve_task, log, query_parse_w
 
 async def test():
     base_query_files = [
-        os.path.join(os.path.dirname(__file__), "nvgen_test_query_6.json"),
+        os.path.join(os.path.dirname(__file__), "1.json"),
     ]
     asyncio.create_task(query_parse_worker())
     dup = 1

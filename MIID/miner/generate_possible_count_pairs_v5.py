@@ -259,10 +259,10 @@ def generate_all_possible_count_pairs_v5(expected_count, minimum_rule_based_coun
 
     for base_count, level, counts, rank in ordered_list:
         for rule_based_count in range(0, int(expected_count * 1.2) + 1):
-            _minimum_rule_based_count = minimum_rule_based_count
+            if rule_based_count + base_count > int(expected_count * 1.2):
+                break
+            _minimum_rule_based_count = min(minimum_rule_based_count, rule_based_count)
             additional_rule_based_count = rule_based_count - _minimum_rule_based_count
-            if additional_rule_based_count < 0:
-                continue
             duplicated_rule_based_count = 0
             pairs.append(
                 (
@@ -270,7 +270,7 @@ def generate_all_possible_count_pairs_v5(expected_count, minimum_rule_based_coun
                     additional_rule_based_count,
                     duplicated_rule_based_count,
                     base_count,
-                    _minimum_rule_based_count + additional_rule_based_count + duplicated_rule_based_count
+                    _minimum_rule_based_count + additional_rule_based_count + duplicated_rule_based_count + base_count
                 )
             )
         
