@@ -445,6 +445,12 @@ class AnswerCandidateForNoisy:
         answer = {}
         metric = {}
         try_count = 100
+        f_serial = os.path.join(os.path.dirname(__file__), "tasks", f"serial_{self.task_key}.txt")
+        if os.path.exists(f_serial):
+            with open(f_serial, "r") as f:
+                self.serial = int(f.read())
+        else:
+            self.serial = 0
         while try_count >= 0:
             self.serial += 1
             try_count -= 1
@@ -458,6 +464,8 @@ class AnswerCandidateForNoisy:
                 self.miner_list.append(miner_uid)
                 self.metrics = metrics
                 break
+        with open(f_serial, "w") as f:
+            f.write(str(self.serial))
         return answer, metrics[-1]
 
 
@@ -507,7 +515,11 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
     Handles concurrent requests by making other requests wait for the first one to complete.
     """
     def clear_cache():
-        if len(answer_candidate_cache) > 100:
+        if len(answer_candidate_cache) >= 100:
+            try:
+                os.remove(os.path.join(os.path.dirname(__file__), "tasks", f"serial_{list(answer_candidate_cache.keys())[0]}.txt"))
+            except Exception as e:
+                pass
             del answer_candidate_cache[list(answer_candidate_cache.keys())[0]]
     clear_cache()
     names = request.names
