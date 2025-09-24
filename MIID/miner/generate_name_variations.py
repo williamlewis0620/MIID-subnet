@@ -14,7 +14,7 @@ import httpx
 import time
 
 from MIID.miner.custom_logger import CustomLogger
-from MIID.miner.generate_possible_count_pairs import generate_possible_count_pairs, generate_all_possible_count_pairs, generate_all_possible_count_pairs_v2
+from MIID.miner.generate_possible_count_pairs import generate_possible_count_pairs, generate_all_possible_count_pairs, generate_all_possible_count_pairs_v1
 from MIID.miner.rule_based_transformations import RULE_BASED_TRANSFORMATIONS
 from MIID.miner.rule_based_transformations import RULE_BASED_TRANSFORMATIONS_COMBINED
 from MIID.validator.reward import calculate_variation_quality, calculate_orthographic_similarity
@@ -795,7 +795,7 @@ def generate_name_variations(
     #     orthographic_similarity,
     #     len(effective_rules)
     # )
-    rule_count_pairs = generate_all_possible_count_pairs_v2(
+    rule_count_pairs = generate_all_possible_count_pairs_v1(
         total_count,
         len(cand_minrequired_rule_varset),
         rule_percentage,
@@ -809,10 +809,10 @@ def generate_name_variations(
 
     from tqdm import tqdm
     # for i, (rule_count, nonrule_count) in tqdm(enumerate(rule_count_pairs), desc=f"Processing {original_name}"):
-    for i, (minimal_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count) in enumerate(rule_count_pairs):
+    for i, (minimal_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count, total_count) in enumerate(rule_count_pairs):
         logger.info(
             f"-" * 30 +
-            f"Trying rule_count_pair {i+1} / {len(rule_count_pairs)}: minimal_rule_based_count/additional_rule_based_count/duplicated_rule_based_count/base_count: {minimal_rule_based_count}/{additional_rule_based_count}/{duplicated_rule_based_count}/{base_count}" +
+            f"Trying rule_count_pair {i+1} / {len(rule_count_pairs)}: minimal_rule_based_count/additional_rule_based_count/duplicated_rule_based_count/base_count: {minimal_rule_based_count}/{additional_rule_based_count}/{duplicated_rule_based_count}/{base_count}/{total_count}" +
             "-" * 30
         )
         if time.time() > timeout_at:

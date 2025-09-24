@@ -25,7 +25,214 @@ def generate_all_possible_count_pairs(C: int, Pr: float) -> list[Tuple[int, int]
     
     return pairs
     
-def generate_all_possible_count_pairs_v2(expected_count, minimum_rule_based_count, rule_percent, orthograph_similarity) -> list[Tuple[int, int]]:
+Ordered = {
+  "343": {
+    "1": { "level": "OK",    "counts": [0,1,0] },
+    "2": { "level": "OK",    "counts": [1,1,0] },
+    "3": { "level": "Great", "counts": [1,1,1] },
+    "4": { "level": "Good",  "counts": [1,2,1] },
+    "5": { "level": "OK",    "counts": [2,2,1] },
+    "6": { "level": "Good",  "counts": [2,2,2] },
+    "7": { "level": "Great", "counts": [2,3,2] },
+    "8": { "level": "OK",    "counts": [2,3,3] },
+    "9": { "level": "OK",    "counts": [3,4,2] },
+    "10":{ "level": "Best",  "counts": [3,4,3] },
+    "11":{ "level": "OK",    "counts": [3,5,3] },
+    "12":{ "level": "OK",    "counts": [4,5,3] },
+    "13":{ "level": "Great", "counts": [4,5,4] },
+    "14":{ "level": "Good",  "counts": [4,6,4] },
+    "15":{ "level": "Best",  "counts": [5,6,4] }
+  },
+  "262": {
+    "1": { "level": "Great", "counts": [0,1,0] },
+    "2": { "level": "OK",    "counts": [0,1,1] },
+    "3": { "level": "OK",    "counts": [1,2,0] },
+    "4": { "level": "Great", "counts": [1,2,1] },
+    "5": { "level": "Best",  "counts": [1,3,1] },
+    "6": { "level": "Great", "counts": [1,4,1] },
+    "7": { "level": "OK",    "counts": [2,4,1] },
+    "8": { "level": "OK",    "counts": [2,5,1] },
+    "9": { "level": "Great", "counts": [2,5,2] },
+    "10":{ "level": "Best",  "counts": [2,6,2] },
+    "11":{ "level": "Great", "counts": [2,7,2] },
+    "12":{ "level": "OK",    "counts": [2,7,3] },
+    "13":{ "level": "OK",    "counts": [3,8,2] },
+    "14":{ "level": "Great", "counts": [3,8,3] },
+    "15":{ "level": "Best",  "counts": [3,9,3] }
+  },
+  "136": {
+    "1": { "level": "Good",  "counts": [0,0,1] },
+    "2": { "level": "Good",  "counts": [0,1,1] },
+    "3": { "level": "Great", "counts": [0,1,2] },
+    "4": { "level": "OK",    "counts": [0,1,3] },
+    "5": { "level": "OK",    "counts": [1,1,3] },
+    "6": { "level": "OK",    "counts": [1,2,3] },
+    "7": { "level": "Great", "counts": [1,2,4] },
+    "8": { "level": "Good",  "counts": [1,2,5] },
+    "9": { "level": "Good",  "counts": [1,3,5] },
+    "10":{ "level": "Best",  "counts": [1,3,6] },
+    "11":{ "level": "Good",  "counts": [1,3,7] },
+    "12":{ "level": "Good",  "counts": [1,4,7] },
+    "13":{ "level": "Great", "counts": [1,4,8] },
+    "14":{ "level": "OK",    "counts": [1,4,9] },
+    "15":{ "level": "Great", "counts": [2,5,8] }
+  },
+  "550": {
+    "1": { "level": "OK",    "counts": [1,0,0] },
+    "2": { "level": "Best",  "counts": [1,1,0] },
+    "3": { "level": "OK",    "counts": [2,1,0] },
+    "4": { "level": "Best",  "counts": [2,2,0] },
+    "5": { "level": "OK",    "counts": [3,2,0] },
+    "6": { "level": "Best",  "counts": [3,3,0] },
+    "7": { "level": "OK",    "counts": [4,3,0] },
+    "8": { "level": "Best",  "counts": [4,4,0] },
+    "9": { "level": "OK",    "counts": [5,4,0] },
+    "10":{ "level": "Best",  "counts": [5,5,0] },
+    "11":{ "level": "OK",    "counts": [6,5,0] },
+    "12":{ "level": "Best",  "counts": [6,6,0] },
+    "13":{ "level": "OK",    "counts": [7,6,0] },
+    "14":{ "level": "Best",  "counts": [7,7,0] },
+    "15":{ "level": "OK",    "counts": [8,7,0] }
+  },
+  "154": {
+    "1": { "level": "Avoid", "counts": [0,1,0] },
+    "2": { "level": "Great", "counts": [0,1,1] },
+    "3": { "level": "Avoid", "counts": [0,2,1] },
+    "4": { "level": "OK",    "counts": [0,2,2] },
+    "5": { "level": "Good",  "counts": [1,2,2] },
+    "6": { "level": "OK",    "counts": [1,3,2] },
+    "7": { "level": "Avoid", "counts": [1,3,3] },
+    "8": { "level": "Great", "counts": [1,4,3] },
+    "9": { "level": "Avoid", "counts": [1,5,3] },
+    "10":{ "level": "Best",  "counts": [1,5,4] },
+    "11":{ "level": "Avoid", "counts": [1,6,4] },
+    "12":{ "level": "Great", "counts": [1,6,5] },
+    "13":{ "level": "Avoid", "counts": [2,6,5] },
+    "14":{ "level": "OK",    "counts": [2,7,5] },
+    "15":{ "level": "Best",  "counts": [2,8,5] }
+  },
+  "0*0": {
+    "1": { "level": "Best", "counts": [0,1,0] },
+    "2": { "level": "Best", "counts": [0,2,0] },
+    "3": { "level": "Best", "counts": [0,3,0] },
+    "4": { "level": "Best", "counts": [0,4,0] },
+    "5": { "level": "Best", "counts": [0,5,0] },
+    "6": { "level": "Best", "counts": [0,6,0] },
+    "7": { "level": "Best", "counts": [0,7,0] },
+    "8": { "level": "Best", "counts": [0,8,0] },
+    "9": { "level": "Best", "counts": [0,9,0] },
+    "10":{ "level": "Best", "counts": [0,10,0] },
+    "11":{ "level": "Best", "counts": [0,11,0] },
+    "12":{ "level": "Best", "counts": [0,12,0] },
+    "13":{ "level": "Best", "counts": [0,13,0] },
+    "14":{ "level": "Best", "counts": [0,14,0] },
+    "15":{ "level": "Best", "counts": [0,15,0] }
+  },
+  "730": {
+    "1": { "level": "OK",     "counts": [1,0,0] },
+    "2": { "level": "Poorer", "counts": [1,1,0] },
+    "3": { "level": "Great",  "counts": [2,1,0] },
+    "4": { "level": "Good",   "counts": [3,1,0] },
+    "5": { "level": "Worst",  "counts": [4,1,0] },
+    "6": { "level": "Good",   "counts": [4,2,0] },
+    "7": { "level": "Great",  "counts": [5,2,0] },
+    "8": { "level": "Poorer", "counts": [6,2,0] },
+    "9": { "level": "OK",     "counts": [6,3,0] },
+    "10":{ "level": "Best",   "counts": [7,3,0] },
+    "11":{ "level": "OK",     "counts": [8,3,0] },
+    "12":{ "level": "Poorer", "counts": [8,4,0] },
+    "13":{ "level": "Great",  "counts": [9,4,0] },
+    "14":{ "level": "Good",   "counts": [10,4,0] },
+    "15":{ "level": "Great",  "counts": [11,4,0] }
+  },
+  "00*": {
+    "1": { "level": "Best", "counts": [0,0,1] },
+    "2": { "level": "Best", "counts": [0,0,2] },
+    "3": { "level": "Best", "counts": [0,0,3] },
+    "4": { "level": "Best", "counts": [0,0,4] },
+    "5": { "level": "Best", "counts": [0,0,5] },
+    "6": { "level": "Best", "counts": [0,0,6] },
+    "7": { "level": "Best", "counts": [0,0,7] },
+    "8": { "level": "Best", "counts": [0,0,8] },
+    "9": { "level": "Best", "counts": [0,0,9] },
+    "10":{ "level": "Best", "counts": [0,0,10] },
+    "11":{ "level": "Best", "counts": [0,0,11] },
+    "12":{ "level": "Best", "counts": [0,0,12] },
+    "13":{ "level": "Best", "counts": [0,0,13] },
+    "14":{ "level": "Best", "counts": [0,0,14] },
+    "15":{ "level": "Best", "counts": [0,0,15] }
+  },
+  "*00": {
+    "1": { "level": "Best", "counts": [1,0,0] },
+    "2": { "level": "Best", "counts": [2,0,0] },
+    "3": { "level": "Best", "counts": [3,0,0] },
+    "4": { "level": "Best", "counts": [4,0,0] },
+    "5": { "level": "Best", "counts": [5,0,0] },
+    "6": { "level": "Best", "counts": [6,0,0] },
+    "7": { "level": "Best", "counts": [7,0,0] },
+    "8": { "level": "Best", "counts": [8,0,0] },
+    "9": { "level": "Best", "counts": [9,0,0] },
+    "10":{ "level": "Best", "counts": [10,0,0] },
+    "11":{ "level": "Best", "counts": [11,0,0] },
+    "12":{ "level": "Best", "counts": [12,0,0] },
+    "13":{ "level": "Best", "counts": [13,0,0] },
+    "14":{ "level": "Best", "counts": [14,0,0] },
+    "15":{ "level": "Best", "counts": [15,0,0] }
+  }
+}
+
+# Define ranking order
+LEVEL_ORDER = {
+    "Best": 1,
+    "Great": 2,
+    "Good": 3,
+    "OK": 4,
+    "Poorer": 5,
+    "Worst": 6,
+    "Avoid": 7
+}
+
+def order_candidates(config_key, candidate_N, Ordered):
+    """
+    Given a config key and list of candidate N values,
+    return them sorted by quality level.
+    """
+    results = []
+    for n in candidate_N:
+        if str(n) not in Ordered.get(config_key, Ordered.get("343")):
+            continue
+        entry = Ordered.get(config_key, Ordered.get("343"))[str(n)]
+        level = entry["level"]
+        counts = entry["counts"]
+        rank = LEVEL_ORDER.get(level, 99)
+        results.append((n, level, counts, rank))
+    if not results:
+        return candidate_N
+    # Sort by rank (lower is better), then N
+    results.sort(key=lambda x: (x[3], x[0]), reverse=True)
+    return results
+
+
+def encode_config_key(target):
+    """
+    Convert target dict {"Light": L, "Medium": M, "Far": F}
+    into shorthand string: 3 digits, '*' if 1.0.
+    """
+    L = round(target.get("Light", 0.0), 1)
+    M = round(target.get("Medium", 0.0), 1)
+    F = round(target.get("Far", 0.0), 1)
+
+    digits = []
+    for val in (L, M, F):
+        if val == 1.0:
+            digits.append("*")
+        else:
+            digits.append(str(int(val * 10)))
+
+    return "".join(digits)
+
+
+def generate_all_possible_count_pairs_v1(expected_count, minimum_rule_based_count, rule_percent, phonetic_similarity) -> list[Tuple[int, int]]:
     expected_base_count = expected_count * (1.0 - rule_percent)
     base_tolerance = 0.2  # 20% base tolerance
     tolerance = base_tolerance + (0.05 * (expected_base_count // 10))  # Add 5% per 10 expected variations
@@ -34,36 +241,38 @@ def generate_all_possible_count_pairs_v2(expected_count, minimum_rule_based_coun
     tolerance_range = expected_base_count * tolerance
     lower_bound = max(1, expected_base_count - tolerance_range)  # Ensure at least 1 variation required
     upper_bound = expected_base_count + tolerance_range
+    lower_bound = math.ceil(lower_bound)
+    upper_bound = math.floor(upper_bound)
+    # if lower_bound <= actual_count <= upper_bound:
+    #     count_score = 1.0
     
     pairs = []
     # strategy1: focus on expected_base_count
-    base_count_range = range(int(lower_bound * 0.5), int(upper_bound * 0.5) + 1)
-    # strategy2: focus on orthographic similarity
-    min_orth_similarity = min(orthograph_similarity.values())
-    if min_orth_similarity == 0.1:
-        base_count_range = range(min(base_count_range.start, 10), max(base_count_range.stop, 12))
-    # strategy3: more wide range to cover all possible combinations
-    # base_count_range = range(5, 30)
-    # for base_count in base_count_range:
-    #     cur_rule_count = minimum_rule_based_count
-    #     while True:
-    #         rule_count_based_total = math.ceil(cur_rule_count / rule_percent)
-    #         if base_count <= rule_count_based_total - cur_rule_count:
-    #             break
-    #         cur_rule_count += 1
-    #     additional_rule_based_count = cur_rule_count - minimum_rule_based_count
-    #     duplicated_rule_based_count = rule_count_based_total - cur_rule_count - base_count
-    #     pairs.append((minimum_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count))
-    for base_count in range(3, 15, 1):
-        for total_count in range(4, 50):
-            for rule_based_count in range(int(total_count * rule_percent * 0.5), int(total_count * rule_percent * 1.5) + 1):
-                # rule_based_count = int(total_count * rule_percent)
-                _minimum_rule_based_count = minimum_rule_based_count
-                if rule_based_count < _minimum_rule_based_count:
-                    continue
-                additional_rule_based_count = rule_based_count - _minimum_rule_based_count
-                duplicated_rule_based_count = total_count - rule_based_count - base_count
-                pairs.append((_minimum_rule_based_count, additional_rule_based_count, duplicated_rule_based_count, base_count))
+    base_range_count_score_1 = list(range(lower_bound, upper_bound + 1))
+    # increase lookup range
+    base_range_count_score_0_9 = list(range(3, lower_bound)) + list(range(upper_bound + 1, 20))
+    # strategy2: focus on phonetic similarity
+    min_phonetic_similarity = min(phonetic_similarity.values())
+    config_key = encode_config_key(phonetic_similarity)
+    ordered_list = order_candidates(config_key, base_range_count_score_0_9, Ordered) + order_candidates(config_key, base_range_count_score_1, Ordered)
+    
+    print("v1")
+    for base_count, level, counts, rank in ordered_list:
+        for rule_based_count in range(0, int(expected_count * 1.2) + 1):
+            if rule_based_count + base_count > int(expected_count * 1.2):
+                break
+            _minimum_rule_based_count = min(minimum_rule_based_count, rule_based_count)
+            additional_rule_based_count = rule_based_count - _minimum_rule_based_count
+            duplicated_rule_based_count = 0
+            pairs.append(
+                (
+                    _minimum_rule_based_count,
+                    additional_rule_based_count,
+                    duplicated_rule_based_count,
+                    base_count,
+                    _minimum_rule_based_count + additional_rule_based_count + duplicated_rule_based_count + base_count
+                )
+            )
         
     return pairs
 
