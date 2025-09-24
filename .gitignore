@@ -237,3 +237,6 @@ MIID/miner/nvgen_test_query_*.json
 wandb_downloads/
 pyscripts/tasks/
 wandb_*
+# secrets
+MIID/miner/keys.json
+.env
