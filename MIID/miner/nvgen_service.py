@@ -122,8 +122,6 @@ class QueryParseResponse(BaseModel):
     parsed_params: Dict
     status: str
 
-from MIID.miner.parse_query_gemini_safe import query_parser as query_parser_gemini
-from MIID.miner.parse_query import query_parser
 async def query_parse_worker():
     """Background worker that processes query parsing requests"""
     global worker_running
@@ -139,51 +137,73 @@ async def query_parse_worker():
             event = request["event"]
             cache_key = make_key([], query_text)
             
-            log.info(f"📝 Processing query parse request: {cache_key[:8]}...")
+            version = ""
             try:
+                strategy_path = Path(os.path.dirname(__file__), "versions.json")
+                if strategy_path.exists():
+                    with open(strategy_path, 'r') as f:
+                        strategy_data = json.load(f)
+                        version = strategy_data.get("versions", {"parser": strategy_data.get("version", "v1")}).get("parser", "")
+            except Exception as e:
+                # log.error(f"Error reading version.json: {e}")
+                pass
+            parsed_params = None
+            # Import the appropriate module dynamically based on version
+            if version not in (None, "", "default", "v1"):
                 try:
+                    # accept "v2" or "2", normalize to _v2
+                    log.info(f"📝 Processing query parse request with version {version}: {cache_key[:8]}...")
+                    ver = str(version).lstrip("_")
+                    if not ver.startswith("v"):
+                        ver = "v" + ver
+                    modname = f"MIID.miner.parse_query_gpt_{ver}"
+                    import importlib
+                    module = importlib.import_module(modname)
+                    importlib.reload(module)
+                    func = getattr(module, "query_parser")
+                    parsed_params = await func(
+                        query_text=query_text,
+                        max_retries=request.get("max_retries", 10)
+                    )
+                    log.info(f"✅ Query parsed successfully: {cache_key[:8]}...")
+                except Exception as e:
+                    import traceback
+                    traceback.print_exc()
+                    log.info(f"❌ Query parsed failed: {cache_key[:8]}...")
+            if not parsed_params:
+                try:
+                    log.info(f"📝 Processing query parse request with version default: {cache_key[:8]}...")
+                    from MIID.miner.parse_query_gpt import query_parser
                     parsed_params = await query_parser(
                         query_text=query_text,
                         max_retries=request.get("max_retries", 10)
                     )
+                    log.info(f"✅ Query parsed successfully: {cache_key[:8]}...")
                 except Exception as e:
-                    log.info(f"❌ OpenAI Query parsing failed: {e}")
-                    parsed_params = await query_parser_gemini(
-                        query_text=query_text,
-                        max_retries=request.get("max_retries", 10)
-                    )
-                # Cache the result
-                parsed_query_cache[cache_key] = {
-                    "query_text": query_text,
-                    "parsed_params": parsed_params,
-                    "timestamp": asyncio.get_event_loop().time()
-                }
-                    
-                log.info(f"✅ Query parsed successfully: {cache_key[:8]}...")
-                    
-            except Exception as e:
-                log.info(f"❌ Query parsing failed: {e}")
-                # Cache error result to avoid repeated failures
-                parsed_query_cache[cache_key] = {
-                    "query_text": query_text,
-                    "parsed_params": None,
-                    "error": str(e),
-                    "timestamp": asyncio.get_event_loop().time()
-                }
-            
-            finally:
-                # Signal completion
-                event.set()
-                query_queue.task_done()
-                
+                    import traceback
+                    traceback.print_exc()
+                    log.info(f"❌ Query parsed failed: {cache_key[:8]}...")
+            # Cache the result
+            parsed_query_cache[cache_key] = {
+                "query_text": query_text,
+                "parsed_params": parsed_params,
+                "timestamp": asyncio.get_event_loop().time()
+            }
         except asyncio.TimeoutError:
             # No requests in queue, continue loop
             continue
         except Exception as e:
+            import traceback
+            traceback.print_exc()
             log.info(f"❌ Worker error: {e}")
             continue
-        
+        finally:
+            # Signal completion
+            event.set()
+            query_queue.task_done()
+
     log.info("🔧 Query parse worker stopped")
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -450,31 +470,42 @@ class AnswerCandidateForNoisy:
     
     def get_next_answer_for(self, miner_uid: int) -> Set[str]:
         COLLUSION_GROUP_SIZE_THRESHOLD = 1
-        answer = {}
-        metric = {}
-        try_count = 100
-        f_serial = os.path.join(os.path.dirname(__file__), "tasks", f"serial_{self.task_key}.txt")
-        if os.path.exists(f_serial):
-            with open(f_serial, "r") as f:
-                self.serial = int(f.read())
-        else:
-            self.serial = 0
-        while try_count >= 0:
-            self.serial += 1
-            try_count -= 1
-            from MIID.miner.kth_plan import kth_plan
-            noisy_plan, noisy_count = kth_plan(len(self.answer_candidates), max(0, self.serial - COLLUSION_GROUP_SIZE_THRESHOLD) + 1)
-            for i,cand in enumerate(self.answer_candidates):
-                answer[cand.name] = cand.get_next_answer(noisy_plan[i])
-            metrics, penalty = self.calc_reward_and_penalty(self.answer_list + [answer], self.miner_list + [miner_uid])
-            if not penalty:
-                self.answer_list.append(answer)
-                self.miner_list.append(miner_uid)
-                self.metrics = metrics
-                break
-        with open(f_serial, "w") as f:
-            f.write(str(self.serial))
+        bucket_no = 0
+        while True:
+            answer = {}
+            metric = {}
+            try_count = 100
+            f_serial = os.path.join(os.path.dirname(__file__), "tasks", f"serial_{self.task_key}.txt")
+            if os.path.exists(f_serial):
+                with open(f_serial, "r") as f:
+                    self.serial = int(f.read())
+            else:
+                self.serial = 0
+            while try_count >= 0:
+                self.serial += 1
+                try_count -= 1
+                from MIID.miner.kth_plan import kth_plan
+                noisy_plan, noisy_count = kth_plan(len(self.answer_candidates), max(0, self.serial - COLLUSION_GROUP_SIZE_THRESHOLD) + 1)
+                for i,cand in enumerate(self.answer_candidates):
+                    answer[cand.name] = cand.get_next_answer(noisy_plan[i])
+                metrics, penalty = self.calc_reward_and_penalty(self.answer_list + [answer], self.miner_list + [miner_uid])
+                if not penalty:
+                    self.answer_list.append(answer)
+                    self.miner_list.append(miner_uid)
+                    self.metrics = metrics
+                    break
+            with open(f_serial, "w") as f:
+                f.write(str(self.serial))
+            if try_count < 0:
+                for cand in self.answer_candidates:
+                    cand.increase_bucket_no()
+                bucket_no += 1
+                if bucket_no >= len(self.answer_candidates[0].bucket):
+                    break
+                continue
+            return answer, metrics[-1]
         return answer, metrics[-1]
+        
 
 
 class TaskRequest(BaseModel):
@@ -508,6 +539,44 @@ def save_result(answer_candidate: AnswerCandidateForNoisy, miner_uid: int):
                     "query_params": answer_candidate.answer_candidates[0].query_params
                 }, f, indent=4)
 
+        metrics = answer_candidate.metrics[-1]
+        count_matrix = {}
+        phonetic_score = {}
+        orthographic_score = {}
+        nonrule_count = {}
+        for name in metrics['name_metrics']:
+            name_metrics = metrics['name_metrics'][name]
+            for sub_name in [f"first_name", "last_name"]:
+                sub_count_matrix = [[0 for _ in range(8)] for _ in range(4)]
+                sub_name_data = name_metrics.get(sub_name, [])
+                if sub_name_data:
+                    variation_scores = sub_name_data['metrics'].get('variations', [])
+                    for variation in variation_scores:
+                        from MIID.miner.pool_generator import orth_level, orth_sim, phon_class, seed_codes
+                        
+                        o_level = orth_level(orth_sim(name.split(" ")[0] if sub_name == "first_name" else name.split(" ")[1],variation['variation']))
+                        p_level = phon_class(seed_codes(name.split(" ")[0] if sub_name == "first_name" else name.split(" ")[1]), variation['variation'])
+                        if o_level is None:
+                            o_level = 3
+                        sub_count_matrix[o_level][p_level] += 1
+                count_matrix[name + " - " + sub_name] = sub_count_matrix
+                phonetic_score[name + " - " + sub_name] = sub_name_data['metrics']['similarity']['phonetic']
+                orthographic_score[name + " - " + sub_name] = sub_name_data['metrics']['similarity']['orthographic']
+                nonrule_count[name + " - " + sub_name] = sub_name_data['metrics']['count']['actual']
+
+        output = ""
+        for subname in count_matrix:
+            mat = count_matrix[subname]
+            count = nonrule_count[subname]
+            phonetic = phonetic_score[subname]
+            orthographic = orthographic_score[subname]
+            output += f"{subname}\n - Count: {count}\n - Phonetic: {phonetic:.2f}\n - Orthographic: {orthographic:.2f}\n"
+            from MIID.miner.utils import _mat_str84
+            output += _mat_str84(mat)
+
+        with open(os.path.join(run_dir, f"_count_matrix.txt"), 'w', encoding="utf-8") as f:
+            f.write(output)
+
     except Exception as e:
         log.error(f"Error saving serial_{answer_candidate.serial}-miner_{miner_uid}.json: {e}")
         pass
@@ -529,6 +598,7 @@ async def solve_task(request: TaskRequest, background_tasks: BackgroundTasks = N
             except Exception as e:
                 pass
             del answer_candidate_cache[list(answer_candidate_cache.keys())[0]]
+            del pending_requests[list(pending_requests.keys())[0]]
     clear_cache()
     names = request.names
     query_template = request.query_template
