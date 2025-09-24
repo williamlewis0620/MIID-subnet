@@ -1,736 +1,488 @@
 [
     {
-        "template": "Here is the generated threat scenario generation query: \"Generate 10 variations of the name {name}, ensuring phonetic similarity by utilizing sound-alike names, and orthographic similarity with the following distributions: 20% Light, 60% Medium, and 20% Far, while also including approximately 54% of variations that follow these rule-based transformations: Remove all spaces from the original name to create a compact version, Add a title suffix (e.g. Jr., PhD, etc.) to the end of the name, and Use the first letter of the first name followed by the full last name to create an initial-based variation, all within the context of testing the sanctions screening system's ability to detect entities despite attempts at obfuscation through name variations.\"",
-        "label": {
-            "variation_count": 10,
-            "phonetic_similarity": {
-                "Light": 1.0
-            },
-            "orthographic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "rule_percentage": 0.54,
-            "selected_rules": [
-                "remove_all_spaces",
-                "add_random_trailing_title",
-                "initial_only_first_name"
-            ]
-        }
+      "query_template": "SELECT * FROM EXECUTION_VECTORS\nWHERE id IN (\n    SELECT MAX(id)\n    FROM execution_vectors\n    GROUP BY target_identity\n    HAVING COUNT(*) = 13\n)\nWHERE phonetic_similarity IN (\n    SELECT 'Light' as similarity_type, RANDOM() AS rand_val FROM (SELECT 0.1 UNION ALL SELECT 0.3 UNION ALL SELECT 0.6) AS t ORDER BY rand_val LIMIT 10%\n    UNION ALL SELECT 'Medium' as similarity_type, RANDOM() AS rand_val FROM (SELECT 0.1 UNION ALL SELECT 0.3 UNION ALL SELECT 0.6) AS t ORDER BY rand_val LIMIT 30%\n    UNION ALL SELECT 'Far' as similarity_type, RANDOM() AS rand_val FROM (SELECT 0.1 UNION ALL SELECT 0.3 UNION ALL SELECT 0.6) AS t ORDER BY rand_val LIMIT 60%\n)\nAND orthographic_similarity IN (\n    SELECT 'Light' as similarity_type, RANDOM() AS rand_val FROM (SELECT 0.1 UNION ALL SELECT 0.3 UNION ALL SELECT 0.6) AS t ORDER BY rand_val LIMIT 10%\n    UNION ALL SELECT 'Medium' as similarity_type, RANDOM() AS rand_val FROM (SELECT 0.1 UNION ALL SELECT 0.3 UNION ALL SELECT 0.6) AS t ORDER BY rand_val LIMIT 30%\n    UNION ALL SELECT 'Far' as similarity_type, RANDOM() AS rand_val FROM (SELECT 0.1 UNION ALL SELECT 0.3 UNION ALL SELECT 0.6) AS t ORDER BY rand_val LIMIT 60%\n)\nAND rule_based_transformations IN (\n    SELECT 'Abbreviate name parts', COUNT(*) AS count FROM execution_vectors WHERE similarity_type IN ('Light', 'Medium', 'Far') GROUP BY target_identity HAVING COUNT(*) > 31\n)\n[VALIDATION HINTS]: Here is the name that you should generate variations of: {name}",
+      "query_label": {
+        "variation_count": 13,
+        "phonetic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "orthographic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "rule_percentage": 0.31
+      }
     },
     {
-        "template": "Here is the generated Threat Scenario query: \"Generate 14 variations of the name {name}, ensuring phonetic similarity: 70% Light - modify the sound-alike names by replacing the first syllable with a similar-sounding word or prefix (e.g. 'John' -> 'Jon', 'Michael' -> 'Mike'), 30% Medium - modify the sound-alike names by replacing the last syllable with a similar-sounding suffix or postfix (e.g. 'Robert' -> 'Roby', 'Christopher' -> 'Chris'); and orthographic similarity: 60% Light - modify the visually similar spellings by swapping two adjacent letters (e.g. 'Samantha' -> 'Samatha'), adding a silent letter (e.g. 'Rachel' -> 'Rachell'), or removing a single vowel (e.g. 'Jessica' -> 'Jessia'); 30% Medium - modify the visually similar spellings by replacing one vowel with another (e.g. 'Amanda' -> 'Amenda'), changing one consonant to another similar-looking consonant (e.g. 'Tanya' -> 'Tanja'), \u2026",
-        "label": {
-            "variation_count": 14,
-            "phonetic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3
-            },
-            "orthographic_similarity": {
-                "Light": 0.6,
-                "Medium": 0.3,
-                "Far": 0.1
-            },
-            "rule_percentage": 0.37,
-            "selected_rules": [
-                "add_random_trailing_title",
-                "replace_random_consonant_with_random_consonant",
-                "replace_random_vowel_with_random_vowel"
-            ]
-        }
+      "query_template": "SELECT * FROM VARIATION GENERATOR\nWHERE\n  PHONETIC_SIMILARITY IN ('Light', 'Medium', 'Far') AND\n  PHONETIC_SIMILARITY IS NOT NULL AND\n  PHONETIC_SIMILARITY COUNT > 0 AND\n  PHONETIC_SIMILARITY < (SELECT COUNT(*) FROM PHONETIC_SIMILARITY GROUP BY similarity ORDER BY COUNT(*) DESC LIMIT 1) AND\n  ORTHOGRAPHIC_SIMILARITY IN ('Light', 'Medium', 'Far') AND\n  ORTHOGRAPHIC_SIMILARITY IS NOT NULL AND\n  ORTHOGRAPHIC_SIMILARITY COUNT > 0 AND\n  ORTHOGRAPHIC_SIMILARITY < (SELECT COUNT(*) FROM ORTHOGRAPHIC_SIMILARITY GROUP BY similarity ORDER BY COUNT(*) DESC LIMIT 1) AND\n  RULE_BASED_TRANSFORMATIONS IN ('Abbreviate name parts', 'Insert a random letter', 'Swap adjacent syllables') AND\n  RULE_BASED_TRANSFORMATIONS IS NOT NULL AND\n  RULE_BASED_TRANSFORMATIONS < (SELECT COUNT(DISTINCT transformation) FROM RULE_BASED_TRANSFORMATIONS GROUP BY transformation ORDER BY COUNT(transformation) DESC LIMIT 1)\nORDER BY RANDOM()\nLIMIT 12 * 3\nFOR EACH target_identity IN TARGET_IDENTITY_LIST;\n[VALIDATION HINTS]: Here is the name that you should generate variations of: {name}",
+      "query_label": {
+        "variation_count": 12,
+        "phonetic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.5,
+          "Far": 0.4
+        },
+        "orthographic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "rule_percentage": 0.32
+      }
     },
     {
-        "template": "Here is the Threat Scenario generation query based on your specifications: \"Generate exactly 7 execution vectors for each target identity {name}, ensuring phonetic similarity: 33% variations should be Light sound-alike names (e.g., 'John' becomes 'Jon'), 34% variations should be Medium sound-alike names (e.g., 'John' becomes 'Jan'), and 33% variations should be Far sound-alike names (e.g., 'John' becomes 'Zhon'), in addition to ensuring orthographic similarity: 100% of the variations should have visually similar spellings. Furthermore, approximately 27% of the generated variations should follow these rule-based transformations: Remove a random consonant from the original name {name} (e.g., 'John' becomes 'Joan'), Replace one or more random consonants with different consonants in the original name {name} (e.g., 'John' becomes 'Jorn'), and Swap adjacent consonants in the original name {nam \u2026",
-        "label": {
-            "variation_count": 7,
-            "phonetic_similarity": {
-                "Light": 0.33,
-                "Medium": 0.34,
-                "Far": 0.33
-            },
-            "orthographic_similarity": {
-                "Medium": 1.0
-            },
-            "rule_percentage": 0.27,
-            "selected_rules": [
-                "remove_random_consonant",
-                "replace_random_consonant_with_random_consonant",
-                "swap_adjacent_consonants"
-            ]
-        }
+      "query_template": "Here is the query template:\\n\\nGenerate {number} variations of {name}, ensuring phonetic similarity (50% Light, 50% Medium) and orthographic similarity (10% Light, 50% Medium, 40% Far). Approximately 17% of the total variations should follow these rule-based transformations: Additionally, generate variations that duplicate a random letter for each occurrence in {name}.",
+      "query_label": {
+        "variation_count": 5,
+        "phonetic_similarity": {
+          "Light": 0.5,
+          "Medium": 0.5
+        },
+        "orthographic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.5,
+          "Far": 0.4
+        },
+        "rule_percentage": 0.17
+      }
     },
     {
-        "template": "Here is the Threat Scenario generation query that meets all the specifications: \"Generate 14 execution vectors (name variations) for the target identity {name}. Ensure that 50% of these variations exhibit phonetic similarity, with 50% being Light and 50% being Medium. Additionally, ensure that 70% of these variations exhibit orthographic similarity, with 70% being Light and 30% being Medium. Furthermore, approximately 39% of the generated variations should follow this rule-based transformation: Use first name initial with last name. The remaining 61% can be randomly generated variations of {name} without any specific similarity requirements.\"",
-        "label": {
-            "variation_count": 14,
-            "phonetic_similarity": {
-                "Light": 0.5,
-                "Medium": 0.5
-            },
-            "orthographic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3
-            },
-            "rule_percentage": 0.39,
-            "selected_rules": [
-                "initial_only_first_name"
-            ]
-        }
+      "query_template": "Generate 5-10 variations of {name} for each target identity, ensuring phonetic similarity with 30% Light variations (e.g. \"Samantha\" becomes \"Sam\"), 40% Medium variations (e.g. \"Samantha\" becomes \"Sumantha\"), and 30% Far variations (e.g. \"Samantha\" becomes \"Zamantah\"). Also ensure orthographic similarity with 20% Light variations (e.g. \"Samantha\" becomes \"Samanta\"), 60% Medium variations (e.g. \"Samantha\" becomes \"Sumantha\"), and 20% Far variations (e.g. \"Samantha\" becomes \"Zamantah\"). Approximately 25% of the total variations should follow these rule-based transformations: Additionally, generate variations that perform these transformations: Insert a random letter (e.g. \"John\" becomes \"Johnc\"), and Convert name to initials (e.g. \"John Smith\" becomes \"JS\").",
+      "query_label": {
+        "variation_count": 5,
+        "phonetic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.25
+      }
     },
     {
-        "template": "Here is the threat scenario generation query based on the provided specifications: \"Generate exactly 6 execution vectors (name variations) for each target identity {name}, ensuring phonetic similarity: create 30% of variations by modifying names to sound similar but not identical, and an additional 70% by making names that are almost indistinguishable from the original. For orthographic similarity: generate 50% of variations with visually similar spellings, but not identical, and another 50% that are nearly identical. Additionally, for approximately 26% of the variations, apply rule-based transformations to name {name} as follows: Replace random consonants with different consonants.\"",
-        "label": {
-            "variation_count": 6,
-            "phonetic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.7
-            },
-            "orthographic_similarity": {
-                "Light": 0.5,
-                "Medium": 0.5
-            },
-            "rule_percentage": 0.26,
-            "selected_rules": [
-                "replace_random_consonant_with_random_consonant"
-            ]
-        }
+      "query_template": "Here is the query template:\\n\\n\"Generate exactly 15 execution vectors for {name}, including phonetic similarity variations:\\n- Light: Sound-alike names using suffix substitution (e.g. \\'-ov\\', \\'-in\\', etc.) and prefix addition (e.g. \\'de-\\', \\'re-\\', etc.) {2-4 times}\\n- Medium: Sound-alike names using vowel or consonant modification, e.g. replacing \\'a\\' with \\'e\\' or swapping sounds in different positions\\n- Far: Unlikely sound-alike names using completely different letter combinations\\n\\nAlso include orthographic similarity variations:\\n- Light: Visually similar spellings with small modifications (e.g. adding or removing one letter)\\n- Medium: Visually similar spellings with medium-sized modifications (e.g. swapping adjacent letters, inserting a new word)\\n- Far: Unlikely visually similar spellings using completely different character combinations\\n\\nApproximately 39% of the total variations should follow these rule-based transformations:\\nAdditionally, generate variations that perform these transformations:\\nUse first name initial with last name\\nSwap adjacent consonants\"\\n\\nNote: The numbers in parentheses are examples and may vary based on the specific requirements.\\n[VALIDATION HINTS]: Phonetic similarity: 30% Light.; Orthographic similarity: 20% Light.; Orthographic similarity: 20% Far, 20% Light, 60% Medium.; Phonetic similarity: 30% Far, 30% Light, 40% Medium.",
+      "query_label": {
+        "variation_count": 15,
+        "phonetic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.39
+      }
     },
     {
-        "template": "Here is the threat scenario generation query based on the specifications: \"Generate 7 variations of the name {name}, ensuring phonetic similarity: 20% Light (add or remove a syllable), 60% Medium (change one sound in the middle or end), and 20% Far (change multiple sounds or swap vowels and consonants); and for orthographic similarity: 70% Light (add or remove one letter, replace with similar-sounding letter) and 30% Medium (replace with different-sounding letter); Additionally, generate variations that perform these rule-based transformations: Replace random consonants with different consonants; Convert name to initials.\"",
-        "label": {
-            "variation_count": 7,
-            "phonetic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "orthographic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3
-            },
-            "rule_percentage": 0.1,
-            "selected_rules": [
-                "replace_random_consonant_with_random_consonant",
-                "shorten_name_to_initials"
-            ]
-        }
+      "query_template": "SELECT * FROM execution_vectors AS TV\nWHERE tv.id IN (\n  SELECT tv2.id\n  FROM (\n    SELECT name\n    FROM target_identities\n    UNION ALL\n    -- Phonetic Similarity (Sound-alike Names)\n    SELECT LEETNAME(name) AS name\n    FROM target_identities\n    UNION ALL\n    -- Orthographic Similarity (Visually Similar Spellings)\n    SELECT SPELLCHECK(name) AS name\n    FROM target_identities\n  ) AS T\n  GROUP BY T.name\n  ORDER BY RAND()\n  LIMIT 9*9\n);\n\n-- Rule-Based Transformations:\nSELECT * FROM execution_vectors AS TV\nWHERE tv.id IN (\n  SELECT tv2.id\n  FROM (\n    SELECT name\n    FROM target_identities\n    UNION ALL\n    -- Remove a random consonant\n    SELECT SUBSTR(name, 1, RAND()*length(name)) || SUBSTR(name, 2)\n    FROM target_identities\n    UNION ALL\n    -- Replace random vowels with different vowels\n    SELECT REPLACE(SUBSTR(name, 1), CASE WHEN RAND()<0.4 THEN 'A' ELSE 'E' END, CASE WHEN RAND()<0.3 THEN 'O' ELSE 'I' END) || SUBSTR(name, 2)\n    FROM target_identities\n    UNION ALL\n    -- Replace spaces with special characters\n    SELECT REPLACE(SUBSTR(name, 1), ' ', CASE WHEN RAND()<0.7 THEN '_' ELSE '' END) || SUBSTR(name, 2)\n    FROM target_identities\n  ) AS T\n  GROUP BY T.name\n  ORDER BY RAND()\n  LIMIT 9*8\n);\n\n-- Combine Phonetic and Orthographic Transformations with Rule-Based Transformations:\nSELECT * FROM execution_vectors AS TV\nWHERE tv.id IN (\n  SELECT tv2.id\n  FROM (\n    SELECT name\n    FROM target_identities\n    UNION ALL\n    -- Phonetic Similarity (Sound-alike Names)\n    SELECT LEETNAME(name) AS name\n    FROM target_identities\n    UNION ALL\n    -- Orthographic Similarity (Visually Similar Spellings)\n    SELECT SPELLCHECK(name) AS name\n    FROM target_identities\n    UNION ALL\n    -- Rule-Based Transformations\n    SELECT SUBSTR(SPELLCHECK(name), 1, RAND()*length(SPELLCHECK(name))) || SPELLCHECK(SPELLCHECK(name), 2)\n    FROM target_identities\n    UNION ALL\n    -- Additional rule-based transformations...\n  ) AS T\n  GROUP BY T.name\n  ORDER BY RAND()\n  LIMIT 9*8\n);\n[VALIDATION HINTS]: Here is the name that you should generate variations of: {name}",
+      "query_label": {
+        "variation_count": 9,
+        "phonetic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "orthographic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "rule_percentage": 0.55
+      }
     },
     {
-        "template": "Here is the query that meets the specified requirements: \"Generate exactly 6 execution vectors (name variations) for each target identity {name}. Ensure phonetic similarity by implementing 50% Light and 50% Medium variations. For orthographic similarity, implement 10% Light, 30% Medium, and 60% Far variations. Additionally, generate approximately 13% of the variations that follow these rule-based transformations: Insert a random letter in the middle of the name, Swap adjacent syllables (e.g. 'John' becomes 'Jown'), and Swap identical syllables (e.g. 'Robert' becomes 'Robret').\"",
-        "label": {
-            "variation_count": 6,
-            "phonetic_similarity": {
-                "Light": 0.5,
-                "Medium": 0.5
-            },
-            "orthographic_similarity": {
-                "Light": 0.1,
-                "Medium": 0.3,
-                "Far": 0.6
-            },
-            "rule_percentage": 0.13,
-            "selected_rules": [
-                "insert_random_letter",
-                "swap_adjacent_syllables"
-            ]
-        }
+      "query_template": "Generate exactly 8 execution vectors for each target identity {name}, ensuring phonetic similarity with the following distribution: \\n20% Light, where the name sounds similar but has obvious differences in spelling; \\n60% Medium, where the name is very close to sounding like the original name but not identical; \\n20% Far, where the name bears no resemblance at all to the original. For orthographic similarity, ensure 100% of variations are visually similar spellings that differ significantly from the original name.\\n\\nApproximately 49% of the total variations should follow these rule-based transformations: \\nRemove a random consonant and replace it with a different one;",
+      "query_label": {
+        "variation_count": 8,
+        "phonetic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "orthographic_similarity": {
+          "Far": 1.0
+        },
+        "rule_percentage": 0.49
+      }
     },
     {
-        "template": "Here is the query based on your specifications: \"Generate 14 execution vectors in the form of name variations for the target identity {name}, ensuring phonetic similarity: for 30% of the variations, employ Light transformations, and for 70% of the variations, employ Medium transformations; also, ensure orthographic similarity: for all variations (100%), implement Light transformations. Additionally, generate variations that perform these rule-based transformations: Add a title prefix (Mr., Dr., etc.) to approximately 20% (41% / 2) of the variations, and Use first name initial with last name to another 21% (41% / 2) of the variations.\"",
-        "label": {
-            "variation_count": 14,
-            "phonetic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.7
-            },
-            "orthographic_similarity": {
-                "Light": 1.0
-            },
-            "rule_percentage": 0.41,
-            "selected_rules": [
-                "add_random_leading_title",
-                "initial_only_first_name"
-            ]
-        }
+      "query_template": "Generate exactly 6 execution vectors for {name}, ensuring phonetic similarity with the following distributions: 30% Light sound-alike names, 40% Medium sound-alike names, and 30% Far sound-alike names. Additionally, ensure orthographic similarity with the following distributions: 20% Light visually similar spellings, 60% Medium visually similar spellings, and 20% Far visually similar spellings. Approximately 59% of the total variations should follow these rule-based transformations: Remove a random consonant from {name}, Abbreviate name parts in {name}, and Replace a random vowel with a different vowel in {name}. The remaining 41% of variations should randomly fall into one of the specified similarity categories.",
+      "query_label": {
+        "variation_count": 6,
+        "phonetic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.59
+      }
     },
     {
-        "template": "Here is the threat scenario generation query with the specified requirements: \"Generate exactly 14 execution vectors (name variations) for each target identity {name}. To achieve phonetic similarity (sound-alike names), ensure the following distribution: - 33% of the variations should be Light phonetic variations, which can be generated using a soundex algorithm or a similar method to produce minimal changes in pronunciation. - 34% of the variations should be Medium phonetic variations, which can be generated by altering one or two sounds within the original name, while still maintaining a recognizable pronunciation. - 33% of the variations should be Far phonetic variations, which involve more significant changes in pronunciation, making it harder to recognize the original sound. For orthographic similarity (visually similar spellings), ensure the following distribution: - 60% of the var \u2026",
-        "label": {
-            "variation_count": 14,
-            "phonetic_similarity": {
-                "Light": 0.33,
-                "Medium": 0.34,
-                "Far": 0.33
-            },
-            "orthographic_similarity": {
-                "Light": 0.6,
-                "Medium": 0.3,
-                "Far": 0.1
-            },
-            "rule_percentage": 0.3,
-            "selected_rules": [
-                "shorten_name_to_abbreviations"
-            ]
-        }
+      "query_template": "Generate 5 execution vectors for {name}, ensuring phonetic similarity (30% Light, \"{name}y\", \"{name}i\") and orthographic similarity (40% Medium, \"{name}n\", \"{name}s\"). Additionally, generate variations that: Approximately 43% of the total variations should follow these rule-based transformations: Remove all spaces.\n[VALIDATION HINTS]: Phonetic similarity: 30% Light, 40% Medium, 30% Far.; Orthographic similarity: 100% Light.; Phonetic similarity: 30% Far, 30% Light, 40% Medium.; Apply these rule-based transformations: Remove all spaces.",
+      "query_label": {
+        "variation_count": 5,
+        "phonetic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "orthographic_similarity": {
+          "Light": 1.0
+        },
+        "rule_percentage": 0.43
+      }
     },
     {
-        "template": "Here is the Threat Scenario generation query with the specified requirements: \"Generate 5 execution vectors for each target identity {name}, ensuring phonetic similarity by applying the following probabilities: 20% of variations should be Light (e.g. {name} -> L{name}) 60% of variations should be Medium (e.g. {name} -> M{name}) 20% of variations should be Far (e.g. {name} -> F{name}) Additionally, generate 5 more execution vectors for each target identity {name}, ensuring orthographic similarity by applying the following probabilities: 60% of variations should be Light (e.g. {name} -> {name}y) 30% of variations should be Medium (e.g. {name} -> {name}ie) 10% of variations should be Far (e.g. {name} -> {name}zz) Also, include approximately 42% of the total execution vectors that follow these rule-based transformations: Convert name to initials (e.g. John Smith -> J.S.) This will generate a \u2026",
-        "label": {
-            "variation_count": 5,
-            "phonetic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "orthographic_similarity": {
-                "Light": 0.6,
-                "Medium": 0.3,
-                "Far": 0.1
-            },
-            "rule_percentage": 0.42,
-            "selected_rules": [
-                "shorten_name_to_initials"
-            ]
-        }
+      "query_template": "Generate 9 name variations for {name}, ensuring phonetic similarity of 100% Medium. Generate another 36 variations that are orthographically similar to the original name with a similarity threshold of 100% Far. Approximately 19% of the total 45 variations should follow these rule-based transformations: Additionally, generate variations that perform these transformations: Replace spaces with special characters, Swap adjacent consonants, and Add a title suffix (Jr., PhD, etc.).",
+      "query_label": {
+        "variation_count": 9,
+        "phonetic_similarity": {
+          "Medium": 1.0
+        },
+        "orthographic_similarity": {
+          "Far": 1.0
+        },
+        "rule_percentage": 0.19
+      }
     },
     {
-        "template": "Here is the Threat Scenario generation query based on your specifications: \"Generate 14 variations of the name {name}, ensuring phonetic similarity: 70% Light variations are generated using Soundex algorithm with a 1-2 edit distance, and 30% Medium variations are generated using Metaphone algorithm; for orthographic similarity: 20% Light variations are generated by replacing one character in the original name with a similar-looking character (e.g. '0' instead of 'O'), 60% Medium variations are generated by swapping two adjacent characters or adding/removing one character, and 20% Far variations are generated by replacing three or more characters; and also include approximately 59% of variations that follow these rule-based transformations: Additionally, generate variations that perform these transformations: Swap random adjacent letters (e.g. 'ab' becomes 'ba'), and Add a title prefix (M \u2026",
-        "label": {
-            "variation_count": 14,
-            "phonetic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3
-            },
-            "orthographic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "rule_percentage": 0.59,
-            "selected_rules": [
-                "swap_random_letter",
-                "add_random_leading_title"
-            ]
-        }
+      "query_template": "Generate 10 variations of {name}, ensuring phonetic similarity (30% Light, 40% Medium, 30% Far) and orthographic similarity (20% Light, 60% Medium, 20% Far). Approximately 20% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace a random letter with a similar-looking character; Remove a random vowel; Transpose two adjacent letters; Add a silent prefix or suffix commonly used in {name}'s language; Remove a random consonant.",
+      "query_label": {
+        "variation_count": 10,
+        "phonetic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.2
+      }
     },
     {
-        "template": "Here is the query that meets all the requirements: \"Generate 6 variations of the name {name}, ensuring phonetic similarity: 70% Light: Similar to {name} with vowel substitution (e.g., 'a' becomes 'e', 'i' becomes 'o') 30% Medium: Similar to {name} with consonant-vowel substitution (e.g., 'c' becomes 'b', 'a' becomes 'e') And orthographic similarity: 30% Light: Similar to {name} with character insertion (e.g., adding a hyphen or an apostrophe) 70% Medium: Similar to {name} with partial word substitution (e.g., replacing part of the name with another word) Additionally, generate variations that perform these transformations: 20% of the time, delete a random letter from {name} 20% of the time, remove a random consonant from {name}\" Note that I've used a natural language format to ensure that all requirements are explicitly stated. The query also includes both similarity requirements (phonet \u2026",
-        "label": {
-            "variation_count": 6,
-            "phonetic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.7
-            },
-            "rule_percentage": 0.2,
-            "selected_rules": [
-                "delete_random_letter",
-                "remove_random_consonant"
-            ]
-        }
+      "query_template": "Generate 12 variations of {name}, ensuring phonetic similarity with 10% variation resembling Light, 30% variation resembling Medium, and 60% variation resembling Far. Also ensure orthographic similarity at 100%. Approximately 58% of the total variations should follow these rule-based transformations: \\nAdd a title prefix (Mr., Dr., etc.) to {name}, resulting in {title} {name}. \\nSwap two adjacent letters in {name} to create a new name, such as if \\'John\\' becomes \\'JohN\\'. \\nAdditionally, generate variations that perform these transformations: Add a title prefix (Mr., Dr., etc.), and Swap random adjacent letters, while maintaining the same level of phonetic and orthographic similarity.",
+      "query_label": {
+        "variation_count": 12,
+        "phonetic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "orthographic_similarity": {
+          "Medium": 1.0
+        },
+        "rule_percentage": 0.58
+      }
     },
     {
-        "template": "Here is the query based on your specifications: \"Generate 15 variations of the name {name}, ensuring phonetic similarity: 60% Light, 30% Medium, 10% Far; and for each variation, approximately calculate the required number of medium (n) such that n = 0.3 * total number of variations; with a random probability distribution of exactly 4-5 names in the light category and 5-6 names in the medium category, while also ensuring orthographic similarity: 100% Medium; and also include approximately 41% of variations that follow these rule-based transformations: Additionally, generate variations that perform these transformations on the original name: Insert a random letter at any position, Swap two adjacent letters to create a new variation, and Use the first name initial with the last name.\" However, I noticed you specified \"approximately\" for a specific percentage, which might be difficult to imp \u2026",
-        "label": {
-            "variation_count": 15,
-            "phonetic_similarity": {
-                "Light": 0.6,
-                "Medium": 0.3,
-                "Far": 0.1
-            },
-            "orthographic_similarity": {
-                "Medium": 1.0
-            },
-            "rule_percentage": 0.41,
-            "selected_rules": [
-                "insert_random_letter",
-                "swap_random_letter",
-                "initial_only_first_name"
-            ]
-        }
+      "query_template": "Generate 11 variations of {name}, ensuring phonetic similarity (50% Light, e.g. {name} -> Meena) and orthographic similarity (50% Medium, e.g. {name} -> Menah). Approximately 22% of the total variations should follow these rule-based transformations: Reorder name parts, such as \"John Doe\" becoming \"Doe John\".",
+      "query_label": {
+        "variation_count": 11,
+        "phonetic_similarity": {
+          "Light": 0.5,
+          "Medium": 0.5
+        },
+        "orthographic_similarity": {
+          "Light": 0.5,
+          "Medium": 0.5
+        },
+        "rule_percentage": 0.22
+      }
     },
     {
-        "template": "Here is the query: \"Generate exactly 15 execution vectors for each target identity {name}, ensuring phonetic similarity as follows: - 33% of variations should be Light (phonetically similar but not visually similar) - 34% of variations should be Medium (phonetically and orthographically somewhat similar, but not identical) - 33% of variations should be Far (phonetically dissimilar) Additionally, generate variations that follow: Approximately 50% of the variations should follow these rule-based transformations: Remove a random consonant. The query should then produce exactly 15 variations for each target name, with the specified distribution of phonetic similarity levels and approximately 50% following the rule-based transformation.\"",
-        "label": {
-            "variation_count": 15,
-            "phonetic_similarity": {
-                "Light": 0.33,
-                "Medium": 0.34,
-                "Far": 0.33
-            },
-            "orthographic_similarity": {
-                "Light": 0.5,
-                "Medium": 0.5
-            },
-            "rule_percentage": 0.5,
-            "selected_rules": [
-                "remove_random_consonant"
-            ]
-        }
+      "query_template": "Generate 5-10 variations of {name}, ensuring phonetic similarity (50% Light names, e.g. {name}i, {name}y, 50% Medium names, e.g. {name}ie, {name}o) and orthographic similarity (10% Light names, e.g. {name}ee, 30% Medium names, e.g. {name}iee, 60% Far names, e.g. {name}iin). Approximately 23% of the total variations should follow these rule-based transformations: Additionally, generate variations that perform these transformations: Replace spaces with special characters (e.g. {name}! , {name}_), Remove a random vowel (e.g. {name}t, {name}nk), and Add a title prefix (Mr., Dr., etc.) to {name} (e.g. Mr.{name}, Dr.{name}).",
+      "query_label": {
+        "variation_count": 5,
+        "phonetic_similarity": {
+          "Light": 0.5,
+          "Medium": 0.5
+        },
+        "orthographic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "rule_percentage": 0.23
+      }
     },
     {
-        "template": "Here is the query: \"Generate 6 execution vectors (name variations) for the target identity {name}, ensuring phonetic similarity: 50% Light, 50% Medium; and orthographic similarity: 100% Medium. Additionally, generate approximately 17% of these variations that perform rule-based transformations: Swap adjacent consonants, Remove a random vowel, and Replace random vowels with different vowels.\" Note that I have followed the exact formatting requirements specified in your request. Let me know if you'd like me to execute this query or provide further assistance!",
-        "label": {
-            "variation_count": 6,
-            "phonetic_similarity": {
-                "Light": 0.5,
-                "Medium": 0.5
-            },
-            "orthographic_similarity": {
-                "Medium": 1.0
-            },
-            "rule_percentage": 0.17,
-            "selected_rules": [
-                "swap_adjacent_consonants",
-                "remove_random_vowel",
-                "replace_random_vowel_with_random_vowel"
-            ]
-        }
+      "query_template": "Generate 7 variations of {name}, ensuring phonetic similarity with 10% Light names, 30% Medium names, and 60% Far names. Additionally, ensure orthographic similarity with 20% Light, 60% Medium, and 20% Far names.\\n\\nApproximately 33% of the total variations should follow these rule-based transformations: \\n\\n1. Replace a random letter in {name} with an alternative spelling (e.g., 't' becomes 'd', or vice versa).\\n2. Change a random letter in {name} to its similar-sounding phonetic equivalent (e.g., 'c' becomes 'k').\\n3. Remove a random consonant from {name}.\\n4. Duplicate a random letter in {name}.\\n5. Swap two adjacent letters in {name}.\\n6. Replace a vowel with a different vowel in {name}.\\n7. Add an apostrophe to the end of {name} or replace an existing one.\\n\\nThe remaining 67% should not follow these rule-based transformations but instead aim for phonetic and orthographic similarity as described earlier.",
+      "query_label": {
+        "variation_count": 7,
+        "phonetic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.33
+      }
     },
     {
-        "template": "Here is the SQL query to generate the threat scenario: ```sql WITH NameVariations AS ( SELECT LTRIM(RTRIM(SUBSTR('abcdefghijklmnopqrstuvwxyz', FLOOR(RAND() * 26) + 1)))) AS Letter, 'a' AS FirstLetter, 'e' AS SecondLetter, 'i' AS ThirdLetter, 'o' AS FourthLetter, 'u' AS FifthLetter FROM DUAL ) SELECT (SELECT COUNT(*) FROM NameVariations NV WHERE NV.Letter = LTRIM(RTRIM(SUBSTR('{name}', 1, 1))) AND NV.FirstLetter = '{name}'[1:2]) * 0.5 AS Light, (SELECT COUNT(*) FROM NameVariations NV WHERE NV.Letter = LTRIM(RTRIM(SUBSTR('{name}', 1, 1))) AND NV.FirstLetter = '{name}'[1:2] AND NV.SecondLetter = '{name}'[2:3]) * 0.5 AS Medium, (SELECT COUNT(*) FROM NameVariations NV WHERE NV.Letter = LTRIM(RTRIM(SUBSTR('{name}', 1, 1))) AND NV.FirstLetter = '{name}'[1:2] AND NV.SecondLetter = '{name}'[2:3] AND NV.ThirdLetter = '{name}'[3:4]) * 0.7 AS LightOrthographic, (SELECT COUNT(*) FROM NameVariations N \u2026",
-        "label": {
-            "variation_count": null,
-            "phonetic_similarity": {
-                "Light": 0.5,
-                "Medium": 0.5
-            },
-            "orthographic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3
-            },
-            "rule_percentage": 0.41,
-            "selected_rules": [
-                "insert_random_letter"
-            ]
-        }
+      "query_template": "SELECT * FROM execution_vectors\nWHERE id IN (\n  SELECT id\n  FROM targets\n  JOIN target_variations ON targets.id = target_variations.target_id\n  WHERE target_variations.name_variation LIKE '%{name}' AND target_variations.similarity_type='phonetic'\n  GROUP BY target_variations.name_variation\n  HAVING COUNT(*) >= 10\n)\nOR id IN (\n  SELECT id\n  FROM targets\n  JOIN target_variations ON targets.id = target_variations.target_id\n  WHERE target_variations.name_variation LIKE '%{name}' AND target_variations.similarity_type='orthographic'\n  GROUP BY target_variations.name_variation\n  HAVING COUNT(*) >= 10\n)\nOR id IN (\n  SELECT id\n  FROM targets\n  JOIN rule_based_transformations ON targets.id = rule_based_transformations.target_id\n  WHERE rule_based_transformations.name_variation LIKE '%{name}' AND rule_based_transformations.transform_type='remove_vowel'\n  GROUP BY rule_based_transformations.name_variation\n  HAVING COUNT(*) >= 10\n)\nOR id IN (\n  SELECT id\n  FROM targets\n  JOIN target_variations ON targets.id = target_variations.target_id\n  WHERE target_variations.name_variation LIKE '%{name}' AND target_variations.similarity_type='both'\n  GROUP BY target_variations.name_variation\n  HAVING COUNT(*) >= 10\n);\n[VALIDATION HINTS]: Phonetic similarity: 70% Light.; Orthographic similarity: 20% Light.; Approximately 51% of the variations should follow rule-based transformations. Apply these rule-based transformations: Remove a random vowel.",
+      "query_label": {
+        "variation_count": 10,
+        "phonetic_similarity": {
+          "Light": 0.7,
+          "Medium": 0.3
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.51
+      }
     },
     {
-        "template": "Here is the query template:\\n\\n\\\"Generate 9 variations of {name}, ensuring phonetic similarity (20% Light, 60% Medium, 20% Far) and orthographic similarity (10% Light, 30% Medium, 60% Far). Approximately 55% of the total variations should follow these rule-based transformations: Append suffixes to first name, append prefixes to last name, append middle names in random order, remove middle name if present, reorder first and last name, replace vowels with consonants, insert numerical characters, truncate first name to 3 characters, truncate last name to 4 characters. Additionally, generate variations that: Reorder name parts.\\\"",
-        "label": {
-            "variation_count": 9,
-            "phonetic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "orthographic_similarity": {
-                "Light": 0.1,
-                "Medium": 0.3,
-                "Far": 0.6
-            },
-            "rule_percentage": 0.55,
-            "selected_rules": [
-                "name_parts_permutations"
-            ]
-        }
+      "query_template": "SELECT\n    name,\n    REPLACE(name, LPAD(' ', 1, 'a'), '') AS name_without_space,\n    LOWER(name) AS lowercase_name\nFROM\n    (SELECT DISTINCT name FROM entities) AS entities\nCROSS JOIN\n    (SELECT ROW_NUMBER() OVER () AS num\n     FROM (SELECT 14 FROM DUAL) AS d) AS n\nCROSS APPLY\n    (CASE WHEN num < 7 THEN POWER(10, 0.7 * FLOOR(RAND() * 100)) END) AS phonetic_similarity\nCROSS APPLY\n    (CASE WHEN num BETWEEN 7 AND 12 THEN POWER(10, 0.6 * FLOOR(RAND() * 100)) ELSE POWER(10, 0.2 * FLOOR(RAND() * 100)) END) AS orthographic_similarity\nCROSS APPLY\n    (CASE WHEN num <= 4 THEN 'Light' WHEN num BETWEEN 5 AND 12 THEN 'Medium' ELSE 'Far' END) AS similarity_type\nCROSS APPLY\n    CASE\n        WHEN FLOOR(RAND() * 100) < 52 THEN\n            (CASE WHEN FLOOR(RAND() * 100) < 25 THEN LOWER(name) + ' Jr.' ELSE LOWER(name) + ' PhD' END)\n        ELSE REPLACE(REPLACE(LOWER(name), LPAD(' ', 1, 'a'), ''), LPAD(' ', 1, 'a'), '')\n    END AS rule_based_transformation\n[VALIDATION HINTS]: Here is the name that you should generate variations of: {name}",
+      "query_label": {
+        "variation_count": 14,
+        "phonetic_similarity": {
+          "Light": 0.7,
+          "Medium": 0.3
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.52
+      }
     },
     {
-        "template": "Generate 8 variations of {name}, ensuring phonetic similarity with 70% Light variations and 30% Medium variations. Ensure orthographic similarity with 50% Light variations and 50% Medium variations. Approximately 14% of the total variations should follow these rule-based transformations: Additionally, generate variations that perform these transformations: Replace a random vowel in {name} with an empty string or a different vowel, and abbreviate name parts by truncating them to 2-3 characters.\\n[VALIDATION HINTS]: Apply these rule-based transformations: Remove a random vowel.; Orthographic similarity: 50% Light, 50% Medium.; Phonetic similarity: 30% Medium, 70% Light.",
-        "label": {
-            "variation_count": 8,
-            "phonetic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3,
-                "Far": 0.0
-            },
-            "orthographic_similarity": {
-                "Light": 0.5,
-                "Medium": 0.5,
-                "Far": 0.0
-            },
-            "rule_percentage": 0.14,
-            "selected_rules": [
-                "remove_random_vowel",
-                "shorten_name_to_abbreviations"
-            ]
-        }
+      "query_template": "SELECT * FROM execution_vectors\nWHERE target_identity IN (\n  SELECT id FROM entities\n) AND similarity_type IN ('phonetic', 'orthographic') AND similarity_score > 0.5\nAND rule_based_transformation IN ('Abbreviate name parts', 'Reorder name parts', 'Replace spaces with special characters') AND rule_based_transformation_probability BETWEEN 0.45 AND 1.00\n[VALIDATION HINTS]: Here is the name that you should generate variations of: {name}",
+      "query_label": {
+        "variation_count": 15,
+        "phonetic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "orthographic_similarity": {
+          "Medium": 1.0
+        },
+        "rule_percentage": 0.45
+      }
     },
     {
-        "template": "Generate 9 variations of {name}, ensuring phonetic similarity (20% Light, e.g. {name}y, {name}i, etc., 60% Medium, e.g. {name}ee, {name}ay, etc., 20% Far, e.g. {name}kuh, {name}shun, etc.) and orthographic similarity (20% Light, e.g. {name}, {name}s, etc., 60% Medium, e.g. {name}e, {name}a, etc., 20% Far, e.g. {name}kh, {name}z, etc.). Approximately 54% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace a letter with a similar-looking one (e.g. o -> q), Transpose two adjacent letters, Insert a random letter between two existing ones, Remove a single letter, Append a common suffix (e.g. -ian, -son).",
-        "label": {
-            "variation_count": 9,
-            "phonetic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "orthographic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "rule_percentage": 0.54,
-            "selected_rules": [
-                "insert_random_letter"
-            ]
-        }
+      "query_template": "Generate 55 variations of {name}, ensuring phonetic similarity (10% Light, e.g. {name}-a, 50% Medium, e.g. {name}akin, 40% Far, e.g. {name}ekin) and orthographic similarity (10% Light, e.g. {name}y, 50% Medium, e.g. {name}ey, 40% Far, e.g. {name}eki). Approximately 11% of the total variations should follow these rule-based transformations: Additionally, generate variations that perform these transformations: Convert name to initials (e.g. J.Smith), Abbreviate name parts (e.g. John S.), and Add a title prefix (Mr., Dr., etc.) (e.g. Mr. Smith).",
+      "query_label": {
+        "variation_count": 11,
+        "phonetic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.5,
+          "Far": 0.4
+        },
+        "orthographic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.5,
+          "Far": 0.4
+        },
+        "rule_percentage": 0.11
+      }
     },
     {
-        "template": "Generate 14 variations of {name}, ensuring phonetic similarity (100% Far) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 49% of the total variations should follow these rule-based transformations: \\nAdd a title suffix (Jr., PhD, etc.) to {name};\\nConvert {name} to initials;\\n{name} spelled backwards;\\n{name} with a random character added at the beginning or end;\\n{name} with each word capitalized;\\n{name} with a hyphen between words;\\n{name} with a space between words replaced with no space;\\nRemove all vowels from {name};\\nRemove all consonants from {name};\\nChange first and last letters of {name};\\nAdd a prefix to {name}; \\nAdd a suffix to {name};",
-        "label": {
-            "variation_count": 14,
-            "phonetic_similarity": {
-                "Light": 0.0,
-                "Medium": 0.0,
-                "Far": 1.0
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "rule_percentage": 0.49,
-            "selected_rules": [
-                "add_random_trailing_title",
-                "shorten_name_to_initials"
-            ]
-        }
+      "query_template": "Generate 15 variations of {name}, ensuring phonetic similarity (100% Medium) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 42% of the total variations should follow these rule-based transformations: Insert a random letter between two existing letters; Replace a random letter with a similar-sounding letter; Delete a random letter; Remove a random vowel.",
+      "query_label": {
+        "variation_count": 15,
+        "phonetic_similarity": {
+          "Medium": 1.0
+        },
+        "orthographic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "rule_percentage": 0.42
+      }
     },
     {
-        "template": "Generate 13 variations of {name}, ensuring phonetic similarity (100% Medium) and orthographic similarity (20% Light, 60% Medium, 20% Far). Approximately 22% of the total variations should follow these rule-based transformations: \\n1. Reverse spelling order. \\n2. Remove first/last letter(s). \\n3. Swap adjacent letters.\\n4. Add prefix/suffix. \\n5. Replace similar-sounding letters (e.g., \\\"p\\\" with \\\"b\\\"). \\n6. Additionally, generate variations that: Swap adjacent syllables.",
-        "label": {
-            "variation_count": 13,
-            "phonetic_similarity": {
-                "Light": 0.0,
-                "Medium": 1.0,
-                "Far": 0.0
-            },
-            "orthographic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "rule_percentage": 0.22,
-            "selected_rules": [
-                "swap_adjacent_syllables"
-            ]
-        }
+      "query_template": "SELECT * FROM execution_vectors\nWHERE target_identity = '{name}'\n  AND phonetic_similarity IN ('Light', 'Medium', 'Far')\n  AND orthographic_similarity IN ('Light', 'Medium', 'Far')\n  AND similarity_percentage IN (\n    SELECT 0.2 + (0.6 * RAND()) AS percentage\n    FROM sys.random_numbers\n    LIMIT 20% / 100\n  )\n  AND similarity_percentage IN (\n    SELECT 0.3 + (0.4 * RAND()) AS percentage\n    FROM sys.random_numbers\n    LIMIT 40% / 100\n  )\n  AND similarity_percentage IN (\n    SELECT 0.7 + (0.3 * RAND()) AS percentage\n    FROM sys.random_numbers\n    LIMIT 30% / 100\n  )\n  AND rule_based_transformations IN (\n    SELECT\n      'Use first name initial with last name' AS transformation1,\n      'Swap adjacent syllables' AS transformation2,\n      'Swap random adjacent letters' AS transformation3\n    FROM sys.random_numbers\n    LIMIT 30% / 100\n  )\n[VALIDATION HINTS]: Exact number of variations: 15.; Phonetic similarity: 20% Light, 60% Medium.",
+      "query_label": {
+        "variation_count": 15,
+        "phonetic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "orthographic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "rule_percentage": 0.3
+      }
     },
     {
-        "template": "Generate 5 variations of {name}, ensuring phonetic similarity (30% Light, e.g. \\\"Jhon\\\", 40% Medium, e.g. \\\"Jon\\\", 30% Far, e.g. \\\"Zahn\\\") and orthographic similarity (30% Light, e.g. \\\"{name}y\\\", 40% Medium, e.g. \\\"{name}son\\\", 30% Far, e.g. \\\"{name}szk\\\"). Approximately 47% of the total variations should follow these rule-based transformations: \\n- Replace first character with similar sound (e.g., \\\"p\\\" for \\\"b\\\"), \\n- Remove or add one letter from the end, \\n- Swap two adjacent letters within a word, \\n- Reverse order of name parts (e.g. \\\"John Smith\\\" becomes \\\"Smith John\\\").\\n[VALIDATION HINTS]: Apply these rule-based transformations: Reorder name parts.; Phonetic similarity: 30% Far, 30% Light, 40% Medium.; Orthographic similarity: 30% Far, 30% Light, 40% Medium.; Exact number of variations: 5.; Approximately 47% of the variations should follow rule-based transformations.",
-        "label": {
-            "variation_count": 5,
-            "phonetic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "rule_percentage": 0.47,
-            "selected_rules": [
-                "name_parts_permutations"
-            ]
-        }
+      "query_template": "Generate 5 variations of {name}, ensuring phonetic similarity (20% Light, 60% Medium, 20% Far) and orthographic similarity (20% Light, 60% Medium, 20% Far). Approximately 48% of the total variations should follow these rule-based transformations: \\n\\n1. Replace each letter with its corresponding phonetic equivalent.\\n2. Change the vowel sound to a similar one (e.g., 'a' to 'e', 'o' to 'u').\\n3. Swap two adjacent letters.\\n4. Add a suffix or prefix that is commonly used in the given culture or language.\\n5. Replace each consonant with its corresponding digraph or trigraph.\\n\\nAdditionally, generate variations that perform these transformations: \\n\\n1. Add a title prefix (Mr., Dr., etc.).\\n2. Insert a random letter between two existing letters.",
+      "query_label": {
+        "variation_count": 5,
+        "phonetic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.48
+      }
     },
     {
-        "template": "Generate 15 variations of {name}, ensuring phonetic similarity (10% Light, 50% Medium, 40% Far) and orthographic similarity (20% Light, 60% Medium, 20% Far). Approximately 42% of the total variations should follow these rule-based transformations: \n- Remove first name\n- Replace middle initial with middle full name\n- Add suffix (-Jr., -Sr., etc.)\n- Remove title (Mr., Ms., etc.)\n- Reorder name parts\n- Insert or remove spaces within the name\n- Change capitalization of individual letters\n- Add, remove, or modify middle names.",
-        "label": {
-            "variation_count": 15,
-            "phonetic_similarity": {
-                "Light": 0.1,
-                "Medium": 0.5,
-                "Far": 0.4
-            },
-            "orthographic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "rule_percentage": 0.42,
-            "selected_rules": [
-                "name_parts_permutations"
-            ]
-        }
+      "query_template": "SELECT * FROM executions WHERE id IN (SELECT id FROM targets WHERE name = '{name}');\n\nWITH phoneticVariations AS (\n  SELECT 'Light' AS similarity, ROW_NUMBER() OVER (ORDER BY RAND()) AS variation\n  UNION ALL\n  SELECT 'Medium', ROW_NUMBER() OVER (ORDER BY RAND()) AS variation\n  UNION ALL\n  SELECT 'Far', ROW_NUMBER() OVER (ORDER BY RAND()) AS variation\n), orthographicVariations AS (\n  SELECT 'Light' AS similarity, ROW_NUMBER() OVER (ORDER BY RAND()) AS variation\n  UNION ALL\n  SELECT 'Medium', ROW_NUMBER() OVER (ORDER BY RAND()) AS variation\n  UNION ALL\n  SELECT 'Far', ROW_NUMBER() OVER (ORDER BY RAND()) AS variation\n)\nSELECT\n  CONCAT(SUBSTR(SUBSTRING({name}, 1, INSTR({name}, ' ') - 1), 1, INSTR(SUBSTRING({name}, 1, INSTR({name}, ' ') - 1), ' ') - 1)) AS name,\n  CONCAT(SUBSTRING(SUBSTRING({name}, INSTR({name}, ' ') + 1, LEN({name})) , 1, LEN(SUBSTRING(SUBSTRING({name}, INSTR({name}, ' ') + 1, LEN({name})) , INSTR(SUBSTRING(SUBSTRING({name}, INSTR({name}, ' ') + 1, LEN({name})) , ' ') - 1)) AS name,\n  CASE\n    WHEN (ROW_NUMBER() OVER (PARTITION BY ROW_NUMBER() OVER () ORDER BY RAND()) * 0.11 < 10) THEN\n      CONCAT(SUBSTRING(SUBSTRING({name}, INSTR({name}, ' ') + 1, LEN({name})) , 1, INSTR(SUBSTRING(SUBSTRING({name}, INSTR({name}, ' ') + 1, LEN({name})) , ' ') - 1)) AS name,\n      CONCAT(DUPLICATE LETTER(SUBSTRING(SUBSTRING({name}, INSTR({name}, ' ') + 1, LEN({name})) , 1, INSTR(SUBSTRING(SUBSTRING({name}, INSTR({name}, ' ') + 1, LEN({name})) , ' ') - 1)) AS name,\n      CONCAT(' Mr. ', SUBSTRING(SUBSTRING({name}, INSTR({name}, ' ') + 1, LEN({name})) , 1, INSTR(SUBSTRING(SUBSTRING({name}, INSTR({name}, ' ') + 1, LEN({name})) , ' ') - 1)) AS name\n  END AS name\nFROM\n  phoneticVariations CROSS JOIN\n  orthographicVariations\nJOIN executions ON id = executionid\n[VALIDATION HINTS]: Phonetic similarity: 10% Light.; Orthographic similarity: 20% Light.; Approximately 11% of the variations should follow rule-based transformations. Apply these rule-based transformations: Remove all spaces; Add a title prefix (Mr., Dr., etc.); Duplicate a random letter.",
+      "query_label": {
+        "variation_count": 10,
+        "phonetic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.11
+      }
     },
     {
-        "template": "Generate 15 variations of {name}, ensuring phonetic similarity (10% Light, e.g. \"Boris\" -> \"Bryce\", 50% Medium, e.g. \"Boris\" -> \"Baris\", 40% Far) and orthographic similarity (20% Light, e.g. \"Boris\" -> \"Buris\", 60% Medium, e.g. \"Boris\" -> \"Borres\", 20% Far). Approximately 35% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace {name} with a vowel (\"a\", \"e\", \"i\", \"o\", \"u\") removed randomly; Replace {name} with one or more adjacent vowels (\"ai\" -> \"a\", \"ei\" -> \"e\", etc.) replaced with a single random vowel.",
-        "label": {
-            "variation_count": 15,
-            "phonetic_similarity": {
-                "Light": 0.1,
-                "Medium": 0.5,
-                "Far": 0.4
-            },
-            "orthographic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "rule_percentage": 0.35,
-            "selected_rules": [
-                "remove_random_vowel"
-            ]
-        }
+      "query_template": "Here is the query template:\n\n\"Generate exactly 15 execution vectors for {name}, ensuring phonetic similarity with the following distribution: 30% Light, 40% Medium, 30% Far. Additionally, generate variations that exhibit orthographic similarity with a distribution of: 20% Light, 60% Medium, 20% Far. Approximately 48% of the total variations should follow these rule-based transformations:\n- Replace double letters with a single letter\n- Convert name to initials.\n Generate exactly 15 more execution vectors for {name} following the same phonetic and orthographic similarity distributions. Ensure that at least 48% of the new variations adhere to the rule-based transformations mentioned above. Repeat this process 3 times, generating an additional 45 execution vectors per target identity in total.\"",
+      "query_label": {
+        "variation_count": 15,
+        "phonetic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "orthographic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "rule_percentage": 0.48
+      }
     },
     {
-        "template": "Generate 9 variations of {name}, ensuring phonetic similarity (100% Medium) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 56% of the total variations should follow these rule-based transformations: \nConvert {name} to its initials; \nCreate a misspelling of {name} with one character off by one position; \nChange the suffix or prefix of {name}; \nReplace a letter in {name} with a similar sounding letter.",
-        "label": {
-            "variation_count": 9,
-            "phonetic_similarity": {
-                "Light": 0.0,
-                "Medium": 1.0,
-                "Far": 0.0
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "rule_percentage": 0.56,
-            "selected_rules": [
-                "shorten_name_to_initials"
-            ]
-        }
+      "query_template": "SELECT * FROM GenerateExecutionVectors (name \"{name}\")\nWHERE phonetic_similarity IN (Light 20%, Medium 60%, Far 20%)\nAND orthographic_similarity IN (Light 50%, Medium 50%)\nAND rule_based_transformations IN\n(\n    Duplicate a random letter,\n    Add a title suffix (Jr., PhD, etc.),\n    Add a title prefix (Mr., Dr., etc.)\n)\nLIMIT 6",
+      "query_label": {
+        "variation_count": 6,
+        "phonetic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "orthographic_similarity": {
+          "Light": 0.5,
+          "Medium": 0.5
+        },
+        "rule_percentage": 0.6
+      }
     },
     {
-        "template": "Generate 10 variations of {name}, ensuring phonetic similarity (sound-alike names) with a distribution of 10% Light, 30% Medium, and 60% Far, and orthographic similarity (visually similar spellings) with a distribution of 50% Light and 50% Medium. Approximately 34% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace {name} with its phonetic equivalent; Remove one consonant from the middle of {name}; Remove one vowel from the beginning of {name}; Insert \"de\" or \"la\" at the end of {name}; Delete a random letter.",
-        "label": {
-            "variation_count": 10,
-            "phonetic_similarity": {
-                "Light": 0.1,
-                "Medium": 0.3,
-                "Far": 0.6
-            },
-            "orthographic_similarity": {
-                "Light": 0.5,
-                "Medium": 0.5,
-                "Far": 0.0
-            },
-            "rule_percentage": 0.34,
-            "selected_rules": [
-                "delete_random_letter"
-            ]
-        }
+      "query_template": "SELECT * FROM execution_vectors\nWHERE target_identity = '{name}'\nAND similarity_requirement IN (\n    SELECT similarity_type\n    FROM phonetic_similarity\n    WHERE percentage_in_range(30, 40)\n    UNION ALL\n    SELECT similarity_type\n    FROM orthographic_similarity\n    WHERE percentage_in_range(30, 40)\n)\nAND rule_based_transformation IN (\n    SELECT rule_type\n    FROM rule_based_transformations\n    GROUP BY rule_type\n    HAVING COUNT(*) / (SELECT COUNT(*) FROM rule_based_transformations) * 0.43 >= 1 AND COUNT(*) > 0\n)\nAND rule_based_transformation IN ('Remove a random vowel', 'Remove a random consonant')\nORDER BY RANDOM()\nLIMIT 12\n[VALIDATION HINTS]: Phonetic similarity: 30% Light.; Orthographic similarity: 30% Light.; Approximately 43% of the variations should follow rule-based transformations.",
+      "query_label": {
+        "variation_count": 12,
+        "phonetic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "orthographic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "rule_percentage": 0.43
+      }
     },
     {
-        "template": "Generate 14 variations of {name}, ensuring phonetic similarity (70% Light: {name}*, {name}_1*, {name}~*, ..., 30% Medium: {name}##, {name}@@, ...) and orthographic similarity (20% Light: {name}a, {name}e, ..., 60% Medium: {name}A, {name}E, ..., 20% Far: {name}**, {name}***, ...). Approximately 49% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Use first name initial with last name ({name}'s last name), Remove spaces and special characters from full name to create a single word ({name}), Split full name into separate words with no punctuation or spaces (first {name}, last {name}), Replace each letter in the full name with the next letter of the alphabet, wrapping around to A when reaching Z ({name} -> {name2}).",
-        "label": {
-            "variation_count": 14,
-            "phonetic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3,
-                "Far": 0.0
-            },
-            "orthographic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "rule_percentage": 0.49,
-            "selected_rules": [
-                "initial_only_first_name"
-            ]
-        }
+      "query_template": "Generate 7 name variations for {name}, ensuring phonetic similarity by applying light modifications (20%) to make names sound similar but distinct, medium modifications (60%) to create names with a similar sound profile, and far modifications (20%) that significantly alter the pronunciation. Additionally, generate 7 name variations that exhibit orthographic similarity through light modifications (10%) producing visually similar spellings, medium modifications (30%) creating names that closely resemble the original in spelling, and far modifications (60%) resulting in substantially altered spellings.\\n\\nApproximately 37% of these total 14 variations should follow these rule-based transformations: \\n\\nAdditionally, generate name variations that swap random adjacent letters to create entities that deliberately obfuscate their identities through visually similar but distinct names.",
+      "query_label": {
+        "variation_count": 7,
+        "phonetic_similarity": {
+          "Light": 0.2,
+          "Medium": 0.6,
+          "Far": 0.2
+        },
+        "orthographic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.3,
+          "Far": 0.6
+        },
+        "rule_percentage": 0.37
+      }
     },
     {
-        "template": "Generate 15 variations of {name}, ensuring phonetic similarity (70% Light, 30% Medium) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 47% of the total variations should follow these rule-based transformations: \nAdditionally, generate variations that: \n- Use abbreviations for first and last names. \n- Replace first name with a common nickname. \n- Replace last name with a similar-sounding surname. \n- Omit middle name. \n- Reorder name parts (e.g., \"John David Smith\" becomes \"Smith David John\").",
-        "label": {
-            "variation_count": 15,
-            "phonetic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3,
-                "Far": 0.0
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "rule_percentage": 0.47,
-            "selected_rules": [
-                "name_parts_permutations"
-            ]
-        }
+      "query_template": "Generate 5-10 variations of {name}, ensuring phonetic similarity (10% Light, 50% Medium, 40% Far) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 37% of the total variations should follow these rule-based transformations: Use first name initial with last name, Replace random consonants with different consonants.",
+      "query_label": {
+        "variation_count": 5,
+        "phonetic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.5,
+          "Far": 0.4
+        },
+        "orthographic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "rule_percentage": 0.37
+      }
     },
     {
-        "template": "Generate 7 variations of {name}, ensuring phonetic similarity (30% Light, e.g. Met{name}, Mer{name}, etc., 40% Medium, e.g. Mert{name}, Myt{name}, etc., and 30% Far, e.g. Malt{name}, Mar{name}, etc.) and orthographic similarity (30% Light, e.g. {name}ty, {name}sie, etc., 40% Medium, e.g. {name}try, {name}zy, etc., and 30% Far, e.g. {name}rx, {name}vy, etc.). Approximately 58% of the total variations should follow these rule-based transformations: Additionally, generate variations that perform these transformations: Remove all spaces from {name}, Reorder parts in {name}, and Replace a random consonant with X in {name}.",
-        "label": {
-            "variation_count": 7,
-            "phonetic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "rule_percentage": 0.58,
-            "selected_rules": [
-                "remove_all_spaces",
-                "name_parts_permutations",
-                "remove_random_consonant"
-              ]
-        }
+      "query_template": "Generate 6 execution vectors for {name}, ensuring phonetic similarity with 50% Light and 50% Medium variations. Also, generate 6 orthographic similarity variations with 10% Light, 50% Medium, and 40% Far transformations. Approximately 17% of the total 12 variations should follow these rule-based transformations: Replace spaces with special characters, and also create 4-5 additional variations that meet one or more of the following rules:\nReplace {name} with a phonetic equivalent (e.g., \"A\" becomes \"Ace\").\nAdd, remove, or modify one letter to change the spelling.\nSwap first and last names.\nUse abbreviations for titles or prefixes.",
+      "query_label": {
+        "variation_count": 6,
+        "phonetic_similarity": {
+          "Light": 0.5,
+          "Medium": 0.5
+        },
+        "orthographic_similarity": {
+          "Light": 0.1,
+          "Medium": 0.5,
+          "Far": 0.4
+        },
+        "rule_percentage": 0.17
+      }
     },
     {
-        "template": "GENERATE 9 NAME VARIATIONS OF {NAME}, ENSURING PHONETIC SIMILARITY (70% LIGHT TRANSPOSITIONS AND 30% MEDIUM METAPHONES) AND ORTHOGRAPHIC SIMILARITY (20% LIGHT SPELLINGS, 60% MEDIUM SPELLINGS WITH ONE CHARACTER DEVIATION, AND 20% FAR SPELLINGS WITH TWO OR MORE CHARACTER DEVIATIONS). APPROXIMATELY 10% OF THE TOTAL VARIATIONS SHOULD FOLLOW THESE RULE-BASED TRANSFORMATIONS: ADDITIONALLY, GENERATE VARIATIONS THAT: SUBSTITUTE A RANDOM CHARACTER; INSERT A RANDOM CHARACTER; REMOVE A RANDOM CHARACTER; SWAP RANDOM ADJACENT LETTERS.\n[VALIDATION HINTS]: Here is the name that you should generate variations of: {name}",
-        "label": {
-            "variation_count": 9,
-            "phonetic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3,
-                "Far": 0.0
-            },
-            "orthographic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "rule_percentage": 0.1,
-            "selected_rules": [
-                "swap_random_letter"
-            ]
-        }
-    },
-    {
-        "template": "Generate 15 variations of {name}, ensuring phonetic similarity (10% Light, e.g. {name}~L, 30% Medium, e.g. {name}~M, and 60% Far, e.g. {name}~~) and orthographic similarity (30% Light, e.g. {name}*1, 40% Medium, e.g. {name}*2, and 30% Far, e.g. {name}**). Approximately 29% of the total variations should follow these rule-based transformations: Additionally, generate variations that: \n- Replace {name} with a substring of itself (e.g., {name}[3]).\n- Insert random characters between letters in {name}.\n- Remove one random letter from {name}.\n[VALIDATION HINTS]: Apply these rule-based transformations: Swap random adjacent letters.",
-        "label": {
-            "variation_count": 15,
-            "phonetic_similarity": {
-                "Light": 0.1,
-                "Medium": 0.3,
-                "Far": 0.6
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "rule_percentage": 0.29,
-            "selected_rules": [
-                "swap_random_letter"
-            ]
-        }
-    },
-    {
-        "template": "Generate 15 variations of {name}, ensuring phonetic similarity (10% Light, 30% Medium, 60% Far) and orthographic similarity (100% Medium). Approximately 32% of the total variations should follow these rule-based transformations: \n\nAdditionally, generate variations that:\n- Append ' Jr' or 'Sr' to {name}\n- Replace first letter with a similar-sounding letter\n- Change middle name to 'Michael'\n- Remove last name from {name} \n- Insert numbers into {name}\n- Convert name to initials.",
-        "label": {
-            "variation_count": 15,
-            "phonetic_similarity": {
-                "Light": 0.1,
-                "Medium": 0.3,
-                "Far": 0.6
-            },
-            "orthographic_similarity": {
-                "Medium": 1.0
-            },
-            "rule_percentage": 0.32,
-            "selected_rules": [
-                "shorten_name_to_initials"
-            ]
-        }
-    },
-    {
-        "template": "Generate exactly 6 variations of {name}, ensuring phonetic similarity with a distribution of 10% Light, 30% Medium, and 60% Far, and orthographic similarity with a distribution of 50% Light and 50% Medium. Approximately 25% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Transpose adjacent consonant sounds, Replace 'c' with 'k', Replace 'v' with 'b', Remove vowels in the middle, Add 'Mc' prefix to names starting with a vowel, and Swap adjacent syllables.",
-        "label": {
-            "variation_count": 6,
-            "phonetic_similarity": {
-                "Light": 0.1,
-                "Medium": 0.3,
-                "Far": 0.6
-            },
-            "orthographic_similarity": {
-                "Light": 0.5,
-                "Medium": 0.5,
-                "Far": 0.0
-            },
-            "rule_percentage": 0.25,
-            "selected_rules": [
-                "swap_adjacent_syllables"
-            ]
-        }
-    },
-    {
-        "template": "Generate 11 variations of {name}, ensuring phonetic similarity (20% Light, 60% Medium, 20% Far) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 55% of the total variations should follow these rule-based transformations: \n- Add a randomly selected prefix to {name}.\n- Remove the first letter from {name}.\n- Replace the first vowel in {name} with a random digit.\n- Swap the positions of two random letters within {name}.\n- Change the case (lowercase to uppercase or vice versa) for exactly 2 characters in {name}.\n- Transpose adjacent repeated letters in {name}.\n- Add \" Junior\" or \" Sr.\" suffixes randomly.\n- Remove any non-alphanumeric characters from {name}.\n- Replace one random letter in {name} with a number from the alphabet (A = 1, B = 2, etc.).\n- Insert a random word between two words in {name}, if applicable.\n- Replace a single middle name (if present) with initials.\n\nAdditionally, generate variations that: Swap random adjacent letters.",
-        "label": {
-            "variation_count": 11,
-            "phonetic_similarity": {
-                "Light": 0.2,
-                "Medium": 0.6,
-                "Far": 0.2
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "rule_percentage": 0.55,
-            "selected_rules": [
-                "swap_random_letter"
-            ]
-        }
-    },
-    {
-        "template": "SELECT * FROM ExecutionVectors AS EV \nWHERE EV.Type = 'SanctionsScreening'\nAND EV.Name LIKE '{name}' \nAND EV.SimilarityPhonetic IN ('Light', 'Medium', 'Far') \nAND EV.SimilarityOrthographic IN ('Light', 'Medium', 'Far')\nAND EV.RulesBasedTransformation IN (\n  SELECT RuleBasedTransformation\n  FROM SanctionsScreeningRules\n  WHERE RuleBasedTransformation IN ('RemoveRandomVowel')\n)\n[VALIDATION HINTS]: Exact number of variations: 6.; Phonetic similarity: 10% Light.; Orthographic similarity: 30% Light.; Approximately 43% of the variations should follow rule-based transformations.; Phonetic similarity: 10% Light, 30% Medium, 60% Far.; Orthographic similarity: 30% Far, 30% Light, 40% Medium.; Apply these rule-based transformations: Remove a random vowel.",
-        "label": {
-            "variation_count": 6,
-            "phonetic_similarity": {
-                "Light": 0.1,
-                "Medium": 0.3,
-                "Far": 0.6
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "rule_percentage": 0.43,
-            "selected_rules": [
-                "remove_random_vowel"
-            ]
-        }
-    },
-    {
-        "template": "SELECT * FROM executions WHERE id IN (SELECT id FROM targets) AND name = '{name}' AND similarity_type = 'phonetic' ORDER BY random() LIMIT 9; \n\n UNION ALL \n\nSELECT * FROM executions WHERE id IN (SELECT id FROM targets) AND name = '{name}' AND similarity_type = 'orthographic' ORDER BY random() LIMIT 9;\n\nSELECT * FROM executions WHERE id IN (SELECT id FROM targets) AND name = '{name}' AND transformation IN ('abbreviate_name_part', 'swap_adjacent_syllables', 'replace_double_letters') AND probability > 0.6;\n[VALIDATION HINTS]: Phonetic similarity: 30% Light.; Orthographic similarity: 30% Light.; Approximately 60% of the variations should follow rule-based transformations. Apply these rule-based transformations: Abbreviate name parts; Replace double letters with a single letter.",
-        "label": {
-            "variation_count": 9,
-            "phonetic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "orthographic_similarity": {
-                "Light": 0.3,
-                "Medium": 0.4,
-                "Far": 0.3
-            },
-            "rule_percentage": 0.6,
-            "selected_rules": [
-                "shorten_name_to_abbreviations",
-                "swap_adjacent_syllables",
-                "replace_double_letters_with_single_letter"
-            ]
-        }
-    },
-    {
-        "template": "Here is the query template:\n\n\"Generate exactly 14 variations of {name}, ensuring phonetic similarity (70% Light, 30% Medium) and orthographic similarity (100% Light). Approximately 44% of the total variations should follow these rule-based transformations: Additionally, generate variations that: Replace double letters with a single letter.\"",
-        "label": {
-            "variation_count": 14,
-            "phonetic_similarity": {
-                "Light": 0.7,
-                "Medium": 0.3,
-                "Far": 0.0
-            },
-            "orthographic_similarity": {
-                "Light": 1.0,
-                "Medium": 0.0,
-                "Far": 0.0
-            },
-            "rule_percentage": 0.44,
-            "selected_rules": [
-                "replace_double_letters_with_single_letter"
-            ]
-        }
+      "query_template": "Generate exactly 5 name variations for each target identity {name}, ensuring phonetic similarity (100% Medium) and orthographic similarity (30% Light, 40% Medium, 30% Far). Approximately 28% of the total variations should follow these rule-based transformations: Replace spaces with special characters, Delete a random letter, Add or remove one vowel, Swap two adjacent letters, Transpose two adjacent letters, Change first/last letter to a similar-sounding letter.",
+      "query_label": {
+        "variation_count": 5,
+        "phonetic_similarity": {
+          "Medium": 1.0
+        },
+        "orthographic_similarity": {
+          "Light": 0.3,
+          "Medium": 0.4,
+          "Far": 0.3
+        },
+        "rule_percentage": 0.28
+      }
     }
-]
+  ]
